@@ -1,0 +1,49 @@
+{
+  "id": "ahadow-og-the-dragon-queen-dm",
+  "title": "Dragonlance: Shadow of the Dragon Queen — DM Notes",
+  "description": "Note DM, missioni e background personaggi per la campagna Dragonlance: Shadow of the Dragon Queen.",
+  "version": "0.1.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "MrTotano",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "pg-backgrounds",
+      "label": "Background PG",
+      "path": "./packs/pg-backgrounds",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "campagna",
+      "label": "Note Campagna",
+      "path": "./packs/campagna",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "campagna-completa",
+      "label": "Campagna Completa",
+      "path": "./packs/campagna-completa",
+      "type": "JournalEntry",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": " Shadow of the Dragon Queen DM",
+      "sorting": "m",
+      "packs": ["campagna", "campagna-completa", "pg-backgrounds"]
+    }
+  ],
+  "url": "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm",
+  "manifest": "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/latest/download/module.json",
+  "download": "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/download/v0.1.1/shadow-of-the-dragon-queen-dm-v0.1.1.zip"
+}
