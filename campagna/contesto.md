@@ -8,7 +8,7 @@
 - **Party:** [TODO — in attesa di giocatori]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 0 (Setup)
+- **Capitolo corrente:** 2 (Prelude to War — preludi in preparazione)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
