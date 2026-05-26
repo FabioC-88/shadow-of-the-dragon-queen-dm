@@ -39,7 +39,7 @@ Lavora con precisione: non inventare informazioni che non sono nelle fonti. Quan
 Prima di tutto, **verifica cosa è presente in fonti/**:
 
 ```
-fonti/campagna/       ← deve contenere il libro/modulo principale (es. Dragon Heist.md)
+fonti/campagna/       ← deve contenere il libro/modulo principale (es. Dragonlance_ Shadow of the Dragon Queen.md)
 fonti/missioni/       ← deve contenere i testi grezzi delle missioni secondarie
 fonti/personaggi/     ← deve contenere i file BG dei PG (es. NomeGiocatore.md)
 fonti/lore/           ← opzionale: guide ambientazione, gazetteer, note DM

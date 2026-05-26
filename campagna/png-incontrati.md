@@ -1,104 +1,286 @@
 # PNG Incontrati — Shadow of the Dragon Queen
 
-> Aggiorna dopo ogni sessione. Per ogni PNG incontrato, registra attitudine verso ogni PG.
+> Archivio di tutti i PNG. Aggiorna dopo ogni sessione.
 >
-> **Scala Attitudine:** 
+> **Scala Attitudine:**
 > - **-3 Ostile** — Nemico dichiarato, cerca di uccidere
 > - **-2 Diffidente** — Sospettoso, cooperazione difficile
 > - **-1 Sospettoso** — Cauto, attende prove
-> - **0 Neutrale** — Indifferente, transazione commerciale
+> - **0 Neutrale** — Indifferente
 > - **+1 Cordiale** — Amichevole, disposto ad aiutare
-> - **+2 Amichevole** — Amico fidato, favori volontari
+> - **+2 Amichevole** — Amico fidato
 > - **+3 Alleato** — Fedele, sacrificio di sé incluso
 
 ---
 
-## PNG Principali (Pre-Campagna)
+## PNG Capitolo 3 — When Home Burns (Vogler)
 
-### Ispin Shadowbrand (Defunto)
+### Ispin Greenshield (Defunto)
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Mercante, anello di unione del party |
-| **Motivo Incontro** | Funerale a Vogler (Cap. 2) |
-| **Note** | Deceduto all'inizio della campagna — il suo funerale è il gancio che riunisce il party |
+| **Ruolo** | Avventuriero e mercante, anello di unione del party |
+| **Prima Apparizione** | Capitolo 3 (funerale) — già morto |
+| **Affiliazione** | Indipendente; ex compagno di Becklin e Cudgel |
+| **Tratto** | Scudo verde distintivo (forse magico); amava le storie di viaggio |
+| **Note** | Il suo funerale a Vogler è il gancio che raduna il party. Ogni PG lo conobbe in modo diverso. È stato amico di Becklin Uth Viharin e Cudgel Ironsmile |
+
+---
 
 ### Becklin Uth Viharin
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Cavaliere di Solamnia, Comandante |
-| **Prima Apparizione** | Capitolo 2 (lettera d'introduzione) o Capitolo 4 (Kalaman) |
-| **Affiliazione** | Ordine di Solamnia, resistenza |
-| **Attitudine Iniziale** | +1 Cordiale (riconosce eroi) |
-| **Note** | Fonte di informazioni tattiche e alleanze |
+| **Ruolo** | Cavaliere della Corona, Comandante Thornwall Keep |
+| **Prima Apparizione** | Capitolo 3 (lettera di invito al funerale; presenza a Vogler) |
+| **Affiliazione** | Knights of Solamnia |
+| **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
+| **Attitudine Iniziale** | +1 Cordiale (chi arriva al funerale per rispetto a Ispin guadagna la sua fiducia) |
+| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa |
 
-### Ollen Nahled
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| [PG1] | +1 Cordiale | — |
+| [PG2] | +1 Cordiale | — |
+
+---
+
+### Darrett Highwater
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Comandante Wheelwatch Outpost |
-| **Prima Apparizione** | Capitolo 3 (When Home Burns) |
-| **Affiliazione** | Difesa territoriale |
-| **Attitudine Iniziale** | +1 Cordiale (gratitudine per aiuto) |
-| **Note** | Testimone diretto dell'invasione |
+| **Ruolo** | Scudiero di Becklin; aspirante cavaliere |
+| **Prima Apparizione** | Capitolo 3 (Vogler) |
+| **Affiliazione** | Knights of Solamnia |
+| **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
+| **Attitudine Iniziale** | +1 Cordiale |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri |
+
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| [PG1] | +1 Cordiale | — |
+
+---
+
+### Cudgel Ironsmile
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Capo dei mercenari Ironclad Regiment |
+| **Prima Apparizione** | Capitolo 3 (accampamento mercenari, Vogler) |
+| **Affiliazione** | Ironclad Regiment (nani mercenari) |
+| **Tratto** | Nanico, temprato dalla guerra, diretto, rispetta la forza e l'onestà |
+| **Attitudine Iniziale** | 0 Neutrale (cresce se dimostrano valore o pagano bene) |
+| **Note** | Ex compagno di Ispin. Inizialmente assoldato a Vogler; può diventare alleato nel Northern Wastes (Cap 5). Porta l'Ironclad Regiment |
+
+---
+
+### Raven Uth Vogler
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Sindaco di Vogler |
+| **Prima Apparizione** | Capitolo 3 |
+| **Affiliazione** | Vogler |
+| **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
+| **Attitudine Iniziale** | +1 Cordiale |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili |
+
+---
+
+### Bakaris Uth Estide
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Nobile solamnico in "esilio" a Vogler |
+| **Prima Apparizione** | Capitolo 3 (Vogler) |
+| **Affiliazione** | Solamnia (nobile, ma principalmente sé stesso) |
+| **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi |
+| **Attitudine Iniziale** | 0 Neutrale (si mostra cordiale ma non è fidato) |
+| **Note** | [NOTA DM — riservata] Bakaris ha ambizioni proprie che lo portano a potenziali tradimenti. Non fermatelo troppo presto — il suo arco narrativo si sviluppa nel Cap 4 a Kalaman |
+
+---
+
+### Leedara
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Spirito/fantasma elfa; sacerdotessa dell'era pre-Cataclisma |
+| **Prima Apparizione** | Capitolo 3–4 (apparizioni misteriose) |
+| **Affiliazione** | Spiriti legati a Lord Soth; la sua presenza sfida la sua maledizione |
+| **Tratto** | Eterica, dolente, determinata; odia Lord Soth per ciò che ha fatto |
+| **Attitudine Iniziale** | 0 Neutrale (misteriosa; non ostile ai PG) |
+| **Note** | [NOTA DM — riservata] Leedara è una delle spiriti che tormenta Lord Soth cantando la sua maledizione. Può fornire informazioni su Soth e sulla sua debolezza |
+
+---
+
+## PNG Capitolo 4 — Shadow of War (Kalaman)
+
+### Governor Calof Miat
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Governatore civile di Kalaman |
+| **Prima Apparizione** | Capitolo 4 |
+| **Affiliazione** | Governo di Kalaman |
+| **Tratto** | Politico pragmatico; cauto, ma non vigliacco; misura i PG prima di fidarsi |
+| **Attitudine Iniziale** | 0 Neutrale |
+| **Note** | Contrappeso politico al Marshal Vendri. Il suo appoggio è utile per risorse e permessi in città |
+
+---
+
+### Marshal Nestra Vendri
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Comandante militare di Kalaman |
+| **Prima Apparizione** | Capitolo 4 |
+| **Affiliazione** | Esercito di Kalaman |
+| **Tratto** | Diretta, esigente, rispetta i risultati sopra tutto il resto |
+| **Attitudine Iniziale** | 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci |
+| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7 |
+
+---
+
+### Wyhan
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Ex maga di magia nera (mantello nero), ora alchimista/apotecaria a Kalaman |
+| **Prima Apparizione** | Capitolo 4 (Wyhan's Apothecary) |
+| **Affiliazione** | Mages of High Sorcery (ritirata); indipendente |
+| **Tratto** | Cinica, schietta, non si fida facilmente; conosce il suo valore |
+| **Attitudine Iniziale** | -1 Sospettoso |
+| **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi" |
+
+---
+
+## PNG Capitolo 5 — The Northern Wastes
+
+### Dalamar
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Mago elfo Silvanesti in esilio; ricercatore di rovine |
+| **Prima Apparizione** | Capitolo 5 (campo elfico nel Northern Wastes) |
+| **Affiliazione** | Silvanesti (esule); Mages of High Sorcery (mantello nero) |
+| **Tratto** | Ambizioso, intelligente, gioca su più tavoli; non si fida degli altri Silvanesti |
+| **Attitudine Iniziale** | -1 Sospettoso |
+| **Note** | [NOTA DM] Dalamar è un personaggio famoso del Dragonlance lore. Ha i propri obiettivi; potrebbe aiutare i PG ma mai del tutto gratuitamente. Informazioni sulla City of Lost Names |
+
+---
+
+### Zhelsuel
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Leader della spedizione elfica nel Northern Wastes |
+| **Prima Apparizione** | Capitolo 5 (campo elfico) |
+| **Affiliazione** | House Mystic, Silvanesti (esuli) |
+| **Tratto** | Formale, orgoglioso, diffidente verso i non-elfi |
+| **Attitudine Iniziale** | -1 Sospettoso |
+| **Note** | Guida un piccolo gruppo di Silvanesti esuli che cercano un modo per riconquistare la patria. Può diventare alleato se i PG dimostrano rispetto per la cultura elvish |
+
+---
+
+### Tatina Rookledust
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Inventrice gnoma; esperta di macchinari antichi Istariesi |
+| **Prima Apparizione** | Capitolo 5 |
+| **Affiliazione** | Indipendente; alleata del party |
+| **Tratto** | Entusiasta, iper-loquace (come ogni gnomo), geniale ma caotica |
+| **Attitudine Iniziale** | +1 Cordiale |
+| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della City of Lost Names. I suoi gadget possono essere utili ma spesso danno risultati inaspettati |
+
+---
+
+## PNG Capitolo 6 — City of Lost Names
+
+### Demelin
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Archmaga della città (spirito/costrutto intrappolato) |
+| **Prima Apparizione** | Capitolo 6 (Wizard's Workshop nelle rovine) |
+| **Affiliazione** | Mages of High Sorcery — mantello rosso (neutrale) |
+| **Tratto** | Riflessiva, distaccata, custode del sapere della città |
+| **Attitudine Iniziale** | 0 Neutrale |
+| **Note** | Può fornire informazioni cruciali sulla storia della città e come fermare la riattivazione. Non è nemica ma ha le proprie priorità |
+
+---
+
+### Lohezet
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Mago di magia nera al servizio di Kansaldi — boss del Cap 6 |
+| **Prima Apparizione** | Capitolo 5–6 |
+| **Affiliazione** | Red Dragon Army (mantello nero) |
+| **Tratto** | Freddo, metodico, ossessionato dalla ricerca; crede di servire un obiettivo superiore |
+| **Attitudine Iniziale** | -3 Ostile |
+| **Note** | [NOTA DM] CR 9. Boss fight del capitolo 6. Ricerca la City of Lost Names per riattivarne la magia volante e consegnarla a Kansaldi. Porta con sé Belephaion |
+
+---
+
+### Belephaion
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Prete di Takhisis; consigliere religioso di Kansaldi |
+| **Prima Apparizione** | Capitolo 6 (City of Lost Names) |
+| **Affiliazione** | Red Dragon Army; Church of Takhisis |
+| **Tratto** | Zelote fanatico, crudele, convinto di compiere la volontà divina |
+| **Attitudine Iniziale** | -3 Ostile |
+| **Note** | CR 10. Accompagna Lohezet. Usa spirit guardians e thunderwave. Difficile da isolare in combattimento |
+
+---
+
+## PNG Capitolo 7 — Siege of Kalaman
+
+### Kansaldi Fire-Eyes ⚔️ BOSS FINALE
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Dragon Highmaster — Comandante dell'offensiva Red Dragon Army su Solamnia |
+| **Prima Apparizione** | Capitolo 7 (menzioni già dal Cap 2; scontro fisico nel Cap 7) |
+| **Affiliazione** | Red Dragon Army (su ordini di Verminaard) |
+| **Tratto** | Fanatica, tatticamante brillante, parla raramente, agisce sempre |
+| **Attitudine Iniziale** | -3 Ostile |
+| **Note** | CR 16. Occhio sinistro sostituito con un rubino magico (occhio di fuoco). 3 azioni leggendarie, 3 resistenze. Arena: cuore della Flying Citadel |
+
+---
+
+### Red Ruin
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Asso pilota dragonnel dei Dragon Army |
+| **Prima Apparizione** | Capitolo 7 (durante l'assedio e sulla Flying Citadel) |
+| **Affiliazione** | Red Dragon Army |
+| **Tratto** | Silenzioso, mortale, preferisce parlare con le azioni aeree |
+| **Attitudine Iniziale** | -3 Ostile |
+| **Note** | CR 8. Combat aereo su dragonnel. Attacca in picchiata. Immunità al fuoco |
+
+---
+
+## Lord Soth — Presenza Ricorrente (Cap 3–7)
+
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Death Knight — minaccia sovrannaturale ricorrente |
+| **Prima Apparizione** | Capitolo 3 (visione/presenza); Cap 4 (attacco Kalaman) |
+| **Affiliazione** | Coopera con Dragon Army su ordine della Dragon Queen; propria agenda |
+| **Tratto** | Imponente, maledetto, inesorabile; non porta mai la sconfitta ai livelli tipici della campagna |
+| **Attitudine Iniziale** | -3 Ostile |
+| **Note** | [NOTA DM] CR 19 — NON è pensato per essere ucciso in combattimento. È una forza della narrativa. I PG possono rimuoverlo dalla servitù della Dragon Queen attraverso la storia, non attraverso lo scontro. Usa Leedara e la sua maledizione come strumento narrativo |
 
 ---
 
 ## Template per Nuovi PNG
 
-Copia questo template per ogni PNG nuovo incontrato in una sessione:
-
+```
 ### [Nome PNG]
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | [Descrizione rapido] |
-| **Prima Apparizione** | Sessione X, Capitolo Y, [Luogo] |
+| **Ruolo** | [Descrizione rapida] |
+| **Prima Apparizione** | Sessione X, Cap Y, [Luogo] |
 | **Affiliazione** | [Fazione/Gruppo] |
 | **Tratto Caratteristico** | [Ciò che lo rende memorabile] |
+| **Attitudine Iniziale** | [Valore da scala] |
+| **Note** | [Appunti narrativi; [NOTA DM] per segreti] |
 
-#### Attitudine PG (Aggiorna dopo ogni incontro)
+#### Attitudine PG (aggiorna dopo ogni incontro)
 | PG | Attitudine | Note |
 |----|-----------|------|
-| [PG1] | 0 Neutrale | [Note brevi] |
-| [PG2] | 0 Neutrale | [Note brevi] |
-
-#### Note Narrative
-[Appunti liberi su motivazioni, segreti, evoluzioni relazionali]
+| [PG1] | 0 Neutrale | — |
+```
 
 ---
 
-## Registro PNG per Capitolo
-
-### Capitolo 2: Prelude to War
-**PNG da incontrare:**
-- Becklin Uth Viharin (lettera/comparsa)
-- PNG di Vogler (generico)
-
-### Capitolo 3: When Home Burns
-**PNG da incontrare:**
-- Ollen Nahled (Wheelwatch Outpost)
-- Civili in fuga
-
-### Capitolo 4: Shadow of War
-**PNG da incontrare:**
-- Kalaman City Guard (generico)
-- Commercianti locali (generico)
-- Possibile contatto di Solamnia
-
-### Capitolo 5: The Northern Wastes
-**PNG da incontrare:**
-- Lohezet (mago nero, nemico)
-- Lord Soth (morte cavaliere, nemico)
-- Sopravvissuti misteriosi
-
-### Capitolo 6: City of Lost Names
-**PNG da incontrare:**
-- Belephaion (consigliere militare)
-- PNG misteriosi del luogo
-
-### Capitolo 7: Siege of Kalaman
-**PNG da incontrare:**
-- Kansaldi Fire-Eyes (boss finale)
-- Alleati dell'ultimo momento
-
----
-
-> **Prossimo Passo:** Aggiorna questo file dopo ogni sessione con i PNG incontrati e le loro attitudini.
+> **Prossimo passo:** Aggiorna dopo ogni sessione con i PNG incontrati e le loro attitudini verso ogni PG.

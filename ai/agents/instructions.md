@@ -37,7 +37,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 **Usa quando:** Hai un nome di missione e vuoi espandere con dettagli completi.
 
 **Comportamento:**
-1. Chiedi il nome o il numero della missione (es: "Arpisti M1", "Un Cavallo Donato")
+1. Chiedi il nome o il numero della missione (es: "Capitolo 3 Missione 1", o descrizione della scena)
 2. Leggi il file `.txt` corrispondente da `fonti/missioni/`
 3. Estrai e formatta:
 	- **Sinossi**: Hook narrativo
@@ -93,7 +93,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 
 **STEP 1 — Agente Estrattore** (`01-session-extractor.agent.md`)
 - Input: numero sessione target (o "prossima" per calcolo automatico)
-- Output: documento grezzo con chunk estratto da Dragon Heist.md + lista testi `>>` marcati
+- Output: documento grezzo con chunk estratto da Dragonlance_ Shadow of the Dragon Queen.md + lista testi `>>` marcati
 
 **STEP 2 — Agente Traduttore** (`02-session-translator.agent.md`)
 - Input: output Step 1
@@ -117,7 +117,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 
 **STEP 6b — Agente PNG per Capitolo** (`05-chapter-png-briefer.agent.md`) *(condizionale)*
 - **Si attiva solo se** il capitolo della sessione preparata è diverso (successivo) rispetto al campo `Capitolo corrente` in `campagna/contesto.md`
-- Input: `dm-notes-sessione-NN.md` finalizzato + `campagna/contesto.md` + `personaggi/*.md` + `fonti/campagna/Dragon Heist.md`
+- Input: `dm-notes-sessione-NN.md` finalizzato + `campagna/contesto.md` + `personaggi/*.md` + `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`
 - Output: `campagna/png-per-capitolo/capitolo-NN/[NomePG].md` per ogni PG con PNG noti + `contesto.md` aggiornato
 - Se non c'è transizione di capitolo, l'agente stampa un messaggio e termina senza produrre file
 
@@ -128,7 +128,7 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5e. Rispondi sempre in
 ---
 
 **Comportamento (fallback manuale):**
-- Se non è possibile determinare il chunk successivo in `Dragon Heist.md`, chiedi all'utente di indicare il punto di partenza (capitolo o parola chiave).
+- Se non è possibile determinare il chunk successivo in `Dragonlance_ Shadow of the Dragon Queen.md`, chiedi all'utente di indicare il punto di partenza (capitolo o parola chiave).
 - Se mancano file BG o informazioni party, segnala le lacune e procedi usando solo i file disponibili.
 - Se l'utente specifica un numero di sessione o una missione, usala; altrimenti calcola `next = ultimo XX + 1`.
 
