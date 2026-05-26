@@ -1,196 +1,138 @@
-# 🗺️ Waterdeep: Dragon Heist — Wiki Centralizzata
+# Dragonlance: Shadow of the Dragon Queen — Wiki DM
 
-**Campagna:** Dragon Heist (Estate) | **Villain:** Cassalanters | **Livello Partenza:** 1  
-**Stato:** In preparazione — Prima sessione non ancora giocata
+**Campagna:** Shadow of the Dragon Queen | **Villain Finale:** Kansaldi Fire-Eyes | **Livello Partenza:** 1  
+**Mondo:** Krynn — Anno 351 AC (After Cataclysm) | **Stato:** In preparazione
 
 ---
 
-## 📌 Accesso Rapido
+## Accesso Rapido
 
 | **Categorie** | **Link** |
 |---|---|
-| **Party & Personaggi** | [👥 Stato Party](Campagna/party.md) • [🎭 PNG Incontrati](Campagna/png-incontrati.md) • [📋 Background PG](PG-Background/README.md) |
-| **Fazioni** | [⚔️ Fazioni & Affiliazioni](Campagna/fazioni.md) • [🎪 Missioni per Fazione](#-missioni-secondarie) |
-| **Missioni Secondarie** | [📜 Track Missioni](Campagna/missioni-secondarie.md) • [🎯 Arpisti](#-arpisti) • [✊ Force Grey](#-force-grey) • [🐍 Zentharim](#-zentharim) |
-| **Lore & Mondo** | [🌆 Waterdeep: Quartieri](Lore/Waterdeep-Quartieri.md) • [⚙️ Quick Reference](QUICK_REF.md) |
-| **Sessioni** | [📓 Note Sessioni](Campagna/sessioni/) |
+| **Party & Personaggi** | [Party](campagna/party.md) · [PNG Incontrati](campagna/png-incontrati.md) · [Rapporti](campagna/rapporti.md) |
+| **Fazioni** | [Fazioni](campagna/fazioni.md) |
+| **Lore & Contesto** | [Contesto Campagna](campagna/contesto.md) · [Quick Reference](QUICK_REF.md) |
+| **Sessioni** | [Note Sessioni](campagna/sessioni/) · [Recap](campagna/sessioni/recaps/) |
+| **Luoghi Visitati** | [Compendio Luoghi](campagna/luoghi-visitati/) |
+| **PNG per Capitolo** | [Capitolo 01 — Preludio](campagna/png-per-capitolo/capitolo-01/) · [Cap 02](campagna/png-per-capitolo/capitolo-02/) · [Cap 03](campagna/png-per-capitolo/capitolo-03/) · [Cap 04](campagna/png-per-capitolo/capitolo-04/) · [Cap 05](campagna/png-per-capitolo/capitolo-05/) · [Cap 06](campagna/png-per-capitolo/capitolo-06/) |
 
 ---
 
-## 🎪 Missioni Secondarie
+## La Guerra di Krynn
 
-### 🎭 **Arpisti** — Referente: Mirt il Cambiavalute
+Il mondo di Krynn sta vivendo la **Guerra della Lancia**. Trecento anni dopo il Cataclisma, la Regina Dragone **Takhisis** è tornata con i suoi Dragon Armies per conquistare Ansalon. Il **Red Dragon Army** guidato da **Dragon Highmaster Kansaldi Fire-Eyes** ha puntato le sue forze verso **Solamnia**, l'ultima grande resistenza a ovest.
 
-| # | Titolo | Lv | Tipo | File | Stato |
-|---|--------|-----|------|------|-------|
-| 1 | Un Cavallo Donato | 2 | Spionaggio | [→](Missioni/Arpisti/M1-UnCavalloDonato.md) | Pianificata |
-| 2 | Disinfestazione | 3 | Investigazione + Combattimento | [→](Missioni/Arpisti/M2-Disinfestazione.md) | Pianificata |
-| 3 | Benvenuti in Famiglia | 4 | Valutazione | [→](Missioni/Arpisti/M3-BeneventutiInFamiglia.md) | Pianificata |
-| 4 | Velo Alzato | 4 | Infiltrazione | [→](Missioni/Arpisti/M4-VeloAlzato.md) | Pianificata |
-
-**Arco:** Rete Arpisti vs Zhentarim/Xanathar. **Tema:** Proteggere l'equilibrio politico di Waterdeep.
+I personaggi sono eroi travolti dall'avanzata nemica, la cui storia inizia con il funerale di un vecchio amico nel piccolo villaggio di **Vogler**.
 
 ---
 
-### ✊ **Force Grey** — Referente: Vajra Safahr (il Bastone Nero)
+## Struttura della Campagna
 
-| # | Titolo | Lv | Tipo | File | Stato |
-|---|--------|-----|------|------|-------|
-| 1 | Il Carico del Fondatore | 2 | Investigazione + Combattimento | [→](Missioni/ForceGrey/M1-IlCaricoDelFondatore.md) | Pianificata |
-| 2 | Non è Tutto Oro Quel che Luccica | 3 | Diplomazia Sott'acqua | [→](Missioni/ForceGrey/M2-NonETuttoOro.md) | Pianificata |
-| 3 | Crimini di Pensiero | 4 | Sorveglianza Prolungata | [→](Missioni/ForceGrey/M3-CriminiDiPensiero.md) | Pianificata |
-| 4 | Cose Terribili da Sprecare | 5 | Assassinio (Boss) | [→](Missioni/ForceGrey/M4-CoseTerribili.md) | Pianificata |
-
-**Arco:** Cascata di minacce culmina con Nihiloor il Mind Flayer. **Tema:** Le Mani Grigie proteggono Waterdeep dalle minacce più scure.
-
----
-
-### 🐍 **Zentharim** — Referente: Davil Starsong (Zhentarim)
-
-| # | Titolo | Lv | Tipo | File | Stato |
-|---|--------|-----|------|------|-------|
-| 1 | Un Brutto Momento | 2–3 | Caccia all'Assassino | [→](Missioni/Zentharim/M1-UnBruttoMomento.md) | Pianificata |
-| 2 | Tieni il Resto | 3 | Consegna + Intrigo | [→](Missioni/Zentharim/M2-TieniIlResto.md) | Pianificata |
-| 3 | Corri, Dasher! | 4 | Ricerca | [→](Missioni/Zentharim/M3-CorriDasher.md) | Pianificata |
-| 4 | Il Sangue del Patto | 5 | Eliminazione | [→](Missioni/Zentharim/M4-SangueDeiPatto.md) | Pianificata |
-
-**Arco:** Tradimenti e vendette tra Zhentarim, Manshoon, e alleati. **Tema:** Non tutti i nemici sono nemici.
+| Capitolo | Titolo | Livelli | Ambientazione | Villain Chiave |
+|---------|--------|---------|---------------|----------------|
+| **Cap 2** | Prelude to War | Lv 1 | Viaggio verso Vogler | Draconiani (introduzione) |
+| **Cap 3** | When Home Burns | Lv 1→3 | Vogler | Red Dragon Army, Lord Soth (primo) |
+| **Cap 4** | Shadow of War | Lv 3→5 | Kalaman | Lord Soth (attacco città) |
+| **Cap 5** | The Northern Wastes | Lv 5→8 | Northern Wastes | Lohezet, Lord Soth |
+| **Cap 6** | City of Lost Names | Lv 8→10 | Onyari (rovine) | Belephaion, Lohezet (boss), Lord Soth |
+| **Cap 7** | Siege of Kalaman | Lv 10→11 | Kalaman + Flying Citadel | Kansaldi Fire-Eyes (boss finale) |
 
 ---
 
-## 👥 Personaggi Chiave
+## Party (TBD)
 
-### Party Principale
+> Il party non è ancora stato definito. Aggiorna questa sezione dopo la prima sessione.
 
-| Giocatore | PG | Classe | Fazione | Gancio Personale |
-|-----------|-----|--------|---------|-----------------|
-| Seba | **Vorador Thraxas** | Dragonide Warlock (Dendar) | Force Grey / Ordine Magisti | Mentore Brottor Deepdelver scomparso |
-| Mirko | **Razak Kendal** | Umano Monaco (Monastero Rosa Gialla) | Force Grey | Latore del presagio di Hlam |
-| Berto | **Aelar Moonwhisper** | Elfo stelle Bardo | Arpisti | Familiare Maestro Bec; Patrono Trobbio |
-| Eric | TBD | — | — | Da definire |
-| Gabri | TBD | — | — | Da definire |
-| Silvia *(ospite)* | **Barnabus "Barney" Reed** | Umano Guerriero / Guardia | Indipendente | Sergente Guardia; caccia Urstul Floxin |
+| Giocatore | Nome PG | Razza / Classe | Background | Gancio con Ispin Greenshield |
+|-----------|---------|----------------|------------|------------------------------|
+| — | TBD | TBD | TBD | TBD |
+| — | TBD | TBD | TBD | TBD |
+| — | TBD | TBD | TBD | TBD |
+| — | TBD | TBD | TBD | TBD |
 
-👉 [Vai al Profilo Completo Party](Campagna/party.md)
+**Connessione party:** Tutti i PG conoscevano **Ispin Greenshield**, avventuriero ormai ritirato a Vogler, e sono stati invitati al suo funerale dalla cavaliera **Becklin Uth Viharin**.
 
 ---
 
-### PNG Cruciali
+## PNG Chiave — Panoramica
 
-- **[Mirt il Cambiavalute](Campagna/png-incontrati.md#mirt-il-cambiavalute)** — Referente Arpisti; ex avventuriero
-- **[Vajra Safahr](Campagna/png-incontrati.md#vajra-safahr-il-bastone-nero)** — Arcimaga; capo Force Grey
-- **[Davil Starsong](Campagna/png-incontrati.md#davil-starsong)** — Referente Zhentarim; pragmatico
-- **[Victoro & Ammalia Cassalanter](Campagna/png-incontrati.md#victoro-e-ammalia-cassalanter)** — Villain principale (nobile/cultista Asmodeo)
-- **[Hlam](Campagna/png-incontrati.md#hlam)** — Monaco del Monte Waterdeep; oracolo
+### Antagonisti
 
-👉 [Lista Completa PNG](Campagna/png-incontrati.md)
+| Nome | Ruolo | Fazione | Prima Apparizione |
+|------|-------|---------|------------------|
+| **Kansaldi Fire-Eyes** | Dragon Highmaster — Boss Finale | Red Dragon Army | Cap 7 (menzioni dal Cap 2) |
+| **Lord Soth** | Death Knight — Nemico sovrannaturale | Red Dragon Army / proprio | Cap 3–4 (presenza ricorrente) |
+| **Lohezet** | Mago di magia nera | Red Dragon Army | Cap 5–6 |
+| **Belephaion** | Consigliere/prete di Takhisis | Red Dragon Army | Cap 6 |
+| **Red Ruin** | Asso dragonnel rider | Red Dragon Army | Cap 7 |
 
----
+### Alleati
 
-## 🌆 Waterdeep: Orientamento Geografico
-
-| Quartiere | Carattere | Chiave Campagna |
-|-----------|-----------|------------------|
-| **Castle Ward** | Governo, militare | Torre del Bastone Nero (Force Grey), Palazzo di Waterdeep |
-| **Trades Ward** | Shopping, gilde | Libreria Curiosity & Satisfaction (Arpisti M2), Alchimia Weirdbottle |
-| **Dock Ward** | Porto, pericoloso | Moli del Salgemma, Portale Sbadigliante (Zhentarim base) |
-| **Sea Ward** | Ricco, nobiltà | Villa Cassalanter (villain), Campo del Trionfo |
-| **North Ward** | Residenziale | Trollskull Alley (base party dal Cap. 2) |
-| **Southern Ward** | Multiculturale | Vicolo dei Calderai, Buco nel Muro (Zentharim M3) |
-| **City of the Dead** | Cimitero pubblico | Mausolei, fuori dalle mura |
-
-👉 [Mappa Dettagliata & Locations](Lore/Waterdeep-Quartieri.md)
-
----
-
-## 📊 Quick Reference
-
-- **[Tabella PNG](QUICK_REF.md#-png-chiave--ruolo--fazione)** — Ruoli, affiliation, First appearance
-- **[Tiri Frequenti](QUICK_REF.md#-tiri-frequenti)** — CD comuni, caratteristiche test
-- **[Timeline Campagna](QUICK_REF.md#-principali-eventi-timeline)** — Scadenze in-game, eventi stagionali
-- **[Ricompense Missioni](QUICK_REF.md#-ricompense)** — XP, Oro, Fama, Oggetti
-
-👉 [Accedi al Quick Reference Completo](QUICK_REF.md)
+| Nome | Ruolo | Fazione | Prima Apparizione |
+|------|-------|---------|------------------|
+| **Becklin Uth Viharin** | Cavaliera di Solamnia | Knights of Solamnia | Cap 3 |
+| **Darrett Highwater** | Scudiero di Becklin | Knights of Solamnia | Cap 3 (ricorrente) |
+| **Cudgel Ironsmile** | Capo mercenari nanico | Ironclad Regiment | Cap 3 (ricorrente) |
+| **Raven Uth Vogler** | Sindaco di Vogler | Vogler | Cap 3 |
+| **Governor Calof Miat** | Governatore di Kalaman | Governo Kalaman | Cap 4 |
+| **Marshal Nestra Vendri** | Comandante militare | Esercito Kalaman | Cap 4 |
+| **Wyhan** | Maga/alchimista | Mages of High Sorcery (ex) | Cap 4 |
+| **Tatina Rookledust** | Inventrice gnoma | Alleata independente | Cap 5 |
 
 ---
 
-## 📓 Sessioni
+## Luoghi Principali
 
-- [Sessione 1 (non ancora giocata)](Campagna/sessioni/)
-- [Sessione 2 (da pianificare)](Campagna/sessioni/)
-
-👉 [Visualizza Tutte le Note Sessioni](Campagna/sessioni/)
-
----
-
-## 🔀 Come Usare Questa Wiki
-
-1. **Navigazione Semplice:** Clicca sui link per passare da una sezione all'altra
-2. **Ricerca Veloce:** Usa Ctrl+F per cercare all'interno di ogni pagina
-3. **Full-Text Search:** Ctrl+Shift+F per cercare termini in tutta la wiki
-4. **Wikilinks Interne:** Tutti i file markdown sono interconnessi — clicca su nomi e fazioni per esplorare
+| Luogo | Tipo | Capitolo | Note |
+|-------|------|---------|------|
+| **Vogler** | Villaggio rurale | Cap 3 | Hub iniziale; funerale di Ispin, Festival del Martin Pescatore |
+| **Kalaman** | Città portuale | Cap 4–7 | "Faro dell'Est"; hub principale della campagna |
+| **Northern Wastes** | Regione selvaggia | Cap 5 | Terre pericolose a nord di Kalaman; sede della città perduta |
+| **City of Lost Names (Onyari)** | Rovine antiche | Cap 6 | Città istariese che volava; Dragon Army la vuole riattivare |
+| **Flying Citadel** | Fortezza volante | Cap 7 | Tempio di Takhisis trasformato in arma da guerra; arena finale |
 
 ---
 
-## 📂 Struttura File
+## Fazioni
 
-```
-📁 Dragon Heist/Documenti/
-├── 📄 INDEX.md (sei qui)
-├── 📄 QUICK_REF.md (reference rapido)
-├── 📄 AGENTS.md (configurazione assistente DM)
-│
-├── 📁 Campagna/
-│   ├── party.md (stato party)
-│   ├── fazioni.md (posizione fazioni)
-│   ├── missioni-secondarie.md (tracciamento)
-│   ├── png-incontrati.md (DB PNG)
-│   └── sessioni/ (note sessione-by-sessione)
-│
-├── 📁 Missioni/
-│   ├── 📁 Arpisti/ (4 missioni)
-│   ├── 📁 ForceGrey/ (4 missioni)
-│   └── 📁 Zentharim/ (4 missioni)
-│
-├── 📁 Lore/
-│   ├── Waterdeep-Quartieri.md
-│   └── Forgotten-Realms-Sword-Coast.md (coming soon)
-│
-├── 📁 PG-Background/
-│   ├── Vorador-Thraxas.md
-│   ├── Razak-Kendal.md
-│   ├── Aelar-Moonwhisper.md
-│   ├── Barnabus-Reed.md
-│   └── README.md (indice)
-│
-├── 📁 packs/ (Foundry VTT LevelDB compilati — generati da npm run build)
-│
-└── 📂 Fonti-Originali/ (file di riferimento originali)
-    ├── Dragon Heist.md (fonte ufficiale campagna)
-    ├── AGENTS.md (configurazione assistente DM)
-    ├── Volo guide to waterdeep.txt (guida città)
-    ├── Guida alla costa della spada.txt (lore regionale)
-    ├── Arpisti_Missione*.txt (4 file)
-    ├── ForceGrey_Missione*.txt (4 file)
-    ├── Zentharim_Missione*.txt (4 file)
-    ├── BG*.txt (background originali PG)
-    └── Dungeon of the mad mage.odt (riferimento extra)
-```
+| Fazione | Posizione | Contatto PG | Descrizione |
+|---------|-----------|------------|-------------|
+| **Red Dragon Army** | Nemica | — | Forza invasrice di Takhisis; obiettivo principale da fermare |
+| **Knights of Solamnia** | Alleata | Becklin Uth Viharin | Cavalieri d'onore, resistenza organizzata |
+| **City of Kalaman** | Alleata | Marshal Vendri, Gov. Miat | Governo e difensori militari di Kalaman |
+| **Mages of High Sorcery** | Neutrale | Wyhan | Ordine di maghi, non schierati ma potenzialmente utili |
+| **Ironclad Regiment** | Neutrale/Alleata | Cudgel Ironsmile | Mercenari nani, ex compagni di Ispin |
 
 ---
 
-## ⚡ Aggiornamenti
+## Cronologia della Guerra (351 AC)
 
-All'inizio di ogni sessione:
-- ✅ Aggiorna `Campagna/party.md` (livelli, PF, condizioni)
-- ✅ Aggiorna `Campagna/missioni-secondarie.md` (stato missioni)
-- ✅ Aggiungi nota sessione in `Campagna/sessioni/sessione-XX.md`
-
-Quando cambi un file `.txt`:
-- ✅ Aggiorna il corrispondente file `.md` in `Missioni/`
+| Data | Evento | Rilevanza |
+|------|--------|-----------|
+| Primavera 351 AC | I personaggi arrivano a Vogler per il funerale di Ispin | Inizio avventura (Cap 3) |
+| Primavera 351 AC | Il Red Dragon Army attacca Vogler | Fuga da Vogler (Cap 3) |
+| Estate 351 AC | I personaggi arrivano a Kalaman | Inizio Cap 4 |
+| Estate 351 AC | Lord Soth attacca Kalaman | Evento chiave Cap 4 |
+| Estate 351 AC | Esplorazione Northern Wastes | Cap 5 |
+| Tarda estate 351 AC | Infiltrazione City of Lost Names | Cap 6 |
+| Tarda estate 351 AC | Assedio finale di Kalaman + Flying Citadel | Cap 7 — Finale |
 
 ---
 
-**Ultima modifica:** 7 Aprile 2026  
-**Versione Wiki:** 1.0 (wiki-first interconnessa)
+## Quick Reference
 
+→ [Vedi QUICK_REF.md](QUICK_REF.md) per: tabella PNG completa, CD comuni, incontri casuali Dragon Army, stat block nemici chiave.
+
+---
+
+## Come Usare Questa Wiki
+
+1. **Pre-sessione:** Leggi `campagna/contesto.md` + `campagna/png-per-capitolo/capitolo-NN/` per prepararti
+2. **Durante la sessione:** `QUICK_REF.md` aperto sul lato — tabelle veloci, CD, stat block
+3. **Post-sessione:** Aggiorna `party.md`, `png-incontrati.md`, `rapporti.md`; crea recap in `campagna/sessioni/recaps/`
+4. **Pipeline AI:** Usa `/aggiorna-sessione N` per orchestrare gli agenti automaticamente
+
+---
+
+**Ultima modifica:** 2026-05-26  
+**Versione Wiki:** 1.0 (setup DSotDQ)

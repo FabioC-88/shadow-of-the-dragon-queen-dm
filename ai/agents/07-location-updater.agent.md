@@ -117,22 +117,22 @@ Note storiche, referenze, o contesto.
 ```markdown
 # Il Portale Spalancato
 
-**Quartiere/Zona**: Dock Ward, Waterdeep  
+**Zona**: Vogler — Villaggio sul fiume Vingaard  
 **Sessioni Visitate**: S1  
-**Descrizione**: Celebre taverna leggendaria. Hub principale del party.
+**Descrizione**: Locanda del villaggio. Hub iniziale del party per il funerale di Ispin.
 
 ## PNG Incontrati
 
-- Durnan (proprietario, neutrale-rispettoso)
-- Volo Geddarm (quest-giver, amichevole)
+- Raven Uth Vogler (sindaco, cordiale)
+- Becklin Uth Viharin (cavaliera, cordiale)
 
 ## Eventi Importanti
 
-- [S1] Il party ha combattuto contro banditi Xanathar e un troll
+- [S1] Il party si è riunito qui per il funerale di Ispin Greenshield
 
 ## Note Aggiuntive
 
-Luogo cardine della campagna. *Fonte: Dragon Heist Cap. 1*.
+Luogo cardine del capitolo 3. *Fonte: DSotDQ Cap. 3*.
 ```
 
 **Salva come**: `campagna/luoghi-visitati/NN-nome-slug.md` (sostituisci NN con il numero sequenziale)
@@ -239,8 +239,8 @@ Prima di cedere il controllo a git-procedures:
 ### Conflitti con altre fazioni/missioni
 
 Se un evento di una missione fazione accade in un luogo, registra l'evento nel compendio:
-- ✅ "[S3] Il party incontra Mirt degli Arpisti al Teatro Cantante della Luce (Missione M1)"
-- ✅ "[S4] Il party recupera Maxeene per gli Arpisti presso il Magazzino Zhentarim (Missione M1)"
+- ✅ "[S3] Il party incontra Marshal Vendri a Castle Kalaman e viene reclutato"
+- ✅ "[S4] Il party affronta pattuglie Dragon Army alla Trade Gate"
 
 Non esitare ad aggregare info multi-fonte per evento più ricco di contesto.
 

@@ -49,7 +49,7 @@ Esegui ogni controllo nell'ordine indicato. Per ogni problema trovato, **applica
 
 Il file deve avere esattamente questa struttura:
 
-- [ ] Header con: fonte primaria, sezione Dragon Heist.md, livello party, XP accumulati, obiettivo sessione, durata stimata
+- [ ] Header con: fonte primaria, sezione Dragonlance_ Shadow of the Dragon Queen.md, livello party, XP accumulati, obiettivo sessione, durata stimata
 - [ ] Sezione `🎬 SETUP INIZIALE` con apertura in-character
 - [ ] Fasi numerate con durata stimata (totale: ~2h30m)
 - [ ] Ogni fase con: titolo, descrizione, meccaniche (CD, tiri), stat block per encounter
@@ -104,7 +104,7 @@ Per ogni PNG presente nella sessione:
 
 Per ogni stat block presente:
 
-- [ ] I valori sono coerenti con Dragon Heist.md o con le fonti D&D 5e standard?
+- [ ] I valori sono coerenti con Dragonlance_ Shadow of the Dragon Queen.md o con le fonti D&D 5e standard?
 - [ ] CR e XP sono indicati?
 - [ ] Le azioni speciali sono descritte in modo utilizzabile al tavolo?
 

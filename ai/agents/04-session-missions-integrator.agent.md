@@ -7,9 +7,12 @@ prev_agent: 03-session-pc-integrator.agent.md
 next_agent: 02-session-translator.agent.md (re-invoke come Step 5)
 
 description: |
-  Questo agente integra le missioni secondarie delle tre fazioni (Arpisti, Force Grey, Zentharim)
-  nella sessione preparata, aggiungendo hook di ingaggio, trigger di contatto e scene di collegamento.
+  Questo agente integra le missioni secondarie attive nella sessione preparata, aggiungendo hook
+  di ingaggio, trigger di contatto e scene di collegamento.
   Usa esclusivamente il materiale dei file esistenti — non inventa missioni o contenuti.
+  NOTA: per Shadow of the Dragon Queen non sono previste missioni secondarie strutturate;
+  questo agente leggerà campagna/missioni-secondarie.md e salterà automaticamente se non ci sono
+  missioni In corso o Pianificate.
 
 when_to_use: |
   - Step 4 della pipeline /prep-sessione (input: output Agente 3).
@@ -51,7 +54,7 @@ Per ogni missione identificata in Step 1, leggi:
 Estrai da ciascuno:
 - **Hook di ingaggio:** come la fazione contatta il party? Chi li avvicina? Dove?
 - **Trigger narrativo:** c'è un evento nella sessione attuale che potrebbe naturalmente far emergere l'hook?
-- **PNG di contatto:** chi rappresenta la fazione? (Mirt per Arpisti, Vajra per Force Grey, Davil/Yagra per Zentharim)
+- **PNG di contatto:** chi rappresenta la fazione? (leggi da campagna/fazioni.md)
 - **Prerequisiti:** la missione ha dipendenze narrative da missioni precedenti?
 
 ### Step 3 — Trova il punto di integrazione nel draft

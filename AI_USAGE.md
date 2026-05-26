@@ -66,4 +66,4 @@ Avviare una nuova campagna
 2. Usa `/setup-campagna` in Copilot Chat → invoca `00-campaign-setup.agent.md`
 3. L'agente intervista il DM e genera tutti i file strutturati
 
-Per la campagna corrente (Dragon Heist), i file sono già presenti.
+Per la campagna corrente (Shadow of the Dragon Queen), i file sono già presenti in `campagna/`.

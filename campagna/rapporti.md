@@ -1,32 +1,66 @@
-# Rapporti PG-PNG — Shadow of the Dragon Queen
+# Rapporti — Shadow of the Dragon Queen
 
-> Note qualitative sulle relazioni tra PG e PNG. Aggiorna dopo eventi significativi.
-> Per i valori numerici, usa [campagna/png-incontrati.md](png-incontrati.md).
-
----
-
-## Rapporti Primari (Capitolo 2-3)
-
-[TODO — Da compilare quando il party inizia il gioco]
+> Tracking qualitativo delle relazioni tra PG, PNG e fazioni.
+> Per i valori numerici vedi [png-incontrati.md](png-incontrati.md).
+> Aggiorna dopo ogni evento significativo.
 
 ---
 
-## Rapporti Secondari (Capitolo 4-6)
+## PG ↔ PNG
 
-[TODO — Da compilare quando il party progredisce]
-
----
-
-## Rapporti Cruciali (Capitolo 7 - Assedio)
-
-[TODO — Da compilare quando il party si avvicina al finale]
+| PG | PNG | Relazione | Note |
+|----|-----|-----------|------|
+| [Tutti] | Ispin Greenshield | +3 Alleato (defunto) | La sua morte è il catalizzatore; il suo ricordo è un'ancora emotiva |
+| [PG1] | TBD | — | — |
+| [PG2] | TBD | — | — |
 
 ---
 
-## Note Narrative Importanti
+## PG ↔ Fazioni
 
-[Qui vanno note su sviluppi relazionali significativi, tradimenti, alleanze improvvise, morte di PNG importanti, ecc.]
+| PG | Fazione | Status | Note |
+|----|---------|--------|------|
+| [Tutti] | Red Dragon Army | Nemici | Obiettivo: fermare l'invasione |
+| [Tutti] | Esercito di Kalaman | TBD → Alleati | Si costruisce nel Cap 4 |
+| [Tutti] | Knights of Solamnia | TBD → Alleati | Si costruisce nel Cap 3 con Becklin |
 
 ---
 
-> Campagna non ancora iniziata. Questo file sarà attivo dal Capitolo 2 in poi.
+## PNG ↔ PNG (Relazioni Importanti da Ricordare)
+
+| PNG A | PNG B | Relazione | Note |
+|-------|-------|-----------|------|
+| Becklin Uth Viharin | Ispin Greenshield | Ex compagna d'avventura | La sua morte pesa molto su Becklin |
+| Cudgel Ironsmile | Ispin Greenshield | Ex compagno d'avventura | Rapporto di lunga data |
+| Kansaldi Fire-Eyes | Lord Soth | Cooperazione forzata | Soth rispetta solo la Dragon Queen; sopporta Kansaldi |
+| Lohezet | Kansaldi Fire-Eyes | Subordinato → Capo | Kansaldi gli ha assegnato la missione della City of Lost Names |
+| Belephaion | Lohezet | Alleati | Co-guidano la missione sulla City of Lost Names |
+| Leedara | Lord Soth | Antagonismo spirituale | Le spiriti tormentano Soth cantando la sua maledizione |
+| Wyhan | Mages of High Sorcery | Ex membro (mantello nero, ritirata) | Non ama essere associata all'Ordine attivamente |
+| Dalamar | Mages of High Sorcery | Membro attivo (mantello nero) | Usa l'Ordine per i propri fini |
+
+---
+
+## Rapporti per Capitolo (aggiorna man mano)
+
+### Capitolo 01 (Preludio — Cap 2 libro)
+[TODO — da compilare durante le sessioni]
+
+### Capitolo 02 (Vogler — Cap 3 libro)
+[TODO — da compilare durante le sessioni]
+
+### Capitolo 03 (Kalaman — Cap 4 libro)
+[TODO — da compilare durante le sessioni]
+
+### Capitolo 04 (Northern Wastes — Cap 5 libro)
+[TODO — da compilare durante le sessioni]
+
+### Capitolo 05 (City of Lost Names — Cap 6 libro)
+[TODO — da compilare durante le sessioni]
+
+### Capitolo 06 (Siege of Kalaman — Cap 7 libro)
+[TODO — da compilare durante le sessioni]
+
+---
+
+> Campagna non ancora iniziata. Questo file diventa attivo dalla prima sessione.

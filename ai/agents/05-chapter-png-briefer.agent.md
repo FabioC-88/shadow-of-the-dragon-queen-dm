@@ -52,7 +52,7 @@ Esegui questo controllo PRIMA di qualsiasi altra operazione.
 
 ## STEP 2 — Estrazione PNG del nuovo capitolo
 
-1. Identifica i confini del nuovo capitolo in `fonti/campagna/Dragon Heist.md`:
+1. Identifica i confini del nuovo capitolo in `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`:
    - Il capitolo inizia all'heading `# Chapter N` (o equivalente numerato)
    - Il capitolo finisce all'heading `# Chapter N+1` (o fine file)
    - Estrai tutto il testo compreso in quei confini
@@ -106,7 +106,7 @@ pg: [Nome PG]
 generato: [data YYYY-MM-DD]
 ---
 
-# Persone di Waterdeep — Capitolo N
+# PNG di Solamnia — Capitolo N
 ### [Nome PG] ([Nome Giocatore])
 
 > Queste sono le persone che [Nome PG] conosce o di cui ha sentito parlare prima di entrare nel vivo degli eventi del Capitolo N. Non tutte compaiono necessariamente nella prossima sessione.

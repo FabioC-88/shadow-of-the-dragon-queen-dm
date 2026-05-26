@@ -57,7 +57,7 @@ personaggi/
 
 fonti/
   campagna/
-    [libro o modulo principale].md/txt  ← fonte narrativa principale (es. Dragon Heist.md)
+    [libro o modulo principale].md/txt  ← fonte narrativa principale (es. Dragonlance_ Shadow of the Dragon Queen.md)
   missioni/
     [Fazione]_MissioneN_*.txt  ← narrativa estesa per ogni missione (dialoghi, scene)
   personaggi/
