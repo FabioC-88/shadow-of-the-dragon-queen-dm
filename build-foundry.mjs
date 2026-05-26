@@ -138,7 +138,7 @@ function buildJournalEntry(filePath) {
       coreVersion:    '14.0.0',
       createdTime:    now,
       modifiedTime:   now,
-      lastModifiedBy: 'dragon-heist-dm'
+      lastModifiedBy: 'shadow-of-the-dragon-queen-dm'
     },
     _key: `!journal!${journalId}`
   };
@@ -184,7 +184,7 @@ function buildMultiPageJournalEntry(journalTitle, seedId, files) {
       coreVersion:    '14.0.0',
       createdTime:    now,
       modifiedTime:   now,
-      lastModifiedBy: 'dragon-heist-dm'
+      lastModifiedBy: 'shadow-of-the-dragon-queen-dm'
     },
     _key: `!journal!${journalId}`
   };
@@ -243,7 +243,7 @@ const PACKS = [
 
 // ── Build ──────────────────────────────────────────────────────────────────
 
-console.log('\n🎲 Dragon Heist DM — Build Foundry Packs\n');
+console.log('\n🎲 Shadow of the Dragon Queen DM — Build Foundry Packs\n');
 
 // Allow skipping the automatic version bump when environment variable
 // SKIP_BUMP=1 (useful to regenerate assets for an existing release).
@@ -343,7 +343,7 @@ for (const pack of PACKS) {
   try {
     execSync(
       `npx fvtt package pack` +
-      ` --id dragon-heist-dm --type Module` +
+      ` --id shadow-of-the-dragon-queen-dm --type Module` +
       ` --compendiumName "${pack.name}" --compendiumType JournalEntry` +
       ` --inputDirectory "${srcDir}" --outputDirectory "${packsRootDir}"`,
       { stdio: 'inherit', cwd: ROOT }
