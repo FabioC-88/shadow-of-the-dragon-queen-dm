@@ -88,7 +88,7 @@ Se i personaggi non si offrono spontaneamente di andare a controllare, **Raven**
 
 **Attitudine PNG in questa scena:**
 - **Raven Uth Vogler** — Attitudine: +2 Amichevole (invariata da Sessione 02). Organizza il campo con calma metodica; delega ai personaggi con piena fiducia.
-- **Darrett Highwater** — Attitudine: +2/+3 Alleato (da Sessione 02, dipende da come si è chiusa la fuga). Se riceve l'armatura, il legame si rafforza ulteriormente — vedi nota sotto in Hook PG.
+- **Darrett Highwater** — Attitudine: +3 Alleato (consolidato in Sessione 02). Se riceve l'armatura, il legame si rafforza ulteriormente sul piano emotivo — vedi nota sotto in Hook PG.
 
 ---
 
@@ -98,14 +98,14 @@ Se i personaggi non si offrono spontaneamente di andare a controllare, **Raven**
 
 ### Contesto per il DM
 
-Il tragitto dal campo dei profughi a Kalaman è di circa tre chilometri. I personaggi (con Darrett, se presente) camminano lungo la strada che costeggia la baia.
+Il tragitto dal campo dei profughi a Kalaman è di circa due miglia. I personaggi (con Darrett, se presente) camminano lungo la strada che costeggia la baia.
 
 ### Testo — Le Mura di Kalaman [BT-02]
 
 > Statue di soldati titanici corrono lungo le possenti mura di Kalaman. Questi antichi cavalieri di pietra fissano l'orizzonte, come a sfidare qualunque invasore a infrangersi contro difese che hanno retto persino al Cataclisma. Un quartiere disordinato di tende e baracche costeggia la strada fino al cancello più vicino della città, dove soldati in uniformi blu e oro interrogano chiunque entri.
 
 *[Aggiunta atmosferica]:*
-> *Le statue non guardano voi. Guardano oltre voi, verso est — verso qualcosa che ancora non è arrivato, ma che a giudicare dalla piega di quelle facce di pietra, i loro scultori temevano già mille anni fa.*
+> *Le statue non guardano voi. Guardano oltre voi, verso est — verso qualcosa che ancora non è arrivato, ma che a giudicare dalla piega di quelle facce di pietra, i loro scultori temevano già secoli fa, prima ancora del Cataclisma.*
 
 ---
 
@@ -121,7 +121,7 @@ Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li
 
 ### Testo — Castle Kalaman [BT-03]
 
-> Anche senza le scogliere alte trenta metri su cui sorge, Castle Kalaman torreggerebbe comunque su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe, sorvegliato da statue gigantesche identiche a quelle che corrono lungo le mura cittadine. Alla fine del sentiero, delle guardie sorvegliano un cancello aperto.
+> Anche senza le scogliere alte trenta metri su cui sorge, Castle Kalaman torreggerebbe comunque su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe, dominato da statue gigantesche identiche a quelle che corrono lungo le mura cittadine. Alla fine del sentiero, alcune guardie presidiano un cancello aperto.
 
 *[Aggiunta atmosferica]:*
 > *Da qui, Vogler sembra un ricordo da un'altra vita. Il castello non sembra costruito per essere bello — sembra costruito per non cadere mai. È esattamente il tipo di posto in cui la gente come Raven spera ancora di poter credere.*
@@ -154,7 +154,7 @@ Un personaggio può far scansare Bakaris il Giovane tramite roleplay o superando
 ---
 
 **Attitudine PNG in questa scena:**
-- **Bakaris il Giovane** — Attitudine: -2 Diffidente (in peggioramento). Vede i personaggi come intrusi scomodi che minacciano l'ambizione di suo padre.
+- **Bakaris il Giovane** — Attitudine: da -1 a -2 Diffidente (in peggioramento). Vede i personaggi come intrusi scomodi che minacciano l'ambizione di suo padre.
 
 ---
 
@@ -320,7 +320,7 @@ I personaggi trovano facilmente l'Apotecaria di Wyhan. Finestre appannate nascon
 
 ---
 
-La proprietaria è **Wyhan** (legale malvagia, umana **maga**), una maga dal mantello nero. Sebbene egoista e sprezzante verso i non-maghi, Wyhan è una membra devota della propria organizzazione.
+La proprietaria è **Wyhan** (legale malvagia, umana **maga**), una maga dal mantello nero. Sebbene egoista e sprezzante verso i non-maghi, Wyhan è profondamente devota alla propria organizzazione.
 
 Se un personaggio interessato a unirsi ai Maghi di Alta Stregoneria si presenta, Wyhan chiede se ha un rotolo per lei. Se il personaggio lo consegna, Wyhan lo apre immediatamente.
 
@@ -356,7 +356,7 @@ Wyhan risponde volentieri a un paio di domande in più sui Maghi di Alta Stregon
 
 Una volta pronti a iniziare a lavorare per l'esercito di Kalaman, i personaggi possono presentarsi a Castle Kalaman. Se cercano Darrett tra gli altri superstiti di Vogler, non lo trovano — si è già presentato al castello.
 
-Quando i personaggi arrivano a Castle Kalaman, qualsiasi guardia può indicare loro l'ufficio di Marshal Vendri al secondo piano. Un'aide li fa attendere qualche istante, poi li accompagna dentro.
+Quando i personaggi arrivano a Castle Kalaman, qualsiasi guardia può indicare loro l'ufficio di Marshal Vendri al secondo piano. Un aiutante li fa aspettare qualche istante, poi li accompagna dentro.
 
 ### Testo — L'Ufficio della Marshal [BT-10]
 
@@ -369,7 +369,7 @@ Quando i personaggi arrivano a Castle Kalaman, qualsiasi guardia può indicare l
 
 Vendri risponde pazientemente a qualsiasi domanda su Kalaman, sull'esercito cittadino e sui doveri dei personaggi. Oltre ai dettagli già discussi nella "Decisione di Kalaman", condivide questi particolari:
 
-- I personaggi dovranno fungere da squadra specializzata, dedicata a affrontare sfide che le altre truppe non possono gestire.
+- I personaggi dovranno fungere da squadra specializzata, dedicata ad affrontare sfide che le altre truppe non possono gestire.
 - Lo stipendio militare settimanale viene pagato in anticipo. I personaggi che hanno giurato possono ritirare oggi il primo pagamento di 5 mo dal segretario di Vendri.
 - I personaggi bisognosi di equipaggiamento possono prendere liberamente armi comuni, armature leggere o medie dall'armeria al primo piano del castello.
 - Diverse persone di Vogler si sono offerte di aiutare Vendri. Sta ancora decidendo come impiegare al meglio questi volontari entusiasti.
@@ -576,6 +576,18 @@ Dopo la sessione, aggiorna questi file:
 | 18 | Continuità | Thread | Collegati esplicitamente i thread aperti della Sessione 02 (destino di Becklin, Jeyev, Cavalieri Minacciosi, natura dei draconiani) con il nuovo thread della Sessione 03 (Prima Missione — Rookledust) |
 | 19 | Struttura | Post-Sessione | Checklist aggiornata con Capitolo corrente 3→4 e preparazione Sessione 04 |
 | 20 | Coerenza | Party | Confermato Livello 4 invariato per l'intera sessione, coerente con `campagna/party.md` e con l'assenza di combattimenti nel capitolo di origine |
+| 21 | Coerenza — Unità | FASE 2 | Distanza del tragitto uniformata da "circa tre chilometri" a "circa due miglia" (2 miglia nell'originale), coerente con le distanze in miglia usate altrove (Rookledust) e con la convenzione della Sessione 02 |
+| 22 | Coerenza — Lore | BT-02 (aggiunta atmosferica) | "mille anni fa" → "secoli fa, prima ancora del Cataclisma": evita conflitto con la cronologia stabilita in `contesto.md` (Cataclisma 300 anni fa) e allinea al registro dell'aggiunta di BT-11 ("secoli fa") |
+| 23 | Lingua/Stile | BT-03 | Rimossa ripetizione "sorvegliato… sorvegliano": "overlooked" reso con "dominato da statue", guardie che "presidiano" il cancello — tutte le informazioni originali preservate |
+| 24 | Lingua | FASE 5 (Wyhan) | Corretto calco/errore di genere "una membra devota" → "profondamente devota alla propria organizzazione" |
+| 25 | Lingua | FASE 5 (Rapporto a Vendri) | Corretto anglicismo "Un'aide" → "Un aiutante"; corretta elisione eufonica "a affrontare" → "ad affrontare" |
+| 26 | Coerenza — PNG | Attitudini | Darrett allineato a +3 Alleato (esito Sessione 02) al posto di "+2/+3"; Bakaris il Giovane esplicitato come "da -1 a -2 Diffidente" per coerenza con la tabella del recap |
 
-**Totale correzioni applicate:** 20
+**Totale correzioni applicate:** 26 (20 in prima stesura + 6 nella verifica di coerenza post-revisione)
 **Stato:** ✅ Pronto per commit
+
+---
+
+### Nota di verifica — decisione consapevole (nessuna correzione)
+
+- **Colori di Kalaman (BT-02):** l'originale inglese descrive le uniformi delle guardie al cancello come *"blue-and-yellow"* (riga 2208), mentre ovunque altrove il manuale usa *"blue and gold"* (BT-05, BT-06, gazetteer). Ho armonizzato deliberatamente tutte le occorrenze a **"blu e oro"** per coerenza interna del documento e con la resa araldica della città: preferibile a replicare l'incongruenza puntuale del manuale.
