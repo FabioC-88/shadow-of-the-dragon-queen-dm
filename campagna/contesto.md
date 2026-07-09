@@ -8,7 +8,7 @@
 - **Party:** [TODO — in attesa di giocatori]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 4 (Shadow of War — Kalaman, Sessione 03 preparata)
+- **Capitolo corrente:** 5 (The Northern Wastes — Wrecker's Edge/Elven Encampment, Sessione 09 preparata)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
@@ -131,4 +131,4 @@ I principali luogotenenti di Kansaldi includono:
 
 ---
 
-> **Prossimo Passo:** Invoca `/prep-sessione 2` per preparare il Capitolo 2 (Prelude to War)
+> **Prossimo Passo:** Invoca `/prep-sessione 10` per preparare la scelta del party tra Blue Phoenix Shrine, Sunward Fortress e Wakenreth (Cap. 5, righe 3524 in poi)

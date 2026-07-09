@@ -1,6 +1,7 @@
 # PNG Master — Capitolo 04: The Northern Wastes (Cap 5 libro)
 
 > Reference DM dei PNG per il Capitolo 5: The Northern Wastes.
+> **Verificato in Sessione 09** (apertura del capitolo — Wrecker's Edge, Elven Encampment): tutti i PNG e le location toccate in quella sessione (Dalamar, Zhelsuel, Cudgel Ironsmile, Tatina Rookledust; Wrecker's Edge, Elven Encampment) risultavano già correttamente presenti qui — nessuna correzione di contenuto necessaria, solo questa nota di conferma. Vedi `campagna/sessioni/dm-notes-sessione-09.md`, sezione "Step 6.5", per il dettaglio della verifica e per la nota sulla numerazione di questa cartella (capitolo-04 = Cap. 5 del libro, non capitolo-05 — vedi quella sessione per la spiegazione completa).
 
 **Livelli PG:** 5 → 8  
 **Setting:** Northern Wastes — terre selvagge e pericolose a nord di Kalaman  
