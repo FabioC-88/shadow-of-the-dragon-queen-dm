@@ -8,7 +8,7 @@
 - **Party:** [TODO — in attesa di giocatori]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 3 (When Home Burns — Vogler, Sessione 01 preparata)
+- **Capitolo corrente:** 4 (Shadow of War — Kalaman, Sessione 03 preparata)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
