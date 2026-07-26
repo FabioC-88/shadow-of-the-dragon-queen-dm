@@ -21,6 +21,7 @@
 | **Darrett Highwater** | Ufficiale, veterano della campagna | +2 Amichevole | Arco completo — da scudiero a cavaliere vero |
 | **Cudgel Ironsmile** | Mercenario; potenziale ultimo alleato | +1 se guadagnato | Ironclad Regiment può difendere un settore |
 | **Tatina Rookledust** | Inventrice; può contribuire a sabotare la citadella | +1 Cordiale | Gadget di emergenza; conoscenza meccanismi |
+| **Clystran** | Guida ai dragonnel selvatici; ritorna in Sessione 22 e 23, guida i personaggi fino al piede della citadella in "Assault on Hawker's Grove" | +3 Alleato | Presente dal Cap. 5 (Sessione 14); aggiunto qui in verifica di Sessione 23 per completezza di reference — era già usato estesamente in Sessione 22 ma mancava dalla tabella principale del capitolo |
 
 ### Antagonisti Finali
 
@@ -81,6 +82,7 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 | **Haldri Leddis** | Capitano umano di una delle navi di Kalaman a Dread Wolf Cove | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
 | **Capitano Oklid Narnhelm** | Ufficiale (veteran) al comando del Trade Gate di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
 | **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale del Dragon Army | Sessione 23+ | Convince il padre a tradire Kalaman ("Bakaris Defects"); poi affrontato in combattimento aereo ("Flight of the Dragonnels") |
+| **Lord Bakaris (il padre)** | Membro del consiglio di Kalaman, presentato in Sessione 22 (Rapporto Cupo); diserta materialmente verso il Dragon Army in Sessione 23 ("Bakaris Defects") | **Sessione 23** | Nobile codardo (scheda D&D standard, CR 1/8): apre il Warrior's Gate convinto dal figlio, fugge o si arrende alla prima ferita — non un combattente. Aggiunto in verifica di Sessione 23: mancava una voce dedicata, distinta dal figlio |
 | **Caradoc** | Spirito siniscalco di Lord Soth, già apparso nel massacro del consiglio (Cap. 4) | Sessioni finali (infiltrazione della citadella) | Possiede un soldato di Kalaman (Amelia Ghallen); propone ai PG un patto per tradire Soth e impossessarsi della citadella |
 | **Wersten Kern** | Non-morta, alfiere di Lord Soth, guardiana del braciere del Mourning Sanctum | Sessioni finali | Combatte fino alla morte; usa Terrifying Litany |
 | **Alstare Bellis** | Vampiro, ex sommo sacerdote di Chemosh | Sessioni finali | Offre un patto (distruggere i draconiani sopra in cambio dell'accesso al tesoro) |
@@ -90,7 +92,7 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 | **Karavarix** | Ex drago d'oro Sarlamir, ora il più potente dei "greater death dragon" | Sessioni finali | Attacca dopo la distruzione del braciere, cerca vendetta contro "Sarlamir" |
 | **Ignia** | Drago rosso, cavalcatura di Kansaldi Fire-Eyes nello scontro finale | Sessioni finali | Usa la scheda di giovane drago rosso, ma di taglia Enorme |
 
-*[NOTA DM] Solo Fuline Thren e Haldri Leddis sono rilevanti per la Sessione 22. Narnhelm e Bakaris il Giovane diventano rilevanti in Sessione 23. Tutti gli altri PNG appartengono alle sezioni di infiltrazione finale della citadella volante, molto oltre lo scope delle prossime 1-2 sessioni — inclusi qui solo per completezza di reference del capitolo, come richiesto dalle istruzioni dell'Agente 5.*
+*[NOTA DM] Fuline Thren e Haldri Leddis erano rilevanti per la Sessione 22. Narnhelm e Lord Bakaris (il padre, tradimento materiale) sono rilevanti per la Sessione 23; Bakaris il Giovane resta un thread aperto da Sessione 23 in poi, ma il suo scontro diretto (combattimento aereo) arriva solo in "Flight of the Dragonnels", sessioni successive. Tutti gli altri PNG appartengono alle sezioni di infiltrazione finale della citadella volante, molto oltre lo scope delle prossime sessioni — inclusi qui solo per completezza di reference del capitolo, come richiesto dalle istruzioni dell'Agente 5.*
 
 ---
 
