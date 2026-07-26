@@ -8,7 +8,7 @@
 - **Party:** [TODO — in attesa di giocatori]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 6 (City of Lost Names — ingresso dal Sentiero dei Ricordi/Path of Memories, Sessione 16 preparata; Cap. 5 concluso con l'attacco a Wind's End e l'avanzamento a Livello 8)
+- **Capitolo corrente:** 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; Cap. 6 concluso con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
@@ -131,4 +131,4 @@ I principali luogotenenti di Kansaldi includono:
 
 ---
 
-> **Prossimo Passo:** Invoca `/prep-sessione 17` per preparare l'ingresso nella Città dei Nomi Perduti a partire dall'area M1 "Hall of Betrayal" (Cap. 6, righe 4416 in poi)
+> **Prossimo Passo:** Invoca `/prep-sessione 23` per preparare "Day of Dread" e "Night of Terror" (Cap. 7, righe 5395–5542 in poi) — l'attesa carica di tensione prima dell'assedio, il ritorno di Clystran e Darrett con notizie sui tunnel della citadella, la pianificazione del contrattacco, e i quattro incontri notturni casuali, fino alla soglia della "Battle of Kalaman"

@@ -2,6 +2,8 @@
 
 > Reference DM dei PNG per il Capitolo 7: Siege of Kalaman — FINALE.
 
+> **Verificato in Sessione 22** (Step 6.5, transizione di capitolo Cap. 6 → Cap. 7, la prima dalla Sessione 16): confrontato con il testo completo del Cap. 7 (righe 5286–6278 della fonte, fino alla chiusura "Mysterious Message" prima delle appendici). Il contenuto preesistente (generato durante il bootstrap iniziale della campagna) risultava largamente accurato nella struttura, ma incompleto su alcuni PNG nominati — vedi sezione "PNG Verificati in Sessione 22" più sotto per l'elenco completo delle aggiunte. Nessun file per-PG generato: `fonti/personaggi/` è ancora vuota (party TBD), coerente con la Sessione 16. Vedi `campagna/sessioni/dm-notes-sessione-22.md`, sezione "Step 6.5", per il dettaglio completo della verifica.
+
 **Livelli PG:** 10+  
 **Setting:** Kalaman (sotto assedio) + Flying Citadel (arena finale)  
 **Tono:** Epico, disperato, eroico; la guerra arriva al culmine; gli eroi decidono il destino di Kalaman
@@ -66,6 +68,29 @@
 | **Temple of Takhisis** | Nucleo magico | Death dragons; magia oscura |
 | **Dragon Queen's Sanctum** | Camera Kansaldi | BOSS FINALE |
 | **Lord Soth's Chambers** | Zona Soth | Solo se volete la scena con Soth |
+
+---
+
+## PNG Verificati in Sessione 22 (aggiunte alla verifica del capitolo)
+
+Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati sopra. Aggiunti in questa verifica:
+
+| PNG | Ruolo | Rilevanza | Note |
+|-----|-------|-----------|------|
+| **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governor Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme a Marshal Vendri e Lord Bakaris |
+| **Haldri Leddis** | Capitano umano di una delle navi di Kalaman a Dread Wolf Cove | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
+| **Capitano Oklid Narnhelm** | Ufficiale (veteran) al comando del Trade Gate di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
+| **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale del Dragon Army | Sessione 23+ | Convince il padre a tradire Kalaman ("Bakaris Defects"); poi affrontato in combattimento aereo ("Flight of the Dragonnels") |
+| **Caradoc** | Spirito siniscalco di Lord Soth, già apparso nel massacro del consiglio (Cap. 4) | Sessioni finali (infiltrazione della citadella) | Possiede un soldato di Kalaman (Amelia Ghallen); propone ai PG un patto per tradire Soth e impossessarsi della citadella |
+| **Wersten Kern** | Non-morta, alfiere di Lord Soth, guardiana del braciere del Mourning Sanctum | Sessioni finali | Combatte fino alla morte; usa Terrifying Litany |
+| **Alstare Bellis** | Vampiro, ex sommo sacerdote di Chemosh | Sessioni finali | Offre un patto (distruggere i draconiani sopra in cambio dell'accesso al tesoro) |
+| **Lorry Wanwillow** | Vampira kender, prigioniera liberata dal crollo della città | Sessioni finali | Comica, loquace; informazioni utili su Alstare e sulla sala del trono |
+| **Cithcillion, Madar, Tenadria** | Spiriti elfi Silvanesti, ambasciatori imprigionati nel tempio da 300 anni | Sessioni finali | Custodiscono/ricordano lo *specchio dei passati riflessi*, chiave per neutralizzare Lord Soth |
+| **Drayan** | Draconiana aurak, supervisiona la guarnigione draconiana della citadella | Sessioni finali | Fugge con *dimension door* se la battaglia volge al peggio |
+| **Karavarix** | Ex drago d'oro Sarlamir, ora il più potente dei "greater death dragon" | Sessioni finali | Attacca dopo la distruzione del braciere, cerca vendetta contro "Sarlamir" |
+| **Ignia** | Drago rosso, cavalcatura di Kansaldi Fire-Eyes nello scontro finale | Sessioni finali | Usa la scheda di giovane drago rosso, ma di taglia Enorme |
+
+*[NOTA DM] Solo Fuline Thren e Haldri Leddis sono rilevanti per la Sessione 22. Narnhelm e Bakaris il Giovane diventano rilevanti in Sessione 23. Tutti gli altri PNG appartengono alle sezioni di infiltrazione finale della citadella volante, molto oltre lo scope delle prossime 1-2 sessioni — inclusi qui solo per completezza di reference del capitolo, come richiesto dalle istruzioni dell'Agente 5.*
 
 ---
 
