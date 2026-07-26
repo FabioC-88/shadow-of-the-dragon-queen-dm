@@ -28,7 +28,7 @@
 | PNG | Ruolo | CR | Note |
 |-----|-------|----|------|
 | **Kansaldi Fire-Eyes** | **BOSS FINALE** | 16 | Cuore della Flying Citadel; occhio di fuoco; 3 azioni leggendarie |
-| **Red Ruin** | Asso dragonnel rider | 8 | Combattimento aereo sulla citadella; attacca in picchiata |
+| **Red Ruin** | Asso dragonnel rider | 8 | Combattimento aereo sulla citadella; attacca in picchiata. **Prima apparizione fisica in Sessione 24** ("Red Ruin", duello aereo prima dell'ingresso nella citadella) — stat block completo (CR8, 136 PF, lancia da cavallo con disarcionamento CD15 Forza) generato in `dm-notes-sessione-24.md`, FASE 5. Combatte fino alla morte |
 | **Lord Soth** | Presenza e potenziale confronto narrativo | 19 | [NOTA DM] Non è pensato come scontro combat — usalo come evento narrativo; i PG possono rimuoverlo dalla Dragon Army attraverso la storia |
 | **Dragon Army forces** | Esercito completo all'assedio | — | Mass combat (Warriors of Krynn) o gestito narrativamente |
 | **Death dragons** | Draghi non-morti della citadella | CR 9/14 | Minori = CR 9; Maggiori = CR 14 |
@@ -81,7 +81,7 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 | **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governor Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme a Marshal Vendri e Lord Bakaris |
 | **Haldri Leddis** | Capitano umano di una delle navi di Kalaman a Dread Wolf Cove | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
 | **Capitano Oklid Narnhelm** | Ufficiale (veteran) al comando del Trade Gate di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
-| **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale del Dragon Army | Sessione 23+ | Convince il padre a tradire Kalaman ("Bakaris Defects"); poi affrontato in combattimento aereo ("Flight of the Dragonnels") |
+| **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale del Dragon Army | Sessione 23–24 | Convince il padre a tradire Kalaman ("Bakaris Defects", Sessione 23); **affrontato direttamente in combattimento aereo in Sessione 24** ("Red Ruin"/"Flight of the Dragonnels") — in sella a un dragonnel del Dragon Army al fianco di Red Ruin, fugge se ridotto a 20 PF o meno, sparisce nel caos se disarcionato o ucciso; esito da determinare al tavolo |
 | **Lord Bakaris (il padre)** | Membro del consiglio di Kalaman, presentato in Sessione 22 (Rapporto Cupo); diserta materialmente verso il Dragon Army in Sessione 23 ("Bakaris Defects") | **Sessione 23** | Nobile codardo (scheda D&D standard, CR 1/8): apre il Warrior's Gate convinto dal figlio, fugge o si arrende alla prima ferita — non un combattente. Aggiunto in verifica di Sessione 23: mancava una voce dedicata, distinta dal figlio |
 | **Caradoc** | Spirito siniscalco di Lord Soth, già apparso nel massacro del consiglio (Cap. 4) | Sessioni finali (infiltrazione della citadella) | Possiede un soldato di Kalaman (Amelia Ghallen); propone ai PG un patto per tradire Soth e impossessarsi della citadella |
 | **Wersten Kern** | Non-morta, alfiere di Lord Soth, guardiana del braciere del Mourning Sanctum | Sessioni finali | Combatte fino alla morte; usa Terrifying Litany |
