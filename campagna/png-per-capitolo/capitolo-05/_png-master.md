@@ -1,6 +1,7 @@
 # PNG Master — Capitolo 05: City of Lost Names (Cap 6 libro)
 
 > Reference DM dei PNG per il Capitolo 6: City of Lost Names.
+> **Verificato in Sessione 16** (Step 6.5, prima transizione di capitolo della campagna — ingresso dal Sentiero dei Ricordi/Path of Memories): confrontato con il testo completo del Cap. 6 (righe 4354–5285 della fonte); il contenuto preesistente risultava accurato, con due PNG nominati mancanti — **Captain Hask** e **Duskwalker** — aggiunti in questa verifica. Nessun file per-PG generato: `fonti/personaggi/` è ancora vuota (party TBD). Vedi `campagna/sessioni/dm-notes-sessione-16.md`, sezione "Step 6.5", per il dettaglio completo della verifica.
 
 **Livelli PG:** 8 → 10  
 **Setting:** Onyari — rovine dell'antica città volante Istariese nel Northern Wastes  
@@ -17,6 +18,7 @@
 | **Demelin** | Archmaga spirito/costrutto, custode della città | 0 Neutrale | Sa come fermare la riattivazione; scopo neutro |
 | **Tatina Rookledust** | Inventrice gnoma (ricompare) | +1 Cordiale | Fondamentale per sabotare i meccanismi |
 | **Dalamar** | Può riapparire come alleato situazionale | -1 Sospettoso | I suoi obiettivi si allineano temporaneamente |
+| **Duskwalker** | Treant neutrale, guardiano superstite dei giardini di Onyari | 0 Neutrale (ostile se provocato) | Ex giardiniere della città prima della sua caduta; attacca con Animate Trees a meno che un personaggio non mostri un simbolo di una divinità della natura (Chislev, Habbakuk, Zeboim) o superi CD 20 Persuasione; se convinto a parlare, rivela di essere il guardiano dei giardini, che invasori tentano di abbattere i suoi alberi per legna, e lascia passare i personaggi se promettono di non disturbarli; non aiuta contro il Dragon Army, vuole solo essere lasciato in pace; rimuove i cadaveri dei soldati dai rami se richiesto, permettendo il saccheggio |
 
 ### Antagonisti
 
@@ -27,6 +29,7 @@
 | **Lord Soth** | Presenza / incontro pericoloso | -3 Ostile | Apparizione che ricorda ai PG il quadro più grande |
 | **Dragon Army forces** | Truppa di occupazione nelle rovine | -3 Ostile | Infiltrazione furtiva o combattimenti a sorpresa |
 | **Draconians vari** | Pattuglie nelle rovine | -3 Ostile | Mix di tipi; attenzione ai Sivak |
+| **Captain Hask** | Draconiano aurak, ufficiale amministrativo fanatico | -3 Ostile | Coordina un ufficio di ufficiali/chierici nella città; individua impostori con CD 22 Inganno; devoto alla Regina Dragone, combatte fino alla morte se scoperto |
 
 ---
 

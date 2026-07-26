@@ -8,7 +8,7 @@
 - **Party:** [TODO — in attesa di giocatori]
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 4 (Shadow of War — Kalaman, Sessione 06 preparata)
+- **Capitolo corrente:** 6 (City of Lost Names — ingresso dal Sentiero dei Ricordi/Path of Memories, Sessione 16 preparata; Cap. 5 concluso con l'attacco a Wind's End e l'avanzamento a Livello 8)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
@@ -131,4 +131,4 @@ I principali luogotenenti di Kansaldi includono:
 
 ---
 
-> **Prossimo Passo:** Invoca `/prep-sessione 2` per preparare il Capitolo 2 (Prelude to War)
+> **Prossimo Passo:** Invoca `/prep-sessione 17` per preparare l'ingresso nella Città dei Nomi Perduti a partire dall'area M1 "Hall of Betrayal" (Cap. 6, righe 4416 in poi)
