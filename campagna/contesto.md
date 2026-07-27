@@ -120,7 +120,7 @@ Punti di contatto già innestati nelle sessioni prodotte:
 - **Sessione 13** — indizio visivo (sigillo di cera grigia, mano con occhio, tra gli effetti di Camp Carrionclay)
 - **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce Sigil
 
-Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Il thread resta volutamente aperto oltre la Sessione 16 (nessuna sessione del Cap. 6–7 lo riprende ancora) — se si preparano sessioni future per il Cap. 7 (Siege of Kalaman, non ancora scritto), tenere presente questo filo per eventuali ulteriori agganci.
+Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Il thread resta volutamente aperto oltre la Sessione 16 — le Sessioni 17–28 (Cap. 6–7, incluso il finale) sono state preparate senza ulteriori agganci a questo filo. Se si vuole dargli un payoff più tardo nella campagna (es. un'ultima eco nel finale, Sessione 28), va innestato con una revisione dedicata di quelle sessioni.
 
 ### Tono e Atmosfera
 - **Genere:** High Fantasy, War Campaign, Salvezza del Mondo
