@@ -28,6 +28,7 @@
 | **Lohezet** | Mago nero Dragon Army — boss del prossimo capitolo | -3 Ostile | Prima apparizione nelle Wastes; stia cercando la città |
 | **Lord Soth** | Può riapparire (momento narrativo) | -3 Ostile | Non combattere — è un evento, non uno scontro |
 | **Dragon Army patrols** | Avanguardie alla ricerca della città | -3 Ostile | Incontri regolari |
+| **Ser Maelis** | Cavaliere di rango minore, apparente disertore del Dragon Army | +1 Cordiale (apparente) | Prima apparizione in Sessione 09 (scena opzionale); ricompare in Sessione 13 (indizio: sigillo di cera grigia) e Sessione 16 (rivelazione parziale/scomparsa). **[NOTA DM — riservata]** Non è un disertore: agente infiltrato del filo narrativo nascosto del Culto di Vecna — vedi `fonti/campagna/filo-narrativo-multiverso.md` e `campagna/png-incontrati.md`. Non nominare mai "Vecna" ai giocatori |
 
 ---
 
