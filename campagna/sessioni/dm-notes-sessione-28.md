@@ -271,6 +271,19 @@ Il messaggio non porta alcuna firma, ma il sigillo è il simbolo della Regina Dr
 
 ---
 
+### Scena Opzionale — Eco Finale: Un Volto tra la Folla
+
+**Trigger:** durante la Celebrazione degli Eroi (Fase 4), prima o dopo la consegna del Messaggio Misterioso — a discrezione del DM, un istante rubato nel mezzo della cerimonia. Gioca questa scena solo se il tavolo ha incontrato **Ser Maelis** in precedenza (Sessioni 09, 13 e/o 16); altrimenti non ha alcun significato ed è meglio saltarla del tutto.
+
+**Contenuto:** in mezzo alla folla che applaude, tra soldati, cittadini e stendardi appena restaurati, un PG a caso (o chi ha avuto il legame più diretto con Maelis) incrocia per un solo istante un volto familiare — immobile, in disparte, che non applaude e non festeggia, ma osserva. Non c'è tempo per una reazione: quando il PG guarda di nuovo, tra un cittadino e l'altro, il volto non c'è più. Nessun inseguimento è possibile: la folla è troppo densa, e nessuno tra i presenti ricorda di aver visto qualcuno del genere.
+
+*[Aggiunta atmosferica]:*
+> *Non un cenno del capo, non un sorriso. Solo uno sguardo che dura esattamente il tempo necessario per essere certi di non esserselo immaginato — e poi niente, come se la folla stessa l'avesse richiuso sopra di sé.*
+
+**[NOTA DM — riservata]** Questo è deliberatamente l'**unico** momento in cui Ser Maelis "chiude" la campagna dal punto di vista dei PG — non un dialogo, non un oggetto, solo una presenza silenziosa che confirma: è ancora lì, ancora libero, ancora a guardare. Non è collegato al Messaggio Misterioso di ceralacca blu (quello resta, come da fonte, un gancio a parte per un'eventuale prosecuzione su Krynn) — Maelis non è un agente del Blue Dragon Army, e i due fili non vanno fatti coincidere. Coerentemente con `fonti/campagna/filo-narrativo-multiverso.md`, Maelis sopravvive alla campagna e diventerà, molto più avanti (Vecna: Eve of Ruin), un alto ufficiale del Culto — i PG di questa campagna, se mai proseguiranno la propria storia in quell'atto, lo riconosceranno. Non spiegare nulla di questo al tavolo: lascia che resti un brivido finale, non un cliffhanger meccanico.
+
+---
+
 ## 🧩 THREAD NARRATIVI — CHIUSURA DI CAMPAGNA
 
 *[NOTA DM — riservata — Agente 4 / Session Missions Integrator]*
@@ -289,6 +302,7 @@ Il messaggio non porta alcuna firma, ma il sigillo è il simbolo della Regina Dr
 | Status del party a Kalaman | Cap. 4 (arruolamento) | **Risolto** — congedo onorevole o titolo di Cavaliere di Kalaman, scelta individuale per PG | Fonte righe 6265; questa sessione, FASE 4 |
 | La *gemma della vista* di Kansaldi | Introdotta in questa sessione | **Aperto per scelta del tavolo** — oggetto senziente, il party decide se e come usarla; nessun seguito meccanico previsto dalla fonte | Fonte righe 6201–6203; questa sessione, FASE 1 |
 | Il Messaggio Misterioso / agente del Blue Dragon Army | Introdotto in questa sessione, ultima riga del libro | **Deliberatamente aperto** — gancio esplicito per un'eventuale campagna futura, non per una Sessione 29 di questa campagna | Fonte righe 6269–6278; questa sessione, FASE 4 |
+| Ser Maelis (se incontrato in S09/13/16) | Sessione 09 (primo incontro) → 13 (indizio) → 16 (rivelazione parziale) | **Deliberatamente aperto — oltre lo scopo di questa campagna.** Ultima eco silenziosa alla Celebrazione degli Eroi (questa sessione, FASE 4). **[NOTA DM]** sopravvive e ricompare come alto ufficiale del Culto in Vecna: Eve of Ruin — vedi `fonti/campagna/filo-narrativo-multiverso.md` | Questa sessione, FASE 4 (scena opzionale) |
 
 **Nota conclusiva dell'Agente 4:** per la prima volta in questa pipeline, questa tabella non produce alcun input per una sessione successiva — non ce n'è una da preparare. L'unico thread lasciato volutamente aperto (il Messaggio Misterioso) è materiale per un'eventuale campagna futura con nuovo materiale sorgente, non per la prosecuzione di questa.
 

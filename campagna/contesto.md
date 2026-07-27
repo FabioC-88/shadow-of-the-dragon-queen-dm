@@ -120,7 +120,7 @@ Punti di contatto già innestati nelle sessioni prodotte:
 - **Sessione 13** — indizio visivo (sigillo di cera grigia, mano con occhio, tra gli effetti di Camp Carrionclay)
 - **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce Sigil
 
-Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Il thread resta volutamente aperto oltre la Sessione 16 — le Sessioni 17–28 (Cap. 6–7, incluso il finale) sono state preparate senza ulteriori agganci a questo filo. Se si vuole dargli un payoff più tardo nella campagna (es. un'ultima eco nel finale, Sessione 28), va innestato con una revisione dedicata di quelle sessioni.
+Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Un'ultima eco silenziosa di Ser Maelis (nessun dialogo, nessun oggetto — solo un volto riconosciuto tra la folla) è stata innestata anche nella **Sessione 28** (Celebrazione degli Eroi, FASE 4), come chiusura deliberatamente non risolutiva: coerente con `fonti/campagna/filo-narrativo-multiverso.md`, Maelis sopravvive alla campagna e ricompare come alto ufficiale del Culto in Vecna: Eve of Ruin. Non è collegato al Messaggio Misterioso/Blue Dragon Army della stessa sessione, che resta un gancio a parte previsto dalla fonte originale.
 
 ### Tono e Atmosfera
 - **Genere:** High Fantasy, War Campaign, Salvezza del Mondo
