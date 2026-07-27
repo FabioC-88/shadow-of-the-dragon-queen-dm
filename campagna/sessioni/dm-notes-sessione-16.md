@@ -326,6 +326,23 @@ Il tunnel prosegue per diverse centinaia di metri, poi raggiunge l'area M1.
 
 ---
 
+### Scena Opzionale — Spotlight: L'Ultimo Sussurro di Ser Maelis
+
+**Trigger:** nel pieno caos della battaglia di Wind's End (Fase 4) — subito dopo che i personaggi hanno sconfitto o disperso gli ufficiali del Dragon Army, prima che si spostino verso il passaggio segreto. Funziona meglio se il tavolo ha già incontrato Maelis in Sessione 09 e/o trovato il suo sigillo in Sessione 13, ma è comunque giocabile come chiusura autonoma anche se quei semi sono stati saltati.
+
+**Contenuto:** tra il fumo e le urla della battaglia, un personaggio nota una figura familiare che si muove tra le linee del Dragon Army in ritirata — non combatte contro i PG, né apertamente al loro fianco: si limita ad avvicinarsi, in un momento di tregua tra un attacco e l'altro, come se avesse aspettato proprio quest'occasione.
+
+> *"Non c'è tempo per le solite domande, questa volta,"* dice **Ser Maelis**, la voce bassa sotto il fragore della battaglia. *"Volevo solo che sentiste questo, prima che la strada ci separi di nuovo: i segreti che avete vissuto qui — non vi appartengono. Sono già stati registrati."*
+
+Prima che un PG possa rispondere o reagire, il fumo di un dragonnel che sorvola la scena lo separa dalla vista per un solo istante — e quando si dissolve, Maelis è già sparito, come se non fosse mai stato lì. Se i personaggi lo cercano tra le fila del Dragon Army in fuga, nessuno riconosce il nome, e nessun corpo con la sua descrizione viene mai trovato. Tra i pochi effetti abbandonati vicino al punto dove si trovava — un mantello scartato, forse suo, forse di un caduto qualunque — un PG che li perquisisce trova un **frammento di specchio nero**, freddo al tatto, che non riflette il volto di chi lo guarda. Per un solo istante, la superficie mostra invece un luogo che nessuno dei personaggi riconosce: una città racchiusa dentro un anello, sospesa in un cielo che non è il cielo di Krynn. Poi lo specchio torna a essere solo un pezzo di vetro opaco.
+
+*[Aggiunta atmosferica]:*
+> *Non è un'immagine che si può descrivere del tutto a parole — un anello di pietra e luce, e dentro di esso una città che sembra guardare in tutte le direzioni contemporaneamente. Chiunque l'abbia vista sa, con una certezza che non sa spiegare, che quel luogo esiste davvero. E che un giorno, forse, ci finiranno anche loro.*
+
+**[NOTA DM — riservata]** Questo è l'ultimo incontro diretto con Ser Maelis in questa campagna. Non è morto né sconfitto: si è semplicemente ritirato una volta assolto il proprio compito, ovunque esso lo conduca dopo Krynn. Non spiegare il frammento di specchio né la città nell'anello — è **Sigil**, la Città delle Porte, che i personaggi visiteranno solo molto più avanti (Faction War, fuori dallo scopo di questa campagna). Non forzare alcuna rivelazione meccanica: il valore di questa scena è puramente atmosferico e presagio. Se il tavolo continua a portare questi PG (o eredi narrativi) in campagne future, questo frammento e questo momento sono il gancio che li collega. Vedi `fonti/campagna/filo-narrativo-multiverso.md` per il contesto completo del filo narrativo e per come l'arco di Maelis si ricongiunge, molto più avanti, con Sigil e infine con la rivelazione del nome Vecna.
+
+---
+
 ## 🧩 THREAD NARRATIVI SETUP [S17]
 
 *[NOTA DM — riservata] Come nelle Sessioni 04–15, questa campagna non prevede missioni secondarie strutturate per fazioni (vedi `campagna/missioni-secondarie.md` e `campagna/fazioni.md`): l'Agente 4 non ha trovato missioni `In corso` o `Pianificate` da integrare. I thread seguenti sono narrativi/di location e di capitolo, non meccanici.*
@@ -338,6 +355,7 @@ Il tunnel prosegue per diverse centinaia di metri, poi raggiunge l'area M1.
 | Captain Hask e Duskwalker | Due PNG nominati del Cap. 6 aggiunti in questa sessione a `png-per-capitolo/capitolo-05/_png-master.md` (vedi Step 6.5) — non ancora incontrati in gioco | Bassa → materiale di preparazione, non ancora attivo |
 | Costo dell'attacco di Darrett | La fonte riconosce esplicitamente che l'attacco diversivo "avrà un costo" per le forze di Kalaman — un dettaglio che può tornare in una sessione futura (perdite, feriti, un PNG minore caduto) | Media → a discrezione del DM per continuità futura |
 | Lohezet, Belephaion, Lord Soth | Appresi per sentito dire/interrogatorio in FASE 2 — ora nomi concreti per il party, non ancora incontrati di persona | Alta → driver principale del Cap. 6 |
+| Ser Maelis — ultimo sussurro e frammento di specchio nero | Sparisce per l'ultima volta in questa campagna dopo un avvertimento cifrato. **[NOTA DM]** il frammento mostra Sigil — filo che si ricongiunge solo in campagne/atti futuri (Faction War, Eve of Ruin). Vedi `fonti/campagna/filo-narrativo-multiverso.md` | Bassa → arco lunghissimo, oltre lo scopo di questa campagna |
 
 ---
 

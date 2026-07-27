@@ -26,6 +26,8 @@
 
 **Nota DM:** Lord Soth non è tecnicamente nella Dragon Army — coopera su ordine della Dragon Queen ma ha la propria agenda. Trattarlo come entità separata.
 
+**Agente Infiltrato (segreto):** **Ser Maelis** — cavaliere di rango minore, formalmente sotto il comando di Kansaldi come tutti gli altri. **[NOTA DM — riservata]** La sua vera fedeltà appartiene a un potere che la Dragon Army stessa non conosce; usa l'esercito come copertura per raccogliere segreti di guerra. Incontrato per la prima volta in Sessione 09 (scena opzionale), riappare in Sessione 13 (indizio) e Sessione 16 (rivelazione parziale/scomparsa). Fa parte di un filo narrativo nascosto che attraversa più campagne del DM — vedi `fonti/campagna/filo-narrativo-multiverso.md`. Non nominare mai la sua vera affiliazione ai giocatori.
+
 ---
 
 ## Fazioni Alleate

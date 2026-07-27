@@ -440,6 +440,21 @@ Il party lascia Camp Carrionclay con prigionieri liberati, un uovo di drago di b
 
 ---
 
+### Scena Opzionale — Ritrovamento: Il Sigillo di Cera Grigia
+
+**Trigger:** durante la perquisizione della scrivania nella Capanna di Zirrok (Fase 4, I5), insieme alle lettere di Belephaion già previste dalla fonte. Non richiede una prova aggiuntiva — è un ritrovamento automatico se i personaggi cercano tra le carte.
+
+**Contenuto:** sotto le lettere di Belephaion, seminascosto in una piccola scatola di latta, un personaggio trova un oggetto che non sembra appartenere a un comandante hobgoblin: un **piccolo sigillo di cera grigia**, del tipo usato per chiudere lettere personali, impresso con un'immagine insolita — una mano aperta con un occhio al centro del palmo. Non è un'insegna del Dragon Army, né un simbolo che compare in nessun manuale di heraldica che i personaggi conoscano. Accanto al sigillo, un frammento di lettera bruciata per metà porta solo tre lettere leggibili: **"...S.M...."**
+
+*[Aggiunta atmosferica]:*
+> *È un oggetto piccolo, quasi banale, in mezzo a rapporti di guerra e ordini di marcia — ma qualcosa in quella mano scolpita, con l'occhio al centro del palmo che pare fissarvi anche da un pezzo di cera fredda, non è il genere di dettaglio che si dimentica in fretta.*
+
+Se un PG ha già incontrato **Ser Maelis** in Sessione 09 (scena opzionale "Ser Maelis, il Disertore"), un tiro riuscito di **Saggezza (Intuizione) CD 12** o semplicemente il buon senso del tavolo può collegare le iniziali "S.M." al cavaliere che li ha salvati — e chiedersi perché le sue lettere finiscano nella capanna del comandante di un campo che lui sosteneva di aver abbandonato. Se i personaggi non hanno ancora incontrato Maelis, il sigillo resta un indizio isolato e inquietante, senza contesto — non forzare la connessione: lascia che riemerga da sé quando (e se) i PG rincontreranno il cavaliere.
+
+**[NOTA DM — riservata]** Il sigillo è il marchio con cui gli agenti del vero signore di Ser Maelis firmano la propria corrispondenza privata, mai i documenti ufficiali del Dragon Army — è per questo che è "seminascosto" nella scatola invece che tra le lettere ufficiali di Belephaion. Non svelare altro: nessun PNG in questa sessione sa spiegare il simbolo. Vedi `fonti/campagna/filo-narrativo-multiverso.md` — questo indizio matura nella Sessione 16, dove Maelis ricompare per l'ultima volta in questa campagna.
+
+---
+
 ## 🧩 THREAD NARRATIVI SETUP [S14]
 
 *[NOTA DM — riservata] Come nelle Sessioni 04–12, questa campagna non prevede missioni secondarie strutturate per fazioni (vedi `campagna/missioni-secondarie.md` e `campagna/fazioni.md`): l'Agente 4 non ha trovato missioni `In corso` o `Pianificate` da integrare. I thread seguenti sono narrativi/di location, non meccanici.*
@@ -456,6 +471,7 @@ Il party lascia Camp Carrionclay con prigionieri liberati, un uovo di drago di b
 | Avanzamento a Livello 8 | Non concesso in questa sessione per scelta di pacing (vedi FASE 6) — raccomandato al ritrovamento del passaggio a Wind's End (sezione K) | Media → dipendenza narrativa futura, a discrezione del DM |
 | Fewmaster Zirrok — esito | Sconfitto, fuggito, o negoziato a seconda delle scelte del tavolo — annota l'esito per coerenza futura (potrebbe ricomparire se sopravvive) | Bassa-Media → dipende dall'esito in sessione |
 | Tesoro di Camp Carrionclay | 300 mo + 2 pozioni di cura superiore (I5); eventuale bottino recuperato dai draconiani/Zirrok sconfitti | Bassa → contabilità post-sessione |
+| Il sigillo di cera grigia (Ser Maelis) | Trovato nella capanna di Zirrok — mano con occhio, iniziali "S.M." su un frammento di lettera. **[NOTA DM]** collegato a Ser Maelis (S09, se incontrato) — vedi `fonti/campagna/filo-narrativo-multiverso.md`. Matura in S16 | Bassa → arco lungo, meta-narrativo |
 
 ---
 

@@ -185,6 +185,23 @@
 
 ---
 
+### Ser Maelis
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Cavaliere di rango minore, apparente disertore del Dragon Army |
+| **Prima Apparizione** | Sessione 09, Cap. 5, tragitto verso Wrecker's Edge (scena opzionale) |
+| **Affiliazione** | Red Dragon Army (in copertura) |
+| **Tratto Caratteristico** | Affascinante, competente in combattimento, fa sempre una domanda di troppo |
+| **Attitudine Iniziale** | +1 Cordiale (salva i PG, si mostra cortese e disponibile) |
+| **Note** | Ricompare con un indizio visivo (sigillo di cera grigia, mano con occhio) in Sessione 13 e con una rivelazione parziale/scomparsa in Sessione 16. **[NOTA DM — riservata]** Non è un disertore: è un agente infiltrato che raccoglie segreti di guerra per un potere che non nomina mai — un tassello del filo narrativo nascosto del Culto di Vecna che attraversa più campagne del DM. Non rivelare mai il nome "Vecna" ai giocatori in questa campagna. Vedi `fonti/campagna/filo-narrativo-multiverso.md` |
+
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| [PG1] | +1 Cordiale | — |
+
+---
+
 ## PNG Capitolo 6 — City of Lost Names
 
 ### Demelin

@@ -59,6 +59,7 @@ I principali luogotenenti di Kansaldi includono:
 | **Red Ruin** | Nemico Tattico | Dragon Queen | Asso dragonnel rider |
 | **Becklin Uth Viharin** | Alleato Potenziale | Solamnia | Cavaliere di Solamnia, Comandante di Maelgoth |
 | **Ollen Nahled** | Testimone | Solamnia | Comandante di Wheelwatch Outpost, testimone dell'invasione |
+| **Ser Maelis** | Agente Ambiguo | Dragon Queen (in copertura) | Apparente disertore, cavaliere minore. [NOTA DM] Agente segreto di un filo narrativo multi-campagna — vedi sotto |
 
 ## Fazioni (Nessuna al momento)
 [TODO — No fazioni secondarie previste per questa campagna]
@@ -109,6 +110,17 @@ I principali luogotenenti di Kansaldi includono:
 | 7 | Finale | 10 | 11 | 85.000 XP | 21.000 XP | Assedio e scontro finale Kansaldi |
 
 ## Note di Campagna
+
+### Filo Narrativo Nascosto — Culto di Vecna (Meta-arco, riservato DM)
+
+**[NOTA DM — riservata]** Questa campagna fa parte di un meta-arco che il DM sta costruendo attraverso più campagne (Curse of Strahd, Waterdeep: Dragon Heist, Shadow of the Dragon Queen, Faction War, Vecna: Eve of Ruin) — vedi `fonti/campagna/filo-narrativo-multiverso.md` per il documento completo. In questa campagna il filo è incarnato da **Ser Maelis** (vedi PNG Chiave sopra e `campagna/png-incontrati.md`), un agente infiltrato che raccoglie segreti di guerra per un potere non dichiarato.
+
+Punti di contatto già innestati nelle sessioni prodotte:
+- **Sessione 09** — primo incontro (scena opzionale, "salva" i PG da un'imboscata)
+- **Sessione 13** — indizio visivo (sigillo di cera grigia, mano con occhio, tra gli effetti di Camp Carrionclay)
+- **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce Sigil
+
+Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Il thread resta volutamente aperto oltre la Sessione 16 (nessuna sessione del Cap. 6–7 lo riprende ancora) — se si preparano sessioni future per il Cap. 7 (Siege of Kalaman, non ancora scritto), tenere presente questo filo per eventuali ulteriori agganci.
 
 ### Tono e Atmosfera
 - **Genere:** High Fantasy, War Campaign, Salvezza del Mondo

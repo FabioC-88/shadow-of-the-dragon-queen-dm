@@ -380,6 +380,20 @@ Quando i personaggi fanno ritorno al campo, Darrett li accoglie con curiosità g
 
 ---
 
+### Scena Opzionale — Spotlight: Ser Maelis, il Disertore
+
+**Trigger:** a discrezione del DM, in un momento di viaggio isolato tra la partenza da Kalaman (Fase 3) e l'arrivo a Wrecker's Edge (Fase 4) — ad esempio una breve battuta di esplorazione della costa separata dal grosso delle truppe di Darrett — oppure come piccola scena a parte subito dopo l'Epilogo (Fase 6), se preferisci non alterare il ritmo delle fasi principali. Non è collegata a nessun incontro scriptato dalla fonte: è un'aggiunta del DM, pensata per restare completamente facoltativa.
+
+**Contenuto:** mentre il gruppo è isolato dal resto della colonna — magari durante la ricognizione della costa in Fase 4, o in una battuta di caccia/avanscoperta a piacere del DM — una piccola pattuglia del Dragon Army (2-3 **Dragon Army soldier**, vedi statistiche già in uso nelle sessioni precedenti) tende un'imboscata ai personaggi. Nel momento peggiore dello scontro, un cavaliere in armatura del Dragon Army interviene al fianco dei PG, abbattendo un soldato da dietro senza pietà.
+
+> *"Fortuna che passavo di qui,"* dice l'uomo, ripulendo la lama con un gesto svelto. *"Ser Maelis, ex-cavaliere della Dragon Army — 'ex', ora, dopo quello che ho visto fare a Steel Springs. Ma questa non è una conversazione per il campo aperto. Chi comanda, tra voi? E cosa vi ha portato così lontano dalle mura di Kalaman?"*
+
+Maelis si presenta come un disertore: affascinante, competente in combattimento, con modi cortesi quasi fuori luogo per un soldato del Dragon Army. Fa domande sottili e ben mirate — chi sono i PG, chi comandano, cosa sanno del piano di Kansaldi, quali segreti portano con sé — ma le incornicia sempre come la curiosità di chi vuole "capire di chi fidarsi ora". Se i personaggi gli chiedono di seguirli al campo di Darrett, si scusa e declina: dice di dover "sistemare alcune cose" prima di potersi mostrare a un esercito che potrebbe giustamente non fidarsi di lui. Si allontana da solo, promettendo che si "rivedranno".
+
+**[NOTA DM — riservata]** Ser Maelis non è un disertore. È un Cavaliere Oscuro di rango minore che usa la Dragon Army come copertura: il suo vero obiettivo è raccogliere segreti di guerra — chi tradisce chi, quali comandanti nascondono paure, quali sacerdoti dubitano della propria fede — per un potere che non nomina mai, nemmeno a se stesso nei momenti di solitudine. Le sue domande in questa scena non sono curiosità: sono raccolta di informazioni. Non rivelare nulla di questo ai giocatori — nessun indizio meccanico, solo la sensazione (se un PG tira **Saggezza (Intuizione) CD 16**) che "fa più domande di quante ne serva per fidarsi di qualcuno". Vedi `fonti/campagna/filo-narrativo-multiverso.md` per il filo narrativo completo: Maelis ricompare con un indizio visivo nella Sessione 13 (Camp Carrionclay) e con una rivelazione parziale nella Sessione 16.
+
+---
+
 ## 🧩 THREAD NARRATIVI SETUP [S10]
 
 *[NOTA DM — riservata] Come nelle Sessioni 04–08, questa campagna non prevede missioni secondarie strutturate per fazioni (vedi `campagna/missioni-secondarie.md` e `campagna/fazioni.md`): l'Agente 4 non ha trovato missioni `In corso` o `Pianificate` da integrare, e il draft non è stato alterato in fase di integrazione missioni. I thread seguenti sono narrativi, non meccanici.*
@@ -395,6 +409,7 @@ Quando i personaggi fanno ritorno al campo, Darrett li accoglie con curiosità g
 | Cudgel Ironsmile e Tatina Rookledust nel party itinerante | Entrambi ora viaggiano con l'esercito di Darrett; possono fungere da sidekick meccanici se mancano giocatori al tavolo (Appendice C) | Media → risorsa ricorrente Cap. 5 |
 | Il destino di Becklin / Il rotolo di Wyhan (se non risolto in FASE 2) / Cudgel e l'Ironclad Regiment | Thread ereditati da S04–S08; parzialmente toccati questa sessione (Cudgel, Wyhan) ma non chiusi | Media → ricorrenti |
 | La dragonlance di Sarlamir (recuperata in S08) | Ancora magicamente inerte; nessuno sviluppo in questa sessione — resta un oggetto simbolico in attesa | Bassa → oggetto simbolico, non immediato |
+| Ser Maelis, il "disertore" (se la scena opzionale è stata giocata) | Cavaliere ambiguo, salva i PG da un'imboscata e fa domande sottili prima di allontanarsi da solo. **[NOTA DM]** in realtà un agente infiltrato — vedi `fonti/campagna/filo-narrativo-multiverso.md`. Ricompare in S13 (indizio visivo) e S16 (rivelazione parziale) | Bassa → arco lungo, meta-narrativo |
 
 ---
 
