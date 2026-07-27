@@ -505,6 +505,19 @@ Dopo aver risolto gli incontri di questa sezione, gli attacchi del Dragon Army c
 
 ---
 
+### Scena Opzionale — Eco: Un Secondo Sigillo
+
+**Trigger:** subito dopo che i personaggi perquisiscono Lord Bakaris e trovano la Lettera del Figlio (Fase 6, BT-08). Gioca questa scena solo se il tavolo ha già incontrato **Ser Maelis** e/o il suo sigillo in precedenza (Sessioni 09, 13 e/o 16); altrimenti ometti il dettaglio.
+
+**Contenuto:** ripiegato insieme alla lettera del figlio, un personaggio trova un secondo frammento di carta — più vecchio, i bordi consumati come se fosse stato portato addosso per settimane. Non contiene parole, solo l'impronta di un sigillo di cera grigia: una mano che tiene un occhio. Se interrogato al riguardo, **Lord Bakaris** giura di non sapere di cosa si tratti — non l'ha mai visto prima, non l'ha messo lui in tasca. La sua confusione, per una volta, sembra genuina.
+
+*[Aggiunta atmosferica]:*
+> *È un dettaglio che non dovrebbe inquietare più della lettera del figlio, eppure lo fa: qualcuno sapeva che Bakaris avrebbe tradito Kalaman prima ancora che lo sapesse lui stesso — e ha lasciato un segno per dirlo, senza mai farsi vedere.*
+
+**[NOTA DM — riservata]** Non spiegare come il sigillo sia finito addosso a Bakaris — nemmeno Bakaris lo sa, ed è meglio così. Il dettaglio suggerisce che il potere dietro Ser Maelis raccoglie non solo segreti già accaduti, ma anche i tradimenti che stanno per accadere — esattamente il tipo di "chi tradisce chi" che il filo narrativo gli attribuisce. Vedi `fonti/campagna/filo-narrativo-multiverso.md`. Non nominare mai "Vecna" ai giocatori in questa campagna.
+
+---
+
 ## 🧩 THREAD NARRATIVI SETUP [S24]
 
 *[NOTA DM — riservata — Agente 4 / Session Missions Integrator]*
@@ -527,6 +540,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 | Battle of Kalaman | Materiale immediatamente successivo, non giocato in questa sessione | Tutti | Attivo — sviluppo completo rimandato a Sessione 24 | Fonte righe 5544 in poi |
 | Clystran, ancora assente da png-incontrati.md | Gap segnalato dalla Sessione 14, mai risolto | — | Da correggere post-sessione (persistente) | Vedi POST-SESSION CHECKLIST |
 | Correzione attitudine Darrett in png-incontrati.md | Discrepanza ereditata dalla Sessione 21/22, non ancora corretta | — | Da correggere post-sessione (persistente) | Vedi Sessione 21/22 |
+| Il secondo sigillo (Ser Maelis) | Scena opzionale, Fase 6 — sigillo di cera grigia trovato su Lord Bakaris, ignoto persino a lui | PG che hanno incontrato Maelis in S09/13/16 | Aperto — meta-narrativo, oltre lo scopo di questa campagna | `fonti/campagna/filo-narrativo-multiverso.md` |
 
 ---
 

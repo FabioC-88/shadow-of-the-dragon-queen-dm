@@ -120,7 +120,13 @@ Punti di contatto già innestati nelle sessioni prodotte:
 - **Sessione 13** — indizio visivo (sigillo di cera grigia, mano con occhio, tra gli effetti di Camp Carrionclay)
 - **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce Sigil
 
-Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Un'ultima eco silenziosa di Ser Maelis (nessun dialogo, nessun oggetto — solo un volto riconosciuto tra la folla) è stata innestata anche nella **Sessione 28** (Celebrazione degli Eroi, FASE 4), come chiusura deliberatamente non risolutiva: coerente con `fonti/campagna/filo-narrativo-multiverso.md`, Maelis sopravvive alla campagna e ricompare come alto ufficiale del Culto in Vecna: Eve of Ruin. Non è collegato al Messaggio Misterioso/Blue Dragon Army della stessa sessione, che resta un gancio a parte previsto dalla fonte originale.
+Tra la Sessione 16 e la Sessione 28, Maelis non ricompare mai di persona — solo due piccole tracce indirette, deliberatamente sparse per non affollare i momenti narrativi centrali del finale (Leedara, lo specchio dei passati riflessi, Lord Soth):
+- **Sessione 22** — un rapporto d'intelligence anonimo sulla citadella volante, sigillato con la stessa cera grigia, trovato negli archivi di Kalaman
+- **Sessione 23** — un secondo sigillo, ignoto persino a Lord Bakaris, trovato tra i suoi effetti dopo il tradimento scoperto
+
+Infine, un'ultima eco silenziosa di Ser Maelis (nessun dialogo, nessun oggetto — solo un volto riconosciuto tra la folla) è stata innestata nella **Sessione 28** (Celebrazione degli Eroi, FASE 4), come chiusura deliberatamente non risolutiva: coerente con `fonti/campagna/filo-narrativo-multiverso.md`, Maelis sopravvive alla campagna e ricompare come alto ufficiale del Culto in Vecna: Eve of Ruin. Non è collegato al Messaggio Misterioso/Blue Dragon Army della stessa sessione, che resta un gancio a parte previsto dalla fonte originale.
+
+Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Le Sessioni 17–21, 24–27 non contengono alcun riferimento a questo filo — sono state lasciate intatte perché occupate da momenti narrativi centrali già densi e curati (Leedara, lo specchio, Lord Soth, Karavarix) che il filo non deve affollare.
 
 ### Tono e Atmosfera
 - **Genere:** High Fantasy, War Campaign, Salvezza del Mondo

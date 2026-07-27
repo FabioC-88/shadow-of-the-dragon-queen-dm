@@ -278,6 +278,19 @@ Questo è anche il momento naturale per un breve giro di tavolo: i personaggi po
 
 ---
 
+### Scena Opzionale — Eco: Un Rapporto d'Intelligence Anomalo
+
+**Trigger:** durante o subito dopo il Rapporto Cupo (Fase 5), se un PG chiede a Marshal Vendri o al suo staff se esistono già informazioni raccolte sulla citadella volante, oppure durante il Tempo Sospeso (Fase 6) se un PG passa del tempo negli archivi militari di Castle Kalaman. Gioca questa scena solo se il tavolo ha già incontrato **Ser Maelis** in precedenza (Sessioni 09, 13 e/o 16); altrimenti il dettaglio non ha alcun significato e va omesso.
+
+**Contenuto:** l'aiutante di Vendri porta un piccolo fascio di rapporti raccolti da esploratori e informatori nelle ultime settimane — quasi tutti voci confuse e avvistamenti contraddittori. Uno solo si distingue: un'unica striscia di pergamena, non firmata, consegnata a una sentinella del Trade Gate settimane prima da un messaggero che nessuno ricorda in volto e che non si è mai ripresentato. Il sigillo che la chiudeva — ora spezzato — era di cera grigia, con l'impronta di una mano che tiene un occhio. Il contenuto è poche righe, criptiche ma stranamente accurate su come la citadella trae il proprio potere da un fuoco custodito al suo interno — un dettaglio che nessuno a Kalaman avrebbe potuto conoscere in anticipo.
+
+*[Aggiunta atmosferica]:*
+> *L'aiutante di Vendri lo mostra come si mostra qualcosa di cui ci si vergogna un po' — un rapporto troppo strano per essere preso sul serio, troppo preciso per essere ignorato del tutto. "L'abbiamo tenuto," dice, "perché non sapevamo cos'altro farne."*
+
+**[NOTA DM — riservata]** Non rivelare nulla oltre quanto scritto sopra: nessun PNG in questa scena sa chi abbia scritto il rapporto o come ne conoscesse il contenuto. È un'ulteriore traccia dello stesso potere che raccoglie segreti di guerra attraverso Ser Maelis — non necessariamente lui in persona, ma coerente con la sua rete. Vedi `fonti/campagna/filo-narrativo-multiverso.md`. Non nominare mai "Vecna" ai giocatori in questa campagna.
+
+---
+
 ## 🧩 THREAD NARRATIVI SETUP [S23]
 
 *[NOTA DM — riservata — Agente 4 / Session Missions Integrator]*
@@ -300,6 +313,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 | Day of Dread / Night of Terror | Materiale immediatamente successivo, non giocato in questa sessione | Tutti | Attivo — sviluppo completo rimandato a Sessione 23 | Fonte righe 5395–5542 |
 | Clystran, ancora assente da png-incontrati.md | Gap segnalato dalla Sessione 14, mai risolto | — | Da correggere post-sessione (persistente) | Vedi POST-SESSION CHECKLIST |
 | Correzione attitudine Darrett in png-incontrati.md | Discrepanza ereditata dalla Sessione 21, non ancora corretta | — | Da correggere post-sessione (persistente) | Vedi Sessione 21, FASE 3 |
+| Il rapporto d'intelligence anomalo (Ser Maelis) | Scena opzionale, Fase 5/6 — rapporto sigillato con cera grigia (mano con occhio), autore mai identificato | PG che hanno incontrato Maelis in S09/13/16 | Aperto — meta-narrativo, oltre lo scopo di questa campagna | `fonti/campagna/filo-narrativo-multiverso.md` |
 
 ---
 
