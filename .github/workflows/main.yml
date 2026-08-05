@@ -25,7 +25,7 @@ jobs:
           if [ -f package.json ]; then npm ci; fi
 
       - name: Build Foundry Packs
-        run: npx @foundryvtt/foundryvtt-cli package pack --in ./packs
+        run: npx @foundryvtt/foundryvtt-cli package pack --manifest ./module.json
 
       - name: Update module.json version and download URL
         run: |
