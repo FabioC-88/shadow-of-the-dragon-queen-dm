@@ -1,0 +1,48 @@
+name: Release Foundry Module
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update module.json version and download URL
+        run: |
+          # Estrae la versione rimuovendo il prefisso 'v' dal tag
+          VERSION="${GITHUB_REF_NAME#v}"
+          TAG="${GITHUB_REF_NAME}"
+          
+          # Aggiorna versione e URL di download usando jq
+          jq --arg v "$VERSION" \
+             --arg url "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/download/${TAG}/shadow-of-the-dragon-queen-dm-${TAG}.zip" \
+             '.version = $v | .download = $url' module.json > module.json.tmp && mv module.json.tmp module.json
+
+      - name: Commit updated module.json back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add module.json
+          git commit -m "chore: bump version in module.json to ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin HEAD:${{ github.event.repository.default_branch }}
+
+      - name: Create Zip Archive
+        run: |
+          zip -r "shadow-of-the-dragon-queen-dm-${GITHUB_REF_NAME}.zip" . -x ".git*" ".github*"
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            module.json
+            shadow-of-the-dragon-queen-dm-${{ github.ref_name }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
