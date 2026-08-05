@@ -18,16 +18,31 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 22
-  
-      - name: Install dependencies
+          node-version: "22"
+
+      - name: Install Foundry CLI dependency
+        run: npm install @foundryvtt/foundryvtt-cli
+
+      - name: Compile Compendia (LevelDB)
         run: |
-          if [ -f package.json ]; then npm ci; fi
-  
-      - name: Build Foundry Packs
-        run: |
-          npx @foundryvtt/foundryvtt-cli package workon shadow-of-the-dragon-queen-dm --type Module
-          npx @foundryvtt/foundryvtt-cli package pack
+          node -e '
+            const { compilePack } = require("@foundryvtt/foundryvtt-cli");
+            const fs = require("fs");
+            const path = require("path");
+
+            const packsDir = "./packs";
+            if (fs.existsSync(packsDir)) {
+              const entries = fs.readdirSync(packsDir, { withFileTypes: true });
+              for (const entry of entries) {
+                const srcPath = path.join(packsDir, entry.name, "_source");
+                const destPath = path.join(packsDir, entry.name);
+                if (entry.isDirectory() && fs.existsSync(srcPath)) {
+                  console.log(`Compiling ${entry.name}...`);
+                  compilePack(srcPath, destPath, { log: true });
+                }
+              }
+            }
+          '
 
       - name: Update module.json version and download URL
         run: |
@@ -48,7 +63,7 @@ jobs:
 
       - name: Create Zip Archive
         run: |
-          zip -r "shadow-of-the-dragon-queen-dm-${GITHUB_REF_NAME}.zip" . -x ".git*" ".github*"
+          zip -r "shadow-of-the-dragon-queen-dm-${GITHUB_REF_NAME}.zip" . -x ".git*" ".github*" "node_modules*" "packs/*/_source/*"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
