@@ -18,14 +18,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
-
+          node-version: 22
+  
       - name: Install dependencies
         run: |
           if [ -f package.json ]; then npm ci; fi
-
+  
       - name: Build Foundry Packs
-        run: npx @foundryvtt/foundryvtt-cli package pack --manifest ./module.json
+        run: |
+          npx @foundryvtt/foundryvtt-cli package workon shadow-of-the-dragon-queen-dm --type Module
+          npx @foundryvtt/foundryvtt-cli package pack
 
       - name: Update module.json version and download URL
         run: |
