@@ -12,58 +12,51 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "22"
+          node-version: "20"
 
-      - name: Install Foundry CLI dependency
-        run: npm install @foundryvtt/foundryvtt-cli
-
-      - name: Compile Compendia (LevelDB)
-        run: |
-          node -e '
-            const { compilePack } = require("@foundryvtt/foundryvtt-cli");
-            const fs = require("fs");
-            const path = require("path");
-
-            const packsDir = "./packs";
-            if (fs.existsSync(packsDir)) {
-              const entries = fs.readdirSync(packsDir, { withFileTypes: true });
-              for (const entry of entries) {
-                const srcPath = path.join(packsDir, entry.name, "_source");
-                const destPath = path.join(packsDir, entry.name);
-                if (entry.isDirectory() && fs.existsSync(srcPath)) {
-                  console.log(`Compiling ${entry.name}...`);
-                  compilePack(srcPath, destPath, { log: true });
-                }
-              }
-            }
-          '
+      - name: Install dependencies
+        run: npm ci
 
       - name: Update module.json version and download URL
         run: |
           VERSION="${GITHUB_REF_NAME#v}"
           TAG="${GITHUB_REF_NAME}"
-          
+          ZIP_NAME="shadow-of-the-dragon-queen-dm-${TAG}.zip"
+
           jq --arg v "$VERSION" \
-             --arg url "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/download/${TAG}/shadow-of-the-dragon-queen-dm-${TAG}.zip" \
+             --arg url "https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/download/${TAG}/${ZIP_NAME}" \
              '.version = $v | .download = $url' module.json > module.json.tmp && mv module.json.tmp module.json
 
-      - name: Commit updated module.json back to repo
+      - name: Build Foundry compendium packs
+        run: SKIP_BUMP=1 npm run build
+
+      - name: Verify packs were built
+        run: |
+          if [ ! -d packs ] || [ -z "$(ls -A packs)" ]; then
+            echo "::error::La cartella packs/ e' vuota dopo la build, interrompo la release."
+            exit 1
+          fi
+
+      - name: Commit updated module.json and packs back to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add module.json
-          git commit -m "chore: bump version in module.json to ${GITHUB_REF_NAME}" || echo "No changes to commit"
-          git push origin HEAD:${{ github.event.repository.default_branch }}
+          git add module.json packs
+          git commit -m "chore(release): ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin HEAD:main
 
       - name: Create Zip Archive
         run: |
-          zip -r "shadow-of-the-dragon-queen-dm-${GITHUB_REF_NAME}.zip" . -x ".git*" ".github*" "node_modules*" "packs/*/_source/*"
+          ZIP_NAME="shadow-of-the-dragon-queen-dm-${GITHUB_REF_NAME}.zip"
+          zip -r "$ZIP_NAME" module.json packs
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
