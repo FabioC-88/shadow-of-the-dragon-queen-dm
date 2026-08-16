@@ -7,7 +7,7 @@
 
 Vecna sta lavorando in silenzio, attraverso proxy e piani sovrapposti, **secoli prima** che i giocatori ne capiscano il nome. Il suo strumento principale in questa fase è il **Culto di Vecna**, che opera in cellule separate e ignare l'una dell'altra — ciascuna con un obiettivo locale che in realtà serve il piano globale del lich.
 
-Il filo che attraversa tutte le campagne è sottile: **un simbolo, una frase, un agente, un oggetto**. I giocatori non capiscono subito. Lo capiranno solo a Sigil.
+Il filo che attraversa tutte le campagne è sottile: **un simbolo, una frase, un agente, un oggetto**. I giocatori non capiscono subito. Lo capiranno solo nella quarta campagna.
 
 ---
 
@@ -44,7 +44,7 @@ Siete a metà campagna — ancora in tempo per seminare.
 
 2. **Più avanti (cap. 4):** Un informatore che i PG stavano per contattare è sparito. L'ultima persona che lo ha visto descrive "un uomo con un mantello grigio e la mano bendata". La mano bendata copre un tatuaggio.
 
-3. **Oggetto seminato:** Tra il bottino di Dragon Heist, aggiungere un **piccolo libro senza titolo** — le pagine sembrano vuote, ma alla luce di una candela si vedono frammenti di testo in una lingua sconosciuta. Non è decifrabile ora. (A Sigil, nella Faction War, qualcuno lo riconoscerà.)
+3. **Oggetto seminato:** Tra il bottino di Dragon Heist, aggiungere un **piccolo libro senza titolo** — le pagine sembrano vuote, ma alla luce di una candela si vedono frammenti di testo in una lingua sconosciuta. Non è decifrabile ora. (Nella quarta campagna, qualcuno lo riconoscerà.)
 
 **Cosa NON rivelare:** Il nome di Vecna. I Sussurratori non lo pronunciano mai. Parlano solo di "il Segreto Supremo" e "Colui che Non Si Nomina".
 
@@ -68,40 +68,50 @@ Si chiama **Ser Maelis** (o qualunque nome tu voglia). Non è un villain dello s
 
 3. **La rivelazione parziale:** Verso la fine della campagna, Ser Maelis sparisce. Poco prima, ha sussurrato a uno dei PG: *"I segreti che avete vissuto qui — non vi appartengono. Sono già stati registrati."* Poi svanisce come se non fosse mai esistito.
 
-4. **Oggetto seminato:** Uno dei PG potrebbe trovare tra le cose abbandonate di Maelis un **frammento di specchio nero** che non riflette chi lo guarda, ma mostra per un istante un luogo che nessuno dei PG conosce — una città dentro un anello, nel cielo.
+4. **Oggetto seminato:** Uno dei PG potrebbe trovare tra le cose abbandonate di Maelis un **frammento di specchio nero** che non riflette chi lo guarda, ma mostra per un istante un luogo che nessuno dei PG conosce — e che nessuno dei PG saprebbe descrivere: solo la certezza, inspiegabile, che quel posto esiste davvero.
+
+> **Nota:** la descrizione del luogo è deliberatamente vaga finché la quarta campagna non è scelta (vedi Atto IV). Quando lo sarà, questo frammento diventa il modo più economico per collegarla retroattivamente: basta decidere che lo specchio mostrava *quello*.
 
 ### Perché funziona
-I giocatori stanno vivendo tre campagne completamente diverse per tono, setting e temi. Il Culto di Vecna attraversa tutto come un'ombra che non si spiega mai del tutto. Quando arriveranno a Sigil, la rivelazione sarà genuinamente sorprendente.
+I giocatori stanno vivendo tre campagne completamente diverse per tono, setting e temi. Il Culto di Vecna attraversa tutto come un'ombra che non si spiega mai del tutto. Quando arriveranno al punto di convergenza, la rivelazione sarà genuinamente sorprendente.
 
 ---
 
-## ATTO IV — FACTION WAR ADATTATO (da costruire)
-### Mondo: Sigil, La Città delle Porte | Anno: Atemporale
+## ATTO IV — QUARTA CAMPAGNA (DA DEFINIRE)
+### Mondo: da decidere | Anno: da decidere
 
-### Il ruolo narrativo di questo atto
-Sigil è il **punto di convergenza**. I portali portano qui personaggi da Barovia, da Waterdeep, da Krynn — e per la prima volta si trovano nello stesso luogo, nello stesso momento.
+> **Stato:** la quarta campagna del ciclo **non è ancora stata scelta**. Questo atto descrive la *funzione* che deve svolgere, non il modulo che la realizzerà. Qualunque scenario sappia ospitare i quattro requisiti qui sotto va bene; scegliendolo, basterà riempire i segnaposto.
+
+### Il ruolo narrativo di questo atto — i quattro requisiti
+
+1. **È il punto di convergenza.** Personaggi provenienti da Barovia, da Waterdeep e da Krynn si trovano per la prima volta nello stesso luogo, nello stesso momento. Serve quindi uno scenario che possa plausibilmente raccogliere gente da mondi diversi — un crocevia, un rifugio, una convocazione, una catastrofe che attraversa i piani.
+2. **Ha un caos di superficie che il Culto può sfruttare.** Serve un conflitto locale abbastanza rumoroso da coprire l'operazione vera: mentre tutti guardano la crisi in primo piano, il Culto lavora dietro.
+3. **Contiene un archivio.** Qualcosa che custodisca verità che nessun mortale dovrebbe conoscere. È l'obiettivo del Culto e la ragione per cui questo atto esiste.
+4. **Ospita chi può pronunciare il nome.** Serve almeno un personaggio abbastanza vecchio, abbastanza erudito o abbastanza vicino alla morte da riconoscere il simbolo — vedi "La grande rivelazione".
 
 ### Come gestire il party
-Questo è il momento in cui i giocatori **scelgono quale PG portare avanti**. Puoi gestirlo così:
+Questo è il momento in cui i giocatori **scelgono quale PG portare avanti**:
 
 - Ogni giocatore presenta i suoi PG delle campagne precedenti come "candidati"
-- La sessione zero della Faction War serve a stabilire perché ognuno di loro è finito a Sigil — attraverso quale porta, per quale motivo
-- Possono anche giocare con PG nuovi, nativi dei Piani, se preferiscono
+- La sessione zero di questo atto serve a stabilire perché ognuno di loro è finito lì — per quale via, per quale motivo
+- Possono anche giocare con PG nuovi, nativi del luogo, se preferiscono
 
-### Il Culto di Vecna nella Faction War
-Nella tua versione adattata del modulo, il Culto di Vecna è una **quarta fazione nell'ombra** — non nominata nel modulo originale, ma che tu aggiungi come strato segreto.
+**[CASO SPECIALE — Razak Kendall]** Un giocatore ha portato lo **stesso nome e la stessa classe** in tutte e tre le campagne (vedi `fonti/personaggi/Razak-Kendall.md`). Per lui la domanda "quale PG porti avanti?" non è una scelta procedurale: è **la rivelazione**. Se i tre Razak arrivano insieme al punto di convergenza, questo atto ha già la sua scena madre e non serve costruirne un'altra.
 
-**Il loro obiettivo a Sigil:** Mentre Darkwood scatena la guerra tra le Fazioni, il Culto sfrutta il caos per **rubare i segreti dell'Archivio della Lady of Pain** — una raccolta di verità cosmiche che nessun mortale dovrebbe conoscere. Non è il piano principale dello scenario, ma è il filo che i PG possono tirare se hanno raccolto gli indizi dalle campagne precedenti.
+### Il Culto di Vecna in questo atto
+Il Culto è una **fazione nell'ombra** che aggiungi come strato segreto allo scenario, qualunque esso sia: non è previsto dal modulo originale e non è il piano principale, è il filo che i PG possono tirare se hanno raccolto gli indizi dalle campagne precedenti.
 
-**La grande rivelazione:** A Sigil i PG trovano finalmente qualcuno che conosce il simbolo della mano con l'occhio. Un anziano Dustman — un membro della fazione dei Dustmen — li guarda e dice piano: *"Quello è il Marchio del Non-Detto. Non dovreste averlo visto e essere ancora vivi."* E poi aggiunge il nome. Per la prima volta. **Vecna.**
+**Il loro obiettivo:** approfittare del caos di superficie per **saccheggiare l'archivio** (requisito 3) e impadronirsi delle verità cosmiche che custodisce.
+
+**La grande rivelazione:** i PG trovano finalmente qualcuno che conosce il simbolo della mano con l'occhio. Li guarda e dice piano: *"Quello è il Marchio del Non-Detto. Non dovreste averlo visto e essere ancora vivi."* E poi aggiunge il nome. Per la prima volta. **Vecna.**
 
 **Oggetti ritrovati:**
-- Il libro senza titolo di Dragon Heist può essere finalmente decifrato da un saggio di Sigil — contiene frammenti del **Libro di Vile Darkness**, copiati a mano da un cultista
-- Il frammento di specchio nero di Krynn mostra ora chiaramente Sigil — era una spia, non un souvenir
+- Il libro senza titolo di Dragon Heist viene finalmente decifrato — contiene frammenti del **Libro di Vile Darkness**, copiati a mano da un cultista
+- Il frammento di specchio nero di Krynn mostra ora chiaramente **il luogo in cui i PG si trovano adesso** — era una spia, non un souvenir
 
 ### Semi per Eve of Ruin
-- Uno degli agenti del Culto a Sigil, catturato dai PG, rivela prima di morire: *"Il piano è già in moto. Il rituale inizia quando il Segreto Supremo viene pronunciato ad alta voce nel cuore del multiverso."*
-- Mordenkainen, se i PG lo incontrano a Sigil (è canonicamente presente in Eve of Ruin), è già preoccupato — sa che qualcosa si muove, ma non sa cosa. I PG sanno più di lui.
+- Uno degli agenti del Culto, catturato dai PG, rivela prima di morire: *"Il piano è già in moto. Il rituale inizia quando il Segreto Supremo viene pronunciato ad alta voce nel cuore del multiverso."*
+- Se lo scenario scelto consente un incontro con **Mordenkainen** (canonicamente presente in Eve of Ruin), lui è già preoccupato — sa che qualcosa si muove, ma non sa cosa. I PG sanno più di lui.
 
 ---
 
@@ -109,9 +119,9 @@ Nella tua versione adattata del modulo, il Culto di Vecna è una **quarta fazion
 ### Mondo: Multiverso | Anno: post-1492 DR
 
 ### L'asso nella manica
-I PG di questa campagna **non sono avventurieri casuali chiamati all'avventura**. Sono persone che hanno attraversato Barovia, Waterdeep, Krynn e Sigil. Hanno visto il simbolo. Hanno parlato con gli agenti. Hanno i pezzi del puzzle.
+I PG di questa campagna **non sono avventurieri casuali chiamati all'avventura**. Sono persone che hanno attraversato Barovia, Waterdeep, Krynn e il punto di convergenza dell'Atto IV. Hanno visto il simbolo. Hanno parlato con gli agenti. Hanno i pezzi del puzzle.
 
-Quando Alustriel, Tasha e Mordenkainen li convocano a Sigil, uno di loro potrebbe dire: *"Vecna. Lo sapevamo già."*
+Quando Alustriel, Tasha e Mordenkainen li convocano, uno di loro potrebbe dire: *"Vecna. Lo sapevamo già."*
 
 E Mordenkainen, stupito, risponde: *"Come è possibile?"*
 
@@ -121,7 +131,7 @@ E Mordenkainen, stupito, risponde: *"Come è possibile?"*
 - **Barovia:** Patrina Velikovna è ancora lì. Sa qualcosa di Tenebrous e della rivalità con Vecna. Potrebbe essere una alleata inaspettata, o un ostacolo.
 - **Waterdeep:** I Sussurratori erano una cellula del Culto. Se i PG li hanno smantellati in Dragon Heist, Vecna ne è consapevole — e li odia personalmente.
 - **Krynn:** Ser Maelis è ancora vivo. È ora un alto ufficiale del Culto. I PG lo riconoscono.
-- **Sigil:** Hanno già navigato la politica planare. Non sono turisti del multiverso — sono veterani.
+- **Quarta campagna:** hanno già affrontato il Culto allo scoperto e conoscono il nome. Non sono turisti del multiverso — sono veterani.
 
 ---
 
@@ -132,14 +142,14 @@ E Mordenkainen, stupito, risponde: *"Come è possibile?"*
 | Curse of Strahd | Tomo con occhio nell'ultima pagina | Archivista scomparso | Occhio su pagina bianca |
 | Dragon Heist | Libro senza titolo (testo invisibile) | "I Sussurratori" | Mano con occhio incisa |
 | Shadow of the Dragon Queen | Frammento di specchio nero | Ser Maelis | Sigillo di cera grigia |
-| Faction War | Tutti i pezzi si riuniscono | Agente catturato | Il nome: Vecna |
+| Quarta campagna *(da definire)* | Tutti i pezzi si riuniscono | Agente catturato | Il nome: Vecna |
 | Eve of Ruin | — | Ser Maelis (ora alto ufficiale) | Il piano rivelato |
 
 ---
 
 ## NOTE FINALI PER IL DM
 
-**Sul ritmo delle rivelazioni:** I giocatori non devono mai sentire che stai "forzando" il collegamento. Il simbolo appare, viene notato o ignorato, e si va avanti. È solo a Sigil che diventa improvvisamente chiarissimo — e quella chiarezza deve sembrare inevitabile, non pianificata.
+**Sul ritmo delle rivelazioni:** I giocatori non devono mai sentire che stai "forzando" il collegamento. Il simbolo appare, viene notato o ignorato, e si va avanti. È solo nella quarta campagna che diventa improvvisamente chiarissimo — e quella chiarezza deve sembrare inevitabile, non pianificata.
 
 **Su Tenebrous:** Nella lore originale, Tenebrous (Orcus temporaneamente privo di divinità) tenta di rubare segreti cosmici per recuperare la sua apoteosi. Vecna è il suo rivale diretto in questo. Puoi usare questa tensione come motore sotterraneo: Barovia è un campo di battaglia tra le ambizioni di Tenebrous e quelle di Vecna, e i PG erano pedine inconsapevoli di quella guerra già nella prima campagna.
 

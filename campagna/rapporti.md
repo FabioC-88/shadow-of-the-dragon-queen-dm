@@ -11,7 +11,10 @@
 | PG | PNG | Relazione | Note |
 |----|-----|-----------|------|
 | [Tutti] | Ispin Greenshield | +3 Alleato (defunto) | La sua morte è il catalizzatore; il suo ricordo è un'ancora emotiva |
-| [PG1] | TBD | — | — |
+| Razak | Ispin Greenshield | Debito non saldato | Lo accudì per un inverno all'eremo mentre era sotto voto di silenzio: non gli ha mai rivolto la parola |
+| Razak | Maestro Halden Roke | +3 Alleato | Maestro dell'eremo del Filo di Rame; l'unico padre che abbia avuto |
+| Razak | Confratello Tobin Reyne | +2 Amichevole | Ex confratello, quasi un fratello maggiore; lasciò l'Ordine senza salutare |
+| Razak | Ser Maelis | — | **[NOTA DM — riservata]** Vedi "Segreti" in `fonti/personaggi/Razak-Kendall.md` |
 | [PG2] | TBD | — | — |
 
 ---

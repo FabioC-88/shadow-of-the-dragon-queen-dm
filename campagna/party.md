@@ -19,11 +19,12 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ## Personaggi
 
-### [Nome PG 1]
-**Giocatore:** —  
-**Razza / Classe:** —  
-**Background:** —  
-**Connessione a Ispin:** TBD  
+### Razak Kendall
+**Giocatore:** [DA COMPILARE]  
+**Razza / Classe:** Umano / Monaco — Ordine di Majere, Via del Sé Astrale  
+**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
+**Preludio (Cap. 2):** Broken Silence  
+**Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio  
 
 | | |
 |--|--|
@@ -33,10 +34,15 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+*Variante della voce 5 della tabella d6.* Nove anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak era al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
+
+**Razak non gli ha mai rivolto la parola.** Il voto finì l'anno dopo, quando Ispin era già lontano. Il funerale è l'ultima occasione per ringraziarlo, e arriva troppo tardi.
 
 #### PNG collegati
-- TBD
+- **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo a inizio campagna)
+- **Confratello Tobin Reyne** — lasciò l'Ordine anni fa; quasi un fratello maggiore
+- **Ispin Greenshield** — defunto
+- **[NOTA DM — riservata]** **Ser Maelis** — vedi la sezione "Segreti" in `fonti/personaggi/Razak-Kendall.md`
 
 ---
 
