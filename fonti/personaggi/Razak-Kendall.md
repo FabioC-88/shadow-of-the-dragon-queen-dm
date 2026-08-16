@@ -230,9 +230,9 @@ Suggerimenti di regia, tutti opzionali e tutti mutissimi:
 
 ### Il payoff
 
-Non cade in questa campagna. Cade nella **quarta campagna del ciclo, ancora da definire** (vedi `fonti/campagna/filo-narrativo-multiverso.md`, Atto IV): il punto di convergenza in cui i pezzi delle campagne precedenti si riuniscono e il nome viene pronunciato per la prima volta.
+Non cade in questa campagna, e non cade nemmeno nella prossima. Sigil (Atto IV, `fonti/campagna/filo-narrativo-multiverso.md`) è una campagna a sé, con PG nuovi — non il punto di convergenza. Il payoff cade in **Eve of Ruin (Atto V)**: il vero punto di convergenza, dove i pezzi delle quattro campagne precedenti si riuniscono e il nome viene pronunciato per la prima volta.
 
-La domanda che il ciclo pone, e a cui Razak è la risposta, è: **quanti Razak Kendall arrivano a quell'appuntamento?**
+La domanda che il ciclo pone, e a cui Razak è la risposta, è: **quanti Razak Kendall arrivano a quell'appuntamento — tre, o anche un quarto, se lo stesso giocatore lo riporta anche a Sigil?**
 
 Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giusta da fare è lasciare che il giocatore accumuli un disagio che non sa nominare.
 
