@@ -7,7 +7,7 @@
 
 Vecna sta lavorando in silenzio, attraverso proxy e piani sovrapposti, **secoli prima** che i giocatori ne capiscano il nome. Il suo strumento principale in questa fase è il **Culto di Vecna**, che opera in cellule separate e ignare l'una dell'altra — ciascuna con un obiettivo locale che in realtà serve il piano globale del lich.
 
-Il filo che attraversa tutte le campagne è sottile: **un simbolo, una frase, un agente, un oggetto**. I giocatori non capiscono subito. Lo capiranno solo nella quarta campagna.
+Il filo che attraversa tutte le campagne è sottile: **un simbolo, una frase, un agente, un oggetto**. I giocatori non capiscono subito. Capiranno solo quando i fili si riuniranno, in Eve of Ruin.
 
 ---
 
@@ -44,7 +44,7 @@ Siete a metà campagna — ancora in tempo per seminare.
 
 2. **Più avanti (cap. 4):** Un informatore che i PG stavano per contattare è sparito. L'ultima persona che lo ha visto descrive "un uomo con un mantello grigio e la mano bendata". La mano bendata copre un tatuaggio.
 
-3. **Oggetto seminato:** Tra il bottino di Dragon Heist, aggiungere un **piccolo libro senza titolo** — le pagine sembrano vuote, ma alla luce di una candela si vedono frammenti di testo in una lingua sconosciuta. Non è decifrabile ora. (Nella quarta campagna, qualcuno lo riconoscerà.)
+3. **Oggetto seminato:** Tra il bottino di Dragon Heist, aggiungere un **piccolo libro senza titolo** — le pagine sembrano vuote, ma alla luce di una candela si vedono frammenti di testo in una lingua sconosciuta. Non è decifrabile ora. (A Sigil qualcuno ne riconoscerà la scrittura — ma servirà Eve of Ruin per decifrarlo del tutto.)
 
 **Cosa NON rivelare:** Il nome di Vecna. I Sussurratori non lo pronunciano mai. Parlano solo di "il Segreto Supremo" e "Colui che Non Si Nomina".
 
@@ -68,70 +68,76 @@ Si chiama **Ser Maelis** (o qualunque nome tu voglia). Non è un villain dello s
 
 3. **La rivelazione parziale:** Verso la fine della campagna, Ser Maelis sparisce. Poco prima, ha sussurrato a uno dei PG: *"I segreti che avete vissuto qui — non vi appartengono. Sono già stati registrati."* Poi svanisce come se non fosse mai esistito.
 
-4. **Oggetto seminato:** Uno dei PG potrebbe trovare tra le cose abbandonate di Maelis un **frammento di specchio nero** che non riflette chi lo guarda, ma mostra per un istante un luogo che nessuno dei PG conosce — e che nessuno dei PG saprebbe descrivere: solo la certezza, inspiegabile, che quel posto esiste davvero.
+4. **Oggetto seminato:** Uno dei PG potrebbe trovare tra le cose abbandonate di Maelis un **frammento di specchio nero** che non riflette chi lo guarda, ma mostra per un istante un luogo che nessuno dei PG conosce — una città dentro un anello, sospesa nel vuoto, che nessuno di loro saprebbe descrivere: solo la certezza, inspiegabile, che quel posto esiste davvero.
 
-> **Nota:** la descrizione del luogo è deliberatamente vaga finché la quarta campagna non è scelta (vedi Atto IV). Quando lo sarà, questo frammento diventa il modo più economico per collegarla retroattivamente: basta decidere che lo specchio mostrava *quello*.
+> **Nota:** è **Sigil**, la Città delle Porte — dove i PG (o i loro eredi narrativi) metteranno piede nella quarta campagna del ciclo. Non spiegarlo ai giocatori qui: il valore della scena è atmosferico e presago, non informativo.
 
 ### Perché funziona
-I giocatori stanno vivendo tre campagne completamente diverse per tono, setting e temi. Il Culto di Vecna attraversa tutto come un'ombra che non si spiega mai del tutto. Quando arriveranno al punto di convergenza, la rivelazione sarà genuinamente sorprendente.
+I giocatori stanno vivendo tre campagne completamente diverse per tono, setting e temi. Il Culto di Vecna attraversa tutto come un'ombra che non si spiega mai del tutto. Quando arriveranno a Sigil, i pezzi inizieranno a incastrarsi — ma la rivelazione vera resta ancora un atto più avanti.
 
 ---
 
-## ATTO IV — QUARTA CAMPAGNA (DA DEFINIRE)
-### Mondo: da decidere | Anno: da decidere
+## ATTO IV — SIGIL: TURN OF FORTUNE'S WHEEL
+### Mondo: Sigil, La Città delle Porte (*Planescape: Adventures in the Multiverse*, 2023) | Anno: Atemporale
 
-> **Stato:** la quarta campagna del ciclo **non è ancora stata scelta**. Questo atto descrive la *funzione* che deve svolgere, non il modulo che la realizzerà. Qualunque scenario sappia ospitare i quattro requisiti qui sotto va bene; scegliendolo, basterà riempire i segnaposto.
+### Il collegamento da costruire
+Sigil è una campagna a sé, con PG nuovi — **non** è il punto di convergenza del ciclo. Quello arriva solo in Eve of Ruin (Atto V). Qui il filo di Vecna pianta il proprio seme esattamente come nelle tre campagne precedenti: un accenno, non una rivelazione.
 
-### Il ruolo narrativo di questo atto — i quattro requisiti
+La città è divisa in fazioni (Dustmen, Mercykillers, Fratellanza dell'Ordine, Sensate, e le altre di *Turn of Fortune's Wheel*) — una struttura politica ideale per nascondere un agente del Culto sotto una copertura filosofica plausibile.
 
-1. **È il punto di convergenza.** Personaggi provenienti da Barovia, da Waterdeep e da Krynn si trovano per la prima volta nello stesso luogo, nello stesso momento. Serve quindi uno scenario che possa plausibilmente raccogliere gente da mondi diversi — un crocevia, un rifugio, una convocazione, una catastrofe che attraversa i piani.
-2. **Ha un caos di superficie che il Culto può sfruttare.** Serve un conflitto locale abbastanza rumoroso da coprire l'operazione vera: mentre tutti guardano la crisi in primo piano, il Culto lavora dietro.
-3. **Contiene un archivio.** Qualcosa che custodisca verità che nessun mortale dovrebbe conoscere. È l'obiettivo del Culto e la ragione per cui questo atto esiste.
-4. **Ospita chi può pronunciare il nome.** Serve almeno un personaggio abbastanza vecchio, abbastanza erudito o abbastanza vicino alla morte da riconoscere il simbolo — vedi "La grande rivelazione".
+**Agente a Sigil:** un **Dustman di basso rango** — membro della fazione che crede che la vita sia solo un sonno e la vera morte l'unica liberazione. La sua fede lo mette naturalmente a contatto con moribondi, reliquie e confessioni finali: la copertura perfetta per raccogliere segreti, in eco diretta con l'archivista di Barovia (Atto I). Chiamalo come preferisci.
 
-### Come gestire il party
-Questo è il momento in cui i giocatori **scelgono quale PG portare avanti**:
+**Semi da inserire:**
 
-- Ogni giocatore presenta i suoi PG delle campagne precedenti come "candidati"
-- La sessione zero di questo atto serve a stabilire perché ognuno di loro è finito lì — per quale via, per quale motivo
-- Possono anche giocare con PG nuovi, nativi del luogo, se preferiscono
+1. **Primo incontro:** durante gli eventi di *Turn of Fortune's Wheel*, il Dustman si presenta come una fonte neutrale — offre informazioni sulla guerra di fazione in corso senza mai schierarsi apertamente. È troppo ben informato per essere solo un monaco della Mortuary.
 
-**[CASO SPECIALE — Razak Kendall]** Un giocatore ha portato lo **stesso nome e la stessa classe** in tutte e tre le campagne (vedi `fonti/personaggi/Razak-Kendall.md`). Per lui la domanda "quale PG porti avanti?" non è una scelta procedurale: è **la rivelazione**. Se i tre Razak arrivano insieme al punto di convergenza, questo atto ha già la sua scena madre e non serve costruirne un'altra.
+2. **Indizio visivo:** tra le sale della Mortuary (il quartier generale dei Dustmen), inciso su una maschera funeraria o un registro di decessi, il solito simbolo: una mano aperta con un occhio al centro del palmo.
 
-### Il Culto di Vecna in questo atto
-Il Culto è una **fazione nell'ombra** che aggiungi come strato segreto allo scenario, qualunque esso sia: non è previsto dal modulo originale e non è il piano principale, è il filo che i PG possono tirare se hanno raccolto gli indizi dalle campagne precedenti.
+3. **Oggetto seminato:** il frammento di specchio nero portato da Krynn (Atto III), qui a Sigil, per un istante smette di essere vago: mostra chiaramente la Mortuary, o un'altra location che i PG stanno per visitare. Non è più un presagio — è una conferma.
 
-**Il loro obiettivo:** approfittare del caos di superficie per **saccheggiare l'archivio** (requisito 3) e impadronirsi delle verità cosmiche che custodisce.
+**Cosa NON rivelare:** il nome di Vecna. Il Dustman, se interrogato, parla solo del "Segreto Supremo" — gli stessi termini usati dai Sussurratori a Waterdeep, se i PG fanno il collegamento.
 
-**La grande rivelazione:** i PG trovano finalmente qualcuno che conosce il simbolo della mano con l'occhio. Li guarda e dice piano: *"Quello è il Marchio del Non-Detto. Non dovreste averlo visto e essere ancora vivi."* E poi aggiunge il nome. Per la prima volta. **Vecna.**
-
-**Oggetti ritrovati:**
-- Il libro senza titolo di Dragon Heist viene finalmente decifrato — contiene frammenti del **Libro di Vile Darkness**, copiati a mano da un cultista
-- Il frammento di specchio nero di Krynn mostra ora chiaramente **il luogo in cui i PG si trovano adesso** — era una spia, non un souvenir
-
-### Semi per Eve of Ruin
-- Uno degli agenti del Culto, catturato dai PG, rivela prima di morire: *"Il piano è già in moto. Il rituale inizia quando il Segreto Supremo viene pronunciato ad alta voce nel cuore del multiverso."*
-- Se lo scenario scelto consente un incontro con **Mordenkainen** (canonicamente presente in Eve of Ruin), lui è già preoccupato — sa che qualcosa si muove, ma non sa cosa. I PG sanno più di lui.
+### Perché funziona
+Sigil è letteralmente un crocevia del multiverso — ogni fazione, ogni piano, ogni porta ci passa. È coerente che il Culto vi abbia un avamposto, ma resta comunque solo un tassello: la connessione fra le quattro campagne emerge solo quando qualcuno la mette insieme, in Eve of Ruin.
 
 ---
 
 ## ATTO V — VECNA: EVE OF RUIN
 ### Mondo: Multiverso | Anno: post-1492 DR
 
+### Il vero punto di convergenza
+A differenza delle quattro campagne precedenti, qui i PG **non sono personaggi nuovi**: sono il punto d'arrivo di Barovia, Waterdeep, Krynn e Sigil.
+
+### Come gestire il party
+Questo è il momento in cui i giocatori **scelgono quale PG portare avanti**:
+
+- Ogni giocatore presenta i suoi PG delle quattro campagne precedenti come "candidati"
+- La sessione zero di Eve of Ruin serve a stabilire perché ognuno di loro si trova a Neverwinter in quel momento — per quale via, per quale motivo
+- Possono anche giocare con PG nuovi, se preferiscono
+
+**[CASO SPECIALE — Razak Kendall]** Un giocatore ha portato lo **stesso nome e la stessa classe** in Curse of Strahd, Waterdeep: Dragon Heist e Shadow of the Dragon Queen (vedi `fonti/personaggi/Razak-Kendall.md`). Se lo stesso giocatore lo porta anche a Sigil, arriverebbero **quattro** incarnazioni allo stesso appuntamento — e per lui la domanda "quale PG porti avanti?" non è procedurale: è **la rivelazione** stessa.
+
 ### L'asso nella manica
-I PG di questa campagna **non sono avventurieri casuali chiamati all'avventura**. Sono persone che hanno attraversato Barovia, Waterdeep, Krynn e il punto di convergenza dell'Atto IV. Hanno visto il simbolo. Hanno parlato con gli agenti. Hanno i pezzi del puzzle.
+I PG hanno attraversato Barovia, Waterdeep, Krynn e Sigil. Hanno visto il simbolo. Hanno parlato con gli agenti. Non sanno ancora che si chiama Vecna — ma quando l'introduzione di Eve of Ruin lo rivela (il culto sventato a Neverwinter, i Wizards Three), uno dei PG potrebbe dire: *"Il segno... l'ho già visto. Più di una volta."*
 
-Quando Alustriel, Tasha e Mordenkainen li convocano, uno di loro potrebbe dire: *"Vecna. Lo sapevamo già."*
-
-E Mordenkainen, stupito, risponde: *"Come è possibile?"*
+E chi lo ascolta, stupito, potrebbe rispondere: *"Come è possibile?"*
 
 **Quel momento vale tutto il lavoro preparatorio.**
 
+### Il Culto allo scoperto
+L'introduzione di Eve of Ruin fa già da sé il lavoro che nelle bozze precedenti di questo documento era assegnato all'Atto IV: un culto di Vecna, un rituale sventato a Neverwinter, la rivelazione del nome. Non serve costruire una scena apposita — basta lasciare che i PG riconoscano ciò che hanno già visto altrove.
+
+### Oggetti finalmente compresi
+- Il libro senza titolo di Dragon Heist, già parzialmente letto a Sigil, viene decifrato del tutto: contiene frammenti del **Libro di Vile Darkness**, copiati a mano da un cultista.
+- Il frammento di specchio nero di Krynn, che a Sigil aveva già smesso di essere vago, ora chiude il cerchio: era una spia, non un souvenir.
+
 ### Connessioni specifiche con i setting visitati:
-- **Barovia:** Patrina Velikovna è ancora lì. Sa qualcosa di Tenebrous e della rivalità con Vecna. Potrebbe essere una alleata inaspettata, o un ostacolo.
+- **Barovia:** Patrina Velikovna è ancora lì. Sa qualcosa di Tenebrous e della rivalità con Vecna. Potrebbe essere un'alleata inaspettata, o un ostacolo.
 - **Waterdeep:** I Sussurratori erano una cellula del Culto. Se i PG li hanno smantellati in Dragon Heist, Vecna ne è consapevole — e li odia personalmente.
 - **Krynn:** Ser Maelis è ancora vivo. È ora un alto ufficiale del Culto. I PG lo riconoscono.
-- **Quarta campagna:** hanno già affrontato il Culto allo scoperto e conoscono il nome. Non sono turisti del multiverso — sono veterani.
+- **Sigil:** il Dustman che li aveva sfiorati è scomparso poco dopo il loro passaggio — se lo ritrovano, sa più di quanto dovrebbe.
+
+Eve of Ruin visita anche Planescape: se l'itinerario riporta i PG a Sigil, è un ritorno carico di significato, non una tappa qualunque.
 
 ---
 
@@ -142,14 +148,14 @@ E Mordenkainen, stupito, risponde: *"Come è possibile?"*
 | Curse of Strahd | Tomo con occhio nell'ultima pagina | Archivista scomparso | Occhio su pagina bianca |
 | Dragon Heist | Libro senza titolo (testo invisibile) | "I Sussurratori" | Mano con occhio incisa |
 | Shadow of the Dragon Queen | Frammento di specchio nero | Ser Maelis | Sigillo di cera grigia |
-| Quarta campagna *(da definire)* | Tutti i pezzi si riuniscono | Agente catturato | Il nome: Vecna |
-| Eve of Ruin | — | Ser Maelis (ora alto ufficiale) | Il piano rivelato |
+| Sigil (Turn of Fortune's Wheel) | Il frammento si "attiva" (mostra Sigil per davvero) | Dustman di basso rango | Maschera funeraria incisa |
+| Eve of Ruin | Tutti i pezzi si riuniscono | Ser Maelis (ora alto ufficiale) | Il nome: Vecna |
 
 ---
 
 ## NOTE FINALI PER IL DM
 
-**Sul ritmo delle rivelazioni:** I giocatori non devono mai sentire che stai "forzando" il collegamento. Il simbolo appare, viene notato o ignorato, e si va avanti. È solo nella quarta campagna che diventa improvvisamente chiarissimo — e quella chiarezza deve sembrare inevitabile, non pianificata.
+**Sul ritmo delle rivelazioni:** I giocatori non devono mai sentire che stai "forzando" il collegamento. Il simbolo appare, viene notato o ignorato, e si va avanti. È solo in Eve of Ruin che diventa improvvisamente chiarissimo — e quella chiarezza deve sembrare inevitabile, non pianificata.
 
 **Su Tenebrous:** Nella lore originale, Tenebrous (Orcus temporaneamente privo di divinità) tenta di rubare segreti cosmici per recuperare la sua apoteosi. Vecna è il suo rivale diretto in questo. Puoi usare questa tensione come motore sotterraneo: Barovia è un campo di battaglia tra le ambizioni di Tenebrous e quelle di Vecna, e i PG erano pedine inconsapevoli di quella guerra già nella prima campagna.
 

@@ -113,12 +113,12 @@ I principali luogotenenti di Kansaldi includono:
 
 ### Filo Narrativo Nascosto — Culto di Vecna (Meta-arco, riservato DM)
 
-**[NOTA DM — riservata]** Questa campagna fa parte di un meta-arco che il DM sta costruendo attraverso più campagne (Curse of Strahd, Waterdeep: Dragon Heist, Shadow of the Dragon Queen, una quarta campagna ancora da scegliere, Vecna: Eve of Ruin) — vedi `fonti/campagna/filo-narrativo-multiverso.md` per il documento completo. In questa campagna il filo è incarnato da **Ser Maelis** (vedi PNG Chiave sopra e `campagna/png-incontrati.md`), un agente infiltrato che raccoglie segreti di guerra per un potere non dichiarato.
+**[NOTA DM — riservata]** Questa campagna fa parte di un meta-arco che il DM sta costruendo attraverso più campagne (Curse of Strahd, Waterdeep: Dragon Heist, Shadow of the Dragon Queen, Sigil — Turn of Fortune's Wheel, Vecna: Eve of Ruin) — vedi `fonti/campagna/filo-narrativo-multiverso.md` per il documento completo. In questa campagna il filo è incarnato da **Ser Maelis** (vedi PNG Chiave sopra e `campagna/png-incontrati.md`), un agente infiltrato che raccoglie segreti di guerra per un potere non dichiarato.
 
 Punti di contatto già innestati nelle sessioni prodotte:
 - **Sessione 09** — primo incontro (scena opzionale, "salva" i PG da un'imboscata)
 - **Sessione 13** — indizio visivo (sigillo di cera grigia, mano con occhio, tra gli effetti di Camp Carrionclay)
-- **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce il luogo dove il filo si chiuderà (quarta campagna del ciclo, ancora da definire)
+- **Sessione 16** — rivelazione parziale e scomparsa; ritrovamento di un frammento di specchio nero che presagisce Sigil, la quarta campagna del ciclo (*Turn of Fortune's Wheel*) — il filo si chiuderà solo più avanti, in Vecna: Eve of Ruin
 
 Tra la Sessione 16 e la Sessione 28, Maelis non ricompare mai di persona — solo due piccole tracce indirette, deliberatamente sparse per non affollare i momenti narrativi centrali del finale (Leedara, lo specchio dei passati riflessi, Lord Soth):
 - **Sessione 22** — un rapporto d'intelligence anonimo sulla citadella volante, sigillato con la stessa cera grigia, trovato negli archivi di Kalaman
