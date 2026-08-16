@@ -39,7 +39,7 @@
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| [PG1] | +1 Cordiale | — |
+| Razak | +1 Cordiale | — |
 | [PG2] | +1 Cordiale | — |
 
 ---
@@ -57,7 +57,7 @@
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| [PG1] | +1 Cordiale | — |
+| Razak | +1 Cordiale | — |
 
 ---
 
@@ -198,7 +198,7 @@
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| [PG1] | +1 Cordiale | — |
+| Razak | +1 Cordiale | — |
 
 ---
 
@@ -276,6 +276,44 @@
 | **Tratto** | Imponente, maledetto, inesorabile; non porta mai la sconfitta ai livelli tipici della campagna |
 | **Attitudine Iniziale** | -3 Ostile |
 | **Note** | [NOTA DM] CR 19 — NON è pensato per essere ucciso in combattimento. È una forza della narrativa. I PG possono rimuoverlo dalla servitù della Dragon Queen attraverso la storia, non attraverso lo scontro. Usa Leedara e la sua maledizione come strumento narrativo |
+
+---
+
+## PNG Legati ai PG — Razak Kendall
+
+> PNG del passato del personaggio, non previsti dalla fonte del modulo. Nessuno compare in gioco a meno che il DM non lo introduca. Scheda completa del PG: `fonti/personaggi/Razak-Kendall.md`
+
+### Maestro Halden Roke
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Maestro dell'eremo del Filo di Rame (Ordine di Majere), altipiani dell'Hinterlund |
+| **Prima Apparizione** | Nessuna — presente nel background di Razak. Introducibile dal Cap. 3 in poi |
+| **Affiliazione** | Ordine di Majere |
+| **Tratto Caratteristico** | Anziano, asciutto, parla per constatazioni e mai per ordini. Non ha mai concesso un permesso in vita sua: fa notare che non serviva |
+| **Attitudine Iniziale** | +3 Alleato (verso Razak) |
+| **Note** | Trovò Razak neonato sulla soglia e decise che un bambino con un nome era un bambino che qualcuno aveva pensato. È l'unico padre che Razak abbia avuto. **Leva narrativa:** l'eremo si trova a una giornata e mezza a nord-ovest di Vogler, **sulla traiettoria dell'invasione del Cap. 3-4**. Decidere se sopravvive **prima** di giocare la Sessione 02 — è una scelta che pesa sull'intero arco del personaggio. **[NOTA DM — riservata]** Non sa nulla del ricamo sulla stoffa oltre a ciò che ha raccontato a Razak; non è un depositario di segreti, ed è meglio che resti tale |
+
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| Razak | +3 Alleato | — |
+
+---
+
+### Confratello Tobin Reyne
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Ex monaco dell'eremo del Filo di Rame; oggi ignoto |
+| **Prima Apparizione** | Nessuna — PNG jolly, introducibile ovunque serva |
+| **Affiliazione** | Nessuna (ha lasciato l'Ordine) |
+| **Tratto Caratteristico** | Loquace fino all'eccesso, come chi ha recuperato anni di silenzio e non intende più smettere |
+| **Attitudine Iniziale** | +2 Amichevole (verso Razak) |
+| **Note** | Più vecchio di Razak di sei anni, gli fece quasi da fratello maggiore. Lasciò l'Ordine perché non reggeva il voto del silenzio — non per crisi di fede, ma per carattere. Se ne andò senza salutare, e Razak lo ha sempre considerato l'unica cosa che l'eremo abbia perso davvero. **Uso consigliato:** PNG di riserva a costo zero, riutilizzabile come mercenario del Reggimento Ironclad, profugo di Vogler a Kalaman, o disertore incontrato in strada. Serve al DM quando ha bisogno di un volto amico che conosca Razak da prima della campagna |
+
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| Razak | +2 Amichevole | — |
 
 ---
 
