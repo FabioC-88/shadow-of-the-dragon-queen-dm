@@ -1,0 +1,5 @@
+# Output intermedio di `npm run build`: JSON generati da build-foundry.mjs
+# prima della compilazione dei pack Foundry. Rigenerabile, non versionato.
+src/
+
+node_modules/

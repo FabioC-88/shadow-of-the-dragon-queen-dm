@@ -46,11 +46,12 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ---
 
-### [Nome PG 2]
-**Giocatore:** —  
-**Razza / Classe:** —  
-**Background:** —  
-**Connessione a Ispin:** TBD  
+### Garrick Ashwatch
+**Giocatore:** [DA COMPILARE]  
+**Razza / Classe:** Umano / Mago — Scuola di Divinazione, apprendista delle Vesti Rosse (Lunitari)  
+**Background:** Mago dell'Alta Stregoneria — *Iniziato dell'Alta Stregoneria (Lunitari)*. Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
+**Preludio (Cap. 2):** Eye in the Sky  
+**Connessione a Ispin:** Gli fece tracciare la provenienza di un cimelio, e poi non smise di scrivergli  
 
 | | |
 |--|--|
@@ -60,10 +61,17 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+*Variante della voce 2 della tabella d6.* Ispin si presentò alla tenuta Firewatch quando Garrick aveva sedici anni, con una spilla di bronzo corrosa e una domanda sulla sua provenienza. Nessuno in casa aveva tempo per il cimelio di un forestiero; Garrick sì. Ci mise nove giorni e gli mise davanti una casata estinta da centotrent'anni, il ramo cadetto e la battaglia da cui l'oggetto era stato saccheggiato. Ispin lo ascoltò fino alla fine — il primo adulto che gli chiedesse qualcosa perché sapeva farlo.
+
+**Dopo la disgrazia, Ispin fu l'unico che continuò a scrivergli.** Undici lettere in sette anni, che non nominavano mai il processo. Garrick non ha risposto all'ultima, ed è partito per Vogler con quella lettera in tasca.
 
 #### PNG collegati
-- TBD
+- **Ser Dorvan Firewatch** — padre, Cavaliere della Rosa. Lo ha riaccolto per giustizia, non per perdono (vivo)
+- **Ser Alenne Firewatch** — sorella minore, Cavaliere della Corona. Ha il posto che sarebbe stato suo (viva)
+- **Aeliran Dawnhollow** — elfo, Veste Bianca, Divinatore di Wayreth. Mentore e creditore
+- **Ilyana Duskmourn** — Veste Nera, ammaliatrice di Nuitari. Lo ha usato e distrutto
+- **Ispin Greenshield** — defunto
+- **[NOTA DM — riservata]** vedi le sezioni *Il vero uso di Garrick al tavolo* e *La pagina che manca* in `fonti/personaggi/Garrick-Ashwatch.md`
 
 ---
 
