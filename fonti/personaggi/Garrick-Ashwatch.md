@@ -4,7 +4,7 @@
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
 
-> **Nota di metodo.** Il nucleo di questo background è del giocatore: la Casa Firewatch, l'inganno di Ilyana, il mentore Aeliran, la scelta della Divinazione, il cambio di cognome. Sono stati corretti quattro punti che non reggevano — la geografia dell'inganno, il grado nell'Ordine, la passività di Garrick nella propria vicenda, l'assenza di Ispin Greenshield — e sono stati aggiunti i legami con la campagna. Gli elementi inventati (Ser Dorvan, Ser Alenne, la fiera d'autunno di Kalaman, la pagina mancante) sono marcati come tali e non contraddicono la fonte del modulo: stanno nei vuoti che il modulo lascia aperti.
+> **Nota.** Il nucleo di questo background è del giocatore: la Casa Firewatch, l'inganno di Ilyana, il mentore Aeliran, la Divinazione, il cambio di cognome. Ho corretto quattro cose che non tornavano (la geografia dell'inganno, il grado nell'Ordine, il fatto che Garrick nella propria storia non facesse niente, l'assenza di Ispin) e ho aggiunto i collegamenti alla campagna. I nomi che ho inventato io sono Ser Dorvan, Ser Alenne, la fiera d'autunno di Kalaman e la faccenda della pagina mancante. Niente di tutto questo contraddice il modulo.
 
 ---
 
@@ -13,121 +13,119 @@
 | Elemento | Valore |
 |---|---|
 | **Nome** | Garrick Ashwatch, nato Garrick Firewatch |
-| **Popolo** | Umano (Solamnia — confine orientale) |
+| **Popolo** | Umano (Solamnia, confine orientale) |
 | **Classe** | Mago |
 | **Sottoclasse** | Scuola di Divinazione |
 | **Background** | Mago dell'Alta Stregoneria → *Iniziato dell'Alta Stregoneria (Lunitari)* |
-| **Ordine** | Vesti Rosse — **apprendista, non ancora Provato** |
-| **Divinità** | Lunitari (per vocazione); Paladine (per nascita, e non ci ha mai fatto pace) |
+| **Ordine** | Vesti Rosse. **Apprendista, non ancora Provato** |
+| **Divinità** | Lunitari per scelta. Paladine per nascita, e non ci ha fatto pace |
 | **Allineamento** | Legale Neutrale |
-| **Età** | 26 anni *(l'inganno risale a sette anni fa)* |
+| **Età** | 26 anni. L'inganno risale a sette anni fa |
 | **Preludio (Cap. 2)** | **Eye in the Sky** |
-| **Connessione a Ispin** | Ispin gli fece tracciare la provenienza di un cimelio — e poi continuò a scrivergli — vedi sezione dedicata |
+| **Connessione a Ispin** | Gli identificò un cimelio, e poi Ispin non smise di scrivergli |
 
 ### Aspetto
 
-Alto, stretto di spalle, con quel tipo di magrezza che non viene dalla fatica ma dal non essere mai stato chiamato a usarla. Ventisei anni portati con la postura di qualcuno abituato a stare chino su un tavolo. Mani curate, macchiate d'inchiostro alle prime due dita della destra.
+Alto, stretto di spalle, magro. Ventisei anni portati con la schiena di uno che sta seduto a un tavolo da quando ne aveva dodici. Mani pulite, con l'inchiostro sulle prime due dita della destra.
 
-Porta la veste rossa **arrotolata e legata in fondo allo zaino**, non addosso: non ha ancora il diritto di indossarla. Al collo, sotto la camicia, un sigillo di ceralacca spezzato — l'unico frammento che gli resta dei documenti di famiglia che portò via quella notte. Non lo mostra a nessuno.
+La veste rossa la tiene arrotolata in fondo allo zaino e non la indossa. Sotto la camicia porta un sigillo di ceralacca spezzato, l'unico pezzo rimasto dei documenti che portò via quella notte, e non lo fa vedere a nessuno.
 
-Quando ascolta, inclina la testa di pochi gradi e smette di battere le palpebre. È un'abitudine da archivista: sta catalogando.
+Quando ascolta piega la testa di lato e smette di battere le palpebre.
 
 ### Tratti
 
 | | |
 |---|---|
-| **Tratto** | Ricorda i nomi. Tutti, sempre, con le parentele annesse — e li usa, il che a volte mette a disagio chi credeva di non essere stato notato. |
-| **Ideale** | *Equilibrio.* Non come dottrina, come metodo di sopravvivenza. Il bene assoluto non gli ha lasciato spazio per sbagliare; il male gli ha mostrato cosa costa volere troppo. Sta nel mezzo perché è l'unico posto in cui è riuscito a rialzarsi. |
-| **Legame** | Ispin Greenshield è stato l'unico che ha continuato a scrivergli dopo la disgrazia. Non ha mai risposto all'ultima lettera. |
-| **Difetto** | Ha creduto a una persona una volta sola, e gli è costato il nome. Adesso verifica tutto — e chiamare "prudenza" quella che è diffidenza gli riesce benissimo. |
+| **Tratto** | Si ricorda i nomi di tutti, con le parentele annesse, e ogni tanto li tira fuori con gente che era convinta di non essere stata notata. |
+| **Ideale** | Equilibrio, ma non per convinzione filosofica. Ha visto quanto costa volere troppo e ha passato tre anni sotto un maestro che non sbagliava mai. Sta nel mezzo perché è lì che riesce a funzionare. |
+| **Legame** | Ispin Greenshield gli ha scritto per sette anni quando non lo faceva più nessuno. All'ultima lettera non ha risposto. |
+| **Difetto** | Si è fidato di una persona sola in vita sua e gli è costato il cognome. Adesso controlla tutto due volte e non si rende conto di quanto sia diventato diffidente. |
 
 ---
 
 ## Background
 
-### Sangue di Solamnia
+### La casata
 
-La Casa Firewatch affonda le radici nei secoli immediatamente successivi alla fondazione dell'Ordine, quando i primi Cavalieri pattugliavano i passi montani in nome della Misura. Da generazioni la famiglia venera Paladine, e per tradizione ogni Firewatch che dimostri il temperamento adatto finisce per servire tra i **Cavalieri della Rosa** — l'Ordine che più di ogni altro incarna saggezza e giustizia. Il nome stesso della casata, *la sentinella del fuoco*, richiama l'antico compito di tenere accese le torri di segnalazione lungo il confine orientale: un dovere considerato sacro quanto la spada.
+I Firewatch servono i Cavalieri di Solamnia da talmente tanto tempo che in famiglia nessuno sa più dire con precisione da quando. Il blasonario di casa parte da un capitano di torre e i registri più antichi sono bruciati due generazioni fa. Venerano Paladine. Quelli che ne hanno il fisico e il carattere finiscono quasi sempre tra i Cavalieri della Rosa, gli altri servono comunque lungo il confine orientale, dove la casata ha l'incarico ereditario di tenere accese le torri di segnalazione. Da lì viene il nome.
 
-Garrick è il quarto di cinque figli di **Ser Dorvan Firewatch**, Cavaliere della Rosa. I due fratelli maggiori crebbero forti e risoluti, plasmati fin da bambini per l'armatura e il giuramento. La sorella minore, **Alenne**, era ancora una ragazzina quando tutto crollò, e già allora i maestri d'armi la indicavano come la più promettente della generazione — oggi porta lo speron d'argento dei **Cavalieri della Corona**, e ha ereditato il posto che sarebbe toccato a lui.
+Garrick è il quarto di cinque figli di **Ser Dorvan Firewatch**. I due maggiori sono andati in armatura come previsto. **Alenne**, la più piccola, aveva undici anni quando lui se ne andò e oggi porta lo sperone dei Cavalieri della Corona: i maestri d'armi avevano cominciato a parlarne bene quando ne aveva otto.
 
-Garrick crebbe sano ma mingherlino, con un fisico che non trovò mai la forza né la scioltezza richieste dalla spada. Non ci fu vergogna dichiarata — solo la lenta, inesorabile certezza che il suo posto non sarebbe mai stato in prima linea. A dodici anni fu affidato agli amministratori della tenuta, a tenere registri e conti.
+Garrick è cresciuto magro e senza forza nelle braccia. Nessuno gliel'ha mai rinfacciato apertamente. Semplicemente a dodici anni lo hanno messo con gli amministratori della tenuta, ai registri e ai conti dei grani, e la questione si è chiusa lì.
 
-Ma fu nelle ore libere, chino sui volumi di storia e araldica della biblioteca di famiglia, che trovò davvero sé stesso. Ricostruiva lignaggi dimenticati e battaglie perdute con una precisione che sorprendeva anche i maestri di lettere: dove gli altri vedevano elenchi, lui vedeva **schemi**. Un Firewatch destinato, pensavano tutti, a diventare un buon amministratore.
+Il pomeriggio, finito il lavoro, andava in biblioteca. Un centinaio di volumi scarsi, per metà blasonari e cronache di guerra, e li ha letti tutti. Aveva una facilità particolare a incrociare le fonti: da tre elenchi di caduti e una lista di dote riusciva a ricostruire una parentela che nessuno aveva mai messo per iscritto. I maestri di lettere lo dicevano al padre, il padre annuiva e rispondeva che sarebbe diventato un buon amministratore.
 
-Nessuno immaginava cosa si nascondesse dietro quella mente ordinata. Compreso lui.
+### Ispin
 
-### L'uomo che lo ascoltò
+A sedici anni si presentò alla tenuta un avventuriero in pensione con una spilla di bronzo mangiata dalla ruggine e una domanda: di chi era stata, e come poteva essere finita in un mercato di Nordmaar.
 
-Aveva sedici anni quando alla tenuta si presentò un avventuriero in ritiro, con una spilla di bronzo corrosa e una domanda: di chi era stata, e come era finita in un mercato di Nordmaar.
+Nessuno in casa aveva tempo per la spilla di un forestiero. Garrick sì. Ci mise nove giorni, tre blasonari e una lettera all'archivio di Palanthas, e alla fine gli portò il nome di una casata estinta da centotrent'anni, il ramo cadetto a cui l'oggetto apparteneva e la battaglia in cui con ogni probabilità era stato preso.
 
-Nessuno dei Firewatch aveva tempo per la spilla di un forestiero. Garrick sì. Ci mise nove giorni, tre volumi di blasonario e una lettera all'archivio di Palanthas, e alla fine gli mise davanti il nome di una casata estinta da centotrent'anni, il ramo cadetto, e la battaglia da cui l'oggetto era stato con ogni probabilità saccheggiato.
+**Ispin Greenshield** lo stette a sentire per tutta la spiegazione, che fu lunga, e alla fine gli disse che aveva pagato profumatamente gente che gli aveva risposto peggio. Poi si fermò altri due giorni e parlò di Becklin, di Cudgel e di posti che nella biblioteca esistevano solo come nomi sulle carte.
 
-**Ispin Greenshield** lo ascoltò fino alla fine. Non lo interruppe, non gli chiese di sbrigarsi, e quando ebbe finito gli disse che aveva conosciuto uomini pagati profumatamente per fare peggio. Poi rimase altri due giorni, e parlò — di Becklin, di Cudgel, di posti che nella biblioteca esistevano solo come nomi su una carta.
+Tornò altre due volte negli anni seguenti, sempre con qualcosa da far identificare. La scusa era trasparente e a Garrick andava bene così.
 
-Tornò altre due volte negli anni successivi, sempre con qualcosa da far identificare, sempre con la stessa scusa trasparente.
+Dopo il processo, quando alla tenuta smisero di nominarlo, Ispin continuò a scrivergli. Lettere corte e piene di errori, che della faccenda dei documenti non facevano mai cenno: parlavano di una moneta strana, di un tale conosciuto a Kalaman, di un inverno passato male. Ne sono arrivate undici in sette anni. Garrick le ha tenute tutte e all'ultima non ha risposto.
 
-E dopo la disgrazia, quando la casata chiuse le porte e suo padre smise di rivolgergli la parola, **Ispin fu l'unico che continuò a scrivere**. Lettere brevi, mal ortografate, che non menzionavano mai il processo: solo posti, gente, una spilla, una moneta strana. Garrick ne conserva undici.
-
-Non ha mai risposto all'ultima. Poi è arrivato l'invito al funerale.
+L'invito al funerale è arrivato qualche mese dopo.
 
 ### L'inganno
 
-Aveva diciannove anni quando la incontrò alla **fiera d'autunno di Kalaman**, dove la tenuta lo mandava ogni anno a chiudere i conti dei grani. Una donna dalla voce come miele versato lentamente, che sembrava vedere in lui qualcosa che nessuno — nemmeno lui stesso — aveva mai notato. Disse di chiamarsi **Ilyana Duskmourn**. Lo ascoltava per ore parlare di genealogie e antichi stemmi come se fossero poesia. Lo faceva sentire, per la prima volta nella sua vita, necessario.
+La tenuta lo mandava ogni autunno a Kalaman per chiudere i conti dei grani. Aveva diciannove anni la volta che alla fiera incontrò una donna che disse di chiamarsi **Ilyana Duskmourn**.
 
-Fu lei a proporgli di lasciare la tenuta una notte, portando con sé documenti di famiglia che — disse — avrebbero protetto entrambi da un matrimonio combinato che la minacciava. Garrick, innamorato e cieco, li prese senza fare domande.
+Lo stava a sentire, ed è la parte che ancora adesso fa fatica a spiegare. Non promise niente, non chiese niente per settimane, si sedeva e lo lasciava parlare di stemmi e parentele come se fosse un argomento interessante.
 
-Erano registri di confine, mappe di pattuglia, i sigilli privati della Casa Firewatch: la posizione, i turni e le parole d'ordine di ogni torre di segnalazione del settore orientale.
+A dicembre gli disse che la famiglia voleva darla a un uomo del Nightlund e che doveva sparire, e che le servivano documenti in grado di garantirle un passaggio lungo il confine. Garrick prese quello che gli aveva chiesto e uscì dalla tenuta di notte.
 
-Quando la Guardia di Solamnia li fermò tre giorni dopo, Ilyana era già scomparsa, e ogni prova puntava a un solo colpevole.
+Erano registri di confine, mappe di pattuglia e due sigilli privati della casata. Messi insieme davano posizioni, turni e parole d'ordine di ogni torre di segnalazione del settore orientale.
 
-Fu diseredato prima ancora che iniziasse un vero processo. Suo padre non gli rivolse più la parola.
+La Guardia di Solamnia lo fermò tre giorni dopo, da solo. Di Ilyana non si trovò traccia. Su ogni documento sequestrato c'erano le sue mani e il sigillo che aveva preso lui.
 
-### La redenzione a metà
+Il padre lo diseredò prima ancora che il processo entrasse nel vivo. Da allora non gli ha più rivolto la parola.
 
-A intervenire fu **Aeliran Dawnhollow**, elfo delle Vesti Bianche, Divinatore di lunga fama presso la Torre di Wayreth. Aveva incrociato Garrick anni prima durante una visita alla biblioteca di famiglia, ed era rimasto colpito dal modo in cui il ragazzo leggeva connessioni negli antichi documenti araldici — la stessa disciplina mentale, avrebbe detto poi, che è il cuore della vera divinazione.
+### Aeliran
 
-Fu Aeliran a rintracciare la verità: Ilyana non era né una vittima né un'innamorata sincera, ma un'agente delle **Vesti Nere**, un'ammaliatrice di Nuitari che aveva usato Garrick per sottrarre alla famiglia informazioni strategiche sul confine orientale — per conto di interessi che l'elfo non riuscì mai a nominare.
+A tirarlo fuori fu **Aeliran Dawnhollow**, un elfo delle Vesti Bianche, divinatore, di stanza alla Torre di Wayreth. Anni prima era passato dalla biblioteca dei Firewatch per consultare un blasonario e si era ricordato del ragazzo che glielo aveva trovato in mezzo minuto.
 
-Le prove bastarono a ripulire il nome della Casa Firewatch. Non bastarono a restituire a Garrick il proprio posto in essa. Suo padre lo riaccolse formalmente — un gesto di giustizia, non di perdono — ma la fiducia, quella, non tornò mai.
+Ci mise otto mesi. Alla fine dimostrò che Ilyana Duskmourn lavorava per le Vesti Nere, che si era avvicinata a Garrick di proposito e che quello che le interessava erano le torri, non un matrimonio. Per conto di chi lo stesse facendo non riuscì a stabilirlo.
 
-Fu allora che Garrick scelse da sé il proprio cognome: **Ashwatch**. Non più il fuoco della casata, solo ciò che resta quando un fuoco si è spento.
+Bastò a ripulire il nome della casata. Non bastò a restituire a Garrick il suo posto dentro la casata. Il padre lo riammise formalmente perché era la cosa giusta da fare, e da quel giorno lo tratta come si tratta un ospite.
 
-#### La pagina che manca
+Fu in quel periodo che smise di firmarsi Firewatch. Ashwatch se lo è scelto da solo: non più il fuoco della casata, solo quello che resta quando un fuoco si è spento.
 
-C'è un pezzo che Aeliran non ha chiuso, e che Garrick si è tenuto.
+### La pagina che manca
 
-Dei registri sottratti, la Guardia recuperò gli originali. Ma Ilyana ne aveva **ricopiato** una parte prima di sparire, e la copia che le fu sequestrata dall'alloggio è incompleta: manca un foglio. Aeliran stabilì cosa contenevano tutti gli altri; su quello mancante si fermò, disse che non era necessario, e chiuse il caso.
+C'è un pezzo che Aeliran non ha chiuso.
 
-Garrick sa esattamente quale foglio è. Riporta le tre torri più a nord del settore — quelle che guardano verso il Nightlund e le terre oltre il Vingaard. Sa anche che non è stato un errore: nessuno copia una mappa di pattuglia e si dimentica proprio la parte che dà sull'est.
+Gli originali dei registri furono recuperati tutti. Ma Ilyana ne aveva ricopiati alcuni prima di sparire, e la copia trovata nel suo alloggio è incompleta: manca un foglio. Aeliran ricostruì il contenuto di tutti gli altri, su quello si fermò, disse che non cambiava niente e chiuse il fascicolo.
 
-Sette anni dopo, con le Armate dei Draghi in movimento da quella direzione, quel foglio ha smesso di essere una ferita personale ed è diventato qualcos'altro.
+Garrick sa quale foglio è, perché li aveva trascritti lui. Riporta le tre torri più a nord del settore, quelle che guardano oltre il Vingaard verso il Nightlund. Non crede che sia andato perso per caso.
 
-### Il fuoco nuovo
+Per sette anni è stata soprattutto una cosa che lo teneva sveglio la notte. Poi le Armate dei Draghi hanno cominciato a muoversi da quella parte.
 
-Sotto la guida di Aeliran, Garrick scoprì ciò che nessun maestro d'armi aveva mai visto in lui: la mente che catalogava lignaggi con precisione ossessiva era perfetta per la **Divinazione**, la scuola che premia chi sa scorgere schemi dove altri vedono solo caos. Ciò che il corpo non poteva fare, la mente lo fece con una naturalezza che lasciò presto indietro allievi entrati anni prima di lui.
+### Wayreth
 
-Scelse la **Veste Rossa** — non per neutralità filosofica, come molti seguaci di Lunitari, ma per un motivo più personale: rifiutava sia l'ambizione cieca che lo aveva rovinato, sia la purezza assoluta del suo stesso mentore, che non gli aveva mai lasciato spazio per gli errori. L'equilibrio, per Garrick, non è un ideale astratto. È l'unica cosa che gli ha permesso di rialzarsi.
+Aeliran gli propose di studiare con lui e Garrick accettò perché non aveva altro da fare.
 
-**Ma non è ancora un Veste Rossa.** L'apprendistato si chiude con la **Prova dell'Alta Stregoneria**, e la Prova si fallisce morendo. Garrick è stato riconosciuto idoneo a presentarsi: nient'altro. La veste che porta nello zaino è un impegno, non un grado — e finché non l'avrà guadagnata, praticare magia fuori dalla tutela dell'Ordine lo espone all'accusa che teme più di ogni altra: **rinnegato**. Un'altra parola per dire *ladro del nome che porta*.
+Si scoprì che la cosa che sapeva fare da sempre, tenere in testa duecento nomi e vedere dove si incrociavano, è esattamente quello che serve a un divinatore. Recuperò in fretta il ritardo su allievi entrati anni prima di lui.
 
-Ha giurato, in silenzio, che un giorno ritroverà Ilyana Duskmourn — non per vendetta cieca, dice a sé stesso, ma per la verità che gli è stata rubata insieme all'onore. Con il ritorno delle Armate dei Draghi sospetta che le forze che lo hanno usato una volta si stiano muovendo di nuovo.
+La scelta della Veste Rossa la spiega poco volentieri. Quando lo fa dice che l'ambizione senza freni gli è già costata tutto una volta, e che tre anni sotto un maestro che non sbagliava mai gli sono bastati. Sta in mezzo perché è il solo posto dove è riuscito a rimettersi in piedi.
 
-E questa volta ha una pagina mancante, un archivio in testa, e nessun nome da perdere.
+Un Veste Rossa però non lo è ancora. L'apprendistato si chiude con la **Prova dell'Alta Stregoneria**, e la Prova è congegnata in modo che chi non la supera muoia. Garrick è stato dichiarato idoneo a presentarsi, niente di più. Finché non l'avrà passata, praticare magia fuori dalla tutela dell'Ordine lo espone all'accusa di essere un rinnegato, e per uno che ha già perso il cognome una volta quella parola pesa parecchio.
+
+Vuole ritrovare Ilyana Duskmourn. Sostiene che non sia per vendetta ma per sapere come è andata davvero, e probabilmente ci crede.
 
 ---
 
 ## Connessione a Ispin Greenshield
 
-*Variante della voce 2 della tabella d6 (l'avventuriero che chiese aiuto e non se ne dimenticò).*
+*Variante della voce 2 della tabella d6 (l'avventuriero che gli chiese aiuto e non se ne dimenticò).*
 
-Ispin arrivò alla tenuta Firewatch quando Garrick aveva sedici anni, con una spilla da identificare. Fu l'unico adulto della sua adolescenza che gli chiese qualcosa **perché sapeva farlo**, e non perché nessun altro avesse voglia di occuparsene.
+Ispin arrivò alla tenuta Firewatch che Garrick aveva sedici anni, con una spilla da identificare. Fu il primo adulto che gli chiedesse qualcosa perché sapeva farlo e non perché nessun altro avesse voglia di occuparsene. Tornò due volte. Poi Garrick finì sotto processo, e Ispin fu l'unico a continuare a scrivere: undici lettere in sette anni, senza mai accennare alla faccenda.
 
-Tornò due volte. Poi Garrick cadde in disgrazia, e Ispin fu l'unico a scrivere — per sette anni, undici lettere, senza mai nominare il processo.
+Garrick non ha risposto all'ultima. È partito per Vogler con quella lettera in tasca e non sa ancora che non farà in tempo a rimediare.
 
-Garrick non ha risposto all'ultima. È partito per Vogler con quella lettera in tasca, e non sa ancora che non farà in tempo a rimediare.
-
-> **Specchio con Razak.** Con Razak, Ispin fu quello che parlava a un ragazzo che non poteva rispondere. Con Garrick fu l'esatto contrario: quello che *ascoltava* un ragazzo che nessuno stava a sentire. È lo stesso uomo, letto da due angoli diversi — e se i due giocatori se ne accorgono da soli al funerale, è il momento migliore della sessione 1.
+> **Specchio con Razak.** Con Razak, Ispin è quello che parla a un ragazzo che non può rispondere. Con Garrick è quello che ascolta un ragazzo che nessuno sta a sentire. Stesso uomo visto da due angoli. Se i due giocatori se ne accorgono da soli al funerale, lasciali fare.
 
 ---
 
@@ -135,44 +133,44 @@ Garrick non ha risposto all'ultima. È partito per Vogler con quella lettera in 
 
 | PNG | Ruolo | Stato |
 |---|---|---|
-| **Ispin Greenshield** | Il primo che lo ascoltò, e l'ultimo che gli scrisse | Defunto — il funerale apre la campagna |
-| **Ser Dorvan Firewatch** | Padre. Cavaliere della Rosa. Lo ha riaccolto per giustizia, non per perdono | Vivo, alla tenuta |
-| **Ser Alenne Firewatch** | Sorella minore. Cavaliere della Corona. Ha il posto che sarebbe stato suo | Viva, in servizio — collocabile ovunque servano Cavalieri |
-| **Aeliran Dawnhollow** | Elfo, Veste Bianca, Divinatore di Wayreth. Mentore. Gli ha salvato il nome e gli ha lasciato un debito | Vivo, a Wayreth |
-| **Ilyana Duskmourn** | Veste Nera, ammaliatrice di Nuitari. Lo ha usato e distrutto | Viva — posizione a discrezione del DM |
-| **Wyhan** | Veste Nera a Kalaman. Riceverà la sua pergamena nel Cap. 4 | Vedi modulo, Cap. 4 |
+| **Ispin Greenshield** | Il primo che lo ascoltò e l'ultimo che gli scrisse | Defunto. Il funerale apre la campagna |
+| **Ser Dorvan Firewatch** | Padre. Cavaliere della Rosa. Lo ha riammesso in casa e lo tratta da ospite | Vivo, alla tenuta |
+| **Ser Alenne Firewatch** | Sorella minore. Cavaliere della Corona. Ha il posto che sarebbe toccato a lui | Viva, in servizio. Collocabile dove servono Cavalieri |
+| **Aeliran Dawnhollow** | Elfo, Veste Bianca, divinatore di Wayreth. Maestro, e creditore | Vivo, a Wayreth |
+| **Ilyana Duskmourn** | Veste Nera, ammaliatrice di Nuitari. Lo ha usato e rovinato | Viva. Posizione a discrezione del DM |
+| **Wyhan** | Veste Nera a Kalaman. Riceve la sua pergamena nel Cap. 4 | Vedi modulo, Cap. 4 |
 
 ---
 
 ## [NOTA DM — riservata]
 
-*Nulla di questa sezione è noto al giocatore.*
+*Niente di questa sezione è noto al giocatore.*
 
-### Il vero uso di Garrick al tavolo
+### A cosa ti serve Garrick
 
-La competenza dichiarata di Garrick è **araldica e lignaggi**: sa leggere uno stemma, un sigillo, una parentela. Questo lo rende lo strumento naturale per far emergere il segreto di Razak (vedi `fonti/personaggi/Razak-Kendall.md`, sezione *Segreti*), che ruota attorno a un cavaliere e quindi attorno a un nome e a un blasone.
+Sa leggere stemmi, sigilli e parentele. Il segreto di Razak (vedi `fonti/personaggi/Razak-Kendall.md`, sezione *Segreti*) gira attorno a un cavaliere, quindi attorno a un nome e a un blasone. Garrick è lo strumento naturale per farlo emergere.
 
-**Il rubinetto resta in mano al DM.** Garrick non indovina: *riconosce*, quando gli metti davanti la cosa giusta. Usalo per rivelare quando hai deciso che è ora, e avrai due risultati in un colpo — un momento di gloria per Garrick che nasce dal suo background e non dalla sua scheda, e un legame fra i due PG che non è "ci siamo conosciuti in taverna". Nessuno dei due giocatori deve saperlo in anticipo.
+Il rubinetto però resta tuo: Garrick non indovina, riconosce, e solo quando gli metti davanti la cosa giusta. Usalo per rivelare quando hai deciso tu che è il momento. Ci guadagni due cose, una scena in cui Garrick brilla per il suo background e non per la sua scheda, e un legame fra i due PG che non sia "ci siamo conosciuti in taverna". Nessuno dei due giocatori deve saperlo prima.
 
-### Gestire un Divinatore senza farsi saltare i misteri
+### Gestire un divinatore senza bruciarsi i misteri
 
-Portent, e più avanti *individuazione del pensiero*, *identificare*, *sapere leggendario*, sono esattamente gli strumenti che smontano un mistero preparato. Tre regole d'uso:
+Portent, e più avanti *individuazione del pensiero*, *identificare* e *sapere leggendario*, sono gli strumenti fatti apposta per smontare quello che hai preparato. Tre regole:
 
-1. **Mai negare la magia.** Se una divinazione funzionerebbe, funziona. Negarla insegna al giocatore che la sua scelta di scuola è stata punita.
-2. **Rispondi alla domanda esatta.** La divinazione dà schemi, non conclusioni: un nome senza il contesto, una data senza il movente, uno stemma senza chi lo porta oggi. È fedele alle regole e ti lascia il controllo del ritmo.
-3. **Fai costare la risposta.** Ogni volta che Garrick guarda troppo lontano a est, qualcosa a est si accorge di lui. Non è una punizione: è il seme del suo arco.
+1. **Non negare mai la magia.** Se un incantesimo funzionerebbe, funziona. Negarlo insegna al giocatore che scegliere la Divinazione è stato un errore.
+2. **Rispondi alla domanda esatta, non a quella implicita.** La divinazione restituisce schemi: un nome senza il contesto, una data senza il movente, uno stemma senza chi lo porta adesso. Resti fedele alle regole e tieni il ritmo in mano.
+3. **Fai costare le risposte.** Ogni volta che Garrick guarda troppo lontano verso est, qualcosa a est si accorge di lui. Non è una punizione, è l'innesco del suo arco.
 
 ### Ilyana Duskmourn
 
-Lasciata volutamente non collocata. Aggancio consigliato: **Wyhan** (Cap. 4) la conosce — stesso Ordine, stessa città in cui operava sette anni fa. Non lo dirà gratis.
+L'ho lasciata volutamente senza collocazione. L'aggancio più comodo è **Wyhan** nel Cap. 4: stesso Ordine, stessa città in cui Ilyana operava sette anni fa. Non lo dirà gratis.
 
-La pagina mancante riporta le tre torri che guardano verso il Nightlund: quando deciderai a chi servivano quei turni di guardia, avrai legato la vicenda personale di Garrick alla trama principale senza aggiungere una sottotrama concorrente. Fino ad allora, la pagina è un gancio che puoi caricare come preferisci.
+Il foglio mancante riguarda le tre torri che guardano verso il Nightlund. Quando deciderai a chi servivano quei turni di guardia avrai legato la storia personale di Garrick alla trama principale, invece di ritrovarti una sottotrama che compete con essa. Fino ad allora è un gancio che carichi come ti pare.
 
-### Vincoli da dichiarare in sessione 0
+### Da dire in sessione 0
 
-- **Allineamento vincolante.** Legale Neutrale è valido per le Vesti Rosse (la neutralità che conta è quella sull'asse bene/male). Sul canone AD&D adottato dal tavolo, però, una deriva verso il bene o verso il male impone il cambio d'Ordine o lo status di **rinnegato**. Da dire prima che accada, non dopo.
-- **Non è ancora un Veste Rossa.** La Prova dell'Alta Stregoneria è un evento futuro da giocare, non un dato di partenza. Il preludio *Eye in the Sky* e la consegna della pergamena a Wyhan (Cap. 4) sono i primi due passi.
-- **Il debito verso Aeliran.** Un Veste Bianca che ti ha salvato il nome è un creditore scomodo per un Veste Rossa. Attivabile quando serve attrito fra Garrick e il suo Ordine.
+- **L'allineamento è vincolante.** Legale Neutrale va bene per le Vesti Rosse, perché la neutralità che conta è quella sull'asse bene/male. Sul canone AD&D adottato al tavolo, però, una deriva verso il bene o verso il male comporta il cambio d'Ordine o lo status di rinnegato. Meglio dirlo prima che succeda.
+- **Non è ancora un Veste Rossa.** La Prova è un evento da giocare, non un dato di partenza. Il preludio *Eye in the Sky* e la consegna della pergamena a Wyhan sono i primi due passi.
+- **Il debito verso Aeliran.** Un Veste Bianca che ti ha salvato il nome è un creditore scomodo per un Veste Rossa. Tienilo da parte per quando ti serve attrito fra Garrick e il suo Ordine.
 
 ---
 
@@ -180,14 +178,14 @@ La pagina mancante riporta le tre torri che guardano verso il Nightlund: quando 
 
 | Punto | Prima | Ora |
 |---|---|---|
-| **Ispin Greenshield** | Assente | Sezione dedicata + presenza in due scene del background. Requisito di campagna soddisfatto |
-| **Grado nell'Ordine** | "Veste Rossa di Lunitari" | Apprendista non ancora Provato. La Prova diventa un traguardo giocabile |
-| **Luogo dell'inganno** | Fiera a Solace (Abanasinia, dall'altra parte del continente) | Fiera d'autunno di Kalaman — Ilyana ha operato dove si gioca |
-| **Passività** | Aeliran risolve tutto, Garrick subisce | Aggiunta *la pagina che manca*: un filo aperto che è compito suo |
-| **Sorella minore** | Menzionata di sfuggita | Ser Alenne Firewatch, Cavaliere della Corona — PNG utilizzabile |
-| **Padre** | Anonimo | Ser Dorvan Firewatch, Cavaliere della Rosa |
-| **Ilyana** | Movente vago ("interessi oscuri a est") | Obiettivo preciso (le torri di segnalazione) e aggancio a Wyhan/Armate dei Draghi |
+| **Ispin Greenshield** | Assente | Sezione dedicata, più presenza in due punti del background. Requisito di campagna coperto |
+| **Grado nell'Ordine** | "Veste Rossa di Lunitari" | Apprendista non ancora Provato. La Prova diventa un traguardo da giocare |
+| **Luogo dell'inganno** | Fiera a Solace, che sta in Abanasinia dall'altra parte del continente | Fiera d'autunno di Kalaman. Ilyana ha operato dove si gioca |
+| **Garrick passivo** | Aeliran risolve tutto, lui subisce | Aggiunto il foglio mancante: un filo aperto che tocca a lui |
+| **Sorella minore** | Nominata di sfuggita | Ser Alenne Firewatch, Cavaliere della Corona. PNG utilizzabile |
+| **Padre** | Senza nome | Ser Dorvan Firewatch, Cavaliere della Rosa |
+| **Ilyana** | Movente vago, "interessi oscuri a est" | Obiettivo preciso (le torri) e aggancio a Wyhan e alle Armate dei Draghi |
 | **Età** | Non indicata | 26 anni, sette dall'inganno |
 | **Allineamento** | Non indicato nel testo | Legale Neutrale, integrato nei Tratti e nell'Ideale |
 
-**Da chiedere ancora al giocatore:** conferma dell'età (26 è una proposta, non un vincolo) e via libera sul nome dei familiari, se ne aveva in mente altri.
+**Ancora da chiedere al giocatore:** conferma dell'età (26 è una proposta) e via libera sui nomi dei familiari, se ne aveva in mente altri.

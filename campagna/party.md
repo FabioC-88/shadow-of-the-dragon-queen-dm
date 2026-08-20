@@ -61,9 +61,9 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 2 della tabella d6.* Ispin si presentò alla tenuta Firewatch quando Garrick aveva sedici anni, con una spilla di bronzo corrosa e una domanda sulla sua provenienza. Nessuno in casa aveva tempo per il cimelio di un forestiero; Garrick sì. Ci mise nove giorni e gli mise davanti una casata estinta da centotrent'anni, il ramo cadetto e la battaglia da cui l'oggetto era stato saccheggiato. Ispin lo ascoltò fino alla fine — il primo adulto che gli chiedesse qualcosa perché sapeva farlo.
+*Variante della voce 2 della tabella d6.* Ispin si presentò alla tenuta Firewatch che Garrick aveva sedici anni, con una spilla di bronzo mangiata dalla ruggine e una domanda sulla sua provenienza. Nessuno in casa aveva tempo per il cimelio di un forestiero. Garrick sì: ci mise nove giorni e gli portò il nome di una casata estinta da centotrent'anni, il ramo cadetto a cui la spilla apparteneva e la battaglia in cui era stata presa. Ispin lo stette a sentire fino in fondo, primo adulto che gli chiedesse qualcosa perché sapeva farlo.
 
-**Dopo la disgrazia, Ispin fu l'unico che continuò a scrivergli.** Undici lettere in sette anni, che non nominavano mai il processo. Garrick non ha risposto all'ultima, ed è partito per Vogler con quella lettera in tasca.
+**Dopo il processo Ispin fu l'unico a continuare a scrivergli.** Undici lettere in sette anni, che della faccenda dei documenti non facevano mai cenno. Garrick all'ultima non ha risposto, ed è partito per Vogler con quella in tasca.
 
 #### PNG collegati
 - **Ser Dorvan Firewatch** — padre, Cavaliere della Rosa. Lo ha riaccolto per giustizia, non per perdono (vivo)
