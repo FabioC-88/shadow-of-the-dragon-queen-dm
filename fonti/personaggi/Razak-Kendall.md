@@ -20,6 +20,7 @@
 | **Divinità** | **Majere** (LG — meditazione e ordine; simbolo: **ragno di rame**) |
 | **Allineamento** | Legale Buono |
 | **Età** | 27 anni |
+| **Lingue** | Comune, **Solamnico**, **Lingua dei Segni dell'Ordine di Majere** *(vedi nota nella sezione "Il voto")* |
 | **Preludio (Cap. 2)** | **Broken Silence** |
 | **Connessione a Ispin** | Variante della voce 5 della tabella d6 — vedi sezione dedicata |
 
@@ -72,6 +73,8 @@ Razak ha smesso di farsi domande su quel ricamo verso i quindici anni. Non perch
 
 A diciannove anni Razak prese il voto lungo del silenzio: **tre anni senza parola**. Non è una punizione né un'ascesi spettacolare — nell'Ordine di Majere è un metodo. Chi non può rispondere impara ad ascoltare fino in fondo, perché non ha la scorciatoia di interrompere.
 
+Il voto non chiede il silenzio assoluto in ogni circostanza — solo quello della voce. Per questo, da generazioni, l'Ordine tramanda una propria **lingua dei segni**: essenziale, fatta di gesti che dicono l'indispensabile e niente di più, esattamente come vuole la Regola. Non è nata per chi non può sentire: è nata per chi ha scelto di non parlare, e serve a non isolarlo del tutto dal resto della comunità durante gli anni del voto. Solo chi ha preso i voti la conosce — fuori dall'eremo, per chiunque altro, sono solo movimenti delle mani.
+
 Fu durante il secondo anno di voto che arrivò Ispin.
 
 ### La partenza
@@ -105,6 +108,8 @@ Maestro Roke assegnò il novizio più giovane a occuparsi di lui: cambiargli le 
 Così accadde questo: l'uomo che non smetteva mai di parlare passò un intero inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
 
 Ispin raccontò il porto di Kalaman e l'odore che ha una città quando arrivano le navi. Raccontò Becklin e la sua armatura assurda, e Cudgel che riusciva a bere in piedi qualunque cosa. Raccontò mostri marini che erano quasi certamente pesci grossi, e goblin che erano quasi certamente meno numerosi di come li ricordava. Non gli importava di non essere creduto: gli importava che qualcuno stesse ascoltando, e Razak — obbligato al silenzio — era il miglior ascoltatore che avesse mai avuto.
+
+Qualche volta, senza che nessuno glielo chiedesse, Razak rispondeva — con la lingua dei segni dell'Ordine, per abitudine più che per bisogno: un gesto per "vero?", uno per "ancora". Ispin non l'ha mai riconosciuta per quello che era. Rideva, pensava fosse un gioco per tenere occupate le mani di un ragazzo costretto a stare fermo, e continuava a raccontare senza aspettarsi una risposta che, in un certo senso, gli stava già arrivando.
 
 Verso la fine, quando la neve cominciò a cedere, Ispin disse una cosa che non era una storia:
 
