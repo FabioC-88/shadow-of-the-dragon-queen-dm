@@ -48,8 +48,8 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Garrick Ashwatch
 **Giocatore:** [DA COMPILARE]  
-**Razza / Classe:** Umano / Mago — Scuola di Divinazione, apprendista delle Vesti Rosse (Lunitari)  
-**Background:** Mago dell'Alta Stregoneria — *Iniziato dell'Alta Stregoneria (Lunitari)*. Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
+**Razza / Classe:** Umano / Mago — Scuola di Divinazione, apprendista dell'Alta Stregoneria (nessuna veste, non ancora Provato)  
+**Background:** Mago dell'Alta Stregoneria — *Iniziato dell'Alta Stregoneria*. Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
 **Preludio (Cap. 2):** Eye in the Sky  
 **Connessione a Ispin:** Gli fece tracciare la provenienza di un cimelio, e poi non smise di scrivergli  
 
@@ -67,7 +67,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 #### PNG collegati
 - **Ser Dorvan Firewatch** — padre, Cavaliere della Rosa. Lo ha riaccolto per giustizia, non per perdono (vivo)
-- **Ser Alenne Firewatch** — sorella minore, Cavaliere della Corona. Ha il posto che sarebbe stato suo (viva)
+- **Alenne Firewatch** — sorella minore, sette anni che non la vede (viva). **[NOTA DM]** oggi è Cavaliere della Corona: non dirlo al giocatore, deve scoprirlo incontrandola
 - **Aeliran Dawnhollow** — elfo, Veste Bianca, Divinatore di Wayreth. Mentore e creditore
 - **Ilyana Duskmourn** — Veste Nera, ammaliatrice di Nuitari. Lo ha usato e distrutto
 - **Ispin Greenshield** — defunto
