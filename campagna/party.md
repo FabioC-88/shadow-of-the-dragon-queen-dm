@@ -69,7 +69,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 - **Ser Dorvan Firewatch** — padre, Cavaliere della Rosa. Lo ha riaccolto per giustizia, non per perdono (vivo)
 - **Alenne Firewatch** — sorella minore, sette anni che non la vede (viva). **[NOTA DM]** oggi è Cavaliere della Corona: non dirlo al giocatore, deve scoprirlo incontrandola
 - **Aeliran Dawnhollow** — elfo, Veste Bianca, Divinatore di Wayreth. Mentore e creditore
-- **Ilyana Duskmourn** — Veste Nera, ammaliatrice di Nuitari. Lo ha usato e distrutto
+- **Ilyana Duskmourn** — aveva la sua età, apprendista delle Vesti Nere. Lo ha usato su ordine di qualcuno. **[NOTA DM]** anche lei alle porte della Prova: si rincontrano nel Cap. 4 a Kalaman, nella bottega di Wyhan
 - **Ispin Greenshield** — defunto
 - **[NOTA DM — riservata]** vedi le sezioni *Il vero uso di Garrick al tavolo* e *La pagina che manca* in `fonti/personaggi/Garrick-Ashwatch.md`
 
