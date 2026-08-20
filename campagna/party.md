@@ -22,9 +22,10 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 ### Razak Kendall
 **Giocatore:** [DA COMPILARE]  
 **Razza / Classe:** Umano / Monaco — Ordine di Majere, Via del Sé Astrale  
-**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
+**Background:** Cavaliere di Solamnia — *Scudiero di Solamnia*. Cresciuto all'eremo del Filo di Rame, poi quattro anni da scudiero di Becklin a Thornwall Keep. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
+**Ordine:** Nessuno. Scudiero mai investito; guarda alla Spada, sceglie al 4° livello  
 **Preludio (Cap. 2):** Broken Silence  
-**Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio  
+**Connessione a Ispin:** Lo accudì per un inverno all'eremo mentre era sotto voto di silenzio, e cinque anni dopo gli è andato a vivere accanto  
 
 | | |
 |--|--|
@@ -34,12 +35,13 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 5 della tabella d6.* Nove anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak era al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
+*Variante della voce 5 della tabella d6.* Sette anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Roke mise il novizio più giovane a occuparsene, e Razak aveva vent'anni ed era al secondo anno del voto lungo del silenzio. Ispin parlò per tre mesi a un ragazzo che non poteva rispondere.
 
-**Razak non gli ha mai rivolto la parola.** Il voto finì l'anno dopo, quando Ispin era già lontano. Il funerale è l'ultima occasione per ringraziarlo, e arriva troppo tardi.
+Due anni dopo il voto è finito e Razak è sceso a Vogler, dove Ispin viveva ritirato da anni. Si sono frequentati per quattro anni. **In quattro anni Razak non gli ha mai detto che era sceso per una frase che Ispin gli aveva detto a marzo, l'ultimo giorno all'eremo.** Ispin è morto senza sapere di essere stato il motivo.
 
 #### PNG collegati
-- **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo a inizio campagna)
+- **Becklin Uth Viharin** — la sua cavaliera. Lo prese come scudiero cinque anni fa su segnalazione di Ispin. **[NOTA DM]** muore con ogni probabilità nel Cap. 3, davanti a lui
+- **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo, malato da circa un anno)
 - **Confratello Tobin Reyne** — lasciò l'Ordine anni fa; quasi un fratello maggiore
 - **Ispin Greenshield** — defunto
 - **[NOTA DM — riservata]** **Ser Maelis** — vedi la sezione "Segreti" in `fonti/personaggi/Razak-Kendall.md`

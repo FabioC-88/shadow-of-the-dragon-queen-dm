@@ -33,14 +33,14 @@
 | **Prima Apparizione** | Capitolo 3 (lettera di invito al funerale; presenza a Vogler) |
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
-| **Attitudine Iniziale** | +1 Cordiale (chi arriva al funerale per rispetto a Ispin guadagna la sua fiducia) |
-| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa |
+| **Attitudine Iniziale** | +1 Cordiale (chi arriva al funerale per rispetto a Ispin guadagna la sua fiducia). **+3 con Razak**, che è il suo scudiero da cinque anni |
+| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak Kendall:** lo prese come scudiero cinque anni fa su segnalazione di Ispin, senza fare domande sulla famiglia che non c'era, e in quattro anni ha imparato sette o otto segni della lingua dell'Ordine di Majere per parlargli durante le riunioni lunghe. La sua morte nel Cap. 3 avviene quindi davanti al proprio scudiero — vedi la nota dedicata in `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | +1 Cordiale | — |
-| [PG2] | +1 Cordiale | — |
+| Razak | +3 Alleato | La sua cavaliera. Lo ha preso quando non lo voleva nessuno |
+| Garrick | +1 Cordiale | Stesso ordine di sua sorella Alenne: è il canale del primo indizio (vedi scheda Garrick) |
 
 ---
 

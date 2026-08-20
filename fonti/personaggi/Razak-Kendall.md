@@ -4,7 +4,7 @@
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
 
-> **Nota di metodo.** Il nome e la classe sono scelta del giocatore. Tutto il resto è costruito per aderire alla fonte del modulo (`fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`) e al meta-arco del DM (`fonti/campagna/filo-narrativo-multiverso.md`). Gli elementi inventati — l'eremo del Filo di Rame, Maestro Halden Roke, Confratello Tobin Reyne — sono marcati come tali e non contraddicono nulla della fonte: sono collocati nei vuoti che il modulo lascia aperti.
+> **Nota.** Del giocatore sono il nome, la classe, la Via del Sé Astrale, le lingue e la scelta di legarsi ai Cavalieri di Solamnia. Ho costruito il resto attorno a quelle cinque cose. Gli elementi che ho inventato io sono l'eremo del Filo di Rame, Maestro Halden Roke, Tobin Reyne, la lingua dei segni dell'Ordine e il periodo da scudiero a Thornwall Keep. Niente contraddice il modulo.
 
 ---
 
@@ -13,35 +13,42 @@
 | Elemento | Valore |
 |---|---|
 | **Nome** | Razak Kendall |
-| **Popolo** | Umano (Solamnia — provincia di Hinterlund) |
+| **Popolo** | Umano (Solamnia, provincia di Hinterlund) |
 | **Classe** | Monaco |
-| **Sottoclasse** | Via del Sé Astrale *(Tasha's Cauldron of Everything)* |
-| **Background** | Eremita — vedi nota regole più sotto |
-| **Divinità** | **Majere** (LG — meditazione e ordine; simbolo: **ragno di rame**) |
+| **Sottoclasse** | Via del Sé Astrale *(Tasha's)* |
+| **Background** | Cavaliere di Solamnia → *Scudiero di Solamnia* |
+| **Ordine** | **Nessuno.** Scudiero da cinque anni, mai investito. La Corona è la porta d'ingresso di tutti; lui guarda alla Spada, e la scelta si chiude al 4° livello |
+| **Divinità** | **Majere** (LG, meditazione e ordine; simbolo: ragno di rame) |
 | **Allineamento** | Legale Buono |
 | **Età** | 27 anni |
-| **Lingue** | Comune, **Solamnico**, **Lingua dei Segni dell'Ordine di Majere** *(vedi nota nella sezione "Il voto")* |
+| **Lingue** | Comune, Solamnico, lingua dei segni dell'Ordine di Majere |
 | **Preludio (Cap. 2)** | **Broken Silence** |
-| **Connessione a Ispin** | Variante della voce 5 della tabella d6 — vedi sezione dedicata |
+| **Connessione a Ispin** | Variante della voce 5 della tabella d6. Vedi sezione dedicata |
 
 ### Aspetto
 
-Magro nel modo in cui è magra una corda: nulla di superfluo, niente di fragile. Capelli scuri tenuti cortissimi, mani segnate dai calli in punti che non corrispondono a nessun mestiere riconoscibile. Veste di lana grezza color sabbia, senza insegne — l'Ordine di Majere non ne porta.
+Asciutto, di statura media, senza niente addosso che serva a impressionare. Capelli scuri tenuti cortissimi. Le mani hanno calli in posti che non corrispondono a nessun mestiere, e la gente se ne accorge quando gliele stringe.
 
-Al pollice sinistro ha un anello di filo di rame, ritorto a mano e ormai scurito dall'uso: glielo diede Maestro Roke il giorno dei voti. Quando pensa, lo fa girare. Quando è in difficoltà, smette di farlo girare — ed è l'unico segnale esteriore che dà.
+Veste di lana grezza color sabbia. L'Ordine di Majere non porta insegne, quindi non ne ha. Sopra tiene un mantello da scudiero della Cavalleria, che è l'unica cosa in tutto il suo equipaggiamento a dichiarare qualcosa. Non ha armatura. Gliel'hanno offerta due volte e ha detto di no entrambe.
+
+Al pollice sinistro un anello di filo di rame, ritorto a mano, ormai nero. Glielo diede Roke il giorno dei voti. Quando ragiona lo fa girare. Quando smette di farlo girare vuol dire che è in difficoltà, e alla fine i suoi commilitoni di Thornwall Keep se ne erano accorti tutti.
 
 ### Tratti
 
 | | |
 |---|---|
-| **Tratto** | Aspetta. Parla per ultimo, e quasi sempre meno di quanto ci si aspetti. Non è timidezza: è che ha passato metà della vita a non poter rispondere, e ha scoperto che la maggior parte delle domande si risolve da sola. |
-| **Ideale** | *Ordine.* Il mondo non ha un senso di per sé — glielo si dà, un gesto ripetuto alla volta. La disciplina non è obbedienza: è manutenzione. |
-| **Legame** | Ispin Greenshield gli ha raccontato il mondo quando lui non poteva ribattere. Non è mai riuscito a ringraziarlo. Il funerale è l'ultima occasione. |
-| **Difetto** | Diffida di ciò che non riesce a ordinare — e ha dentro qualcosa che non è mai riuscito a ordinare. Quando quel qualcosa affiora, Razak non ne parla con nessuno. Nemmeno con chi gli salverebbe la vita. |
+| **Tratto** | Parla per ultimo e meno di quanto ci si aspetti. Ha passato tre anni senza poter rispondere e ne ha ricavato l'idea che gran parte delle domande si sistemi per conto proprio se nessuno ci mette voce. |
+| **Ideale** | *Ordine.* Il senso non è nelle cose, ci si mette. Un gesto ripetuto alla volta, tutti i giorni, per sempre. La disciplina è manutenzione. |
+| **Legame** | Ispin Greenshield gli ha parlato per un inverno intero quando lui non poteva rispondere, e poi gli è vissuto accanto quattro anni. In quattro anni non gli ha mai detto che era stato lui a farlo scendere a valle. |
+| **Difetto** | Diffida di quello che non riesce a ordinare, e si porta dentro una cosa che non è mai riuscito a ordinare. Quando affiora non lo dice a nessuno, nemmeno a chi in quel momento gli sta salvando la vita. |
 
-> **Nota regole (5e 2024).** Il tavolo gioca con il Manuale del Giocatore 2024; la Via del Sé Astrale viene da Tasha's e si innesta senza attriti: i suoi privilegi cadono ai livelli **3 / 6 / 11 / 17**, che sono esattamente i livelli di sottoclasse del monaco 2024. Unico raccordo: dove il testo dice "punti ki", leggi "**punti disciplina**".
+> **Nota regole (5e 2024).** Il tavolo gioca con il Manuale del Giocatore 2024. Due raccordi:
 >
-> Sul background: **Eremita** è la scelta tematicamente esatta (l'eremo, la solitudine, gli anni di studio), ma nel 2024 offre Costituzione/Saggezza/Carisma e non Destrezza. Se il giocatore preferisce non rinunciare alla Destrezza, **Guida** o **Acolito** reggono lo stesso concetto con una riverniciatura minima — è una decisione del tavolo, non del background.
+> **Sé Astrale.** Viene da Tasha's e si innesta senza attriti: i suoi privilegi cadono ai livelli 3/6/11/17, che sono già i livelli di sottoclasse del monaco 2024. Dove il testo dice "punti ki", leggi "punti disciplina".
+>
+> **Cavaliere di Solamnia.** È un background del 2022, scritto per l'impianto 2014. Per la regola dei talenti bonus del modulo (fonte, righe 654-658) chi prende questo background ottiene **Scudiero di Solamnia** come talento di 1° livello, che al tavolo 2024 fa da talento d'origine. Restano da assegnare i punteggi di caratteristica che nel 2024 ogni background porta con sé: per un monaco la ripartizione sensata è Destrezza e Saggezza, con Costituzione come terza. È una decisione tua, non del background.
+>
+> **Attenzione:** la nostra copia della fonte in `fonti/campagna/` si interrompe all'elenco dei nomi dei talenti (riga 690) e non contiene il testo di Scudiero di Solamnia. I benefici esatti vanno letti sul manuale, Capitolo 1.
 
 ---
 
@@ -49,254 +56,300 @@ Al pollice sinistro ha un anello di filo di rame, ritorto a mano e ormai scurito
 
 ### L'eremo del Filo di Rame
 
-*[Elemento inventato — compatibile con la fonte]*
+*Inventato, compatibile con la fonte.*
 
-Negli altipiani dell'**Hinterlund**, a una giornata e mezza di cammino a nord-ovest di **Vogler**, sulla strada che scende verso il Vingaard, c'è un edificio basso di pietra a secco che i pastori chiamano l'eremo del **Filo di Rame**. Non è un tempio. Non ha un altare. Non ha mai avuto un chierico, e nessuno vi ha mai visto un miracolo.
+Negli altipiani dell'Hinterlund, una giornata e mezza a nord-ovest di Vogler, sulla strada che scende al Vingaard, c'è un edificio basso di pietra a secco che i pastori chiamano l'eremo del Filo di Rame. Non è un tempio, non ha un altare, non ha mai avuto un chierico. Ci vivono sei monaci dell'Ordine di Majere. Hanno un orto, una cisterna e una regola.
 
-Ha sei monaci, un orto, una cisterna, e una regola.
+L'Ordine è arrivato in fondo ai trecento anni dell'Era della Disperazione per una ragione che i suoi membri trovano ovvia e che a tutti gli altri dà fastidio: quello che fanno non è mai dipeso dagli dèi. Mentre i sacerdoti perdevano i miracoli e le grandi fedi si svuotavano nel giro di due generazioni, i monaci di Majere non avevano niente da perdere. Hanno continuato ad alzarsi prima dell'alba, a spazzare il cortile e a respirare contando. Il mondo li ha presi per una superstizione rimasta indietro e loro hanno lasciato correre.
 
-L'Ordine di Majere è sopravvissuto ai trecento anni dell'Era della Disperazione per una ragione che i suoi membri trovano ovvia e tutti gli altri trovano scomoda: **la loro disciplina non è mai dipesa dagli dèi**. Mentre i sacerdoti perdevano i miracoli e le grandi fedi si svuotavano nel giro di due generazioni, i monaci di Majere non avevano nulla da perdere. Continuarono ad alzarsi prima dell'alba, a spazzare il cortile, a respirare contando. Il mondo li ha scambiati per una superstizione residua, e loro hanno lasciato che lo facesse.
-
-Razak è cresciuto lì dentro. Non lo ha scelto: lo hanno lasciato sulla soglia.
+Razak è cresciuto lì. Non lo ha scelto, ce lo hanno lasciato.
 
 ### Il nome arrivato prima di lui
 
-Fu trovato in una cesta all'inizio dell'inverno, avvolto in una coperta buona — troppo buona per essere di un pastore. Tra le pieghe, un ritaglio di stoffa con due parole ricamate: **Razak Kendall**.
+Lo trovarono in una cesta ai primi di inverno, avvolto in una coperta di buona fattura, troppo buona per essere di un pastore della zona. Tra le pieghe c'era un ritaglio di stoffa con due parole ricamate sopra: *Razak Kendall*.
 
-Nessuno all'eremo ha mai saputo chi le avesse scritte. Nessuna famiglia si è mai fatta viva. Maestro Roke, che allora era già anziano, decise che un bambino con un nome era un bambino che qualcuno aveva pensato, e che tanto bastava. Lo chiamarono come diceva la stoffa.
+Non si è mai saputo chi le avesse scritte. Nessuno si è mai fatto vivo. Roke, che allora aveva già i suoi anni, disse che un bambino con un nome è un bambino a cui qualcuno aveva pensato e che tanto bastava, e lo chiamarono come diceva la stoffa.
 
-Razak ha smesso di farsi domande su quel ricamo verso i quindici anni. Non perché avesse trovato una risposta: perché aveva capito che la domanda non ne aveva una, e continuare a girarci intorno era esattamente il tipo di disordine che l'Ordine gli insegnava a non coltivare.
+Verso i quindici anni Razak ha smesso di ragionarci. Non aveva trovato una risposta. Aveva capito che la domanda non ne aveva una, e che continuare a girarci intorno era esattamente il genere di cosa che alla Regola non piace.
 
-*[NOTA DM — riservata] Il ricamo è il primo seme del filo nascosto. Vedi la sezione "Segreti".*
+*[NOTA DM] Il ricamo è il primo seme del filo nascosto. Vedi "Segreti".*
 
 ### Il voto
 
-A diciannove anni Razak prese il voto lungo del silenzio: **tre anni senza parola**. Non è una punizione né un'ascesi spettacolare — nell'Ordine di Majere è un metodo. Chi non può rispondere impara ad ascoltare fino in fondo, perché non ha la scorciatoia di interrompere.
+A diciannove anni ha preso il voto lungo del silenzio: tre anni senza parlare. Nell'Ordine non è una penitenza, è un metodo. Chi non può rispondere impara ad ascoltare fino in fondo perché gli manca la scorciatoia di interrompere.
 
-Il voto non chiede il silenzio assoluto in ogni circostanza — solo quello della voce. Per questo, da generazioni, l'Ordine tramanda una propria **lingua dei segni**: essenziale, fatta di gesti che dicono l'indispensabile e niente di più, esattamente come vuole la Regola. Non è nata per chi non può sentire: è nata per chi ha scelto di non parlare, e serve a non isolarlo del tutto dal resto della comunità durante gli anni del voto. Solo chi ha preso i voti la conosce — fuori dall'eremo, per chiunque altro, sono solo movimenti delle mani.
+Il voto riguarda la voce e nient'altro, e per questo l'Ordine tramanda da generazioni una propria lingua dei segni. È essenziale, dice l'indispensabile e si ferma lì, come vuole la Regola. Non è nata per chi non sente. È nata per chi ha scelto di non parlare, e serve a non tagliarlo fuori del tutto dalla comunità per tre anni. La conosce solo chi ha preso i voti. Per chiunque altro sono movimenti delle mani.
 
-Fu durante il secondo anno di voto che arrivò Ispin.
+Fu durante il secondo anno che arrivò Ispin.
 
-### La partenza
+### Lo scudiero
 
-Razak non ha mai lasciato l'Hinterlund. Ha ventisette anni, sa combattere a mani nude meglio di chiunque a due giorni di strada, e non ha mai visto il mare di cui gli hanno raccontato.
+*Inventato, compatibile con la fonte.*
 
-Poi è arrivata la lettera.
+Il voto è finito che aveva ventidue anni. Cinque anni fa. Poche settimane dopo Razak ha chiesto a Roke il permesso di scendere a valle e Roke gli ha risposto che non gliene serviva uno.
+
+A Vogler c'è Thornwall Keep, una rovina coperta d'edera che il modulo definisce ormai più un monumento che una fortificazione, e dentro c'è **Becklin Uth Viharin**, Cavaliere della Corona, che ci sta di stanza da dieci anni con un incarico che è insieme un comando e un pensionamento. Aveva bisogno di braccia. Ispin le aveva scritto del ragazzo dell'eremo, e questo è bastato perché lo prendesse come scudiero senza fargli troppe domande su una famiglia che non c'era.
+
+Ci è rimasto quattro anni. Il grosso del lavoro era manutenzione, ronde e la milizia volontaria del villaggio, che è composta da contadini e pescatori a riposo e che secondo il modulo mette più zelo che perizia. Razak ha imparato quello che si impara: nomi, gradi, l'Oath, i primi due volumi della Misura, come si tiene una linea, come si parla a un ufficiale. Non ha mai imparato a combattere con le armi che gli davano, e dopo un po' hanno smesso di dargliele.
+
+La Misura è il problema, non il Giuramento. *Est Sularus oth Mithas* non chiede un'armatura; la chiedono i trentasette volumi che sono venuti dopo, e il modulo stesso li descrive come contestati da una minoranza crescente di cavalieri che li considera superati. Becklin, che passa il tempo libero a scavare nelle rovine del suo stesso castello per interesse storico, sulla faccenda ha alzato le spalle. Altri no. Un cavaliere di passaggio da Maelgoth, tre anni fa, ha chiesto a voce alta di chi fosse lo scudiero senza usbergo, e Becklin ha risposto che era suo e che la conversazione finiva lì. Razak era presente e non ha aperto bocca.
+
+In quattro anni Becklin ha imparato sette o otto dei suoi segni. Li usava nelle riunioni lunghe, quando voleva dirgli qualcosa senza farsi sentire dagli altri.
+
+### Il ritorno all'eremo
+
+Dieci mesi fa Razak ha chiesto un congedo ed è risalito. La ragione che ha dato è che Roke stava male, ed era vero. Non era quella principale.
+
+I ricordi che si porta dietro da sempre (vedi la sezione dedicata) nell'ultimo anno di servizio erano peggiorati: più frequenti, più lunghi, due volte durante una ronda. All'eremo la disciplina è più fitta e le giornate non hanno vuoti, e Razak era convinto che bastasse quello.
+
+Ha funzionato solo in parte. Poi è arrivata la lettera.
 
 ---
 
 ## Gancio Principale
 
-La lettera è di **Becklin Uth Viharin** (fonte, riga 887): Ispin Greenshield è morto a Vogler, e i suoi amici lo salutano alla vigilia della Festa del Martin Pescatore.
+La lettera è di Becklin Uth Viharin (fonte, riga 887) ed è la stessa che ricevono tutti gli altri: Ispin Greenshield è morto a Vogler e lo salutano alla vigilia della Festa del Martin Pescatore.
 
-Per chiunque altro al tavolo, andare al funerale è un atto di affetto. Per Razak è **la prima volta che scende a valle**. Maestro Roke non gli ha dato il permesso — gli ha fatto notare che non gliene serviva uno, e questo lo ha spaventato più di un divieto.
+Per il resto del tavolo è l'invito di una sconosciuta. Per Razak sono due cose insieme: la morte di un uomo con cui ha vissuto nello stesso villaggio per quattro anni, e un richiamo dalla propria cavaliera. Sta scendendo comunque, e il congedo di fatto è finito.
 
-Porta con sé: la veste, l'anello di rame, una ciotola, e tre mesi di storie che non ha mai potuto commentare.
+Porta con sé la veste, l'anello di rame, il mantello da scudiero e una cosa che non ha mai detto a Ispin.
 
 ---
 
 ## Connessione a Ispin Greenshield
 
-*Variante della voce 5 della tabella "Meeting Ispin Greenshield" (fonte, righe 867-875).*
+*Variante della voce 5 della tabella "Meeting Ispin Greenshield" (fonte, righe 867-875). Il pezzo per il tavolo è il primo; il secondo è quello che conta.*
 
-Nove anni fa, un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin Greenshield, di ritorno da qualche parte con una gamba conciata male e una scorta di provviste calcolata per una settimana di viaggio in meno, bussò all'eremo del Filo di Rame perché era l'unica luce sulla strada.
+### L'inverno
 
-Ci rimase **tre mesi**.
+Sette anni fa un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin, di ritorno da qualche parte con una gamba conciata male e provviste calcolate per una settimana di strada in meno, bussò al Filo di Rame perché era l'unica luce sulla salita. Ci rimase tre mesi.
 
-Maestro Roke assegnò il novizio più giovane a occuparsi di lui: cambiargli le bende, portargli da mangiare, tenere acceso il braciere. Razak era al secondo anno del voto del silenzio.
+Roke mise il novizio più giovane a occuparsene: bende, pasti, braciere acceso. Razak aveva vent'anni ed era al secondo anno di voto.
 
-Così accadde questo: l'uomo che non smetteva mai di parlare passò un intero inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
+Ispin parlò per tre mesi a un ragazzo che non poteva rispondere. Il porto di Kalaman e che odore ha una città quando arrivano le navi. Becklin e la sua armatura assurda. Cudgel che beveva in piedi qualunque cosa. Mostri marini che erano quasi certamente pesci grossi e bande di goblin quasi certamente meno numerose di come se le ricordava. Che non gli credessero non gli è mai importato; gli importava che qualcuno stesse a sentire, e un ragazzo obbligato al silenzio era il miglior ascoltatore che gli fosse mai capitato.
 
-Ispin raccontò il porto di Kalaman e l'odore che ha una città quando arrivano le navi. Raccontò Becklin e la sua armatura assurda, e Cudgel che riusciva a bere in piedi qualunque cosa. Raccontò mostri marini che erano quasi certamente pesci grossi, e goblin che erano quasi certamente meno numerosi di come li ricordava. Non gli importava di non essere creduto: gli importava che qualcuno stesse ascoltando, e Razak — obbligato al silenzio — era il miglior ascoltatore che avesse mai avuto.
+Ogni tanto Razak rispondeva, con i segni dell'Ordine, per abitudine più che per necessità. Un gesto per *davvero?*, uno per *ancora*. Ispin non ha mai capito cosa fossero. Rideva, diceva che era un modo per tenere occupate le mani stando fermo, e riprendeva da dove aveva lasciato.
 
-Qualche volta, senza che nessuno glielo chiedesse, Razak rispondeva — con la lingua dei segni dell'Ordine, per abitudine più che per bisogno: un gesto per "vero?", uno per "ancora". Ispin non l'ha mai riconosciuta per quello che era. Rideva, pensava fosse un gioco per tenere occupate le mani di un ragazzo costretto a stare fermo, e continuava a raccontare senza aspettarsi una risposta che, in un certo senso, gli stava già arrivando.
-
-Verso la fine, quando la neve cominciò a cedere, Ispin disse una cosa che non era una storia:
+A marzo, che la neve cedeva, disse una cosa che non era una storia:
 
 > *"Tu qui dentro sei bravissimo, ragazzo. Ma un giorno ti accorgerai che stare fermi non è la stessa cosa che essere in pace. E quando succede, la strada è là fuori e non ti aspetta."*
 
-Poi ripartì. Non tornò mai più all'eremo. Ogni due o tre anni arrivava qualcosa: un pacchetto di semi che all'eremo non sarebbero cresciuti, una conchiglia, un pettine di corno con inciso male un nome che non era di nessuno. Mai una lettera — Ispin sapeva scrivere poco e male, e Razak sospetta che si vergognasse.
+Poi ripartì.
 
-L'ultima cosa che gli è arrivata da Vogler è l'invito al suo funerale.
+### I quattro anni
 
-**Razak non gli ha mai rivolto la parola.** Non una volta, in tre mesi. Il voto finì l'anno dopo, e quando finì Ispin era già lontano.
+Due anni dopo il voto è finito e Razak è sceso a Vogler. Ispin era lì, ritirato da anni, e questa volta Razak poteva parlare.
+
+Non è successo niente di clamoroso. Si vedevano al Brass Crab, si vedevano al mercato, Ispin gli raccontava le stesse storie con numeri diversi e Razak gliene faceva notare uno ogni tanto, che era diventato il loro modo di volersi bene. Ispin ha vissuto abbastanza da vederlo diventare scudiero e ha avuto da ridire sul mantello, che secondo lui gli stava lungo.
+
+In quattro anni Razak non gli ha mai detto che era sceso per quella frase di marzo. Ci ha pensato diverse volte e l'ha rimandata, perché una cosa del genere si dice in un momento adatto e i momenti adatti non arrivano mai da soli. Ispin è morto senza sapere di essere stato il motivo.
+
+> **Specchio con Garrick.** Il file di Garrick Ashwatch tiene già l'altra metà: con Razak, Ispin è quello che parla a un ragazzo che non può rispondere; con Garrick è quello che ascolta un ragazzo che nessuno sta a sentire. Se i due giocatori ci arrivano da soli al funerale, lasciali fare.
 
 ---
 
 ## Il Preludio — Broken Silence
 
-*Fonte: righe 987-1048. Si gioca come scritto, con due innesti.*
+*Fonte, righe 987-1048. Si gioca come scritto, con due innesti.*
 
 ### Innesto 1 — La visione sbagliata
 
-Il modulo prevede che il personaggio abbia da tempo una visione ricorrente: la radura, i caduti, l'oggetto stretto al petto, il lampo di luce.
+Il modulo dà per assodato che il personaggio abbia da tempo una visione ricorrente: la radura, i caduti, l'oggetto stretto al petto, il lampo.
 
-Razak ha quella visione. Ma ne ha anche **altre due**, e le ha da sempre — da prima dell'eremo, per quanto possa risalire indietro. Quando giochi il preludio, lascia che la radura si contamini:
+Razak ce l'ha. Ne ha anche altre due, da prima dell'eremo, per quanto indietro riesca ad andare. Quando giochi il preludio lascia che la radura si sporchi:
 
-> Sei al centro di una radura. L'acciaio risuona oltre il boschetto. E poi ti accorgi che qualcosa non torna, e non è il campo di battaglia: è che **fa freddo come non fa mai freddo in primavera**, e tra gli alberi c'è una nebbia bassa che sa di terra bagnata e di pietra vecchia — una nebbia che non appartiene a questo posto. Da qualche parte, molto lontano, sotto il rumore delle spade, si sente **pioggia che batte su ciottoli di città**.
+> Sei al centro di una radura. Oltre il boschetto risuona dell'acciaio. Poi ti accorgi che c'è qualcosa che non torna, e non sono i caduti: fa un freddo che a primavera non fa, e tra gli alberi c'è una nebbia bassa che sa di terra bagnata e di pietra vecchia. Molto lontano, sotto il rumore delle spade, si sente pioggia che batte sui ciottoli di una città.
 
-Nessuno degli altri personaggi presenti al preludio percepisce questi dettagli. Se un giocatore chiede, la risposta è: no, non c'è nebbia. No, non piove.
+Nessun altro personaggio presente percepisce questi dettagli. Se un giocatore chiede, la risposta è che non c'è nebbia e non piove.
 
 ### Innesto 2 — Majere non offre potere
 
-Alla statua, il modulo prevede che la divinità inviti il personaggio a diventare il proprio araldo e gli sblocchi incantesimi e privilegi divini. **Un monaco non ha incantesimi da sbloccare**: il ki non è potere divino, ed è esattamente il punto teologico dell'Ordine di Majere.
+Alla statua il modulo prevede che il dio inviti il personaggio a diventare il proprio araldo e gli sblocchi incantesimi e privilegi divini. Un monaco non ha niente da sbloccare. Il ki non è potere divino, ed è precisamente il punto su cui l'Ordine di Majere ha fondato trecento anni di sopravvivenza.
 
-Quindi Majere non gli offre niente. Gli **risponde**.
+Quindi Majere non gli offre niente. Gli risponde.
 
-Suggerimento per la voce del dio — bassa, paziente, mai solenne:
+Per la voce del dio, bassa e paziente, mai solenne:
 
-> *"Ti sei chiesto per anni chi avesse scritto il tuo nome su quella stoffa. È una buona domanda. Non è quella giusta."*
+> *"Ti sei chiesto per anni chi abbia scritto il tuo nome su quella stoffa. È una buona domanda. Non è quella giusta."*
 >
-> *"La domanda giusta è perché l'ho già letto altrove. In mani che non erano le tue. In un posto che non è questo."*
+> *"La domanda giusta è perché io l'ho già letto altrove. In mani che non erano le tue. In un posto che non è questo."*
 >
-> *"Non sei l'unico a portarlo, Razak Kendall. Continua a respirare contando. È tutto ciò che ti serve per ora — e quando non basterà più, sarà perché avrai finalmente capito cosa stai portando."*
+> *"Non sei l'unico a portarlo, Razak Kendall. Continua a respirare contando. Per adesso ti basta."*
 
-Poi tace, e non risponde a nessuna domanda successiva. La statua torna pietra.
+Poi tace e non risponde più a niente. La statua torna pietra.
 
-**[NOTA DM — riservata]** Majere non sta essendo criptico per stile: **non sa altro**. È un dio dell'ordine che ha notato un'anomalia nell'ordine, e la sta segnalando al solo mortale coinvolto. Non pronunciare né alludere ad alcun nome di divinità nemica. Vedi `campagna/contesto.md` (riga 129): il nome del vero mandante non va mai detto in questa campagna.
+**[NOTA DM]** Majere non è criptico per stile: non sa altro. È un dio dell'ordine che ha trovato un'anomalia nell'ordine e la sta segnalando all'unico mortale coinvolto. Non nominare e non alludere ad alcuna divinità nemica. Vedi `campagna/contesto.md`: il nome del vero mandante non si dice in questa campagna.
 
-### Cosa guadagna Razak dal preludio
+### Cosa ci guadagna Razak
 
-Niente di meccanico — e va detto al giocatore in anticipo, così non lo vive come una fregatura. Guadagna: l'avanzamento al Livello 2 come tutti (fonte, riga 985), la certezza che gli dèi sono tornati, e **la prima conferma esterna in ventisette anni che quella cosa che ha dentro è reale**.
-
-Per un personaggio la cui virtù cardinale è l'ordine, scoprire che il disordine non è colpa sua è più prezioso di un incantesimo.
+Niente di meccanico, e conviene dirlo al giocatore prima, così non se lo trova come sorpresa. Guadagna l'avanzamento al Livello 2 come tutti (fonte, riga 985), la certezza che gli dèi sono tornati e la prima conferma esterna in ventisette anni che quella cosa che si porta dentro esiste davvero. Per uno la cui virtù cardinale è l'ordine, sapere che il disordine non è colpa sua vale più di un incantesimo.
 
 ---
 
-## Il Sé Astrale — come descriverlo al tavolo
+## Il Sé Astrale al tavolo
 
-Dal Livello 3 Razak manifesta le **Braccia del Sé Astrale**: due arti spettrali sovrapposti ai propri.
+Dal Livello 3 manifesta le Braccia del Sé Astrale, due arti spettrali sovrapposti ai suoi. Un monaco di Majere in combattimento ha quattro braccia luminose.
 
-Il che significa che un monaco di Majere in combattimento ha **quattro braccia luminose**.
+Il simbolo dell'Ordine è un ragno di rame (fonte, riga 314). Chi ha sempre pensato che fosse un emblema astratto, la prima volta che lo vede combattere capisce che era una descrizione. Falla notare a un PNG devoto o molto anziano almeno una volta. La reazione giusta è spavento, non ammirazione.
 
-Il simbolo dell'Ordine è un **ragno di rame** (fonte, riga 314). Chi ha sempre creduto che fosse un emblema astratto, vedendo Razak combattere capisce che non lo è mai stato: è una **descrizione**. Vale la pena di far notare la cosa a un PNG devoto o anziano almeno una volta — la reazione giusta è spavento, non ammirazione.
+Al Livello 6 arriva il Volto del Sé Astrale.
 
-Al Livello 6 arriva il **Volto del Sé Astrale**, ed è qui che la sottoclasse fa il lavoro narrativo:
-
-**[NOTA DM — riservata]** Il volto che Razak manifesta **non è esattamente il suo**. È vicino — abbastanza da non far gridare nessuno — ma gli zigomi sono sbagliati, l'attaccatura dei capelli è sbagliata, e in due manifestazioni consecutive non è mai identico. Razak se ne accorge da subito e non ne parla con nessuno, perché è precisamente il genere di cosa che non riesce a ordinare.
-
-Non spiegarlo mai. Se un giocatore lo nota e chiede, conferma solo il fatto osservabile: il volto cambia. Il perché è nella sezione "Segreti".
+**[NOTA DM]** Il volto che manifesta non è esattamente il suo. È vicino abbastanza da non far gridare nessuno, ma gli zigomi sono sbagliati e l'attaccatura dei capelli è sbagliata, e in due manifestazioni di fila non è mai identico. Razak se ne accorge subito e non ne parla, perché è il tipo di cosa che non riesce a ordinare. Non spiegarlo mai. Se un giocatore lo nota e chiede, conferma solo il fatto: il volto cambia. Il perché sta in "Segreti".
 
 ---
 
 ## Ricordi che non gli appartengono
 
-Razak ha, da sempre, tre ricorrenze. Non sono sogni: arrivano **da svegli**, solo in meditazione profonda o sotto stress estremo, e durano meno di un respiro.
+Tre ricorrenze, da sempre. Non sono sogni: arrivano da sveglio, in meditazione profonda o sotto stress forte, e durano meno di un respiro.
 
 | # | Cosa percepisce | Frequenza |
 |---|---|---|
-| 1 | **Freddo e nebbia.** Terra bagnata, pietra molto vecchia, alberi troppo fitti. E la sensazione precisa, non spaventosa ma insopportabile, di essere osservato da qualcosa che ha tutto il tempo del mondo. | La più antica. Ricorrente da sempre. |
-| 2 | **Pioggia su una città di mare.** Ciottoli lucidi, salsedine mescolata a fumo di carbone, troppe voci in troppe lingue. Tra le mani il peso di un libro che si apre ma non si lascia leggere. | Più recente della prima. Arrivata nell'adolescenza. |
-| 3 | **Un palmo aperto con un occhio al centro.** Non inciso: *visto*. Razak ha sempre dato per scontato che fosse un simbolo dell'Ordine che gli avevano mostrato da bambino, e non ha mai verificato — verificare avrebbe significato ammettere di non saperlo. | Rarissima. Tre o quattro volte in tutta la vita. |
+| 1 | Freddo e nebbia. Terra bagnata, pietra molto vecchia, alberi troppo fitti. La sensazione precisa di essere guardato da qualcosa che ha tutto il tempo del mondo. Non fa paura, è peggio. | La più antica. Da sempre |
+| 2 | Pioggia su una città di mare. Ciottoli lucidi, salsedine e fumo di carbone, troppe voci in troppe lingue. In mano il peso di un libro che si apre e non si lascia leggere | Arrivata nell'adolescenza |
+| 3 | Un palmo aperto con un occhio al centro. Non inciso da qualche parte: visto. Ha sempre dato per scontato che fosse un simbolo dell'Ordine mostratogli da piccolo, e non ha mai verificato, perché verificare voleva dire ammettere di non saperlo | Tre o quattro volte in tutta la vita |
 
-### Regole d'uso — vincolanti per il DM
+### Regole d'uso, vincolanti
 
-1. **Mai informazioni.** I ricordi non contengono nomi, fatti, indizi, avvertimenti o soluzioni. Sono sensazioni. Se un ricordo può essere trascritto come una frase utile, è scritto male.
+1. **Mai informazioni.** Niente nomi, fatti, indizi, avvertimenti, soluzioni. Se un ricordo si può trascrivere come una frase utile, è scritto male.
 2. **Mai vantaggio meccanico.** Nessun tiro, nessun bonus, nessuna competenza, nessuna resistenza.
-3. **Decide il DM, sempre.** Il giocatore non può invocarli. Sono un rubinetto in mano al tavolo, non un'abilità.
-4. **Dosaggio.** Due, forse tre volte in tutta la campagna, in momenti già emotivamente carichi — non come effetto speciale a scena vuota.
-5. **Razak non ne parla.** Non con il party, non con i PNG. Se il giocatore decide di farlo parlare, è una scelta narrativa forte e va lasciata a lui: non forzarla e non premiarla con rivelazioni.
+3. **Decidi tu, sempre.** Il giocatore non li può invocare.
+4. **Dosaggio.** Due o tre volte in tutta la campagna, dentro momenti che sono già carichi per conto loro.
+5. **Razak non ne parla.** Se il giocatore decide di farlo parlare è una scelta forte e va lasciata a lui. Non forzarla e non premiarla con rivelazioni.
 
 ### Momenti consigliati
 
-- Durante **Broken Silence** (Sessione 00), come descritto sopra.
-- La prima volta che Razak vede **Kalaman** dal mare o dalle mura (Sessione 03): la città di pietra e pioggia del ricordo n. 2 non è Kalaman — ma per un istante il naso ci si confonde. Una riga, non una scena.
-- Nel **Sentiero dei Ricordi** alla fine della Sessione 16, o davanti allo specchio dei passati riflessi del Cap. 6: il posto giusto per il ricordo n. 1, ed è l'unico punto della campagna in cui vale la pena di lasciarlo durare più di un respiro.
+- **Broken Silence** (S00), come sopra.
+- **Kalaman** vista per la prima volta (S03). La città di pioggia del ricordo n. 2 non è Kalaman, ma per un istante il naso si confonde. Una riga, non una scena.
+- **Il Sentiero dei Ricordi** in chiusura di S16, o lo specchio dei passati riflessi del Cap. 6. È il posto giusto per il ricordo n. 1 e l'unico punto della campagna in cui vale la pena lasciarlo durare più di un respiro.
 
 ---
 
 ## Segreti
 
-**[NOTA DM — riservata] — Nulla di questa sezione è noto al giocatore.**
+**[NOTA DM] — Niente di questa sezione è noto al giocatore.**
 
 ### Cosa sono davvero i ricordi
 
-Non sono visioni, né eredità, né un dono di Majere. Sono **residuo**.
+Non sono visioni, non sono eredità, non sono un dono di Majere. Sono residuo.
 
-Il giocatore ha interpretato **Razak Kendall, monaco, in Curse of Strahd e in Waterdeep: Dragon Heist** — stesso nome, stessa classe. Questa è la terza incarnazione. Nel meta-arco del DM (`fonti/campagna/filo-narrativo-multiverso.md`) il Culto non si limita a raccogliere segreti: li **archivia**. E ciò che è stato archiviato lascia un margine.
+Il giocatore ha interpretato Razak Kendall, monaco, in Curse of Strahd e in Waterdeep: Dragon Heist. Stesso nome, stessa classe. Questa è la terza incarnazione. Nel meta-arco (`fonti/campagna/filo-narrativo-multiverso.md`) il Culto non si limita a raccogliere segreti, li archivia, e quello che è stato archiviato lascia un margine.
 
-Razak di Krynn non ricorda Barovia e non ricorda Waterdeep. Ricorda **di essere stato letto**. Il ricordo n. 1 è il freddo di Barovia e la pazienza di ciò che vi abita; il n. 2 è Waterdeep sotto la pioggia e il libro senza titolo che non si lascia decifrare; il n. 3 è il Marchio, che gli è passato accanto tre volte in tre mondi.
+Razak di Krynn non ricorda Barovia e non ricorda Waterdeep. Ricorda di essere stato letto. Il n. 1 è il freddo di Barovia e la pazienza di quello che ci abita. Il n. 2 è Waterdeep sotto la pioggia e il libro senza titolo. Il n. 3 è il Marchio, che gli è passato accanto tre volte in tre mondi.
 
-Il ricamo sulla stoffa nella cesta segue la stessa logica: **il nome è arrivato prima della persona**. Qualcuno lo aveva già registrato.
+Il ricamo nella cesta funziona allo stesso modo: il nome è arrivato prima della persona perché qualcuno lo aveva già registrato.
 
-> **Personalizzazione consigliata.** Le tre ricorrenze sono costruite sui semi che il DM ha già piantato nel proprio documento di lore (il tomo con l'occhio e l'amuleto di Barovia; il libro senza titolo, il mantello grigio e la mano bendata di Waterdeep). Se al tavolo, in quelle campagne, sono successe cose più specifiche e più memorabili, **sostituiscile**: l'effetto è tanto più forte quanto più il giocatore riconosce qualcosa di suo.
+> **Personalizzazione.** Le tre ricorrenze sono costruite sui semi già piantati nel documento di lore (il tomo con l'occhio e l'amuleto in Barovia; il libro senza titolo, il mantello grigio e la mano bendata a Waterdeep). Se al tavolo, in quelle campagne, sono successe cose più precise, sostituiscile. Funziona tanto meglio quanto più il giocatore riconosce roba sua.
 
-### Perché Ser Maelis si interesserà a lui
+### Perché Ser Maelis si interessa a lui
 
-Nella **Sessione 09** (scena opzionale "Ser Maelis, il Disertore") Maelis fa domande a tutto il party. Con Razak la differenza è che **le domande diventano vere**.
+In S09 (scena opzionale, "Ser Maelis, il Disertore") Maelis fa domande a tutti. Con Razak la differenza è che le domande diventano vere.
 
-Maelis raccoglie segreti di guerra. Razak non ne ha: è un monaco appena sceso da un altipiano. Ma è la prima persona che Maelis incontra su Krynn il cui nome **gli risulta già familiare** senza che riesca a dire da dove — e per un archivista è la cosa più inquietante che possa capitare.
+Maelis raccoglie segreti di guerra e Razak non ne ha, è uno scudiero di una guarnigione di provincia. Ma è la prima persona che Maelis incontra su Krynn il cui nome gli suona già familiare senza che riesca a dire da dove, e per un archivista non c'è niente di più fastidioso.
 
-Suggerimenti di regia, tutti opzionali e tutti mutissimi:
+Tutti muti, tutti opzionali:
 
-- In Sessione 09, Maelis chiede il nome a ciascun personaggio. Quando Razak risponde, **Maelis lo fa ripetere**. Poi passa oltre come se niente fosse.
-- In Sessione 16, l'ultimo sussurro (*"i segreti che avete vissuto qui — non vi appartengono. Sono già stati registrati"*) è scritto per l'intero party, ma se Razak è presente falla **guardando lui**. Nient'altro. Nessuna riga in più.
-- Nella Sessione 28, l'eco finale — il volto riconosciuto tra la folla — funziona meglio se è Razak a riconoscerlo.
+- S09: Maelis chiede il nome a ciascuno. Quando risponde Razak, **glielo fa ripetere**. Poi passa oltre.
+- S16: l'ultimo sussurro (*"i segreti che avete vissuto qui non vi appartengono, sono già stati registrati"*) è per tutto il party, ma se Razak c'è dillo guardando lui. Nient'altro.
+- S28: l'eco finale, il volto riconosciuto in mezzo alla folla, funziona meglio se è Razak a riconoscerlo.
+
+### Garrick è lo strumento
+
+Il file di Garrick Ashwatch lo dice già dal suo lato: Garrick legge stemmi, sigilli e parentele, e il segreto di Razak passa per un cavaliere, quindi per un nome e per un blasone.
+
+Il punto di innesto naturale è il **sigillo di cera grigia della S13**. Chiunque lo trovi vede una mano con un occhio; Garrick è l'unico al tavolo capace di dire con cognizione di causa che quel simbolo non appartiene a nessuna casata di Solamnia, a nessun ordine cavalleresco e a nessuna delle Vesti, e che non è araldica di Krynn. Non risolve niente e non deve. Sposta la faccenda da "strano oggetto" a "qualcuno lo ha inciso apposta, e non è di qui".
+
+Se Razak è presente e ha già visto il n. 3 tra i suoi ricordi, questa è la scena in cui il tavolo lo vede smettere di far girare l'anello.
 
 ### Il payoff
 
-Non cade in questa campagna, e non cade nemmeno nella prossima. Sigil (Atto IV, `fonti/campagna/filo-narrativo-multiverso.md`) è una campagna a sé, con PG nuovi — non il punto di convergenza. Il payoff cade in **Eve of Ruin (Atto V)**: il vero punto di convergenza, dove i pezzi delle quattro campagne precedenti si riuniscono e il nome viene pronunciato per la prima volta.
+Non cade in questa campagna e nemmeno nella prossima. Sigil (Atto IV, *Turn of Fortune's Wheel*) è una campagna a sé con PG nuovi e non è il punto di convergenza. Il payoff è in **Eve of Ruin** (Atto V), dove i pezzi delle quattro campagne si riuniscono e il nome viene detto per la prima volta.
 
-La domanda che il ciclo pone, e a cui Razak è la risposta, è: **quanti Razak Kendall arrivano a quell'appuntamento — tre, o anche un quarto, se lo stesso giocatore lo riporta anche a Sigil?**
+La domanda a cui Razak è la risposta è quanti Razak Kendall si presentano a quell'appuntamento. Tre, o quattro se lo stesso giocatore lo riporta anche a Sigil.
 
-Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giusta da fare è lasciare che il giocatore accumuli un disagio che non sa nominare.
+Non risolverla qui e non anticiparla. In questa campagna il lavoro giusto è lasciare che il giocatore accumuli un disagio che non sa nominare.
 
 ### Divieti
 
-- Il nome del mandante non va **mai** pronunciato in questa campagna, in nessuna forma, nemmeno come indovinello.
-- Non confermare mai al giocatore che i ricordi vengono dalle campagne precedenti. Se lo intuisce da solo — probabile, ed è giusto così — non negare e non confermare.
-- Non dare a Razak alcun vantaggio derivante da ciò che sa il giocatore.
+- Il nome del mandante non si pronuncia in questa campagna, in nessuna forma, nemmeno per indovinelli.
+- Non confermare mai al giocatore che i ricordi vengono dalle campagne precedenti. Probabilmente ci arriva da solo, ed è giusto così: non negare e non confermare.
+- Nessun vantaggio a Razak derivante da quello che sa il giocatore.
 
 ---
 
 ## PNG Legati
 
-| PNG | Relazione | Note |
+| PNG | Ruolo | Stato |
 |---|---|---|
-| **Ispin Greenshield** | Il motivo per cui è sceso a valle | Defunto all'inizio della campagna. Passò un inverno all'eremo mentre Razak era sotto voto di silenzio. Razak non gli ha mai rivolto la parola. |
-| **Maestro Halden Roke** *(inventato)* | Maestro dell'eremo, unico padre che abbia avuto | Vivo all'inizio della campagna. L'eremo è sulla traiettoria dell'invasione: leva narrativa disponibile dal Cap. 3 in poi. |
-| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine, quasi un fratello maggiore | PNG jolly, riutilizzabile ovunque serva: mercenario, profugo a Kalaman, disertore. |
-| **Becklin Uth Viharin** | Firmataria dell'invito; nome che Razak conosce solo dai racconti di Ispin | +1 Cordiale come per tutto il party. Per Razak è l'occasione di verificare se le storie di Ispin erano vere. |
-| **Ser Maelis** | Nessuna relazione apparente | **[NOTA DM]** Vedi "Segreti". |
+| **Becklin Uth Viharin** | La sua cavaliera. Lo ha preso come scudiero cinque anni fa su segnalazione di Ispin, senza fare domande sulla famiglia che non c'era | Viva a Vogler. Vedi modulo, Cap. 3, e la nota qui sotto |
+| **Ispin Greenshield** | Gli ha parlato per un inverno e poi gli è vissuto accanto quattro anni | Defunto. Il funerale apre la campagna |
+| **Maestro Halden Roke** *(inventato)* | Maestro dell'eremo. L'unico padre che abbia avuto. Sta male da circa un anno | Vivo, all'eremo. Vedi nota |
+| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine anni fa perché non reggeva il silenzio. Gli ha fatto quasi da fratello maggiore | Ignoto. PNG jolly |
+| **Garrick Ashwatch** | Compagno di party. Non si conoscono | Vedi `fonti/personaggi/Garrick-Ashwatch.md` |
+| **Ser Maelis** | Nessuna relazione apparente | **[NOTA DM]** vedi "Segreti" |
+
+### **[NOTA DM]** — Becklin
+
+Il modulo dice che Becklin con ogni probabilità muore nel Cap. 3, ed è la cosa più pesante che questo background aggiunge alla campagna: non muore un PNG del modulo, muore la persona che ha preso in casa Razak quando non lo voleva nessuno, davanti al suo scudiero.
+
+Non calcare. Razak non ha niente da dire in quella scena e non deve averlo. Se vuoi una sola immagine, usa i segni: Becklin ne aveva imparati sette o otto in quattro anni, e non c'è nessun altro a Krynn con cui lui possa usarli.
+
+Effetto collaterale utile: da quel momento Razak è uno scudiero senza cavaliere, cosa che la Misura non prevede e che diventa un problema concreto quando i Cavalieri di Solamnia si riuniscono davvero, nel Cap. 7.
+
+### **[NOTA DM]** — L'eremo
+
+Il Filo di Rame è a una giornata e mezza da Vogler, quindi sulla traiettoria dell'invasione. Decidi **prima di giocare la Sessione 02** se Roke e gli altri cinque sopravvivono. Non è un dettaglio: Razak in questo momento ha due case a un giorno e mezzo di distanza, e il Capitolo 3 si chiama *When Home Burns*.
+
+---
+
+## Attriti dentro il party
+
+Materiale gratis, da usare o ignorare.
+
+**Razak e Garrick.** Razak è uno scudiero della Cavalleria di Solamnia. Garrick è stato processato per aver consegnato turni e parole d'ordine delle torri di segnalazione del confine orientale, ed è stato scagionato dopo otto mesi, cosa che non è mai lo stesso che non essere stati accusati. Se Garrick lo dice, o se Razak lo scopre, lì c'è una scena vera. Non risolverla tu: Razak ha passato la vita in un ordine dove le regole sono trentasette volumi, e sta per scoprire che la Misura non ha una voce per questo caso.
+
+**Il resto del tavolo.** Un uomo che non porta armatura, non impugna armi e ha addosso un mantello da scudiero attira commenti dai soldati veri per tutta la campagna. Lasciali arrivare. Sono gratis e caratterizzano il mondo.
 
 ---
 
 ## Arco Narrativo
 
-**Da dove parte.** Un uomo convinto che la disciplina sia un muro fra sé e un mondo che non ha senso. Ha ragione sul mondo e torto sul muro.
+**Da dove parte.** Convinto che la disciplina sia un muro fra sé e un mondo che non ha senso. Ha ragione sul mondo e torto sul muro.
 
-**Dove passa.** La guerra, che è la forma più pura di disordine, e che non si lascia spazzare via come il cortile dell'eremo. Vogler brucia; Kalaman regge a fatica; i miracoli tornano ma arrivano tardi e a poche persone. Razak scopre progressivamente che il suo metodo funziona benissimo su di sé e per niente sugli altri.
+**Dove passa.** La guerra, che è disordine allo stato puro e non si spazza come il cortile dell'eremo. Vogler brucia e con ogni probabilità muore Becklin. Kalaman regge a fatica. I miracoli tornano, ma arrivano tardi e a poche persone. Razak scopre pezzo per pezzo che il suo metodo funziona benissimo su di sé e per niente sugli altri.
 
-**Dove può arrivare.** Al capovolgimento: **il disordine non è là fuori, è dentro di lui** — e lo è sempre stato, da prima della cesta sulla soglia. La chiusura dell'arco non è liberarsene: è smettere di considerarlo un difetto di fabbricazione. L'ordine di Majere non è l'assenza del caos. È la forma che gli dai.
+**Dove può arrivare.** Al ribaltamento: il disordine non è là fuori, è dentro di lui, e c'è sempre stato, da prima della cesta sulla soglia. La chiusura non è liberarsene. È smettere di trattarlo come un difetto di fabbrica.
 
-**Chiusura possibile in Sessione 28.** Il file `dm-notes-sessione-28.md` prevede un giro di tavolo finale — una frase per personaggio su cosa si porta via dalla guerra. Per Razak la frase giusta non parla della guerra. Parla del fatto che, per la prima volta in ventisette anni, non ha bisogno di sapere chi ha scritto il suo nome.
+**Chiusura possibile in S28.** Il file della Sessione 28 prevede un giro di tavolo finale, una frase a testa su cosa ci si porta via dalla guerra. Per Razak la frase giusta non parla della guerra. Parla del fatto che per la prima volta in ventisette anni non ha bisogno di sapere chi gli ha scritto il nome.
 
 ---
 
-## Ganci per il DM — sessione per sessione
+## Ganci per il DM, sessione per sessione
 
-*Tutti opzionali. Nessuno richiede modifiche ai file di sessione già preparati.*
+*Tutti opzionali. Nessuno richiede modifiche ai file di sessione già pronti.*
 
 | Sessione | Gancio | Peso |
 |---|---|---|
-| **S00** — I Tre Preludi | **Broken Silence** con i due innesti (visione contaminata, Majere che risponde invece di dare potere). È la scena fondativa del personaggio: vale la pena giocarla a parte, con il solo giocatore. | **Alto** |
-| **S02** — Vogler | Il primo villaggio che Razak vede da adulto brucia. Non serve una scena dedicata: basta una riga sul fatto che non ha un metodo per questo. | Medio |
-| **S03** — Kalaman | Il payoff Broken Silence è **già previsto** nel file (`dm-notes-sessione-03.md:434`). Per Razak va riletto: non guarisce nessuno — non ne è capace. Ma la caviglia storta della tabella "Disagi del Campo Profughi" gliela sistema con le mani, e per i profughi la differenza non è ovvia. Prima volta che viene scambiato per un sacerdote. | Medio |
-| **S03** — Consiglio | La scena opzionale contro **Lord Bakaris** (`dm-notes-sessione-03.md:440-448`) funziona benissimo su Razak: un uomo senza titolo, senza famiglia e senza nemmeno un cognome verificabile, attaccato pubblicamente proprio su quello. | Medio |
-| **S09** — Ser Maelis | Maelis gli fa ripetere il nome. Nient'altro. | **Alto (silenzioso)** |
-| **S13** — Sigillo di cera grigia | Se è Razak a trovarlo o a vederlo, è la terza volta in tre vite che il Marchio gli passa accanto — e la prima in cui ha una forma fisica. Nessuna prova, nessun tiro: solo il fatto che non riesce a smettere di guardarlo. | Medio |
-| **S16** — L'ultimo sussurro | Maelis parla al party guardando lui. Il ricordo n. 1 può affiorare qui, nel Sentiero dei Ricordi che chiude la sessione. | **Alto** |
-| **S22 / S23** — I due sigilli | Tracce indirette, nessun intervento richiesto. Se il giocatore comincia a tenere il conto da solo, lascialo fare senza commentare. | Basso |
-| **S25-26** — La citadella | Il Cap. 7 è denso di suoi momenti (Leedara, lo specchio, Lord Soth): **non aggiungere niente di Razak qui**. Il filo deve tacere quando la trama principale canta. | — |
-| **S28** — Finale | L'eco silenziosa di Maelis tra la folla: falla riconoscere a Razak. Poi il giro di tavolo finale. | **Alto** |
+| **S00** — I Tre Preludi | **Broken Silence** coi due innesti. È la scena fondativa: vale la pena giocarla a parte, col solo giocatore | Alto |
+| **S01** — Vogler | Razak qui ci ha vissuto quattro anni. Non è un forestiero: conosce il Brass Crab, la campana della milizia, metà dei nomi. Usalo per far vedere Vogler dall'interno mentre gli altri la vedono da fuori | Medio |
+| **S02** — L'invasione | Il villaggio dove ha vissuto brucia e la sua cavaliera con ogni probabilità muore. Non serve una scena in più, serve non affrettare quella che c'è già | Alto |
+| **S03** — Campo profughi | Il payoff di Broken Silence è già previsto nel file (`dm-notes-sessione-03.md:434`). Per Razak va riletto: non guarisce nessuno, non ne è capace. La caviglia storta della tabella "Disagi" gliela sistema con le mani, e per un profugo la differenza non si vede. Prima volta che lo scambiano per un sacerdote | Medio |
+| **S03** — Consiglio | La scena opzionale con **Lord Bakaris** (`dm-notes-sessione-03.md:440-448`) su Razak funziona meglio adesso: uno scudiero senza casata e senza cavaliere, attaccato in pubblico proprio su quello, da un nobile che a sua volta finge un esilio che non è mai stato | Medio |
+| **S09** — Ser Maelis | Gli fa ripetere il nome. Nient'altro | Alto (silenzioso) |
+| **S13** — Sigillo di cera grigia | Terza volta in tre vite che il Marchio gli passa accanto, prima con una forma fisica. Se al tavolo c'è Garrick, è la scena in cui i due personaggi si servono a vicenda: vedi "Garrick è lo strumento" | Alto |
+| **S16** — L'ultimo sussurro | Maelis parla a tutti guardando lui. Il ricordo n. 1 può affiorare qui, nel Sentiero dei Ricordi | Alto |
+| **S22 / S23** — I due sigilli | Tracce indirette, nessun intervento. Se il giocatore comincia a tenere il conto per conto suo, lascialo fare senza commentare | Basso |
+| **S25-26** — La citadella | Il Cap. 7 è già pieno di roba sua (Leedara, lo specchio, Lord Soth). Non aggiungere niente di Razak qui | — |
+| **S27** — Assedio | I Cavalieri di Solamnia convergono. È il posto dove uno scudiero senza cavaliere diventa una questione formale, e dove può risolversi. Vedi la nota su Becklin | Medio |
+| **S28** — Finale | L'eco di Maelis tra la folla: falla riconoscere a Razak. Poi il giro di tavolo | Alto |
 
 ---
 
-## Checklist di adozione al tavolo
+## Checklist prima di cominciare
 
-- [ ] Nome del giocatore compilato in cima al file e in `campagna/party.md`
-- [ ] Concordato con il giocatore: la Via del Sé Astrale da Tasha's è ammessa al tavolo 2024
-- [ ] Deciso il background di regole (Eremita per tema, oppure Guida/Acolito per la Destrezza)
-- [ ] Detto al giocatore, prima della Sessione 00, che Broken Silence **non** gli darà privilegi meccanici
-- [ ] Verificato che le tre ricorrenze corrispondano a cose realmente accadute nelle campagne precedenti; sostituite dove serve
-- [ ] Deciso se Maestro Roke e l'eremo sopravvivono all'invasione — decisione da prendere **prima** della Sessione 02
+- [ ] Nome del giocatore, qui in cima e in `campagna/party.md`
+- [ ] Concordato che la Via del Sé Astrale è ammessa al tavolo 2024
+- [ ] Letti sul manuale i benefici esatti di *Scudiero di Solamnia* (la nostra copia della fonte non li riporta) e assegnati i punteggi 2024 del background
+- [ ] Detto al giocatore, prima della S00, che Broken Silence non gli dà privilegi meccanici
+- [ ] Verificato che le tre ricorrenze corrispondano a cose successe davvero nelle due campagne precedenti, e sostituite dove no
+- [ ] **Deciso se Roke e l'eremo sopravvivono all'invasione. Prima della Sessione 02**
+- [ ] Deciso quanto pesa la morte di Becklin per Razak, e detto al giocatore che il suo personaggio ha un legame col villaggio che gli altri non hanno
