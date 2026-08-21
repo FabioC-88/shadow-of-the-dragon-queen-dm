@@ -35,9 +35,9 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 5 della tabella d6.* Sette anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Roke mise il novizio più giovane a occuparsene, e Razak aveva vent'anni ed era al secondo anno del voto lungo del silenzio. Ispin parlò per tre mesi a un ragazzo che non poteva rispondere.
+*Variante della voce 5 della tabella d6.* Sette anni fa un inverno anticipato chiuse i passi dell'Hinterlund, e Ispin, che stava tornando da qualche parte con una gamba conciata male, si rifugiò all'eremo del Filo di Rame perché era l'unica luce sulla salita. Ci restò tre mesi. Roke mise il novizio più giovane a occuparsene, e quel novizio era Razak, che aveva vent'anni ed era al secondo anno del voto lungo del silenzio. Per tre mesi Ispin ha raccontato il mondo a un ragazzo che non aveva la facoltà di rispondergli.
 
-Due anni dopo il voto è finito e Razak è sceso a Vogler, dove Ispin viveva ritirato da anni. Si sono frequentati per quattro anni. **In quattro anni Razak non gli ha mai detto che era sceso per una frase che Ispin gli aveva detto a marzo, l'ultimo giorno all'eremo.** Ispin è morto senza sapere di essere stato il motivo.
+Due anni dopo il voto è finito e Razak è sceso a Vogler, dove Ispin viveva ritirato ormai da parecchio, e si sono frequentati per altri quattro anni. In tutto quel tempo Razak non gli ha mai detto di essere sceso a valle per una frase che Ispin gli aveva rivolto a marzo, l'ultimo giorno all'eremo, e ha sempre rimandato con la motivazione che una cosa del genere va detta in un momento adatto. Ispin è morto senza sapere di essere stato il motivo.
 
 #### PNG collegati
 - **Becklin Uth Viharin** — la sua cavaliera. Lo prese come scudiero cinque anni fa su segnalazione di Ispin. **[NOTA DM]** muore con ogni probabilità nel Cap. 3, davanti a lui
