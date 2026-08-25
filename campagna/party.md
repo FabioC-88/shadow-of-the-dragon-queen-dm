@@ -24,6 +24,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 **Razza / Classe:** Umano / Monaco — Ordine di Majere, Via del Sé Astrale  
 **Background:** Cavaliere di Solamnia — *Scudiero di Solamnia*. Cresciuto all'eremo del Filo di Rame, poi quattro anni da scudiero di Becklin a Thornwall Keep. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
 **Ordine:** Nessuno. Scudiero mai investito; guarda alla Spada, sceglie al 4° livello  
+**Competenze notevoli:** Furtività, Rapidità di Mano, arnesi da scasso — rispettivamente dall'eremo, da Tobin Reyne e dagli scavi di Becklin a Thornwall Keep  
 **Preludio (Cap. 2):** Broken Silence  
 **Connessione a Ispin:** Lo accudì per un inverno all'eremo mentre era sotto voto di silenzio, e cinque anni dopo gli è andato a vivere accanto  
 
@@ -41,6 +42,7 @@ Due anni dopo il voto è finito e Razak è sceso a Vogler, dove Ispin viveva rit
 
 #### PNG collegati
 - **Becklin Uth Viharin** — la sua cavaliera. Lo prese come scudiero cinque anni fa su segnalazione di Ispin. **[NOTA DM]** muore con ogni probabilità nel Cap. 3, davanti a lui
+- **Darrett Highwater** — l'altro scudiero di Becklin, arrivato dopo di lui. Per un paio d'anni Razak è stato il suo anziano di servizio
 - **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo, malato da circa un anno)
 - **Confratello Tobin Reyne** — lasciò l'Ordine anni fa; quasi un fratello maggiore
 - **Ispin Greenshield** — defunto

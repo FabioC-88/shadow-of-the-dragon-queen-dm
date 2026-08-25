@@ -51,13 +51,13 @@
 | **Prima Apparizione** | Capitolo 3 (Vogler) |
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
-| **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri |
+| **Attitudine Iniziale** | +1 Cordiale. **+2 con Razak**, che è stato scudiero di Becklin insieme a lui |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **Ha condiviso il servizio con Razak Kendall:** è arrivato dopo, è più giovane, e per un paio d'anni ha avuto Razak come anziano di servizio. Quando dieci mesi fa Razak ha chiesto il congedo, Darrett è rimasto solo con Becklin e se l'è presa senza dirglielo — vedi la nota dedicata in `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | +1 Cordiale | — |
+| Razak | +2 Amichevole | Compagni di servizio a Thornwall Keep. Alla morte di Becklin restano entrambi senza cavaliere |
 
 ---
 

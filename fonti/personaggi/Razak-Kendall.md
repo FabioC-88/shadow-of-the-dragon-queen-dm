@@ -22,6 +22,7 @@
 | **Allineamento** | Legale Buono |
 | **Età** | 27 anni |
 | **Lingue** | Comune, Solamnico, lingua dei segni dell'Ordine di Majere |
+| **Competenze notevoli** | Furtività, Rapidità di Mano, arnesi da scasso. Vedi "Le mani" per la provenienza di ciascuna |
 | **Preludio (Cap. 2)** | **Broken Silence** |
 | **Connessione a Ispin** | Variante della voce 5 della tabella d6. Vedi sezione dedicata |
 
@@ -47,6 +48,8 @@ Al pollice sinistro tiene un anello di filo di rame ritorto a mano, ormai anneri
 > **Sé Astrale.** Viene da Tasha's e si innesta senza attriti, perché i suoi privilegi cadono ai livelli 3, 6, 11 e 17, che sono già i livelli di sottoclasse del monaco 2024. Dove il testo dice "punti ki" si legge "punti disciplina".
 >
 > **Cavaliere di Solamnia.** È un background del 2022, scritto per l'impianto 2014. Per la regola dei talenti bonus del modulo (fonte, righe 654-658) chi lo prende ottiene **Scudiero di Solamnia** come talento di 1° livello, che al tavolo 2024 funziona da talento d'origine. Restano da assegnare i punteggi di caratteristica che nel 2024 ogni background porta con sé: per un monaco la ripartizione sensata è Destrezza e Saggezza, con Costituzione come terza, ma è una decisione tua.
+>
+> **Competenze.** Furtività sta nella lista del monaco 2024 e non pone problemi. Rapidità di Mano e gli arnesi da scasso non arrivano né dal monaco né dal background del cavaliere, quindi controlla da dove il giocatore le sta prendendo (la competenza in strumenti del background 2024, un talento come Esperto, oppure una tua concessione). La giustificazione narrativa c'è comunque ed è nella sezione "Le mani".
 >
 > **Attenzione:** la copia della fonte in `fonti/campagna/` si interrompe all'elenco dei nomi dei talenti, alla riga 690, e non contiene il testo di Scudiero di Solamnia. I benefici esatti vanno letti sul manuale, Capitolo 1.
 
@@ -93,6 +96,18 @@ Ci è rimasto quattro anni, occupandosi soprattutto di manutenzione, ronde e del
 Il problema non è mai stato il Giuramento. *Est Sularus oth Mithas* non chiede a nessuno di indossare un usbergo; lo chiedono i trentasette volumi venuti dopo, che il modulo stesso descrive come contestati da una minoranza crescente di cavalieri convinta che siano superati e ingombranti. Becklin, che il tempo libero lo passa a scavare nelle rovine del proprio castello per interesse storico, sulla faccenda ha alzato le spalle fin dal primo giorno. Altri no. Tre anni fa un cavaliere di passaggio da Maelgoth ha chiesto ad alta voce, nel cortile, di chi fosse lo scudiero senza armatura, e Becklin ha risposto che era suo e che la conversazione era finita lì. Razak era presente e non ha aperto bocca, e non ne hanno più parlato nemmeno tra loro.
 
 Nel corso di quei quattro anni Becklin ha imparato sette o otto dei suoi segni, e li usava durante le riunioni lunghe quando voleva dirgli qualcosa senza che lo sentissero gli altri.
+
+### Le mani
+
+Tre delle cose che Razak sa fare nessuno se le aspetta da un monaco, e vengono da tre posti diversi in cui nessuno aveva l'intenzione di insegnargliele.
+
+Muoversi senza farsi sentire lo ha imparato all'eremo. Sei uomini vivono in un edificio di quattro stanze, si alzano a ore diverse e passano buona parte della giornata in raccoglimento, e disturbare il raccoglimento di un altro è una delle pochissime cose che la Regola condanna per esteso e senza attenuanti. Nei tre anni di voto Razak ha portato la faccenda oltre il ragionevole, perché non potendo parlare l'unico modo che gli restava per non interrompere era non farsi notare affatto, e ha finito per attraversare stanze occupate senza che nessuno alzasse la testa. Il simbolo dell'Ordine è un ragno, che se ne sta fermo dove tutti passano e non lo vede nessuno finché non si muove.
+
+Con le mani è andata per gradi. La prima parte è colpa di **Tobin Reyne**, che aveva sei anni più di lui e una insofferenza al silenzio che l'Ordine non è mai riuscito a correggere: da ragazzini gli ha insegnato a far sparire una moneta e a farla ricomparire da un'altra parte, per il gusto di avere qualcosa da fare con le mani nelle ore in cui era vietato avere qualcosa da dire. La seconda parte è arrivata col voto. Per tre anni le mani sono state l'unica voce che Razak aveva a disposizione, e chi passa trentasei mesi a farsi capire soltanto con quelle sviluppa un controllo che ai giochi di prestigio di Tobin serviva e avanzava. Quello che era un passatempo da novizi è diventato una cosa che a vederla fa un certo effetto, e infatti lui la fa raramente e mai in pubblico.
+
+Le serrature invece sono di Becklin. Il modulo dice che il tempo libero lo passa a scavare le rovine di Thornwall Keep per interesse storico, e che al pianterreno della torre tiene una collezione di oltre quaranta reperti recuperati sul posto (fonte, righe 1272 e 1315). Quattro anni di quegli scavi vogliono dire quattro anni passati ad aprire cose chiuse da secoli: casse ossidate, meccanismi bloccati dalla ruggine, serrature solamniche di fattura antica di cui nessuno ha più la chiave da trecento anni. Becklin non aveva la pazienza e Razak sì, e alla fine se ne occupava lui. Ha imparato su arnesi che si era fabbricato da solo, con l'idea che stesse facendo archeologia, e non gli è mai passato per la testa che fosse la stessa identica abilità che serve a scassinare la porta di una casa.
+
+> **[NOTA DM]** Questa è una cosa buona da tenere in mano per il Cap. 4 e seguenti. Razak apre le serrature con la coscienza pulita di chi restaura reperti, e la prima volta che il party gliene chiede una per una ragione meno nobile è una scena che si scrive da sola. Non anticiparla e non risolverla: lascia che sia il giocatore a decidere dove sta il confine, e ricordati che il suo personaggio ha giurato su un codice che di questo caso non parla.
 
 ### Il ritorno all'eremo
 
@@ -270,8 +285,9 @@ La domanda a cui Razak è la risposta è quanti Razak Kendall si presentano a qu
 |---|---|---|
 | **Becklin Uth Viharin** | La sua cavaliera. Lo prese come scudiero cinque anni fa su segnalazione di Ispin, senza fare domande sulla famiglia che non c'era | Viva a Vogler. Vedi modulo, Cap. 3, e la nota qui sotto |
 | **Ispin Greenshield** | Gli ha parlato per un inverno intero e poi gli è vissuto accanto quattro anni | Defunto. Il funerale apre la campagna |
+| **Darrett Highwater** | L'altro scudiero di Becklin, più giovane e arrivato dopo. Quando Razak è risalito all'eremo è rimasto lui | Vivo. PNG ricorrente del modulo per tutta la campagna. Vedi nota |
 | **Maestro Halden Roke** *(inventato)* | Maestro dell'eremo, l'unico padre che abbia avuto. Sta male da circa un anno | Vivo, all'eremo. Vedi nota |
-| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine anni fa perché non reggeva il silenzio. Gli ha fatto quasi da fratello maggiore | Ignoto. PNG jolly |
+| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine anni fa perché non reggeva il silenzio. Gli ha fatto quasi da fratello maggiore e gli ha insegnato i primi giochi di mano | Ignoto. PNG jolly |
 | **Garrick Ashwatch** | Compagno di party. Non si conoscono | Vedi `fonti/personaggi/Garrick-Ashwatch.md` |
 | **Ser Maelis** | Nessuna relazione apparente | **[NOTA DM]** vedi "Segreti" |
 
@@ -282,6 +298,14 @@ Il modulo dà Becklin per spacciata nel Cap. 3, ed è la conseguenza più pesant
 Non calcare la mano. Razak in quella scena non ha niente da dire e non deve averlo, e la cosa peggiore che puoi fargli fare è un discorso. Se ti serve una sola immagine, usa i segni: Becklin ne aveva imparati sette o otto in quattro anni, e dopo di lei non resta nessun altro su Krynn con cui lui possa usarli.
 
 C'è anche una conseguenza pratica che vale la pena tenere d'occhio. Dalla sua morte in poi Razak è uno scudiero senza cavaliere, condizione che la Misura non contempla e che nessuno ha interesse a sollevare finché si sta scappando da un'invasione. Torna a contare nel Cap. 7, quando i Cavalieri di Solamnia si riuniscono davvero e le formalità ricominciano a esistere.
+
+### **[NOTA DM]** — Darrett Highwater
+
+Il modulo assegna a Becklin uno scudiero, **Darrett Highwater**, che alloggia al secondo piano della torre di Thornwall Keep (fonte, riga 1272) e che poi accompagna il party come alleato ricorrente dal Cap. 3 al Cap. 7. Due scudieri per una castellana non fanno problema, e la coincidenza conviene sfruttarla invece di aggirarla: Darrett è arrivato dopo, è più giovane, e per un paio d'anni ha avuto Razak come anziano di servizio.
+
+Il rapporto che ne esce è utile per tutta la campagna. Darrett è idealista, vuole diventare cavaliere sul serio e ha in testa la versione da manuale della Cavalleria; Razak è quello che il cavaliere di Maelgoth ha additato in cortile perché girava senza armatura. Si sono voluti bene lo stesso. Quando Razak ha chiesto il congedo, dieci mesi fa, Darrett è rimasto solo con Becklin, e non gliel'ha mai detto ma se l'è presa.
+
+Alla morte di Becklin restano in due, entrambi senza cavaliere. Il modulo fa comunque crescere Darrett lungo l'arco della campagna: se Razak c'è, quella crescita ha un testimone che lo conosceva da prima, e nel Cap. 7 hanno una faccenda in sospeso da chiudere insieme.
 
 ### **[NOTA DM]** — L'eremo
 
@@ -294,6 +318,8 @@ Il Filo di Rame sta a una giornata e mezza da Vogler, quindi sulla traiettoria d
 Materiale già pronto, da usare o ignorare.
 
 **Razak e Garrick.** Razak è uno scudiero della Cavalleria di Solamnia e Garrick è stato processato per aver consegnato turni e parole d'ordine delle torri di segnalazione del confine orientale, poi scagionato dopo otto mesi, che non è mai la stessa cosa che non essere stati accusati. Se Garrick lo dice, o se Razak lo scopre per conto suo, lì c'è una scena vera e conviene lasciarla succedere. Non risolverla tu: Razak ha passato la vita in un ordine dove le regole occupano trentasette volumi, e sta per scoprire che la Misura non ha una voce per questo caso.
+
+**Razak e la Misura.** Uno scudiero di Solamnia che si muove senza farsi sentire, sa alleggerire una tasca e apre le serrature altrui è una contraddizione che salta all'occhio di chiunque abbia letto anche solo i primi volumi. Razak non ci vede niente di storto, perché ha imparato ciascuna di quelle tre cose in un contesto onorevole e non gli è mai venuto in mente di sommarle. Il primo che gliele somma davanti, e sarà probabilmente un cavaliere, gli fa più danno di un'accusa.
 
 **Il resto del tavolo.** Un uomo che non porta armatura, non impugna armi e ha addosso un mantello da scudiero raccoglie commenti dai soldati di mestiere per tutta la durata della campagna. Lasciali arrivare, perché non costano niente e caratterizzano il mondo meglio di una descrizione.
 
@@ -319,9 +345,11 @@ Materiale già pronto, da usare o ignorare.
 |---|---|---|
 | **S00** — I Tre Preludi | **Broken Silence** con i due innesti. È la scena fondativa del personaggio e vale la pena giocarla a parte, col solo giocatore | Alto |
 | **S01** — Vogler | Razak qui ci ha vissuto quattro anni e non è un forestiero: conosce il Brass Crab, la campana della milizia e metà dei nomi. Usalo per far vedere Vogler dall'interno mentre gli altri la vedono da fuori | Medio |
+| **S01** — Thornwall Keep | Il modulo porta il party alla torre il mattino dopo il funerale, e per Razak è tornare al lavoro dopo dieci mesi di congedo. Al pianterreno c'è la collezione di reperti che ha aperto lui uno per uno. Al secondo piano dorme **Darrett**, che è arrivato dopo di lui e c'è rimasto | Medio |
 | **S02** — L'invasione | Il villaggio dove ha vissuto brucia e la sua cavaliera con ogni probabilità muore. Non serve una scena in più, serve non avere fretta in quella che c'è già | Alto |
 | **S03** — Campo profughi | Il payoff di Broken Silence è già previsto nel file (`dm-notes-sessione-03.md:434`), ma per Razak va riletto, perché non guarisce nessuno e non ne è capace. La caviglia storta della tabella "Disagi" gliela sistema con le mani, e per un profugo la differenza non si vede. È la prima volta che lo scambiano per un sacerdote | Medio |
 | **S03** — Consiglio | La scena opzionale con **Lord Bakaris** (`dm-notes-sessione-03.md:440-448`) funziona meglio adesso: uno scudiero senza casata e senza cavaliere, attaccato in pubblico proprio su quello, da un nobile che a sua volta sta fingendo un esilio mai avvenuto | Medio |
+| **Cap. 4 in poi** — La prima serratura | La prima volta che il party gli chiede di aprire qualcosa per una ragione che non è l'archeologia. Vedi la nota in "Le mani": lascia decidere al giocatore dove sta il confine, senza aiutarlo | Medio |
 | **S09** — Ser Maelis | Gli fa ripetere il nome, e nient'altro | Alto (silenzioso) |
 | **S13** — Sigillo di cera grigia | Terza volta in tre vite che il Marchio gli passa accanto, e la prima in cui ha una forma fisica. Se al tavolo c'è Garrick, è la scena in cui i due personaggi si servono a vicenda: vedi "Garrick è lo strumento" | Alto |
 | **S16** — L'ultimo sussurro | Maelis parla a tutti guardando lui, e il ricordo n. 1 può affiorare poco dopo, nel Sentiero dei Ricordi | Alto |
