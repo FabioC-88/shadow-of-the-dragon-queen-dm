@@ -21,10 +21,10 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Razak Kendall
 **Giocatore:** [DA COMPILARE]  
-**Razza / Classe:** Umano / Monaco — Ordine di Majere, Via del Sé Astrale  
+**Razza / Classe:** Umano / Monaco — Ordine di Majere, Via dell'Ombra  
 **Background:** Cavaliere di Solamnia — *Scudiero di Solamnia*. Cresciuto all'eremo del Filo di Rame, poi quattro anni da scudiero di Becklin a Thornwall Keep. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
 **Ordine:** Nessuno. Scudiero mai investito; guarda alla Spada, sceglie al 4° livello  
-**Competenze notevoli:** Furtività, Rapidità di Mano, arnesi da scasso — rispettivamente dall'eremo, da Tobin Reyne e dagli scavi di Becklin a Thornwall Keep  
+**Competenze notevoli:** Furtività, Rapidità di Mano, arnesi da scasso — le insegna tutte l'eremo, non è casuale che le abbia tutte e tre. Vedi "Le mani" in `fonti/personaggi/Razak-Kendall.md`  
 **Preludio (Cap. 2):** Broken Silence  
 **Connessione a Ispin:** Lo accudì per un inverno all'eremo mentre era sotto voto di silenzio, e cinque anni dopo gli è andato a vivere accanto  
 

@@ -1,10 +1,10 @@
-# Razak Kendall — Umano / Monaco (Ordine di Majere, Via del Sé Astrale)
+# Razak Kendall — Umano / Monaco (Ordine di Majere, Via dell'Ombra)
 
 **Giocatore:** [DA COMPILARE]
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
 
-> **Nota.** Del giocatore sono il nome, la classe, la Via del Sé Astrale, le lingue e la scelta di legarsi ai Cavalieri di Solamnia. Il resto è costruito attorno a quelle cinque cose. Gli elementi inventati sono l'eremo del Filo di Rame, Maestro Halden Roke, Tobin Reyne, la lingua dei segni dell'Ordine e il periodo da scudiero a Thornwall Keep. Niente contraddice il modulo.
+> **Nota.** Del giocatore sono il nome, la classe, le lingue, la scelta di legarsi ai Cavalieri di Solamnia e tre competenze — Furtività, Rapidità di Mano, arnesi da scasso. Il resto è costruito attorno a quelle cose, e in particolare attorno alla domanda su come le tre competenze possano appartenere davvero a un monaco onesto invece che essere appiccicate sopra. La risposta è nella sezione "Le mani". Gli elementi inventati sono l'eremo del Filo di Rame e la sua vera natura, Maestro Halden Roke, Tobin Reyne, la lingua dei segni dell'Ordine e il periodo da scudiero a Thornwall Keep. Niente contraddice il modulo.
 
 ---
 
@@ -15,7 +15,7 @@
 | **Nome** | Razak Kendall |
 | **Popolo** | Umano (Solamnia, provincia di Hinterlund) |
 | **Classe** | Monaco |
-| **Sottoclasse** | Via del Sé Astrale *(Tasha's)* |
+| **Sottoclasse** | Via dell'Ombra |
 | **Background** | Cavaliere di Solamnia → *Scudiero di Solamnia* |
 | **Ordine** | Nessuno. Scudiero da cinque anni, mai investito. La Corona è la porta d'ingresso di tutti; lui guarda alla Spada, e la scelta si chiude al 4° livello |
 | **Divinità** | **Majere** (LG, meditazione e ordine; simbolo: ragno di rame) |
@@ -43,13 +43,11 @@ Al pollice sinistro tiene un anello di filo di rame ritorto a mano, ormai anneri
 | **Legame** | Ispin Greenshield gli ha parlato per un inverno intero mentre lui era tenuto al silenzio, e cinque anni dopo se lo è ritrovato vicino di casa per altri quattro. In tutto quel tempo non gli ha mai detto che era stato lui la ragione per cui era sceso a valle. |
 | **Difetto** | Diffida di quello che non riesce a ordinare, e si porta dentro una cosa che non è mai riuscito a ordinare in ventisette anni. Quando affiora non lo dice a nessuno, nemmeno a chi in quel momento gli sta salvando la vita, e non gli viene in mente che possa essere un problema. |
 
-> **Nota regole (5e 2024).** Il tavolo gioca con il Manuale del Giocatore 2024, e servono due raccordi.
->
-> **Sé Astrale.** Viene da Tasha's e si innesta senza attriti, perché i suoi privilegi cadono ai livelli 3, 6, 11 e 17, che sono già i livelli di sottoclasse del monaco 2024. Dove il testo dice "punti ki" si legge "punti disciplina".
+> **Nota regole (5e 2024).** Il tavolo gioca con il Manuale del Giocatore 2024. La Via dell'Ombra è una delle quattro sottoclassi ufficiali del monaco 2024, quindi nessuna nota di compatibilità da aggiungere — è testo di base, non un innesto da un'altra edizione.
 >
 > **Cavaliere di Solamnia.** È un background del 2022, scritto per l'impianto 2014. Per la regola dei talenti bonus del modulo (fonte, righe 654-658) chi lo prende ottiene **Scudiero di Solamnia** come talento di 1° livello, che al tavolo 2024 funziona da talento d'origine. Restano da assegnare i punteggi di caratteristica che nel 2024 ogni background porta con sé: per un monaco la ripartizione sensata è Destrezza e Saggezza, con Costituzione come terza, ma è una decisione tua.
 >
-> **Competenze.** Furtività sta nella lista del monaco 2024 e non pone problemi. Rapidità di Mano e gli arnesi da scasso non arrivano né dal monaco né dal background del cavaliere, quindi controlla da dove il giocatore le sta prendendo (la competenza in strumenti del background 2024, un talento come Esperto, oppure una tua concessione). La giustificazione narrativa c'è comunque ed è nella sezione "Le mani".
+> **Competenze.** Furtività sta nella lista del monaco 2024 e non pone problemi. Rapidità di Mano e gli arnesi da scasso non arrivano né dal monaco né dal background del cavaliere, quindi controlla da dove il giocatore le sta prendendo (la competenza in strumenti del background 2024, un talento come Esperto, oppure una tua concessione). La giustificazione narrativa è nella sezione "Le mani", ed è la stessa per tutte e tre: le insegna l'eremo.
 >
 > **Attenzione:** la copia della fonte in `fonti/campagna/` si interrompe all'elenco dei nomi dei talenti, alla riga 690, e non contiene il testo di Scudiero di Solamnia. I benefici esatti vanno letti sul manuale, Capitolo 1.
 
@@ -65,7 +63,11 @@ Negli altipiani dell'Hinterlund, una giornata e mezza a nord-ovest di Vogler, su
 
 L'Ordine è arrivato in fondo ai trecento anni dell'Era della Disperazione per una ragione che i suoi membri considerano ovvia e che a quasi tutti gli altri dà fastidio, e cioè che quello che fanno non è mai dipeso dagli dèi. Mentre i sacerdoti perdevano i miracoli e le grandi fedi si svuotavano nel giro di due generazioni, i monaci di Majere non avevano niente da perdere, e hanno continuato ad alzarsi prima dell'alba, a spazzare il cortile e a respirare contando esattamente come facevano prima del Cataclisma. Il mondo li ha presi per una superstizione rimasta indietro, e loro hanno lasciato correre senza discutere.
 
-Razak è cresciuto lì dentro senza averlo scelto, perché ce lo hanno lasciato che non aveva ancora un anno.
+Quello che il mondo non sa è che la Regola non si ferma alla meditazione. La stessa disciplina che insegna a stare fermi per ore insegna anche a muoversi senza essere sentiti, e la stessa concentrazione che serve a respirare contando serve a maneggiare una serratura come se fosse un rosario. Non è un segreto nel senso di una cospirazione: è semplicemente una parte della Regola che l'Ordine non porta in giro a raccontare, perché un eremo famoso per aprire ciò che è chiuso smetterebbe in fretta di essere un eremo tranquillo. Quando serve, e non serve spesso, i monaci del Filo di Rame la mettono a disposizione di chi ne ha davvero bisogno: chi deve sparire da qualcuno che gli vuole male, chi ha bisogno di riprendersi ciò che gli è stato tolto senza processo e senza speranza di uno, chi ha una porta chiusa fra sé e qualcosa di urgente. Lo fanno senza farsi pagare e senza farsi vedere, e la gente della zona che lo sa per esperienza diretta preferisce non parlarne, un po' per gratitudine e un po' perché spiegarlo suonerebbe assurdo.
+
+Razak è cresciuto lì dentro senza averlo scelto, perché ce lo hanno lasciato che non aveva ancora un anno, e ha imparato questa parte della Regola insieme a tutto il resto, senza che nessuno gliela presentasse come qualcosa di diverso dalla preghiera.
+
+*[NOTA DM] La vera natura dell'eremo è un segreto **di gioco**, non il segreto legato al filo nascosto — vanno tenuti separati, non si toccano fra loro. Pochissimi fuori dall'Ordine la conoscono: qualche famiglia dell'Hinterlund che ne ha beneficiato una generazione fa, e nessuno a Vogler o a Kalaman. Becklin non lo sa. Usala come riserva di avventure a bassa intensità (qualcuno che si presenta all'eremo cercando aiuto, un debito d'onore da riscuotere), non come spiegazione da dare ai giocatori.*
 
 ### Il nome arrivato prima di lui
 
@@ -99,15 +101,15 @@ Nel corso di quei quattro anni Becklin ha imparato sette o otto dei suoi segni, 
 
 ### Le mani
 
-Tre delle cose che Razak sa fare nessuno se le aspetta da un monaco, e vengono da tre posti diversi in cui nessuno aveva l'intenzione di insegnargliele.
+Tre delle cose che Razak sa fare nessuno se le aspetta da un monaco, ma non sono tre incidenti separati: sono lo stesso mestiere, insegnato dallo stesso posto.
 
-Muoversi senza farsi sentire lo ha imparato all'eremo. Sei uomini vivono in un edificio di quattro stanze, si alzano a ore diverse e passano buona parte della giornata in raccoglimento, e disturbare il raccoglimento di un altro è una delle pochissime cose che la Regola condanna per esteso e senza attenuanti. Nei tre anni di voto Razak ha portato la faccenda oltre il ragionevole, perché non potendo parlare l'unico modo che gli restava per non interrompere era non farsi notare affatto, e ha finito per attraversare stanze occupate senza che nessuno alzasse la testa. Il simbolo dell'Ordine è un ragno, che se ne sta fermo dove tutti passano e non lo vede nessuno finché non si muove.
+Muoversi senza farsi sentire è la prima cosa che insegna l'eremo, e la insegna a tutti, non solo a chi come Razak la porta oltre il ragionevole. Sei uomini vivono in un edificio di quattro stanze, si alzano a ore diverse e passano buona parte della giornata in raccoglimento, e disturbare il raccoglimento di un altro è una delle pochissime cose che la Regola condanna per esteso e senza attenuanti. Nei tre anni di voto, non potendo parlare, l'unico modo che gli restava per non interrompere era non farsi notare affatto, e ha finito per attraversare stanze occupate senza che nessuno alzasse la testa. Il simbolo dell'Ordine è un ragno, che se ne sta fermo dove tutti passano e non lo vede nessuno finché non si muove.
 
-Con le mani è andata per gradi. La prima parte è colpa di **Tobin Reyne**, che aveva sei anni più di lui e una insofferenza al silenzio che l'Ordine non è mai riuscito a correggere: da ragazzini gli ha insegnato a far sparire una moneta e a farla ricomparire da un'altra parte, per il gusto di avere qualcosa da fare con le mani nelle ore in cui era vietato avere qualcosa da dire. La seconda parte è arrivata col voto. Per tre anni le mani sono state l'unica voce che Razak aveva a disposizione, e chi passa trentasei mesi a farsi capire soltanto con quelle sviluppa un controllo che ai giochi di prestigio di Tobin serviva e avanzava. Quello che era un passatempo da novizi è diventato una cosa che a vederla fa un certo effetto, e infatti lui la fa raramente e mai in pubblico.
+Le mani vengono dalla stessa disciplina, insegnata più avanti e a meno persone. Per tre anni le mani sono state l'unica voce che Razak aveva a disposizione, e chi passa trentasei mesi a farsi capire soltanto con quelle sviluppa un controllo che l'Ordine, con calma, ha messo a frutto: sciogliere un nodo senza guardarlo, aprire un fermaglio, far sparire un oggetto piccolo dalla mano di chi non presta attenzione. Il primo contatto con tutto questo, per Razak, non fu una lezione ma un gioco: **Tobin Reyne**, che aveva sei anni più di lui, gli insegnò da bambino a far sparire una moneta e a farla ricomparire da un'altra parte, prima ancora che iniziasse il voto e prima che qualcuno gli spiegasse che quel gioco aveva un nome e un uso. Quando l'insegnamento vero è arrivato, per Razak è stato riconoscere qualcosa più che imparare qualcosa di nuovo.
 
-Le serrature invece sono di Becklin. Il modulo dice che il tempo libero lo passa a scavare le rovine di Thornwall Keep per interesse storico, e che al pianterreno della torre tiene una collezione di oltre quaranta reperti recuperati sul posto (fonte, righe 1272 e 1315). Quattro anni di quegli scavi vogliono dire quattro anni passati ad aprire cose chiuse da secoli: casse ossidate, meccanismi bloccati dalla ruggine, serrature solamniche di fattura antica di cui nessuno ha più la chiave da trecento anni. Becklin non aveva la pazienza e Razak sì, e alla fine se ne occupava lui. Ha imparato su arnesi che si era fabbricato da solo, con l'idea che stesse facendo archeologia, e non gli è mai passato per la testa che fosse la stessa identica abilità che serve a scassinare la porta di una casa.
+Le serrature sono l'ultimo gradino, insegnato a chi ha già dimostrato l'affidabilità per reggerlo, e Razak lo ha imparato negli ultimi anni prima del voto, su meccanismi vecchi che l'eremo tiene da generazioni proprio per esercitarsi. Quattro anni a Thornwall Keep gli hanno dato un banco di prova reale: il modulo dice che Becklin passa il tempo libero a scavare le rovine del castello per interesse storico, e che al pianterreno della torre tiene una collezione di oltre quaranta reperti recuperati sul posto (fonte, righe 1272 e 1315). Casse ossidate, meccanismi bloccati dalla ruggine, serrature solamniche di cui nessuno ha più la chiave da trecento anni: Becklin non aveva la pazienza e Razak sì, e quello che sapeva già fare dall'eremo lì si è affinato su materiale vero, con la coscienza pulita di chi fa archeologia.
 
-> **[NOTA DM]** Questa è una cosa buona da tenere in mano per il Cap. 4 e seguenti. Razak apre le serrature con la coscienza pulita di chi restaura reperti, e la prima volta che il party gliene chiede una per una ragione meno nobile è una scena che si scrive da sola. Non anticiparla e non risolverla: lascia che sia il giocatore a decidere dove sta il confine, e ricordati che il suo personaggio ha giurato su un codice che di questo caso non parla.
+> **[NOTA DM]** Questa è una cosa buona da tenere in mano per il Cap. 4 e seguenti. Razak apre le serrature con la coscienza pulita di chi ha imparato per una buona ragione, e la prima volta che il party gliene chiede una per un motivo meno nobile è una scena che si scrive da sola. Non anticiparla e non risolverla: lascia che sia il giocatore a decidere dove sta il confine, e ricordati che il suo personaggio ha giurato su un codice che di questo caso non parla.
 
 ### Il ritorno all'eremo
 
@@ -193,15 +195,15 @@ Niente di meccanico, e conviene dirlo al giocatore in anticipo perché non se lo
 
 ---
 
-## Il Sé Astrale al tavolo
+## L'Ombra al tavolo
 
-Dal Livello 3 Razak manifesta le Braccia del Sé Astrale, due arti spettrali sovrapposti ai propri, il che significa che un monaco di Majere in combattimento si ritrova con quattro braccia luminose.
+Dal Livello 3 Razak accede alle Arti dell'Ombra: può creare un'illusione minore col ki, o spenderne un punto per evocare oscurità, vedere al buio, muoversi senza lasciare traccia o imporre silenzio in un'area. È la parte visibile di quello che l'eremo insegna da sempre, solo più netta: uno che passa la vita a non farsi notare, messo alla prova, scopre di saperlo fare anche quando conta davvero.
 
-Il simbolo dell'Ordine è un ragno di rame (fonte, riga 314). Chi ha sempre pensato che fosse un emblema astratto, la prima volta che lo vede combattere capisce che era una descrizione, e vale la pena di far arrivare questa osservazione a un PNG devoto o molto anziano almeno una volta nella campagna. La reazione giusta è spavento e non ammirazione.
+Il simbolo dell'Ordine è un ragno di rame (fonte, riga 314), e con questa sottoclasse il collegamento non ha bisogno di essere spiegato: un ragno non ha quattro braccia luminose da mostrare, ha la pazienza di restare immobile dove tutti passano e la precisione di colpire una volta sola, quando è già troppo tardi per reagire. Vale la pena di far notare la cosa a un PNG devoto o molto anziano almeno una volta nella campagna. La reazione giusta è disagio, non ammirazione.
 
-Al Livello 6 arriva il Volto del Sé Astrale.
+Al Livello 6 arriva il Passo tra le Ombre: un teletrasporto tra due zone d'ombra o penombra a distanza, con vantaggio sul primo attacco che segue.
 
-**[NOTA DM]** Il volto che manifesta non è esattamente il suo. È abbastanza vicino da non far gridare nessuno, ma gli zigomi sono sbagliati e l'attaccatura dei capelli è sbagliata, e in due manifestazioni consecutive non è mai identico a se stesso. Razak se ne accorge dalla prima volta e non ne parla con nessuno, perché rientra nella categoria di cose che non riesce a ordinare. Non spiegarlo mai, e se un giocatore lo nota e chiede conferma soltanto il fatto osservabile, cioè che il volto cambia. Il perché sta in "Segreti".
+**[NOTA DM]** Quando lo usa, per un istante l'ombra che attraversa non è del tutto l'ombra di Krynn. È più fredda di quanto dovrebbe, e più profonda di quanto la luce intorno giustifichi — un dettaglio che nessuno, compreso Razak, riesce mai a mettere a fuoco abbastanza in fretta da esserne certo. Non spiegarlo mai. Se un giocatore lo nota e chiede, conferma solo il fatto osservabile: per un attimo, quell'ombra sembrava più fonda del previsto. Il perché sta in "Segreti".
 
 ---
 
@@ -287,7 +289,7 @@ La domanda a cui Razak è la risposta è quanti Razak Kendall si presentano a qu
 | **Ispin Greenshield** | Gli ha parlato per un inverno intero e poi gli è vissuto accanto quattro anni | Defunto. Il funerale apre la campagna |
 | **Darrett Highwater** | L'altro scudiero di Becklin, più giovane e arrivato dopo. Quando Razak è risalito all'eremo è rimasto lui | Vivo. PNG ricorrente del modulo per tutta la campagna. Vedi nota |
 | **Maestro Halden Roke** *(inventato)* | Maestro dell'eremo, l'unico padre che abbia avuto. Sta male da circa un anno | Vivo, all'eremo. Vedi nota |
-| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine anni fa perché non reggeva il silenzio. Gli ha fatto quasi da fratello maggiore e gli ha insegnato i primi giochi di mano | Ignoto. PNG jolly |
+| **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine anni fa perché non reggeva il silenzio. Gli ha fatto quasi da fratello maggiore, e da bambino gli ha insegnato il primo gioco di prestigio, prima ancora che l'Ordine gliene insegnasse il vero uso | Ignoto. PNG jolly |
 | **Garrick Ashwatch** | Compagno di party. Non si conoscono | Vedi `fonti/personaggi/Garrick-Ashwatch.md` |
 | **Ser Maelis** | Nessuna relazione apparente | **[NOTA DM]** vedi "Segreti" |
 
@@ -319,7 +321,7 @@ Materiale già pronto, da usare o ignorare.
 
 **Razak e Garrick.** Razak è uno scudiero della Cavalleria di Solamnia e Garrick è stato processato per aver consegnato turni e parole d'ordine delle torri di segnalazione del confine orientale, poi scagionato dopo otto mesi, che non è mai la stessa cosa che non essere stati accusati. Se Garrick lo dice, o se Razak lo scopre per conto suo, lì c'è una scena vera e conviene lasciarla succedere. Non risolverla tu: Razak ha passato la vita in un ordine dove le regole occupano trentasette volumi, e sta per scoprire che la Misura non ha una voce per questo caso.
 
-**Razak e la Misura.** Uno scudiero di Solamnia che si muove senza farsi sentire, sa alleggerire una tasca e apre le serrature altrui è una contraddizione che salta all'occhio di chiunque abbia letto anche solo i primi volumi. Razak non ci vede niente di storto, perché ha imparato ciascuna di quelle tre cose in un contesto onorevole e non gli è mai venuto in mente di sommarle. Il primo che gliele somma davanti, e sarà probabilmente un cavaliere, gli fa più danno di un'accusa.
+**Razak e la Misura.** Uno scudiero di Solamnia che si muove senza farsi sentire, sa alleggerire una tasca e apre le serrature altrui è una contraddizione che salta all'occhio di chiunque abbia letto anche solo i primi volumi. Razak non ci vede niente di storto: per lui è la Regola di un ordine religioso che nessuno mette in dubbio, non un mestiere sospetto, e non gli è mai venuto in mente che qualcun altro potesse leggerla diversamente. Il primo cavaliere che gliela legge diversamente, davanti a testimoni, gli fa più danno di un'accusa vera.
 
 **Il resto del tavolo.** Un uomo che non porta armatura, non impugna armi e ha addosso un mantello da scudiero raccoglie commenti dai soldati di mestiere per tutta la durata della campagna. Lasciali arrivare, perché non costano niente e caratterizzano il mondo meglio di una descrizione.
 
@@ -363,8 +365,8 @@ Materiale già pronto, da usare o ignorare.
 ## Checklist prima di cominciare
 
 - [ ] Nome del giocatore, qui in cima e in `campagna/party.md`
-- [ ] Concordato che la Via del Sé Astrale è ammessa al tavolo 2024
 - [ ] Letti sul manuale i benefici esatti di *Scudiero di Solamnia*, che la nostra copia della fonte non riporta, e assegnati i punteggi 2024 del background
+- [ ] Verificato da dove il giocatore prende Rapidità di Mano e la competenza negli arnesi da scasso, che non arrivano né dal monaco né dal background del cavaliere
 - [ ] Detto al giocatore, prima della S00, che Broken Silence non gli dà privilegi meccanici
 - [ ] Verificato che le tre ricorrenze corrispondano a cose successe davvero nelle due campagne precedenti, e sostituite dove non è così
 - [ ] **Deciso se Roke e l'eremo sopravvivono all'invasione, prima della Sessione 02**
