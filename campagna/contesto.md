@@ -8,6 +8,8 @@
 - **Party:** In composizione — 1 PG confermato: **Razak Kendall** (umano, monaco dell'Ordine di Majere; vedi `fonti/personaggi/Razak-Kendall.md`). Restano 3 slot aperti in `campagna/party.md`
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
+- **Edizione:** D&D 2024
+- **Regole della casa:** attive — critici massimizzati, 0 PF → 1 livello di esaurimento, Slow Natural Healing. Riposi standard (nessun Gritty Realism). Vedi `campagna/regole-casa.md` per il dettaglio, la matematica dei critici e le note di bilanciamento per sessione
 - **Capitolo corrente:** 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; Cap. 6 concluso con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10)
 
 ### Struttura della Campagna
