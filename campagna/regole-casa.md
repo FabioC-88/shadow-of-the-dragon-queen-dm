@@ -41,13 +41,20 @@ Vale **simmetricamente** per personaggi e mostri.
 
 Premia gli attacchi con **pochi dadi grossi** più di quelli con molti dadi piccoli. Al nostro tavolo: un critico di Razak (danno senz'armi, d6) aggiunge circa +6; un critico di *dardo di fuoco* di Garrick a livello 11 (3d10) aggiunge +30. Il volume di attacchi del monaco riequilibra il valore atteso, ma non la sensazione al tavolo.
 
-**Casi limite da decidere alla prima occorrenza** `[DA DECIDERE]`:
-- I dadi di **Attacco Furtivo** e di **Divine Smite** contano come "dadi base" (quindi raddoppiati al massimo) o restano fuori dalla regola? Rilevante se uno dei due slot liberi del party diventa un ladro o un paladino — e in una campagna così densa di non-morti, un paladino con Divine Smite Migliorato ne trarrebbe moltissimo.
-- Stessa domanda per i **danni aggiuntivi dei mostri** (es. i 2d8 necrotici del morso di Karavarix, i 2d6 da fuoco del morso di Ignia). Nella tabella §3 sono stati conteggiati **come dadi base**, cioè massimizzati anch'essi.
+**Cosa conta come "dado base": tutto.** Un critico è un critico. Rientrano nella regola, e vengono quindi massimizzati:
+
+- i dadi dell'arma o dell'incantesimo;
+- i dadi di **Attacco Furtivo**;
+- i dadi di **Divine Smite** (compreso il d8 aggiuntivo contro non-morti e immondi);
+- i **danni aggiuntivi dei mostri** — i 2d8 necrotici del morso di Karavarix, i 2d6 da fuoco del morso di Ignia, i 4d8 da fuoco della Spada Infernale di Lord Soth.
+
+**Effetto netto: favorisce il party.** I mostri di questa campagna hanno rider modesti (il più grosso è 4d8, Lord Soth), mentre un ladro di livello 11 porta 6d6 di Attacco Furtivo puro e un paladino con uno slot di 5° livello contro non-morti arriva a 6d8 di Divine Smite. Su un critico questo significa rispettivamente **+36 e +48 di danno fisso** oltre al tiro normale. È lo scambio voluto: se i mostri possono togliere un PG dal tavolo in un colpo, i PG devono poter fare lo stesso.
+
+**Nota sul party attuale:** né Razak (danno senz'armi, nessun dado aggiuntivo) né Garrick (trucchetti, nessun rider) traggono vantaggio da questa clausola. Ne beneficerebbero moltissimo un ladro o un paladino nei due slot ancora liberi — e in una campagna con i Cap. 5, 6 e 7 pieni di non-morti, il paladino in particolare.
 
 ### 1.3 — Zero punti ferita → 1 livello di esaurimento
 
-> Ogni volta che un personaggio scende a 0 PF, subisce **1 livello di esaurimento**.
+> Un personaggio sceso a 0 PF subisce **1 livello di esaurimento nel momento in cui riprende conoscenza**.
 
 Si usa la **scala dell'esaurimento della 2024**: ogni livello dà **−2 a tutte le prove basate sul d20** e −1,5 m di velocità, cumulativi; 6 livelli = morte. Si recupera 1 livello per riposo lungo.
 
@@ -57,7 +64,11 @@ Questa regola sostituisce integralmente le Lingering Injuries: è il nostro sist
 - Il "ping-pong delle cure" (rialzare un compagno con *parola guaritrice* solo per farlo ricadere) diventa costoso.
 - Andare a 0 PF lascia una traccia che dura oltre lo scontro.
 
-`[DA DECIDERE]` **Il livello di esaurimento si applica prima o dopo i tiri salvezza contro morte di quello stesso crollo?** Nella 2024 il TS contro morte è una prova basata sul d20 e subisce quindi il −2. La differenza è grossa — vedi §3.2 — e va fissata prima che capiti al tavolo, non durante.
+**Momento esatto in cui si applica.** Il livello arriva **al risveglio**, non alla caduta. Quindi i tiri salvezza contro morte di quel crollo si tirano al livello di esaurimento *precedente*, e il primo crollo di una giornata si tira senza penalità. Vedi §3.2 per cosa comporta.
+
+La formulazione dice "riprende conoscenza" e non "viene curato" di proposito: copre anche chi si stabilizza da solo con tre successi e si risveglia a 0 PF dopo 1d4 ore. Altrimenti ci sarebbe l'incentivo perverso a lasciare a terra un compagno per risparmiargli il livello di esaurimento.
+
+Chi muore non subisce l'esaurimento, per ovvie ragioni.
 
 ### 1.4 — Slow Natural Healing
 
@@ -83,7 +94,7 @@ Documentate qui perché non vengano riproposte.
 | **Healer's Kit Dependency** (DMG 2014 p. 267) | non adottata | Valutabile in futuro se il party prende un curatore dedicato. |
 | **Riposo lungo pieno solo in un rifugio** | non adottata | Resta disponibile se in Cap. 4–5 emerge il problema della "giornata da cinque minuti" (vedi §4.1). |
 | **Riduzione del PF massimo → pavimento a 1** | **scartata per scelta esplicita del DM** | Proposta come guardia contro la morte istantanea senza tiri salvezza (vedi §3.1). Il DM ha deciso di non adottarla: il posizionamento è responsabilità dei giocatori. Conseguenza accettata e documentata. |
-| **Esaurimento non applicato ai TS contro morte** | **scartata per scelta esplicita del DM** | Stessa logica. La spirale di §3.2 è un esito voluto. |
+| **Esaurimento non applicato ai TS contro morte** | **scartata per scelta esplicita del DM** | Stessa logica. La spirale di §3.2 è un esito voluto. Mitigata di fatto dalla scelta sul momento di applicazione (§1.3): il primo crollo di una giornata non subisce penalità. |
 
 ---
 
@@ -132,18 +143,20 @@ Fattori che alzano ulteriormente il rischio:
 
 Nella 2024 l'esaurimento dà −2 a **tutte** le prove basate sul d20, e il tiro salvezza contro morte è una di quelle. Combinato con §1.3:
 
-| Livelli di esaurimento al momento dei TS | Serve | Sopravvivenza |
-|---|---|---|
-| 0 | 10+ | ~59% |
-| 1 (−2) | 12+ | ~41% |
-| 2 (−4) | 14+ | ~24% |
-| 3 (−6) | 16+ | ~10% |
+Poiché l'esaurimento arriva **al risveglio** (§1.3), i tiri salvezza di un crollo si tirano al livello accumulato dai crolli *precedenti*. Il risultato è questa scala, dove il numero di riga è quante volte quel personaggio è già stato rialzato dall'ultimo riposo lungo:
+
+| Crollo nella stessa giornata | Esaurimento ai TS | Serve | Sopravvivenza |
+|---|---|---|---|
+| 1° | 0 | 10+ | ~59% |
+| 2° | 1 (−2) | 12+ | ~41% |
+| 3° | 2 (−4) | 14+ | ~24% |
+| 4° | 3 (−6) | 16+ | ~10% |
 
 *(corsa ai 3 successi contro 3 fallimenti, senza contare 20 e 1 naturali)*
 
-Se il livello di esaurimento si applica **prima** dei tiri salvezza di quel crollo (vedi la decisione aperta in §1.3), anche il **primo** crollo si tira già a −2: 41% invece di 59%.
+Il primo crollo resta quindi alle probabilità standard: la penalità morde solo su chi è già stato rialzato. È la versione più clemente della regola, ma la discesa resta ripida — e il party non ha un curatore dedicato, quindi non esiste un modo affidabile di invertirla se non impedendo il crollo successivo.
 
-Il party non ha un curatore dedicato: non esiste un modo affidabile di interrompere questa discesa se non impedendo il secondo crollo.
+Da qui una conseguenza tattica che vale la pena far notare al tavolo: **rialzare qualcuno non azzera il conto, lo incrementa.** Al secondo o terzo rialzo dello stesso personaggio nella stessa giornata, trascinarlo fuori dalla mischia vale più che rimetterlo in piedi.
 
 ### 3.3 — Densità degli scontri per dungeon
 
@@ -210,8 +223,9 @@ Da comunicare al tavolo prima della Sessione 00.
 
 1. **I Dadi Vita sono la vera riserva di PF.** Non tornano gratis. Tenerne sempre una scorta.
 2. **Le pozioni di guarigione sono l'unico strumento di soccorso del party** finché non c'è un curatore. Nella 2024 si bevono e si somministrano con un'**azione bonus**: è il modo più economico di rialzare un compagno. Farne scorta prima di ogni missione, chiedendole al furiere dell'esercito quando si è arruolati.
-3. **Andare a 0 PF lascia una traccia.** Un livello di esaurimento, −2 a tutto, e si recupera un livello per notte. Cadere due volte nella stessa giornata è molto peggio che cadere una volta sola.
+3. **Andare a 0 PF lascia una traccia.** Un livello di esaurimento al risveglio, −2 a tutto, e si recupera un livello per notte. Il primo crollo della giornata tira i salvezza contro morte alle probabilità normali; dal secondo in poi si tira già in penalità. Rialzare due volte lo stesso compagno è peggio che tirarlo fuori dalla mischia.
 4. **I critici massimizzati valgono anche per i nemici.** Un morso di drago o un tocco di wraith può togliere un personaggio dal tavolo in un colpo solo. La corazza, la copertura e la distanza contano più dei punti ferita.
+   E valgono in pieno anche per voi: Attacco Furtivo e Divine Smite sono massimizzati sul critico come tutto il resto. Un ladro o un paladino, in questo party, colpisce molto più forte di quanto suggerisca la scheda.
 5. **I non-morti che prosciugano il PF massimo possono uccidere senza tiri salvezza.** Wraith, spettri e wight non sono nemici da affrontare in mischia con un incantatore. Non è una minaccia retorica: vedi §3.1.
 6. **Uno scontro evitato è un dungeon che si finisce.** Con la mediana di 3 scontri per location, ogni combattimento saltato è un terzo delle risorse risparmiate.
 
@@ -222,6 +236,6 @@ Da comunicare al tavolo prima della Sessione 00.
 Gli agenti di `/prep-sessione` devono, nelle note di bilanciamento:
 
 - Segnalare ogni creatura con **riduzione del PF massimo** (wraith, spettri, wight, anhkolox, melma nera) come **rischio di morte istantanea**, non come semplice debuff, indicando la CD del tiro salvezza o la sua assenza.
-- Calcolare il danno da critico secondo §1.2 (`media dadi base + massimo dadi base + modificatori`) per ogni creatura con un attacco singolo da 4 o più dadi, e confrontarlo con i PF massimi attesi del party a quel livello.
+- Calcolare il danno da critico secondo §1.2 (`media dadi base + massimo dadi base + modificatori`) per ogni creatura con un attacco singolo da 4 o più dadi, e confrontarlo con i PF massimi attesi del party a quel livello. **Nel conteggio vanno inclusi i danni aggiuntivi** (necrotici, da fuoco, ecc.): rientrano nella regola come tutti gli altri dadi.
 - Non proporre Gritty Realism, Lingering Injuries o varianti di riposo prolungato: sono state valutate e scartate (§2).
 - Ricordare, dove pertinente, che **il DMG 2024 non contiene le varianti di guarigione**: ogni riferimento a Slow Natural Healing va al DMG 2014 p. 267.
