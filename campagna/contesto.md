@@ -5,7 +5,7 @@
 - **Villain/Stagione:** Kansaldi Fire-Eyes (Highmaster del Red Dragon Army) · Invasione di Solamnia
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
-- **Party:** In composizione — 1 PG confermato: **Razak Kendall** (umano, monaco dell'Ordine di Majere; vedi `fonti/personaggi/Razak-Kendall.md`). Restano 3 slot aperti in `campagna/party.md`
+- **Party:** 4 PG definiti + 1 in arrivo. In `campagna/party.md`: **Razak Kendall** (umano, monaco dell'Ordine di Majere), **Garrick Ashwatch** (umano, mago di Alta Stregoneria — classe da confermare), **Brynja Daewar** (nana, chierico di Mishakal), **Asurion Loech** (elfo silvano Kagonesti, barbaro). Il **quinto PG** sarà un **druido**, non ancora caratterizzato. Schede complete in `fonti/personaggi/`
 - **Stato:** In fase di preparazione
 - **Durata Media Sessioni:** 2,5 ore
 - **Capitolo corrente:** 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; Cap. 6 concluso con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10)

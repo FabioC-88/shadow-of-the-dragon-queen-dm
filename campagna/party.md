@@ -15,6 +15,18 @@
 
 Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vogler. Ispin ha viaggiato con **Becklin Uth Viharin** (cavaliera) e **Cudgel Ironsmile** (mercenario nanico). È sua la lettera-invito al funerale a Vogler che raduna il party.
 
+### Come i PG si conoscono già tra loro
+
+Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena continua — **Asurion — Razak — Brynja — Garrick** — che li mette tutti in contatto ancora prima di arrivare a Vogler. Razak è l'unico che ne conosce due.
+
+- **Razak ↔ Asurion.** L'Hinterlund è terreno di entrambi: Razak vive all'eremo del Filo di Rame, a una giornata e mezza da Vogler, e nei quattro anni da scudiero di Becklin a Thornwall Keep scendeva regolarmente al villaggio; Asurion attraversa quegli altipiani di mestiere da anni. Il punto d'incontro è sempre stato lo stesso: il tavolo di Ispin al Brass Crab. Decine di serate nell'arco di anni, con Ispin che parlava per tre e loro due che lo lasciavano fare. Razak non ha mai avuto bisogno di molte parole con lui, e Asurion — che di mestiere giudica le persone da come si muovono, non da quello che dicono — è tra i pochi a non aver mai scambiato quel silenzio per scortesia.
+- **Razak ↔ Brynja.** Due scudieri irregolari di due cavalieri solitari: Becklin prese Razak senza fare domande su una famiglia che non esisteva, Roderick prese Brynja contro la lettera della Misura. Ispin conosceva entrambi i maestri — è lui che aveva mandato Brynja da Roderick, ed era stato compagno d'avventura di Becklin — e Roderick, quando passava da Vogler a trovarlo, si portava dietro la sua allieva. Negli stessi quattro anni in cui Razak serviva a Thornwall Keep, i due si sono ritrovati più volte fuori dalla porta ad aspettare mentre i grandi parlavano dentro: l'orfano senza casata e la nana che nessun registro dell'Ordine nomina. Non se lo sono mai detti in faccia — nessuno dei due è tipo da farlo — ma sanno perfettamente di essere la stessa eccezione fatta due volte.
+- **Brynja ↔ Garrick.** Quando Roderick cercava precedenti storici per sostenere il caso di Brynja davanti al Consiglio dei Cavalieri (la Misura esclude formalmente chi non è umano, nobile e solamniano), si rivolse all'archivio della casata Firewatch e in particolare a Garrick, già noto per la sua capacità di incrociare fonti in tempi record. Garrick passò settimane a cercare precedenti utilizzabili; in quel periodo lui e Brynja si conobbero davvero — lei una delle poche persone ad aver apprezzato il suo lavoro per quello che valeva, lui uno dei pochi ad aver preso sul serio la sua battaglia per il riconoscimento.
+
+**Non si conoscono di persona:** Asurion e Brynja, Asurion e Garrick, Razak e Garrick. Sanno l'uno dell'altro solo per sentito dire, tramite l'anello di mezzo. Il funerale di Ispin è quindi la prima occasione in cui il gruppo si trova fisicamente nella stessa stanza.
+
+**[NOTA DM]** Il **quinto PG (druido)** non è ancora definito: va agganciato alla catena quando il personaggio sarà pronto. Basta un solo legame verso uno dei quattro perché il gruppo resti connesso.
+
 ---
 
 ## Personaggi
@@ -99,11 +111,37 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ---
 
-### [Nome PG 4]
+### Asurion Loech
+**Giocatore:** Seba  
+**Razza / Classe:** Elfo Silvano (Kagonesti, Southern Ergoth) / Barbaro  
+**Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; scout per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
+**Preludio (Cap. 2):** Nessun preludio individuale — resta nel gruppo per **Scales of War**  
+**Connessione a Ispin:** Ispin trovò l'amuleto del clan rubatogli dai briganti e si mise a cercarne il proprietario per restituirglielo  
+
+| | |
+|--|--|
+| **Livello** | 1 |
+| **PF attuali** | — |
+| **Condizioni** | — |
+| **XP** | 0 |
+
+#### Come conobbe Ispin Greenshield
+*Variante esatta della voce 3 della tabella d6.* Un gruppo di briganti aggredì Asurion durante uno spostamento in solitario, derubandolo di tutto — compreso l'amuleto identificativo del suo clan. Ispin trovò l'oggetto e si mise sulle tracce del proprietario per restituirglielo, incrociando così Asurion che a sua volta stava seguendo i briganti per riprenderselo. Da allora Ispin è uno dei pochi Solamniani ad avere la sua piena riconoscenza.
+
+#### PNG collegati
+- **Ispin Greenshield** — defunto
+- **Il gruppo di briganti** *(senza nome)* — mai identificati; PNG jolly riutilizzabile
+- **La comunità Kagonesti d'origine** (Southern Ergoth) — gancio dormiente per il ritorno futuro di Asurion
+
+---
+
+### [Nome PG 5] — Druido
 **Giocatore:** —  
-**Razza / Classe:** —  
+**Razza / Classe:** — / **Druido** *(unica informazione disponibile al momento)*  
 **Background:** —  
+**Preludio (Cap. 2):** **Broken Silence** — è il preludio che il modulo indica per chierici, druidi, paladini e chiunque abbia poteri concessi da una divinità; da giocare separatamente da quello di Brynja (vedi `fonti/personaggi/Brynja-Daewar.md`)  
 **Connessione a Ispin:** TBD  
+**Connessione agli altri PG:** TBD — basta un legame verso uno qualsiasi dei quattro per agganciarlo alla catena  
 
 | | |
 |--|--|

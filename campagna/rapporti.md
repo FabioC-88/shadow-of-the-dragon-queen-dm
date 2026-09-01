@@ -6,6 +6,20 @@
 
 ---
 
+## PG ↔ PG
+
+| PG A | PG B | Relazione | Note |
+|------|------|-----------|------|
+| Razak | Asurion | Conoscenza costruita su anni di serate condivise | Si sono conosciuti al tavolo di Ispin al Brass Crab di Vogler, durante i 4 anni di scudieraggio di Razak a Thornwall Keep |
+| Razak | Brynja | Riconoscimento reciproco tra pari | Due scudieri irregolari di due cavalieri solitari; si incontravano a Vogler quando Roderick passava a trovare Ispin con Brynja al seguito |
+| Brynja | Garrick | Collaborazione diretta, rapporto personale | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri |
+| Asurion | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak |
+| Asurion | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak e Brynja |
+| Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Brynja |
+| [PG 5 — druido] | — | TBD | Da agganciare alla catena quando il personaggio sarà definito |
+
+---
+
 ## PG ↔ PNG
 
 | PG | PNG | Relazione | Note |
