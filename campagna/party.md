@@ -99,11 +99,12 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ---
 
-### [Nome PG 4]
-**Giocatore:** —  
-**Razza / Classe:** —  
-**Background:** —  
-**Connessione a Ispin:** TBD  
+### Asurion Loech
+**Giocatore:** Seba  
+**Razza / Classe:** Elfo Kagonesti (Southern Ergoth) / *(da confermare — Ranger ipotesi di lavoro)*  
+**Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; scout per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
+**Preludio (Cap. 2):** Nessun preludio individuale — resta nel gruppo per **Scales of War**  
+**Connessione a Ispin:** Ispin trovò l'amuleto del clan rubatogli dai briganti e si mise a cercarne il proprietario per restituirglielo  
 
 | | |
 |--|--|
@@ -113,10 +114,12 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+*Variante esatta della voce 3 della tabella d6.* Un gruppo di briganti aggredì Asurion durante uno spostamento in solitario, derubandolo di tutto — compreso l'amuleto identificativo del suo clan. Ispin trovò l'oggetto e si mise sulle tracce del proprietario per restituirglielo, incrociando così Asurion che a sua volta stava seguendo i briganti per riprenderselo. Da allora Ispin è uno dei pochi Solamniani ad avere la sua piena riconoscenza.
 
 #### PNG collegati
-- TBD
+- **Ispin Greenshield** — defunto
+- **Il gruppo di briganti** *(senza nome)* — mai identificati; PNG jolly riutilizzabile
+- **La comunità Kagonesti d'origine** (Southern Ergoth) — gancio dormiente per il ritorno futuro di Asurion
 
 ---
 
