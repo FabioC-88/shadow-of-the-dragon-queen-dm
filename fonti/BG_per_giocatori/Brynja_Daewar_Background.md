@@ -1,93 +1,41 @@
-# Brynja Daewar
-
-I Daewar crescono i figli su quattro cose: disciplina, lealtà, lavoro e rispetto per chi è venuto prima. Brynja le ha imparate come si impara a camminare, senza che nessuno gliele spiegasse mai a parole. Della quinta, gli dèi, nelle sale profonde si parlava soltanto agli anniversari e sempre al passato.
-
-Reorx compariva ancora nelle formule e nei brindisi, ma erano formule. I templi si tenevano puliti come si tiene pulita la tomba di un parente: per decenza, non per attesa. Da tre secoli nessuno aveva più visto una preghiera ricevere risposta, e a chiederne conto agli anziani si otteneva sempre lo stesso silenzio imbarazzato, per cui a un certo punto i giovani hanno smesso di chiedere. Brynja non se n'è mai fatta un cruccio. Credeva negli antenati, nel clan e in quello che riusciva a fare con le proprie mani; se gli dèi esistevano ancora, aveva concluso, avevano smesso di occuparsi di Krynn molto prima che lei nascesse.
-
-## Lo scudo verde
-
-Aveva poco più di vent'anni quando cominciarono ad arrivare notizie da una comunità di frontiera ai margini dei territori del clan, nani per la maggior parte ma non solo. Una banda di predoni goblin lavorava quella fascia di terra da mesi: colpivano di notte, bruciavano quello che non potevano portare via e prendevano vivo chiunque valesse qualcosa al mercato degli schiavi. Li guidava un veterano che si faceva chiamare Grishnak Spezzapietra, e non era una banda di razziatori qualunque, perché sapeva quando le pattuglie del clan erano lontane e lo sapeva sempre.
-
-Erano lontane anche quella volta. Brynja partì con undici nani, che era tutto quello che si riuscì a mettere insieme in due giorni.
-
-Ispin Greenshield era già lì quando arrivarono. Aveva incrociato dei profughi sulla strada, aveva seguito le tracce all'indietro ed era finito nel villaggio per conto suo, che secondo lui era il modo in cui gli capitavano quasi tutte le cose. Brynja lo trovò insopportabile. Parlava mentre gli altri lavoravano alle barricate, rideva nei momenti sbagliati e passava le ore prima della battaglia a raccontare imprese che non stavano in piedi nemmeno a volerci credere. Gli chiese, più per farlo smettere che per sapere, se fosse sempre così tranquillo davanti alla morte.
-
-«No», rispose Ispin. «È proprio perché ho paura che continuo a raccontare storie.»
-
-Brynja non seppe cosa rispondergli e tornò alle barricate.
-
-I goblin arrivarono a notte fonda ed erano molti più di quanti chiunque avesse previsto. Le difese esterne tennero meno di un'ora, poi i difensori arretrarono verso la piazza e si chiusero lì dentro. Brynja combatté sulla linea finché lo scudo non le si aprì lungo il bordo. Fu mentre lo stava girando per usare la parte buona che vide il fuoco su una casa del lato est, e la gente che c'era ancora dentro.
-
-Ci andò senza dirlo a nessuno. Portò fuori i due bambini, li spinse verso la piazza e tornò indietro per i genitori. Il goblin le fu addosso a metà strada. Brynja alzò quello che restava dello scudo e l'urto la mise a terra.
-
-Quando riaprì gli occhi il colpo successivo non era arrivato, e davanti a lei c'era uno scudo verde.
-
-«Te l'avevo detto che è magico», disse Ispin.
-
-«Non vedo nessuna magia.»
-
-«Nemmeno io. Ma funziona lo stesso.»
-
-Poi le diede una mano ad alzarsi e tornarono in piazza.
-
-I goblin lasciarono il villaggio poco prima dell'alba. Del corpo di Grishnak Spezzapietra non si trovò traccia. Per qualche anno Brynja se l'è chiesto ogni tanto, poi ha smesso.
-
-## Mishakal
-
-Quello che si è portata via da quella notte non è stata la battaglia, è stato il conto di chi era ancora in piedi in piazza all'alba. Quattro dei nani con cui era partita, un fabbro umano, due pescatori, la moglie del mugnaio con un forcone, un viaggiatore di cui nessuno sapeva il nome, e Ispin. Nessuno di loro doveva niente a nessun altro. Il clan non era arrivato, la ricchezza di Thorbardin non era servita a niente e non c'era stato nulla che somigliasse a un miracolo. Il villaggio era rimasto in piedi lo stesso.
-
-Nei giorni successivi viaggiò con Ispin fino al primo valico, e per la prima volta lo stette a sentire. Le raccontò di Solamnia e dei Cavalieri: non era un Cavaliere, ci teneva a precisarlo, ma ne conosceva parecchi e ne aveva accompagnato più d'uno, e una in particolare, una certa Becklin, di cui parlava come si parla di una sorella difficile. Le disse anche una cosa a cui Brynja non aveva mai pensato, e cioè che la fede non è per forza aspettare che un dio sistemi quello che non funziona, ma può essere decidere di fare la cosa giusta proprio mentre nessuno risponde.
-
-Ci ha messo quasi due anni a capire cosa farsene di quella frase. Tornata a Thorbardin riprese il lavoro e la vita di prima, e cominciò a passare dal tempio di Mishakal nelle sale alte, quello che apre tre volte l'anno per le ricorrenze e che per il resto tiene in ordine una famiglia che lo fa da nove generazioni. All'inizio ci andava perché era vuoto e ci si poteva stare in silenzio. Poi ha cominciato a pregare, e non è successo niente. Ha continuato per mesi e non è successo niente lo stesso, finché non si è accorta di aver smesso di aspettarselo e che la cosa non la riguardava più: aveva scelto a chi obbedire, e a Mishakal non serviva rispondere perché quella scelta restasse valida. Da allora Brynja non ha mai chiamato miracolo niente di quello che le riesce di fare, e quando lo fa qualcun altro al posto suo cambia discorso.
-
-Non ne parlò con nessuno per parecchio tempo, e quando lo fece la reazione fu quella che si aspettava. Un Daewar che nel pieno dell'Era della Disperazione dice di servire una dea non viene contraddetto: viene assecondato, che è peggio.
-
-Il problema, semmai, era un altro. Servire Mishakal, per come lo intendevano tutti quelli a cui lo chiese, voleva dire una vita dentro un tempio ad aspettare che le portassero i feriti. Brynja da quella notte aveva imparato il contrario, e cioè che curare qualcuno dopo non basta sempre e che a volte l'unica cosa utile è stare davanti a quella persona prima. Non sapeva come si chiamasse un mestiere del genere, e a Thorbardin non c'era nessuno in grado di dirglielo.
-
-Ispin passò a trovarla la primavera dopo. Le lasciò dire tutto senza ridere una volta, cosa che con lui non le era mai capitata, e alla fine le rispose: «Allora forse dovresti smettere di chiederti dove sia il tuo posto e iniziare a chiederti chi vuoi proteggere.»
-
-Lasciò Thorbardin quell'estate. Non fu una rottura e non la fece passare per tale: si presentò davanti alla famiglia, disse dove andava e perché, e si tenne il nome. Daewar non era una cosa a cui rinunciava, era una cosa di cui rispondeva. Ovunque fosse finita, chi l'avesse vista lavorare avrebbe visto lavorare un Daewar.
-
-## La Misura
-
-Fu ancora Ispin a dirle dove andare. Conosceva da anni un cavaliere di stanza sulla frontiera orientale, un uomo che a Sancrist aveva passato più serate nelle fucine dei nani di Monte Nevermind che ai ricevimenti dell'Ordine, e che secondo lui era l'unico abbastanza testardo da starla a sentire fino in fondo prima di dirle di no.
-
-Brynja raggiunse Solamnia e cercò Sir Roderick Kar-Thas, Cavaliere della Spada, devoto a Kiri-Jolith.
-
-Che non avesse nemmeno il diritto di chiedere lo scoprì lì. Il Giuramento non ha mai posto condizioni di nascita: *Est Sularus oth Mithas*, il mio onore è la mia vita, non chiede altro che di essere mantenuto. Sono i trentasette volumi della Misura, scritti tutti dopo il fondatore, a riservare l'addestramento a chi è nato umano, nobile e in Solamnia. Brynja non era nessuna delle tre cose.
-
-Roderick la ascoltò per intero, il che le fece capire perché Ispin l'avesse mandata proprio da lui. Alla fine le fece una domanda sola: sapeva tenere una linea? Brynja rispose che glielo avrebbe fatto vedere, non raccontato. Bastò quello.
-
-Portarla davanti al Consiglio dei Cavalieri gli è costato più di quanto le abbia mai detto. Aveva già uno scudiero assegnato, un rampollo umano di buona famiglia, la scelta ovvia, quella che non obbligava nessuno a rileggere niente, e lo rifiutò in aula per prendere lei. È da quel giorno che qualcuno ha cominciato a chiamarlo l'Ostinato, e il soprannome gli è rimasto addosso meglio dei titoli che aveva già.
-
-Brynja non chiese nessuna eccezione in più. Si sottopose all'addestramento come chiunque altro, imparò le tradizioni, il Giuramento e i primi volumi di una Misura che formalmente non la riguardava, e pronunciò il giuramento d'ingresso davanti a Roderick e a due testimoni. Per lei non era una formula. Giurava fedeltà a una cosa imparata in una piazza in fiamme, e cioè che nessuno andrebbe lasciato solo davanti al buio.
-
-Sulla carta, però, non è mai successo niente. Nessun registro dell'Ordine riporta il nome di Brynja Daewar. Porta il mantello, si addestra, combatte e viene obbedita perché è Roderick a dire che va obbedita; il rito vero, quello che la legherebbe per sempre all'Ordine della Spada, richiede un banco di prova che spetta al Consiglio convocare, e il Consiglio non ha nessuna fretta. Sono nove anni che aspetta. Roderick sostiene che arriverà. Brynja ha smesso di chiederglielo, perché la risposta è sempre la stessa e a lui costa darla.
-
-## Sir Roderick Kar-Thas
-
-Roderick odia i banchetti dell'Ordine quanto ama le fucine. Dagli anni di Sancrist si è portato dietro il gusto per la birra scura, l'abitudine di giudicare un uomo da come tratta un attrezzo e un repertorio di imprecazioni in Khurlish che tira fuori ogni volta che un ufficiale gli parla di moduli e di precedenti.
-
-Porta sempre lo stesso scudo: legno rinforzato in ferro, senza smalti e senza blasoni, intaccato da tanti di quei colpi che non si è mai preso la briga di contarli nessuno. Quando riflette, o quando sta per dire qualcosa di sgradevole, batte le nocche al centro dello scudo, due colpi, come per darsi ragione da solo prima di parlare.
-
-Con Brynja non fa il maestro paziente. Pretende disciplina, non lascia correre la sciatteria e la corregge davanti agli altri senza abbassare la voce per farlo. La tratta però da pari, cosa che nell'Ordine si concede con quasi nessuno. Quando la vede fare qualcosa di onorevole, o anche solo di efficace, borbotta sempre la stessa frase:
-
-> «Vedi? Un cavaliere in armatura lucida avrebbe perso tempo a sistemarsi il mantello. Un nano sa come si tiene una linea.»
-
-## Vogler
-
-In nove anni Brynja e Ispin si sono visti forse una decina di volte, quasi sempre per caso e mai per più di qualche giorno. Ispin si era ritirato a Vogler, nell'Hinterlund, e sosteneva di aver chiuso, ma ogni volta aveva una storia nuova e ogni volta i numeri erano diversi da quelli della volta prima. Aveva anche sempre qualche ammaccatura nuova sullo scudo verde, per essere uno che diceva di stare fermo.
-
-L'ultima volta che si sono visti Brynja gli ha raccontato del banco di prova che non arrivava. Ispin le ha risposto che l'Ordine si sarebbe deciso prima o poi e che nel frattempo non era una gran perdita, poi ha cambiato discorso, ed era evidente che la faccenda lo faceva arrabbiare più di quanto volesse far vedere.
-
-Da qualche mese Brynja e Roderick si sono separati. Lei aveva un impegno da chiudere per conto proprio, lontano dalla frontiera orientale, e si erano dati appuntamento per dopo.
-
-La lettera l'ha raggiunta lì. Ispin Greenshield è morto, e i suoi amici lo salutano a Vogler alla vigilia della Festa del Martin Pescatore.
-
-Brynja è rimasta a lungo senza dire niente, e non per il dolore, ma per il fatto banale che non le era mai venuto in mente che potesse succedere. Ispin era uno che compariva sulla strada. Compariva e basta, e adesso non compare più.
-
-Ha preso la strada per l'Hinterlund il giorno dopo. Porta con sé lo scudo, il mantello che nessun registro le riconosce, e una cosa che Ispin le aveva detto anni prima: che un cavaliere non è quello che cerca la gloria, è quello che si presenta. È la prima volta in nove anni che si mette in cammino senza che nessuno l'abbia convocata.
-
-## Connessione a Ispin Greenshield
-
-Ispin arrivò per conto suo al villaggio di frontiera che i goblin di Grishnak Spezzapietra stavano lavorando da mesi, e Brynja lo trovò insopportabile fino alla notte dell'attacco. Quando un goblin la mise a terra fu Ispin a frapporsi con lo scudo verde. Fu poi lui a parlarle di Solamnia e dei Cavalieri, a farle venire in mente che la fede potesse essere una scelta e non un'attesa, e infine a mandarla da Sir Roderick Kar-Thas. Negli anni successivi si sono visti di rado e sempre per caso. L'ultima volta lui si è arrabbiato per lei più di quanto abbia ammesso.
+**Brynja Daewar**  
+I Daewar crescono i figli su quattro cose: disciplina, lealtà, lavoro e rispetto per chi è venuto prima. Brynja le ha imparate come si impara a camminare, senza che nessuno gliele spiegasse mai a parole. Della quinta, gli dèi, nelle sale profonde si parlava soltanto agli anniversari e sempre al passato.  
+Reorx compariva ancora nelle formule e nei brindisi, ma erano formule. I templi si tenevano puliti come si tiene pulita la tomba di un parente: per decenza, non per attesa. Da tre secoli nessuno aveva più visto una preghiera ricevere risposta, e a chiederne conto agli anziani si otteneva sempre lo stesso silenzio imbarazzato, per cui a un certo punto i giovani hanno smesso di chiedere. Brynja non se n'è mai fatta un cruccio. Credeva negli antenati, nel clan e in quello che riusciva a fare con le proprie mani; se gli dèi esistevano ancora, aveva concluso, avevano smesso di occuparsi di Krynn molto prima che lei nascesse.  
+**Lo scudo verde**  
+Aveva poco più di vent'anni quando cominciarono ad arrivare notizie da una comunità di frontiera ai margini dei territori del clan, nani per la maggior parte ma non solo. Una banda di predoni goblin lavorava quella fascia di terra da mesi: colpivano di notte, bruciavano quello che non potevano portare via e prendevano vivo chiunque valesse qualcosa al mercato degli schiavi. Li guidava un veterano che si faceva chiamare Grishnak Spezzapietra, e non era una banda di razziatori qualunque, perché sapeva quando le pattuglie del clan erano lontane e lo sapeva sempre.  
+Erano lontane anche quella volta. Brynja partì con undici nani, che era tutto quello che si riuscì a mettere insieme in due giorni.  
+Ispin Greenshield era già lì quando arrivarono. Aveva incrociato dei profughi sulla strada, aveva seguito le tracce all'indietro ed era finito nel villaggio per conto suo, che secondo lui era il modo in cui gli capitavano quasi tutte le cose. Brynja lo trovò insopportabile. Parlava mentre gli altri lavoravano alle barricate, rideva nei momenti sbagliati e passava le ore prima della battaglia a raccontare imprese che non stavano in piedi nemmeno a volerci credere. Gli chiese, più per farlo smettere che per sapere, se fosse sempre così tranquillo davanti alla morte.  
+«No», rispose Ispin. «È proprio perché ho paura che continuo a raccontare storie.»  
+Brynja non seppe cosa rispondergli e tornò alle barricate.  
+I goblin arrivarono a notte fonda ed erano molti più di quanto chiunque avesse previsto. Le difese esterne tennero meno di un'ora, poi i difensori arretrarono verso la piazza e si chiusero lì dentro. Brynja combatté sulla linea finché lo scudo non le si aprì lungo il bordo. Fu mentre lo stava girando per usare la parte buona che vide il fuoco su una casa del lato est, e la gente che c'era ancora dentro.  
+Ci andò senza dirlo a nessuno. Portò fuori i due bambini, li spinse verso la piazza e tornò indietro per i genitori. Il goblin le fu addosso a metà strada. Brynja alzò quello che restava dello scudo e l'urto la mise a terra.  
+Quando riaprì gli occhi il colpo successivo non era arrivato, e davanti a lei c'era uno scudo verde.  
+«Te l'avevo detto che è magico», disse Ispin.  
+«Non vedo nessuna magia.»  
+«Nemmeno io. Ma funziona lo stesso.»  
+Poi le diede una mano ad alzarsi e tornarono in piazza.  
+I goblin lasciarono il villaggio poco prima dell'alba. Del corpo di Grishnak Spezzapietra non si trovò traccia.  
+**Mishakal**  
+Quello che si è portata via da quella notte non è stata la battaglia, è stato il conto di chi era ancora in piedi in piazza all'alba. Quattro dei nani con cui era partita, un fabbro umano, due pescatori, la moglie del mugnaio con un forcone, un viaggiatore di cui nessuno sapeva il nome, e Ispin. Nessuno di loro doveva niente a nessun altro. Il clan non era arrivato, la ricchezza di Thorbardin non era servita a niente e non c'era stato nulla che somigliasse a un miracolo. Il villaggio era rimasto in piedi lo stesso.  
+Nei giorni successivi viaggiò con Ispin fino al primo valico, e per la prima volta lo stette a sentire. Le raccontò di Solamnia e dei Cavalieri: non era un Cavaliere, ci teneva a precisarlo, ma ne conosceva parecchi e ne aveva accompagnato più d'uno, e una in particolare, una certa Becklin, di cui parlava come si parla di una sorella difficile. Le disse anche una cosa a cui Brynja non aveva mai pensato, e cioè che la fede non è per forza aspettare che un dio sistemi quello che non funziona, ma può essere decidere di fare la cosa giusta proprio mentre nessuno risponde.  
+Ci ha messo quasi due anni a capire cosa farsene di quella frase. Tornata a Thorbardin riprese il lavoro e la vita di prima, e cominciò a passare dal tempio di Mishakal nelle sale alte, quello che apre tre volte l'anno per le ricorrenze e che per il resto tiene in ordine una famiglia che lo fa da nove generazioni. All'inizio ci andava perché era vuoto e ci si poteva stare in silenzio. Poi ha cominciato a pregare, e non è successo niente. Ha continuato per mesi e non è successo niente lo stesso, finché non si è accorta di aver smesso di aspettarselo e che la cosa non la riguardava più: aveva scelto a chi obbedire, e a Mishakal non serviva rispondere perché quella scelta restasse valida. Da allora Brynja non ha mai chiamato miracolo niente di quello che le riesce di fare, e quando lo fa qualcun altro al posto suo cambia discorso.  
+Non ne parlò con nessuno per parecchio tempo, e quando lo fece la reazione fu quella che si aspettava. Un Daewar che nel pieno dell'Era della Disperazione dice di servire una dea non viene contraddetto: viene assecondato, che è peggio.  
+Il problema, semmai, era un altro. Servire Mishakal, per come lo intendevano tutti quelli a cui lo chiese, voleva dire una vita dentro un tempio ad aspettare che le portassero i feriti. Brynja da quella notte aveva imparato il contrario, e cioè che curare qualcuno dopo non basta sempre e che a volte l'unica cosa utile è stare davanti a quella persona prima.  
+Ispin passò a trovarla la primavera dopo. La ascoltò senza ridere nemmeno una volta, cosa che con lui non le era mai capitata, e alla fine le rispose: «Allora forse dovresti smettere di chiederti dove sia il tuo posto e iniziare a chiederti chi vuoi proteggere.»  
+Lasciò Thorbardin quell'estate. Non fu una rottura e non la fece passare per tale: si presentò davanti alla famiglia, disse dove andava e perché, e si tenne il nome. Daewar non era una cosa a cui rinunciava, era una cosa di cui rispondeva. Ovunque fosse finita, chi l'avesse vista lavorare avrebbe visto lavorare un Daewar.  
+   
+**La Misura**  
+Fu ancora Ispin a dirle dove andare. Conosceva da anni un cavaliere di stanza sulla frontiera orientale, un uomo che a Sancrist aveva passato più serate nelle fucine dei nani di Monte Nevermind che ai ricevimenti dell'Ordine, e che secondo lui era l'unico abbastanza testardo da starla a sentire fino in fondo prima di dirle di no.  
+Brynja raggiunse Solamnia e cercò Sir Roderick Kar-Thas, Cavaliere della Spada, devoto a Kiri-Jolith.  
+Che non avesse nemmeno il diritto di chiedere lo scoprì lì. Il Giuramento non ha mai posto condizioni di nascita: *Est Sularus oth Mithas*, il mio onore è la mia vita, non chiede altro che di essere mantenuto. Sono i trentasette volumi della Misura, scritti tutti dopo il fondatore, a riservare l'addestramento a chi è nato umano, nobile e in Solamnia. Brynja non era nessuna delle tre cose.  
+Roderick la ascoltò per intero, il che le fece capire perché Ispin l'avesse mandata proprio da lui. Alla fine le fece una domanda sola: sapeva tenere una linea? Brynja rispose che glielo avrebbe fatto vedere.  
+Portarla davanti al Consiglio dei Cavalieri gli è costato più di quanto le abbia mai detto. Aveva già uno scudiero assegnato, un rampollo umano di buona famiglia, la scelta ovvia, quella che non obbligava nessuno a rileggere niente, e lo rifiutò in aula per prendere lei. Da quel giorno che qualcuno ha cominciato a chiamarlo l'Ostinato, e il soprannome gli è rimasto addosso meglio dei titoli che aveva già.  
+Brynja si sottopose all'addestramento come chiunque altro, imparò le tradizioni, il Giuramento e i primi volumi di una Misura che formalmente non la riguardava, e pronunciò il giuramento d'ingresso davanti a Roderick e a due testimoni. Per lei non era una formula. Giurava fedeltà a una cosa imparata in una piazza in fiamme, e cioè che nessuno andrebbe lasciato solo davanti al buio.  
+Sulla carta, però, non è mai successo niente. Nessun registro dell'Ordine riporta il nome di Brynja Daewar. Porta il mantello, si addestra, combatte e viene obbedita perché è Roderick a dire che va obbedita; il rito vero, quello che la legherebbe per sempre all'Ordine della Spada, richiede un banco di prova che spetta al Consiglio convocare, e il Consiglio non ha nessuna fretta. Sono nove anni che aspetta. Roderick sostiene che arriverà. Brynja ha smesso di chiederglielo, perché la risposta è sempre la stessa e a lui costa darla.  
+**Vogler**  
+In nove anni Brynja e Ispin si sono visti forse una decina di volte, quasi sempre per caso e mai per più di qualche giorno. Ispin si era ritirato a Vogler, nell'Hinterlund, e sosteneva di aver chiuso, ma ogni volta aveva una storia nuova e ogni volta i numeri erano diversi da quelli della volta prima.   
+L'ultima volta che si sono visti Brynja gli ha raccontato del banco di prova che non arrivava. Ispin le ha risposto che l'Ordine si sarebbe deciso prima o poi e che nel frattempo non era una gran perdita, poi ha cambiato discorso, ed era evidente che la faccenda lo faceva arrabbiare più di quanto volesse far vedere.  
+Da qualche mese Brynja e Roderick si sono separati. Lei aveva un impegno da chiudere per conto proprio, lontano dalla frontiera orientale, e si erano dati appuntamento per dopo.  
+La lettera l'ha raggiunta lì. Ispin Greenshield è morto, e i suoi amici lo salutano a Vogler alla vigilia della Festa del Martin Pescatore.  
+Brynja è rimasta a lungo senza dire niente per il fatto banale che non le era mai venuto in mente che potesse succedere. Ispin era uno che compariva sulla strada. Compariva e basta, e adesso non comparirà più.  
+Ha preso la strada per l'Hinterlund il giorno dopo. Porta con sé lo scudo, il mantello che nessun registro le riconosce, e una cosa che Ispin le aveva detto anni prima: che un cavaliere non è quello che cerca la gloria, è quello che si presenta. È la prima volta in nove anni che si mette in cammino senza che nessuno l'abbia convocata.  
