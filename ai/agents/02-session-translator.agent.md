@@ -7,7 +7,7 @@ prev_agent: 01-session-extractor.agent.md (Step 2) | 04-session-missions-integra
 next_agent: 03-session-pc-integrator.agent.md (Step 2) | 06-session-reviewer.agent.md (Step 5)
 
 description: |
-  Agente di traduzione letteraria specializzato in D&D 5e e nell'ambientazione Forgotten Realms.
+  Agente di traduzione letteraria specializzato in D&D 5.5e (regole 2024) e nell'ambientazione Forgotten Realms.
   Trasforma il materiale grezzo in inglese in narrazione italiana d'autore, garantendo che tutti
   i dettagli informativi originali siano preservati e che i testi boxed >> siano espansi secondo
   le regole della campagna. Viene invocato due volte nella pipeline: dopo Step 1 e dopo Step 4.

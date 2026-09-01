@@ -11,7 +11,7 @@ description: >
 
 # Bootstrap Nuova Campagna — /setup-campagna
 
-Sei l'agente di setup per una nuova campagna D&D 5e. Il tuo compito è leggere i materiali grezzi
+Sei l'agente di setup per una nuova campagna D&D 5.5e (regole 2024). Il tuo compito è leggere i materiali grezzi
 e generare tutti i file strutturati che gli altri agenti useranno durante tutta la campagna.
 
 **Regola fondamentale:** non inventare informazioni non presenti nelle fonti. Usa `[TODO: da compilare]`

@@ -21,10 +21,10 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Razak Kendall
 **Giocatore:** [DA COMPILARE]  
-**Razza / Classe:** Umano / Monaco — Ordine di Majere, Via del Sé Astrale  
-**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
+**Razza / Classe:** Umano / Monaco — Ordine di Majere, Via dell'Ombra  
+**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund; poi 4 anni come scudiero di Becklin Uth Viharin a Thornwall Keep — apprendistato di fatto concluso, giudicato pronto da Becklin — interrotto 10 mesi fa da un congedo forzato verso l'eremo. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
 **Preludio (Cap. 2):** Broken Silence  
-**Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio  
+**Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio — Ispin gli insegnò a mani nude a scassinare e a far sparire piccoli oggetti, legandoli più delle storie stesse — poi lo rivide regolarmente per 4 anni a Vogler, durante il servizio come scudiero  
 
 | | |
 |--|--|
@@ -41,16 +41,18 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 #### PNG collegati
 - **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo a inizio campagna)
 - **Confratello Tobin Reyne** — lasciò l'Ordine anni fa; quasi un fratello maggiore
+- **Becklin Uth Viharin** — la sua cavaliera: la serve come scudiero da 4 anni a Thornwall Keep; firmataria della lettera che lo richiama dal congedo
 - **Ispin Greenshield** — defunto
 - **[NOTA DM — riservata]** **Ser Maelis** — vedi la sezione "Segreti" in `fonti/personaggi/Razak-Kendall.md`
 
 ---
 
-### [Nome PG 2]
-**Giocatore:** —  
-**Razza / Classe:** —  
-**Background:** —  
-**Connessione a Ispin:** TBD  
+### Garrick Ashwatch
+**Giocatore:** [DA COMPILARE]  
+**Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, Vesti Bianche (apprendista, veste non ancora scelta)  
+**Background:** Mago di Alta Stregoneria — nato Firewatch, casata solamnica di guardiani delle torri di segnalazione sul confine orientale; diseredato a 19 anni per un incastro, riabilitato e preso come allievo da Aeliran Dawnhollow (Vesti Bianche, Torre di Wayreth). Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
+**Preludio (Cap. 2):** *(da assegnare)*  
+**Connessione a Ispin:** Ispin lo cercò a 16 anni per identificare un cimelio; tornò più volte, poi gli scrisse undici lettere in sette anni dopo il disonore, senza mai accennarvi  
 
 | | |
 |--|--|
@@ -60,18 +62,23 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+*Variante della voce 3 della tabella d6.* Ispin arrivò alla tenuta Firewatch con una spilla di bronzo da identificare — di chi era stata, come fosse finita in un mercato di Nordmaar. Garrick, allora sedicenne e già capace di incrociare blasonari e registri come nessun altro in casa, gliela ricostruì in nove giorni. Fu il primo adulto a chiedergli qualcosa per le sue capacità, non per pietà.
 
 #### PNG collegati
-- TBD
+- **Ser Dorvan Firewatch** — padre, capo della casata (vivo, confine orientale)
+- **Alenne Firewatch** — sorella minore, 18 anni, "la migliore della sua generazione" già a 8 anni
+- **Aeliran Dawnhollow** — maestro, elfo delle Vesti Bianche, Torre di Wayreth
+- **Ispin Greenshield** — defunto
+- **[Gancio aperto]** Ilyana Duskmourn — vedi la sezione "Segreti/Foglio mancante" in `fonti/personaggi/Garrick-Ashwatch.md`
 
 ---
 
-### [Nome PG 3]
-**Giocatore:** —  
-**Razza / Classe:** —  
-**Background:** —  
-**Connessione a Ispin:** TBD  
+### Brynja Daewar
+**Giocatore:** Eric  
+**Razza / Classe:** Nana di montagna (clan Daewar) / Chierico — Mishakal  
+**Background:** Cavaliere di Solamnia (scudiera) — addestrata da anni da Sir Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
+**Preludio (Cap. 2):** *(da assegnare)*  
+**Connessione a Ispin:** Ispin si frappose con lo scudo verde tra lei e un goblin durante l'assalto di Grishnak Spezzapietra a un villaggio nanico di frontiera  
 
 | | |
 |--|--|
@@ -81,10 +88,12 @@ TBD
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+*Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità nanica di frontiera da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja salvava una famiglia da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu l'inizio di un'amicizia — e, indirettamente, della scoperta della sua fede in Mishakal.
 
 #### PNG collegati
-- TBD
+- **Sir Roderick Kar-Thas "l'Ostinato"** — mentore, Cavaliere della Spada; temporaneamente separato da Brynja per un dovere personale da definire, in attesa del banco di prova finale
+- **Ispin Greenshield** — defunto
+- **Grishnak Spezzapietra** — il goblin sconfitto la notte dell'attacco; gancio riutilizzabile se serve
 
 ---
 

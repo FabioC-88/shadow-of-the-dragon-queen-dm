@@ -34,12 +34,12 @@
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
 | **Attitudine Iniziale** | +1 Cordiale (chi arriva al funerale per rispetto a Ispin guadagna la sua fiducia) |
-| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa |
+| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (scudiero da 4 anni a Thornwall Keep, in congedo da 10 mesi) — è lei a firmare la lettera che lo richiama a Vogler |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | +1 Cordiale | — |
+| Razak | +3 Alleato | Non un funerale qualunque per lui: è la sua cavaliera, la serve da 4 anni. Vedi `fonti/personaggi/Razak-Kendall.md` |
 | [PG2] | +1 Cordiale | — |
 
 ---
@@ -52,7 +52,7 @@
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
 | **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[DA DECIDERE]** Razak è anche lui scudiero di Becklin, con 4 anni di anzianità su Darrett — va definito il rapporto tra i due (fellow-scudiero più giovane, rivalità amichevole, o altro). Vedi checklist in `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |

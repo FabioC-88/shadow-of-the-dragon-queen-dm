@@ -9,6 +9,7 @@
 
 | **Categorie** | **Link** |
 |---|---|
+| **Per i Giocatori** | [📖 Guida per i Giocatori](campagna/guida-giocatori.md) — background del mondo, razze, talenti e archetipi (senza spoiler) |
 | **Party & Personaggi** | [Party](campagna/party.md) · [PNG Incontrati](campagna/png-incontrati.md) · [Rapporti](campagna/rapporti.md) |
 | **Fazioni** | [Fazioni](campagna/fazioni.md) |
 | **Lore & Contesto** | [Contesto Campagna](campagna/contesto.md) · [Quick Reference](QUICK_REF.md) |

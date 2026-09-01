@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"C:\\\\Users\\\\cotta\\\\.claude\\\\projects\\\\C--Users-cotta-Documents-Repo-shadow-of-the-dragon-queen-dm\\\\memory\")",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)",
+      "Bash(gh pr create --title 'Setup completo campagna DSotDQ: wiki, PNG, fazioni, capitoli' --body ' *)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\cotta\\\\Documents\\\\Repo\\\\shadow-of-the-dragon-queen-dm\" -Force | Select-Object Name, @{Name=\"Type\";Expression={if\\($_.PSIsContainer\\){\"DIR\"}else{\"FILE\"}}} | Format-Table -AutoSize)",
+      "Bash(node -e \"const {createHash}=require\\('crypto'\\); console.log\\(createHash\\('sha256'\\).update\\('campagna:luoghi-visitati'\\).digest\\('hex'\\).slice\\(0,16\\)\\);\")",
+      "Bash(gh pr create --title 'Allinea skill Claude e build script al repo DSotDQ' --body ' *)",
+      "Bash(mkdir -p .claude/skills/prep-sessione .claude/skills/aggiorna-sessione .claude/skills/aggiorna-locations .claude/skills/git-release .claude/skills/setup-campagna)",
+      "Bash(cp .claude/prep-sessione/SKILL.md .claude/skills/prep-sessione/SKILL.md)",
+      "Bash(cp .claude/aggiorna-sessione/SKILL.md .claude/skills/aggiorna-sessione/SKILL.md)",
+      "Bash(cp .claude/aggiorna-locations/SKILL.md .claude/skills/aggiorna-locations/SKILL.md)",
+      "Bash(cp .claude/git-release/SKILL.md .claude/skills/git-release/SKILL.md)",
+      "Bash(git rm *)",
+      "Bash(git fetch *)",
+      "Bash(git cherry-pick *)",
+      "Bash(gh pr create --title 'fix: sposta skill in .claude/skills/ \\(percorso corretto Claude Code\\)' --body ' *)"
+    ]
+  }
+}
