@@ -10,8 +10,8 @@
 
 | PG A | PG B | Relazione | Note |
 |------|------|-----------|------|
-| Razak | Asurion | Compagni di missione, anni di fiducia reciproca | Asurion fu guida ricorrente delle pattuglie di Thornwall Keep durante i 4 anni di scudieraggio di Razak |
-| Asurion | Brynja | Compagni di missione, anni di fiducia reciproca | Asurion fu guida ricorrente del reparto di Sir Roderick Kar-Thas durante i 9 anni di addestramento di Brynja |
+| Razak | Asurion | Conoscenza costruita su anni di soggiorni ripetuti | Asurion passava spesso dall'eremo del Filo di Rame come riparo/tappa nei suoi viaggi nell'Hinterlund selvaggio, durante i 4 anni in cui Razak assisteva Maestro Roke |
+| Asurion | Brynja | Rapporto diretto, anni di fiducia reciproca | Asurion fu la guida personale che Sir Roderick Kar-Thas (cavaliere solitario, nessun reparto) assoldava sempre quando usciva dalle strade presidiate, spesso con Brynja al seguito |
 | Brynja | Garrick | Collaborazione diretta, rapporto personale | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri |
 | Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion e Brynja |
 | Razak | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion |
