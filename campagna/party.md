@@ -15,6 +15,16 @@
 
 Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vogler. Ispin ha viaggiato con **Becklin Uth Viharin** (cavaliera) e **Cudgel Ironsmile** (mercenario nanico). È sua la lettera-invito al funerale a Vogler che raduna il party.
 
+### Come i PG si conoscono già tra loro
+
+Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena continua: Razak conosce Asurion, Asurion conosce Brynja, Brynja conosce Garrick — quindi, per estensione, si conoscono tutti e quattro ancora prima di arrivare a Vogler.
+
+- **Razak ↔ Asurion.** Nei quattro anni in cui Razak fu scudiero di Becklin Uth Viharin a Thornwall Keep, il comando assoldò ripetutamente Asurion come guida per le pattuglie nell'Hinterlund più selvaggio. Non un incarico isolato: anni di missioni fianco a fianco. Si conoscono bene e si fidano l'uno del giudizio dell'altro sul campo — la disciplina silenziosa del monaco e l'istinto Kagonesti di "sapere quando è meglio non proseguire" si sono trovati più volte a dover decidere la stessa cosa nello stesso momento.
+- **Asurion ↔ Brynja.** Negli stessi nove anni in cui Brynja si addestrava sotto Sir Roderick Kar-Thas sulla frontiera orientale, il reparto di Roderick assoldava regolarmente Asurion ogni volta che le operazioni uscivano dalle strade presidiate. Hanno condiviso guardie notturne e almeno uno scontro vero. Asurion è una delle poche persone che ha sempre trattato Brynja come un soldato qualunque, non come un'eccezione da giudicare o difendere.
+- **Brynja ↔ Garrick.** Quando Roderick cercava precedenti storici per sostenere il caso di Brynja davanti al Consiglio dei Cavalieri (la Misura esclude formalmente chi non è umano, nobile e solamniano), si rivolse all'archivio della casata Firewatch e in particolare a Garrick, già noto per la sua capacità di incrociare fonti in tempi record. Garrick passò settimane a cercare precedenti utilizzabili; in quel periodo lui e Brynja si conobbero davvero — lei una delle poche persone ad aver apprezzato il suo lavoro per quello che valeva, lui uno dei pochi ad aver preso sul serio la sua battaglia per il riconoscimento.
+
+**[NOTA DM]** Nessuno dei quattro conosce necessariamente gli altri due non adiacenti nella catena (es. Razak e Garrick non si sono mai incontrati), ma tutti sanno dell'esistenza reciproca per sentito dire, tramite l'anello di mezzo. Il funerale di Ispin a Vogler è quindi anche la prima occasione in cui l'intero gruppo si trova fisicamente insieme.
+
 ---
 
 ## Personaggi

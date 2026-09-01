@@ -6,6 +6,19 @@
 
 ---
 
+## PG ↔ PG
+
+| PG A | PG B | Relazione | Note |
+|------|------|-----------|------|
+| Razak | Asurion | Compagni di missione, anni di fiducia reciproca | Asurion fu guida ricorrente delle pattuglie di Thornwall Keep durante i 4 anni di scudieraggio di Razak |
+| Asurion | Brynja | Compagni di missione, anni di fiducia reciproca | Asurion fu guida ricorrente del reparto di Sir Roderick Kar-Thas durante i 9 anni di addestramento di Brynja |
+| Brynja | Garrick | Collaborazione diretta, rapporto personale | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri |
+| Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion e Brynja |
+| Razak | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion |
+| Asurion | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Brynja |
+
+---
+
 ## PG ↔ PNG
 
 | PG | PNG | Relazione | Note |
