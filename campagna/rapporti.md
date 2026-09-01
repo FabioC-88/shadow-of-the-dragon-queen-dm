@@ -10,12 +10,13 @@
 
 | PG A | PG B | Relazione | Note |
 |------|------|-----------|------|
-| Razak | Asurion | Conoscenza costruita su anni di soggiorni ripetuti | Asurion passava spesso dall'eremo del Filo di Rame come riparo/tappa nei suoi viaggi nell'Hinterlund selvaggio, durante i 4 anni in cui Razak assisteva Maestro Roke |
-| Asurion | Brynja | Rapporto diretto, anni di fiducia reciproca | Asurion fu la guida personale che Sir Roderick Kar-Thas (cavaliere solitario, nessun reparto) assoldava sempre quando usciva dalle strade presidiate, spesso con Brynja al seguito |
+| Razak | Asurion | Conoscenza costruita su anni di serate condivise | Si sono conosciuti al tavolo di Ispin al Brass Crab di Vogler, durante i 4 anni di scudieraggio di Razak a Thornwall Keep |
+| Razak | Brynja | Riconoscimento reciproco tra pari | Due scudieri irregolari di due cavalieri solitari; si incontravano a Vogler quando Roderick passava a trovare Ispin con Brynja al seguito |
 | Brynja | Garrick | Collaborazione diretta, rapporto personale | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri |
-| Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion e Brynja |
-| Razak | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Asurion |
-| Asurion | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Brynja |
+| Asurion | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak |
+| Asurion | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak e Brynja |
+| Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Brynja |
+| [PG 5 — druido] | — | TBD | Da agganciare alla catena quando il personaggio sarà definito |
 
 ---
 
