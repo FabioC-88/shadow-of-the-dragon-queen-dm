@@ -101,7 +101,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Asurion Loech
 **Giocatore:** Seba  
-**Razza / Classe:** Elfo Kagonesti (Southern Ergoth) / *(da confermare — Ranger ipotesi di lavoro)*  
+**Razza / Classe:** Elfo Silvano (Kagonesti, Southern Ergoth) / Barbaro  
 **Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; scout per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
 **Preludio (Cap. 2):** Nessun preludio individuale — resta nel gruppo per **Scales of War**  
 **Connessione a Ispin:** Ispin trovò l'amuleto del clan rubatogli dai briganti e si mise a cercarne il proprietario per restituirglielo  

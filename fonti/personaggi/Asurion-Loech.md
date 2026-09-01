@@ -1,10 +1,10 @@
-# Asurion Loech — Elfo Kagonesti / [Classe da confermare]
+# Asurion Loech — Elfo Silvano (Kagonesti) / Barbaro
 
 **Giocatore:** Seba
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
 
-> **Nota di metodo.** Testo importato integralmente da `fonti/BG_per_giocatori/Asurion_Loech_Background.md` (fornito dal giocatore) il 2026-09-01. Il testo non dichiara né classe né divinità né età: descrive solo un Kagonesti di Southern Ergoth diventato guida ed esploratore itinerante. Ipotesi di lavoro proposte più sotto (background **Guida**, classe **Ranger**, lignaggio **Elfo Silvano**) sono deduzioni ragionevoli dal testo, non dati confermati — vanno validate con Seba prima del tavolo.
+> **Nota di metodo.** Testo importato integralmente da `fonti/BG_per_giocatori/Asurion_Loech_Background.md` (fornito dal giocatore) il 2026-09-01. **Confermato da Fabio (2026-09-01): classe Barbaro; specie Elfo Silvano** — "Kagonesti" nel testo del giocatore è di per sé l'indicazione della specie, coerente con le regole 2024 (elfi con lignaggio Silvano: Fleet of Foot, Mask of the Wild) e con `campagna/guida-giocatori.md:102` ("Elfi dei Boschi Kagonesti... perlopiù a Ergoth Meridionale"). Restano da confermare solo background 2024, divinità ed età — vedi checklist in fondo.
 
 ---
 
@@ -13,10 +13,9 @@
 | Elemento | Valore |
 |---|---|
 | **Nome** | Asurion Loech |
-| **Popolo** | Elfo **Kagonesti** — comunità di Southern Ergoth |
-| **Classe** | *(da confermare — nessuna classe dichiarata nel testo)*. **Ranger (Esploratore)** è l'ipotesi più naturale: tracciare, cacciare, orientarsi, "sapere quando è meglio non proseguire" sono esattamente le competenze del background **Guida**, che il manuale 2024 associa proprio a questo archetipo (vedi `campagna/guida-giocatori.md:216`, sezione Ranger — "guide Kagonesti, cacciatori Plainsfolk... gente selvatica di Ergoth Meridionale") |
-| **Background (regole 2024)** | **Guida** — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo, talento d'origine **Magic Initiate (Druido)**. Calza il personaggio meglio di qualsiasi altro background del manuale: nessun altro copre "attraversare un territorio selvaggio senza perdersi" in modo così letterale |
-| **Lignaggio (specie 2024)** | **Elfo, ascendenza Silvana** *(proposto)* — Fleet of Foot e Mask of the Wild si sposano con un Kagonesti isolato che vive di boschi e piste. Ascendenza Fatata (tratto comune a tutti gli elfi 2024) resta comunque presente |
+| **Popolo** | **Elfo Silvano — Kagonesti** di Southern Ergoth |
+| **Classe** | **Barbaro** — coerente con `campagna/guida-giocatori.md:185`: "la furia del barbaro si adatta bene a chi viene dai margini delle 'civiltà' di Ansalon... i Kagonesti più isolati che non hanno mai accettato le convenzioni delle città-foresta elfiche" |
+| **Background (regole 2024)** | **Guida** *(proposto)* — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo, talento d'origine **Magic Initiate (Druido)**. Nessun altro background del manuale copre "attraversare un territorio selvaggio senza perdersi" in modo così letterale; indipendente dalla classe, resta da confermare con Seba |
 | **Divinità** | Nessuna dichiarata. I Kagonesti isolati si legano più spesso a **Chislev**, dea della natura (`campagna/guida-giocatori.md:197`), ma il testo non lo conferma — lasciare aperto o proporre a Seba |
 | **Età** | *(da confermare — non indicata)* |
 | **Preludio (Cap. 2)** | Nessun preludio individuale si applica: Asurion non è né incantatore divino (Broken Silence) né aspirante Mago (Eye in the Sky). Resta naturalmente nel gruppo per **Scales of War** (Preludio 3, condiviso — vedi `campagna/sessioni/dm-notes-sessione-00.md`) |
@@ -83,9 +82,10 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 
 ## Checklist di adozione al tavolo
 
-- [ ] Confermata la classe con Seba (Ranger è l'ipotesi di lavoro; il testo non la esclude né la conferma)
+- [x] Classe confermata: **Barbaro**
+- [x] Specie confermata: **Elfo Silvano (Kagonesti)**
 - [ ] Confermato il background **Guida** (2024) e il talento d'origine **Magic Initiate (Druido)** che ne deriva
-- [ ] Confermato il lignaggio elfico (Silvano proposto) e l'eventuale divinità (Chislev proposta, coerente con l'archetipo Kagonesti)
+- [ ] Confermata l'eventuale divinità (Chislev proposta, coerente con l'archetipo Kagonesti)
 - [ ] Definita l'età
 - [ ] Deciso chi fossero i briganti e come l'amuleto sia arrivato a Ispin (vedi le tre letture proposte, o lasciarlo volutamente vago)
 - [ ] Deciso se Asurion ha già lavorato per uno dei Cavalieri già noti al party (Becklin, Darrett, Roderick) prima di Vogler
