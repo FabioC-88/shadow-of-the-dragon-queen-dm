@@ -86,7 +86,7 @@ Ci restò **quattro anni**. Manutenzione, ronde, la milizia volontaria del villa
 
 Il Giuramento non è mai stato il problema — *Est Sularus oth Mithas*, "il mio onore è la mia vita", non chiede a nessuno di indossare un usbergo. Lo chiedono i trentasette volumi venuti dopo, che una minoranza crescente di cavalieri considera ormai superati. Becklin, che il tempo libero lo passa a scavare le rovine del proprio castello per interesse storico, sulla faccenda ha sempre alzato le spalle. Non tutti sono come Becklin: tre anni fa un cavaliere di passaggio da Maelgoth chiese ad alta voce di chi fosse "lo scudiero senza armatura"; lei rispose che era suo e che la questione finiva lì.
 
-Gli scavi diedero a Razak un banco di prova che all'eremo non avrebbe mai avuto: al pianterreno della torre, Becklin tiene una collezione di oltre quaranta reperti — casse ossidate, meccanismi bloccati dalla ruggine, serrature solamniche di cui nessuno ha più la chiave da tre secoli. Lei non ha mai avuto la pazienza per quel lavoro, e finiva che se ne occupasse lui: in quattro anni, quello che sapeva fare dall'eremo si è affinato su materiale vero. Nello stesso periodo Becklin ha imparato sette o otto segni della lingua muta dell'Ordine, e li usava nelle riunioni lunghe quando voleva dirgli qualcosa senza farsi sentire dagli altri.
+Gli scavi diedero a Razak un banco di prova che all'eremo non avrebbe mai avuto: al pianterreno della torre, Becklin tiene una collezione di oltre quaranta reperti — casse ossidate, meccanismi bloccati dalla ruggine, serrature solamniche di cui nessuno ha più la chiave da tre secoli. Lei non ha mai avuto la pazienza per quel lavoro, e finiva che se ne occupasse lui: in quattro anni, quello che aveva imparato guardando le mani di Ispin si è affinato su materiale vero. Nello stesso periodo Becklin ha imparato sette o otto segni della lingua muta dell'Ordine, e li usava nelle riunioni lunghe quando voleva dirgli qualcosa senza farsi sentire dagli altri.
 
 **Ispin, a Vogler, c'era.** Viveva lì ritirato da anni, e stavolta Razak poteva rispondergli. Niente di memorabile: si vedevano al Brass Crab e al mercato, lui rifilava le stesse storie con numeri sempre diversi e Razak ogni tanto gliene faceva notare uno — nel giro di un anno era diventato il loro modo di volersi bene. Ispin fece in tempo a vederlo prendere il mantello da scudiero, e ad avere da ridire sulla lunghezza (secondo lui sbagliata). In quattro anni Razak non gli ha mai detto che era sceso a valle per quella frase di marzo — si è sempre detto che il momento adatto si sarebbe presentato.
 
@@ -110,7 +110,7 @@ Porta con sé: la veste, l'anello di rame, il mantello da scudiero, il ritaglio 
 
 *Variante della voce 5 della tabella "Meeting Ispin Greenshield" (fonte, righe 867-875).*
 
-Nove anni fa, un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin Greenshield, di ritorno da qualche parte con una gamba conciata male e una scorta di provviste calcolata per una settimana di viaggio in meno, bussò all'eremo del Filo di Rame perché era l'unica luce sulla strada.
+Sette anni fa, un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin Greenshield, di ritorno da qualche parte con una gamba conciata male e una scorta di provviste calcolata per una settimana di viaggio in meno, bussò all'eremo del Filo di Rame perché era l'unica luce sulla strada.
 
 Ci rimase **tre mesi**.
 
@@ -120,15 +120,15 @@ Così accadde questo: l'uomo che non smetteva mai di parlare passò un intero in
 
 Ispin raccontò il porto di Kalaman e l'odore che ha una città quando arrivano le navi. Raccontò Becklin e la sua armatura assurda, e Cudgel che riusciva a bere in piedi qualunque cosa. Raccontò mostri marini che erano quasi certamente pesci grossi, e goblin che erano quasi certamente meno numerosi di come li ricordava. Non gli importava di non essere creduto: gli importava che qualcuno stesse ascoltando, e Razak — obbligato al silenzio — era il miglior ascoltatore che avesse mai avuto.
 
-Non fu solo ascolto. Con le mani immobilizzate dalle bende e il resto del corpo costretto a letto per settimane, Ispin trovò il modo di ripagare le cure senza parlare: gli mostrò come far sparire una moneta e farla ricomparire altrove, come sciogliere un nodo senza guardarlo, come aprire un fermaglio o una serratura semplice con niente in mano. Non era un insegnamento formale — un vecchio avventuriero annoiato che intratteneva chi lo curava — ma bastarono tre mesi perché a Razak restasse addosso, insieme alle storie. Fu quell'inverno, più delle parole, a legarli davvero: due persone che non potevano parlare tra loro nello stesso modo (l'uno per il voto, l'altro perché con le dita di Razak in mezzo a un lucchetto non serviva) trovarono comunque un linguaggio comune.
+Quell'inverno non gli lasciò soltanto delle storie. Con la gamba che lo teneva fermo e le mani libere tutto il giorno, Ispin trovò il suo modo di ripagare le cure: gli mostrò come far sparire una moneta e farla ricomparire altrove, come sciogliere un nodo senza guardarlo, come aprire un fermaglio o una serratura semplice con niente in mano. Non era un insegnamento formale — un vecchio avventuriero annoiato che intratteneva chi lo curava — ma bastarono tre mesi perché a Razak restasse addosso, insieme alle storie. Fu quello, più delle parole, a legarli davvero: un uomo che non poteva muoversi e un ragazzo che non poteva rispondere trovarono comunque un linguaggio comune.
 
 Verso la fine, quando la neve cominciò a cedere, Ispin disse una cosa che non era una storia:
 
 > *"Tu qui dentro sei bravissimo, ragazzo. Ma un giorno ti accorgerai che stare fermi non è la stessa cosa che essere in pace. E quando succede, la strada è là fuori e non ti aspetta."*
 
-Poi ripartì. Non tornò mai più all'eremo. Nei tre anni restanti del voto, ogni tanto arrivava qualcosa: un pacchetto di semi che all'eremo non sarebbero cresciuti, una conchiglia, un pettine di corno con inciso male un nome che non era di nessuno. Mai una lettera — Ispin sapeva scrivere poco e male, e Razak sospetta che si vergognasse.
+Poi ripartì. Non tornò mai più all'eremo. Nell'anno e mezzo che restava del voto, ogni tanto arrivava qualcosa: un pacchetto di semi che all'eremo non sarebbero cresciuti, una conchiglia, un pettine di corno con inciso male un nome che non era di nessuno. Mai una lettera — Ispin sapeva scrivere poco e male, e Razak sospetta che si vergognasse.
 
-**Nei tre mesi dell'inverno, Razak non gli ha mai rivolto la parola.** Il voto finì l'anno dopo, e quando finì Ispin era già lontano.
+**Nei tre mesi dell'inverno, Razak non gli ha mai rivolto la parola.** Gli rispondeva ogni tanto con i segni dell'Ordine — un gesto per *davvero?*, uno per *ancora* — e Ispin non ha mai saputo cosa fossero: era convinto che servissero a tenere occupate le mani stando fermi. Il voto finì l'anno dopo, e quando finì Ispin era già lontano.
 
 Si rividero di persona solo più tardi, quando Razak scese a valle come scudiero di Becklin e Ispin, ormai ritirato a Vogler, era lì (vedi "La partenza — quattro anni a Thornwall Keep"). Quattro anni di incontri al Brass Crab hanno sostituito i regali sporadici — fino alla lettera che annuncia la sua morte.
 

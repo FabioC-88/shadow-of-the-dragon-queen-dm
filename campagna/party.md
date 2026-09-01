@@ -34,7 +34,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 5 della tabella d6.* Nove anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak era al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
+*Variante della voce 5 della tabella d6.* Sette anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak era al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
 
 **Razak non gli ha mai rivolto la parola.** Il voto finì l'anno dopo, quando Ispin era già lontano. Il funerale è l'ultima occasione per ringraziarlo, e arriva troppo tardi.
 
@@ -75,9 +75,9 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Brynja Daewar
 **Giocatore:** Eric  
-**Razza / Classe:** Nana di montagna (clan Daewar) / Chierico — Mishakal  
-**Background:** Cavaliere di Solamnia (scudiera) — addestrata da anni da Sir Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
-**Preludio (Cap. 2):** *(da assegnare)*  
+**Razza / Classe:** Nana di montagna (clan Daewar) / Chierico — Mishakal, ~32 anni  
+**Background:** Cavaliere di Solamnia (scudiera) — addestrata da **nove anni** da Sir Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
+**Preludio (Cap. 2):** **Broken Silence** *(proposto — è il preludio che il modulo indica per i chierici)*  
 **Connessione a Ispin:** Ispin si frappose con lo scudo verde tra lei e un goblin durante l'assalto di Grishnak Spezzapietra a un villaggio nanico di frontiera  
 
 | | |
@@ -88,12 +88,13 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità nanica di frontiera da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja salvava una famiglia da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu l'inizio di un'amicizia — e, indirettamente, della scoperta della sua fede in Mishakal.
+*Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità di frontiera — nani per la maggior parte, ma non solo — da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja portava fuori dei bambini da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu Ispin, nei giorni seguenti, a dirle che la fede può essere decidere di fare la cosa giusta proprio mentre nessuno risponde — ed è da quella frase che nasce, due anni più tardi, la sua devozione a Mishakal. Fu ancora lui a indirizzarla da Roderick.
 
 #### PNG collegati
 - **Sir Roderick Kar-Thas "l'Ostinato"** — mentore, Cavaliere della Spada; temporaneamente separato da Brynja per un dovere personale da definire, in attesa del banco di prova finale
 - **Ispin Greenshield** — defunto
-- **Grishnak Spezzapietra** — il goblin sconfitto la notte dell'attacco; gancio riutilizzabile se serve
+- **Grishnak Spezzapietra** — il goblin che tentò di ucciderla; **corpo mai ritrovato**, gancio pienamente riutilizzabile
+- **Becklin Uth Viharin** — nessuna relazione diretta, ma Ispin gliene ha parlato: Brynja arriva a Vogler sapendo già chi è
 
 ---
 

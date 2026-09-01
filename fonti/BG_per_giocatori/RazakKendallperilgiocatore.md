@@ -1,4 +1,5 @@
-**Razak Kendall**
+# Razak Kendall
+
 **Umano, Monaco dell'Ordine di Majere, Via dell'Ombra**
 
 ---
@@ -21,7 +22,7 @@ Un inverno anticipato aveva chiuso i passi con settimane di margine sul previsto
 
 Ispin ha passato quell'inverno a parlare a un ragazzo che non aveva la facoltà di rispondergli. Il porto di Kalaman e l'odore che prende una città quando arrivano le navi. Becklin e la sua armatura assurda. Cudgel che beveva in piedi qualunque cosa gli mettessero davanti. Mostri marini che erano quasi certamente pesci grossi e bande di goblin quasi certamente meno numerose di come se le ricordava. Che gli si credesse o no non gli è mai importato; gli importava che qualcuno stesse a sentire fino alla fine, e in trent'anni di taverne non gli era mai capitato un ascoltatore obbligato al silenzio.
 
-Non è stato solo ascoltare. Con la gamba che lo teneva fermo e le mani libere tutto il giorno, Ispin ha trovato il suo modo di ripagare le cure: ti ha fatto vedere come sparisce una moneta e come ricompare da un'altra parte, come si scioglie un nodo senza guardarlo, come si apre un fermaglio con niente in mano. Non una lezione vera — un uomo annoiato che intrattiene chi lo cura — ma tre mesi bastano, e quello ti è rimasto addosso insieme alle storie.
+Quell'inverno non ti ha lasciato soltanto delle storie. Con la gamba che lo teneva fermo e le mani libere tutto il giorno, Ispin ha trovato il suo modo di ripagare le cure: ti ha fatto vedere come sparisce una moneta e come ricompare da un'altra parte, come si scioglie un nodo senza guardarlo, come si apre un fermaglio con niente in mano. Non una lezione vera — un uomo annoiato che intrattiene chi lo cura — ma tre mesi bastano, e quello ti è rimasto addosso insieme alle storie.
 
 Ogni tanto rispondevi coi segni dell'Ordine, per abitudine più che per bisogno, un gesto per *davvero?* e uno per *ancora*. Ispin non ha mai capito cosa fossero. Rideva, diceva che era un modo per tenere occupate le mani stando fermi, e ripartiva da dove aveva lasciato.
 
@@ -29,7 +30,7 @@ A marzo, che la neve cominciava a cedere, ti disse una cosa che non era una stor
 
 > *"Tu qui dentro sei bravissimo, ragazzo. Ma un giorno ti accorgerai che stare fermi non è la stessa cosa che essere in pace. E quando succede, la strada è là fuori e non ti aspetta."*
 
-Poi si sistemò la gamba come poté e se ne andò, e per due anni non vi siete più visti.
+Poi si sistemò la gamba come poté e se ne andò, e per due anni non vi siete più visti. Nel tempo che restava del voto ogni tanto arrivava qualcosa: un pacchetto di semi di piante che agli altipiani non sarebbero mai cresciute, una conchiglia, un pettine di corno con inciso male un nome che non era di nessuno. Mai una lettera. Ispin sapeva scrivere poco e male, e sospetti che se ne vergognasse.
 
 Il voto è finito che avevi ventidue anni. Poche settimane dopo hai chiesto a Roke il permesso di scendere a valle, e Roke ti ha risposto che non te ne serviva uno e non ha aggiunto altro, che nell'Ordine è il modo consueto di concedere qualcosa senza metterlo per iscritto.
 
@@ -39,7 +40,7 @@ Ci sei rimasto quattro anni. Manutenzione, ronde, la milizia volontaria del vill
 
 Il Giuramento non è mai stato il problema. *Est Sularus oth Mithas*, il mio onore è la mia vita, non chiede a nessuno di indossare un usbergo. Lo chiedono i trentasette volumi venuti dopo, che una minoranza crescente di cavalieri considera ormai superati. Becklin, che il tempo libero lo passa a scavare le rovine del proprio castello per interesse storico, sulla faccenda ha alzato le spalle dal primo giorno. Non tutti sono come Becklin. Tre anni fa un cavaliere di passaggio da Maelgoth si è fermato in cortile e ha chiesto ad alta voce di chi fosse lo scudiero senza armatura; lei ha risposto che era suo e che la questione finiva lì, e per un po' nessuno ha più sollevato l'argomento davanti a lei.
 
-Gli scavi ti hanno dato un banco di prova che all'eremo non avresti mai avuto. Al pianterreno della torre Becklin tiene una collezione di oltre quaranta reperti tirati fuori dal sito: casse ossidate, meccanismi che la ruggine ha bloccato, serrature solamniche di cui nessuno ha più la chiave da tre secoli. Lei non ha mai avuto la pazienza per quel lavoro e tu sì, così finiva che se ne occupasse tu. In quattro anni quello che sapevi fare dall'eremo si è affinato su materiale vero, con la coscienza a posto di chi sta restaurando qualcosa. Nello stesso periodo Becklin ha imparato sette o otto dei tuoi segni, e li tirava fuori nelle riunioni lunghe quando voleva dirti qualcosa senza che lo sentissero gli altri.
+Gli scavi ti hanno dato un banco di prova che all'eremo non avresti mai avuto. Al pianterreno della torre Becklin tiene una collezione di oltre quaranta reperti tirati fuori dal sito: casse ossidate, meccanismi che la ruggine ha bloccato, serrature solamniche di cui nessuno ha più la chiave da tre secoli. Lei non ha mai avuto la pazienza per quel lavoro e tu sì, così finiva che te ne occupassi tu. In quattro anni quello che avevi imparato guardando le mani di Ispin si è affinato su materiale vero, con la coscienza a posto di chi sta restaurando qualcosa. Nello stesso periodo Becklin ha imparato sette o otto dei tuoi segni, e li tirava fuori nelle riunioni lunghe quando voleva dirti qualcosa senza che lo sentissero gli altri.
 
 Ispin, a Vogler, c'era. Viveva ritirato lì da anni, e questa volta potevi rispondergli. Non è successo niente di memorabile: vi vedevate al Brass Crab e al mercato, lui ti rifilava le stesse storie con numeri sempre diversi e tu ogni tanto gliene facevi notare uno, e nel giro di un anno quello era diventato il modo che avevate di volervi bene. Ha fatto in tempo a vederti prendere il mantello da scudiero e ad avere da ridire sulla lunghezza, che secondo lui era sbagliata.
 
@@ -51,4 +52,4 @@ Dieci mesi fa hai chiesto un congedo e sei risalito agli altipiani, tagliando co
 
 La lettera è arrivata a quel punto, ed è di Becklin. Ispin Greenshield è morto, e i suoi amici lo salutano a Vogler alla vigilia della Festa del Martin Pescatore.
 
-Sono due cose insieme, la morte di un uomo con cui hai diviso lo stesso villaggio per quattro anni e un richiamo dalla tua cavaliera, e non è chiaro nemmeno a te quale delle due ti stia facendo scendere più in fretta. In ogni caso il congedo si chiude qui. Porti con te la veste, l'anello di filo di rame che ti diede Roke il giorno dei voti, il mantello da scudiero, il ritaglio di stoffa nella cintura, e una cosa che a Ispin non hai mai detto e che adesso non ha più nessun momento adatto in cui essere detta.
+Sono due cose insieme, la morte di un uomo con cui hai diviso lo stesso villaggio per quattro anni e un richiamo dalla tua cavaliera, e non è chiaro nemmeno a te quale delle due ti stia facendo scendere più in fretta. In ogni caso il congedo si chiude qui. Porti con te la veste, l'anello di filo di rame che ti diede Roke il giorno dei voti, il mantello da scudiero, il ritaglio di stoffa nella cintura, e una cosa che a Ispin non hai mai detto e che adesso non ha più un momento adatto in cui essere detta.
