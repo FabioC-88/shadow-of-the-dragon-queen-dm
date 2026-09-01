@@ -22,7 +22,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 ### Razak Kendall
 **Giocatore:** [DA COMPILARE]  
 **Razza / Classe:** Umano / Monaco — Ordine di Majere, Via dell'Ombra  
-**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund; poi 4 anni come scudiero di Becklin Uth Viharin a Thornwall Keep — apprendistato di fatto concluso, giudicato pronto da Becklin — interrotto 10 mesi fa da un congedo forzato verso l'eremo. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
+**Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund; poi 4 anni come scudiero di Becklin Uth Viharin a Thornwall Keep (dai 19 ai 23) — apprendistato di fatto concluso, giudicato pronto da Becklin — chiuso **4 anni fa** da un congedo verso l'eremo, per assistere Maestro Roke. Da ~2 anni il suo posto è di Darrett Highwater. 27 anni. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
 **Preludio (Cap. 2):** Broken Silence  
 **Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio — Ispin gli insegnò a mani nude a scassinare e a far sparire piccoli oggetti, legandoli più delle storie stesse — poi lo rivide regolarmente per 4 anni a Vogler, durante il servizio come scudiero  
 
@@ -34,14 +34,15 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-*Variante della voce 5 della tabella d6.* Sette anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak era al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
+*Variante della voce 5 della tabella d6.* Dieci anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak aveva 17 anni, al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
 
 **Razak non gli ha mai rivolto la parola.** Il voto finì l'anno dopo, quando Ispin era già lontano. Il funerale è l'ultima occasione per ringraziarlo, e arriva troppo tardi.
 
 #### PNG collegati
 - **Maestro Halden Roke** — maestro dell'eremo, l'unico padre che abbia avuto (vivo a inizio campagna)
 - **Confratello Tobin Reyne** — lasciò l'Ordine anni fa; quasi un fratello maggiore
-- **Becklin Uth Viharin** — la sua cavaliera: la serve come scudiero da 4 anni a Thornwall Keep; firmataria della lettera che lo richiama dal congedo
+- **Becklin Uth Viharin** — la sua **ex** cavaliera: l'ha servita 4 anni a Thornwall Keep, fino a 4 anni fa; firmataria della lettera
+- **Darrett Highwater** — lo scudiero che ha preso il suo posto ~2 anni fa; non si sono mai incontrati
 - **Ispin Greenshield** — defunto
 - **[NOTA DM — riservata]** **Ser Maelis** — vedi la sezione "Segreti" in `fonti/personaggi/Razak-Kendall.md`
 

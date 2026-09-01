@@ -6,7 +6,9 @@
 
 > **Nota di metodo.** Il nome e la classe sono scelta del giocatore. Tutto il resto è costruito per aderire alla fonte del modulo (`fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`) e al meta-arco del DM (`fonti/campagna/filo-narrativo-multiverso.md`). Gli elementi inventati — l'eremo del Filo di Rame, Maestro Halden Roke, Confratello Tobin Reyne, il congedo a Thornwall Keep — sono marcati come tali e non contraddicono nulla della fonte: sono collocati nei vuoti che il modulo lascia aperti. **Becklin Uth Viharin e Thornwall Keep sono canonici** (fonte, riga 887 e `campagna/fazioni.md`).
 >
-> **Versione aggiornata al 2026-08-31**, allineata al documento del giocatore (`RazakKendallperilgiocatore.md`): Razak non arriva al funerale come "prima discesa a valle", ma da un congedo di 10 mesi dal servizio come scudiero di Becklin. Ulteriori aggiunte previste in un secondo momento.
+> **Versione aggiornata al 2026-09-01.** Cronologia riscalata per un vincolo di trama: **nel 351 AC Becklin ha già Darrett Highwater come scudiero**, quindi il servizio di Razak deve essere finito da anni, non da dieci mesi. La correzione sposta indietro le tappe invece di invecchiare il personaggio: **il voto passa da 19 a 16 anni**, il servizio da 22-26 a **19-23**, e il congedo da 10 mesi a **4 anni**. Età invariata a 27. Effetto collaterale positivo: durante l'inverno di Ispin, Razak ha **17 anni** — il "ragazzo" che Ispin gli ripete addosso adesso è letterale, e 19-23 è l'età giusta per uno scudiero.
+>
+> **Cronologia di riferimento:** 15 anni → smette di rimuginare sul ritaglio | **16 anni** → voto (3 anni) | ~17 anni (**10 anni fa**) → l'inverno di Ispin | **19 anni** (8 anni fa) → fine del voto, scende a valle | 19-23 anni (**8→4 anni fa**) → scudiero di Becklin | **4 anni fa** → congedo per Roke | **~2 anni fa** → Becklin prende Darrett | oggi, 27 anni → la lettera.
 
 ---
 
@@ -72,13 +74,13 @@ Razak ha smesso di farsi domande su quel ricamo verso i quindici anni. Non perch
 
 ### Il voto
 
-A diciannove anni Razak prese il voto lungo del silenzio: **tre anni senza parola**. Non è una punizione né un'ascesi spettacolare — nell'Ordine di Majere è un metodo. Chi non può rispondere impara ad ascoltare fino in fondo, perché non ha la scorciatoia di interrompere.
+A sedici anni Razak prese il voto lungo del silenzio: **tre anni senza parola**. Non è una punizione né un'ascesi spettacolare — nell'Ordine di Majere è un metodo. Chi non può rispondere impara ad ascoltare fino in fondo, perché non ha la scorciatoia di interrompere.
 
 Fu durante il secondo anno di voto che arrivò Ispin.
 
 ### La partenza — quattro anni a Thornwall Keep
 
-Il voto finì che Razak aveva ventidue anni. Poche settimane dopo chiese a Maestro Roke il permesso di scendere a valle; Roke rispose che non gliene serviva uno, e non aggiunse altro — è il modo consueto, nell'Ordine, di concedere qualcosa senza metterlo per iscritto.
+Il voto finì che Razak aveva diciannove anni. Poche settimane dopo chiese a Maestro Roke il permesso di scendere a valle; Roke rispose che non gliene serviva uno, e non aggiunse altro — è il modo consueto, nell'Ordine, di concedere qualcosa senza metterlo per iscritto.
 
 A Vogler, sopra il villaggio, c'è **Thornwall Keep**, una rovina coperta d'edera che ormai vale più come monumento che come fortificazione. Dentro ci sta **Becklin Uth Viharin**, Cavaliere della Corona, titolare da anni di un incarico che è insieme un comando e un pensionamento anticipato. Ispin le aveva parlato del ragazzo dell'eremo, e questo bastò perché lo prendesse come **scudiero** senza fare troppe domande su una famiglia che non esisteva.
 
@@ -92,7 +94,11 @@ Gli scavi diedero a Razak un banco di prova che all'eremo non avrebbe mai avuto:
 
 Poche settimane prima del congedo, Becklin gli aveva detto — a modo suo, senza cerimonie — che ormai sapeva fare tutto quello che poteva insegnargli: l'apprendistato, per come lo intendeva lei, era di fatto concluso. Non hanno mai avuto il tempo di scoprire cosa sarebbe venuto dopo.
 
-**Dieci mesi fa** Razak ha chiesto un congedo ed è risalito agli altipiani, interrompendo di netto quel momento. La ragione dichiarata è che Roke stava male — vero, e lo è ancora. Non era la ragione principale: nell'ultimo anno di servizio quel disagio che non sa nominare (vedi "Difetto" e "Segreti") si è fatto più insistente, e due volte lo ha colto mentre era di ronda con altri intorno. Si è convinto che bastasse tornare al ritmo dell'eremo per rimetterlo a posto. Ha funzionato per qualche mese. Poi ha smesso di funzionare.
+**Quattro anni fa** Razak ha chiesto un congedo ed è risalito agli altipiani, interrompendo di netto quel momento. La ragione dichiarata è che Roke stava male — vero, e lo è ancora. Non era la ragione principale: nell'ultimo anno di servizio quel disagio che non sa nominare (vedi "Difetto" e "Segreti") si è fatto più insistente, e due volte lo ha colto mentre era di ronda con altri intorno. Si è convinto che bastasse tornare al ritmo dell'eremo per rimetterlo a posto. Ha funzionato per un anno, forse due. Poi ha smesso di funzionare.
+
+Il congedo, intanto, è diventato altro. Roke non muore e non guarisce: si consuma piano, e ogni anno c'è stata una ragione buona per rimandare la discesa a valle di un altro anno. **Circa due anni fa** è arrivata da Vogler la notizia che Becklin aveva preso un altro scudiero — **Darrett Highwater** — e Razak non l'ha mai conosciuto.
+
+**[NOTA DM]** È la chiave che tiene insieme la cronologia con la fonte, ed è anche il materiale migliore per il Cap. 3. Razak non torna a Vogler come lo scudiero di Becklin: torna come **quello di prima**, in un posto dove il suo ruolo è occupato da un ragazzo che non ha mai visto. Non è rancore — è che non ha un metodo nemmeno per questo.
 
 ---
 
@@ -110,11 +116,11 @@ Porta con sé: la veste, l'anello di rame, il mantello da scudiero, il ritaglio 
 
 *Variante della voce 5 della tabella "Meeting Ispin Greenshield" (fonte, righe 867-875).*
 
-Sette anni fa, un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin Greenshield, di ritorno da qualche parte con una gamba conciata male e una scorta di provviste calcolata per una settimana di viaggio in meno, bussò all'eremo del Filo di Rame perché era l'unica luce sulla strada.
+Dieci anni fa, un inverno chiuse i passi dell'Hinterlund prima del previsto. Ispin Greenshield, di ritorno da qualche parte con una gamba conciata male e una scorta di provviste calcolata per una settimana di viaggio in meno, bussò all'eremo del Filo di Rame perché era l'unica luce sulla strada.
 
 Ci rimase **tre mesi**.
 
-Maestro Roke assegnò il novizio più giovane a occuparsi di lui: cambiargli le bende, portargli da mangiare, tenere acceso il braciere. Razak era al secondo anno del voto del silenzio.
+Maestro Roke assegnò il novizio più giovane a occuparsi di lui: cambiargli le bende, portargli da mangiare, tenere acceso il braciere. Razak aveva diciassette anni ed era al secondo anno del voto del silenzio.
 
 Così accadde questo: l'uomo che non smetteva mai di parlare passò un intero inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
 
@@ -227,7 +233,8 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 | **Ispin Greenshield** | Il motivo per cui è sceso a valle | Defunto all'inizio della campagna. Passò un inverno all'eremo mentre Razak era sotto voto di silenzio. Razak non gli ha mai rivolto la parola. |
 | **Maestro Halden Roke** *(inventato)* | Maestro dell'eremo, unico padre che abbia avuto | Vivo all'inizio della campagna. L'eremo è sulla traiettoria dell'invasione: leva narrativa disponibile dal Cap. 3 in poi. |
 | **Confratello Tobin Reyne** *(inventato)* | Lasciò l'Ordine, quasi un fratello maggiore | PNG jolly, riutilizzabile ovunque serva: mercenario, profugo a Kalaman, disertore. |
-| **Becklin Uth Viharin** | La sua cavaliera: la serve come scudiero da quattro anni a Thornwall Keep | Ben oltre il +1 Cordiale generico del party — è un rapporto di fiducia costruito in anni di servizio. Firmataria della lettera che lo richiama dal congedo. |
+| **Becklin Uth Viharin** | La sua **ex** cavaliera: l'ha servita quattro anni a Thornwall Keep, fino a quattro anni fa | Rapporto di fiducia costruito in anni di servizio, ma interrotto e mai chiuso davvero. Firmataria della lettera. |
+| **Darrett Highwater** | Lo scudiero che ha preso il suo posto | Razak sa che esiste da ~2 anni e non l'ha mai incontrato. Primo incontro in Cap. 2/3 — vedi `campagna/png-incontrati.md` |
 | **Ser Maelis** | Nessuna relazione apparente | **[NOTA DM]** Vedi "Segreti". |
 
 ---
@@ -269,4 +276,5 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 - [ ] Deciso il background di regole (Eremita per tema, oppure Guida/Acolito per la Destrezza)
 - [ ] Detto al giocatore, prima della Sessione 00, che Broken Silence **non** gli darà privilegi meccanici
 - [ ] Deciso se Maestro Roke e l'eremo sopravvivono all'invasione — decisione da prendere **prima** della Sessione 02
-- [ ] **Deciso il rapporto con Darrett Highwater** (`campagna/png-incontrati.md`) — anche lui scudiero di Becklin, introdotto in Cap 3: fellow-scudiero più giovane, rivale amichevole, o va riscritto/rimosso? Decisione aperta, non ancora presa.
+- [x] **Rapporto con Darrett Highwater — DECISO (2026-09-01).** Non sono scudieri contemporanei: Razak ha servito Becklin fino a quattro anni fa, Darrett è il suo **sostituto**, preso circa due anni fa. Non si sono mai incontrati. Risolve il conflitto con la fonte (nel 351 AC Becklin ha un solo scudiero, ed è Darrett) e regala una prima scena in Cap. 2/3.
+- [ ] Deciso **se e quando Maestro Roke muore** — dopo quattro anni di declino è una leva pronta all'uso, e l'eremo è sulla traiettoria dell'invasione (da decidere prima della Sessione 02)

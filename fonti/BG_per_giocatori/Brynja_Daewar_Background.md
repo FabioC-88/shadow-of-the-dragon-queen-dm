@@ -23,7 +23,7 @@ Non ne parlò con nessuno per parecchio tempo, e quando lo fece la reazione fu q
 Il problema, semmai, era un altro. Servire Mishakal, per come lo intendevano tutti quelli a cui lo chiese, voleva dire una vita dentro un tempio ad aspettare che le portassero i feriti. Brynja da quella notte aveva imparato il contrario, e cioè che curare qualcuno dopo non basta sempre e che a volte l'unica cosa utile è stare davanti a quella persona prima.  
 Ispin passò a trovarla la primavera dopo. La ascoltò senza ridere nemmeno una volta, cosa che con lui non le era mai capitata, e alla fine le rispose: «Allora forse dovresti smettere di chiederti dove sia il tuo posto e iniziare a chiederti chi vuoi proteggere.»  
 Lasciò Thorbardin quell'estate. Non fu una rottura e non la fece passare per tale: si presentò davanti alla famiglia, disse dove andava e perché, e si tenne il nome. Daewar non era una cosa a cui rinunciava, era una cosa di cui rispondeva. Ovunque fosse finita, chi l'avesse vista lavorare avrebbe visto lavorare un Daewar.  
-   
+   
 **La Misura**  
 Fu ancora Ispin a dirle dove andare. Conosceva da anni un cavaliere di stanza sulla frontiera orientale, un uomo che a Sancrist aveva passato più serate nelle fucine dei nani di Monte Nevermind che ai ricevimenti dell'Ordine, e che secondo lui era l'unico abbastanza testardo da starla a sentire fino in fondo prima di dirle di no.  
 Brynja raggiunse Solamnia e cercò Sir Roderick Kar-Thas, Cavaliere della Spada, devoto a Kiri-Jolith.  

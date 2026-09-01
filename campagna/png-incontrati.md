@@ -52,7 +52,7 @@
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
 | **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[DA DECIDERE]** Razak è anche lui scudiero di Becklin, con 4 anni di anzianità su Darrett — va definito il rapporto tra i due (fellow-scudiero più giovane, rivalità amichevole, o altro). Vedi checklist in `fonti/personaggi/Razak-Kendall.md` |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. Vedi `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
