@@ -12,11 +12,29 @@
 |------|------|-----------|------|
 | Razak | Asurion | Conoscenza costruita su anni di serate condivise | Si sono conosciuti al tavolo di Ispin al Brass Crab di Vogler, durante i 4 anni di scudieraggio di Razak a Thornwall Keep |
 | Razak | Brynja | Riconoscimento reciproco tra pari | Due scudieri irregolari di due cavalieri solitari; si incontravano a Vogler quando Roderick passava a trovare Ispin con Brynja al seguito |
-| Brynja | Garrick | Collaborazione diretta, rapporto personale | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri |
-| Asurion | Brynja | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak |
-| Asurion | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Razak e Brynja |
-| Razak | Garrick | Nessun contatto diretto | Si conoscono solo per sentito dire, tramite Brynja |
+| Brynja | Garrick | Collaborazione diretta, poi nove anni di silenzio | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri; da allora non si sono più visti. Il funerale è il primo reincontro |
+| Asurion | Brynja | Nessun contatto diretto | Sanno l'uno dell'altra **da Ispin**, non da Razak: entrambi hanno sentito la versione esagerata della storia dell'altro |
+| Asurion | Garrick | Nessun contatto diretto | Praticamente nulla: due passaggi di catena. Garrick sa di lui solo dalle lettere di Ispin |
+| Razak | Garrick | Nessun contatto diretto | Razak sa da Brynja che Garrick è bravissimo a trovare le cose scritte. Vedi frizione #3 — unico spunto del documento |
 | [PG 5 — druido] | — | TBD | Da agganciare alla catena quando il personaggio sarà definito |
+
+---
+
+## Frizioni interne al gruppo
+
+> Dettaglio narrativo completo in [party.md](party.md), sezione "Come i PG si conoscono già tra loro".
+>
+> **Regola di questa tabella:** le colonne "Frizione" e "Cosa sa ciascuno" sono **fatti** — predisposizioni già vere all'inizio della campagna. Non prevedono cosa faranno i personaggi e non vanno giocate come esiti obbligati. Uno **spunto** è una frase da consegnare al giocatore, e nel documento ce n'è uno solo. Una **leva DM** è qualcosa che puoi far accadere tu tramite PNG o mondo, lasciando libera la reazione.
+
+| # | Frizione | Cosa sa ciascuno | Spunto o leva |
+|---|---|---|---|
+| 1 | **Brynja ↔ Asurion** — la Misura | Brynja porta il mantello di un Ordine che non la registra e aspetta da nove anni; Asurion viene pagato in monete dagli stessi cavalieri e non ha mai voluto altro. Due esclusi con reazione opposta: uno il posto lo vuole, l'altro no | — |
+| 2 | **Garrick ↔ Brynja** — il documento rubato | Garrick ha consegnato posizioni, turni e parole d'ordine delle torri di segnalazione a un'agente delle Vesti Nere; Brynja ha giurato su una cosa imparata in una piazza in fiamme. Lei ne conosce solo la versione che le raccontò Ispin di sfuggita, anni fa — e Ispin era l'unico a non giudicarlo. Non se ne sono mai parlati, e non si rivedono da nove anni | — |
+| 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile; sa da Brynja che Garrick ricostruisce parentele da tre elenchi di caduti | **Spunto (a Razak):** *«Da quello che ti hanno raccontato, quest'uomo tira fuori nomi da carte che nessun altro sa leggere. Magari un giorno potresti chiedergli di aiutarti a scoprire da dove vieni davvero. O magari no — sono ventisette anni che non lo chiedi a nessuno.»* <br><br>**Leva DM:** se nessuno raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`) — mossa tua, nessuno obbligato a reagire |
+| 4 | **Asurion ↔ Garrick** — corpo e carta | Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
+| 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Broken Silence* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
+
+**[NOTA DM]** Nessuna di queste frizioni ha una risoluzione prevista, ed è voluto. Sono materiale d'attrito, non archi narrativi: se il tavolo ne raccoglie una, seguila; se non ne raccoglie nessuna, non hai perso niente, perché restano comunque descrizioni corrette di chi sono questi quattro.
 
 ---
 

@@ -18,6 +18,7 @@
 | **Background (regole 2024)** | **Guida** *(proposto)* — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo, talento d'origine **Magic Initiate (Druido)**. Nessun altro background del manuale copre "attraversare un territorio selvaggio senza perdersi" in modo così letterale; indipendente dalla classe, resta da confermare con Seba |
 | **Divinità** | Nessuna dichiarata. I Kagonesti isolati si legano più spesso a **Chislev**, dea della natura (`campagna/guida-giocatori.md:197`), ma il testo non lo conferma — lasciare aperto o proporre a Seba |
 | **Età** | *(da confermare — non indicata)* |
+| **Scena dell'8° livello** | **Duskwalker**, Sessione 19 FASE 1 — vedi `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello". È la sua porta: non un'istituzione che lo ammette, il selvatico che lo riconosce |
 | **Preludio (Cap. 2)** | Nessun preludio individuale si applica: Asurion non è né incantatore divino (Broken Silence) né aspirante Mago (Eye in the Sky). Resta naturalmente nel gruppo per **Scales of War** (Preludio 3, condiviso — vedi `campagna/sessioni/dm-notes-sessione-00.md`) |
 | **Connessione a Ispin** | Variante **esatta** della voce 3 della tabella d6 (`campagna/party.md`): Ispin trovò l'amuleto del clan che i briganti avevano rubato ad Asurion e si mise a cercarne il proprietario per restituirglielo |
 
@@ -69,6 +70,17 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 
 ---
 
+## Il *Kagonesti Forest Shroud*
+
+*Oggetto meraviglioso, raro (richiede sintonia)* — Appendice A del manuale (riga 6308 della fonte; **testo meccanico fornito da Fabio il 2026-09-02**, l'estratto in `fonti/` ne riportava solo il nome).
+
+> Questo mantello sembra fatto di foglie autunnali intrecciate. Mentre lo indossi hai **vantaggio alle prove di Destrezza (Furtività)**, e puoi usare un'**azione bonus** per teletrasportarti magicamente — insieme all'equipaggiamento che indossi e trasporti — in uno spazio non occupato che puoi vedere entro **9 metri** da te. Hai poi **vantaggio al prossimo tiro per colpire** che effettui prima della fine del turno. Una volta usata questa azione bonus, non può essere riutilizzata fino all'alba successiva.
+
+**Perché è l'oggetto giusto per Asurion, meccanicamente.** Vantaggio a Furtività si somma a *Mask of the Wild* dell'Elfo Silvano e alla competenza in Furtività del background Guida. Ma la parte che conta per un **barbaro** è la seconda: un teletrasporto da 9 metri come azione bonus è un chiuditore di distanza — arrivare addosso al bersaglio nello stesso turno in cui si entra in Ira, con vantaggio al primo colpo. È esattamente ciò di cui un barbaro senza cavalcatura ha bisogno, e non ruba niente a nessun altro PG.
+
+**[NOTA DM] Collocazione — da decidere.** La fonte non dice dove si trovi. Il posto sbagliato è un mucchio di tesoro: è l'unico oggetto del manuale che porta il nome del suo popolo, e Asurion possiede già **un solo oggetto identitario** — l'amuleto del clan che Ispin gli restituì. Vale la pena che il mantello **arrivi da casa**, non da un forziere: portato da un messaggero, recuperato dai resti di un altro Kagonesti lontano dall'isola, o consegnato da chi viene da Southern Ergoth. Vedi la sezione "Southern Ergoth — l'arco del ritorno" più sotto, se attivata.
+
+
 ## PNG Legati
 
 | PNG | Relazione | Note |
@@ -89,5 +101,6 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 - [ ] Definita l'età
 - [ ] Deciso chi fossero i briganti e come l'amuleto sia arrivato a Ispin (vedi le tre letture proposte, o lasciarlo volutamente vago)
 - [ ] Deciso se Asurion ha già lavorato per uno dei Cavalieri già noti al party (Becklin, Darrett, Roderick) prima di Vogler
+- [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Asurion la scena è **Duskwalker in Sessione 19, FASE 1** — il treant che lo lascia passare perché è "chiaramente un servitore della natura", cioè l'opposto esatto di un'ammissione. Talento **consigliato: Sentinel**; la scelta resta di Seba. Regola canonica in `campagna/party.md`
 - [ ] Assegnato **Scales of War** come preludio condiviso di Cap. 2, salvo diversa indicazione
 - [ ] Scheda compilata anche in `campagna/party.md`

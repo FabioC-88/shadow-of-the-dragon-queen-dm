@@ -83,7 +83,13 @@ Brynja non chiese nessuna eccezione in più. Si addestrò come chiunque altro, i
 
 **[NOTA DM]** Nel **351 AC** l'Ordine segue ancora la vecchia Misura in 37 volumi. Non è pregiudizio informale: è norma scritta. **Nessun registro dell'Ordine riporta il nome di Brynja Daewar.** Porta il mantello, si addestra, combatte e viene obbedita perché è Roderick a dire che va obbedita. Il rito vero — l'investitura che la legherebbe all'Ordine della Spada — richiede un banco di prova che spetta al **Consiglio** convocare, e il Consiglio non ha nessuna fretta: sono **nove anni** che aspetta. Roderick sostiene che arriverà; Brynja ha smesso di chiederglielo, perché la risposta è sempre la stessa e a lui costa darla.
 >
-> Questa è la spina dorsale meccanica del personaggio: giustifica un PG di 1° livello con anni di addestramento vero alle spalle, e **arma il talento Knight of the Sword al 4° livello** come evento di trama, non come voce di scheda. Quando deciderai di far scattare il banco di prova, decidi anche se l'Ordine lo riconoscerà o se Roderick dovrà forzare la mano una seconda volta — la guerra, dal Cap. 4 in poi, rende la seconda opzione molto più praticabile della prima.
+> Questa è la spina dorsale meccanica del personaggio: giustifica un PG di 1° livello con anni di addestramento vero alle spalle, e **arma il talento Knight of the Sword al 4° livello** come evento di trama, non come voce di scheda.
+
+> **[AGGIORNAMENTO 2026-09-02 — il banco di prova ha un posto.]** Si gioca in **Sessione 19**, al **Tempio di Paladine** nella Città dei Nomi Perduti, subito dopo la riforgiatura della lancia di Sarlamir — scena scritta in `campagna/sessioni/dm-notes-sessione-19.md`, "Scena Opzionale — Il Banco di Prova Solamnico". A testimoniare è **Knight Jandin**, lo spirito delle catacombe di Castle Kalaman (Sessione 08): la cavaliera che falsificò un rapporto per proteggere l'onore di Sarlamir e che qui ne redige uno vero. Non è Jandin a investire — è l'altare, in una stanza dove Paladine ha appena parlato.
+>
+> Non è la Spada per default: la prova è **una domanda sola** e assegna Corona, Spada o Rosa in base a come Brynja risponde. La Spada è l'atterraggio ovvio (Roderick, Kiri-Jolith, Mishakal); la **Corona** — obbedienza e lealtà all'istituzione che per nove anni non l'ha registrata — sarebbe l'esito più discutibile e più interessante. Non pilotarlo.
+>
+> Il **precedente del 198 AC** che Garrick le trovò nove anni fa (vedi `campagna/party.md`, "Brynja ↔ Garrick") non serve alla scena: serve **dopo**, a rendere l'investitura difendibile davanti all'Ordine dei vivi quando il party torna a Kalaman nel Cap. 7. Quando deciderai di far scattare il banco di prova, decidi anche se l'Ordine lo riconoscerà o se Roderick dovrà forzare la mano una seconda volta — la guerra, dal Cap. 4 in poi, rende la seconda opzione molto più praticabile della prima.
 
 ---
 
@@ -162,6 +168,9 @@ L'ultima volta che si sono visti, Brynja ha raccontato a Ispin del banco di prov
 - [ ] Confermato **Broken Silence** come preludio, e deciso se giocarlo separatamente da quello di Razak
 - [ ] Avvisato Eric se il preludio arriverà dopo la prima sessione (Brynja lancerebbe incantesimi prima della conferma)
 - [ ] Definito il "dovere personale" per cui Brynja e Roderick si erano temporaneamente separati
-- [ ] Deciso se e quando giocare il "banco di prova finale" (aggancio naturale per il talento Knight of the Sword al 4° livello) — e se l'Ordine lo riconoscerà formalmente nonostante la Misura del 351 AC
+- [x] **Banco di prova — DECISO (2026-09-02).** Sessione 19, Tempio di Paladine, testimone Knight Jandin. Ordine assegnato dalla prova, non predeterminato.
+- [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare — quindi Brynja non è svantaggiata rispetto a nessuno. Per lei è il **banco di prova in Sessione 19**, e il talento è il **Knight of the Crown/Rose/Sword** dell'Ordine assegnato. **Da dire a Eric prima del 4° livello, non dopo.** Regola canonica in `campagna/party.md`
+- [ ] Confermato col tavolo il caso di rifiuto/fallimento della prova (proposta: talento bonus normale dalla lista in quel momento)
+- [ ] Deciso **se l'Ordine dei vivi riconoscerà** l'investitura di Sessione 19 — testimoniata da uno spirito, senza registri. Il precedente del 198 AC è la difesa; il Cap. 7 è l'aula
 - [ ] Deciso il destino di Grishnak Spezzapietra (morto per sempre, o riutilizzabile — il background lascia aperte entrambe)
 - [ ] Scheda compilata anche in `campagna/party.md`

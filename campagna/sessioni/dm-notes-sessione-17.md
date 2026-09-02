@@ -427,6 +427,93 @@ Se un personaggio accetta di sostenere il test, procedi con la sezione seguente.
 
 ---
 
+### Il Test, versione per **Garrick Ashwatch** — *la prova su misura*
+
+*[NOTA DM — riservata] Il riquadro sopra è la versione generica della fonte, scritta quando il party era ancora TBD. **Questa è la versione da usare.** Il modulo lascia il test volutamente neutro perché non conosce i personaggi; noi Garrick lo conosciamo, e la fonte stessa invita a personalizzare (`riga 4578`: "consider the character's alignment, ambitions and goals"). Il template di partenza è quello del **Personaggio Neutrale** — studiosi che salvano tomi da un edificio che crolla — che per un archivista è già letterale.*
+
+**Presupposti.** Garrick è neutrale, apprendista di un maestro delle **Vesti Bianche** (Aeliran Dawnhollow), e alla domanda diretta ha sempre risposto che *«il rosso è quello che sente di più, ma non è una cosa che spetta a lui decidere»* (`fonti/personaggi/Garrick-Ashwatch.md`). **Il test è esattamente la cosa che lo decide.** L'atterraggio probabile sono i **Mantelli Rossi**, ma tutti e tre gli esiti restano vivi e non vanno pilotati: se il giocatore va altrove, il test ha funzionato lo stesso.
+
+**Magia Alterata — attiva.** Ogni incantesimo lanciato con uno slot infligge **6 (1d12) danni necrotici**. Non è crudeltà: serve a impedire che Garrick risolva la scena a incantesimi. Il test misura cosa sceglie di salvare, non quanto sa lanciare.
+
+#### FASE A — Dove si sveglia
+
+Il testo boxed di apertura della fonte resta valido (la città sopra le nubi, i draghi che scendono). Poi, invece della strada:
+
+### Testo — La Casa dei Registri [BT-13b]
+
+> Non sei in strada. Sei a un tavolo, e il tavolo lo conosci: è quello dell'amministrazione della tenuta, con la scheggiatura sull'angolo destro dove tuo fratello lasciò cadere un elmo. Hai inchiostro sulle dita. Hai **diciassette anni**.
+>
+> Solo che le finestre non danno sul cortile. Danno su una città di guglie bianche sospesa sopra le nuvole, e la città sta bruciando.
+>
+> Intorno a te, uomini e donne in tuniche grigie stanno svuotando gli scaffali a bracciate, rovesciando registri dentro casse di legno. Uno di loro ti urla qualcosa che non senti. Tra le mani hai un registro aperto che non ricordi di aver preso.
+
+Un **giovane drago d'argento** *(fonte, riga 4623)* passa radente sulla via sotto le finestre, congelando pietra e persone. Nella visione i draghi metallici non sono alleati: sono l'ira degli dèi che scende su Onyari, e non distinguono.
+
+#### FASE B — Il registro
+
+Se Garrick guarda il registro che ha in mano — e lo farà, è quello che è — l'elenco è di **torri di segnalazione**: posizioni, turni di guardia, parole d'ordine. Le tre più a nord del settore sono su un foglio a parte, infilato tra le pagine.
+
+**È scritto con la sua calligrafia.**
+
+*[NOTA DM — riservata] Nessun tiro, nessuna prova, nessuna spiegazione. Descrivi il foglio e taci. Il giocatore sa cosa sta guardando: è il **foglio mancante** (`fonti/personaggi/Garrick-Ashwatch.md`, "Il foglio mancante"), la cosa che lo tiene sveglio da sette anni. Nella logica del sogno, la città sta cadendo perché qualcuno ha consegnato le sue difese — e la mano che le ha trascritte è la sua. Non confermare mai che sia "vero". Non è una rivelazione sul mondo: è il test che gli mostra la domanda che si porta dietro.*
+
+#### FASE C — I tre gruppi
+
+Il drago torna. Da qui in poi c'è **tempo per salvare una cosa sola**, e Garrick lo capisce da sé:
+
+| Cosa può salvare | Dove sono | Ordine che ne emerge |
+|---|---|---|
+| **Gli archivisti e le casse** — il sapere di Onyari sopravvive alla città | Nella sala con lui | **Mantelli Rossi** |
+| **La folla in piazza**, sotto le finestre — centinaia di persone senza nome | Fuori, due rampe più in basso | **Mantelli Bianchi** |
+| **Solo il registro**, tenuto per sé | Già tra le sue mani | **Mantelli Neri** |
+
+*[NOTA DM — riservata] È la mappatura della fonte (riga 4630, "Personaggio Neutrale"), applicata a lui. Salvare i custodi del sapere → Rosso. Anteporre la folla → Bianco. Scappare con le carte → Nero. Non annunciarla. Se il giocatore chiede se c'è tempo per due cose, la risposta è no, e non ammorbidirla.*
+
+#### FASE D — Ilyana *(opzionale — la stretta finale)*
+
+La *Logica Onirica* della fonte (riga 4634) autorizza esplicitamente l'ingresso di persone inattese. Se la scena ha bisogno di una stretta — e di solito ce l'ha, perché la scelta a tre da sola resta astratta — tra gli archivisti in tunica grigia c'è **Ilyana Duskmourn**, ferma a diciannove anni, esattamente come lui l'ha vista l'ultima volta.
+
+### Testo — «Dammelo. Lo porto io.» [BT-13c]
+
+> Ti si avvicina attraverso il fumo con la calma di chi non ha fretta, tende una mano verso il registro che stringi, e dice la stessa cosa che ti disse allora, con lo stesso tono:
+>
+> *"Dammelo. Lo porto io."*
+
+**Cosa fa questa scena.** Non introduce una quarta opzione e non ha una risposta giusta. Serve a costringere Garrick a **scegliere davanti a lei**, cioè nella condizione esatta in cui sette anni fa scelse male. Qualunque cosa faccia — glielo dia, lo bruci, la ignori e vada in piazza, la accusi — non cambia l'Ordine che si sta guadagnando: cambia **quanto gli costa**.
+
+*[NOTA DM — riservata] Non usarla per punirlo e non farle dire nulla di rivelatorio sul mondo reale (dov'è, per chi lavorava, chi ha preso il foglio): **non è lei, è la sua testa**. Se il giocatore prova a interrogarla, il sogno risponde con la stessa frase, identica, e basta.*
+
+#### FASE E — Il sacrificio disponibile
+
+La fonte (riga 4638) stabilisce che **un sacrificio personale che consolida le convinzioni del personaggio conclude il test, e il personaggio si risveglia illeso**. Per Garrick quel sacrificio ha una forma precisa e vale la pena riconoscerla se il giocatore ci arriva: **restare** nella Casa dei Registri che crolla per passare le casse dalla finestra, o per finire di trascrivere, mentre il tetto cede.
+
+Un uomo che muore a un tavolo facendo l'unica cosa che gli sia mai riuscita bene. Se succede, non è un fallimento: è la conclusione migliore che il test possa avere, e Garrick si sveglia intero.
+
+#### FASE F — Il risveglio
+
+Conclusione come da fonte (riquadro sopra): lampo di luce, ritorno da Demelin, le vesti si trasformano. Aggiungi una sola riga se l'esito è **Rosso**:
+
+### Testo — Il Rosso [BT-13d]
+
+> La stoffa che ti si assesta addosso non è quella del tuo maestro. È rossa — il rosso di Lunitari, la luna che non sceglie nessuna parte perché la magia viene prima delle parti.
+>
+> Demelin la osserva. *"Benvenuto nell'ordine, collega Mago di Alta Stregoneria."* Poi, come se fosse una nota a margine: *"Il tuo maestro porta il bianco, vero? Digli che non è una bocciatura. Non ci crederà."*
+
+#### Meccanica
+
+✅ **Regola di tavolo** (canonica in `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello"). In questa campagna **nessun PG prende il talento bonus al 4° livello**: ognuno lo guadagna all'8°, nella scena che glielo fa meritare. Per Garrick la scena è questa. Il talento **Adept of the Red / White / Black Robes** corrispondente alla veste ottenuta arriva **qui**.
+
+*[NOTA DM] Se Garrick rifiuta il test, lo fallisce, o la scena non viene giocata, prende comunque all'8° livello un talento normale dalla lista di `campagna/guida-giocatori.md`. Nessuno resta indietro per un incidente di tavolo.*
+
+**Le due conseguenze da tenere presenti, comunque vada:**
+
+1. **Aeliran.** Garrick torna dal maestro delle Vesti Bianche vestito di rosso. Non è un tradimento — l'Ordine funziona così — ma è la seconda volta che Garrick prende una strada che il suo protettore non aveva previsto, e la prima volta era finita in tribunale. Gancio, non obbligo.
+2. **Il foglio.** Dopo il test, Garrick ha visto la propria calligrafia su un elenco di torri che non ha mai trascritto. Se il giocatore ne parla, **non spiegare**: la sottotrama del foglio mancante (`Garrick-Ashwatch.md`) resta aperta e non è il test a risolverla.
+
+**Se l'esito NON è Rosso.** Bianco significa che Garrick, messo alla prova, ha scelto le persone sopra le carte — e sarebbe il ribaltamento più interessante del personaggio, oltre che l'atterraggio più vicino al suo maestro. Nero significa che ha tenuto per sé la cosa che gli era stata tolta. Entrambi validi, entrambi da giocare senza commento: la fonte (riga 4632) chiede solo di domandare al giocatore come concilia la scelta con i valori del personaggio.
+
+---
+
 **Attitudine PNG in questa scena:**
 - **Demelin** — Attitudine: **0 Neutrale**, come da `campagna/png-incontrati.md`. Questo è il suo primo vero incontro diretto nella campagna: l'esito (cordiale, freddo, o ostile se il party attacca dopo la rivelazione) determina se resta una fonte di informazioni per la Sessione 18 o se si ritira definitivamente nel Sentiero dei Ricordi. Aggiorna in base a quanto giocato.
 
@@ -509,7 +596,7 @@ Questo capitolo si conclude alla Soglia dei Cieli — assicurati che i personagg
 | Preludio | Hook in Sessione 17 |
 |----------|---------------------|
 | **Broken Silence** (PG con connessione divina) | Il ruolo di **Paladine** in questa sessione è diretto e personale: è il dio che maledisse la *dragonlance* di Sarlamir e che ora, inspiegabilmente, la restituisce a Onyari (FASE 4, "Demelin e la Lancia"). Un PG divino può cogliere qui il primo vero indizio meccanico di un arco teologico più ampio — perché un dio restituisce un'arma maledetta proprio ora, proprio a loro? Buon momento per una prova di Religione (CD a discrezione) o semplicemente per un momento di introspezione del personaggio. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Questa è probabilmente la sessione più rilevante finora per questo hook: **Demelin** stessa è un'arcimaga leggendaria dell'Ordine dei Mantelli Rossi, e offre esplicitamente il **Test di Alta Stregoneria** (FASE 4) a chiunque voglia affiliarsi. Se questo PG ha già mostrato interesse per l'Ordine, questo è il momento di offrirglielo apertamente — non come sottotrama in sospeso, ma come scelta immediatamente disponibile al tavolo. |
+| **Eye in the Sky** → **GARRICK ASHWATCH** | ⚠️ **Sessione chiave del personaggio.** Vedi FASE 4, sezione "**Il Test, versione per Garrick Ashwatch**": il test personalizzato che assegna la veste (atterraggio previsto: **Mantelli Rossi**). Leggila prima della sessione — la versione generica del riquadro sopra è superata. Il resto dell'hook originale resta valido:  **Demelin** stessa è un'arcimaga leggendaria dell'Ordine dei Mantelli Rossi, e offre esplicitamente il **Test di Alta Stregoneria** (FASE 4) a chiunque voglia affiliarsi. Se questo PG ha già mostrato interesse per l'Ordine, questo è il momento di offrirglielo apertamente — non come sottotrama in sospeso, ma come scelta immediatamente disponibile al tavolo. |
 | **Scales of War** (tutti) | L'intero Sentiero dei Ricordi (M1–M9) è pieno di ossa di drago, spiriti di drago accusatori e un teschio di drago che maledice letteralmente i personaggi per "volare sulle nostre schiene" (M5, M7) — un tema di colpa collettiva e complicità che riguarda direttamente chiunque, in questa campagna, abbia cavalcato o combattuto contro dragonnel e draghi. È un buon momento per una riflessione di gruppo su cosa significhi essere "dalla parte giusta" di una guerra che coinvolge draghi da entrambi i fronti. |
 | **Tutti** | La "Vista della Città" (FASE 5) è il primo vero momento panoramico della campagna dal Cap. 4 (l'arrivo a Kalaman) — lascia che il tavolo si soffermi sulla bellezza spezzata della scena prima di passare all'orientamento tattico. Il presagio di Lord Soth (FASE 5) è inoltre un promemoria diretto e viscerale di una minaccia che tutti i PG hanno già "incontrato" indirettamente fin dal Cap. 3 — la prima volta che lo vedono in azione, non solo in una visione. |
 
@@ -587,6 +674,7 @@ Questo capitolo si conclude alla Soglia dei Cieli — assicurati che i personagg
 
 Dopo la sessione, aggiorna questi file:
 
+- [ ] `campagna/party.md` / `fonti/personaggi/Garrick-Ashwatch.md` — **se il Test è stato giocato**: registra la veste effettivamente ottenuta (Rossi/Bianchi/Neri), il talento Adept corrispondente, e come Garrick intende dirlo ad Aeliran
 - [ ] `campagna/party.md` — nessun avanzamento di livello previsto, ma registra gli XP di combattimento assegnati (fino a ~18.800, variabile in base agli incontri evitati)
 - [ ] `campagna/png-incontrati.md` — aggiorna l'attitudine di **Demelin** in base al primo incontro diretto; **correggi la sua descrizione** da "spirito/costrutto intrappolato" a "elfa arcimaga vivente, sopravvissuta al Cataclisma" (vedi `[TODO DM]` in Nota pre-sessione); **Tatina Rookledust** e **Lord Soth** restano invariati
 - [ ] `campagna/rapporti.md` — completa "Capitolo 05 (City of Lost Names — Cap 6 libro)" con l'esito dell'incontro con Demelin e l'eventuale affiliazione ai Maghi di Alta Stregoneria di un PG

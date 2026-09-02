@@ -265,6 +265,7 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 | **S13** — Sigillo di cera grigia | Se è Razak a trovarlo o a vederlo, nessuna prova, nessun tiro: solo il fatto che non riesce a smettere di guardarlo. | Medio |
 | **S16** — L'ultimo sussurro | Maelis parla al party guardando lui. Nient'altro necessario. | **Alto** |
 | **S22 / S23** — I due sigilli | Tracce indirette, nessun intervento richiesto. Se il giocatore comincia a tenere il conto da solo, lascialo fare senza commentare. | Basso |
+| **S19** — Il banco di prova solamnico | Knight Jandin apre la cavalleria a chi la Misura esclude, e Razak è escluso per una clausola diversa da quella di Brynja: non è nobile e non ha un cognome verificabile. **Non sta cercando questo**, e rifiutare è un esito completo — un monaco di Majere che declina la cavalleria non ha fallito niente. La porta va solo lasciata aperta. Vedi `campagna/sessioni/dm-notes-sessione-19.md`. | Medio |
 | **S25-26** — La citadella | Il Cap. 7 è denso di suoi momenti (Leedara, lo specchio, Lord Soth): **non aggiungere niente di Razak qui**. Il filo deve tacere quando la trama principale canta. | — |
 | **S28** — Finale | L'eco silenziosa di Maelis tra la folla: falla riconoscere a Razak. Poi il giro di tavolo finale. | **Alto** |
 
@@ -277,4 +278,5 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 - [ ] Detto al giocatore, prima della Sessione 00, che Broken Silence **non** gli darà privilegi meccanici
 - [ ] Deciso se Maestro Roke e l'eremo sopravvivono all'invasione — decisione da prendere **prima** della Sessione 02
 - [x] **Rapporto con Darrett Highwater — DECISO (2026-09-01).** Non sono scudieri contemporanei: Razak ha servito Becklin fino a quattro anni fa, Darrett è il suo **sostituto**, preso circa due anni fa. Non si sono mai incontrati. Risolve il conflitto con la fonte (nel 351 AC Becklin ha un solo scudiero, ed è Darrett) e regala una prima scena in Cap. 2/3.
+- [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Razak la scena è il **banco di prova solamnico in Sessione 19**, se sceglie di farsi avanti, e il talento è il **Knight of the Crown/Rose/Sword**. Se rifiuta — esito legittimo per un monaco di Majere — prende comunque all'8° un talento normale dalla lista. Regola canonica in `campagna/party.md`
 - [ ] Deciso **se e quando Maestro Roke muore** — dopo quattro anni di declino è una leva pronta all'uso, e l'eremo è sulla traiettoria dell'invasione (da decidere prima della Sessione 02)

@@ -19,13 +19,93 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena continua — **Asurion — Razak — Brynja — Garrick** — che li mette tutti in contatto ancora prima di arrivare a Vogler. Razak è l'unico che ne conosce due.
 
-- **Razak ↔ Asurion.** L'Hinterlund è terreno di entrambi: Razak vive all'eremo del Filo di Rame, a una giornata e mezza da Vogler, e nei quattro anni da scudiero di Becklin a Thornwall Keep scendeva regolarmente al villaggio; Asurion attraversa quegli altipiani di mestiere da anni. Il punto d'incontro è sempre stato lo stesso: il tavolo di Ispin al Brass Crab. Decine di serate nell'arco di anni, con Ispin che parlava per tre e loro due che lo lasciavano fare. Razak non ha mai avuto bisogno di molte parole con lui, e Asurion — che di mestiere giudica le persone da come si muovono, non da quello che dicono — è tra i pochi a non aver mai scambiato quel silenzio per scortesia.
-- **Razak ↔ Brynja.** Due scudieri irregolari di due cavalieri solitari: Becklin prese Razak senza fare domande su una famiglia che non esisteva, Roderick prese Brynja contro la lettera della Misura. Ispin conosceva entrambi i maestri — è lui che aveva mandato Brynja da Roderick, ed era stato compagno d'avventura di Becklin — e Roderick, quando passava da Vogler a trovarlo, si portava dietro la sua allieva. Negli stessi quattro anni in cui Razak serviva a Thornwall Keep, i due si sono ritrovati più volte fuori dalla porta ad aspettare mentre i grandi parlavano dentro: l'orfano senza casata e la nana che nessun registro dell'Ordine nomina. Non se lo sono mai detti in faccia — nessuno dei due è tipo da farlo — ma sanno perfettamente di essere la stessa eccezione fatta due volte.
-- **Brynja ↔ Garrick.** Quando Roderick cercava precedenti storici per sostenere il caso di Brynja davanti al Consiglio dei Cavalieri (la Misura esclude formalmente chi non è umano, nobile e solamniano), si rivolse all'archivio della casata Firewatch e in particolare a Garrick, già noto per la sua capacità di incrociare fonti in tempi record. Garrick passò settimane a cercare precedenti utilizzabili; in quel periodo lui e Brynja si conobbero davvero — lei una delle poche persone ad aver apprezzato il suo lavoro per quello che valeva, lui uno dei pochi ad aver preso sul serio la sua battaglia per il riconoscimento.
+> **Come usare questa sezione.** Quello che segue sono **fatti**: cosa è successo, cosa ciascuno sa e cosa pensa dell'altro oggi. Non contiene previsioni su cosa faranno i personaggi. Dove c'è uno **spunto per il giocatore** è dichiarato come tale — è un'offerta, non un binario, e in tutto il documento ce n'è uno solo (vedi `campagna/rapporti.md`, sezione "Frizioni interne al gruppo").
 
-**Non si conoscono di persona:** Asurion e Brynja, Asurion e Garrick, Razak e Garrick. Sanno l'uno dell'altro solo per sentito dire, tramite l'anello di mezzo. Il funerale di Ispin è quindi la prima occasione in cui il gruppo si trova fisicamente nella stessa stanza.
+#### Razak ↔ Asurion
+
+L'Hinterlund è terreno di entrambi: Razak vive all'eremo del Filo di Rame, a una giornata e mezza da Vogler, e nei quattro anni da scudiero di Becklin a Thornwall Keep scendeva regolarmente al villaggio; Asurion attraversa quegli altipiani di mestiere da anni. Il punto d'incontro è sempre stato lo stesso: il tavolo di Ispin al Brass Crab. Decine di serate nell'arco di anni, con Ispin che parlava per tre e loro due che lo lasciavano fare. Razak non ha mai avuto bisogno di molte parole con lui, e Asurion — che di mestiere giudica le persone da come si muovono, non da quello che dicono — è tra i pochi a non aver mai scambiato quel silenzio per scortesia.
+
+**L'episodio.** Un autunno, al Brass Crab, Ispin raccontava per la terza volta la storia del mostro marino e sbagliò di nuovo il numero delle braccia. Asurion e Razak si guardarono nello stesso istante, e nessuno dei due disse niente. Ispin se ne accorse e da quella sera li chiamò «i due sordi»: ogni volta che uno dei due entrava, annunciava a voce alta che era arrivato mezzo sordo.
+
+**Le due viste.** Razak considera Asurion l'unica persona con cui abbia mai potuto stare in silenzio senza doverlo spiegare. Asurion non ci ha mai pensato in questi termini: per lui Razak è uno che si muove bene e non spreca gesti, e finora non gli è servito sapere altro.
+
+**Il non-detto.** In tutti quegli anni non si sono mai chiesti niente l'uno dell'altro. Asurion non sa che Razak è cresciuto in un eremo. Razak non sa perché Asurion sia ancora nell'Hinterlund dopo tanto tempo. Non è reticenza: non è mai venuto fuori, perché con Ispin al tavolo non serviva parlare. Adesso Ispin non c'è più.
+
+#### Razak ↔ Brynja
+
+Due scudieri irregolari di due cavalieri solitari: Becklin prese Razak senza fare domande su una famiglia che non esisteva, Roderick prese Brynja contro la lettera della Misura. Ispin conosceva entrambi i maestri — è lui che aveva mandato Brynja da Roderick, ed era stato compagno d'avventura di Becklin — e Roderick, quando passava da Vogler a trovarlo, si portava dietro la sua allieva. Negli stessi quattro anni in cui Razak serviva a Thornwall Keep, i due si sono ritrovati più volte fuori dalla porta ad aspettare mentre i grandi parlavano dentro: l'orfano senza casata e la nana che nessun registro dell'Ordine nomina. Non se lo sono mai detti in faccia — nessuno dei due è tipo da farlo — ma sanno perfettamente di essere la stessa eccezione fatta due volte.
+
+**L'episodio.** Una di quelle attese, sotto la gronda, con la pioggia. Brynja stava rifacendo una cinghia allo scudo e, tanto per riempire il silenzio, gli chiese quanti volumi della Misura gli avessero fatto imparare. «Due.» Lei rispose: «Io quattro. E non me ne riguarda nessuno.» Razak non replicò — non aveva capito se fosse una lamentela o un vanto, e ha smesso di chiederselo solo anni dopo. È il punto più vicino a cui siano mai arrivati a nominare la cosa.
+
+**Le due viste.** Brynja legge Razak come uno entrato da una porta di servizio e uscito dalla stessa porta, senza aver mai dovuto farsi aprire quella principale — e non gliene ha mai fatto una colpa, perché non ha nemmeno mai reclamato il titolo. Razak vede in Brynja l'unica persona che abbia incontrato che voglia esattamente la cosa che lui ha avuto e restituito.
+
+**Il non-detto.** Nessuno dei due sa perché l'altro si sia fermato. Brynja non sa che Razak ha lasciato Thornwall Keep quattro anni fa, né perché: **arriva a Vogler credendo di ritrovare lo scudiero di Becklin.** Razak non sa che il banco di prova di Brynja non è mai stato convocato, e che sono nove anni che aspetta.
+
+#### Brynja ↔ Garrick
+
+Quando Roderick cercava precedenti storici per sostenere il caso di Brynja davanti al Consiglio dei Cavalieri (la Misura esclude formalmente chi non è umano, nobile e solamniano), si rivolse all'archivio della casata Firewatch e in particolare a Garrick, già noto per la sua capacità di incrociare fonti in tempi record. Garrick passò settimane a cercare precedenti utilizzabili; in quel periodo lui e Brynja si conobbero davvero — lei una delle poche persone ad aver apprezzato il suo lavoro per quello che valeva, lui uno dei pochi ad aver preso sul serio la sua battaglia per il riconoscimento.
+
+**Cronologia — da tenere presente.** Il caso davanti al Consiglio è di **nove anni fa**; Garrick aveva allora **diciassette anni** ed era ancora Firewatch, ai registri della tenuta. Il processo e il disonore arrivano **due anni dopo**. Brynja quindi lo ha conosciuto **prima** che cadesse, ed è l'unica persona del gruppo ad averlo visto quando aveva ancora un cognome. **Non si rivedono da nove anni:** il funerale di Ispin è anche questo.
+
+**L'episodio.** *[Elemento inventato — compatibile con le schede]* Dopo settimane, Garrick trovò **un solo precedente utilizzabile**: nel 198 AC il Consiglio aveva ammesso all'addestramento due scudieri non nobili e non solamniani, perché una guerra di confine aveva lasciato l'Ordine senza uomini. Era inservibile, e lo capì subito: non era un'apertura della Misura, era un'emergenza militare. Andò a dirglielo di persona invece di lasciare che lo facesse Roderick.
+
+**Le due viste.** Brynja considera Garrick uno dei pochi che le abbia detto la verità in faccia invece di consolarla. Garrick ricorda quelle settimane come l'unica volta in cui qualcuno ha avuto bisogno di lui per qualcosa che contava davvero — ed è un pensiero che non fa una gran figura, quindi non lo dice.
+
+**Il non-detto.** Dopo il Consiglio i due **non sono rimasti in contatto**: settimane fitte di lavoro comune, poi ciascuno per la sua strada. Il processo di Garrick arriva due anni più tardi, e Brynja lo apprende **da Ispin**, di sfuggita, in una delle loro poche visite — cioè nella versione dell'unico adulto che non abbia mai giudicato Garrick per quella faccenda. Sa che c'è stata una storia di documenti e una donna, e che il ragazzo dei registri è finito diseredato; i dettagli non li ha mai avuti e non glieli ha mai chiesti, non per freddezza ma perché non erano più in contatto. **Garrick non sa che lei lo sa, né in quale versione.**
+
+**Fatto, per il giocatore di Brynja.** L'unica persona del gruppo che abbia letto per intero il tuo fascicolo davanti al Consiglio è Garrick Ashwatch.
+
+#### I tre che non si conoscono
+
+**Non si conoscono di persona:** Asurion e Brynja, Asurion e Garrick, Razak e Garrick. Il funerale di Ispin è la prima occasione in cui il gruppo si trova fisicamente nella stessa stanza.
+
+Ma sanno l'uno dell'altro, e quasi sempre **non tramite l'anello di mezzo: tramite Ispin.** Razak parla poco e Brynja non è tipo da raccontare i fatti degli altri; Ispin invece parlava di tutti con tutti, e sbagliava i numeri ogni volta. Ciò che i tre non-legami hanno in comune è quindi questo: **ciascuno arriva a Vogler con un ritratto dell'altro fatto da un uomo che esagerava per mestiere.**
+
+- **Asurion → Brynja.** Conosce la storia del villaggio in fiamme perché Ispin l'ha raccontata al Brass Crab più volte. Nella versione di Ispin i bambini portati fuori dalla casa sono quattro (erano due), e la nana «tiene una linea meglio di metà dei cavalieri che ha conosciuto». Asurion si aspetta qualcuno di considerevolmente più grosso.
+- **Brynja → Asurion.** Sa dell'amuleto e dei briganti: nella versione di Ispin li aveva inseguiti per un mese, e l'amuleto era d'argento. Sa inoltre che è Kagonesti e che lavora come guida per pattuglie solamniane — cioè, secondo il metro dell'Ordine in cui si è addestrata, che è un ausiliario pagato.
+- **Garrick → tutti e tre.** È l'unico ad avere di loro una traccia **scritta**: nelle **undici lettere** che Ispin gli ha mandato in sette anni ricorrono un monaco di un eremo sopra Vogler, una nana testarda e un elfo che «trova le strade». Nomi storpiati, nessuna data, ortografia terribile. Garrick le ha conservate tutte.
+- **Razak → Garrick.** Sa da Brynja che è uno bravissimo a trovare le cose scritte: ricostruisce parentele da tre elenchi di caduti, e ha passato settimane in archivio per una nana che non aveva mai visto.
+- **Asurion → Garrick.** Praticamente niente: due passaggi di catena, e nessuno dei due intermedi è un gran narratore. Sa che c'è un solamniano che studia da mago e che è amico di Ispin.
+
+#### Il tema del gruppo — quattro nomi non registrati
+
+Non è una regola né un segreto: è la cosa che questi quattro hanno in comune, e conviene averla presente perché torna da sola in quasi ogni scena.
+
+- **Razak** ha un nome ricamato su un ritaglio di stoffa da qualcuno che non si è mai fatto vivo, e nessuna famiglia verificabile.
+- **Brynja** si addestra da nove anni in un Ordine il cui registro non la nomina.
+- **Garrick** ha lasciato cadere il cognome di casata e se n'è scelto uno da solo.
+- **Asurion** porta al collo l'unico documento che attesti chi sia, e il clan che potrebbe confermarlo è a Southern Ergoth.
+
+L'unico foglio al mondo in cui compaiono tutti e quattro insieme sono le lettere di Ispin — scritte male, senza date, da un uomo morto.
+
+**[NOTA DM — riservata]** Il filo nascosto (`campagna/contesto.md`, "Culto di Vecna") si regge su un'organizzazione che **archivia i nomi**, e Razak è l'unico del gruppo il cui nome è stato registrato *prima* che esistesse la persona. Il fatto che gli altri tre siano tutti, per ragioni diverse, gente che nessun registro nomina è materiale d'ambiente perfetto: non allude a niente, non va spiegato, e rende Razak meno isolato agli occhi del tavolo proprio mentre lo isola davvero.
 
 **[NOTA DM]** Il **quinto PG (druido)** non è ancora definito: va agganciato alla catena quando il personaggio sarà pronto. Basta un solo legame verso uno dei quattro perché il gruppo resti connesso.
+---
+
+### Regola di tavolo — il talento dell'8° livello *(decisa 2026-09-02)*
+
+`campagna/guida-giocatori.md` prevedeva un secondo talento bonus **al 4° livello**, scegliendo anche tra le specializzazioni istituzionali (Knight of the Crown/Rose/Sword, Adept of the Black/Red/White Robes). Per questo party quel timing non regge: al 4° livello **nessuno ha i requisiti di storia**.
+
+> **La regola: nessun PG prende il talento bonus al 4° livello. Ogni PG lo guadagna all'8°, nella scena che glielo fa meritare.**
+
+Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un talento in più, nessuno resta indietro rispetto agli altri, e il **livello 8 diventa la maggiore età del party**: il Cap. 6 (Sessioni 16-19) è il capitolo in cui ognuno diventa quello che sarà.
+
+| PG | La sua porta | Dove | Talento |
+|---|---|---|---|
+| **Garrick** | Il Test di Alta Stregoneria | **S17** — Demelin, Città dei Nomi Perduti | Adept of the Red / White / Black Robes, secondo la veste ottenuta |
+| **Brynja** | Il banco di prova solamnico | **S19** FASE 4 — Jandin, Tempio di Paladine | Knight of the Crown / of the Rose / of the Sword, secondo la risposta |
+| **Razak** | Lo stesso, **se sceglie di farsi avanti** | **S19** FASE 4 | Idem |
+| **Asurion** | **Duskwalker** — il selvatico che lo riconosce | **S19** FASE 1 — il boschetto sul terrapieno | **Sentinel** *(consigliato — vedi sotto; la lista resta aperta, la scelta è del giocatore)* |
+| **[PG 5 — druido]** | TBD | Deve cadere **tra S16 e S19** (livello 8) | TBD |
+
+**Perché Duskwalker è la porta di Asurion.** Non è un'istituzione, e non deve esserlo: Asurion è l'unico del gruppo che non vuole essere ammesso a niente. Duskwalker fa il guardiano di quei giardini da trecento anni e tratta chiunque ci passi da profanatore — tranne chi sia *«chiaramente un servitore della natura»* (fonte, riga 4952). Non è un'ammissione: è il selvatico che lo riconosce per quello che è già. E cade nella stessa sessione degli altri due, all'estremità opposta: la seduta **si apre** con il suo momento e **si chiude** con quello di Brynja e Razak.
+
+**Perché Sentinel.** Dalla lista disponibile è l'unico che rappresenta un *cambiamento* invece di una descrizione. *Mobile* è ciò che Asurion è già. *Divinely Favored* richiede un rapporto divino che non ha dichiarato (e Chislev è neutrale, non "un dio buono" come chiede il talento). **Sentinel** è la traduzione meccanica di *«ha smesso di essere uno che viene pagato per portare la gente attraverso il pericolo ed è diventato uno che ci si mette davanti»* — e si incastra col *Kagonesti Forest Shroud*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **Resta un consiglio, non un vincolo: il talento lo sceglie Seba.**
+
+**Il caso di riserva, per tutti.** Se un PG rifiuta la propria prova, la fallisce, o la scena non viene giocata, prende comunque all'8° livello un talento normale dalla lista. Nessuno resta indietro per un incidente di tavolo o per una scelta di interpretazione — e per Razak il rifiuto è un esito esplicitamente previsto.
+
+**[NOTA DM] Da dire ai giocatori prima del 4° livello, non dopo.** Il level-up al 4° non porterà il talento che la guida promette. Annunciato prima è una regola della campagna; scoperto dopo è una fregatura.
 
 ---
 
@@ -62,7 +142,7 @@ Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena
 
 ### Garrick Ashwatch
 **Giocatore:** [DA COMPILARE]  
-**Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, Vesti Bianche (apprendista, veste non ancora scelta)  
+**Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, apprendista di un maestro delle Vesti Bianche; **veste non ancora scelta** a inizio campagna. **[NOTA DM]** Atterraggio previsto: **Mantelli Rossi**, al Test di Alta Stregoneria in Sessione 17  
 **Background:** Mago di Alta Stregoneria — nato Firewatch, casata solamnica di guardiani delle torri di segnalazione sul confine orientale; diseredato a 19 anni per un incastro, riabilitato e preso come allievo da Aeliran Dawnhollow (Vesti Bianche, Torre di Wayreth). Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
 **Preludio (Cap. 2):** *(da assegnare)*  
 **Connessione a Ispin:** Ispin lo cercò a 16 anni per identificare un cimelio; tornò più volte, poi gli scrisse undici lettere in sette anni dopo il disonore, senza mai accennarvi  

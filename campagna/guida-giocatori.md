@@ -136,7 +136,11 @@ Se qualcuno al tavolo desidera giocare una razza non originaria di Krynn — dra
 In questa campagna, **qualsiasi background scegliate** (uno di quelli nuovi qui sotto, oppure uno del *Player's Handbook* o di un'altra fonte), ottenete due talenti bonus legati all'esperienza della guerra:
 
 - **Al 1° livello:** se scegliete il background Cavaliere di Solamnia o Mago di Alta Stregoneria, ottenete il talento specifico previsto da quel background. Altrimenti, scegliete un talento bonus tra **Skilled** o **Tough** (*Player's Handbook*).
-- **Al 4° livello:** ottenete un ulteriore talento bonus, scelto dalla lista sopra oppure tra: **Adept of the Black/Red/White Robes**, **Alert**, **Divinely Favored**, **Knight of the Crown/Rose/Sword**, **Mobile**, **Sentinel**, **War Caster** — a prescindere dal background scelto, purché ne rispettiate i prerequisiti.
+- **All'8° livello, non al 4°:** il secondo talento bonus **non si prende avanzando di livello**. Si **guadagna in gioco**, all'8° livello, nella scena in cui il vostro personaggio diventa quello che sarà — il Test di Alta Stregoneria per chi aspira alle Vesti, il banco di prova per chi si addestra alla cavalleria, e l'equivalente per chiunque altro. Si sceglie dalla lista sopra oppure tra: **Adept of the Black/Red/White Robes**, **Alert**, **Divinely Favored**, **Knight of the Crown/Rose/Sword**, **Mobile**, **Sentinel**, **War Caster** — purché ne rispettiate i prerequisiti.
+
+> **Perché.** Quasi tutti i talenti di quella lista rappresentano un **traguardo**, non un allenamento: una veste, un Ordine cavalleresco, il favore di un dio. Al 4° livello nessuno di voi lo ha ancora raggiunto. Aspettando l'8° il talento arriva quando la storia se l'è guadagnato, invece di comparire sulla scheda a un level-up. Vale **per tutti allo stesso modo**: nessuno è avvantaggiato e nessuno resta indietro.
+>
+> **Se la scena non arriva** — la rifiutate, la fallite, o semplicemente non si presenta — all'8° livello prendete comunque un talento normale dalla lista. Nessuno perde niente per un incidente di percorso o per una scelta di interpretazione.
 
 ### Cavaliere di Solamnia
 

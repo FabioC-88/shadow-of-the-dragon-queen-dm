@@ -53,6 +53,8 @@ Gli originali dei registri furono tutti recuperati, ma la copia che Ilyana aveva
 
 Aeliran propose a Garrick di studiare con lui, e Garrick accettò perché non aveva altro da fare. La stessa capacità che sapeva usare da sempre — tenere in testa duecento nomi e vedere dove si incrociano — è esattamente ciò che serve a un divinatore: recuperò in fretta il ritardo sugli allievi entrati anni prima di lui. Sulla veste che sceglierà non si è ancora pronunciato: il bianco del maestro non gli è mai sembrato un posto dove si possa sbagliare; del nero sa cosa gli ha fatto Ilyana; se lo mettono alle strette dice che il rosso è quello che sente di più, "ma non è una cosa che spetta a lui decidere".
 
+**[NOTA DM — riservata] La veste — decisa 2026-09-02.** All'inizio della campagna Garrick **non ha veste**: è un apprendista e la scelta è aperta, ed è giusto che al tavolo resti tale. Lato DM però l'atterraggio è deciso: **Mantelli Rossi** (Lunitari), guadagnati al **Test di Alta Stregoneria** in **Sessione 17**, somministrato da Demelin nella Città dei Nomi Perduti. La prova è scritta su misura per lui — vedi `campagna/sessioni/dm-notes-sessione-17.md`, sezione "Il Test, versione per **Garrick Ashwatch**": la Casa dei Registri di Onyari, il foglio con la sua calligrafia, e la scelta tra gli archivisti, la folla e il registro. **Gli altri due esiti restano vivi e non vanno pilotati** — se il giocatore sceglie Bianco o Nero, quello è il risultato.
+
 **Oggi**, sul suo tavolo ci sono due lettere: l'invito al funerale di Ispin Greenshield a Vogler, e la notizia che il suo apprendistato è considerato concluso — è atteso alla prova, sotto le tre lune allineate (il **Test di Alta Stregoneria**).
 
 ---
@@ -90,6 +92,8 @@ Poi Garrick finì sotto processo, e Ispin fu l'unico a continuare a scrivere: **
 - [ ] Nome del giocatore compilato in cima al file e in `campagna/party.md`
 - [ ] Confermata la classe (Mago è l'ipotesi di lavoro — verificare col giocatore)
 - [ ] Assegnato un Preludio di Cap. 2 coerente col background arcano
-- [ ] Deciso se e quando si gioca il Test di Alta Stregoneria (la seconda lettera sul tavolo) — prima o dopo l'arrivo del party a Vogler?
+- [x] **Test di Alta Stregoneria — DECISO (2026-09-02).** Si gioca in **Sessione 17** (Cap. 6, livello 8), somministrato da **Demelin**; versione personalizzata scritta in `campagna/sessioni/dm-notes-sessione-17.md`. Atterraggio previsto: **Mantelli Rossi**. La seconda lettera sul tavolo a inizio campagna resta quindi una convocazione che Garrick rimanda per venti sessioni — e la prova finisce per arrivargli addosso in una città morta invece che a Wayreth.
+- [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Garrick è il **Test di Alta Stregoneria in Sessione 17**, e il talento è l'**Adept of the Red/White/Black Robes** corrispondente alla veste. Regola canonica in `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello"
+- [ ] Confermato col tavolo il caso di rifiuto/fallimento del Test (proposta: talento bonus normale dalla lista in quel momento)
 - [ ] Deciso lo stato attuale di Alenne Firewatch (scudiera avanzata o già cavaliera) — rilevante anche per l'eventuale legame con Brynja Daewar
 - [ ] Deciso se riprendere il gancio del "foglio mancante" nel Cap. 3-4

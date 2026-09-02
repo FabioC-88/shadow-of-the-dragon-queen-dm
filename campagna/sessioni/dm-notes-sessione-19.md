@@ -115,6 +115,22 @@ Masso. Attacco a distanza con arma: +10 al colpire, gittata 18/54 m. Colpito: 28
 Animare Alberi (1/giorno). Duskwalker anima magicamente fino a due alberi che riesce a vedere entro 18 m, con effetto simile all'incantesimo animare oggetti. Ogni albero animato usa le statistiche di Duskwalker, ma non ha l'azione Multiattacco (un solo Colpo per turno) né l'azione Animare Alberi. Un albero animato ha velocità 9 m e resta animato per 1 ora o finché ridotto a 0 PF, dopo di che ridiventa un albero comune.
 ```
 
+#### La porta di **Asurion Loech** — il riconoscimento del selvatico
+
+*[NOTA DM — riservata] **Questa è la scena dell'8° livello di Asurion**, esattamente come il banco di prova in FASE 4 è quella di Brynja e Razak (`campagna/party.md`, "Regola di tavolo — il talento dell'8° livello"). Non serve scrivere niente di nuovo: l'incontro è già così.*
+
+Asurion è l'unico del gruppo che **non vuole essere ammesso a niente** — nessun Ordine, nessuna torre, nessun registro. La sua porta quindi non può essere un'istituzione, ed è per questo che Duskwalker funziona: un treant che fa il guardiano di questi giardini da trecento anni, che tratta chiunque ci passi da profanatore, e che davanti a lui **non lo fa**. Non è un'ammissione. È il selvatico che lo riconosce per quello che è già.
+
+**Come giocarla.** Nessuna scena aggiuntiva e nessun discorso: la fonte prevede già che Duskwalker lasci passare chi mostra un simbolo di divinità naturale **o sia comunque chiaramente un servitore della natura**. Un Kagonesti che ha attraversato le terre selvagge di mezza Solamnia per mestiere rientra nella seconda clausola anche senza simbolo — decidi tu se richiedere che dichiari una devozione (Chislev, proposta ma non confermata sulla sua scheda) o se lasciare che basti quello che è.
+
+Se vuoi una sola riga per marcare il momento, è questa — detta a lui e non al gruppo:
+
+> *"Tu no. Tu cammini come uno che ha imparato dove mettere i piedi, non come uno che passa."*
+
+**Il talento.** Asurion guadagna qui il suo talento dell'8° livello. **Consigliato: Sentinel** — è l'unico della lista che rappresenti un cambiamento e non una descrizione (*Mobile* è ciò che è già), e si incastra col *Kagonesti Forest Shroud*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **La scelta però è di Seba**, dalla lista in `campagna/guida-giocatori.md`.
+
+*[NOTA DM] Se il party sceglie di combattere Duskwalker, o se Asurion non è presente, prende comunque all'8° livello un talento normale dalla lista. Nessuno resta indietro per un incidente di tavolo.*
+
 *[NOTA DM — riservata] **Incontro pensato per essere evitabile.** La fonte è esplicita: Duskwalker attacca solo se nessun personaggio mostra un simbolo di una divinità della natura o un'affiliazione druidica — altrimenti lascia passare il gruppo senza combattimento, e persino recupera il bottino dai rami per loro. Se il party non ha un simbolo adatto, la CD 20 Persuasione è alta ma non proibitiva per negoziare comunque: Duskwalker non è malvagio, solo amareggiato e diffidente. **Se lo scontro degenera in combattimento aperto**, ricorda che GS 9 con due alberi animati aggiuntivi (altri due attacchi Colpo a testa) può facilmente diventare un incontro Mortale per un party di Livello 8 — usa la voce di Duskwalker (la frase sui "profanatori") per segnalare chiaramente che è disposto a fermarsi se i personaggi si ritirano o promettono di non toccare gli alberi.*
 
 ---
@@ -284,6 +300,96 @@ Qualunque personaggio con il talento Divinamente Favorito (dal Capitolo 1) ricon
 
 Un momento dopo, un'ondata di luce attraversa il tempio, guarendo ogni creatura presente come per l'incantesimo *guarigione*. Se qualche personaggio è morto durante questo capitolo, torna immediatamente in vita come per l'incantesimo *vera resurrezione*, con il corpo che appare al Coro se non era già presente. La luce poi svanisce.
 
+### Scena Opzionale — Il Banco di Prova Solamnico *(Brynja, Razak)*
+
+*~20 minuti · Si innesta sulla riforgiatura, non è un blocco a sé*
+
+*[NOTA DM — riservata] **Perché qui e non altrove.** È la controparte solamnica del **Test di Alta Stregoneria** di Demelin (Sessione 17): stesso capitolo, stesso livello, ma alle due estremità — il mago apre il Cap. 6, i cavalieri lo chiudono. Ed è l'unico posto della campagna dove esistono contemporaneamente **l'autorità dell'Ordine** (Jandin), **il patrono dell'Ordine della Rosa** (Paladine, che ha appena parlato in questa stanza) e **l'oggetto** su cui tutto il filo si regge (la lancia di Sarlamir). Non serve inventare un consiglio: la stanza è già il tribunale.*
+
+> ⚠️ **S19 è già densa** — quattro sfide pericolose e il gate del Livello 9. Questa scena **cavalca** la riforgiatura e non si prende un blocco proprio. Se la sessione è lunga, tagliala: non perdi niente, perché l'aggancio regge identico in Sessione 20.
+
+#### Trigger
+
+Dopo BT-08 (la voce di Paladine) e dopo l'ondata di guarigione, **prima** che qualcuno raccolga la lancia riforgiata.
+
+#### Chi arriva
+
+**Knight Jandin** — lo spirito inginocchiato delle catacombe sotto Castle Kalaman (Sessione 08, FASE 3). Cavaliere di Solamnia. Viaggiò con Sarlamir fino alla città volante del Principe dei Sacerdoti. **Quando ne riportò il corpo a Kalaman, mentì**: riferì che Sarlamir era morto difendendo la gente dai draghi, e Sarlamir fu sepolto con onore. Se ne pente da trecento anni e si considera complice del Cataclisma. Fu lei a chiedere al party di prendere la lancia perché trovasse redenzione.
+
+**Perché è qui.** Onyari *è* la città volante caduta: il luogo del disonore di Sarlamir, e il suo. Non serve giustificare il suo arrivo — arriva **perché la lancia è stata riforgiata**, cioè perché la cosa che aveva chiesto trecento anni fa è appena successa.
+
+### Testo — La Testimone [BT-08b]
+
+> L'acqua nella navata smette di muoversi. Non si placa: si **ferma**, come una superficie di vetro verde, e sopra i gradini asciutti prende forma una donna in armatura solamnica, inginocchiata come l'avete già vista una volta, sotto un castello, a mille miglia da qui.
+>
+> Si alza. È la prima volta.
+>
+> *"L'ultima volta che sono stata in questa città l'ho vista cadere. L'ultima volta che ho scritto un rapporto, ho mentito."* Guarda la lancia sull'altare, e la luce argentea le passa attraverso. *"Trecento anni per la prima metà. Adesso ho intenzione di sistemare la seconda."*
+
+#### Cosa offre, e con che autorità
+
+Jandin **non investe nessuno** — ed è importante che sia chiaro al tavolo, perché è ciò che rende la scena solida invece che arbitraria. Lei è la **testimone**. Chi giudica è l'altare, in una stanza dove un dio ha parlato dieci minuti fa; il ruolo di Jandin è quello che tradì una volta: **redigere un rapporto vero**.
+
+Se al gruppo appartengono **scudieri solamnici mai riconosciuti** — Brynja Daewar e, se sceglie di farsi avanti, Razak Kendall — Jandin lo vede da sé. Non chiede credenziali: chiede da quanto aspettano.
+
+*[NOTA DM] **La Misura.** Nel 351 AC la Misura in 37 volumi riserva formalmente l'addestramento a chi è nato umano, nobile e in Solamnia — è la spina dorsale del problema di Brynja (`fonti/personaggi/Brynja-Daewar.md`) e, per una clausola diversa, anche di Razak (nessuna casata, nessun cognome verificabile). Jandin è morta al Cataclisma: **la Misura che conosceva lei aveva meno volumi**. Non è un cavillo che si inventa lei, è che quelle righe per lei non esistono ancora. Se un giocatore la mette in dubbio, Jandin non discute — dice che di regolamenti ne ha già piegato uno, e che l'ha fatto per proteggere un uomo che non lo meritava.*
+
+#### La prova — una domanda sola
+
+Niente combattimento, niente tiri. Jandin pone a ciascun candidato **la sua stessa domanda**, quella che ha fallito:
+
+> *"Ho mentito per proteggere il nome di un uomo che aveva disobbedito, e il mondo è finito comunque. Ditemi voi: avrei dovuto dire la verità e distruggerlo?"*
+
+Non esiste una risposta giusta. Esiste **cosa la risposta rivela**, e da lì l'Ordine:
+
+| Se la risposta suona come... | Virtù | Ordine |
+|---|---|---|
+| *«Il tuo dovere era riferire i fatti. Non spettava a te decidere cosa il mondo poteva sopportare.»* | Lealtà, obbedienza, servizio | **Corona** *(Habbakuk)* |
+| *«Dovevi dire la verità, e poi restare lì accanto a lui a portarne il peso.»* | Coraggio, fede, difesa di chi non ha difesa | **Spada** *(Kiri-Jolith)* |
+| *«Dipende da cosa quella verità avrebbe fatto ai vivi, e questo dovevi pesarlo tu.»* | Saggezza, giudizio, comando | **Rosa** *(Paladine)* |
+
+*[NOTA DM — riservata] **Come condurla.** Non leggere la tabella e non far scegliere da un elenco: lascia rispondere il giocatore con parole sue e classifica tu dopo, a voce alta, come Jandin. Se una risposta sta a metà tra due Ordini, chiedi una seconda domanda breve — «e se l'uomo fosse stato tuo padre?» — e decidi su quella. Se una risposta non assomiglia a nessuna delle tre, prendila sul serio: la fonte del Test di Alta Stregoneria (S17) dà l'indicazione giusta anche qui — chiedi al giocatore come la concilia con i valori del suo personaggio, e assegna di conseguenza.*
+
+**Su Brynja.** La **Spada** è l'atterraggio ovvio: nove anni con un Cavaliere della Spada devoto a Kiri-Jolith, e una chierica di Mishakal. **Non pilotarlo.** La **Corona** — lealtà e obbedienza all'Ordine sopra la persona — sarebbe l'esito più interessante e più discutibile, perché è l'Ordine dell'istituzione che per nove anni non l'ha registrata. Se ci arriva da sola, non salvarla.
+
+**Su Razak.** Non sta cercando questo, non l'ha mai cercato, e **rifiutare è un esito legittimo e completo** — un monaco di Majere che declina la cavalleria non ha fallito niente. Se invece si fa avanti, la sua posizione è simmetrica a quella di Brynja e diversa: lei è esclusa perché non è umana, lui perché non è nobile e non ha un nome che qualcuno possa verificare. Due esclusi per due righe diverse dello stesso regolamento, nella stessa stanza, solo perché c'è una guerra.
+
+#### Se Garrick è presente
+
+Garrick è l'unica persona viva del gruppo ad aver cercato **precedenti storici** per il caso di Brynja davanti al Consiglio dei Cavalieri, nove anni fa, e ne trovò **uno solo**: nel **198 AC** il Consiglio ammise all'addestramento due scudieri non nobili e non solamniani, perché una guerra di confine aveva lasciato l'Ordine senza uomini (vedi `campagna/party.md`, "Brynja ↔ Garrick").
+
+Jandin quel precedente **non può conoscerlo** — è morta duecento anni prima che esistesse. Serve a un'altra cosa, e non stasera: è ciò che potrà rendere questa investitura **difendibile davanti all'Ordine dei vivi**, quando il party tornerà a Kalaman.
+
+*[NOTA DM — riservata] **Offerta, non copione.** Non far parlare Garrick tu, e non pretendere che il giocatore si ricordi di una nota di background di nove anni fa in-fiction. Se non succede niente, non succede niente e la scena funziona identica. Se invece il giocatore tira fuori il precedente da solo, dagliene atto: è il momento in cui l'unico legame diretto tra due PG che non si vedevano da nove anni produce qualcosa in tavola.*
+
+#### Meccanica
+
+Chi riceve l'Ordine ottiene il talento **Knight of the Crown / of the Rose / of the Sword** corrispondente.
+
+✅ **Regola di tavolo** (canonica in `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello"). In questa campagna **nessun PG prende il talento bonus al 4° livello**: ognuno lo guadagna all'8°, nella scena che glielo fa meritare. Per Brynja e Razak la scena è questa, e il talento **Knight of the Crown / of the Rose / of the Sword** arriva **qui**, secondo l'Ordine assegnato dalla risposta.
+
+*[NOTA DM] Se un candidato **rifiuta o fallisce** — per Razak è un esito esplicitamente previsto — prende comunque all'8° livello un talento normale dalla lista di `campagna/guida-giocatori.md`. Nessuno viene punito meccanicamente per una scelta di interpretazione.*
+
+⚠️ **In questa stessa sessione anche Asurion ha la sua porta**, ma in FASE 1 (Duskwalker) — vedi lì. La seduta apre con il suo momento e chiude con questo.
+
+#### Come chiude
+
+### Testo — Il Rapporto [BT-08c]
+
+> Jandin non vi tocca, non vi benedice e non vi consegna niente: non ha mani per farlo. Guarda l'altare, poi voi, e dice il nome dell'Ordine ad alta voce — una volta sola, come si legge una riga a verbale.
+>
+> *"Sarà scritto così. Da me."*
+>
+> Poi si inginocchia di nuovo, ma stavolta non davanti a una tomba.
+
+**Tre cose che restano aperte, e che decidi tu più avanti:**
+
+1. **L'Ordine dei vivi lo riconosce?** Un'investitura testimoniata da uno spirito, in una città morta, senza registri. A Kalaman qualcuno la contesterà — e per Brynja sarebbe la terza volta che riceve qualcosa che non è del tutto ufficiale. Il precedente del 198 AC è la difesa; il Cap. 7 è l'aula.
+2. **Che ne è di Jandin.** La fonte non la richiama mai dopo la Sessione 08. Puoi lasciarla svanire qui per sempre, oppure tenerla per la Sessione 27, dove la lancia di Sarlamir trova il suo bersaglio: sarebbe la chiusura completa del suo arco.
+3. **Roderick.** Brynja ha aspettato nove anni un banco di prova che il suo mentore le aveva promesso, e l'ha ottenuto senza di lui, da una morta, in una città che non esiste sulle carte. Come la prende è materiale per quando Roderick ricompare.
+
+---
+
 ### Avanzamento di Personaggio
 
 Una volta riforgiata la *dragonlance* al Tempio di Paladine, e con l'esplorazione del posto di comando nella Magione Occupata già completata (Sessione 18), **i personaggi avanzano al Livello 9.**
@@ -302,6 +408,8 @@ Una volta riforgiata la *dragonlance* al Tempio di Paladine, e con l'esplorazion
 
 | Preludio | Hook in Sessione 19 |
 |----------|---------------------|
+| **ASURION LOECH** — il riconoscimento di Duskwalker | ⚠️ **La sua scena dell'8° livello**, in FASE 1 (P2). Duskwalker lascia passare chi è "chiaramente un servitore della natura": Asurion lo è senza doverlo dimostrare a nessuno. È l'opposto esatto di ciò che accade a Brynja e Razak in FASE 4 — nessuna istituzione, nessun giudizio, solo un riconoscimento. Talento consigliato: **Sentinel**. |
+| **BRYNJA + RAZAK** — il banco di prova solamnico | ⚠️ **Sessione chiave.** Vedi FASE 4, "Scena Opzionale — Il Banco di Prova Solamnico": Knight Jandin, una domanda sola, e l'assegnazione dell'Ordine (Corona/Spada/Rosa). Per Brynja chiude nove anni di attesa; per Razak è una porta aperta che può anche non attraversare. Leggila prima della sessione. |
 | **Broken Silence** (PG con connessione divina) | Questa è probabilmente la sessione più rilevante finora per questo hook: Paladine parla **direttamente** ai personaggi (FASE 4, BT-08) per la prima volta nella campagna, non tramite presagi o intermediari. Per un PG con connessione divina propria, questo è il momento per una riflessione diretta sul proprio rapporto con gli dèi — la voce che ha condannato Sarlamir per il suo fallimento è la stessa che ora offre una seconda possibilità. Se il PG ha il talento Divinamente Favorito, lascialo riconoscere esplicitamente la voce come quella di Paladine prima che tu lo riveli al tavolo. |
 | **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Nessun hook diretto in questa sessione — il Tempio di Paladine è un luogo di fede divina, non di magia arcana. Se il PG ha sostenuto il Test di Alta Stregoneria in Sessione 17, questo è un buon momento per un contrasto silenzioso: la certezza granitica della fede di Paladine contro l'ambiguità morale dell'Ordine dei Mantelli. Nessuna meccanica richiesta. |
 | **Scales of War** (tutti) | **Duskwalker** (P2) offre un parallelo diretto al tema del preludio: una creatura antica e non del tutto malvagia, spinta all'ostilità dalla guerra e dall'invasione, non dalla propria natura. Negoziare con lui invece di combatterlo è una piccola ma concreta dichiarazione di valori — lo stesso principio alla base delle riflessioni su draghi e draconiani già emerse in Sessioni 17–18. |
@@ -333,6 +441,7 @@ Una volta riforgiata la *dragonlance* al Tempio di Paladine, e con l'esplorazion
 
 - [ ] FASE 0 (transizione verso il quartiere allagato): incontro casuale pescato dalle tabelle? Sì / No, quale: ____________
 - [ ] P2 (Duskwalker): negoziato (CD 20 Persuasione o simbolo di natura) o combattuto? ____________ — esito: ____________
+- [ ] Talento dell'8° livello assegnato: Asurion ____________ · Brynja ____________ · Razak ____________ (o riserva dalla lista)
 - [ ] P2 (bottino dai corpi nei rami): recuperato? Sì / No
 - [ ] P3 (Jamir): sorpresa evitata (Percezione 16+)? Sì / No — combattuto? Sì / No — fuggito a ≤20 PF? Sì / No
 - [ ] P4 (fosse nascoste): qualcuno è caduto? Sì / No — mummie emerse? Sì / No — combattute o allontanate con simbolo di Paladine? ____________
@@ -374,6 +483,8 @@ Una volta riforgiata la *dragonlance* al Tempio di Paladine, e con l'esplorazion
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — **avanzamento a Livello 9** per tutto il party; registra gli XP di combattimento assegnati (fino a ~16.800, variabile in base agli scontri evitati)
+- [ ] `campagna/png-incontrati.md` — **se la scena è stata giocata**: aggiungi **Knight Jandin** (secondo incontro dopo la Sessione 08; decidi se svanisce qui o resta disponibile per la Sessione 27)
+- [ ] `fonti/personaggi/Brynja-Daewar.md` / `Razak-Kendall.md` — registra l'Ordine assegnato, il talento ottenuto, e se l'investitura verrà contestata a Kalaman nel Cap. 7
 - [ ] `campagna/png-incontrati.md` — aggiungi **Duskwalker** (treant guardiano, esito della negoziazione/scontro) e **Jamir** (marid, sconfitto o fuggito) come nuovi PNG del Cap. 6; **Demelin** ancora da correggere da "spirito/costrutto" a "elfa arcimaga vivente" (TODO ereditato dalle Sessioni 17–18, ancora irrisolto)
 - [ ] `campagna/rapporti.md` — completa "Capitolo 05 (City of Lost Names — Cap 6 libro)" con l'esito del Tempio di Paladine (Duskwalker negoziato/combattuto, Jamir sconfitto/fuggito, riforgiatura della lancia, eventuali resurrezioni)
 - [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti (invariato)
