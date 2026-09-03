@@ -6,9 +6,10 @@
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
 - **Party:** 4 PG definiti + 1 in arrivo. In `campagna/party.md`: **Razak Kendall** (umano, monaco dell'Ordine di Majere), **Garrick Ashwatch** (umano, mago di Alta Stregoneria — classe da confermare), **Brynja Daewar** (nana, chierico di Mishakal), **Asurion Loech** (elfo silvano Kagonesti, barbaro). Il **quinto PG** sarà un **druido**, non ancora caratterizzato. Schede complete in `fonti/personaggi/`
-- **Stato:** In fase di preparazione
+- **Stato:** **Campagna non ancora iniziata al tavolo — nessuna sessione giocata.** Le sessioni sono state preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`); tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" altrove in questo file descrivono la **preparazione**, non la partita reale
 - **Durata Media Sessioni:** 2,5 ore
-- **Capitolo corrente:** 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; Cap. 6 concluso con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10)
+- **Livello attuale del party (al tavolo):** 1 — la campagna deve ancora partire
+- **Preparazione arrivata a:** Capitolo 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; il materiale prevede la conclusione del Cap. 6 con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10 — ma questo **non è ancora successo in gioco**)
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
