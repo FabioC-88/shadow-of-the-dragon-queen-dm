@@ -130,9 +130,13 @@ Già fissata in `campagna/party.md`, qui espansa.
 
 *L'episodio.* Una volta, sotto un acquazzone, il ragazzo arrivò con un messaggio ormai illeggibile — l'inchiostro colato via. Restò lì con il foglio in mano, incapace di chiedere aiuto e incapace di tornare indietro con niente. Corin gli prese il foglio, lo guardò, lo mise ad asciugare su una pietra, poi si sedette accanto ad aspettare. Ci vollero due ore e il messaggio restò illeggibile lo stesso. Nessuno dei due disse una parola per tutto il tempo, e quando la pioggia smise Razak se ne andò con il foglio rovinato. **È la conversazione più lunga che i due abbiano mai avuto.**
 
+> **[NOTA DM]** **Razak non conosce il suo nome.** Per lui, come per i pastori dell'altopiano, è "quello della Pozza" — e non sapeva nemmeno che avesse a che fare con Ispin. Al Brass Crab scopre le due cose insieme, ed è un momento che si gioca da solo: basta far dire il nome a qualcun altro e guardare Razak.
+
 **Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi niente. Si scambiano notizie pratiche da anni — un guado spostato, un branco più audace del solito, un gruppo armato visto a nord — con la sobrietà di chi non ha bisogno di dichiararsi il rispetto. Asurion non ha mai portato un committente alla Pozza: non per un divieto, ma perché *"quella non è una strada"*, e per un uomo che vive di strade è una definizione sufficiente.
 
 **Il non-detto.** Nessuno dei tre ha mai parlato di divinità. Razak non sa che Corin serva qualcuno di preciso — e fino a pochi giorni fa non lo sapeva nemmeno Corin. Asurion non ha mai chiesto.
+
+**Con Garrick: niente.** Corin non sa che esista, e nel suo BG per il giocatore non compare — nemmeno per dire che non lo conosce. Garrick, dalle undici lettere di Ispin, sa di "un tale che sta in un bosco e rimette a posto le zampe alle bestie", ed è l'unico dei quattro a cui Ispin non abbia mai dato un nome, nemmeno storpiato: solo "quello della Pozza". Nessuno dei due, al funerale, ha un nome dell'altro.
 
 ---
 
