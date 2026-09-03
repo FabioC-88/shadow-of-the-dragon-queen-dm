@@ -50,10 +50,11 @@ Sono qui da più tempo di quanto mi fermi di solito. Se me lo chiedessero direi 
 
 ## Gli altri
 
-Di quelli che troverò al funerale conosco bene solo **Razak Kendall**. Ci siamo incrociati per anni al tavolo di Ispin, al Brass Crab di Vogler. Lui non parlava, io parlo poco, e a Ispin stava benissimo così, perché voleva parlare lui. Non abbiamo mai avuto bisogno di dirci molto. Giudico le persone da come si muovono, non da quello che raccontano, e Razak si muove bene: non spreca gesti e non fa rumore. Mi è sempre bastato. Non so dove sia cresciuto, né perché a un certo punto sia diventato lo scudiero di una cavaliera, e non gliel'ho mai chiesto. Non era diffidenza, né sua né mia. Con Ispin al tavolo quelle domande non venivano fuori. 
+Negli anni Ispin mi ha parlato di diversi suoi amici magari alcuni li incontrerò al funerale.
+Di questi conosco bene **Razak** e **Corin**. 
 
-C'è poi il custode della Pozza, Corin, che sugli altipiani chiamano tutti "quello della Pozza". Ci scambiamo notizie da anni, un guado che si è spostato, un branco più audace del solito, uomini armati visti a nord, e non ci siamo mai pestati i piedi, cosa che tra due che lavorano sullo stesso terreno non succede spesso.
+Con il pirmo ci siamo incrociati per anni al tavolo di Ispin, al Brass Crab di Vogler. Lui non parlava, io parlo poco, e a Ispin stava benissimo così, perché voleva parlare lui. Non abbiamo mai avuto bisogno di dirci molto. Giudico le persone da come si muovono, non da quello che raccontano, e Razak si muove bene: non spreca gesti e non fa rumore. Mi è sempre bastato. Non so dove sia cresciuto, né perché a un certo punto sia diventato lo scudiero di una cavaliera, e non gliel'ho mai chiesto. Non era diffidenza, né sua né mia. Con Ispin al tavolo quelle domande non venivano fuori. 
 
-Di **Brynja Daewar** so quello che raccontava Ispin, e Ispin esagerava. Nella sua versione la nana aveva portato fuori quattro bambini da una casa in fiamme e teneva una linea meglio della metà dei cavalieri che aveva conosciuto. Mi aspetto qualcuno molto più grosso di quanto probabilmente sia.
+Con Corin invece, che sugli altipiani chiamano tutti "il custode della Pozza", Ci scambiamo notizie da anni, un guado che si è spostato, un branco più audace del solito, uomini armati visti a nord, e non ci siamo mai pestati i piedi, cosa che tra due che lavorano sullo stesso terreno non succede spesso, non so i dettagli di come lui e Ispin si consocessero ma diverse volte parlando con uno o con l`latro i rispettivi nomi sono saltati fuori.
 
-Di **Garrick Ashwatch** non so quasi niente. Un solamniano che studia da mago ed era amico di Ispin. Nessuno me ne ha mai detto di più.
+Ispin mi ha parlato spesso anche di **Brynja Daewar**. Nella sua versione la nana aveva portato fuori quattro bambini da una casa in fiamme e teneva una linea meglio della metà dei cavalieri che aveva conosciuto. E una sacerdotessa nana che ancora venera uno dei vecchi dei e a quanto pare sembra voglia entrare a far parte dei Cavalieri di Solamnia. non ho mai visto un cavaliere non umano e mi chiedo se riuscirà mai nella sua impresa.
