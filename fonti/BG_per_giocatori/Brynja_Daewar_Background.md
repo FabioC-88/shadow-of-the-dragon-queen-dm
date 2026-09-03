@@ -39,3 +39,22 @@ Da qualche mese Brynja e Roderick si sono separati. Lei aveva un impegno da chiu
 La lettera l'ha raggiunta lì. Ispin Greenshield è morto, e i suoi amici lo salutano a Vogler alla vigilia della Festa del Martin Pescatore.  
 Brynja è rimasta a lungo senza dire niente per il fatto banale che non le era mai venuto in mente che potesse succedere. Ispin era uno che compariva sulla strada. Compariva e basta, e adesso non comparirà più.  
 Ha preso la strada per l'Hinterlund il giorno dopo. Porta con sé lo scudo, il mantello che nessun registro le riconosce, e una cosa che Ispin le aveva detto anni prima: che un cavaliere non è quello che cerca la gloria, è quello che si presenta. È la prima volta in nove anni che si mette in cammino senza che nessuno l'abbia convocata.  
+
+## Gli altri
+
+Razak Kendall lo conosco da quando eravamo entrambi scudieri. Becklin Uth Viharin lo aveva preso senza chiedergli di che famiglia fosse, che è più o meno quello che Roderick ha fatto con me, e nei quattro anni in cui è stato a Thornwall Keep ci siamo trovati parecchie volte fuori dalla stessa porta, ad aspettare che i nostri maestri finissero di parlare. Che fossimo la stessa eccezione fatta due volte non ce lo siamo mai detto. Non è il tipo, e non lo sono nemmeno io.
+
+Una di quelle attese, sotto la gronda, con la pioggia, gli ho chiesto quanti volumi della Misura gli avessero fatto imparare, tanto per riempire il silenzio. Due, ha detto. Io quattro, ho risposto, e non me ne riguarda nessuno. Non ha replicato. È entrato da una porta di servizio e da quella è uscito, senza pretendere che gli aprissero la principale, e non gliene faccio una colpa: il titolo non l'ha mai chiesto. Quando arriverò a Vogler mi aspetto di trovarlo lì, ancora al servizio di Becklin.
+
+Asurion Loech non l'ho mai visto. Ne parlava Ispin: un Kagonesti che aveva seguito una banda di briganti per un mese intero per riprendersi un amuleto d'argento. Con Ispin conviene sempre togliere qualcosa dal conto, quindi non so quanto sia vero. So che fa la guida e che si fa pagare dalle pattuglie dei Cavalieri per portarle dove da sole si perderebbero. Nell'Ordine in cui mi addestro, per uno che lavora così c'è una parola, e non è gentile. Non la uso prima di averlo visto lavorare.
+
+Garrick Ashwatch è l'unico dei tre che ho conosciuto davvero, e sono nove anni che non lo vedo. Allora si firmava ancora Firewatch e aveva diciassette anni. Roderick era andato a cercare nell'archivio della sua casata dei precedenti da mettere davanti al Consiglio, qualcosa che desse una base al mio caso, e quel ragazzo ci ha passato settimane. Ha trovato un precedente solo, del 198, e non serviva: due scudieri non nobili ammessi perché una guerra di confine aveva lasciato l'Ordine senza uomini. Un'emergenza militare, non un'apertura. È venuto a dirmelo lui, di persona, invece di farlo dire a Roderick. Sono in pochi ad avermi detto una cosa così in faccia invece di girarci intorno per consolarmi.
+
+Poi ognuno per la sua strada. Due anni dopo Ispin mi ha detto di sfuggita che il ragazzo dei registri era stato diseredato per una faccenda di documenti e di una donna. Non mi ha dato i dettagli e non li ho chiesti: non eravamo più in contatto, e non era una cosa mia. Il funerale è la prima occasione da allora.
+
+## Le persone che conosco
+
+- **Sir Roderick Kar-Thas**, quello che chiamano l'Ostinato. Cavaliere della Spada, devoto a Kiri-Jolith. Mi addestra da nove anni contro la lettera della Misura, e per prendere me ha rifiutato in aula lo scudiero che gli avevano già assegnato. Ci siamo separati qualche mese fa, avevo un impegno mio da chiudere lontano dalla frontiera orientale, e ci eravamo dati appuntamento per dopo.
+- **Ispin Greenshield**, morto. Si è messo tra me e un goblin con quel suo scudo verde. Nei giorni dopo mi ha detto la frase da cui è venuto tutto il resto: che potevo scegliere chi proteggere, invece di continuare a chiedermi dove fosse il mio posto. È stato lui a mandarmi da Roderick.
+- **Grishnak Spezzapietra**, il goblin che guidava la banda. Il suo corpo non è mai stato trovato. Me lo sono chiesta ogni tanto per qualche anno, poi ho smesso.
+- **Becklin Uth Viharin**, Cavaliere della Corona, di stanza sopra Vogler. Non l'ho mai incontrata. Ispin ne parlava come si parla di una sorella difficile, quindi ci arrivo sapendo già chi è.

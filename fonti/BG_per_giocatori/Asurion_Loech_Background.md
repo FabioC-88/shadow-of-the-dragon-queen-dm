@@ -21,3 +21,19 @@ Nonostante gli anni passati lontano da casa, non ho mai smesso di considerarmi K
 Ora mi trovo nell'Hinterlund.
 
 Continuo a vivere più o meno come ho sempre fatto: viaggiando, facendo da guida quando trovo qualcuno disposto a pagarmi e fermandomi abbastanza a lungo in un posto da imparare a conoscerlo prima di ripartire.
+
+## Gli altri
+
+Di quelli che troverò al funerale conosco bene solo Razak Kendall. Ci siamo incrociati per anni al tavolo di Ispin, al Brass Crab di Vogler. Lui non parlava, io parlo poco, e a Ispin stava benissimo così, perché voleva parlare lui. Non abbiamo mai avuto bisogno di dirci molto. Giudico le persone da come si muovono, non da quello che raccontano, e Razak si muove bene: non spreca gesti e non fa rumore. Mi è sempre bastato. Non so dove sia cresciuto, né perché a un certo punto sia diventato lo scudiero di una cavaliera, e non gliel'ho mai chiesto. Non era diffidenza, né sua né mia. Con Ispin al tavolo quelle domande non venivano fuori. Adesso Ispin non c'è più.
+
+Un autunno raccontò per la terza volta la storia del mostro marino e sbagliò di nuovo il numero delle braccia. Io e Razak ci siamo guardati nello stesso momento e non abbiamo detto niente. Da quella sera ci chiamava i due sordi, e quando uno di noi entrava nella taverna annunciava a voce alta che era arrivato mezzo sordo.
+
+Di Brynja Daewar so quello che raccontava Ispin, e Ispin esagerava. Nella sua versione la nana aveva portato fuori quattro bambini da una casa in fiamme e teneva una linea meglio della metà dei cavalieri che aveva conosciuto. Mi aspetto qualcuno molto più grosso di quanto probabilmente sia.
+
+Di Garrick Ashwatch non so quasi niente. Un solamniano che studia da mago ed era amico di Ispin. Nessuno me ne ha mai detto di più.
+
+## Le persone che conosco
+
+- **Ispin Greenshield**, morto. Dei briganti mi avevano preso tutto, compreso l'amuleto del clan. Lui l'ha trovato e, invece di venderlo, si è messo a cercare il proprietario. Nessuno gliel'aveva chiesto. È uno dei pochi Solamniani a cui devo qualcosa.
+- **I briganti** che mi hanno derubato. Non ho mai saputo chi fossero e non li ho più incontrati.
+- **La mia comunità**, a Southern Ergoth. Ci tornerò. Non ancora.
