@@ -15,8 +15,8 @@
 | **Nome** | Asurion Loech |
 | **Popolo** | **Elfo Silvano — Kagonesti** di Southern Ergoth |
 | **Classe** | **Barbaro** — coerente con `campagna/guida-giocatori.md:185`: "la furia del barbaro si adatta bene a chi viene dai margini delle 'civiltà' di Ansalon... i Kagonesti più isolati che non hanno mai accettato le convenzioni delle città-foresta elfiche" |
-| **Background (regole 2024)** | **Guida** *(proposto)* — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo, talento d'origine **Magic Initiate (Druido)**. Nessun altro background del manuale copre "attraversare un territorio selvaggio senza perdersi" in modo così letterale; indipendente dalla classe, resta da confermare con Seba |
-| **Divinità** | Nessuna dichiarata. I Kagonesti isolati si legano più spesso a **Chislev**, dea della natura (`campagna/guida-giocatori.md:197`), ma il testo non lo conferma — lasciare aperto o proporre a Seba |
+| **Background (regole 2024)** | **Guida** — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo. Talento d'origine **cambiato da Magic Initiate (Druido) a Skilled** (deciso da Seba, 2026-09-03): Asurion non è un dabbler magico, è un Kagonesti puro — coerente con la lore (i Kagonesti isolati rifiutano la magia arcana/civile più degli altri elfi) e con **Path of the World Tree** come sottoclasse in arrivo, che porta il tema "natura" nel Barbaro per via di sottoclasse invece che di incantesimi |
+| **Divinità** | **Nessuna dichiarata — lasciata deliberatamente aperta.** Chislev non è più proposta per Asurion: il 5° PG (druido) userà quello spazio "dio/dea della natura", ed è meglio evitare la sovrapposizione. Se serve un aggancio divino per Asurion, va cercato altrove (spiriti ancestrali del clan, nessuna divinità dichiarata, o un patrono diverso da Chislev/Habbakuk) |
 | **Età** | *(da confermare — non indicata)* |
 | **Scena dell'8° livello** | **Duskwalker**, Sessione 19 FASE 1 — vedi `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello". È la sua porta: non un'istituzione che lo ammette, il selvatico che lo riconosce |
 | **Preludio (Cap. 2)** | Nessun preludio individuale si applica: Asurion non è né incantatore divino (Broken Silence) né aspirante Mago (Eye in the Sky). Resta naturalmente nel gruppo per **Scales of War** (Preludio 3, condiviso — vedi `campagna/sessioni/dm-notes-sessione-00.md`) |
@@ -96,8 +96,8 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 
 - [x] Classe confermata: **Barbaro**
 - [x] Specie confermata: **Elfo Silvano (Kagonesti)**
-- [ ] Confermato il background **Guida** (2024) e il talento d'origine **Magic Initiate (Druido)** che ne deriva
-- [ ] Confermata l'eventuale divinità (Chislev proposta, coerente con l'archetipo Kagonesti)
+- [x] Confermato il background **Guida** (2024) e il talento d'origine: **Skilled** (non più Magic Initiate Druido) — deciso da Seba, 2026-09-03
+- [ ] Divinità lasciata aperta — Chislev liberata per il 5° PG druido, da non riassegnare ad Asurion
 - [ ] Definita l'età
 - [ ] Deciso chi fossero i briganti e come l'amuleto sia arrivato a Ispin (vedi le tre letture proposte, o lasciarlo volutamente vago)
 - [ ] Deciso se Asurion ha già lavorato per uno dei Cavalieri già noti al party (Becklin, Darrett, Roderick) prima di Vogler
