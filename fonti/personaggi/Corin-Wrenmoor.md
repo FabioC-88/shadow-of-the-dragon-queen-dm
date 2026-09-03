@@ -3,6 +3,7 @@
 **Giocatore:** Gabri
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
+**BG per il giocatore:** `fonti/BG_per_giocatori/Corin_Wrenmoor_Background.md` — versione narrativa da consegnare a Gabri, senza note DM, senza il filo del Cap. 5 e **senza il nome del dio** (che il personaggio apprende solo nel preludio)
 
 > **Nota di metodo.** Il **nome è provvisorio** — "Corin Wrenmoor" è un segnaposto scelto per non lasciare il documento pieno di parentesi quadre: se Gabri ne preferisce un altro, si sostituisce ovunque con un find & replace e si rinomina il file. Tutto il resto è costruito per aderire alla fonte del modulo (`fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`), alla preparazione già esistente (Sessioni 01, 10, 11, 19) e alle altre quattro schede in questa cartella. Gli elementi inventati — la Pozza del Martin Pescatore, Maren Wrenmoor — sono marcati come tali e collocati nei vuoti che il modulo lascia aperti.
 >

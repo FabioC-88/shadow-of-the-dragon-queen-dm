@@ -4,7 +4,9 @@
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
 
-> **Nota di metodo.** Testo importato integralmente da `fonti/BG_per_giocatori/Asurion_Loech_Background.md` (fornito dal giocatore) il 2026-09-01. **Confermato da Fabio (2026-09-01): classe Barbaro; specie Elfo Silvano** — "Kagonesti" nel testo del giocatore è di per sé l'indicazione della specie, coerente con le regole 2024 (elfi con lignaggio Silvano: Fleet of Foot, Mask of the Wild) e con `campagna/guida-giocatori.md:102` ("Elfi dei Boschi Kagonesti... perlopiù a Ergoth Meridionale"). Restano da confermare solo background 2024, divinità ed età — vedi checklist in fondo.
+> **Nota di metodo.** Testo importato integralmente da `fonti/BG_per_giocatori/Asurion_Loech_Background.md` (fornito dal giocatore) il 2026-09-01.
+>
+> **Aggiornamento 2026-09-03 — BG per il giocatore ampliato.** `fonti/BG_per_giocatori/Asurion_Loech_Background.md` è stato esteso: **tutte le frasi di Seba sono rimaste verbatim**, con aggiunte marcate una per una in una tabella in fondo a quel file (sono tutte rimovibili tranne una). Le aggiunte che contano per il DM: (1) **il significato dell'amuleto** — i Kagonesti non hanno registri, quindi quell'oggetto è l'unica prova al mondo che Asurion sia di qualcuno, il che lo aggancia al tema "nomi non registrati" del gruppo; (2) **la regola "non ho mai portato nessuno gratis"**, contatore da rompere nel Cap. 3 (vedi "L'arco — da guida a battistrada"); (3) **il perché sia ancora nell'Hinterlund**, lasciato come domanda aperta anche al giocatore; (4) **il custode della Pozza** aggiunto alle sezioni "Gli altri" e "Le persone che conosco", che non lo nominavano perché il 5° PG non esisteva ancora. **Da far leggere a Seba con diritto di veto su ogni riga.** **Confermato da Fabio (2026-09-01): classe Barbaro; specie Elfo Silvano** — "Kagonesti" nel testo del giocatore è di per sé l'indicazione della specie, coerente con le regole 2024 (elfi con lignaggio Silvano: Fleet of Foot, Mask of the Wild) e con `campagna/guida-giocatori.md:102` ("Elfi dei Boschi Kagonesti... perlopiù a Ergoth Meridionale"). Restano da confermare solo background 2024, divinità ed età — vedi checklist in fondo.
 
 ---
 
@@ -40,7 +42,17 @@ Tra i suoi committenti figurano, non di rado, i **Cavalieri di Solamnia**, che r
 
 **[NOTA DM]** Questo è un aggancio pronto all'uso verso i Cavalieri già presenti nel party (Becklin Uth Viharin, Darrett Highwater, Sir Roderick Kar-Thas): Asurion potrebbe aver già lavorato per uno di loro, o per una pattuglia del loro comando, senza che nessuno dei due se ne sia mai accorto fino a Vogler.
 
+### La regola: non ha mai portato nessuno gratis
+
+*[Aggiunta 2026-09-03 al BG del giocatore — rimovibile, ma è il contatore dell'arco]*
+
+Una regola di mestiere che Asurion si è dato da giovane, "dopo una cosa che non racconta" *(volutamente vuota: la riempie Seba, o resta vuota per sempre)*. Non è avarizia: **chi non paga non ascolta, e chi non ascolta muore a metà strada** — e muore mentre lo stava portando lui. Il prezzo serve a stabilire che il committente ha comprato il suo giudizio, non la sua compagnia.
+
+**[NOTA DM]** Il Cap. 3 è l'evacuazione di un villaggio in fiamme. È la prima volta che la regola salta, e da lì non viene più rimessa a posto: vedi "L'arco — da guida a battistrada".
+
 ### L'amuleto perduto e Ispin Greenshield
+
+**Cosa significa davvero l'amuleto.** I Kagonesti non tengono registri, blasoni o uffici dove qualcuno annoti che sei nato: chi sei lo dice la gente che ti conosce, e fuori da quei territori lo dice l'amuleto. È **l'unica prova al mondo che Asurion sia di qualcuno** — motivo per cui perderlo non è una seccatura ma un colpo, e motivo per cui insegue cinque briganti da solo dopo essere già stato messo a terra una volta.
 
 Durante uno dei suoi spostamenti in solitario, Asurion viene aggredito da un gruppo di briganti che riesce a sopraffarlo e a derubarlo di tutto — compreso l'unico oggetto di cui non poteva accettare la perdita: un piccolo **amuleto identificativo dell'appartenenza al clan**. Mentre è sulle tracce dei briganti per recuperarlo, incontra **Ispin Greenshield**, che aveva trovato l'amuleto e si era messo a cercarne il proprietario per restituirglielo. Da allora Ispin è uno dei pochi Solamniani ad avere la sua piena riconoscenza.
 
@@ -51,6 +63,8 @@ Durante uno dei suoi spostamenti in solitario, Asurion viene aggredito da un gru
 Nonostante gli anni lontano da casa, Asurion non ha mai smesso di considerarsi Kagonesti. Sa che un giorno tornerà nella sua comunità, ma non ancora — prima vuole vedere abbastanza del mondo da poter dire di averlo conosciuto davvero.
 
 Oggi si trova nell'**Hinterlund**. Continua a vivere più o meno come ha sempre fatto: viaggiando, facendo da guida quando trova qualcuno disposto a pagarlo, fermandosi abbastanza a lungo in un posto da impararlo a conoscere prima di ripartire.
+
+**[NOTA DM — gancio aperto]** Il BG per il giocatore, nella versione ampliata, si ferma un attimo su questo punto: *"Sono qui da più tempo di quanto mi fermi di solito. Se qualcuno me lo chiedesse direi che il lavoro non manca e che gli altipiani sono un buon posto per uno che fa il mio mestiere, ed è vero. Non me l'ha chiesto nessuno."* È deliberatamente una non-risposta, e nemmeno Seba è obbligato a saperne una vera. Combacia con il "non-detto" già registrato in `campagna/party.md`: **Razak non sa perché Asurion sia ancora nell'Hinterlund dopo tanto tempo**, e non gliel'ha mai chiesto.
 
 **[NOTA DM]** È già in Hinterlund quando arriva la lettera del funerale — non deve percorrere grandi distanze per raggiungere Vogler, a differenza di Brynja (che arriva da un impegno "lontano dalla frontiera orientale") o Garrick (che parte dalla tenuta di famiglia sul confine orientale). Utile per la scena di apertura a Vogler: Asurion può essere il primo ad arrivare, o quello che conosce già la zona meglio di chiunque altro nel party.
 
@@ -126,5 +140,7 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 - [x] **Talento dell'8° livello — DECISO (2026-09-02), scena CAMBIATA (2026-09-03).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Asurion la scena **non è più Duskwalker** (passata a Corin, che con il simbolo di Habbakuk la neutralizzava) ma **il Passaggio di Wind's End, Sessione 16 FASE 4** — vedi "L'arco — da guida a battistrada" più sopra. Talento **consigliato: Sentinel**, stessa motivazione di prima; la scelta resta di Seba. Regola canonica in `campagna/party.md`
 - [ ] **Da comunicare a Seba: il cambio di scena dell'8° livello** — non cambia né il talento né la logica del personaggio, solo dove e quando cade (S16 invece di S19). Se Seba è affezionato a Duskwalker, si può tornare indietro e risolvere la sovrapposizione in un altro modo (vedi `fonti/personaggi/Corin-Wrenmoor.md`)
 - [ ] Decisa la collocazione del **Kagonesti Forest Shroud** — proposta: Cap. 7, come coda dell'arco (vedi sezione dedicata)
+- [ ] **Fatto leggere a Seba il BG ampliato** (`fonti/BG_per_giocatori/Asurion_Loech_Background.md`, tabella "Note di stesura" in fondo) — diritto di veto su ogni aggiunta; l'unica non rimovibile è il custode della Pozza nelle sezioni finali, che serve alla continuità
+- [ ] Deciso se riempire il vuoto dietro la regola "non ho mai portato nessuno gratis", o lasciarlo vuoto per sempre
 - [ ] Assegnato **Scales of War** come preludio condiviso di Cap. 2, salvo diversa indicazione
 - [ ] Scheda compilata anche in `campagna/party.md`
