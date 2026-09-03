@@ -67,6 +67,24 @@ Ma sanno l'uno dell'altro, e quasi sempre **non tramite l'anello di mezzo: trami
 - **Razak → Garrick.** Sa da Brynja che è uno bravissimo a trovare le cose scritte: ricostruisce parentele da tre elenchi di caduti, e ha passato settimane in archivio per una nana che non aveva mai visto.
 - **Asurion → Garrick.** Praticamente niente: due passaggi di catena, e nessuno dei due intermedi è un gran narratore. Sa che c'è un solamniano che studia da mago e che è amico di Ispin.
 
+#### Razak e Asurion ↔ Il druido
+
+Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due — da un'angolazione diversa. Si prende cura di un bosco sacro a Chislev a poca distanza dall'eremo del Filo di Rame: un posto dove raramente si ferma chi non sia già del posto, ma Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke, e Asurion — che quella terra la attraversa di mestiere — sa perfettamente dove si trova, pur non portandoci mai i suoi committenti.
+
+**Con Razak.** Un novizio sotto voto di silenzio e un guardiano che parla soprattutto attraverso il bosco si sono incrociati abbastanza volte da riconoscersi a vista, senza che sia mai servita una conversazione vera. Razak sa che quel bosco "risponde" a chi lo cura — fino a poco fa non sapeva che la risposta avesse un nome.
+
+**Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi nulla: Asurion guida chi paga, il druido protegge chi non paga nessuno. Si scambiano da anni informazioni pratiche — un guado spostato, un branco più audace del solito — con la sobrietà di chi si rispetta senza doverselo dire.
+
+**Il non-detto.** Nessuno dei tre ha mai parlato apertamente di divinità. Razak non sa che il druido prega qualcuno di preciso; Asurion — a cui Chislev è stata deliberatamente sottratta per lasciare spazio a questo personaggio — non ha mai chiesto.
+
+#### Brynja ↔ Il druido
+
+Si conoscono da una sola notte: quella di *Broken Silence*. Prima di allora erano due sconosciuti diretti allo stesso funerale, le cui strade si sono unite per puro caso pochi giorni prima di Vogler. Hanno acceso lo stesso fuoco, dormito allo stesso margine di bosco — ed è lì, nello stesso istante, che le loro divinità hanno risposto insieme, dopo trecento anni di silenzio.
+
+**Il legame.** Non hanno una storia condivisa da raccontare: hanno un evento. Nessun altro nel gruppo può dire di aver visto la propria fede confermata nello stesso momento di qualcun altro. Brynja, che aspetta da nove anni un segno che nessuno le aveva mai dato prima di questa notte, scopre di non essere stata l'unica ad aspettare.
+
+**Il non-detto.** Non sanno quasi nulla l'uno dell'altra oltre quella notte — età, storia, motivo del viaggio restano da scoprire lungo la strada che porta ancora a Vogler.
+
 #### Il tema del gruppo — quattro nomi non registrati
 
 Non è una regola né un segreto: è la cosa che questi quattro hanno in comune, e conviene averla presente perché torna da sola in quasi ogni scena.
@@ -80,7 +98,7 @@ L'unico foglio al mondo in cui compaiono tutti e quattro insieme sono le lettere
 
 **[NOTA DM — riservata]** Il filo nascosto (`campagna/contesto.md`, "Culto di Vecna") si regge su un'organizzazione che **archivia i nomi**, e Razak è l'unico del gruppo il cui nome è stato registrato *prima* che esistesse la persona. Il fatto che gli altri tre siano tutti, per ragioni diverse, gente che nessun registro nomina è materiale d'ambiente perfetto: non allude a niente, non va spiegato, e rende Razak meno isolato agli occhi del tavolo proprio mentre lo isola davvero.
 
-**[NOTA DM]** Il **quinto PG (druido)** non è ancora definito: va agganciato alla catena quando il personaggio sarà pronto. Basta un solo legame verso uno dei quattro perché il gruppo resti connesso.
+**[NOTA DM]** Il **quinto PG (druido)** è ora agganciato alla catena su due legami distinti: storia pregressa con Razak e Asurion nell'Hinterlund, legame nuovo con Brynja nato dalla visione condivisa di *Broken Silence*. Dettagli completi nella sua scheda qui sopra.
 ---
 
 ### Regola di tavolo — il talento dell'8° livello *(decisa 2026-09-02)*
@@ -115,7 +133,7 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 **Giocatore:** [DA COMPILARE]  
 **Razza / Classe:** Umano / Monaco — Ordine di Majere, Via dell'Ombra  
 **Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund; poi 4 anni come scudiero di Becklin Uth Viharin a Thornwall Keep (dai 19 ai 23) — apprendistato di fatto concluso, giudicato pronto da Becklin — chiuso **4 anni fa** da un congedo verso l'eremo, per assistere Maestro Roke. Da ~2 anni il suo posto è di Darrett Highwater. 27 anni. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
-**Preludio (Cap. 2):** Broken Silence  
+**Preludio (Cap. 2):** Nessun preludio individuale — viaggia già con Asurion, si unisce al gruppo per **Scales of War**  
 **Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio — Ispin gli insegnò a mani nude a scassinare e a far sparire piccoli oggetti, legandoli più delle storie stesse — poi lo rivide regolarmente per 4 anni a Vogler, durante il servizio come scudiero  
 
 | | |
@@ -144,7 +162,7 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 **Giocatore:** [DA COMPILARE]  
 **Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, apprendista di un maestro delle Vesti Bianche; **veste non ancora scelta** a inizio campagna. **[NOTA DM]** Atterraggio previsto: **Mantelli Rossi**, al Test di Alta Stregoneria in Sessione 17  
 **Background:** Mago di Alta Stregoneria — nato Firewatch, casata solamnica di guardiani delle torri di segnalazione sul confine orientale; diseredato a 19 anni per un incastro, riabilitato e preso come allievo da Aeliran Dawnhollow (Vesti Bianche, Torre di Wayreth). Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
-**Preludio (Cap. 2):** *(da assegnare)*  
+**Preludio (Cap. 2):** **Eye in the Sky** — da solo, alla Notte dell'Occhio, pochi giorni prima di Vogler  
 **Connessione a Ispin:** Ispin lo cercò a 16 anni per identificare un cimelio; tornò più volte, poi gli scrisse undici lettere in sette anni dopo il disonore, senza mai accennarvi  
 
 | | |
@@ -170,7 +188,7 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 **Giocatore:** Eric  
 **Razza / Classe:** Nana di montagna (clan Daewar) / Chierico — Mishakal, ~32 anni  
 **Background:** Cavaliere di Solamnia (scudiera) — addestrata da **nove anni** da Sir Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
-**Preludio (Cap. 2):** **Broken Silence** *(proposto — è il preludio che il modulo indica per i chierici)*  
+**Preludio (Cap. 2):** **Broken Silence** — condiviso con il druido: si incontrano per la prima volta sulla strada per Vogler, la notte della visione  
 **Connessione a Ispin:** Ispin si frappose con lo scudo verde tra lei e un goblin durante l'assalto di Grishnak Spezzapietra a un villaggio nanico di frontiera  
 
 | | |
@@ -195,7 +213,7 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 **Giocatore:** Seba  
 **Razza / Classe:** Elfo Silvano (Kagonesti, Southern Ergoth) / Barbaro  
 **Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; scout per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
-**Preludio (Cap. 2):** Nessun preludio individuale — resta nel gruppo per **Scales of War**  
+**Preludio (Cap. 2):** Nessun preludio individuale — viaggia con Razak, resta nel gruppo per **Scales of War**  
 **Connessione a Ispin:** Ispin trovò l'amuleto del clan rubatogli dai briganti e si mise a cercarne il proprietario per restituirglielo  
 
 | | |
@@ -217,11 +235,12 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 
 ### [Nome PG 5] — Druido
 **Giocatore:** —  
-**Razza / Classe:** — / **Druido** *(unica informazione disponibile al momento)*  
-**Background:** —  
-**Preludio (Cap. 2):** **Broken Silence** — è il preludio che il modulo indica per chierici, druidi, paladini e chiunque abbia poteri concessi da una divinità; da giocare separatamente da quello di Brynja (vedi `fonti/personaggi/Brynja-Daewar.md`)  
-**Connessione a Ispin:** TBD  
-**Connessione agli altri PG:** TBD — basta un legame verso uno qualsiasi dei quattro per agganciarlo alla catena  
+**Razza / Classe:** Umano / **Druido**  
+**Background (regole 2024):** **Eremita** — talento d'origine **Healer**, proficiency Medicina + Religione, Kit da Erborista. Nessuna sovrapposizione: Razak usa Cavaliere di Solamnia (scudiero), non Eremita  
+**Divinità:** **Chislev**, dea della natura — liberata apposta dalla scheda di Asurion per questo personaggio (vedi `fonti/personaggi/Asurion-Loech.md`)  
+**Preludio (Cap. 2):** **Broken Silence** — condiviso con Brynja: sconosciuti fino a quella notte, si incontrano per la prima volta sulla strada per Vogler  
+**Connessione a Ispin:** *(elemento inventato, coerente con le altre schede)* Ispin si perse ferito nei boschi dell'Hinterlund durante uno dei suoi viaggi; il druido lo trovò, lo curò e lo rimise sulla strada giusta — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito  
+**Connessione agli altri PG:** Storia pregressa con **Razak** e **Asurion** (vicini di territorio nell'Hinterlund, da prima dell'inizio della campagna); legame nuovo, nato dalla visione condivisa, con **Brynja**. Nessun contatto con Garrick  
 
 | | |
 |--|--|
@@ -231,10 +250,17 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-TBD
+Ispin, in viaggio per l'Hinterlund, si allontanò dal sentiero durante un temporale e passò due notti ferito nel sottobosco prima che il druido lo trovasse, lo curasse e lo riaccompagnasse sulla strada giusta. Non gli chiese nulla in cambio — probabilmente per questo, anni dopo, la lettera del funerale è arrivata comunque.
+
+#### Come conobbe Razak e Asurion
+Il druido si prende cura di un bosco sacro a Chislev a poca distanza dall'eremo del Filo di Rame. Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke; Asurion, che attraversa quella terra di mestiere, sa esattamente dove si trova pur non portandoci mai i suoi committenti. Con nessuno dei due il druido ha mai avuto bisogno di molte parole.
+
+#### Come conobbe Brynja
+Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune.
 
 #### PNG collegati
-- TBD
+- **Ispin Greenshield** — salvato dal druido nei boschi dell'Hinterlund; defunto
+- **Maestro Halden Roke** — conosciuto indirettamente tramite Razak, nessun contatto diretto ancora stabilito
 
 ---
 

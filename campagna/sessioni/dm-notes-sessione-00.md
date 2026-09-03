@@ -27,10 +27,16 @@
 >
 > Non è necessario eseguirli tutti se uno non si adatta al background di nessun personaggio. Al termine dei preludi eseguiti, **tutti avanzano al livello 2**.
 
+> **Assegnazione per questo party (deciso 2026-09-03):**
+> - **Garrick** — da solo → *Eye in the Sky*
+> - **Brynja + [Druido]** — insieme → *Broken Silence*; si incontrano per la prima volta proprio in questa scena, sconosciuti fino ad allora
+> - **Razak + Asurion** — viaggiano già insieme (si conoscono da anni tramite Ispin), nessun preludio individuale: si aggiungono al gruppo per *Scales of War*
+> - **Scales of War** — tutti e 5 insieme, a chiusura dei preludi, vedi `campagna/party.md`
+
 ---
 
 ## PRELUDIO 1 — Il Richiamo del Divino
-*Broken Silence · ~30 minuti · Focus: PG con connessione divina (chierici, paladini, druidi, ecc.)*
+*Broken Silence · ~30 minuti · Focus: PG con connessione divina (chierici, paladini, druidi, ecc.) — in questo party: **Brynja + [Druido]**, insieme*
 
 ### Contesto per il DM
 
@@ -110,7 +116,7 @@ I personaggi escono dal tempio. Quando si voltano — non c'è più niente. La r
 ---
 
 ## PRELUDIO 2 — L'Occhio della Luna
-*Eye in the Sky · ~40 minuti · Focus: PG incantatori aspiranti ai Magi dell'Alta Stregoneria*
+*Eye in the Sky · ~40 minuti · Focus: PG incantatori aspiranti ai Magi dell'Alta Stregoneria — in questo party: **Garrick**, da solo*
 
 ### Contesto per il DM
 
@@ -199,7 +205,7 @@ Rovina consegna a ciascuno:
 ---
 
 ## PRELUDIO 3 — I Pesi della Guerra
-*Scales of War · ~40 minuti · Focus: tutto il gruppo*
+*Scales of War · ~40 minuti · Focus: tutto il gruppo (compresi Razak e Asurion, che arrivano senza preludio individuale)*
 
 ### Contesto per il DM
 

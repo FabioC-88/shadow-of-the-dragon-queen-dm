@@ -16,7 +16,10 @@
 | Asurion | Brynja | Nessun contatto diretto | Sanno l'uno dell'altra **da Ispin**, non da Razak: entrambi hanno sentito la versione esagerata della storia dell'altro |
 | Asurion | Garrick | Nessun contatto diretto | Praticamente nulla: due passaggi di catena. Garrick sa di lui solo dalle lettere di Ispin |
 | Razak | Garrick | Nessun contatto diretto | Razak sa da Brynja che Garrick è bravissimo a trovare le cose scritte. Vedi frizione #3 — unico spunto del documento |
-| [PG 5 — druido] | — | TBD | Da agganciare alla catena quando il personaggio sarà definito |
+| Razak | [Druido] | Riconoscimento reciproco senza parole | Si incrociano da anni nei dintorni dell'eremo del Filo di Rame; nessuno dei due ha mai avuto bisogno di spiegarsi |
+| Asurion | [Druido] | Rispetto professionale, stesso territorio | Guida e guardiano della stessa terra dell'Hinterlund; si scambiano da anni informazioni pratiche |
+| Brynja | [Druido] | Sconosciuti fino alla notte di *Broken Silence* | Si incontrano per la prima volta sulla strada per Vogler; la visione divina li raggiunge nello stesso istante, allo stesso fuoco |
+| Garrick | [Druido] | Nessun contatto diretto | Nessun aggancio ancora stabilito |
 
 ---
 
@@ -47,7 +50,7 @@
 | Razak | Maestro Halden Roke | +3 Alleato | Maestro dell'eremo del Filo di Rame; l'unico padre che abbia avuto |
 | Razak | Confratello Tobin Reyne | +2 Amichevole | Ex confratello, quasi un fratello maggiore; lasciò l'Ordine senza salutare |
 | Razak | Ser Maelis | — | **[NOTA DM — riservata]** Vedi "Segreti" in `fonti/personaggi/Razak-Kendall.md` |
-| [PG2] | TBD | — | — |
+| [Druido] | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
 
 ---
 

@@ -5,7 +5,7 @@
 - **Villain/Stagione:** Kansaldi Fire-Eyes (Highmaster del Red Dragon Army) · Invasione di Solamnia
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
-- **Party:** 4 PG definiti + 1 in arrivo. In `campagna/party.md`: **Razak Kendall** (umano, monaco dell'Ordine di Majere), **Garrick Ashwatch** (umano, mago di Alta Stregoneria — classe da confermare), **Brynja Daewar** (nana, chierico di Mishakal), **Asurion Loech** (elfo silvano Kagonesti, barbaro). Il **quinto PG** sarà un **druido**, non ancora caratterizzato. Schede complete in `fonti/personaggi/`
+- **Party:** 4 PG definiti + 1 in arrivo. In `campagna/party.md`: **Razak Kendall** (umano, monaco dell'Ordine di Majere), **Garrick Ashwatch** (umano, mago di Alta Stregoneria — classe da confermare), **Brynja Daewar** (nana, chierico di Mishakal), **Asurion Loech** (elfo silvano Kagonesti, barbaro). Il **quinto PG** sarà un **druido umano**, devoto a **Chislev** — background Eremita, agganciato alla catena tramite Razak/Asurion (Hinterlund) e Brynja (visione condivisa di *Broken Silence*). Dettagli in `campagna/party.md`. Schede complete in `fonti/personaggi/`
 - **Stato:** **Campagna non ancora iniziata al tavolo — nessuna sessione giocata.** Le sessioni sono state preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`); tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" altrove in questo file descrivono la **preparazione**, non la partita reale
 - **Durata Media Sessioni:** 2,5 ore
 - **Livello attuale del party (al tavolo):** 1 — la campagna deve ancora partire
