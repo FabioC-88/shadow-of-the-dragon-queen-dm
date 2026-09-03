@@ -14,7 +14,7 @@
 > | **Sessione 10** — Blue Phoenix Shrine | Un intero santuario dedicato a Habbakuk: la porta si apre a chi ne pronuncia il nome, il Bacino di Purificazione (C3) evita lo scontro con tre elementali d'acqua, gli elementali sono ostili *a chiunque non porti apertamente il simbolo di Habbakuk* (fonte, righe 3591-3608) |
 > | **Sessione 11** — Sunward Fortress | **Yearkal**, sacerdotessa Dimernesti di Habbakuk, prigioniera del Dragon Army (fonte, riga 946) |
 >
-> Nessuna perdita rispetto a Chislev: **Duskwalker** (Sessione 19, FASE 1) riconosce come servitore della natura chi porta il simbolo di *"Chislev, Habbakuk o Zeboim"* — la scena resta coperta identica (ma vedi la nota di attenzione più sotto, "Il rischio Duskwalker").
+> Nessuna perdita rispetto a Chislev: **Duskwalker** (Sessione 19, FASE 1) riconosce come servitore della natura chi porta il simbolo di *"Chislev, Habbakuk o Zeboim"* — la scena resta coperta identica, ed è anzi diventata **la porta dell'8° livello di Corin** (vedi la sezione dedicata più sotto).
 >
 > **Cronologia di riferimento:** 19 anni fa → arriva alla Pozza come apprendista di Maren | 12 anni fa → Maren muore, Corin resta solo custode | ~10-11 anni fa → i passaggi di Razak novizio | 6 anni fa → trova Ispin ferito | pochi giorni fa → *Broken Silence*, e il dio si dà un nome | oggi, 38 anni → Vogler.
 
@@ -32,6 +32,7 @@
 | **Divinità** | **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu, la fenice azzurra) |
 | **Allineamento** | Neutrale Buono |
 | **Età** | 38 anni — il più anziano del gruppo |
+| **Scena dell'8° livello** | **Duskwalker**, Sessione 19 FASE 1 *(riassegnata da Asurion il 2026-09-03 — vedi `campagna/party.md`)*. È la sua porta: il custode che ha perso il giardino incontra un custode che ha perso il giardino trecento anni prima |
 | **Preludio (Cap. 2)** | **Broken Silence** — condiviso con Brynja |
 | **Connessione a Ispin** | Lo trovò ferito nel sottobosco e lo curò per due notti — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato |
 
@@ -193,27 +194,21 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 
 > **Perché questo non viola la regola "non pianificare sessioni future".** Non sta pianificando niente: le Sessioni 10 e 11 sono già preparate e chiuse da tempo. Questa tabella è solo un indice di rimandi, perché un payoff che arriva tra otto mesi di gioco reale è esattamente il tipo di cosa che si dimentica.
 
-### Il rischio Duskwalker — da decidere, Fabio
+## La porta dell'8° livello — Duskwalker (S19 FASE 1)
 
-**[NOTA DM — riservata]** Un problema piccolo ma vero, creato dal fatto che Corin porta un simbolo sacro addosso.
+*Riassegnata il 2026-09-03: era la scena di Asurion, che si è spostato al Passaggio di Wind's End (S16 FASE 4). Motivazione completa in `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello".*
 
-In **Sessione 19, FASE 1**, Duskwalker attacca chiunque *a meno che* non mostri apertamente il simbolo di un dio della natura — *"Chislev, Habbakuk o Zeboim"* (fonte, riga 4952) — **o non sia chiaramente un servitore della natura**. La seconda clausola è la porta di Asurion, ed è la sua scena dell'8° livello, già decisa con Seba il 2026-09-02.
+**Chi è Duskwalker.** Un treant neutrale che prima della distruzione di Onyari ne era il **capo giardiniere**. La devastazione della città l'ha reso profondamente amaro; l'invasione del Dragon Army l'ha fatto infuriare di nuovo. Oggi sta immobile in un boschetto violaceo con i **soldati del Dragon Army appesi morti tra i rami dei suoi alberi**, e attacca chiunque passi — a meno che non mostri apertamente il simbolo di un dio della natura, *"come Chislev, **Habbakuk** o Zeboim"*, o non sia chiaramente un servitore della natura (fonte, righe 4950-4952). Quando combatte, ripete lentamente: *"Ogni profanatore che mandi nei miei giardini fa la stessa fine. Vattene!"*
 
-Con Corin nel gruppo, la prima clausola scatta per prima: il treant si ferma per l'uccellino di legno, e il momento in cui *il selvatico riconosce Asurion per quello che è già* rischia di non avvenire mai. **Il problema esisteva identico con Chislev** — la fonte nomina entrambi — ma vale la pena risolverlo adesso. Tre modi, in ordine di preferenza:
+**Perché è la porta di Corin.** Perché sono la stessa persona a trecento anni di distanza. Un custode che ha perso il giardino, e che ha deciso — avendo avuto tutto il tempo per decidere — che il resto del mondo è composto di profanatori finché non prova il contrario. Corin arriva lì avendo perso la Pozza da qualche capitolo, con la stessa domanda ancora aperta.
 
-1. **Duskwalker si ferma per il simbolo, ma parla ad Asurion.** Il simbolo compra il silenzio; è lo sguardo del treant che sceglie a chi rivolgersi, e sceglie quello che non ha niente da mostrare. Costa zero e regala una scena a due.
-2. **Corin non mostra niente.** In carattere: non ha mai usato quell'uccellino per ottenere qualcosa, e mostrarlo per farsi lasciar passare gli somiglia poco.
-3. **Duskwalker chiede a Corin il nome del suo dio**, e la risposta — data da uno che quel nome ce l'ha da undici sessioni appena — vale come credenziale per tutto il gruppo, Asurion compreso. Elegante, ma sposta il baricentro della scena: usalo solo se Seba non ci tiene.
-
-### Il talento dell'8° livello — proposta
-
-`campagna/party.md` fissa la regola: nessun talento bonus al 4° livello, tutti all'8°, **tra la Sessione 16 e la 19**. Per Corin la casella è ancora vuota. La proposta è **Sessione 19, FASE 2 — il Lago di Jamir**.
-
-**Perché.** Jamir è un marid *vincolato dai maghi del kingpriest per far funzionare l'impianto idraulico di una città* e diventato crudele dopo secoli. È esattamente il tipo di conto che non torna: una creatura d'acqua ridotta a infrastruttura da gente che si credeva in diritto. La fonte è chiara sul fatto che **non esiste una via diplomatica** (nota in `campagna/sessioni/dm-notes-sessione-19.md`) — quindi la porta di Corin non è convincerlo: è **decidere cosa fare quando l'equilibrio che predica gli chiede di combattere qualcuno che ha ragione di essere furioso.** Non un'istituzione che lo ammette, non un selvatico che lo riconosce: la prima volta che il suo ideale gli costa qualcosa invece di descriverlo.
+**Come giocarla.** Il simbolo apre la scena senza tiri di dado: la fonte nomina Habbakuk per esteso, e l'uccellino di legno che Corin porta al collo da vent'anni ferma un treant di trecento. Ma **il riconoscimento non è il momento** — è solo il permesso di parlare. Il momento è quello che Corin dice a un custode più vecchio, più forte e più solo di lui, che gli sta mostrando dove si finisce. Non serve una prova: serve che il tavolo stia zitto.
 
 **Talento:** dalla lista normale, la scelta è di Gabri. Se serve un consiglio, **War Caster** — la traduzione meccanica di "smette di perdere la concentrazione quando il mondo lo colpisce a metà di una preghiera".
 
 **Il caso di riserva** vale per lui come per tutti: se la scena non viene giocata o va storta, prende comunque un talento normale dalla lista all'8° livello.
+
+> **[NOTA DM] Il Lago di Jamir (S19 FASE 2) resta comunque una scena sua, ma non è la porta.** Jamir è un marid *vincolato dai maghi del kingpriest per far funzionare l'impianto idraulico di una città* e diventato crudele dopo secoli: esattamente il tipo di conto che non torna. La fonte però è esplicita nel non prevedere **nessuna via diplomatica** — Jamir è ostile per costruzione — quindi è una scena in cui l'ideale di Corin gli costa qualcosa (combattere qualcuno che ha ragione di essere furioso), non una in cui viene riconosciuto. Vale come momento di caratterizzazione a venti minuti di distanza da Duskwalker, e i due insieme fanno una sessione molto densa per lui: il custode amaro all'inizio, la creatura schiavizzata subito dopo. **Non serve altro in tutta la S19.**
 
 ---
 
@@ -240,7 +235,7 @@ Con Corin nel gruppo, la prima clausola scatta per prima: il treant si ferma per
 - [ ] Deciso **come Corin arrivò alla Pozza a 19 anni** — l'unico vuoto lasciato deliberatamente aperto nel background, da riempire con Gabri
 - [ ] Confermato **Broken Silence** come preludio, e deciso se giocarlo separatamente da quello di Brynja *(raccomandato: sì)*
 - [ ] **Avvisato Gabri** che il nome del dio è il premio del preludio — il personaggio non lo conosce fino a quella notte
-- [ ] **Deciso il caso Duskwalker** (S19 FASE 1) — vedi le tre opzioni sopra; da concordare con Seba, è la sua scena
-- [ ] **Deciso il talento dell'8° livello** — proposta: S19 FASE 2, il Lago di Jamir; talento consigliato War Caster, scelta di Gabri
+- [x] **Scena dell'8° livello — DECISA (2026-09-03).** **Duskwalker, S19 FASE 1**, riassegnata da Asurion (che si sposta al Passaggio di Wind's End, S16 FASE 4). **Da comunicare a Seba**, perché sostituisce una decisione presa con lui il giorno prima
+- [ ] **Scelto il talento** — consigliato War Caster; la lista resta aperta, sceglie Gabri
 - [ ] Deciso quanto/quando il party sappia della sorte del bosco della Pozza dopo il Cap. 3
 - [ ] Scheda compilata anche in `campagna/party.md`

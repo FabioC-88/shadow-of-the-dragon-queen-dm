@@ -18,7 +18,7 @@
 | **Background (regole 2024)** | **Guida** — proficiency Furtività + Sopravvivenza, Strumenti da Cartografo. Talento d'origine **cambiato da Magic Initiate (Druido) a Skilled** (deciso da Seba, 2026-09-03): Asurion non è un dabbler magico, è un Kagonesti puro — coerente con la lore (i Kagonesti isolati rifiutano la magia arcana/civile più degli altri elfi) e con **Path of the World Tree** come sottoclasse in arrivo, che porta il tema "natura" nel Barbaro per via di sottoclasse invece che di incantesimi |
 | **Divinità** | **Nessuna dichiarata — lasciata deliberatamente aperta.** Lo spazio "dio/dea della natura" è del 5° PG, **Corin Wrenmoor**, che dal 2026-09-03 serve **Habbakuk** (non più Chislev): meglio evitare la sovrapposizione. Se serve un aggancio divino per Asurion, va cercato altrove (spiriti ancestrali del clan, nessuna divinità dichiarata, o un patrono diverso da Habbakuk/Chislev/Zeboim — i tre nomi che Duskwalker riconosce in S19) |
 | **Età** | *(da confermare — non indicata)* |
-| **Scena dell'8° livello** | **Duskwalker**, Sessione 19 FASE 1 — vedi `campagna/party.md`, "Regola di tavolo — il talento dell'8° livello". È la sua porta: non un'istituzione che lo ammette, il selvatico che lo riconosce |
+| **Scena dell'8° livello** | **Il Passaggio di Wind's End**, Sessione 16 FASE 4 *(riassegnata il 2026-09-03: Duskwalker è passato a Corin — vedi `campagna/party.md`)*. È la sua porta: non un'istituzione che lo ammette né un selvatico che lo riconosce, **una porta vera che trova lui** |
 | **Preludio (Cap. 2)** | Nessun preludio individuale si applica: Asurion non è né incantatore divino (Broken Silence) né aspirante Mago (Eye in the Sky). Resta naturalmente nel gruppo per **Scales of War** (Preludio 3, condiviso — vedi `campagna/sessioni/dm-notes-sessione-00.md`) |
 | **Connessione a Ispin** | Variante **esatta** della voce 3 della tabella d6 (`campagna/party.md`): Ispin trovò l'amuleto del clan che i briganti avevano rubato ad Asurion e si mise a cercarne il proprietario per restituirglielo |
 
@@ -81,6 +81,28 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 **[NOTA DM] Collocazione — da decidere.** La fonte non dice dove si trovi. Il posto sbagliato è un mucchio di tesoro: è l'unico oggetto del manuale che porta il nome del suo popolo, e Asurion possiede già **un solo oggetto identitario** — l'amuleto del clan che Ispin gli restituì. Vale la pena che il mantello **arrivi da casa**, non da un forziere: portato da un messaggero, recuperato dai resti di un altro Kagonesti lontano dall'isola, o consegnato da chi viene da Southern Ergoth. Vedi la sezione "Southern Ergoth — l'arco del ritorno" più sotto, se attivata.
 
 
+## L'arco — da guida a battistrada
+
+*Scritto il 2026-09-03, quando Duskwalker è passato a Corin Wrenmoor e Asurion ha avuto bisogno di un arco proprio invece di una singola scena. Costruito interamente su materiale già presente nel suo background e su scene già preparate: **non richiede nessuna aggiunta obbligatoria**, solo una (facoltativa, sotto).*
+
+**La domanda del personaggio.** Asurion vende strade. Vent'anni di mestiere, un prezzo per ogni tratta, nessun legame che duri più dell'incarico — e un piano dichiarato per il futuro ("un giorno tornerò al clan, ma non ancora") che di anno in anno slitta senza che nessuno gli chieda perché. La campagna gli chiede una cosa sola, tre volte, alzando la posta ogni volta: **portare gente che non può pagarlo.**
+
+| Battuta | Dove | Cosa succede |
+|---|---|---|
+| **1. La prima volta gratis** | **Cap. 3** — la fuga da Vogler | Il capitolo si chiama *When Home Burns* e consiste, letteralmente, nel portare fuori dei civili. Nessuno assolda nessuno: c'è un villaggio in fiamme e l'unico presente che sappia leggere il terreno è lui. È l'innesco, e arriva da solo |
+| **2. Il mestiere, ma per scelta** | **Cap. 5** — le Northern Wastes | Sei sessioni in cui il party fa da avanscoperta all'esercito di Darrett in una regione senza strade, con Darrett che *"conta su di loro per decidere la rotta"* (S09). È esattamente il suo lavoro di sempre, tranne per il committente e per il compenso. È il tratto lungo in cui l'abitudine diventa ruolo |
+| **3. La porta** | **S16 FASE 4** — il Passaggio di Wind's End | *"Il personaggio con il punteggio più alto di Saggezza (Percezione) passiva nota la fessura dietro quelle assi."* Un esercito ha appena lanciato un attacco costoso per comprare a lui trenta secondi di silenzio, e lui trova la porta. **La fonte concede il Livello 8 esattamente lì**: il talento cade nel momento in cui la campagna già lo premia |
+
+**Perché funziona meglio di Duskwalker.** Duskwalker era un *riconoscimento*: qualcuno che guarda Asurion e dichiara cos'è. Bello, ma passivo — e in una scena dove basta esserci. Il Passaggio è un *atto*: nessuno lo dichiara, nessuno lo ammette, lui fa la cosa che sa fare meglio di chiunque altro al mondo nel momento in cui conta di più, e la campagna gira su quel gesto. Per l'unico PG del gruppo che non vuole essere ammesso da nessuna parte, è la differenza tra un diploma e una prova.
+
+**L'aggiunta facoltativa al background — una regola di mestiere.** Se serve un contatore da rompere alla battuta 1, basta una riga: *Asurion non ha mai portato nessuno gratis.* Non per avidità — per igiene professionale, quasi per scaramanzia: chi non paga non ascolta, e chi non ascolta muore a metà strada. È una regola che si è dato da giovane dopo qualcosa che non racconta *(lasciato aperto: da riempire con Seba, o da non riempire mai)*. **Vogler è la prima volta che la rompe**, e da lì non la rimette più a posto. Se Seba preferisce un Asurion senza regole dichiarate, l'arco regge lo stesso: la battuta 1 resta un fatto della trama, non un principio infranto.
+
+**La coda — il *Kagonesti Forest Shroud*.** Il mantello (vedi sezione sopra) non deve arrivare da un forziere: la nota esistente chiede che **arrivi da casa**. Il posto giusto è ora chiaro — **Cap. 7, l'assedio di Kalaman**, dove la città raduna chiunque sia disposto a combattere. Un Kagonesti tra gli irregolari, un messaggero, un compagno di clan arruolato per la guerra: l'oggetto identitario numero due arriva mentre lui sta facendo, per una città intera, quello che aveva sempre venduto a chi poteva permetterselo. Non chiude l'arco del ritorno a Southern Ergoth — lo **riapre**, con la domanda giusta: adesso che sei diventato qualcosa, torni ancora?
+
+> **[NOTA DM] Ad Asurion resta comunque una battuta in S19 FASE 1.** Duskwalker è di Corin, ma il treant è il *capo giardiniere di una città morta*: Asurion è l'unico del gruppo che capisca cos'è senza bisogno di un simbolo al collo, e può dirlo prima che qualcuno tiri un dado. È un beat da tre righe che non toglie niente a nessuno — e sottolinea la differenza tra i due: uno serve un dio, l'altro serve il posto e basta.
+
+---
+
 ## PNG Legati
 
 | PNG | Relazione | Note |
@@ -98,10 +120,11 @@ A differenza degli altri tre PG, che hanno tutti *aiutato* Ispin o condiviso un 
 - [x] Specie confermata: **Elfo Silvano (Kagonesti)**
 - [x] Confermato il background **Guida** (2024) e il talento d'origine: **Skilled** (non più Magic Initiate Druido) — deciso da Seba, 2026-09-03
 - [ ] Divinità lasciata aperta — lo spazio "divinità della natura" è di Corin Wrenmoor (Habbakuk dal 2026-09-03), da non riassegnare ad Asurion
-- [ ] **Da concordare con Seba: il caso Duskwalker (S19 FASE 1).** Corin porta apertamente il simbolo di Habbakuk, uno dei tre nomi che fermano il treant — rischia di neutralizzare la scena prima che Asurion venga *riconosciuto*. Tre soluzioni proposte in `fonti/personaggi/Corin-Wrenmoor.md`, sezione "Il rischio Duskwalker"
 - [ ] Definita l'età
 - [ ] Deciso chi fossero i briganti e come l'amuleto sia arrivato a Ispin (vedi le tre letture proposte, o lasciarlo volutamente vago)
 - [ ] Deciso se Asurion ha già lavorato per uno dei Cavalieri già noti al party (Becklin, Darrett, Roderick) prima di Vogler
-- [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Asurion la scena è **Duskwalker in Sessione 19, FASE 1** — il treant che lo lascia passare perché è "chiaramente un servitore della natura", cioè l'opposto esatto di un'ammissione. Talento **consigliato: Sentinel**; la scelta resta di Seba. Regola canonica in `campagna/party.md`
+- [x] **Talento dell'8° livello — DECISO (2026-09-02), scena CAMBIATA (2026-09-03).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Asurion la scena **non è più Duskwalker** (passata a Corin, che con il simbolo di Habbakuk la neutralizzava) ma **il Passaggio di Wind's End, Sessione 16 FASE 4** — vedi "L'arco — da guida a battistrada" più sopra. Talento **consigliato: Sentinel**, stessa motivazione di prima; la scelta resta di Seba. Regola canonica in `campagna/party.md`
+- [ ] **Da comunicare a Seba: il cambio di scena dell'8° livello** — non cambia né il talento né la logica del personaggio, solo dove e quando cade (S16 invece di S19). Se Seba è affezionato a Duskwalker, si può tornare indietro e risolvere la sovrapposizione in un altro modo (vedi `fonti/personaggi/Corin-Wrenmoor.md`)
+- [ ] Decisa la collocazione del **Kagonesti Forest Shroud** — proposta: Cap. 7, come coda dell'arco (vedi sezione dedicata)
 - [ ] Assegnato **Scales of War** come preludio condiviso di Cap. 2, salvo diversa indicazione
 - [ ] Scheda compilata anche in `campagna/party.md`
