@@ -26,7 +26,7 @@ Adesso ci sono due lettere sul suo tavolo. Una è l'invito al funerale di Ispin 
 ## Gli altri
 
 Brynja Daewar è l'unica che ho conosciuto, e sono nove anni che non la vedo. Avevo diciassette anni e mi firmavo ancora Firewatch. Il suo maestro si era rivolto all'archivio di casa per cercare precedenti da portare davanti al Consiglio dei Cavalieri: una nana scudiera, contro trentasette volumi che dicono umano, nobile e solamniano. Ci ho passato settimane e ho trovato un precedente solo, del 198, quando l'Ordine ammise due scudieri non nobili perché una guerra di confine gli aveva portato via gli uomini. Non era un'apertura della Misura, era una carenza di organico, e me ne sono accorto prima di finire di trascriverlo. Sono andato a dirglielo io, invece di lasciarlo fare a Roderick.
-Dopo quella volta non ci siamo più scritti
+Dopo quella volta non ci siamo più scritti.
 
 Razak Kendall e Asurion Loech non li ho mai visti. Di loro, e di un terzo di cui non ho nemmeno il nome, ho solo quello che Ispin metteva nelle lettere, undici in sette anni, senza date e con i nomi storpiati in modo diverso ogni volta. Un monaco di un eremo sopra Vogler. Un elfo che fa da guida a chi paga abbastanza e un tale che sta in un bosco e rimette a posto le zampe alle bestie, e che nelle lettere non ha mai avuto un nome, nemmeno storpiato: solo quello della Pozza. Le ho tenute tutte, e le ho rilette abbastanza da sapere che non c'è scritto niente di più.
 

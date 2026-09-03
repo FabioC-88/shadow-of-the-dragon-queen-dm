@@ -72,7 +72,7 @@ Dove c'è comunque una conoscenza indiretta, **il canale è Ispin, non l'anello 
 
 Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due — da un'angolazione diversa. Si prende cura della **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame: un posto dove raramente si ferma chi non sia già del posto, ma Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke, e Asurion — che quella terra la attraversa di mestiere — sa perfettamente dove si trova, pur non portandoci mai i suoi committenti.
 
-**Con Razak.** Un novizio sotto voto di silenzio e un guardiano che parla soprattutto attraverso il bosco si sono incrociati abbastanza volte da riconoscersi a vista, senza che sia mai servita una conversazione vera. **Razak non ne conosce il nome:** per lui è "quello della Pozza", come per i pastori dell'altopiano, e non sapeva nemmeno che avesse a che fare con Ispin. Sentirglielo dire a Vogler è la prima volta.
+**Con Razak.** Due ragazzi della stessa età — uno sotto voto di silenzio, l'altro già abituato a non parlare — che si sono incrociati abbastanza volte da riconoscersi a vista senza che servisse mai una conversazione. **Razak non ne conosce il nome:** per lui è "quello della Pozza", come per i pastori dell'altopiano, e a Vogler è la prima volta che se lo sente dire. Che si conoscessero tutti e due con Ispin invece lo sa: Corin gliene ha parlato una volta, in una delle visite dopo il congedo, e Razak gliel'ha fatto capire senza aprire bocca.
 
 **Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi nulla: Asurion guida chi paga, il druido protegge chi non paga nessuno. Si scambiano da anni informazioni pratiche — un guado spostato, un branco più audace del solito — con la sobrietà di chi si rispetta senza doverselo dire.
 
@@ -244,7 +244,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 ### Corin Wrenmoor — Druido
 **Giocatore:** Gabri  
-**Razza / Classe:** Umano / **Druido** — Cerchio da scegliere al 3° livello (consigliato Luna). 38 anni, il più anziano del gruppo. Scheda completa: `fonti/personaggi/Corin-Wrenmoor.md`  
+**Razza / Classe:** Umano / **Druido** — Cerchio da scegliere al 3° livello (consigliato Luna). 27 anni, praticamente coetaneo di Razak. Scheda completa: `fonti/personaggi/Corin-Wrenmoor.md`  
 **Nome provvisorio:** "Corin Wrenmoor" è un segnaposto in attesa della scelta di Gabri — se cambia, va sostituito anche in `campagna/contesto.md` e nel nome del file  
 **Background (regole 2024):** **Eremita** — talento d'origine **Healer**, proficiency Medicina + Religione, Kit da Erborista. Nessuna sovrapposizione: Razak usa Cavaliere di Solamnia (scudiero), non Eremita  
 **Divinità:** **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu) *(deciso 2026-09-03, al posto di Chislev)* — custodisce da dodici anni la **Pozza del Martin Pescatore**, una sorgente sacra nell'Hinterlund, praticandone il rito senza aver mai saputo il nome del dio a cui è dedicato: **lo apprende nel preludio**. Habbakuk è già presente nella campagna preparata in tre punti — il palo del molo a Vogler (S01), il Blue Phoenix Shrine (S10) e Yearkal (S11) — dove Chislev non compariva mai  
@@ -266,10 +266,10 @@ Sei anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un tem
 Corin custodisce la **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame. Razak, da novizio, ci è passato più volte portando messaggi a valle, e si lavava la faccia nell'acqua senza sapere che fosse un gesto rituale; Asurion, che attraversa quella terra di mestiere, sa esattamente dove si trova pur non portandoci mai i suoi committenti (*"quella non è una strada"*). Con nessuno dei due Corin ha mai avuto bisogno di molte parole.
 
 #### Come conobbe Brynja
-Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune. **Il contrasto è il punto:** Brynja prega un dio di cui conosce il nome da nove anni senza risposta; Corin riceve risposte da vent'anni senza aver mai avuto un nome da pronunciare.
+Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune. **Il contrasto è il punto:** Brynja prega un dio di cui conosce il nome da nove anni senza risposta; Corin riceve risposte da dodici anni senza aver mai avuto un nome da pronunciare.
 
 #### PNG collegati
-- **Ispin Greenshield** — salvato da Corin nei boschi dell'Hinterlund sei anni fa; defunto
+- **Ispin Greenshield** — salvato da Corin nei boschi dell'Hinterlund tre anni fa; defunto
 - **Maren Wrenmoor** *(inventata)* — la custode che lo prese con sé a 19 anni e da cui ha preso il cognome; morta 12 anni fa
 - **Maestro Halden Roke** — conosciuto solo di nome tramite i messaggi di Razak, nessun contatto diretto ancora stabilito
 - **Yearkal** — sacerdotessa Dimernesti di Habbakuk, prigioniera nel Cap. 5: l'unica altra devota consapevole dello stesso dio in tutta la campagna
