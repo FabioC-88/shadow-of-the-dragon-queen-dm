@@ -14,12 +14,12 @@
 | Razak | Brynja | Riconoscimento reciproco tra pari | Due scudieri irregolari di due cavalieri solitari; si incontravano a Vogler quando Roderick passava a trovare Ispin con Brynja al seguito |
 | Brynja | Garrick | Collaborazione diretta, poi nove anni di silenzio | Garrick ricercò per settimane precedenti storici a sostegno del caso di Brynja davanti al Consiglio dei Cavalieri; da allora non si sono più visti. Il funerale è il primo reincontro |
 | Asurion | Brynja | Nessun contatto diretto | Sanno l'uno dell'altra **da Ispin**, non da Razak: entrambi hanno sentito la versione esagerata della storia dell'altro |
-| Asurion | Garrick | Nessun contatto diretto | Praticamente nulla: due passaggi di catena. Garrick sa di lui solo dalle lettere di Ispin |
-| Razak | Garrick | Nessun contatto diretto | Razak sa da Brynja che Garrick è bravissimo a trovare le cose scritte. Vedi frizione #3 — unico spunto del documento |
-| Razak | [Druido] | Riconoscimento reciproco senza parole | Si incrociano da anni nei dintorni dell'eremo del Filo di Rame; nessuno dei due ha mai avuto bisogno di spiegarsi |
-| Asurion | [Druido] | Rispetto professionale, stesso territorio | Guida e guardiano della stessa terra dell'Hinterlund; si scambiano da anni informazioni pratiche |
-| Brynja | [Druido] | Sconosciuti fino alla notte di *Broken Silence* | Si incontrano per la prima volta sulla strada per Vogler; la visione divina li raggiunge nello stesso istante, allo stesso fuoco |
-| Garrick | [Druido] | Nessun contatto diretto | Nessun aggancio ancora stabilito |
+| Asurion | Garrick | Nessun contatto diretto | **Asurion non sa che Garrick esista**: Ispin non gliene ha mai parlato, e non c'era motivo. Garrick invece sa di lui dalle lettere: «un elfo che trova le strade» |
+| Razak | Garrick | Nessun contatto diretto | **Razak non sa che Garrick esista**: Brynja dei fatti altrui non parla. Garrick sa di lui dalle lettere: «un monaco di un eremo sopra Vogler». Vedi frizione #3 |
+| Razak | Corin | Riconoscimento reciproco senza parole | Tre anni di messaggi portati a valle, con sosta alla Pozza; nessuno dei due ha mai avuto bisogno di spiegarsi. **Razak non ne conosce il nome** e non sapeva che conoscesse Ispin |
+| Asurion | Corin | Rispetto professionale, stesso territorio | Guida e guardiano della stessa terra dell'Hinterlund; si scambiano da anni informazioni pratiche |
+| Brynja | Corin | Tre giorni di strada in comune, poi la notte di *Broken Silence* | Si sono incontrati per caso a tre giorni da Vogler, diretti allo stesso funerale; la visione divina li raggiunge nello stesso istante, allo stesso fuoco |
+| Garrick | Corin | Nessun contatto diretto | **Corin non sa che Garrick esista.** Garrick, dalle lettere, sa di «un tale che sta in un bosco e rimette a posto le zampe alle bestie» — l'unico dei quattro a cui Ispin non abbia mai dato un nome, nemmeno storpiato: solo «quello della Pozza» |
 
 ---
 
@@ -33,11 +33,11 @@
 |---|---|---|---|
 | 1 | **Brynja ↔ Asurion** — la Misura | Brynja porta il mantello di un Ordine che non la registra e aspetta da nove anni; Asurion viene pagato in monete dagli stessi cavalieri e non ha mai voluto altro. Due esclusi con reazione opposta: uno il posto lo vuole, l'altro no | — |
 | 2 | **Garrick ↔ Brynja** — il documento rubato | Garrick ha consegnato posizioni, turni e parole d'ordine delle torri di segnalazione a un'agente delle Vesti Nere; Brynja ha giurato su una cosa imparata in una piazza in fiamme. Lei ne conosce solo la versione che le raccontò Ispin di sfuggita, anni fa — e Ispin era l'unico a non giudicarlo. Non se ne sono mai parlati, e non si rivedono da nove anni | — |
-| 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile; sa da Brynja che Garrick ricostruisce parentele da tre elenchi di caduti | **Spunto (a Razak):** *«Da quello che ti hanno raccontato, quest'uomo tira fuori nomi da carte che nessun altro sa leggere. Magari un giorno potresti chiedergli di aiutarti a scoprire da dove vieni davvero. O magari no — sono ventisette anni che non lo chiedi a nessuno.»* <br><br>**Leva DM:** se nessuno raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`) — mossa tua, nessuno obbligato a reagire |
-| 4 | **Asurion ↔ Garrick** — corpo e carta | Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
+| 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile. **Al funerale non sa ancora che Garrick esista**, quindi la frizione non è predisposta: nasce nel momento in cui Garrick fa vedere al tavolo cosa sa fare con le carte | **Leva DM (revisione 2026-09-03).** Lo spunto scritto è stato tolto: poggiava su una conoscenza pregressa che Razak non ha. Al suo posto, due mosse tue. **(a)** Quando Garrick ricostruisce qualcosa da documenti davanti al gruppo, descrivi la scena dal punto di vista di Razak e fermati lì — nessuna domanda al giocatore. **(b)** Se non raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`). Nessuno è obbligato a reagire |
+| 4 | **Asurion ↔ Garrick** — corpo e carta | Si vedono per la prima volta al funerale, senza che nessuno dei due sappia niente dell'altro. Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
 | 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Broken Silence* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
 
-**[NOTA DM]** Nessuna di queste frizioni ha una risoluzione prevista, ed è voluto. Sono materiale d'attrito, non archi narrativi: se il tavolo ne raccoglie una, seguila; se non ne raccoglie nessuna, non hai perso niente, perché restano comunque descrizioni corrette di chi sono questi quattro.
+**[NOTA DM]** Nessuna di queste frizioni ha una risoluzione prevista, ed è voluto. Sono materiale d'attrito, non archi narrativi: se il tavolo ne raccoglie una, seguila; se non ne raccoglie nessuna, non hai perso niente, perché restano comunque descrizioni corrette di chi sono questi cinque.
 
 ---
 
@@ -50,7 +50,7 @@
 | Razak | Maestro Halden Roke | +3 Alleato | Maestro dell'eremo del Filo di Rame; l'unico padre che abbia avuto |
 | Razak | Confratello Tobin Reyne | +2 Amichevole | Ex confratello, quasi un fratello maggiore; lasciò l'Ordine senza salutare |
 | Razak | Ser Maelis | — | **[NOTA DM — riservata]** Vedi "Segreti" in `fonti/personaggi/Razak-Kendall.md` |
-| [Druido] | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
+| Corin | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
 
 ---
 

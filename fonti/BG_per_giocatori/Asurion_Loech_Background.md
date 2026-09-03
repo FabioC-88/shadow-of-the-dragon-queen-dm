@@ -41,7 +41,6 @@ Ci ho messo un po' a capire cosa stesse succedendo. Un umano di mezza età, per 
 Non ho mai saputo come gli fosse arrivato in mano, e non gliel'ho chiesto. Dei briganti non ho più saputo niente.
 Da allora Ispin è diventato uno dei pochi Solamniani ad avere la mia piena riconoscenza e ogni tanto, quando passo da Vogler, ci fermiamo a bere e mangiare qualcosa per tenerci aggiornati su quello che accade.
 
-
 Nonostante gli anni passati lontano da casa, non ho mai smesso di considerarmi Kagonesti. So che un giorno tornerò nella mia comunità, ma non ancora. Prima voglio vedere abbastanza del mondo da poter dire di averlo conosciuto davvero.
 
 Ora mi trovo nell'Hinterlund.
@@ -50,11 +49,11 @@ Sono qui da più tempo di quanto mi fermi di solito. Se me lo chiedessero direi 
 
 ## Gli altri
 
-Negli anni Ispin mi ha parlato di diversi suoi amici magari alcuni li incontrerò al funerale.
-Di questi conosco bene **Razak** e **Corin**. 
+Negli anni Ispin mi ha parlato di diversi suoi amici, magari alcuni li incontrerò al funerale.
+Di questi conosco bene **Razak** e **Corin**.
 
-Con il pirmo ci siamo incrociati per anni al tavolo di Ispin, al Brass Crab di Vogler. Lui non parlava, io parlo poco, e a Ispin stava benissimo così, perché voleva parlare lui. Non abbiamo mai avuto bisogno di dirci molto. Giudico le persone da come si muovono, non da quello che raccontano, e Razak si muove bene: non spreca gesti e non fa rumore. Mi è sempre bastato. Non so dove sia cresciuto, né perché a un certo punto sia diventato lo scudiero di una cavaliera, e non gliel'ho mai chiesto. Non era diffidenza, né sua né mia. Con Ispin al tavolo quelle domande non venivano fuori. 
+Con il primo ci siamo incrociati per anni al tavolo di Ispin, al Brass Crab di Vogler. Lui non parlava, io parlo poco, e a Ispin stava benissimo così, perché voleva parlare lui. Non abbiamo mai avuto bisogno di dirci molto. Giudico le persone da come si muovono, non da quello che raccontano, e Razak si muove bene: non spreca gesti e non fa rumore. Mi è sempre bastato. Non so dove sia cresciuto, né perché a un certo punto sia diventato lo scudiero di una cavaliera, e non gliel'ho mai chiesto. Non era diffidenza, né sua né mia. Con Ispin al tavolo quelle domande non venivano fuori.
 
-Con Corin invece, che sugli altipiani chiamano tutti "il custode della Pozza", Ci scambiamo notizie da anni, un guado che si è spostato, un branco più audace del solito, uomini armati visti a nord, e non ci siamo mai pestati i piedi, cosa che tra due che lavorano sullo stesso terreno non succede spesso, non so i dettagli di come lui e Ispin si consocessero ma diverse volte parlando con uno o con l`latro i rispettivi nomi sono saltati fuori.
+Con Corin invece, che sugli altipiani chiamano tutti "il custode della Pozza", ci scambiamo notizie da anni, un guado che si è spostato, un branco più audace del solito, uomini armati visti a nord, e non ci siamo mai pestati i piedi, cosa che tra due che lavorano sullo stesso terreno non succede spesso, non so i dettagli di come lui e Ispin si conoscessero, ma diverse volte parlando con uno o con l'altro i rispettivi nomi sono saltati fuori.
 
-Ispin mi ha parlato spesso anche di **Brynja Daewar**. Nella sua versione la nana aveva portato fuori quattro bambini da una casa in fiamme e teneva una linea meglio della metà dei cavalieri che aveva conosciuto. E una sacerdotessa nana che ancora venera uno dei vecchi dei e a quanto pare sembra voglia entrare a far parte dei Cavalieri di Solamnia. non ho mai visto un cavaliere non umano e mi chiedo se riuscirà mai nella sua impresa.
+Ispin mi ha parlato spesso anche di **Brynja Daewar**. Nella sua versione la nana aveva portato fuori quattro bambini da una casa in fiamme e teneva una linea meglio della metà dei cavalieri che aveva conosciuto. È una sacerdotessa nana che ancora venera uno dei vecchi dei e a quanto pare sembra voglia entrare a far parte dei Cavalieri di Solamnia. Non ho mai visto un cavaliere non umano e mi chiedo se riuscirà mai nella sua impresa.

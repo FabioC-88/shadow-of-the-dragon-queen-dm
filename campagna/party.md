@@ -17,7 +17,7 @@ Tutti i personaggi conoscevano **Ispin Greenshield**, avventuriero ritirato a Vo
 
 ### Come i PG si conoscono già tra loro
 
-Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena continua — **Asurion — Razak — Brynja — Garrick** — che li mette tutti in contatto ancora prima di arrivare a Vogler. Razak è l'unico che ne conosce due.
+Non tutti i PG si conoscono tra loro direttamente, ma il gruppo forma una catena continua — **Garrick — Brynja — Razak — Asurion — Corin** — che li mette tutti in contatto ancora prima di arrivare a Vogler. **Garrick è l'estremo isolato della catena:** l'unico del gruppo che abbia conosciuto è Brynja, e sono nove anni che non si vedono. Gli altri quattro si conoscono tutti tra loro tranne Brynja e Asurion, che non si sono mai visti.
 
 > **Come usare questa sezione.** Quello che segue sono **fatti**: cosa è successo, cosa ciascuno sa e cosa pensa dell'altro oggi. Non contiene previsioni su cosa faranno i personaggi. Dove c'è uno **spunto per il giocatore** è dichiarato come tale — è un'offerta, non un binario, e in tutto il documento ce n'è uno solo (vedi `campagna/rapporti.md`, sezione "Frizioni interne al gruppo").
 
@@ -55,23 +55,24 @@ Quando Roderick cercava precedenti storici per sostenere il caso di Brynja davan
 
 **Fatto, per il giocatore di Brynja.** L'unica persona del gruppo che abbia letto per intero il tuo fascicolo davanti al Consiglio è Garrick Ashwatch.
 
-#### I tre che non si conoscono
+#### Quelli che non si conoscono
 
-**Non si conoscono di persona:** Asurion e Brynja, Asurion e Garrick, Razak e Garrick. Il funerale di Ispin è la prima occasione in cui il gruppo si trova fisicamente nella stessa stanza.
+**Non si conoscono di persona:** Asurion e Brynja, e poi Garrick con tutti e tre gli altri (Asurion, Razak, Corin). Il funerale di Ispin è la prima occasione in cui il gruppo si trova fisicamente nella stessa stanza.
 
-Ma sanno l'uno dell'altro, e quasi sempre **non tramite l'anello di mezzo: tramite Ispin.** Razak parla poco e Brynja non è tipo da raccontare i fatti degli altri; Ispin invece parlava di tutti con tutti, e sbagliava i numeri ogni volta. Ciò che i tre non-legami hanno in comune è quindi questo: **ciascuno arriva a Vogler con un ritratto dell'altro fatto da un uomo che esagerava per mestiere.**
+Dove c'è comunque una conoscenza indiretta, **il canale è Ispin, non l'anello di mezzo della catena.** Razak parla poco e Brynja non è tipo da raccontare i fatti degli altri; Ispin invece parlava di tutti con tutti, e sbagliava i numeri ogni volta. Chi sa qualcosa, quindi, **arriva a Vogler con un ritratto fatto da un uomo che esagerava per mestiere** — e chi non ha il canale non sa niente del tutto.
+
+> **Regola di coerenza (2026-09-03).** Ogni cosa che un PG sa di un altro deve avere un canale nominabile e proporzionato a quel rapporto. Dove il canale non c'è, il personaggio **non compare affatto** nel BG dell'altro: non esiste il paragrafo "non lo conosco e non ne so niente", perché dichiarare un'ignoranza è comunque attribuire nome, mestiere e legame con Ispin a qualcuno di cui non si è mai sentito parlare. La sorpresa è materiale da tavolo, non da scheda.
 
 - **Asurion → Brynja.** Conosce la storia del villaggio in fiamme perché Ispin l'ha raccontata al Brass Crab più volte. Nella versione di Ispin i bambini portati fuori dalla casa sono quattro (erano due), e la nana «tiene una linea meglio di metà dei cavalieri che ha conosciuto». Asurion si aspetta qualcuno di considerevolmente più grosso.
 - **Brynja → Asurion.** Sa dell'amuleto e dei briganti: nella versione di Ispin li aveva inseguiti per un mese, e l'amuleto era d'argento. Sa inoltre che è Kagonesti e che lavora come guida per pattuglie solamniane — cioè, secondo il metro dell'Ordine in cui si è addestrata, che è un ausiliario pagato.
-- **Garrick → tutti e tre.** È l'unico ad avere di loro una traccia **scritta**: nelle **undici lettere** che Ispin gli ha mandato in sette anni ricorrono un monaco di un eremo sopra Vogler, una nana testarda e un elfo che «trova le strade». Nomi storpiati, nessuna data, ortografia terribile. Garrick le ha conservate tutte.
-- **Razak → Garrick.** Sa da Brynja che è uno bravissimo a trovare le cose scritte: ricostruisce parentele da tre elenchi di caduti, e ha passato settimane in archivio per una nana che non aveva mai visto.
-- **Asurion → Garrick.** Praticamente niente: due passaggi di catena, e nessuno dei due intermedi è un gran narratore. Sa che c'è un solamniano che studia da mago e che è amico di Ispin.
+- **Garrick → gli altri quattro.** È l'unico ad avere di loro una traccia **scritta**: nelle **undici lettere** che Ispin gli ha mandato in sette anni ricorrono un monaco di un eremo sopra Vogler, una nana testarda, un elfo che «trova le strade» e un tale che sta in un bosco e rimette a posto le zampe alle bestie. Nomi storpiati in modo diverso ogni volta, nessuna data, ortografia terribile — e il quarto un nome non ce l'ha proprio: Ispin lo chiamava soltanto «quello della Pozza». Garrick le ha conservate tutte.
+- **Nessuno → Garrick.** Razak, Asurion e Corin **non sanno che esista.** Il canale con Ispin passa dal tavolo del Brass Crab e riguarda l'Hinterlund; Garrick appartiene a tutt'altro pezzo della vita di Ispin — la tenuta sul confine orientale, Kalaman, undici lettere in sette anni — e non c'è mai stata un'occasione in cui saltasse fuori. Brynja sarebbe l'unico canale possibile, ma dei fatti altrui non parla. **Al funerale, per loro tre, Garrick è uno sconosciuto**, e va giocato così.
 
 #### Razak e Asurion ↔ Il druido
 
 Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due — da un'angolazione diversa. Si prende cura della **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame: un posto dove raramente si ferma chi non sia già del posto, ma Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke, e Asurion — che quella terra la attraversa di mestiere — sa perfettamente dove si trova, pur non portandoci mai i suoi committenti.
 
-**Con Razak.** Un novizio sotto voto di silenzio e un guardiano che parla soprattutto attraverso il bosco si sono incrociati abbastanza volte da riconoscersi a vista, senza che sia mai servita una conversazione vera. Razak sa che quel bosco "risponde" a chi lo cura — fino a poco fa non sapeva che la risposta avesse un nome.
+**Con Razak.** Un novizio sotto voto di silenzio e un guardiano che parla soprattutto attraverso il bosco si sono incrociati abbastanza volte da riconoscersi a vista, senza che sia mai servita una conversazione vera. **Razak non ne conosce il nome:** per lui è "quello della Pozza", come per i pastori dell'altopiano, e non sapeva nemmeno che avesse a che fare con Ispin. Sentirglielo dire a Vogler è la prima volta.
 
 **Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi nulla: Asurion guida chi paga, il druido protegge chi non paga nessuno. Si scambiano da anni informazioni pratiche — un guado spostato, un branco più audace del solito — con la sobrietà di chi si rispetta senza doverselo dire.
 
