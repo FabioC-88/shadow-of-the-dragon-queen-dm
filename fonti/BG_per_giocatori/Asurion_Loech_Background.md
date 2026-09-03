@@ -8,7 +8,7 @@ Mi chiamo Asurion Loech. Sono nato in una piccola comunità Kagonesti di Souther
 
 Nessuna di queste cose, da noi, si chiama addestramento. Si chiama crescere. Un bambino Kagonesti che a dieci anni non sa leggere una pista non è un bambino con una lacuna: è un bambino che non è ancora stato mandato fuori abbastanza. A me mandarono fuori parecchio, e mi trovai bene.
 
-Da noi non ci sono documenti. Non ci sono registri, non ci sono blasoni, non c'è nessun ufficio dove qualcuno annoti che sei nato. Chi sei lo dice la gente che ti conosce, e quando esci dai territori dove ti conoscono lo dice **l'amuleto del clan**: un oggetto piccolo, di poco valore per chiunque altro, che si porta addosso e non si toglie. È l'unica prova al mondo che io sia di qualcuno.
+Da noi non ci sono documenti. Non ci sono registri, non ci sono blasoni, non c'è nessun ufficio dove qualcuno annoti che è nato un bambino. Chi sono lo dice la gente che mi conosce, e fuori dai territori dove mi conoscono lo dice **l'amuleto del clan**: un oggetto piccolo, di poco valore per chiunque altro, che si porta addosso e non si toglie. È l'unica prova al mondo che io sia di qualcuno.
 
 Non avevo particolari ambizioni quando ho lasciato casa. Volevo semplicemente vedere il mondo e accumulare abbastanza esperienza per diventare un membro rispettabile del mio clan.
 
@@ -20,7 +20,7 @@ Possedendo tutte le qualità utili a fare da guida, ho scoperto che c'è sempre 
 
 Ho quindi iniziato a vivere di piccoli incarichi: ho accompagnato mercanti, cacciatori e viaggiatori, cercato persone scomparse, condotto piccoli gruppi attraverso zone difficili e, occasionalmente, lavorato come esploratore per gruppi armati.
 
-Funziona più o meno sempre allo stesso modo. Qualcuno ti trova — di solito in una locanda, di solito attraverso un terzo che ha lavorato con te l'anno prima — e ti dice dove deve arrivare. Tu ascolti, guardi che stagione è, guardi che gente hai davanti, e dici un prezzo. Se accettano si parte il giorno dopo. Se tirano sul prezzo si parte lo stesso, ma con la differenza che da quel momento sai esattamente quanto ti stanno ascoltando, cioè poco.
+Funziona più o meno sempre allo stesso modo. Qualcuno mi trova — di solito in una locanda, di solito attraverso un terzo che ha lavorato con me l'anno prima — e mi dice dove deve arrivare. Io ascolto, guardo che stagione è, guardo che gente ho davanti, e dico un prezzo. Se accettano si parte il giorno dopo. Se tirano sul prezzo si parte lo stesso, ma da quel momento so esattamente quanto mi stanno ascoltando, cioè poco.
 
 Nel corso degli anni ho attraversato buona parte delle regioni più esterne di Solamnia. Non conosco ogni strada e ogni villaggio, ma ho imparato a riconoscere il tipo di terreno, i sentieri che vale la pena seguire e quelli che è meglio evitare. Conosco abbastanza locande da sapere dove mangiare bene e abbastanza villaggi da sapere dove è meglio non fermarsi.
 
@@ -28,13 +28,13 @@ Ho imparato anche altre cose che non si scrivono in un contratto: che chi ha fre
 
 Tra chi richiede i miei servizi vi sono, non di rado, i Cavalieri di Solamnia, che sanno che un Kagonesti che conosce il territorio è una guida più affidabile di molte altre. È capitato così di essere assoldato più volte per accompagnare pattuglie o piccoli gruppi attraverso zone che conoscevo meglio di loro.
 
-Con loro il rapporto è chiaro e a me sta bene così: sono un ausiliario pagato. Nessuno mi ha mai chiesto un giuramento e io non l'avrei fatto. Ci sono cavalieri che dopo tre giorni di marcia si accorgono che sei lì e cominciano a rivolgerti la parola come a un uomo invece che a uno strumento, e ce ne sono altri che no. Non me ne sono mai fatto un problema: nel prezzo non è compresa la simpatia.
+Con loro il rapporto è chiaro e a me sta bene così: sono un ausiliario pagato. Nessuno mi ha mai chiesto un giuramento e io non l'avrei fatto. Ci sono cavalieri che dopo tre giorni di marcia si accorgono che ci sono e cominciano a rivolgermi la parola come a un uomo invece che a uno strumento, e ce ne sono altri che no. Non me ne sono mai fatto un problema: nel prezzo non è compresa la simpatia.
 
 ## Una regola che mi sono dato
 
 **Non ho mai portato nessuno gratis.**
 
-Non è avarizia. È che chi non paga non ascolta, e chi non ascolta muore a metà strada — e quando muore a metà strada, muore mentre lo stavo portando io. Un prezzo mette le cose in chiaro: tu hai comprato il mio giudizio, quindi quando dico che oggi non si passa, oggi non si passa.
+Non è avarizia. È che chi non paga non ascolta, e chi non ascolta muore a metà strada — e quando muore a metà strada, muore mentre lo stavo portando io. Un prezzo mette le cose in chiaro: chi paga ha comprato il mio giudizio, e quando dico che oggi non si passa, oggi non si passa.
 
 Me la sono data da giovane, questa regola, dopo una cosa che non racconto. Da allora non ho fatto eccezioni.
 
