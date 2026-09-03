@@ -54,7 +54,7 @@ Sono due cose insieme, la morte di un uomo che non vedi da quattro anni e una le
 
 ## Gli altri
 
-Ci sono alcuni amici di Ispin che credo incontrerò al funerale: alcuni li ho già conosciuti di persona, altri li ho solo sentiti nominare nei suoi racconti.
+Ci sono alcuni amici di Ispin che credo incontrerò al funerale.
 
 Asurion Loech. Ci siamo conosciuti al tavolo di Ispin, al Brass Crab di Vogler, e negli anni del servizio ci siamo trovati lì decine di sere. Ispin parlava per tre e noi lo lasciavamo fare. Mi sono chiesto diverse volte perché sia ancora nell'Hinterlund dopo tanti anni; non credo sia la sua terra natia. Con Ispin al tavolo non ci sono state molte occasioni per parlarne.
 
