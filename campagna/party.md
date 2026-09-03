@@ -69,13 +69,13 @@ Ma sanno l'uno dell'altro, e quasi sempre **non tramite l'anello di mezzo: trami
 
 #### Razak e Asurion ↔ Il druido
 
-Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due — da un'angolazione diversa. Si prende cura di un bosco sacro a Chislev a poca distanza dall'eremo del Filo di Rame: un posto dove raramente si ferma chi non sia già del posto, ma Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke, e Asurion — che quella terra la attraversa di mestiere — sa perfettamente dove si trova, pur non portandoci mai i suoi committenti.
+Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due — da un'angolazione diversa. Si prende cura della **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame: un posto dove raramente si ferma chi non sia già del posto, ma Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke, e Asurion — che quella terra la attraversa di mestiere — sa perfettamente dove si trova, pur non portandoci mai i suoi committenti.
 
 **Con Razak.** Un novizio sotto voto di silenzio e un guardiano che parla soprattutto attraverso il bosco si sono incrociati abbastanza volte da riconoscersi a vista, senza che sia mai servita una conversazione vera. Razak sa che quel bosco "risponde" a chi lo cura — fino a poco fa non sapeva che la risposta avesse un nome.
 
 **Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi nulla: Asurion guida chi paga, il druido protegge chi non paga nessuno. Si scambiano da anni informazioni pratiche — un guado spostato, un branco più audace del solito — con la sobrietà di chi si rispetta senza doverselo dire.
 
-**Il non-detto.** Nessuno dei tre ha mai parlato apertamente di divinità. Razak non sa che il druido prega qualcuno di preciso; Asurion — a cui Chislev è stata deliberatamente sottratta per lasciare spazio a questo personaggio — non ha mai chiesto.
+**Il non-detto.** Nessuno dei tre ha mai parlato apertamente di divinità. Razak non sa che il druido preghi qualcuno di preciso — e fino a pochi giorni fa non lo sapeva del tutto nemmeno il druido, che il nome del suo dio lo apprende solo nel preludio; Asurion — a cui lo spazio "divinità della natura" è stato deliberatamente sottratto per lasciarlo a questo personaggio — non ha mai chiesto.
 
 #### Brynja ↔ Il druido
 
@@ -98,7 +98,9 @@ L'unico foglio al mondo in cui compaiono tutti e quattro insieme sono le lettere
 
 **[NOTA DM — riservata]** Il filo nascosto (`campagna/contesto.md`, "Culto di Vecna") si regge su un'organizzazione che **archivia i nomi**, e Razak è l'unico del gruppo il cui nome è stato registrato *prima* che esistesse la persona. Il fatto che gli altri tre siano tutti, per ragioni diverse, gente che nessun registro nomina è materiale d'ambiente perfetto: non allude a niente, non va spiegato, e rende Razak meno isolato agli occhi del tavolo proprio mentre lo isola davvero.
 
-**[NOTA DM]** Il **quinto PG (druido)** è ora agganciato alla catena su due legami distinti: storia pregressa con Razak e Asurion nell'Hinterlund, legame nuovo con Brynja nato dalla visione condivisa di *Broken Silence*. Dettagli completi nella sua scheda qui sopra.
+**[NOTA DM]** Il **quinto PG (Corin, druido)** è agganciato alla catena su due legami distinti: storia pregressa con Razak e Asurion nell'Hinterlund, legame nuovo con Brynja nato dalla visione condivisa di *Broken Silence*. Dettagli completi nella sua scheda qui sopra e in `fonti/personaggi/Corin-Wrenmoor.md`.
+
+**[NOTA DM] Sovrapposizione Corin/Asurion — risolta il 2026-09-03.** Duskwalker (S19 FASE 1) è passato a Corin, Asurion ha ricevuto il Passaggio di Wind's End (S16 FASE 4). Vedi la tabella dei talenti dell'8° livello qui sopra e la sezione "L'arco — da guida a battistrada" in `fonti/personaggi/Asurion-Loech.md`. **Da comunicare a Seba**, perché sostituisce una decisione già presa con lui il 2026-09-02.
 ---
 
 ### Regola di tavolo — il talento dell'8° livello *(decisa 2026-09-02)*
@@ -114,12 +116,18 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 | **Garrick** | Il Test di Alta Stregoneria | **S17** — Demelin, Città dei Nomi Perduti | Adept of the Red / White / Black Robes, secondo la veste ottenuta |
 | **Brynja** | Il banco di prova solamnico | **S19** FASE 4 — Jandin, Tempio di Paladine | Knight of the Crown / of the Rose / of the Sword, secondo la risposta |
 | **Razak** | Lo stesso, **se sceglie di farsi avanti** | **S19** FASE 4 | Idem |
-| **Asurion** | **Duskwalker** — il selvatico che lo riconosce | **S19** FASE 1 — il boschetto sul terrapieno | **Sentinel** *(consigliato — vedi sotto; la lista resta aperta, la scelta è del giocatore)* |
-| **[PG 5 — druido]** | TBD | Deve cadere **tra S16 e S19** (livello 8) | TBD |
+| **Asurion** | **Il Passaggio di Wind's End** — la porta che trova lui | **S16** FASE 4 — Wind's End, Spina del Gigante | **Sentinel** *(consigliato — vedi sotto; la lista resta aperta, la scelta è di Seba)* |
+| **Corin** | **Duskwalker** — due custodi senza giardino | **S19** FASE 1 — il boschetto sul terrapieno | **War Caster** *(consigliato — la scelta è di Gabri)* |
 
-**Perché Duskwalker è la porta di Asurion.** Non è un'istituzione, e non deve esserlo: Asurion è l'unico del gruppo che non vuole essere ammesso a niente. Duskwalker fa il guardiano di quei giardini da trecento anni e tratta chiunque ci passi da profanatore — tranne chi sia *«chiaramente un servitore della natura»* (fonte, riga 4952). Non è un'ammissione: è il selvatico che lo riconosce per quello che è già. E cade nella stessa sessione degli altri due, all'estremità opposta: la seduta **si apre** con il suo momento e **si chiude** con quello di Brynja e Razak.
+> **Riassegnazione del 2026-09-03.** Duskwalker era la porta di Asurion (decisa il 2026-09-02) e Corin non ne aveva ancora una. Con Corin al tavolo, però, i due si sovrapponevano: il treant risparmia sia chi mostra il simbolo di un dio della natura — *"Chislev, **Habbakuk** o Zeboim"* — sia chi è "chiaramente un servitore della natura", e il simbolo di Corin sarebbe scattato per primo, cancellando il riconoscimento di Asurion. **Su decisione di Fabio le due porte sono state scambiate**, e Asurion ne ha guadagnato una che gli somiglia di più. Nessuno perde niente: cambiano le scene, non il numero di talenti né la logica dei due personaggi.
 
-**Perché Sentinel.** Dalla lista disponibile è l'unico che rappresenta un *cambiamento* invece di una descrizione. *Mobile* è ciò che Asurion è già. *Divinely Favored* richiede un rapporto divino che non ha dichiarato (e Chislev è neutrale, non "un dio buono" come chiede il talento). **Sentinel** è la traduzione meccanica di *«ha smesso di essere uno che viene pagato per portare la gente attraverso il pericolo ed è diventato uno che ci si mette davanti»* — e si incastra col *Kagonesti Forest Shroud*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **Resta un consiglio, non un vincolo: il talento lo sceglie Seba.**
+**Perché il Passaggio di Wind's End è la porta di Asurion.** La fonte, alla fine della FASE 4, dice che *"il personaggio con il punteggio più alto di Saggezza (Percezione) passiva nota la fessura dietro quelle assi"* — ed è quasi certamente lui, Guida con Skilled. Ma la cosa che conta è **dove cade**: la fonte concede il **Livello 8 esattamente lì**, all'ingresso del passaggio, come payoff strutturale di tre sessioni di attesa. Non serve inventare niente. Asurion è l'unico del gruppo che non vuole essere ammesso da nessuna parte: la sua porta non è un'istituzione che lo accetta né un selvatico che lo riconosce — è **una porta vera, che trova lui, mentre un esercito che non lo sta pagando aspetta di sapere da che parte si passa.** Un uomo che ha venduto strade per vent'anni ne trova una che non ha prezzo, e ci entra per primo.
+
+Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che altrimenti ne conteneva tre su quattro. Ora il Cap. 6 li distribuisce — **S16** Asurion, **S17** Garrick, **S19** Corin (apertura), Brynja e Razak (chiusura).
+
+**Perché Sentinel.** La motivazione non cambia con la scena, anzi ci sta meglio: *«ha smesso di essere uno che viene pagato per portare la gente attraverso il pericolo ed è diventato uno che ci si mette davanti»*. *Mobile* è ciò che Asurion è già; *Divinely Favored* richiede un rapporto divino che non ha dichiarato — e lo spazio "divinità della natura" è ormai di Corin. **Sentinel** si incastra col *Kagonesti Forest Shroud*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **Resta un consiglio, non un vincolo: il talento lo sceglie Seba.**
+
+**Perché Duskwalker è la porta di Corin.** Duskwalker era il **capo giardiniere di Onyari** prima della distruzione della città, e la devastazione l'ha reso amaro: da allora tratta chiunque passi da profanatore e appende i soldati del Dragon Army agli alberi (fonte, righe 4950-4952). È **un custode che ha perso il proprio giardino** — cioè esattamente Corin, dopo il Cap. 3, con la differenza di trecento anni e di una scelta già fatta. Non è un'ammissione e non è un premio: è **incontrare la versione di sé stesso che ha deciso di diventare rancorosa**, e il talento arriva dal modo in cui Corin risponde a quello specchio. Il simbolo di Habbakuk che porta al collo apre la scena senza tiri di dado (la fonte nomina Habbakuk per esteso); quello che succede dopo è tutto suo.
 
 **Il caso di riserva, per tutti.** Se un PG rifiuta la propria prova, la fallisce, o la scena non viene giocata, prende comunque all'8° livello un talento normale dalla lista. Nessuno resta indietro per un incidente di tavolo o per una scelta di interpretazione — e per Razak il rifiuto è un esito esplicitamente previsto.
 
@@ -233,11 +241,12 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 
 ---
 
-### [Nome PG 5] — Druido
-**Giocatore:** —  
-**Razza / Classe:** Umano / **Druido**  
+### Corin Wrenmoor — Druido
+**Giocatore:** Gabri  
+**Razza / Classe:** Umano / **Druido** — Cerchio da scegliere al 3° livello (consigliato Luna). 38 anni, il più anziano del gruppo. Scheda completa: `fonti/personaggi/Corin-Wrenmoor.md`  
+**Nome provvisorio:** "Corin Wrenmoor" è un segnaposto in attesa della scelta di Gabri — se cambia, va sostituito anche in `campagna/contesto.md` e nel nome del file  
 **Background (regole 2024):** **Eremita** — talento d'origine **Healer**, proficiency Medicina + Religione, Kit da Erborista. Nessuna sovrapposizione: Razak usa Cavaliere di Solamnia (scudiero), non Eremita  
-**Divinità:** **Chislev**, dea della natura — liberata apposta dalla scheda di Asurion per questo personaggio (vedi `fonti/personaggi/Asurion-Loech.md`)  
+**Divinità:** **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu) *(deciso 2026-09-03, al posto di Chislev)* — custodisce da dodici anni la **Pozza del Martin Pescatore**, una sorgente sacra nell'Hinterlund, praticandone il rito senza aver mai saputo il nome del dio a cui è dedicato: **lo apprende nel preludio**. Habbakuk è già presente nella campagna preparata in tre punti — il palo del molo a Vogler (S01), il Blue Phoenix Shrine (S10) e Yearkal (S11) — dove Chislev non compariva mai  
 **Preludio (Cap. 2):** **Broken Silence** — condiviso con Brynja: sconosciuti fino a quella notte, si incontrano per la prima volta sulla strada per Vogler  
 **Connessione a Ispin:** *(elemento inventato, coerente con le altre schede)* Ispin si perse ferito nei boschi dell'Hinterlund durante uno dei suoi viaggi; il druido lo trovò, lo curò e lo rimise sulla strada giusta — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito  
 **Connessione agli altri PG:** Storia pregressa con **Razak** e **Asurion** (vicini di territorio nell'Hinterlund, da prima dell'inizio della campagna); legame nuovo, nato dalla visione condivisa, con **Brynja**. Nessun contatto con Garrick  
@@ -250,17 +259,19 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 | **XP** | 0 |
 
 #### Come conobbe Ispin Greenshield
-Ispin, in viaggio per l'Hinterlund, si allontanò dal sentiero durante un temporale e passò due notti ferito nel sottobosco prima che il druido lo trovasse, lo curasse e lo riaccompagnasse sulla strada giusta. Non gli chiese nulla in cambio — probabilmente per questo, anni dopo, la lettera del funerale è arrivata comunque.
+Sei anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un temporale e passò due notti ferito nel sottobosco prima che Corin lo trovasse — avvisato dai martin pescatori che non erano rientrati al nido. Lo tenne due settimane e non gli chiese nulla in cambio; **non si sono mai più visti.** Fu Ispin, riempiendo il silenzio con le sue storie, a nominargli per caso il palo del molo di Vogler con l'uccello che tiene un pesce in bocca — la prima prova che Corin abbia mai avuto che il suo rito non fosse un'invenzione privata.
 
 #### Come conobbe Razak e Asurion
-Il druido si prende cura di un bosco sacro a Chislev a poca distanza dall'eremo del Filo di Rame. Razak, da novizio, ci è passato più volte portando messaggi per Maestro Roke; Asurion, che attraversa quella terra di mestiere, sa esattamente dove si trova pur non portandoci mai i suoi committenti. Con nessuno dei due il druido ha mai avuto bisogno di molte parole.
+Corin custodisce la **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame. Razak, da novizio, ci è passato più volte portando messaggi a valle, e si lavava la faccia nell'acqua senza sapere che fosse un gesto rituale; Asurion, che attraversa quella terra di mestiere, sa esattamente dove si trova pur non portandoci mai i suoi committenti (*"quella non è una strada"*). Con nessuno dei due Corin ha mai avuto bisogno di molte parole.
 
 #### Come conobbe Brynja
-Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune.
+Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune. **Il contrasto è il punto:** Brynja prega un dio di cui conosce il nome da nove anni senza risposta; Corin riceve risposte da vent'anni senza aver mai avuto un nome da pronunciare.
 
 #### PNG collegati
-- **Ispin Greenshield** — salvato dal druido nei boschi dell'Hinterlund; defunto
-- **Maestro Halden Roke** — conosciuto indirettamente tramite Razak, nessun contatto diretto ancora stabilito
+- **Ispin Greenshield** — salvato da Corin nei boschi dell'Hinterlund sei anni fa; defunto
+- **Maren Wrenmoor** *(inventata)* — la custode che lo prese con sé a 19 anni e da cui ha preso il cognome; morta 12 anni fa
+- **Maestro Halden Roke** — conosciuto solo di nome tramite i messaggi di Razak, nessun contatto diretto ancora stabilito
+- **Yearkal** — sacerdotessa Dimernesti di Habbakuk, prigioniera nel Cap. 5: l'unica altra devota consapevole dello stesso dio in tutta la campagna
 
 ---
 
