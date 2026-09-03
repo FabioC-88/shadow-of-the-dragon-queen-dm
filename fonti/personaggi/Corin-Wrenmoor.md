@@ -3,7 +3,7 @@
 **Giocatore:** Gabri
 **Campagna:** Dragonlance — Shadow of the Dragon Queen
 **Stato:** Livello 1 all'inizio della campagna (Cap. 2 — Prelude to War)
-**BG per il giocatore:** `fonti/BG_per_giocatori/Corin_Wrenmoor_Background.md` — versione narrativa da consegnare a Gabri, senza note DM, senza il filo del Cap. 5 e **senza il nome del dio** (che il personaggio apprende solo nel preludio)
+**BG per il giocatore:** `fonti/BG_per_giocatori/Corin_Wrenmoor_Background.md` — versione narrativa da consegnare a Gabri, senza note DM, senza il filo del Cap. 5 e **senza il nome del dio** (che il personaggio apprende solo nel preludio). Segue la convenzione delle altre schede giocatore: narrazione in **seconda persona**, sezioni finali "Gli altri" e "Le persone che conosco" in **prima**
 
 > **Nota di metodo.** Il **nome è provvisorio** — "Corin Wrenmoor" è un segnaposto scelto per non lasciare il documento pieno di parentesi quadre: se Gabri ne preferisce un altro, si sostituisce ovunque con un find & replace e si rinomina il file. Tutto il resto è costruito per aderire alla fonte del modulo (`fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`), alla preparazione già esistente (Sessioni 01, 10, 11, 19) e alle altre quattro schede in questa cartella. Gli elementi inventati — la Pozza del Martin Pescatore, Maren Wrenmoor — sono marcati come tali e collocati nei vuoti che il modulo lascia aperti.
 >
@@ -223,6 +223,16 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 | **I pastori dell'altopiano** *(senza nome)* | Lo chiamano "quello della Pozza", gli portano bestie malate e formaggio | Gancio dormiente e crudele: sono i primi che il Cap. 3 mette sulla strada del Red Dragon Army |
 | **Ishvern Stargazer** | Nessun contatto ancora — Cap. 5, Sessione 10 | Capo dei naufraghi Dimernesti al Blue Phoenix Shrine |
 | **Yearkal** | Nessun contatto ancora — Cap. 5, Sessione 11 | Sacerdotessa di Habbakuk, prigioniera. L'unica altra devota consapevole dello stesso dio in tutta la campagna |
+
+---
+
+## I tre spazi lasciati a Gabri
+
+*Stavano in fondo al BG per il giocatore; sono stati spostati qui perché quel documento non contiene meta-testo, come nessuna delle altre schede giocatore. Vanno detti a voce a Gabri quando gli consegni il file.*
+
+1. **Il nome.** "Corin Wrenmoor" è un segnaposto. Il cognome però ha un peso nella storia — è quello di Maren, non della sua famiglia — quindi conviene tenerne la logica anche cambiando le lettere.
+2. **Come è arrivato alla Pozza a diciannove anni.** L'unico vero buco del background, ed è suo. Un villaggio che non c'è più, un mestiere da cui è scappato, una malattia che qualcuno ha portato lì a curare senza tornare a riprenderlo — o niente affatto: nel BG la cosa è scritta come qualcosa di cui non ha mai parlato con nessuno, nemmeno con Maren, quindi resta giocabile anche se Gabri decide di non riempirla mai.
+3. **Cosa ci vede lui nel rito.** Vent'anni di gesti senza un destinatario: fatti per abitudine, per rispetto verso una morta, o perché sotto sotto ha sempre saputo che qualcuno dall'altra parte c'era. Le tre risposte cambiano parecchio il personaggio — e cambiano soprattutto **quanto pesa il preludio**, che è il momento in cui una di quelle tre viene confermata.
 
 ---
 
