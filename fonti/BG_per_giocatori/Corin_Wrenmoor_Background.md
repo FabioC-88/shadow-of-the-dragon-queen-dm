@@ -16,7 +16,7 @@ Quel posto è tuo da dodici anni. Prima di te era di Maren.
 
 **Maren Wrenmoor** custodiva la Pozza da prima che tu nascessi. Vecchia, brusca, con una parsimonia di parole che a te sembrava scortesia e che poi, senza accorgertene, hai ereditato tale e quale. Ti ha preso con sé che ne avevi diciannove.
 
-*(Come ci sei arrivato, quel primo giorno, non è ancora scritto: è una delle poche cose lasciate a te. Vedi in fondo.)*
+Come ci sei arrivato, quel primo giorno, non l'hai mai raccontato a nessuno. Nemmeno a lei: non te l'ha chiesto, e in dodici anni non è più tornata sull'argomento.
 
 Ti ha insegnato tutto. Come si tiene aperto lo scolo perché la pozza non impaludi. Come si riconosce una nidiata che non ce la farà da una che ha solo bisogno di essere lasciata in pace. Quali funghi, quali cortecce, quali radici, e in che mese. Come si mette a posto una zampa rotta a una capra e come si mette a posto un braccio rotto a un uomo, che poi è quasi la stessa cosa se non ti fai impressionare dalle facce.
 
@@ -118,9 +118,15 @@ Manca ancora qualche giorno a Vogler.
 
 ## Gli altri
 
-Al funerale ci sarà anche un solamniano che studia da mago — **Garrick Ashwatch**, dicono. Non lo hai mai visto, non ne hai mai sentito parlare, e non sai niente di lui.
+**Razak Kendall** l'ho conosciuto che era un ragazzino e non poteva parlare, e non saprei dire quanto sia cambiato da allora, perché non l'ho mai sentito parlare davvero. Si fermava alla Pozza a lavarsi la faccia senza sapere cosa stesse facendo, che è comunque più di quanto facciano quelli che ci passano di proposito. Non gli ho mai chiesto niente e lui non ha mai chiesto niente a me. Adesso mi accorgo che non so nemmeno dove sia cresciuto — anzi sì, lo so, all'eremo, ma è come dire che un albero è cresciuto in un bosco.
 
-Di Ispin invece, adesso, sai una cosa che prima non sapevi: che parlava di te a delle persone. Non ti ha mai scritto — o forse ci ha provato — ma quella lettera è arrivata fino a un bosco dove non arriva niente, e per arrivarci qualcuno deve aver saputo che esistevi.
+**Asurion Loech** fa il mio stesso mestiere dalla parte opposta: lui porta chi paga, io tengo un posto per chi non paga nessuno. Ci scambiamo notizie da anni e non ci siamo mai pestati i piedi, che tra due che lavorano sullo stesso terreno non è ovvio. Alla Pozza non ci ha mai portato un committente. Non gliel'ho mai chiesto io: l'ha deciso lui, e me lo sono segnato.
+
+**Brynja Daewar** la conosco da tre giorni. Parla del suo dio come si parla di qualcuno che non risponde da molto tempo, e continua lo stesso, il che mi sembra la cosa più sensata che abbia sentito dire sull'argomento. Non le ho detto quasi niente di me e lei non ha insistito.
+
+**Garrick Ashwatch** non l'ho mai visto e non ne ho mai sentito parlare. So che ci sarà, e che studia da mago.
+
+Di Ispin, invece, ho scoperto adesso una cosa che non sapevo: che parlava di me a qualcuno. Non mi ha mai scritto — o forse ci ha provato, sapeva scrivere male. Ma quella lettera è arrivata fino a un bosco dove non arriva niente, e per arrivarci qualcuno doveva sapere che esistevo.
 
 ## Le persone che conosco
 
@@ -131,15 +137,3 @@ Di Ispin invece, adesso, sai una cosa che prima non sapevi: che parlava di te a 
 - **Brynja Daewar**. Da tre giorni.
 - **I pastori dell'altopiano**. Mi chiamano "quello della Pozza". Non sanno il mio nome e non me l'hanno mai chiesto.
 - **Maestro Halden Roke**, dell'eremo del Filo di Rame. Non l'ho mai incontrato. Ho portato messaggi per lui senza sapere che faccia avesse — cioè, li ha portati un ragazzino che veniva da lui, il che non è la stessa cosa ma è quanto di più vicino ci sia.
-
----
-
-## Le cose lasciate a te
-
-Tre spazi vuoti, di proposito. Riempili quando ti va, anche in gioco.
-
-1. **Il nome.** "Corin Wrenmoor" è un segnaposto. Il cognome ha un peso nella storia — è quello di Maren, non della tua famiglia — quindi vale la pena tenerne la logica anche se cambi le lettere. Il nome di battesimo è completamente libero.
-2. **Come sei arrivato alla Pozza a diciannove anni.** L'unico vero buco del background, ed è tuo. Un villaggio che non c'è più, un mestiere da cui sei scappato, una malattia che qualcuno ti ha portato lì a curare e nessuno è più venuto a riprenderti. Oppure niente: puoi decidere che non lo racconti, e che nemmeno Maren te l'ha mai chiesto.
-3. **Cosa ci vedi, tu, nel rito.** Vent'anni di gesti senza un destinatario: puoi averli fatti per abitudine, per rispetto verso una morta, o perché sotto sotto hai sempre saputo che *qualcuno* dall'altra parte c'era. Le tre risposte cambiano il personaggio parecchio e nessuna è quella giusta.
-
-*Una cosa la sai fin d'ora, ed è meglio dirtela: il tuo personaggio non conosce il nome del dio che serve. Se lo scopre, lo scopre in gioco.*
