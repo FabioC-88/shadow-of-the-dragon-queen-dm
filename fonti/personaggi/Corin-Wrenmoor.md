@@ -17,7 +17,7 @@
 >
 > Nessuna perdita rispetto a Chislev: **Duskwalker** (Sessione 19, FASE 1) riconosce come servitore della natura chi porta il simbolo di *"Chislev, Habbakuk o Zeboim"* — la scena resta coperta identica, ed è anzi diventata **la porta dell'8° livello di Corin** (vedi la sezione dedicata più sotto).
 >
-> **Cronologia di riferimento:** 19 anni fa → arriva alla Pozza come apprendista di Maren | 12 anni fa → Maren muore, Corin resta solo custode | ~10-11 anni fa → i passaggi di Razak novizio | 6 anni fa → trova Ispin ferito | pochi giorni fa → *Broken Silence*, e il dio si dà un nome | oggi, 38 anni → Vogler.
+> **Cronologia di riferimento (riscalata il 2026-09-03 su decisione di Fabio — il personaggio era troppo vecchio):** 12 anni fa, a **15 anni** → arriva alla Pozza e Maren lo prende con sé | 8-11 anni fa → i passaggi di Razak novizio, che ha **la sua stessa età** | 4 anni fa, a 23 → Maren muore e resta solo custode | 3 anni fa → trova Ispin ferito | pochi giorni fa → *Broken Silence*, e il dio si dà un nome | oggi, **27 anni** → Vogler.
 
 ---
 
@@ -32,14 +32,14 @@
 | **Background** | **Eremita** (2024) — talento d'origine **Healer**, competenze Medicina + Religione, Kit da Erborista |
 | **Divinità** | **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu, la fenice azzurra) |
 | **Allineamento** | Neutrale Buono |
-| **Età** | 38 anni — il più anziano del gruppo |
+| **Età** | 27 anni — praticamente coetaneo di Razak |
 | **Scena dell'8° livello** | **Duskwalker**, Sessione 19 FASE 1 *(riassegnata da Asurion il 2026-09-03 — vedi `campagna/party.md`)*. È la sua porta: il custode che ha perso il giardino incontra un custode che ha perso il giardino trecento anni prima |
 | **Preludio (Cap. 2)** | **Broken Silence** — condiviso con Brynja |
-| **Connessione a Ispin** | Lo trovò ferito nel sottobosco e lo curò per due notti — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato |
+| **Connessione a Ispin** | Lo trovò ferito nel sottobosco e lo tenne due settimane — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato |
 
 ### Aspetto
 
-Un uomo asciutto e di statura media, con le spalle di chi ha passato la vita a sollevare cose bagnate. Barba corta e già grigia ai lati, mani screpolate dall'acqua fredda in ogni stagione. Veste lana non tinta e cuoio consumato, colori di corteccia e di fango — niente di verde: il verde è il colore che si mette chi vuole *sembrare* del bosco.
+Un uomo asciutto e di statura media, con le spalle di chi solleva cose bagnate da dodici anni. Barba corta, mani screpolate dall'acqua fredda in ogni stagione. Veste lana non tinta e cuoio consumato, colori di corteccia e di fango — niente di verde: il verde è il colore che si mette chi vuole *sembrare* del bosco.
 
 Al collo, appeso a una striscia di cuoio, porta un **uccellino di legno** grande quanto un pollice, levigato dall'uso fino a perdere quasi ogni dettaglio tranne il becco. Non l'ha intagliato lui e non sa chi l'abbia fatto: era già alla Pozza quando ci è arrivato. **Fino a pochi giorni fa non sapeva nemmeno che fosse un simbolo sacro.**
 
@@ -47,7 +47,7 @@ Al collo, appeso a una striscia di cuoio, porta un **uccellino di legno** grande
 
 | | |
 |---|---|
-| **Tratto** | Risponde alle domande con un ritardo di due secondi — quelli che servono a decidere se la risposta serve davvero. Non è diffidenza: è che per dodici anni ha parlato quasi soltanto con un bosco, e un bosco non ha fretta. |
+| **Tratto** | Risponde alle domande con un ritardo di due secondi — quelli che servono a decidere se la risposta serve davvero. Non è diffidenza: è che per dodici anni ha parlato quasi soltanto con un bosco e con una donna che di parole ne spendeva ancora meno, e né l'uno né l'altra hanno mai avuto fretta. |
 | **Ideale** | *Equilibrio.* Non "la natura è buona": la natura è un conto che torna. Chi prende più di quello che rimette lo sta scaricando su qualcun altro — e prima o poi si scopre chi. |
 | **Legame** | La Pozza del Martin Pescatore. È l'unico posto al mondo di cui abbia mai avuto la responsabilità, e la lettera del funerale è la prima volta in dodici anni che lo lascia per più di un giorno. |
 | **Difetto** | Decide per gli altri come decide per il bosco: senza spiegare, dando per scontato che lo capiranno dopo. Con gli alberi ha sempre funzionato. |
@@ -74,19 +74,19 @@ Corin non ha mai saputo perché. Gli è stato insegnato così.
 
 *[Elemento inventato]*
 
-**Maren Wrenmoor** custodiva la Pozza da prima che lui nascesse. Vecchia, brusca, con la stessa avarizia di parole che lui ha poi ereditato senza accorgersene. Lo prese con sé che aveva diciannove anni — la fonte di quel primo incontro resta aperta, da definire con Gabri: un ragazzo di un villaggio finito, un apprendista scappato da un mestiere, un malato portato lì da qualcuno e mai più ripreso.
+**Maren Wrenmoor** custodiva la Pozza da prima che lui nascesse. Vecchia, brusca, con la stessa avarizia di parole che lui ha poi ereditato senza accorgersene. Lo prese con sé che aveva quindici anni — la fonte di quel primo incontro resta aperta, da definire con Gabri: un ragazzo di un villaggio finito, un apprendista scappato da un mestiere, un malato portato lì da qualcuno e mai più ripreso.
 
 Gli insegnò tutto tranne una cosa: **il nome del dio a cui stavano rendendo servizio.** Non per segretezza. Perché non lo sapeva.
 
-Il rito era sopravvissuto al Cataclisma come sopravvivono le abitudini, non come sopravvivono le fedi: mano nell'acqua, poi il bosco; non si prende una nidiata intera; l'ultimo pesce si rimette dentro. Trecento anni di gesti trasmessi da vecchi a giovani, con la spiegazione persa da qualche parte lungo la catena. Maren diceva "si fa così". Corin, che a diciannove anni ancora chiedeva perché, smise di chiederlo verso i ventidue.
+Il rito era sopravvissuto al Cataclisma come sopravvivono le abitudini, non come sopravvivono le fedi: mano nell'acqua, poi il bosco; non si prende una nidiata intera; l'ultimo pesce si rimette dentro. Trecento anni di gesti trasmessi da vecchi a giovani, con la spiegazione persa da qualche parte lungo la catena. Maren diceva "si fa così". Corin, che a quindici anni ancora chiedeva perché, smise di chiederlo dopo qualche anno.
 
-Maren morì dodici anni fa. Corin la seppellì sulla riva nord, sotto i nidi, e prese il suo cognome — non per affetto dichiarato, che tra loro non ce n'era mai stato di dichiarato, ma perché era l'unico che avesse mai voluto dire qualcosa. **Il cognome che porta è quello della donna che gli ha insegnato un rito di cui nessuno dei due conosceva il destinatario.**
+Maren morì quattro anni fa. Corin la seppellì sulla riva nord, sotto i nidi, e prese il suo cognome — non per affetto dichiarato, che tra loro non ce n'era mai stato di dichiarato, ma perché era l'unico che avesse mai voluto dire qualcosa. **Il cognome che porta è quello della donna che gli ha insegnato un rito di cui nessuno dei due conosceva il destinatario.**
 
-> **[NOTA DM]** È il suo posto nel tema del gruppo (`campagna/party.md`, "quattro nomi non registrati", ora cinque): Razak ha un nome ricamato da uno sconosciuto, Brynja non è su nessun registro, Garrick il cognome se l'è scelto, Asurion porta al collo l'unico documento che lo attesti — e Corin porta il cognome di una morta, e per trentotto anni ha pregato un dio senza sapere come si chiamasse.
+> **[NOTA DM]** È il suo posto nel tema del gruppo (`campagna/party.md`, "quattro nomi non registrati", ora cinque): Razak ha un nome ricamato da uno sconosciuto, Brynja non è su nessun registro, Garrick il cognome se l'è scelto, Asurion porta al collo l'unico documento che lo attesti — e Corin porta il cognome di una morta, e da dodici anni prega un dio senza sapere come si chiamasse.
 
 ### Dodici anni di custodia
 
-Da solo, dai ventisei ai trentotto. Il lavoro è meno mistico di quanto suoni: tenere aperto lo scolo perché la pozza non impaludi, contare le nidiate, allontanare i cacciatori troppo avidi senza farsene dei nemici, curare quello che arriva ferito — animale o persona, senza distinguere troppo. È da qui che vengono Medicina, Religione e il kit da erborista: non ha studiato, ha **ripetuto** per dodici anni.
+Da solo, dai ventitré ai ventisette. Il lavoro è meno mistico di quanto suoni: tenere aperto lo scolo perché la pozza non impaludi, contare le nidiate, allontanare i cacciatori troppo avidi senza farsene dei nemici, curare quello che arriva ferito — animale o persona, senza distinguere troppo. È da qui che vengono Medicina, Religione e il kit da erborista: non ha studiato, ha **ripetuto** per dodici anni, otto dei quali guardando Maren.
 
 I pastori dell'altopiano lo conoscono e lo chiamano "quello della Pozza". Gli portano un capra malata e una forma di formaggio, e non gli chiedono mai niente di personale. Va bene a tutti così.
 
@@ -114,7 +114,7 @@ Lo tenne due settimane. Ispin, immobilizzato e con la bocca perfettamente funzio
 
 Fu in quelle due settimane che disse la cosa che conta. Raccontando di Vogler — il porto, il pesce, la festa d'estate — nominò per caso **il palo del molo**: quello vecchio, con l'uccello che tiene un pesce in bocca, che i pescatori sfregano prima di uscire in barca. *"Non sanno nemmeno loro perché lo fanno. Si fa così, dicono."*
 
-Corin non replicò niente. Ma per la prima volta in vent'anni ebbe una prova che **il suo gesto non era un'invenzione privata di una vecchia dell'altopiano**: c'era un secondo posto, a una giornata di cammino, dove la gente faceva una cosa che non sapeva spiegare, con lo stesso uccello dentro.
+Corin non replicò niente. Ma per la prima volta ebbe una prova che **il suo gesto non era un'invenzione privata di una vecchia dell'altopiano**: c'era un secondo posto, a una giornata di cammino, dove la gente faceva una cosa che non sapeva spiegare, con lo stesso uccello dentro.
 
 Ispin se ne andò camminando male e promettendo di tornare. Non tornò mai — mandò invece, due volte in sei anni, un pacchetto senza lettera: ami da pesca la prima volta, un rotolo di corda buona la seconda. **Non si sono mai più visti.**
 
@@ -130,7 +130,7 @@ Già fissata in `campagna/party.md`, qui espansa.
 
 *L'episodio.* Una volta, sotto un acquazzone, il ragazzo arrivò con un messaggio ormai illeggibile — l'inchiostro colato via. Restò lì con il foglio in mano, incapace di chiedere aiuto e incapace di tornare indietro con niente. Corin gli prese il foglio, lo guardò, lo mise ad asciugare su una pietra, poi si sedette accanto ad aspettare. Ci vollero due ore e il messaggio restò illeggibile lo stesso. Nessuno dei due disse una parola per tutto il tempo, e quando la pioggia smise Razak se ne andò con il foglio rovinato. **È la conversazione più lunga che i due abbiano mai avuto.**
 
-> **[NOTA DM]** **Razak non conosce il suo nome.** Per lui, come per i pastori dell'altopiano, è "quello della Pozza" — e non sapeva nemmeno che avesse a che fare con Ispin. Al Brass Crab scopre le due cose insieme, ed è un momento che si gioca da solo: basta far dire il nome a qualcun altro e guardare Razak.
+> **[NOTA DM]** **Razak non conosce il suo nome.** Per lui, come per i pastori dell'altopiano, è "quello della Pozza": a Vogler è la prima volta che glielo sente dire. Che si conoscessero entrambi con Ispin invece lo sa già — Corin gliene ha parlato una volta, in una delle visite dopo il congedo, e Razak gliel'ha fatto capire senza aprire bocca. **I due hanno la stessa età**: ai tempi dei messaggi erano due ragazzi di sedici-diciannove anni, uno sotto voto di silenzio e l'altro già abituato a non parlare.
 
 **Con Asurion.** Due professionisti della stessa terra che non si sono mai contesi niente. Si scambiano notizie pratiche da anni — un guado spostato, un branco più audace del solito, un gruppo armato visto a nord — con la sobrietà di chi non ha bisogno di dichiararsi il rispetto. Asurion non ha mai portato un committente alla Pozza: non per un divieto, ma perché *"quella non è una strada"*, e per un uomo che vive di strade è una definizione sufficiente.
 
@@ -144,7 +144,7 @@ Già fissata in `campagna/party.md`, qui espansa.
 
 Si conoscono da pochi giorni: due sconosciuti diretti allo stesso funerale, le cui strade si sono unite per caso sulla strada per Vogler. Stesso fuoco, stesso margine di bosco — e la stessa notte.
 
-**Il contrasto è il punto.** Brynja prega Mishakal per nome da nove anni e non ha mai ricevuto risposta. Corin ha ricevuto risposta per trentotto anni — l'acqua che non gela, gli uccelli che tornano, i gesti che funzionano — senza aver mai avuto un nome da pronunciare. La notte di *Broken Silence* dà a ciascuno esattamente quello che all'altro non mancava.
+**Il contrasto è il punto.** Brynja prega Mishakal per nome da nove anni e non ha mai ricevuto risposta. Corin riceve risposta da dodici anni — l'acqua che non gela, gli uccelli che tornano, i gesti che funzionano — senza aver mai avuto un nome da pronunciare. La notte di *Broken Silence* dà a ciascuno esattamente quello che all'altro non mancava.
 
 > **[NOTA DM]** Se giochi i due preludi separatamente (raccomandato in `fonti/personaggi/Brynja-Daewar.md`), questa simmetria emerge da sola al primo momento in cui i due ne parlano — probabilmente a Vogler, probabilmente male, perché nessuno dei due è bravo a raccontare le cose importanti. Lascia che sia goffo.
 
@@ -154,15 +154,15 @@ Si conoscono da pochi giorni: due sconosciuti diretti allo stesso funerale, le c
 
 *Fonte: righe 950-1053. La tabella "Prelude Overview" indica esplicitamente questo preludio per "Clerics, **druids**, paladins, and other characters with god-given powers".*
 
-**Si gioca come scritto, con un solo innesto.** Corin è il caso limite previsto dal testo — *"Perhaps they're discovering the gods for the first time, or they might be steadfast followers"* — ed è tutti e due insieme: praticante da vent'anni, credente da mai, perché non si può credere in qualcuno di cui non conosci il nome.
+**Si gioca come scritto, con un solo innesto.** Corin è il caso limite previsto dal testo — *"Perhaps they're discovering the gods for the first time, or they might be steadfast followers"* — ed è tutti e due insieme: praticante da dodici anni, credente da mai, perché non si può credere in qualcuno di cui non conosci il nome.
 
 **L'innesto, in tre righe:**
 
 - **La visione ricorrente** ce l'ha da sempre — la radura, i corpi, l'oggetto stretto al petto. Da bambino la chiamava "il sogno dell'acqua ferma" e non l'ha mai raccontata a Maren.
-- **L'amuleto** che trova tra le sue cose è **identico all'uccellino di legno che porta al collo da vent'anni**. Non uno simile: identico. Quando lo tocca, sparisce come previsto dalla fonte — e quello che ha al collo è ancora lì.
+- **L'amuleto** che trova tra le sue cose è **identico all'uccellino di legno che porta al collo da quattro anni**. Non uno simile: identico. Quando lo tocca, sparisce come previsto dalla fonte — e quello che ha al collo è ancora lì.
 - **Alla statua, il dio si presenta.** È tutto quello che serve. Non un compito, non una spiegazione, non un perché: un **nome**. *Habbakuk.* Poi gli incantesimi e i privilegi divini di classe, come da fonte.
 
-> **[NOTA DM]** La scena chiede una cosa sola al DM: **non far parlare troppo il dio.** Habbakuk (NG, vita animale ed equilibrio naturale) non spiega, non giustifica e non consola — la fonte è esplicita sul fatto che nessun dio dice perché ha scelto quella persona né perché si riveli adesso. Il pagamento emotivo qui non è "ricevo un potere": è **"la cosa che faccio da vent'anni ha un destinatario, e mi ha risposto"**. Se riesci a chiudere la scena su Corin che dice il nome ad alta voce per la prima volta, hai finito.
+> **[NOTA DM]** La scena chiede una cosa sola al DM: **non far parlare troppo il dio.** Habbakuk (NG, vita animale ed equilibrio naturale) non spiega, non giustifica e non consola — la fonte è esplicita sul fatto che nessun dio dice perché ha scelto quella persona né perché si riveli adesso. Il pagamento emotivo qui non è "ricevo un potere": è **"la cosa che faccio da dodici anni ha un destinatario, e mi ha risposto"**. Se riesci a chiudere la scena su Corin che dice il nome ad alta voce per la prima volta, hai finito.
 >
 > **Vale la pena avvisare Gabri** che il nome del dio è, letteralmente, il premio del preludio: se lo dichiara al tavolo prima della Sessione 00, la scena perde metà del colpo. È un'informazione che il *personaggio* non ha; il giocatore sì, ovviamente, ed è la stessa asimmetria che regge il preludio di Brynja.
 
@@ -192,10 +192,10 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 |---|---|
 | **S10 — la porta del santuario (C1)** | La porta si apre a chi pronuncia "Habbakuk" entro 3 m. Ishvern non conosce la preghiera; i Dimernesti hanno dimenticato il nome. **Corin è l'unico che possa dirlo** — e lo sa da poco più di un capitolo lui stesso |
 | **S10 — il riconoscimento della fenice** | La fonte prevede CD 12 Religione, *oppure* riconoscimento automatico per un seguace di Habbakuk. Nessun tiro: lo riconosce e basta |
-| **S10 — il Bacino di Purificazione (C3)** | **Questo è il cuore.** Il rito che il santuario impone — lavarsi prima di avvicinarsi all'altare — è **lo stesso gesto che Corin fa da vent'anni alla Pozza**, degradato ad abitudine e senza spiegazione. Qui lo vede fatto *per intero*, nella sua forma completa, da un popolo che a sua volta non sa più perché. Non annunciarlo: descrivi il bacino e lascia che sia lui a dire cosa sta guardando |
-| **S10 — i guardiani dell'altare (C2)** | Tre elementali d'acqua, ostili *a chiunque non porti apertamente il simbolo di Habbakuk*. Corin lo porta al collo da vent'anni. Lo scontro più evitabile della sessione diventa banale se il party gli sta dietro — ed è giusto così: è **la sua** sessione |
+| **S10 — il Bacino di Purificazione (C3)** | **Questo è il cuore.** Il rito che il santuario impone — lavarsi prima di avvicinarsi all'altare — è **lo stesso gesto che Corin fa da dodici anni alla Pozza**, degradato ad abitudine e senza spiegazione. Qui lo vede fatto *per intero*, nella sua forma completa, da un popolo che a sua volta non sa più perché. Non annunciarlo: descrivi il bacino e lascia che sia lui a dire cosa sta guardando |
+| **S10 — i guardiani dell'altare (C2)** | Tre elementali d'acqua, ostili *a chiunque non porti apertamente il simbolo di Habbakuk*. Corin lo porta al collo da quattro anni. Lo scontro più evitabile della sessione diventa banale se il party gli sta dietro — ed è giusto così: è **la sua** sessione |
 | **S10 — Ishvern e i naufraghi** | Attitudine iniziale -1 Sospettoso. Un devoto vivo del dio che loro chiamano solo "il Signore dei Mari" è la miglior carta diplomatica che il party abbia in tutto il Cap. 5 |
-| **S11 — Yearkal (Sunward Fortress)** | Sacerdotessa Dimernesti di Habbakuk, prigioniera. **L'unica altra persona nella campagna che serva lo stesso dio consapevolmente.** Se salvata, è il PNG con cui Corin ha più cose da chiedere che con chiunque altro — e lei ha una tradizione *ininterrotta* da opporre ai suoi vent'anni di gesti orfani |
+| **S11 — Yearkal (Sunward Fortress)** | Sacerdotessa Dimernesti di Habbakuk, prigioniera. **L'unica altra persona nella campagna che serva lo stesso dio consapevolmente.** Se salvata, è il PNG con cui Corin ha più cose da chiedere che con chiunque altro — e lei ha una tradizione *ininterrotta* da opporre ai suoi dodici anni di gesti orfani |
 
 > **Perché questo non viola la regola "non pianificare sessioni future".** Non sta pianificando niente: le Sessioni 10 e 11 sono già preparate e chiuse da tempo. Questa tabella è solo un indice di rimandi, perché un payoff che arriva tra otto mesi di gioco reale è esattamente il tipo di cosa che si dimentica.
 
@@ -207,7 +207,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 
 **Perché è la porta di Corin.** Perché sono la stessa persona a trecento anni di distanza. Un custode che ha perso il giardino, e che ha deciso — avendo avuto tutto il tempo per decidere — che il resto del mondo è composto di profanatori finché non prova il contrario. Corin arriva lì avendo perso la Pozza da qualche capitolo, con la stessa domanda ancora aperta.
 
-**Come giocarla.** Il simbolo apre la scena senza tiri di dado: la fonte nomina Habbakuk per esteso, e l'uccellino di legno che Corin porta al collo da vent'anni ferma un treant di trecento. Ma **il riconoscimento non è il momento** — è solo il permesso di parlare. Il momento è quello che Corin dice a un custode più vecchio, più forte e più solo di lui, che gli sta mostrando dove si finisce. Non serve una prova: serve che il tavolo stia zitto.
+**Come giocarla.** Il simbolo apre la scena senza tiri di dado: la fonte nomina Habbakuk per esteso, e l'uccellino di legno che Corin porta al collo ferma un treant di trecento. Ma **il riconoscimento non è il momento** — è solo il permesso di parlare. Il momento è quello che Corin dice a un custode più vecchio, più forte e più solo di lui, che gli sta mostrando dove si finisce. Non serve una prova: serve che il tavolo stia zitto.
 
 **Talento:** dalla lista normale, la scelta è di Gabri. Se serve un consiglio, **War Caster** — la traduzione meccanica di "smette di perdere la concentrazione quando il mondo lo colpisce a metà di una preghiera".
 
@@ -222,7 +222,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 | PNG | Relazione | Note |
 |---|---|---|
 | **Ispin Greenshield** | Lo trovò ferito nel sottobosco e lo curò due settimane, sei anni fa | Defunto all'inizio della campagna. Si sono visti **una volta sola**: è la connessione più breve delle cinque, e l'unica in cui Ispin non ha dato niente di intenzionale |
-| **Maren Wrenmoor** *(inventata)* | La custode che lo prese con sé a 19 anni e gli insegnò un rito di cui non conosceva il destinatario | Morta 12 anni fa, sepolta sulla riva nord della Pozza. Da lei viene il cognome |
+| **Maren Wrenmoor** *(inventata)* | La custode che lo prese con sé a 15 anni e gli insegnò un rito di cui non conosceva il destinatario | Morta 4 anni fa, sepolta sulla riva nord della Pozza. Da lei viene il cognome |
 | **Maestro Halden Roke** | Conosciuto **di nome soltanto**, tramite i messaggi che Razak portava a valle | Nessun contatto diretto. Vivo a inizio campagna. Gancio a costo zero: due custodi di due eremi a mezza giornata l'uno dall'altro che non si sono mai parlati |
 | **I pastori dell'altopiano** *(senza nome)* | Lo chiamano "quello della Pozza", gli portano bestie malate e formaggio | Gancio dormiente e crudele: sono i primi che il Cap. 3 mette sulla strada del Red Dragon Army |
 | **Ishvern Stargazer** | Nessun contatto ancora — Cap. 5, Sessione 10 | Capo dei naufraghi Dimernesti al Blue Phoenix Shrine |
@@ -235,7 +235,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 *Stavano in fondo al BG per il giocatore; sono stati spostati qui perché quel documento non contiene meta-testo, come nessuna delle altre schede giocatore. Vanno detti a voce a Gabri quando gli consegni il file.*
 
 1. **Il nome.** "Corin Wrenmoor" è un segnaposto. Il cognome però ha un peso nella storia — è quello di Maren, non della sua famiglia — quindi conviene tenerne la logica anche cambiando le lettere.
-2. **Come è arrivato alla Pozza a diciannove anni.** L'unico vero buco del background, ed è suo. Un villaggio che non c'è più, un mestiere da cui è scappato, una malattia che qualcuno ha portato lì a curare senza tornare a riprenderlo — o niente affatto: nel BG la cosa è scritta come qualcosa di cui non ha mai parlato con nessuno, nemmeno con Maren, quindi resta giocabile anche se Gabri decide di non riempirla mai.
+2. **Come è arrivato alla Pozza a quindici anni.** L'unico vero buco del background, ed è suo. Un villaggio che non c'è più, un mestiere da cui è scappato, una malattia che qualcuno ha portato lì a curare senza tornare a riprenderlo — o niente affatto: nel BG la cosa è scritta come qualcosa di cui non ha mai parlato con nessuno, nemmeno con Maren, quindi resta giocabile anche se Gabri decide di non riempirla mai.
 3. **Cosa ci vede lui nel rito.** Vent'anni di gesti senza un destinatario: fatti per abitudine, per rispetto verso una morta, o perché sotto sotto ha sempre saputo che qualcuno dall'altra parte c'era. Le tre risposte cambiano parecchio il personaggio — e cambiano soprattutto **quanto pesa il preludio**, che è il momento in cui una di quelle tre viene confermata.
 
 ---
