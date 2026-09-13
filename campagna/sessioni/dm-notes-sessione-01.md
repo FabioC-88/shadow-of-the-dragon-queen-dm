@@ -621,4 +621,17 @@ Passata di controllo prima della prima serata al tavolo. Correzioni applicate:
 ### ⚠️ Resta da decidere (non risolto qui)
 
 - **`dm-notes-sessione-02.md` riporta "XP accumulati: 375 XP"**, contando solo la Sessione 01 con i numeri vecchi (3 guardie + Gragonis a CR 1) e ignorando i 300 XP della Sessione 00. Con i numeri corretti il totale a fine Sessione 01 è **1.275 XP**. Poiché il Capitolo 3 avanza a pietra miliare la cosa non ha effetti in gioco: **da sistemare dopo la sessione, non prima.**
-- **Death Throes del Baaz Draconian:** `scontri-adattati/capitolo-03.md` e `dm-notes-sessione-05.md` la descrivono in due modi diversi. Vedi la nota in `dm-notes-sessione-00.md` — riguarda già stasera, se si combatte in *Scales of War*.
+- ~~**Death Throes del Baaz Draconian:** due versioni in conflitto.~~ **Risolta il 2026-09-13** con il testo ufficiale fornito da Fabio: gas pietrificante, TS Costituzione CD 11, Immobilizzato → secondo TS mancato = **Pietrificato per 1 minuto**, corpo in polvere dopo 1 minuto. La versione "arma incastrata" era sbagliata ed è stata corretta in tutti i file che la riportavano (S00, S02, S05, S06, S13, `capitolo-02/03/04.md`).
+
+### ⚠️ Resta davvero aperto: i blocchi del Baaz non coincidono fra loro
+
+Cercando dove correggere la Death Throes ne sono saltati fuori **cinque blocchi Baaz diversi** nel repo, che non differiscono solo nella formattazione:
+
+| Dove | Tipo | CA | PF | CR | Attacchi |
+|---|---|---|---|---|---|
+| `capitolo-02/03.md`, S00, S02 | Medium Monstrosity | 14 | 22 | 1/2 | 2× Shortsword |
+| `capitolo-04.md` | Medium **Dragon** | 15 | 22 | **1** | Morso+Artigli o 2× Longsword |
+| S06 | — | — | — | — | Morso+Artigli, + tratto *Planata* |
+| S13 | **drago Piccolo** | **16** | **13** | — | Morso+Artiglio |
+
+La Death Throes ora è identica ovunque, ma **il resto no**. Ho corretto solo ciò per cui ho una fonte: se mi passi il blocco ufficiale completo dall'Appendice B, li allineo tutti in una passata. Non urgente per stasera — S00 e S01 usano il blocco di `capitolo-02/03.md`, che è quello dichiarato corretto sulla fonte.

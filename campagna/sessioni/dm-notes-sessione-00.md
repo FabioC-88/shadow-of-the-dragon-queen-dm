@@ -300,9 +300,12 @@ Darkvision 60 ft | Passive Perception 9
 Controlled Fall: quando cade e non è incapacitato, sottrae fino a 30 m
   dall'altezza nel calcolo dei danni da caduta.
 Draconic Devotion: se vede un Drago non ostile, ha vantaggio ai tiri per colpire.
-Draconian Death Throes: a 0 HP il corpo si pietrifica e rilascia un gas
-  pietrificante. Creature entro 1,5 m: TS Costituzione CD 11 o Immobilizzate
-  mentre iniziano a tramutarsi in pietra (ripetono il TS a fine turno).
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+  pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione
+  CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato
+  ripete il TS alla fine del proprio turno successivo: con un successo l'effetto
+  termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo del
+  draconiano si sbriciola in polvere.
 
 ACTIONS
 Multiattack: 2 attacchi con Shortsword
@@ -311,7 +314,11 @@ Shortsword: +3 al colpo, portata 1,5 m — 1d6+1 perforanti
 
 > **Note tattiche:** i baaz sono aggressivi ma gravemente feriti (metà PF). Attaccano il bersaglio più vicino e non fuggono: devono coprire la ritirata del kapak.
 >
-> ⚠️ **[TODO DM — da verificare sull'Appendice B]** Questo blocco è allineato a `campagna/scontri-adattati/capitolo-03.md`, che lo dà per corretto sullo stat block ufficiale DSotDQ. Attenzione però: **`dm-notes-sessione-05.md` descrive la Death Throes in modo diverso** (l'arma da mischia che sferra il colpo mortale resta incastrata nel corpo pietrificato, CD 11 **Forza** per estrarla, statua che si sbriciola dopo 1 minuto). Le due versioni non possono essere entrambe giuste: **decidi stanotte quale usare e allinea l'altra dopo la sessione.** La versione "arma incastrata" è più fedele al baaz classico di Dragonlance e ha una resa migliore al tavolo.
+> ⚠️ **Attenzione alla Death Throes — può togliere un PG dallo scontro.** Chi fallisce **due** tiri salvezza consecutivi è **Pietrificato per 1 minuto**, cioè per il resto del combattimento: incapacitato, inconsapevole, con resistenza a tutti i danni. Al 1°-2° livello è un effetto pesantissimo. Due conseguenze pratiche:
+> - **Non ammucchiare i PG attorno a un baaz ferito.** Il gas colpisce *tutti* entro 1,5 m, alleati del baaz compresi.
+> - **Ricordati di far ripetere il TS** alla fine del turno successivo: è quello che separa due secondi di spavento da dieci round fuori dal gioco.
+>
+> *(Regola verificata con Fabio il 2026-09-13 sul testo ufficiale — questa è la versione canonica per tutta la campagna.)*
 
 ---
 
@@ -438,7 +445,7 @@ Passata di controllo prima della **prima serata al tavolo**. Correzioni applicat
 | 4 | Fedeltà alla fonte | Preludio 1, Scena 2 | Corretta la voce che chiama dalle rovine: nella fonte è **una voce familiare**, non "la propria voce"; eliminata la contraddizione con l'aggiunta atmosferica ("voce impossibile da identificare") |
 | 5 | Fedeltà alla fonte | Preludio 1, Conclusione | Aggiunti i dettagli mancanti: nessuna traccia di disordine al campo, i compagni non ricordano nulla, ogni tentativo di tornare al tempio fallisce |
 | 6 | Meccaniche | Preludio 3 | **Allineato a `campagna/scontri-adattati/capitolo-02.md`** (5 baaz, 3 attaccano): il file riportava ancora la versione a 4 giocatori della fonte (2 baaz). XP aggiornati 200 → 300 |
-| 7 | Stat block | Preludio 3 | Sostituito il blocco del Baaz (Morso+Artigli, Morte Petrea con presa CD 13) con quello allineato a `capitolo-03.md`; segnalata la divergenza aperta con `dm-notes-sessione-05.md` sulla Death Throes |
+| 7 | Stat block | Preludio 3 | Sostituito il blocco del Baaz (Morso+Artigli, Morte Petrea con presa CD 13) con quello allineato a `capitolo-03.md`. **Death Throes corretta sul testo ufficiale fornito da Fabio** (gas pietrificante, CD 11 Costituzione, secondo TS mancato = Pietrificato per 1 minuto): la versione "arma incastrata" era sbagliata ed è stata corretta in tutti gli otto file che la riportavano |
 | 8 | Fedeltà alla fonte | Preludio 3 | Aggiunto che le **tre armature dei cavalieri sono inutilizzabili** (squarciate dagli artigli) — dettaglio della fonte che i giocatori chiedono sempre |
 | 9 | Testi read-aloud | Setup, BT-01/02/03/04/05/06, aggiunte atmosferiche | Riscritte le parti con sintassi rotta o calcate dall'inglese ("quando lui era intorno"), eliminati i tic ripetuti ("trattenere il fiato" due volte in mezza pagina) e le frasi che spiegano al giocatore cosa deve provare |
 | 10 | Testi read-aloud | Preludio 2 | Convertiti al **singolare**: Garrick affronta *Eye in the Sky* da solo, ma i testi erano al plurale |

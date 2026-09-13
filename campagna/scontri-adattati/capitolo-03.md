@@ -89,9 +89,15 @@ BAAZ DRACONIAN (×3) — standard block, used for every Baaz encounter in this c
    from the fall when calculating the fall's damage.  
  Draconic Devotion: while it can see a Dragon that isn't hostile to it, it has  
    advantage on attack rolls.  
- Draconian Death Throes: when reduced to 0 HP, its body turns to stone and  
-   releases a petrifying gas. Creatures within 5 ft: DC 11 Constitution save  
-   or be restrained as they begin to turn to stone.  
+ Death Throes: when reduced to 0 HP, its body turns to stone and releases a  
+   petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be  
+   restrained as it begins to turn to stone. The restrained creature repeats  
+   the save at the end of its next turn: on a success the effect ends,  
+   otherwise the creature is PETRIFIED for 1 minute. After 1 minute the  
+   body crumbles to dust.  
+   [Testo ufficiale, verificato con Fabio il 2026-09-13. Due TS falliti di  
+   fila = un PG fuori dallo scontro: non ammucchiare il party attorno a un  
+   baaz ferito, e ricordati di far ripetere il tiro.]  
    
  ACTIONS  
  Multiattack: 2 Shortsword attacks  
@@ -225,7 +231,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 | Cavalieri Mercenari | 3 Mercenary Guards + 3 War Horses | 4 Mercenary Guards + 3 War Horses | scala il numero sul quinto giocatore, blocco statistico invariato |   
 | War Horse | Multiattack 2 Hooves (errato) | corretto sull'SRD ufficiale: 1 solo Hooves + Trampling Charge | una bozza precedente raddoppiava per errore il danno per round |   
 | Gragonis | CR 1, statico, erroneamente indicato come mezzo-orco | ~CR 2, Bonus Action + Reaction (niente Villain Actions — non è il boss di capitolo); corretto in **mezzo-ogre** (fonte: recap ufficiali di sessione) | risolve l'economia delle azioni senza gonfiare i danni né dargli il trattamento riservato ai boss veri; la taglia Large nel blocco era già incoerente con "half-orc" |   
-| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | corretto sullo stat block ufficiale DSotDQ: AC 14, Shortsword (no Javelin), Draconic Devotion, Death Throes = petrificazione DC 11 | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
+| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | corretto sullo stat block ufficiale DSotDQ: AC 14, Shortsword (no Javelin), Draconic Devotion, Death Throes = gas pietrificante CD 11 Cos, **secondo TS mancato = Pietrificato per 1 minuto** (testo ufficiale verificato il 2026-09-13) | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
 | Kapak (Assassino dal Cielo) | AC 13, HP 52, "fly" (volo), Bite+Dagger, Death Throes veleno | corretto sullo stat block ufficiale DSotDQ: AC 15, HP 39, climb 40 ft (non vola), 2 Dagger, Death Throes acido; mantenuta la Reaction homebrew "Glide Away" | il Kapak ufficiale non può volare, solo planare da una caduta — l'errore cambiava la tattica dell'incontro |   
 | Boilerdrak | stat block errato in una bozza precedente | corretto sullo stat block ufficiale (DSotDQ p.189: oggetto Large, AC 15, HP 100) + opzione di sabotaggio | fedeltà alla fonte, oltre a varietà tattica |   
 | Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics" | corretto sullo stat block ufficiale: AC 17, Longsword/Javelin +1d4 fuoco, trait ufficiale "Draconic Devotion" | il danno da fuoco è il dettaglio tematico che giustifica il nome "Dragon Army" — una bozza precedente lo aveva perso |   

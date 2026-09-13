@@ -324,7 +324,7 @@ STR 14 (+2)  DEX 13 (+1)  CON 13 (+1)  INT 8 (-1)  WIS 11 (+0)  CHA 8 (-1)
 Resistenze danni veleno
 Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
 —
-Spasimi di Pietra. Quando il baaz viene ridotto a 0 punti ferita, il suo corpo si irrigidisce istantaneamente in una statua di pietra fragile, che si sgretola in polvere dopo 1 minuto.
+Death Throes. Quando il baaz viene ridotto a 0 punti ferita, il suo corpo si tramuta in pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo l'effetto termina, altrimenti è Pietrificato per 1 minuto. Dopo 1 minuto il corpo del draconiano si sbriciola in polvere.
 —
 AZIONI
 Multiattacco. Due attacchi: morso e artiglio, oppure due artigli.

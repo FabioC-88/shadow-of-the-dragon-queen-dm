@@ -34,9 +34,12 @@ Controlled Fall: when it falls and isn't incapacitated, it subtracts up to 100 f
   from the fall when calculating the fall's damage.
 Draconic Devotion: while it can see a Dragon that isn't hostile to it, it has
   advantage on attack rolls.
-Draconian Death Throes: when reduced to 0 HP, its body turns to stone and
-  releases a petrifying gas. Creatures within 5 ft: DC 11 Constitution save
-  or be restrained as they begin to turn to stone.
+Death Throes. When reduced to 0 HP, its body turns to stone and releases a
+  petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be
+  restrained as it begins to turn to stone. The restrained creature repeats the
+  save at the end of its next turn: on a success the effect ends, otherwise the
+  creature is PETRIFIED for 1 minute. After 1 minute the draconian's body
+  crumbles to dust.
 
 ACTIONS
 Multiattack: 2 Shortsword attacks
@@ -45,7 +48,7 @@ Shortsword: +3 to hit, reach 5 ft — 1d6+1 piercing
 
 > ⚠️ **Blocco corretto il 2026-09-13.** Questo file conteneva ancora la versione precedente (AC 13, Claw + Javelin, Death Throes con esplosione 2d8), cioè proprio quella che `capitolo-03.md` dichiara superata — pur affermando nel titolo di essere "stesso blocco di capitolo-03.md". Ora coincidono davvero.
 >
-> **[TODO DM]** Resta una divergenza aperta sulla **Draconian Death Throes**: `dm-notes-sessione-05.md` la descrive come *arma da mischia incastrata nel corpo pietrificato* (CD 11 **Forza** per estrarla, statua che si sbriciola dopo 1 minuto), che è la versione classica di Dragonlance. Verificare sull'Appendice B e allineare i tre file.
+> La **Death Throes** qui sopra è il **testo ufficiale**, verificato con Fabio il 2026-09-13. Attenzione: due TS falliti di fila = **Pietrificato per 1 minuto**, cioè un PG fuori dallo scontro. Non ammucchiare il party attorno a un baaz ferito, e ricordati di far ripetere il tiro alla fine del turno successivo.
 
 ```
 KAPAK DRACONIAN (non combatte se può evitarlo — vedi "Come si svolge")

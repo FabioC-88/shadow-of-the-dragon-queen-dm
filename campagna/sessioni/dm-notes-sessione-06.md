@@ -152,7 +152,7 @@ Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allar
 
 ***Tesoro.*** Le rastrelliere d'armi custodiscono dozzine di armi appartenute alle forze di Kalaman prima che il forte cadesse. Una rastrelliera porta anche un bastone **hoopak** (*vedi appendice A*), sottratto a Elgo (imprigionata nell'area W6). Sopra la rastrelliera sud è appesa una lancia lucente incisa con immagini di draghi — decorazione di latta, inutile in combattimento.
 
-*[NOTA DM — riservata] Rivedere i baaz è deliberato: il party li conosce già dalla S05 e sa esattamente come muoiono (pietrificazione, arma incastrata). Usa questa familiarità a tuo vantaggio — è un incontro più rapido da giocare perché il tavolo ha già imparato le regole. Se un PG grida "non colpirlo per ultimo con l'arma buona!", è la conferma che la lezione di S05 ha attecchito.*
+*[NOTA DM — riservata] Rivedere i baaz è deliberato: il party li conosce già dalla S05 e sa esattamente come muoiono (pietrificazione e gas che pietrifica chi è adiacente). Usa questa familiarità a tuo vantaggio — è un incontro più rapido da giocare perché il tavolo ha già imparato le regole. Se un PG grida "state larghi quando cade!", è la conferma che la lezione di S05 ha attecchito.*
 
 ---
 
@@ -351,10 +351,11 @@ Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Comune, Draconico
 Planata (Glide). Il baaz può usare le ali per planare: quando cade, non subisce
 danni da caduta e può spostarsi orizzontalmente di 1,5 m per ogni 3 m di discesa.
 —
-Pietrificazione (Death Burst). Quando il baaz scende a 0 PF, il suo corpo si
-tramuta in pietra. Un'arma da mischia usata per il colpo mortale resta incastrata:
-liberarla richiede un'azione e una prova di Forza CD 11. Dopo 1 minuto la statua
-si sbriciola in polvere.
+Death Throes. Quando il baaz scende a 0 PF, il suo corpo si tramuta in pietra e
+rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione CD 11 o è
+Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato ripete il TS
+alla fine del proprio turno successivo: con un successo l'effetto termina, altrimenti
+è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo si sbriciola in polvere.
 —
 AZIONI
 Multiattacco. Il baaz effettua due attacchi: uno con il morso e uno con gli artigli

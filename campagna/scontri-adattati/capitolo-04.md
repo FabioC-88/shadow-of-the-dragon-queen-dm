@@ -94,9 +94,13 @@ Skills: Intimidation +1 | Darkvision 60 ft, Passive Perception 10
 
 Glide: the baaz takes no falling damage and can move 5 ft horizontally for every
 10 ft it falls.
-Death Burst (Petrification): when reduced to 0 HP, its body turns to stone. A melee
-weapon used for the killing blow becomes stuck: freeing it takes an action and a
-DC 11 Strength check. The statue crumbles to dust after 1 minute.
+Death Throes: when reduced to 0 HP, its body turns to stone and releases a
+petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be restrained
+as it begins to turn to stone. The restrained creature repeats the save at the end
+of its next turn: on a success the effect ends, otherwise the creature is PETRIFIED
+for 1 minute. After 1 minute the body crumbles to dust.
+  [Testo ufficiale, verificato il 2026-09-13 — sostituisce la vecchia versione
+   "arma incastrata", che era sbagliata.]
 
 ACTIONS
 Multiattack: Bite + Claws, or two attacks with Longsword.

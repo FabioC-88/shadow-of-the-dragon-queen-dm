@@ -138,8 +138,12 @@ FOR +2, DES +0, CON +1, INT -1, SAG -1, CAR +0
 Resistenza ai danni: fulmine, tuono
 Scurovisione 18 m | Percezione passiva 9
 
-Morte Draconiana: quando muore, si pietrifica per un istante poi esplode.
-  Creature entro 1,5 m: TS Destrezza CD 10 o 9 (2d8) danni da perforazione.
+Death Throes. Quando il baaz scende a 0 PF, il suo corpo si tramuta in pietra e
+  rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione CD 11
+  o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato
+  ripete il TS alla fine del proprio turno successivo: con un successo l'effetto
+  termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo si
+  sbriciola in polvere.
 
 AZIONI
 Multiattacco: 2 attacchi con Artigli
