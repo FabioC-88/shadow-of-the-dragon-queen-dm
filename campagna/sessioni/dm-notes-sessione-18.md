@@ -203,7 +203,7 @@ STR 15 (+2)  DEX 11 (+0)  CON 15 (+2)  INT 9 (-1)  WIS 11 (+0)  CHA 10 (+0)
 Abilità Percezione +2
 Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
 —
-Planata (Glide). Come il baaz: il bozak non subisce danno da caduta e può planare 1,5 m in orizzontale per ogni 30 cm di caduta.
+Planata (Glide). Il bozak non subisce danni da caduta e può planare 1,5 m in orizzontale per ogni 30 cm di caduta. *(Tratto del bozak, ricostruito: **non** condiviso col baaz, che ha solo* Caduta Controllata *e non plana — vedi la scheda ufficiale del baaz in `scontri-adattati/capitolo-03.md`.)*
 Morte Fiammeggiante (Death Throes). Quando il bozak scende a 0 PF, il suo corpo esplode in un lampo di fuoco magico. Ogni creatura entro 3 m deve superare un TS Destrezza CD 13, subendo 14 (4d6) danni da fuoco, o metà se ha successo.
 —
 AZIONI

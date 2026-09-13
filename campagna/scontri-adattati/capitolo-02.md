@@ -22,33 +22,36 @@
 ### Stat Block
 
 ```
-BAAZ DRACONIAN (×5, 3 in combattimento se il party viene notato) — stesso blocco di capitolo-03.md
-Medium Monstrosity | AC 14 (natural armor) | HP 11 (dimezzati — 22 a piena salute,
-  già provati dallo scontro coi cavalieri)
-Speed 30 ft | CR 1/2 (100 XP) | Languages: Common, Draconic
+BAAZ DRACONIAN (×5; 3 combattono se il party viene notato) — DSotDQ p197
+Medium Monstrosity, typically Lawful Evil | AC 14 (natural armor)
+Initiative +0 (10) | HP 11 (dimezzati — 22 a piena salute, già provati dai cavalieri) | Speed 30 ft.
+STR 13 (+1, save +1)   DEX 11 (+0, save +0)   CON 13 (+1, save +1)
+INT  8 (-1, save -1)   WIS  8 (-1, save -1)   CHA 10 (+0, save +0)
+Gear Shortsword | Senses Darkvision 60 ft., Passive Perception 9
+Languages Common, Draconic | CR 1/2 (XP 100; PB +2)
 
-STR +1, DEX +0, CON +1, INT -1, WIS -1, CHA +0
-Darkvision 60 ft | Passive Perception 9
-
-Controlled Fall: when it falls and isn't incapacitated, it subtracts up to 100 ft
-  from the fall when calculating the fall's damage.
-Draconic Devotion: while it can see a Dragon that isn't hostile to it, it has
-  advantage on attack rolls.
+TRAITS
+Controlled Fall. When the draconian falls and isn't incapacitated, it subtracts
+  up to 100 ft from the fall when calculating the fall's damage.
 Death Throes. When reduced to 0 HP, its body turns to stone and releases a
-  petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be
-  restrained as it begins to turn to stone. The restrained creature repeats the
-  save at the end of its next turn: on a success the effect ends, otherwise the
-  creature is PETRIFIED for 1 minute. After 1 minute the draconian's body
+  petrifying gas. Each creature within 5 ft must succeed on a DC 11 Constitution
+  save or be restrained as it begins to turn to stone. The restrained creature
+  repeats the save at the end of its next turn: on a success the effect ends,
+  otherwise the creature is PETRIFIED for 1 minute. After 1 minute, the body
   crumbles to dust.
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  draconian has advantage on attack rolls.
 
 ACTIONS
-Multiattack: 2 Shortsword attacks
-Shortsword: +3 to hit, reach 5 ft — 1d6+1 piercing
+Multiattack. Two Shortsword attacks.
+Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
-> ⚠️ **Blocco corretto il 2026-09-13.** Questo file conteneva ancora la versione precedente (AC 13, Claw + Javelin, Death Throes con esplosione 2d8), cioè proprio quella che `capitolo-03.md` dichiara superata — pur affermando nel titolo di essere "stesso blocco di capitolo-03.md". Ora coincidono davvero.
+> ✅ **Scheda ufficiale DSotDQ p197**, verificata con Fabio il 2026-09-13 — sostituisce la ricostruzione precedente (AC 13, Claw + Javelin, Death Throes con esplosione 2d8). È ora identica in tutta la campagna.
 >
-> La **Death Throes** qui sopra è il **testo ufficiale**, verificato con Fabio il 2026-09-13. Attenzione: due TS falliti di fila = **Pietrificato per 1 minuto**, cioè un PG fuori dallo scontro. Non ammucchiare il party attorno a un baaz ferito, e ricordati di far ripetere il tiro alla fine del turno successivo.
+> ⚠️ **Death Throes:** due TS falliti di fila = **Pietrificato per 1 minuto**, cioè un PG fuori dallo scontro. Il gas colpisce tutti entro 1,5 m: non ammucchiare il party attorno a un baaz ferito, e ricordati di far ripetere il tiro alla fine del turno successivo.
+>
+> ⚠️ **Il baaz non vola e non plana lateralmente:** l'unico tratto di caduta è *Controlled Fall*, che attutisce i danni senza concedere movimento.
 
 ```
 KAPAK DRACONIAN (non combatte se può evitarlo — vedi "Come si svolge")

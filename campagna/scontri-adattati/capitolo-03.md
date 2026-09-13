@@ -78,30 +78,33 @@ GRAGONIS — HALF-OGRE (Boss, ~CR 2)
 **Perché qui serve un approccio "a budget giornaliero"**  
 Questa sessione infila **fino a 6 scontri** in una sola giornata di gioco (ricognizione opzionale, 4 soldati sulle scogliere, almeno 3 incontri dalla tabella d'invasione, Boilerdrak, Gholcag). Il sistema di *Flee, Mortals!* raccomanda **6-8 punti giornalieri** (Facile=1, Standard=2, Difficile=4). Sommare tutto a difficoltà "Standard" sfonda il budget prima ancora di arrivare a Gholcag — per questo gli scontri minori (ricognizione, scogliere, singoli incontri della tabella d'invasione) restano deliberatamente leggeri/veloci, riservando il vero peso della giornata al duo finale.  
 **Ricognizione nel Bosco (opzionale) — invariato**  
-BAAZ DRACONIAN (×3) — standard block, used for every Baaz encounter in this chapter  
- Medium Monstrosity | AC 14 (natural armor) | HP 22 (4d8+4)  
- Speed 30 ft | CR 1/2 (100 XP) | Languages: Common, Draconic  
+ BAAZ DRACONIAN (×3) — DSotDQ p197, scheda ufficiale (verificata 2026-09-13)  
+ Medium Monstrosity, typically Lawful Evil | AC 14 (natural armor)  
+ Initiative +0 (10) | HP 22 (4d8+4) | Speed 30 ft.  
+ STR 13 (+1, save +1)   DEX 11 (+0, save +0)   CON 13 (+1, save +1)  
+ INT  8 (-1, save -1)   WIS  8 (-1, save -1)   CHA 10 (+0, save +0)  
+ Gear Shortsword | Senses Darkvision 60 ft., Passive Perception 9  
+ Languages Common, Draconic | CR 1/2 (XP 100; PB +2)  
    
- STR +1, DEX +0, CON +1, INT -1, WIS -1, CHA +0  
- Darkvision 60 ft | Passive Perception 9  
-   
- Controlled Fall: when it falls and isn't incapacitated, it subtracts up to 100 ft  
-   from the fall when calculating the fall's damage.  
- Draconic Devotion: while it can see a Dragon that isn't hostile to it, it has  
-   advantage on attack rolls.  
- Death Throes: when reduced to 0 HP, its body turns to stone and releases a  
-   petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be  
-   restrained as it begins to turn to stone. The restrained creature repeats  
-   the save at the end of its next turn: on a success the effect ends,  
-   otherwise the creature is PETRIFIED for 1 minute. After 1 minute the  
-   body crumbles to dust.  
-   [Testo ufficiale, verificato con Fabio il 2026-09-13. Due TS falliti di  
-   fila = un PG fuori dallo scontro: non ammucchiare il party attorno a un  
-   baaz ferito, e ricordati di far ripetere il tiro.]  
+ TRAITS  
+ Controlled Fall. When the draconian falls and isn't incapacitated, it subtracts  
+   up to 100 ft from the fall when calculating the fall's damage.  
+ Death Throes. When reduced to 0 HP, its body turns to stone and releases a  
+   petrifying gas. Each creature within 5 ft must succeed on a DC 11 Constitution  
+   save or be restrained as it begins to turn to stone. The restrained creature  
+   repeats the save at the end of its next turn: on a success the effect ends,  
+   otherwise the creature is PETRIFIED for 1 minute. After 1 minute, the body  
+   crumbles to dust.  
+   [Due TS falliti = un PG fuori dallo scontro. Il gas colpisce tutti entro 5 ft:  
+    non ammucchiare il party attorno a un baaz ferito, e fai ripetere il tiro.]  
+ Draconic Devotion. While it can see a Dragon that isn't hostile to it, the  
+   draconian has advantage on attack rolls.  
    
  ACTIONS  
- Multiattack: 2 Shortsword attacks  
- Shortsword: +3 to hit, reach 5 ft — 1d6+1 piercing  
+ Multiattack. Two Shortsword attacks.  
+ Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.  
+ NOTA: il baaz NON vola e non plana lateralmente. Controlled Fall attutisce  
+   soltanto i danni da caduta.  
    
 DRAGON ARMY SOLDIER (×2) — corretto (arma e trait errati in una bozza precedente)  
  Medium Humanoid | AC 17 (armor) | HP 32 (5d8+10)  
@@ -231,7 +234,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 | Cavalieri Mercenari | 3 Mercenary Guards + 3 War Horses | 4 Mercenary Guards + 3 War Horses | scala il numero sul quinto giocatore, blocco statistico invariato |   
 | War Horse | Multiattack 2 Hooves (errato) | corretto sull'SRD ufficiale: 1 solo Hooves + Trampling Charge | una bozza precedente raddoppiava per errore il danno per round |   
 | Gragonis | CR 1, statico, erroneamente indicato come mezzo-orco | ~CR 2, Bonus Action + Reaction (niente Villain Actions — non è il boss di capitolo); corretto in **mezzo-ogre** (fonte: recap ufficiali di sessione) | risolve l'economia delle azioni senza gonfiare i danni né dargli il trattamento riservato ai boss veri; la taglia Large nel blocco era già incoerente con "half-orc" |   
-| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | corretto sullo stat block ufficiale DSotDQ: AC 14, Shortsword (no Javelin), Draconic Devotion, Death Throes = gas pietrificante CD 11 Cos, **secondo TS mancato = Pietrificato per 1 minuto** (testo ufficiale verificato il 2026-09-13) | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
+| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | **scheda ufficiale integrale DSotDQ p197** (verificata 2026-09-13): AC 14, HP 22, 2× Shortsword +3 (1d6+1), Controlled Fall, Draconic Devotion, Death Throes = gas pietrificante CD 11 Cos con secondo TS mancato = Pietrificato 1 minuto | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
 | Kapak (Assassino dal Cielo) | AC 13, HP 52, "fly" (volo), Bite+Dagger, Death Throes veleno | corretto sullo stat block ufficiale DSotDQ: AC 15, HP 39, climb 40 ft (non vola), 2 Dagger, Death Throes acido; mantenuta la Reaction homebrew "Glide Away" | il Kapak ufficiale non può volare, solo planare da una caduta — l'errore cambiava la tattica dell'incontro |   
 | Boilerdrak | stat block errato in una bozza precedente | corretto sullo stat block ufficiale (DSotDQ p.189: oggetto Large, AC 15, HP 100) + opzione di sabotaggio | fedeltà alla fonte, oltre a varietà tattica |   
 | Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics" | corretto sullo stat block ufficiale: AC 17, Longsword/Javelin +1d4 fuoco, trait ufficiale "Draconic Devotion" | il danno da fuoco è il dettaglio tematico che giustifica il nome "Dragon Army" — una bozza precedente lo aveva perso |   

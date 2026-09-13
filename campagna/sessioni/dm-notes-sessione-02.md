@@ -129,27 +129,41 @@ Se attaccati, uno dei draconiani tenta di fuggire al campo per dare l'allarme. *
 ### Stat Block — Ricognizione nel Bosco (opzionale)
 
 ```
-BAAZ DRACONIANO (×3)
-Mostruosità Media | CA 13 (armatura naturale) | PF 22 (4d8+4)
-Velocità 9 m | CR 1/2 (100 XP) | Neutrale Malvagio
-Lingue: Comune, Draconico
-
-FOR +2, DES +0, CON +1, INT -1, SAG -1, CAR +0
-Resistenza ai danni: fulmine, tuono
-Scurovisione 18 m | Percezione passiva 9
-
-Death Throes. Quando il baaz scende a 0 PF, il suo corpo si tramuta in pietra e
-  rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione CD 11
-  o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato
-  ripete il TS alla fine del proprio turno successivo: con un successo l'effetto
-  termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo si
-  sbriciola in polvere.
-
+BAAZ DRACONIAN (×3) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
+—
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
+—
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
+—
 AZIONI
-Multiattacco: 2 attacchi con Artigli
-Artigli: +4 al colpo, portata 1,5 m — 1d6+2 taglienti
-Giavellotto: +4 al colpo, gittata 9/36 m — 1d6+2 perforanti
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
+
+> ✅ **Scheda ufficiale** (DSotDQ p197, formato 2024) — verificata con Fabio il 2026-09-13. Sostituisce le ricostruzioni precedenti, che erano tutte diverse fra loro. Da qui in avanti **questa è l'unica scheda Baaz valida in tutta la campagna**.
+>
+> ⚠️ **Il baaz NON vola e non plana lateralmente.** L'unico tratto di caduta è *Caduta Controllata*: attutisce la caduta, non concede movimento orizzontale né quota. Le versioni precedenti gli davano una "Planata" che non esiste.
+>
+> ⚠️ **Death Throes:** due TS falliti di fila = **PG Pietrificato per 1 minuto**, cioè fuori dallo scontro. Il gas colpisce *tutti* entro 1,5 m, alleati del baaz compresi — non lasciare che il party si ammucchi attorno a un baaz ferito, e ricordati di far ripetere il tiro.
+
 
 ```
 SOLDATO DELL'ESERCITO DEL DRAGO (×2)
@@ -449,7 +463,7 @@ Pugnale: +5 al colpo, portata 1,5 m — 1d4+3 perforanti
 
 Cinque **baaz draconiani** caricano verso il molo, intenzionati ad appiccare il fuoco agli edifici e a uccidere i villager in fuga. In quello stato di frenesia, i draconiani combattono fino alla morte.
 
-*(Stat block: come Fase 2 — CA 13, PF 22, CR 1/2)*
+*(Stat block: come Fase 2 — CA 14, PF 22, CR 1/2, 2× Spada corta +3)*
 
 ---
 

@@ -623,15 +623,15 @@ Passata di controllo prima della prima serata al tavolo. Correzioni applicate:
 - **`dm-notes-sessione-02.md` riporta "XP accumulati: 375 XP"**, contando solo la Sessione 01 con i numeri vecchi (3 guardie + Gragonis a CR 1) e ignorando i 300 XP della Sessione 00. Con i numeri corretti il totale a fine Sessione 01 è **1.275 XP**. Poiché il Capitolo 3 avanza a pietra miliare la cosa non ha effetti in gioco: **da sistemare dopo la sessione, non prima.**
 - ~~**Death Throes del Baaz Draconian:** due versioni in conflitto.~~ **Risolta il 2026-09-13** con il testo ufficiale fornito da Fabio: gas pietrificante, TS Costituzione CD 11, Immobilizzato → secondo TS mancato = **Pietrificato per 1 minuto**, corpo in polvere dopo 1 minuto. La versione "arma incastrata" era sbagliata ed è stata corretta in tutti i file che la riportavano (S00, S02, S05, S06, S13, `capitolo-02/03/04.md`).
 
-### ⚠️ Resta davvero aperto: i blocchi del Baaz non coincidono fra loro
+### ✅ Anche i blocchi del Baaz sono stati unificati (2026-09-13)
 
-Cercando dove correggere la Death Throes ne sono saltati fuori **cinque blocchi Baaz diversi** nel repo, che non differiscono solo nella formattazione:
+Cercando dove correggere la Death Throes erano saltati fuori **cinque blocchi Baaz diversi** nel repo. Fabio ha poi fornito la **scheda ufficiale integrale (DSotDQ p197)**, e ora sono tutti allineati a quella:
 
-| Dove | Tipo | CA | PF | CR | Attacchi |
-|---|---|---|---|---|---|
-| `capitolo-02/03.md`, S00, S02 | Medium Monstrosity | 14 | 22 | 1/2 | 2× Shortsword |
-| `capitolo-04.md` | Medium **Dragon** | 15 | 22 | **1** | Morso+Artigli o 2× Longsword |
-| S06 | — | — | — | — | Morso+Artigli, + tratto *Planata* |
-| S13 | **drago Piccolo** | **16** | **13** | — | Morso+Artiglio |
+| Dove | Com'era | Ora |
+|---|---|---|
+| `capitolo-02/03.md`, S00, S02 | Monstrosity CA 14, 2× Shortsword *(già quasi giusto)* | scheda ufficiale completa |
+| `capitolo-04.md` | Medium **Dragon**, CA 15, **CR 1**, Morso+Artigli o 2× Longsword | scheda ufficiale |
+| S05, S06 | CA 15, PF 22 (3d8+9), **CR 1**, Spada lunga, tratto *Planata* | scheda ufficiale |
+| S13, S15, S27 | **drago Piccolo**, CA 16, **PF 13**, volo/planata | scheda ufficiale |
 
-La Death Throes ora è identica ovunque, ma **il resto no**. Ho corretto solo ciò per cui ho una fonte: se mi passi il blocco ufficiale completo dall'Appendice B, li allineo tutti in una passata. Non urgente per stasera — S00 e S01 usano il blocco di `capitolo-02/03.md`, che è quello dichiarato corretto sulla fonte.
+**Conseguenza da tenere d'occhio:** il baaz ufficiale è **CR 1/2 e picchia molto meno** di quanto fosse scritto in S05/S06 e in `capitolo-04.md` (2× Spada corta 1d6+1 ≈ 8 danni/round, contro gli ~11-14 delle versioni ricostruite). Gli scontri con baaz **dal Cap. 4 in poi** erano bilanciati sui numeri vecchi: se vuoi mantenere la pressione, **aumenta il numero di baaz invece di gonfiare il blocco**. Segnalato con un TODO in `scontri-adattati/capitolo-04.md`. Non riguarda le Sessioni 00-01, che già usavano il blocco giusto.

@@ -84,29 +84,33 @@ and move away. Coerente con l'originale: fugge se in inferiorità numerica.
 
 **3× Baaz Draconian** (era 2, scalato per il quinto giocatore) + **1× Kapak Draconian (Ambusher)**. Stat block classici, come sempre in questa campagna.
 
+> ⚠️ **[TODO DM — ricontrollare il budget di questo scontro.]** Il Baaz qui era scritto come **CR 1 (200 XP)**; la scheda ufficiale è **CR 1/2 (100 XP)**, con danni molto più bassi (2× Shortsword 1d6+1 = ~8/round, invece di Morso+Artigli o 2× Longsword = ~11-14/round). Il budget *Flee, Mortals!* di questo incontro era calcolato sui numeri vecchi: **i tre baaz ora pesano circa la metà.** Se vuoi mantenere la pressione originale, alza il numero (4-5 baaz) invece di gonfiare il blocco. Vale per tutti gli scontri con baaz dal Cap. 4 in poi.
+
 ```
-BAAZ DRACONIAN (×3)
-Medium Dragon | AC 15 (natural armor) | HP 22 (3d8+9)
-Speed 30 ft | CR 1 (200 XP each) | Lawful Evil | Languages: Common, Draconic
+BAAZ DRACONIAN (×3) — DSotDQ p197, scheda ufficiale (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 14 (natural armor)
+Initiative +0 (10) | HP 22 (4d8+4) | Speed 30 ft.
+STR 13 (+1, save +1)   DEX 11 (+0, save +0)   CON 13 (+1, save +1)
+INT  8 (-1, save -1)   WIS  8 (-1, save -1)   CHA 10 (+0, save +0)
+Gear Shortsword | Senses Darkvision 60 ft., Passive Perception 9
+Languages Common, Draconic | CR 1/2 (XP 100; PB +2)
 
-STR +2, DEX +1, CON +3, INT -1, WIS +0, CHA -1
-Skills: Intimidation +1 | Darkvision 60 ft, Passive Perception 10
-
-Glide: the baaz takes no falling damage and can move 5 ft horizontally for every
-10 ft it falls.
-Death Throes: when reduced to 0 HP, its body turns to stone and releases a
-petrifying gas. Each creature within 5 ft: DC 11 Constitution save or be restrained
-as it begins to turn to stone. The restrained creature repeats the save at the end
-of its next turn: on a success the effect ends, otherwise the creature is PETRIFIED
-for 1 minute. After 1 minute the body crumbles to dust.
-  [Testo ufficiale, verificato il 2026-09-13 — sostituisce la vecchia versione
-   "arma incastrata", che era sbagliata.]
+TRAITS
+Controlled Fall. When the draconian falls and isn't incapacitated, it subtracts
+  up to 100 ft from the fall when calculating the fall's damage.
+  [NON vola e NON plana lateralmente: attutisce solo i danni da caduta.]
+Death Throes. When reduced to 0 HP, its body turns to stone and releases a
+  petrifying gas. Each creature within 5 ft must succeed on a DC 11 Constitution
+  save or be restrained as it begins to turn to stone. The restrained creature
+  repeats the save at the end of its next turn: on a success the effect ends,
+  otherwise the creature is PETRIFIED for 1 minute. After 1 minute, the body
+  crumbles to dust.
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  draconian has advantage on attack rolls.
 
 ACTIONS
-Multiattack: Bite + Claws, or two attacks with Longsword.
-Longsword: +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed.
-Bite: +4 to hit, reach 5 ft — 5 (1d6+2) piercing.
-Claws: +4 to hit, reach 5 ft — 6 (2d4+2) slashing.
+Multiattack. Two Shortsword attacks.
+Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
 ```

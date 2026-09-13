@@ -318,18 +318,33 @@ Enfatizza la distruzione della citadella volante e gli effetti delle fiamme Cata
 ### Stat Block — Draconiano Baaz (fino a ×6, opzionale) · GS 1/2 · 100 XP cad. *(scheda identica alle Sessioni 00/13/15)*
 
 ```
-DRACONIANO BAAZ — drago Piccolo, legale malvagio
-CA 16 (armatura naturale)   PF 13 (3d6+3)   Velocità 9 m, volare 9 m (solo planata, non guadagna quota)
-STR 14 (+2)  DEX 13 (+1)  CON 13 (+1)  INT 8 (-1)  WIS 11 (+0)  CHA 8 (-1)
-Resistenze danni veleno
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+BAAZ DRACONIAN (fino a ×6) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
 —
-Death Throes. Quando il baaz viene ridotto a 0 punti ferita, il suo corpo si tramuta in pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo l'effetto termina, altrimenti è Pietrificato per 1 minuto. Dopo 1 minuto il corpo del draconiano si sbriciola in polvere.
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
+—
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Due attacchi: morso e artiglio, oppure due artigli.
-Morso. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 5 (1d4+2) danni perforanti.
-Artiglio. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 8 (1d6+2) danni taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
 
 ---

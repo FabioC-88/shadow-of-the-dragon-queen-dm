@@ -290,26 +290,35 @@ Rhys guida i personaggi per quasi un chilometro lungo la strada, poi si ferma: d
 #### ⚔️ Incontro — 3 Baaz Draconian (già provati dallo scontro coi cavalieri)
 
 ```
-BAAZ DRACONIAN (×3)
-Medium Monstrosity | AC 14 (natural armor) | HP 11 (dimezzati — 22 a piena salute)
-Speed 30 ft | CR 1/2 (100 XP cad.) | Languages: Common, Draconic
-
-STR +1, DEX +0, CON +1, INT -1, WIS -1, CHA +0
-Darkvision 60 ft | Passive Perception 9
-
-Controlled Fall: quando cade e non è incapacitato, sottrae fino a 30 m
-  dall'altezza nel calcolo dei danni da caduta.
-Draconic Devotion: se vede un Drago non ostile, ha vantaggio ai tiri per colpire.
+BAAZ DRACONIAN (×3) — DSotDQ p197, scheda ufficiale
+Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   Velocità 9 m
+PF 11 (dimezzati — 22 a piena salute, già provati dallo scontro coi cavalieri)
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
+—
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
+(NON vola e non plana lateralmente.)
+—
 Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
-  pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione
-  CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato
-  ripete il TS alla fine del proprio turno successivo: con un successo l'effetto
-  termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo del
-  draconiano si sbriciola in polvere.
-
-ACTIONS
-Multiattack: 2 attacchi con Shortsword
-Shortsword: +3 al colpo, portata 1,5 m — 1d6+1 perforanti
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
+—
+AZIONI
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. +3 al colpire, portata 1,5 m — 4 (1d6+1) danni perforanti.
 ```
 
 > **Note tattiche:** i baaz sono aggressivi ma gravemente feriti (metà PF). Attaccano il bersaglio più vicino e non fuggono: devono coprire la ritirata del kapak.

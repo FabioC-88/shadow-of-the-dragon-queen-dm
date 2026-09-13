@@ -339,31 +339,36 @@ Morso. +6 al colpire, portata 1,5 m. Colpito: 8 (1d10+3) perforanti.
 
 *[NOTA DM — riservata] Il "Furto di Forma" e l'"Ultimo Inganno" sono ricostruiti sul lore classico di Dragonlance per il sivak (il draconiano che ruba identità) e vanno **verificati sull'appendice B del manuale**, che nell'estratto disponibile riporta solo il nome della creatura senza stat block completo — stessa onestà metodologica di S05 per baaz/kapak. L'"Ultimo Inganno" è pensato come puro colpo di scena narrativo (il cadavere che per un istante ha il volto di chi lo ha ucciso), non come meccanica di combattimento: non dargli conseguenze meccaniche reali, solo l'orrore del momento.*
 
-### Baaz Draconian (×2) · CR 1 · 200 XP cad. *(identico alla Sessione 05)*
+### Baaz Draconian (×2) · CR 1/2 · 100 XP cad. *(identico alla Sessione 05)*
 
 ```
-BAAZ DRACONIAN — creatura drago Media, legale malvagio
-CA 15 (armatura naturale)   PF 22 (3d8+9)   Velocità 9 m, planata
-STR 15 (+2)  DEX 12 (+1)  CON 16 (+3)  INT 8 (-1)  WIS 10 (+0)  CHA 9 (-1)
-Abilità Intimidire +1
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Comune, Draconico
+BAAZ DRACONIAN (×2) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
 —
-Planata (Glide). Il baaz può usare le ali per planare: quando cade, non subisce
-danni da caduta e può spostarsi orizzontalmente di 1,5 m per ogni 3 m di discesa.
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-Death Throes. Quando il baaz scende a 0 PF, il suo corpo si tramuta in pietra e
-rilascia un gas pietrificante. Ogni creatura entro 1,5 m: TS Costituzione CD 11 o è
-Immobilizzata mentre inizia a tramutarsi in pietra. Chi è Immobilizzato ripete il TS
-alla fine del proprio turno successivo: con un successo l'effetto termina, altrimenti
-è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo si sbriciola in polvere.
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Il baaz effettua due attacchi: uno con il morso e uno con gli artigli
-(oppure due con la spada lunga).
-Spada lunga. +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) taglienti,
-o 7 (1d10+2) se impugnata a due mani.
-Morso. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) perforanti.
-Artigli. +4 al colpire, portata 1,5 m. Colpito: 6 (2d4+2) taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
 
 ### Dragon Army Dragonnel · CR 4 · 1.100 XP
