@@ -54,33 +54,40 @@ Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 > ⚠️ **Il baaz non vola e non plana lateralmente:** l'unico tratto di caduta è *Controlled Fall*, che attutisce i danni senza concedere movimento.
 
 ```
-KAPAK DRACONIAN (non combatte se può evitarlo — vedi "Come si svolge")
-Medium Monstrosity | AC 15 (natural armor) | HP 39 (6d8+12)
-Speed 40 ft, climb 40 ft (NON vola — solo planata, vedi Glide) | CR 3 (700 XP)
-Languages: Common, Draconic
+KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale (non combatte se puo' evitarlo)
+Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
+Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
+INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
+Skills Deception +4, Perception +3, Stealth +7
+Immunities Poison; Poisoned | Gear Dagger
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Common, Draconic | CR 3 (XP 700; PB +2)
 
-STR +0, DEX +3, CON +2, INT +1, WIS +1, CHA +0
-Saving Throws: Dex +5 | Skills: Deception +4, Perception +3, Stealth +7
-Immune: poison | Condition Immunities: poisoned
-Darkvision 60 ft | Passive Perception 13
-
-Glide: quando cade e non è incapacitato, sottrae fino a 30 m dall'altezza nel
-  calcolo dei danni e può spostarsi di 60 cm in orizzontale ogni 30 cm di discesa.
-  Non è volo: non può guadagnare quota.
-Draconian Death Throes: si dissolve in acido che schizza chi gli sta attorno.
-  Creature entro 1,5 m: TS Destrezza CD 12 o vengono ricoperte di acido per
-  1 minuto, subendo 7 (2d6) danni acidi all'inizio di ogni proprio turno.
+TRAITS
+Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those
+  around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or
+  be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each
+  of its turns. A creature can use its action to scrape or wash the acid off
+  itself or another creature.
+Glide. When it falls and isn't incapacitated, it subtracts up to 100 ft from the
+  fall when calculating damage, and can move up to 2 ft horizontally for every
+  1 ft it descends. NOT flight: it cannot gain altitude.
 
 ACTIONS
-Multiattack: 2 attacchi con Dagger. Se entrambi colpiscono la stessa creatura,
-  quel bersaglio deve superare un TS Costituzione CD 12 o è avvelenato fino
-  alla fine del suo turno successivo; mentre è avvelenato così, è anche paralizzato.
-Dagger: +5 al colpo, portata 1,5 m o gittata 6/18 m — 1d4+3 perforanti + 2d6 veleno
+Multiattack. Two Dagger attacks. If both hit the same creature, that target must
+  succeed on a DC 12 Constitution save or be poisoned until the end of its next
+  turn. While poisoned this way, the target is also PARALYZED.
+Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
 ```
 
 *Nota: qui il Kapak è il blocco base, **senza** le aggiunte homebrew "Sneak Attack" e "Glide Away" scritte per l'incontro "Assassino dal Cielo" del Cap. 3 — in questa scena non è pensato per ingaggiare.*
 
-⚠️ **Corretto il 2026-09-13** sullo stesso stat block ufficiale già usato in `capitolo-03.md`: il Kapak **non vola** (la versione precedente gli dava `fly 40 ft`, un errore che cambiava completamente la tattica), ha AC 15 e 39 PF, e la sua Death Throes è **acida**, non velenosa.
+> ✅ **Scheda ufficiale DSotDQ p198**, verificata con Fabio il 2026-09-13.
+> ⚠️ Il Kapak **non vola**: ha *Glide* (solo in discesa) e **Climb 40 ft**. La versione precedente gli dava `fly 40 ft`, errore che cambiava la tattica dell'incontro.
+> ⚠️ Il veleno sta nel **Multiattacco**, non in un'azione bonus: due pugnali a segno sullo stesso bersaglio possono **paralizzarlo**.
+> ⚠️ L'acido delle Death Throes **resta addosso** per 1 minuto, 2d6 a turno, finché non lo si raschia via con un'azione.
 
 ### Come si svolge
 

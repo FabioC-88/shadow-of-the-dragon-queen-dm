@@ -433,27 +433,43 @@ Quando hai eseguito almeno tre incontri, passa alla Sezione 5C.
 Un **kapak draconiano** plana dall'alto delle scogliere, intenzionato a piombare su uno dei personaggi. Solo i personaggi con **Percezione passiva 14 o superiore** lo notano. Gli altri sono colti di sorpresa se il kapak attacca.
 
 ```
-KAPAK DRACONIANO
-Mostruosità Media | CA 13 (armatura naturale) | PF 52 (8d8+16)
-Velocità 9 m, volo 12 m (solo planata — non guadagna quota) | CR 3 (700 XP)
-Lingue: Comune, Draconico
-
-FOR +2, DES +3, CON +2, INT +0, SAG +0, CAR +0
-Abilità: Furtività +7, Percezione +2, Inganno +2
-Immunità: veleno | Condizioni: avvelenato
-Resistenza ai danni: fulmine, tuono
-Scurovisione 18 m | Percezione passiva 12
-
-Ali silenziose: vantaggio ai tiri di Furtività quando in volo.
-Attacco Furtivo: +2d6 danni extra se ha vantaggio o un alleato entro 1,5 m del bersaglio.
-Morte Draconiana: si dissolve in una pozza di veleno corrosivo.
-  Creature entro 1,5 m: TS Costituzione CD 13 o avvelenato per 1 minuto.
-
+KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale
+Mostruosità Media, tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 39 (6d8+12)
+Velocità 12 m, Scalare 12 m
+FOR 11 (+0, TS +0)   DES 17 (+3, TS +5)   COS 14 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 13 (+1, TS +1)   CAR 11 (+0, TS +0)
+Abilità Inganno +4, Percezione +3, Furtività +7
+Immunità veleno; avvelenato
+Equipaggiamento Pugnale
+Sensi scurovisione 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Death Throes. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
+su chi gli sta attorno. Ogni creatura entro 1,5 m deve superare un TS Destrezza
+CD 12 o resta ricoperta di acido per 1 minuto, subendo 7 (2d6) danni da acido
+all'inizio di ogni proprio turno. Una creatura può usare la propria azione per
+raschiare o lavare via l'acido da sé o da un'altra creatura.
+—
+Planata (Glide). Quando il kapak cade e non è incapacitato, sottrae fino a 30 m
+dall'altezza nel calcolo dei danni da caduta e può spostarsi di 60 cm in
+orizzontale per ogni 30 cm di discesa. NON è volo: non guadagna quota.
+—
 AZIONI
-Multiattacco: 1 Morso + 1 Pugnale
-Morso (Veleno): +5 al colpo, portata 1,5 m — 1d6+3 perforanti + 1d6 veleno
-Pugnale: +5 al colpo, portata 1,5 m — 1d4+3 perforanti
+Multiattacco. Il kapak effettua due attacchi con il Pugnale. Se entrambi
+colpiscono la stessa creatura, quel bersaglio deve superare un TS Costituzione
+CD 12 o è avvelenato fino alla fine del proprio turno successivo; mentre è
+avvelenato in questo modo, è anche PARALIZZATO.
+Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
+oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
 ```
+
+> ✅ **Scheda ufficiale** (DSotDQ p198), verificata con Fabio il 2026-09-13.
+> ⚠️ **Non vola.** Ha *Planata* (scende, non sale) e **Scalare 12 m**: piomba dall'alto delle scogliere una volta sola, poi resta a terra. Non c'è nessuna "Ali silenziose" né Attacco Furtivo.
+> ⚠️ **Il veleno è nel Multiattacco:** se entrambi i pugnali colpiscono lo stesso bersaglio, quello rischia di restare **paralizzato** fino alla fine del suo turno. È la vera minaccia, non il danno.
+> ⚠️ **Death Throes:** l'acido **resta addosso** e fa 2d6 all'inizio di ogni turno finché qualcuno non spende **un'azione** per toglierlo.
 
 ---
 
@@ -531,20 +547,28 @@ Un personaggio che supera **Percezione CD 12** o che si avvicina a meno di 1,5 m
 #### Stat Block — Boilerdrak
 
 ```
-BOILERDRAK — Arma d'Assedio
-Costrutto Enorme | CA 14 | PF 50
-Velocità 6 m (richiede 1 azione membro equipaggio per muoversi)
+BOILERDRAK — DSotDQ p189, scheda ufficiale
+Oggetto Grande   CA 15   PF 100
 Immunità ai danni: veleno, psichico
-Immunità alle condizioni: affascinato, impaurito, paralizzato, avvelenato
-Equipaggio minimo: 1 (massimo 4) · Dimensioni: 3m × 6m
 
-Soffio di Fuoco (Ricarica 5–6): cono di 9 m. Creature nel cono:
-  TS Destrezza CD 12 o 4d6 fuoco (metà se riuscito).
-  Richiede 1 azione di un membro dell'equipaggio.
+Congegno grande come un carro, costruito per somigliare vagamente a un drago.
+Prima di poter essere usato va ACCESO (1 azione) e PUNTATO (1 azione); poi
+SPARARE costa 1 azione. Quando spara, tira 1d20:
+  2 o più → Fiamme
+  1       → Esplosione
 
-Morso: +5 al colpo, portata 1,5 m — 2d6+3 perforanti.
-  Richiede 1 azione di un membro dell'equipaggio.
+Fiamme. Il boilerdrak vomita fiamme in un CONO DI 18 METRI. Ogni creatura
+nell'area: TS Destrezza CD 15, subendo 27 (5d10) danni da fuoco con un
+fallimento, o metà con un successo.
+
+Esplosione. Il boilerdrak esplode in una sfera di raggio 9 m ed è distrutto.
+Ogni creatura nell'area: TS Destrezza CD 15, subendo 27 (5d10) danni da fuoco
+con un fallimento, o metà con un successo.
 ```
+
+> ✅ **Scheda ufficiale** (DSotDQ p189), verificata con Fabio il 2026-09-13 — coincide con quella già usata in `scontri-adattati/capitolo-03.md`.
+> ⚠️ **È molto più pericoloso di com'era scritto qui.** La versione precedente era un "Costrutto Enorme" con 50 PF, un cono di 9 m e 4d6 danni: quella ufficiale ha **100 PF, un cono di 18 metri, CD 15 e 27 (5d10) danni**. Al 3° livello un colpo pieno può stendere mezzo party.
+> ⚠️ Non ha un attacco di Morso e non si muove: è un **oggetto**, non una creatura. Va acceso, puntato e sparato, un'azione per volta, dai draconiani dell'equipaggio — ed è per questo che disinnescarlo è un'opzione tattica vera.
 
 ---
 
@@ -759,9 +783,9 @@ Dopo la sessione, aggiorna questi file:
 | 10 | Testo Boxed | BT-08 | Preservati: parete del Brass Crab che si frantuma verso l'esterno, figura di 3 metri in armatura a scaglie nera, barile di pesce, manciata di pesci in bocca, due soldati rettiliani, ordine a gesti |
 | 11 | Testo Boxed | BT-09 | Preservata: voce rauca da vicolo fumoso, armatura Ironclad Regiment, elmo con corna in mano |
 | 12 | Testo Boxed | BT-10 | Preservati: Vogler in fiamme, saccheggio, villager che non distolgono lo sguardo, striscia rosso-nera lungo il fiume, flottiglie verso Kalaman |
-| 13 | Meccaniche | Boilerdrak | Aggiunto stat block completo basato su Appendice A del manuale: PF, CA, immunità Costrutto, Soffio di Fuoco (ricarica 5-6), Morso, meccanica equipaggio |
+| 13 | Meccaniche | Boilerdrak | Aggiunto stat block del boilerdrak. **Sostituito il 2026-09-13 con quello ufficiale DSotDQ p189**: è un **oggetto Grande** (CA 15, 100 PF), non un Costrutto Enorme da 50 PF; spara un **cono di 18 m, CD 15, 27 (5d10) fuoco** — molto più letale della versione precedente (cono 9 m, 4d6) — e su un 1 naturale esplode e si distrugge. Non ha attacco di Morso |
 | 14 | Meccaniche | Invasione | Aggiunta tabella eventi d6 battaglia (dagli Eventi del Campo di Battaglia originali) e caratteristiche mappa: Edificio in Fiamme (TS Cost CD16, 1d10 fuoco) e Mischia |
-| 15 | Meccaniche | Kapak | Aggiunto stat block completo kapak draconiano per Assassino dal Cielo; CR 3, planata, Ali Silenziose, Attacco Furtivo, Morte Draconiana acida |
+| 15 | Meccaniche | Kapak | Aggiunto stat block del kapak per Assassino dal Cielo. **Sostituito il 2026-09-13 con la scheda ufficiale DSotDQ p198**: "Ali Silenziose" e "Attacco Furtivo" non esistono, il kapak non vola (Glide + Scalare 12 m), e il veleno sta nel Multiattacco (due colpi a segno = possibile paralisi) |
 | 16 | Meccaniche | Gholcag | Stat block Gholcag basato su Orco con CA 14 per armatura a scaglie (come indicato nel manuale); aggiunta Aggressività come azione bonus |
 | 17 | PC Integration | Hook PG | Aggiunti hook per tutti e tre i preludi + spotlight Darrett con dialogo in-character |
 | 18 | Continuità | Jeyev | Aggiunta tabella decisionale per il destino di Becklin con tutte e quattro le opzioni del manuale — scelta rimessa al DM |

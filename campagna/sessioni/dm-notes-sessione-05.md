@@ -148,7 +148,7 @@ Mentre i due **baaz draconian** tormentano la prigioniera in piena vista, un ter
 I draconiani non muoiono come i goblin. Avverti i giocatori **descrivendo**, non spiegando in anticipo — la sorpresa è metà dell'effetto.
 
 - **Baaz — Death Throes.** Quando un baaz draconian scende a 0 PF, il suo corpo **si tramuta in pietra e rilascia un gas pietrificante**. Ogni creatura entro **1,5 m** deve superare un **TS Costituzione CD 11** o è **Immobilizzata** mentre inizia a tramutarsi in pietra. Chi è Immobilizzato **ripete il TS alla fine del proprio turno successivo**: con un successo l'effetto termina, altrimenti è **Pietrificato per 1 minuto**. Dopo 1 minuto il corpo del draconiano si sbriciola in polvere. *(Al tavolo: due tiri falliti di fila tolgono un PG dallo scontro per dieci round. Non lasciare che il party si ammucchi attorno a un baaz ferito — e non dimenticare il secondo tiro, è quello che separa uno spavento da un disastro.)*
-- **Kapak — Dissoluzione Acida (Death Throes).** Quando un kapak scende a 0 PF, il suo corpo **si liquefa in una pozza d'acido ribollente**. Ogni creatura entro **1,5 m** deve superare un **TS Destrezza CD 12** o subire **7 (2d6) danni da acido** (metà con successo). L'acido resta sul terreno come pericolo ambientale per qualche istante.
+- **Kapak — Death Throes.** Quando un kapak scende a 0 PF, **si dissolve in acido che schizza su chi gli sta attorno**. Ogni creatura entro **1,5 m** deve superare un **TS Destrezza CD 12** o resta **ricoperta di acido per 1 minuto**, subendo **7 (2d6) danni da acido all'inizio di ogni proprio turno**. Serve **un'azione** per raschiarlo via da sé o da un compagno. *(Al tavolo: non è un colpo secco, è un conto che continua a salire finché qualcuno non smette di combattere per pulire un amico. Fallo pesare.)*
 - **Kapak — Saliva Velenosa.** Il kapak lecca le proprie lame prima del combattimento: i suoi attacchi in mischia infliggono danno da veleno aggiuntivo e possono avvelenare (vedi stat block). Le sue armi *gocciolano*.
 
 *[NOTA DM — riservata] Queste due meccaniche sono la firma dei draconiani e il motivo per cui il Dragon Army fa paura. Falle vivere: descrivi la pietra che ingoia la spada, l'acido che sfrigola sul cuoio degli stivali. Un party che impara "non dare l'ultimo colpo con l'arma preferita, non ammazzare il kapak stando adiacente" ha capito come si combatte questa guerra — ed è una lezione che si porterà dietro fino a Wheelwatch e oltre.*
@@ -191,28 +191,40 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
   Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-### Stat Block — Kapak Draconian (×1) · CR 2 · 450 XP
+### Stat Block — Kapak Draconian (×1) · CR 3 · 700 XP
 
 ```
-KAPAK DRACONIAN — creatura drago Media, caotico malvagio
-CA 15 (armatura naturale)   PF 45 (7d8+14)   Velocità 9 m, planata
-STR 14 (+2)  DEX 14 (+2)  CON 15 (+2)  INT 10 (+0)  WIS 10 (+0)  CHA 10 (+0)
-Abilità Percezione +2, Furtività +4
-Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
+KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale
+Mostruosità Media, tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 39 (6d8+12)
+Velocità 12 m, Scalare 12 m
+FOR 11 (+0, TS +0)   DES 17 (+3, TS +5)   COS 14 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 13 (+1, TS +1)   CAR 11 (+0, TS +0)
+Abilità Inganno +4, Percezione +3, Furtività +7
+Immunità veleno; avvelenato
+Equipaggiamento Pugnale
+Sensi scurovisione 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
 —
-Planata (Glide). Come il baaz.
-Saliva Velenosa. Prima o durante il combattimento, il kapak può leccare le proprie
-lame come azione bonus, rivestendole di veleno: il primo attacco in arma che va a
-segno infligge +7 (2d6) danni da veleno e il bersaglio deve superare un TS
-Costituzione CD 12 o essere avvelenato per 1 minuto.
+TRATTI
+Death Throes. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
+su chi gli sta attorno. Ogni creatura entro 1,5 m deve superare un TS Destrezza
+CD 12 o resta ricoperta di acido per 1 minuto, subendo 7 (2d6) danni da acido
+all'inizio di ogni proprio turno. Una creatura può usare la propria azione per
+raschiare o lavare via l'acido da sé o da un'altra creatura.
 —
-Dissoluzione Acida (Death Throes). Quando il kapak scende a 0 PF, il corpo si
-liquefa in una pozza d'acido. Ogni creatura entro 1,5 m: TS Destrezza CD 12 o
-7 (2d6) danni da acido (metà con successo).
+Planata (Glide). Quando il kapak cade e non è incapacitato, sottrae fino a 30 m
+dall'altezza nel calcolo dei danni da caduta e può spostarsi di 60 cm in
+orizzontale per ogni 30 cm di discesa. NON è volo: non guadagna quota.
 —
 AZIONI
-Multiattacco. Il kapak effettua due attacchi con la scimitarra.
-Scimitarra. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) taglienti
+Multiattacco. Il kapak effettua due attacchi con il Pugnale. Se entrambi
+colpiscono la stessa creatura, quel bersaglio deve superare un TS Costituzione
+CD 12 o è avvelenato fino alla fine del proprio turno successivo; mentre è
+avvelenato in questo modo, è anche PARALIZZATO.
+Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
+oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
 (+ veleno se la Saliva Velenosa è attiva).
 Balestra leggera. +4 al colpire, gittata 24/96 m. Colpito: 5 (1d6+2) perforanti.
 ```

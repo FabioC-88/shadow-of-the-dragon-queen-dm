@@ -347,38 +347,51 @@ Ogni personaggio tira una prova di Saggezza (Percezione). **Chi ottiene il risul
 I personaggi iniziano lo scontro **adiacenti al tronco d'albero a nord della mappa**. I mercenari a cavallo compaiono sulla strada, all'**angolo sud-ovest** del campo, e puntano dritti su di loro.
 
 ```
-MERCENARY GUARD (×4)
-Medium Humanoid | AC 16 (chain shirt + shield) | HP 11
-Speed 30 ft | CR 1/8 (25 XP cad.) | Languages: Common
-
-STR +1, DEX +0, CON +1, INT +0, WIS +0, CHA +0
-Passive Perception 10
-
-ACTIONS
-Crossbow: +3 al colpo, gittata 24/96 m — 1d8+1 perforanti
-Shortsword: +3 al colpo, portata 1,5 m — 1d6+1 perforanti
+GUARD (×4) — MM'25 p162, scheda ufficiale
+Umanoide Piccolo o Medio, Neutrale
+CA 16   Iniziativa +1 (11)   PF 11 (2d8+2)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 11 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Percezione +2
+Equipaggiamento Cotta di maglia, Scudo, Lancia
+Sensi Percezione passiva 12
+Linguaggi Comune
+CR 1/8 (25 XP; BC +2)
+—
+AZIONI
+Lancia. Attacco con arma in mischia o a distanza: +3 al colpire,
+portata 1,5 m oppure gittata 6/18 m — 4 (1d6+1) danni perforanti.
 ```
 
+> ✅ **Scheda ufficiale** (MM'25 p162), verificata con Fabio il 2026-09-13.
+> ⚠️ **La guardia ha UNA sola arma: la lancia** (in mischia o lanciata). Le versioni precedenti le davano balestra e spada corta, che non ha. Percezione passiva **12**, non 10 — conta per la furtività.
+>
+> *La lancia è la stessa arma della rievocazione: quella dei miliziani è imbottita, quella dei mercenari no. È esattamente il dettaglio che il PG con la Percezione più alta nota un istante prima della carica.*
+
 ```
-WAR HORSE (×3)
-Large Beast | AC 11 | HP 19 (3d10+3)
-Speed 60 ft | CR 1/2 (100 XP cad.)
-
-STR 18 (+4), DEX 12 (+1), CON 13 (+1), INT 2 (-4), WIS 12 (+1), CHA 7 (-2)
-
-TRAITS
-Trampling Charge: se si muove di almeno 6 m in linea retta verso una creatura
-  e nello stesso turno la colpisce con gli Zoccoli, quel bersaglio deve superare
-  un TS Forza CD 14 o cade Prono. Se il bersaglio è Prono, il cavallo può fare
-  un secondo attacco con gli Zoccoli come azione bonus.
-
-ACTIONS
-Hooves: +6 al colpo, portata 1,5 m — 2d6+4 contundenti
-  (un solo attacco per turno — NIENTE Multiattacco: il secondo colpo
-   arriva unicamente dalla Trampling Charge)
+WARHORSE (×3) — MM'25 p373, scheda ufficiale
+Bestia Grande, Non allineata
+CA 11   Iniziativa +1 (11)   PF 19 (3d10+3)   Velocità 18 m
+FOR 18 (+4, TS +4)   DES 12 (+1, TS +1)   COS 13 (+1, TS +1)
+INT  2 (-4, TS -4)   SAG 12 (+1, TS +3)   CAR  7 (-2, TS -2)
+Sensi Percezione passiva 11
+CR 1/2 (100 XP; BC +2)
+—
+AZIONI
+Zoccoli. Attacco con arma in mischia: +6 al colpire, portata 1,5 m.
+Colpito: 9 (2d4+4) danni contundenti. Se il bersaglio è una creatura Grande
+o più piccola e il cavallo si è mosso di almeno 6 m in linea retta verso di lei
+immediatamente prima del colpo, il bersaglio subisce ulteriori 5 (2d4) danni
+contundenti e ottiene la condizione Prono.
 ```
 
-> 💡 **Ritmo:** con 4-7 nemici dello stesso blocco, fai agire tutte le Mercenary Guard su **un'unica iniziativa condivisa** (una tirata sola per il gruppo). Niente regola Minion in questa campagna — vedi `campagna/scontri-adattati/00-framework.md`.
+> ✅ **Scheda ufficiale** (MM'25 p373), verificata con Fabio il 2026-09-13.
+> ⚠️ **La carica è dentro l'attacco, non è un tratto a parte e non concede tiro salvezza.** Se il cavallo ha caricato in linea retta per 6 m e colpisce, il bersaglio va a terra e basta: niente TS Forza CD 14, niente secondo attacco come azione bonus. Un solo attacco di Zoccoli per turno.
+> Danno base **2d4+4** (media 9), non 2d6+4.
+>
+> *In pratica: la prima carica dei tre cavalli fa ~14 danni e stende a terra. Poi, dentro la mischia, senza spazio per ripartire da 6 m, scendono a 9 e non stendono più nessuno. Vale la pena descrivere quella differenza al tavolo.*
+
+> 💡 **Ritmo:** con 4-7 nemici dello stesso blocco, fai agire tutte le Guard su **un'unica iniziativa condivisa** (una tirata sola per il gruppo). Niente regola Minion in questa campagna — vedi `campagna/scontri-adattati/00-framework.md`.
 
 ---
 
@@ -431,8 +444,9 @@ subito con la Greataxe.
 ```
 
 ```
-MERCENARY GUARD AGGIUNTIVE (×5)
-Stesso blocco dello Scontro 1 — già provate dalla battaglia, non si ritirano
+GUARD AGGIUNTIVE (×5)
+Stesso blocco ufficiale dello Scontro 1 (MM'25 p162) — già provate dalla
+battaglia, non si ritirano. Lancia +3, 4 (1d6+1) perforanti.
 ```
 
 *[NOTA TATTICA] Gragonis va sempre addosso al bersaglio più minaccioso e **non si ritira mai**. Le cinque guardie gli coprono i fianchi e restano fino alla fine. Usa* Brute's Shove *sul personaggio in mischia più fastidioso e* No Retreat *per punire chi prova a sganciarsi senza Disimpegnarsi.*
@@ -534,8 +548,8 @@ Il prigioniero è **Svilnt Sunderlit**, guardia di basso rango dell'Ironclad (a 
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| 4 Mercenary Guard + 3 War Horse — Scontro 1 | 400 XP (25 × 4 + 100 × 3) |
-| Gragonis + 5 guardie — Scontro 2 | 575 XP (450 + 25 × 5) |
+| 4 Guard + 3 Warhorse — Scontro 1 | 400 XP (25 × 4 + 100 × 3) |
+| Gragonis + 5 Guard — Scontro 2 | 575 XP (450 + 25 × 5) |
 | Abitanti salvati — Medicina/magia | 20 mo cad. per persona salvata |
 | Benebog Rompilenze | Canna da pesca intagliata da 50 mo (dono della sindaca) + fama nel villaggio |
 | Lo Scudo Verde di Ispin | *+1 Shield* |
@@ -603,7 +617,7 @@ Passata di controllo prima della prima serata al tavolo. Correzioni applicate:
 |---|------|---------|----------|
 | 1 | **Errore di fonte** | FASE 5, contesto | **Gragonis è un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Corretto nel contesto, nel testo boxed BT-08 e nella prova di Percezione. La taglia Grande e la lingua Gigante del blocco erano già incoerenti con "mezzo-orco" |
 | 2 | **Errore di fonte** | FASE 5, contesto | Il testo diceva che i mercenari *"credono ancora che sia un esercizio"*: **falso**. Gragonis li ha pagati, e tutta la compagnia presente sulla collina sa cosa sta per fare. Aggiunti anche Jeyev Veldrews al campo e l'attentato a Cudgel |
-| 3 | Stat block | SCONTRO 1 | Allineato a `scontri-adattati/capitolo-03.md`: **4 Mercenary Guard + 3 War Horse** (era 3+3, numeri da 4 giocatori). Rimosso il **Multiattacco del War Horse**, che era un errore già corretto in quel file e raddoppiava i danni per round; aggiunta la Trampling Charge. Aggiunta la posizione di partenza (tronco a nord) |
+| 3 | Stat block | SCONTRO 1 | **4 Guard + 3 Warhorse** (era 3+3, numeri da 4 giocatori), con le **schede ufficiali MM'25** fornite da Fabio: la Guard ha solo la **Lancia** (niente balestra né spada corta) e Percezione passiva 12; il Warhorse fa **2d4+4** con la carica integrata nell'attacco, senza tiro salvezza né azione bonus. Aggiunta la posizione di partenza (tronco a nord) |
 | 4 | Stat block | SCONTRO 2 | Sostituito il blocco di Gragonis (CR 1, CA 12, 30 PF, ascia 2d6+3, giavellotto 2d6+3 — sbagliato su più voci) con quello adattato ~CR 2 di `capitolo-03.md`: 55 PF, Greataxe con Cleave, Bonus Action e Reaction. Guardie 4 → 5 |
 | 5 | **Coerenza col party** | FASE 1 | Sostituita la tabella generica dei ganci con una **tabella per i cinque PG reali**: Razak è stato lo scudiero di Becklin proprio qui; Brynja riconosce lo Scudo Verde; Corin sa del palo del molo da Ispin; Garrick rivede Brynja dopo nove anni; Asurion può fiutare il movimento della selvaggina |
 | 6 | **Coerenza col party** | FASE 2 | Corretta l'ipotesi "Becklin non ha mai visto nessuno di loro": **vale per quattro PG su cinque, non per Razak**. Aggiunta l'eccezione e il fatto che Brynja sappia già chi è |

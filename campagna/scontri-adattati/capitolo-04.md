@@ -114,28 +114,42 @@ Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
 ```
-KAPAK DRACONIAN (Ambusher)
-Medium Dragon | AC 15 (natural armor) | HP 45 (7d8+14)
-Speed 30 ft | CR 2 (450 XP) | Chaotic Evil | Languages: Common, Draconic
+KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
+Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
+INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
+Skills Deception +4, Perception +3, Stealth +7
+Immunities Poison; Poisoned | Gear Dagger
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Common, Draconic | CR 3 (XP 700; PB +2)
 
-STR +2, DEX +2, CON +2, INT +0, WIS +0, CHA +0
-Skills: Perception +2, Stealth +4 | Darkvision 60 ft, Passive Perception 12
-
-Glide: as the baaz, above.
-Poisoned Blades: as a bonus action, the kapak can coat its blades in venom — the
-next weapon attack that hits deals +7 (2d6) poison damage, and the target must
-succeed on a DC 12 Constitution save or be poisoned for 1 minute.
-Death Throes (Acid): when reduced to 0 HP, its body dissolves into a pool of acid.
-Creatures within 5 ft: DC 12 Dexterity save or take 7 (2d6) acid damage (half on success).
+TRAITS
+Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those
+  around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or
+  be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each
+  of its turns. A creature can use its action to scrape or wash the acid off
+  itself or another creature.
+Glide. When it falls and isn't incapacitated, it subtracts up to 100 ft from the
+  fall when calculating damage, and can move up to 2 ft horizontally for every
+  1 ft it descends. NOT flight: it cannot gain altitude.
 
 ACTIONS
-Multiattack: two attacks with Shortsword.
-Shortsword: +4 to hit, reach 5 ft — 5 (1d6+2) piercing (+ poison if Poisoned Blades active).
-Light Crossbow: +4 to hit, range 80/320 ft — 5 (1d6+2) piercing.
+Multiattack. Two Dagger attacks. If both hit the same creature, that target must
+  succeed on a DC 12 Constitution save or be poisoned until the end of its next
+  turn. While poisoned this way, the target is also PARALYZED.
+Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
 
-REACTION — Glide Away
-When a melee attack misses it, the Kapak can glide up to 20 ft without provoking
-opportunity attacks — stessa firma tattica del Kapak del Cap. 3: mordi e fuggi.
+--- AGGIUNTE HOMEBREW (dichiarate, come nel Cap. 3) ---
+Sneak Attack: +2d6 se ha vantaggio o un alleato è entro 5 ft dal bersaglio.
+REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
+  20 ft senza provocare attacchi di opportunità.
+
+[NOTA: era scritto come Medium Dragon CR 2, 45 PF, con Shortsword/Light Crossbow
+ e "Poisoned Blades" come azione bonus. Niente di tutto ciò è ufficiale: è una
+ Mostruosità CR 3 con un Pugnale, il veleno è sempre attivo, e il Multiattacco
+ può PARALIZZARE. Rivedere il budget dell'incontro di conseguenza.]
 ```
 
 *Notevole ma non boss: niente Villain Actions. Il picco di difficoltà della sessione resta l'imboscata dall'alto (sorpresa + veleno), non un macchinario narrativo a tre atti.*
@@ -257,11 +271,19 @@ Longsword: +3 to hit, reach 5 ft — 6 (1d10+1) slashing two-handed.
 ```
 
 ```
-WAR HORSE (×5)
-Large Beast | AC 10 | HP 19 (3d10+3) | Speed 60 ft | CR 1/2
+WARHORSE (×5) — MM'25 p373, scheda ufficiale (verificata 2026-09-13)
+Large Beast, Unaligned | AC 11 | Initiative +1 (11)
+HP 19 (3d10+3) | Speed 60 ft. | CR 1/2 (XP 100; PB +2)
+STR 18 (+4, save +4)   DEX 12 (+1, save +1)   CON 13 (+1, save +1)
+INT  2 (-4, save -4)   WIS 12 (+1, save +3)   CHA  7 (-2, save -2)
+Senses Passive Perception 11 | Languages —
 
 ACTIONS
-Hooves: +6 to hit, reach 5 ft — 11 (2d6+4) bludgeoning.
+Hooves. Melee Attack: +6, reach 5 ft. Hit: 9 (2d4+4) Bludgeoning damage.
+  If the target is a Large or smaller creature and the horse moved 20+ ft
+  straight toward it immediately before the hit, the target takes an extra
+  5 (2d4) Bludgeoning damage and has the Prone condition.
+  [AC 11 non 10; danno base 2d4+4 non 2d6+4; la carica e' dentro l'attacco.]
 ```
 
 *Obiettivo dello scontro invariato: proteggere la ritirata, non vincere una battaglia campale. Nessun trattamento boss — è un incontro tattico corale, non un nemico nominato.*

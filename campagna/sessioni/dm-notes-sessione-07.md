@@ -410,13 +410,20 @@ Spada lunga. +3 al colpire, portata 1,5 m. Colpito: 6 (1d10+1) taglienti a due m
 ### Cavallo da Guerra (Warhorse) · CR 1/2 · 100 XP
 
 ```
-CAVALLO DA GUERRA — creatura bestia Grande, non allineato
-CA 10   PF 19 (3d10+3)   Velocità 18 m
-STR 18 (+4)  DEX 12 (+1)  CON 13 (+1)  INT 2 (-4)  WIS 12 (+1)  CHA 7 (-2)
+WARHORSE — MM'25 p373, scheda ufficiale (verificata 2026-09-13)
+Bestia Grande, Non allineata
+CA 11   Iniziativa +1 (11)   PF 19 (3d10+3)   Velocità 18 m
+FOR 18 (+4, TS +4)   DES 12 (+1, TS +1)   COS 13 (+1, TS +1)
+INT  2 (-4, TS -4)   SAG 12 (+1, TS +3)   CAR  7 (-2, TS -2)
 Sensi Percezione passiva 11
+CR 1/2 (100 XP; BC +2)
 —
 AZIONI
-Zoccoli. +6 al colpire, portata 1,5 m. Colpito: 11 (2d6+4) contundenti.
+Zoccoli. Attacco con arma in mischia: +6 al colpire, portata 1,5 m.
+Colpito: 9 (2d4+4) danni contundenti. Se il bersaglio è una creatura Grande o
+più piccola e il cavallo si è mosso di almeno 6 m in linea retta verso di lei
+immediatamente prima del colpo, subisce ulteriori 5 (2d4) danni contundenti
+e ottiene la condizione Prono.
 ```
 
 ### Undead Soldier (falso Cavaliere di Solamnia) · CR 3 · 700 XP cad.

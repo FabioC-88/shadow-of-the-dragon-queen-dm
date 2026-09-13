@@ -181,17 +181,36 @@ Life Drain: +6 to hit, reach 5 ft — 21 (4d8+3) necrotic; DC 15 Constitution sa
 **4 Bozak → 5 Bozak** (blocco sopra) **+ 3 Kapak**, scalati per il quinto giocatore.
 
 ```
-KAPAK DRACONIAN (×3)
-Medium Dragonborn | AC 15 (natural armor) | HP 45 | Speed 30 ft, glide | CR 2
-Skills: Perception +2, Stealth +4
-Glide.
-Poison Coating (bonus action): next weapon hit deals +7 (2d6) poison, DC 12 Constitution save or poisoned 1 min.
-Death Throes: on death, liquefies into acid — DC 12 Dexterity save, 7 (2d6) acid (half on success), 5 ft radius.
+KAPAK DRACONIAN (×3) — DSotDQ p198, scheda ufficiale (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
+Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
+INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
+Skills Deception +4, Perception +3, Stealth +7
+Immunities Poison; Poisoned | Gear Dagger
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Common, Draconic | CR 3 (XP 700; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those
+  around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or
+  be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each
+  of its turns. A creature can use its action to scrape or wash the acid off
+  itself or another creature.
+Glide. When it falls and isn't incapacitated, it subtracts up to 100 ft from the
+  fall when calculating damage, and can move up to 2 ft horizontally for every
+  1 ft it descends. NOT flight: it cannot gain altitude.
 
 ACTIONS
-Multiattack: 2 attacks with Scimitar
-Scimitar: +4 to hit, reach 5 ft — 5 (1d6+2) slashing (+ poison if coated)
-Light Crossbow: +4 to hit, range 80/320 ft — 5 (1d6+2) piercing
+Multiattack. Two Dagger attacks. If both hit the same creature, that target must
+  succeed on a DC 12 Constitution save or be poisoned until the end of its next
+  turn. While poisoned this way, the target is also PARALYZED.
+Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
+
+[NOTA: era scritto come "Medium Dragonborn" CR 2 con scimitarra e balestra.
+ È una Mostruosità CR 3 con un Pugnale: tre kapak ufficiali pesano molto più
+ di tre kapak a CR 2. Rivedere il budget di questo scontro.]
 ```
 
 ### Sala di Guerra Draconiana — Sivak (S18)
