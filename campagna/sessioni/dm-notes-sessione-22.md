@@ -114,32 +114,57 @@ Il **dragonnel selvatico** ferito precipita a terra a circa 9 metri dai personag
 ### Stat Block — Ufficiale del Dragon Army (×3) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16/20/21)*
 
 ```
-UFFICIALE DEL DRAGON ARMY — umanoide Medio, legale malvagio
-CA 17 (semi-piastre)   PF 58 (9d8+18)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 14 (+2)
-Tiri Salvezza Cost +4, Sag +3   Abilità Intimidire +4, Percezione +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. L'ufficiale effettua tre attacchi con la spada lunga.
-Spada lunga. +5 al colpire, portata 1,5 m. Colpito: 7 (1d8+3) taglienti a due mani.
-Comando (1/turno). L'ufficiale sceglie una creatura alleata entro 9 m: quella creatura può usare la propria reazione per effettuare un attacco.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
-### Stat Block — Dragonnel del Dragon Army (×3, cavalcature) · CR 4 · 1.100 XP cad. *(scheda identica a Sessioni 06/16/20/21)*
+### Stat Block — Dragonnel del Dragon Army (×3, cavalcature) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16/20/21)*
 
 ```
-DRAGONNEL DEL DRAGON ARMY — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso in quel round.
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua un attacco con il morso e uno con gli artigli.
-Morso. +7 al colpire, portata 3 m. Colpito: 15 (2d10+4) perforanti.
-Artigli. +7 al colpire, portata 1,5 m. Colpito: 13 (2d6+4) taglienti.
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
 ### Stat Block — Dragonnel Selvatico (ferito, 4 PF, immobilizzato) · CR 2 · 450 XP se ucciso (non è un bersaglio previsto) *(scheda identica a Sessioni 14/21)*

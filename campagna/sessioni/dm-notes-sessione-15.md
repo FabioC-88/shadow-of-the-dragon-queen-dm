@@ -253,24 +253,40 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
   Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-### Stat Block — Draconiano Sivak · CR 2 · 450 XP
+### Stat Block — Draconiano Sivak · CR 4 · 1.100 XP
 
 ```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
-*[NOTA DM — riservata] **Schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico** — identiche a quelle già usate in Sessione 13. La fonte rimanda ad *appendix B* per entrambe, non incluso per intero in questo estratto. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–14.*
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: baaz e sivak usano ora le schede ufficiali DSotDQ. Il sivak passa da CR 2 a **CR 4**, è **Grande** e **vola a 18 m**: rivedi il peso dell'incontro.] **Erano schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico** — identiche a quelle già usate in Sessione 13. La fonte rimanda ad *appendix B* per entrambe, non incluso per intero in questo estratto. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–14.*
 
 ***Sabbie Mobili.*** Gran parte della fossa sabbiosa contiene 4,5 metri di sabbie mobili, di cui i draconiani sono già a conoscenza. Un personaggio che sonda il pavimento o cerca pericoli individua i rischi della fossa con una prova riuscita di **Saggezza (Percezione) CD 13**. Quando una creatura entra nelle sabbie mobili, sprofonda di 1 metro nella fossa e diventa bloccata. All'inizio di ciascuno dei propri turni, sprofonda di un altro metro. Finché non è completamente sommersa, può liberarsi usando la propria azione e superando una prova di Forza; la CD è 10 più il numero di metri in cui la creatura è sprofondata. Una creatura completamente sommersa non può respirare.
 

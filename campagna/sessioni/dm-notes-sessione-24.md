@@ -76,21 +76,37 @@ Un volo di decine di draconiani sivak si leva dalla citadella volante verso Kala
 
 A ogni turno, ciascun sivak attacca una ballista a meno che un personaggio non lo abbia già bersagliato prima di quel turno. Una ballista viene distrutta dopo tre attacchi subiti. **Se tutte e tre le balliste vengono distrutte, tre dragonnel e i loro cavalieri sorvolano le mura evitando le difese** — innescando immediatamente l'incontro "Cavalieri Temerari" (Opzione 2), senza interruzione.
 
-### Stat Block — Draconiano Sivak (×4) · CR 2 · 450 XP cad. *(scheda identica alle Sessioni 06/13/15/18/19/20/21/23)*
+### Stat Block — Draconiano Sivak (×4) · CR 4 · 1.100 XP cad. *(scheda identica alle Sessioni 06/13/15/18/19/20/21/23)*
 
 ```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
 #### Opzione 2 — Cavalieri Temerari
@@ -102,32 +118,57 @@ I personaggi sulle mura possono orientare una ballista per sparare oltre la citt
 ### Stat Block — Ufficiale del Dragon Army (×3) · CR 3 · 700 XP cad. *(scheda identica alle Sessioni 06/16/20/21/22/23)*
 
 ```
-UFFICIALE DEL DRAGON ARMY — umanoide Medio, legale malvagio
-CA 17 (semi-piastre)   PF 58 (9d8+18)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 14 (+2)
-Tiri Salvezza Cos +4, Sag +3   Abilità Intimidire +4, Percezione +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. L'ufficiale effettua tre attacchi con la spada lunga.
-Spada lunga. +5 al colpire, portata 1,5 m. Colpito: 7 (1d8+3) taglienti a due mani.
-Comando (1/turno). L'ufficiale sceglie una creatura alleata entro 9 m: quella creatura può usare la propria reazione per effettuare un attacco.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
-### Stat Block — Dragonnel del Dragon Army (×3, cavalcature) · CR 4 · 1.100 XP cad. *(scheda identica alle Sessioni 06/16/20/21/22/23)*
+### Stat Block — Dragonnel del Dragon Army (×3, cavalcature) · CR 3 · 700 XP cad. *(scheda identica alle Sessioni 06/16/20/21/22/23)*
 
 ```
-DRAGONNEL DEL DRAGON ARMY — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso in quel round.
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua un attacco con il morso e uno con gli artigli.
-Morso. +7 al colpire, portata 3 m. Colpito: 15 (2d10+4) perforanti.
-Artigli. +7 al colpire, portata 1,5 m. Colpito: 13 (2d6+4) taglienti.
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
 ### Stat Block — Ballista (arma d'assedio) *(ricostruzione DM identica a Sessione 23 — appendix del testo originale non disponibile)*
@@ -191,20 +232,43 @@ Mentre i personaggi si trovano alla postazione di comando del Trade Gate o in un
 ### Stat Block — Draconiano Aurak (×2) · CR 6 · 2.300 XP cad. *(scheda identica alle Sessioni 18/20 — "Captain Hask")*
 
 ```
-DRACONIANO AURAK — creatura drago Media, legale malvagio
-CA 18 (armatura naturale)   PF 114 (12d8+60)   Velocità 9 m, volare 18 m
-STR 17 (+3)  DEX 10 (+0)  CON 20 (+5)  INT 13 (+1)  WIS 13 (+1)  CHA 17 (+3)
-TS Saggezza +4, Carisma +6
-Resistenza alla Magia. Vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
-Sensi scurovisione 18 m, Percezione passiva 11   Linguaggi Comune, Draconico
+DRACONIANO AURAK — DSotDQ p196, scheda ufficiale
+Mostruosità Media (Stregone), tipicamente Legale Malvagio
+CA 17 (armatura naturale)   Iniziativa +2 (12)   PF 67 (9d8+27)   Velocità 10,5 m
+FOR 13 (+1, TS +1)   DES 14 (+2, TS +2)   COS 16 (+3, TS +3)
+INT 16 (+3, TS +6)   SAG 11 (+0, TS +3)   CAR 17 (+3, TS +6)
+Abilità Percezione +3
+Immunità condizione affascinato
+Sensi vista pura 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 6 (2.300 XP; BC +3)
 —
-Sguardo Dominante (Ricarica 5–6). L'aurak fissa una creatura che riesce a vedere entro 9 m. Il bersaglio deve superare un TS Saggezza CD 15 o essere affascinato per 1 minuto.
-Morte Corrosiva (Death Throes). Quando l'aurak scende a 0 PF, il suo corpo si dissolve in una nube di vapore acido. Ogni creatura entro 3 m deve superare un TS Costituzione CD 15, subendo 10 (3d6) danni da acido, o metà se ha successo.
-Portale Dimensionale (1/giorno). Come azione bonus, può lanciare *porta dimensionale* su sé stesso senza consumare uno slot incantesimo.
+TRATTI
+Aura di Comando. L'aurak irradia una presenza autorevole in una sfera di raggio
+6 m centrata su di sé. Un draconiano nell'aura che può vedere o sentire l'aurak
+non può essere affascinato e ha vantaggio ai TS per evitare o terminare su di sé
+la condizione Spaventato.
+—
+Death Throes. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
+una SFERA DI FULMINE contro la creatura più vicina entro 9 m, poi rimbalza su
+fino ad altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza
+CD 14. Fallimento: 9 (2d8) danni da fulmine ed è STORDITO fino alla fine del
+proprio turno successivo. Successo: metà danni, nessuno stordimento.
 —
 AZIONI
-Multiattacco. Due attacchi con la spada corta.
-Spada Corta. Attacco con arma in mischia: +6 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni perforanti più 3 (1d6) danni da acido.
+Multiattacco. Tre attacchi di Squarcio oppure di Raggio d'Energia.
+Squarcio. +5 al colpire, portata 1,5 m — 8 (1d12+2) danni taglienti.
+Raggio d'Energia. Attacco con incantesimo a distanza: +6 al colpire, gittata 18 m
+  — 8 (1d10+3) danni da forza.
+Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
+  nell'area: TS Costituzione CD 14. Fallimento: 21 (6d6) danni da veleno e
+  1 livello di sfinimento. Successo: metà danni, nessuno sfinimento, e immunità
+  al Respiro Nocivo di QUALSIASI draconiano per 24 ore.
+Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
+  (CD tiro salvezza 14):
+  A volontà: invisibility, mage hand
+  2/giorno ciascuno: dimension door, disguise self, sending
+  1/giorno: dominate person
 ```
 
 ### Stat Block — Veterano (comandante di Kalaman) · CR 3 · 700 XP *(scheda standard D&D 5e — Manuale dei Mostri, già usata per il Capitano Narnhelm in Sessione 23)*
@@ -333,7 +397,7 @@ Artiglio. Attacco con arma in mischia: +6 al colpire, portata 1,5 m. Colpito: 6 
 Soffio di Fuoco (Ricarica 5–6). Il draconcello esala fuoco in un cono di 4,5 metri. Ogni creatura nell'area deve superare un TS Destrezza CD 13, subendo 24 (7d6) danni da fuoco, o metà se ha successo.
 ```
 
-### Stat Block — Draconiano Sivak (evento d'emergenza) · CR 2 · 450 XP *(scheda identica a FASE 1, Opzione 1 — riutilizzata per l'evento 7-8)*
+### Stat Block — Draconiano Sivak (evento d'emergenza) · CR 4 · 1.100 XP *(scheda identica a FASE 1, Opzione 1 — riutilizzata per l'evento 7-8)*
 
 *Vedi stat block completo in FASE 1.*
 
@@ -400,7 +464,7 @@ Mentre i personaggi si avvicinano alla citadella volante, devono superare una **
 
 Se il combattimento si scatena, i sei dragonnel attaccano in volo prima di ritirarsi o essere sconfitti — usa la scheda già stabilita in FASE 1.
 
-### Stat Block — Dragonnel del Dragon Army (×6, pattuglia) · CR 4 · 1.100 XP cad. *(scheda identica a FASE 1 — vedi sopra)*
+### Stat Block — Dragonnel del Dragon Army (×6, pattuglia) · CR 3 · 700 XP cad. *(scheda identica a FASE 1 — vedi sopra)*
 
 *Vedi stat block completo in FASE 1, Opzione 2.*
 

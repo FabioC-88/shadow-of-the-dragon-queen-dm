@@ -112,23 +112,28 @@ Questa sessione infila **fino a 6 scontri** in una sola giornata di gioco (ricog
  NOTA: il baaz NON vola e non plana lateralmente. Controlled Fall attutisce  
    soltanto i danni da caduta.  
    
-DRAGON ARMY SOLDIER (×2) — corretto (arma e trait errati in una bozza precedente)  
- Medium Humanoid | AC 17 (armor) | HP 32 (5d8+10)  
- Speed 30 ft | CR 1 (200 XP) | Lawful Evil | Languages: Common, Draconic  
+DRAGON ARMY SOLDIER (×2) — DSotDQ p200, scheda ufficiale (verificata 2026-09-13)  
+ Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)  
+ Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.  
+ STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)  
+ INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)  
+ Skills Athletics +4, Perception +2 | Gear Javelin, Longsword  
+ Senses Passive Perception 12 | Languages Common, Draconic  
+ CR 1 (XP 200; PB +2)  
    
- STR +3, DEX +0, CON +2, INT -1, WIS +0, CHA +0  
- Skills: Athletics +5, Intimidation +2  
- Passive Perception 10  
-   
- Draconic Devotion: while it can see a Dragon that isn't hostile to it, it has  
-   advantage on attack rolls.  
+ TRAITS  
+ Draconic Devotion. While it can see a Dragon that isn't hostile to it, the  
+   soldier has advantage on attack rolls.  
    
  ACTIONS  
- Multiattack: 2 Longsword or Javelin attacks  
- Longsword: +4 to hit, reach 5 ft — 1d8+2 slashing (1d10+2 if used two-handed)  
-   plus 2 (1d4) fire damage  
- Javelin: +4 to hit, reach 5 ft or range 30/120 ft — 1d6+2 piercing  
-   plus 2 (1d4) fire damage  
+ Multiattack. Two Longsword or Javelin attacks.  
+ Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,  
+   plus 2 (1d4) fire.  
+ Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.  
+   Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.  
+   
+ [HP 22 (4d8+4), non 32 (5d8+10). Passive Perception 12, non 10.  
+  Skills Athletics +4 e Perception +2 -- non Intimidation.]  
    
 *Ha Multiattack e tattiche di squadra — resta comunque stat block classico anche a numeri alti (niente Minion, vedi framework).*  
 **I Quattro Soldati sulle Scogliere — invariato**  
@@ -246,7 +251,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 | Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | **scheda ufficiale integrale DSotDQ p197** (verificata 2026-09-13): AC 14, HP 22, 2× Shortsword +3 (1d6+1), Controlled Fall, Draconic Devotion, Death Throes = gas pietrificante CD 11 Cos con secondo TS mancato = Pietrificato 1 minuto | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
 | Kapak (Assassino dal Cielo) | AC 13, HP 52, "fly" (volo), Bite+Dagger, Death Throes veleno | corretto sullo stat block ufficiale DSotDQ: AC 15, HP 39, climb 40 ft (non vola), 2 Dagger, Death Throes acido; mantenuta la Reaction homebrew "Glide Away" | il Kapak ufficiale non può volare, solo planare da una caduta — l'errore cambiava la tattica dell'incontro |   
 | Boilerdrak | stat block errato in una bozza precedente | corretto sullo stat block ufficiale (DSotDQ p.189: oggetto Large, AC 15, HP 100) + opzione di sabotaggio | fedeltà alla fonte, oltre a varietà tattica |   
-| Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics" | corretto sullo stat block ufficiale: AC 17, Longsword/Javelin +1d4 fuoco, trait ufficiale "Draconic Devotion" | il danno da fuoco è il dettaglio tematico che giustifica il nome "Dragon Army" — una bozza precedente lo aveva perso |   
+| Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics"; poi una bozza con HP 32 | **scheda ufficiale DSotDQ p200** (verificata 2026-09-13): AC 17, **HP 22 (4d8+4)**, Longsword/Javelin +1d4 fuoco, Draconic Devotion, Passive Perception 12 | il danno da fuoco è il dettaglio che giustifica il nome "Dragon Army"; gli HP erano gonfiati di un terzo |   
 | Fewmaster Gholcag | CR 2, statica; AC 15 | ~CR 4, Villain Actions + Bonus Action + Reaction; AC corretta a 14 (fonte: "usa il blocco Ogre, scale mail, AC 14") | vero boss di capitolo, deve reggere 5 round contro 5 PG — il resto del redesign (HP/azioni) resta intenzionale |   
    
 **Prossimi Passi**  

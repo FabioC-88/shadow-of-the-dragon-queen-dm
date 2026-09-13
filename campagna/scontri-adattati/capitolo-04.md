@@ -161,83 +161,96 @@ REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
 Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di Dragon Army Soldier da 1 a 8 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme totale e più gruppi convergono nello stesso scontro (es. gli 8 della caserma + i 3 del cortile = 11+), restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** per non rallentare il tavolo (vedi 00-framework.md punto 2).
 
 ```
-DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono)
-Medium Humanoid | AC 16 (chain shirt, shield) | HP 16 (3d8+3)
-Speed 30 ft | CR 1/4 (50 XP each) | Lawful Evil | Languages: Common
+DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
+Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
+STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
+INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
+Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
+Senses Passive Perception 12 | Languages Common, Draconic
+CR 1 (XP 200; PB +2)
 
-STR +1, DEX +1, CON +1, INT +0, WIS +0, CHA +0 | Passive Perception 10
-
-ACTIONS
-Spear: +3 to hit, reach 5 ft or range 20/60 ft — 5 (1d8+1) piercing.
-Longsword: +3 to hit, reach 5 ft — 6 (1d10+1) slashing two-handed.
-```
-
-```
-DRAGON ARMY OFFICER (Notable, ~CR 3) — Ardlic Vanse, comandante del forte
-Medium Humanoid | AC 17 (half-plate) | HP 58 (9d8+18)
-Speed 30 ft | Lawful Evil | Languages: Common, Draconic
-
-STR +2, DEX +1, CON +2, INT +0, WIS +1, CHA +2
-Saves: CON +4, WIS +3 | Skills: Intimidation +4, Perception +3 | Passive Perception 13
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  soldier has advantage on attack rolls.
 
 ACTIONS
-Multiattack: three attacks with Longsword.
-Longsword: +5 to hit, reach 5 ft — 7 (1d8+3) slashing two-handed.
-Command (1/turn): choose a Dragon Army Soldier within 30 ft — that creature can use
-its reaction to make one attack.
-
-REACTION — Last Order
-When reduced to 0 HP, before falling he can use Command one final time even though
-it's not his turn. Fanatico per paura di Kansaldi fino all'ultimo respiro.
+Multiattack. Two Longsword or Javelin attacks.
+Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,
+  plus 2 (1d4) fire.
+Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.
+  Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.
 ```
 
 ```
-SIVAK DRACONIAN (Notable, ~CR 4) — travestito da soldato di Kalaman alla torre nord-ovest
-Medium Dragon | AC 16 (natural armor) | HP 60 (8d8+24)
-Speed 30 ft, fly 40 ft | CR 4 (1,100 XP) | Lawful Evil | Languages: Common, Draconic
+DRAGON ARMY OFFICER (Notable, ~CR 3) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 19 (splint, shield)
+Initiative +2 (12) | HP 65 (10d8+20) | Speed 30 ft.
+STR 16 (+3, save +3)   DEX 14 (+2, save +4)   CON 15 (+2, save +2)
+INT 12 (+1, save +1)   WIS 14 (+2, save +4)   CHA 12 (+1, save +1)
+Skills Athletics +5, Perception +4 | Gear Heavy Crossbow, Lance
+Senses Passive Perception 14 | Languages Common, Draconic
+CR 3 (XP 700; PB +2)
 
-STR +3, DEX +1, CON +3, INT +0, WIS +1, CHA +1
-Skills: Deception +5, Perception +3 | Darkvision 60 ft, Passive Perception 13
-
-Form Theft (Reaction): when the sivak kills a Humanoid, it can assume that creature's
-exact appearance (voice, clothes, apparent gear) until it chooses to revert or takes
-enough damage in a single hit to break the disguise (roughly half its max HP — DM call).
-While disguised, it has no disadvantage on Deception checks to pass as the person imitated.
-Final Deception (Death): when reduced to 0 HP by an identifiable creature, its corpse
-takes on that creature's exact likeness for 1 minute (or until examined with a DC 15
-Wisdom (Perception) check) — pure narrative gut-punch, no mechanical effect.
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  officer has advantage on attack rolls.
 
 ACTIONS
-Multiattack: two attacks with Glaive.
-Glaive: +6 to hit, reach 10 ft — 11 (2d10) slashing.
-Bite: +6 to hit, reach 5 ft — 8 (1d10+3) piercing.
+Multiattack. Two Vicious Lance attacks, and uses Assault Orders if available.
+Vicious Lance. +5 to hit, REACH 10 ft — 8 (1d10+3) piercing plus 2 (1d4) fire.
+Heavy Crossbow. +4 to hit, range 100/400 ft — 7 (1d10+2) piercing plus 5 (1d10) fire.
+Assault Orders (Recharge 5-6). Shouts orders at up to two other creatures within
+  60 ft. A target with Draconic Devotion that can hear it may use its reaction to
+  make one melee attack.
+```
 
-BONUS ACTION — Borrowed Face
-Once per turn, if it hasn't taken damage this round, it can make a Deception check
-opposed by the passive Insight of one creature it can see — on a success, that
-creature is unsure whether to treat the sivak as friend or foe for its next turn.
+```
+SIVAK DRACONIAN (Notable, ~CR 4) — DSotDQ p199, official stat block
+LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
+Initiative +0 (10) | HP 57 (6d10+24) | Speed 30 ft., Fly 60 ft.
+STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
+INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
+Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 4 (XP 1100; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP by a Large or smaller creature, it crumbles
+  into dust that forms a spectral, shrieking image OF ITS KILLER, lasting 1 minute.
+  Each creature hostile to the draconian within 10 ft of the image: DC 14 Wisdom
+  save or be frightened of it for 1 minute (repeat save at end of each turn).
+
+ACTIONS
+Multiattack. Two Serrated Sword attacks and one Tail attack.
+Serrated Sword. +6 to hit, reach 5 ft — 13 (2d8+4) slashing.
+Tail. +6 to hit, reach 5 ft — 8 (1d8+4) bludgeoning. If the target is Large or
+  smaller, DC 14 Strength save or knocked prone.
+
+REACTIONS
+Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
+  itself in an illusion to look and feel like that creature, keeping its own
+  statistics (other than size). Lasts until it dies or ends it as a bonus action.
 ```
 
 *Il vero peso di questo incontro è la rivelazione (parla come un alleato finché non lo colpisci), non il numero di azioni — niente Villain Actions, ma la Bonus Action rinforza il tema dell'inganno.*
 
 ```
-DRAGON ARMY DRAGONNEL (Notable duo con l'Officer, CR 3 ufficiale — potenziato a livello ~CR 4 per il duo) — il picco drammatico della sessione, stalla W8
-Large Dragon | AC 16 (natural armor) | HP 82 (9d10+27)
-Speed 30 ft, fly 60 ft | Unaligned | Darkvision 60 ft, Passive Perception 11
+DRAGON ARMY DRAGONNEL (Notable duo con l'Officer, CR 3 ufficiale — DSotDQ p201, official stat block
+Large Dragon, typically Lawful Evil | AC 16 (breastplate barding)
+Initiative +2 (12) | HP 58 (9d10+9) | Speed 30 ft., Fly 60 ft.
+STR 16 (+3, save +3)   DEX 15 (+2, save +2)   CON 12 (+1, save +1)
+INT  8 (-1, save -1)   WIS 13 (+1, save +1)   CHA 10 (+0, save +0)
+Skills Perception +3 | Resistances Fire
+Senses Blindsight 30 ft., Darkvision 120 ft., Passive Perception 13
+Languages understands Common and Draconic but can't speak
+CR 3 (XP 700; PB +2)
 
-Flyby: doesn't provoke opportunity attacks when it flies out of a creature's reach.
-Draconic Omen: the first time a creature sees the dragonnel, it must succeed on a
-DC 12 Wisdom save or have disadvantage on its first attack against it that round —
-istintivo terrore di fronte a qualcosa che assomiglia a un drago.
+TRAITS
+Flyby. Doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 ACTIONS
-Multiattack: one Bite and one Claws attack.
-Bite: +7 to hit, reach 10 ft — 15 (2d10+4) piercing.
-Claws: +7 to hit, reach 5 ft — 13 (2d6+4) slashing.
-
-BONUS ACTION — Diving Strike
-If the dragonnel flew at least 20 ft straight toward a target this turn before
-attacking, its next hit this turn deals an extra 7 (2d6) damage.
+Multiattack. Two Rend attacks.
+Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 ```
 
 *Il suo cavaliere è un secondo **Dragon Army Officer** (blocco sopra) — la coppia condivide già il Comando dell'Officer come strumento di sinergia, niente bisogno di altro. Duo drammatico, non boss di capitolo: niente Villain Actions piene.*
@@ -261,13 +274,25 @@ Shortsword: +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
 ```
-DRAGON ARMY SOLDIER (mounted) (×5)
-Medium Humanoid | AC 16 (chain shirt, shield) | HP 16 (3d8+3)
-Speed 30 ft | CR 1/4 (50 XP each) | Lawful Evil | Languages: Common
+DRAGON ARMY SOLDIER (mounted) (×5) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
+Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
+STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
+INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
+Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
+Senses Passive Perception 12 | Languages Common, Draconic
+CR 1 (XP 200; PB +2)
+
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  soldier has advantage on attack rolls.
 
 ACTIONS
-Spear: +3 to hit, reach 5 ft or range 20/60 ft — 5 (1d8+1) piercing.
-Longsword: +3 to hit, reach 5 ft — 6 (1d10+1) slashing two-handed.
+Multiattack. Two Longsword or Javelin attacks.
+Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,
+  plus 2 (1d4) fire.
+Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.
+  Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.
 ```
 
 ```

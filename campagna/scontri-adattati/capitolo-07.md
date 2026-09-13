@@ -135,15 +135,27 @@ Incontro pensato per il dialogo, non per il combattimento — diventa ostile sol
 **Drayan (Aurak Draconian) + 6 Bozak Draconian → 7 Bozak**, scalati per il quinto giocatore. Trattamento minore per Drayan (comandante ricorrente, non il boss per cui il capitolo esiste) — ha già economia delle azioni discreta (Sguardo Dominante, Respiro Nocivo, Portale Dimensionale per fuggire verso S18), sufficiente contro 5 PG senza Villain Actions.
 
 ```
-BOZAK DRACONIAN (×7)
-Medium Dragonborn | AC 15 (natural armor) | HP 65 | Speed 30 ft, glide | CR 3
-Glide: no fall damage, can glide horizontally.
-Death Throes: on death, explodes in magical fire — DC 13 Dexterity save, 14 (4d6) fire (half on success), 15 ft radius.
+BOZAK DRACONIAN (×7) — DSotDQ p198, official stat block
+Medium Monstrosity (Sorcerer), typically Lawful Evil | AC 15 (natural armor)
+Initiative +0 (10) | HP 40 (9d8) | Speed 30 ft.
+STR 14 (+2, save +2)   DEX 10 (+0, save +0)   CON 11 (+0, save +0)
+INT 11 (+0, save +2)   WIS 10 (+0, save +2)   CHA 14 (+2, save +4)
+Gear Trident | Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 2 (XP 450; PB +2)
+
+TRAITS
+Death Throes. At 0 HP its scales and flesh shrivel away, then its BONES EXPLODE.
+  Each creature within 10 ft: DC 10 Dexterity save or take 9 (2d8) FORCE damage.
+Glide. Subtracts up to 100 ft from a fall and moves 2 ft horizontally per 1 ft
+  descended. Not flight: cannot gain altitude.
 
 ACTIONS
-Multiattack: 2 attacks with Spiked Mace
-Spiked Mace: +4 to hit, reach 5 ft — 6 (1d8+2) bludgeoning
-Heavy Crossbow: +2 to hit, range 100/400 ft — 6 (1d10+1) piercing
+Multiattack. Two Trident melee attacks OR two Lightning Discharge attacks.
+Trident. Melee or Ranged: +4, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d6+2) piercing, or 6 (1d8+2) if used two-handed in melee.
+Lightning Discharge. Ranged Spell Attack: +4, range 60 ft. Hit: 10 (3d6) lightning.
+Spellcasting (Cha, save DC 12, no material components):
+  1/day each: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
 ```
@@ -218,15 +230,30 @@ Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
 **6 Sivak → 7** (o **4→5 + Drayan** se è fuggita qui da S12), scalati per il quinto giocatore.
 
 ```
-SIVAK DRACONIAN (×7, or ×5 if Drayan present)
-Medium Dragonborn | AC 17 (natural armor) | HP 44 | Speed 30 ft, fly 40 ft | CR 2
-Death Curse (Reaction): on killing a humanoid with a melee attack, can assume its exact appearance for 1 hour or until it takes damage.
-Dive Attack: if it flies 20+ ft straight toward a target and hits with a Claw, +10 (3d6) damage.
+SIVAK DRACONIAN (×7, or ×5 if Drayan present) — DSotDQ p199, official stat block
+LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
+Initiative +0 (10) | HP 57 (6d10+24) | Speed 30 ft., Fly 60 ft.
+STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
+INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
+Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 4 (XP 1100; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP by a Large or smaller creature, it crumbles
+  into dust that forms a spectral, shrieking image OF ITS KILLER, lasting 1 minute.
+  Each creature hostile to the draconian within 10 ft of the image: DC 14 Wisdom
+  save or be frightened of it for 1 minute (repeat save at end of each turn).
 
 ACTIONS
-Multiattack: 1 Bite + 2 Claws
-Bite: +5 to hit, reach 5 ft — 12 (2d6+3) piercing
-Claw: +5 to hit, reach 5 ft — 8 (1d6+3) slashing
+Multiattack. Two Serrated Sword attacks and one Tail attack.
+Serrated Sword. +6 to hit, reach 5 ft — 13 (2d8+4) slashing.
+Tail. +6 to hit, reach 5 ft — 8 (1d8+4) bludgeoning. If the target is Large or
+  smaller, DC 14 Strength save or knocked prone.
+
+REACTIONS
+Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
+  itself in an illusion to look and feel like that creature, keeping its own
+  statistics (other than size). Lasts until it dies or ends it as a bonus action.
 ```
 
 *Se Drayan è presente (blocco sopra): il suo Respiro Nocivo è un'azione preparata sul primo PG a portata — applicalo appena entra in raggio, prima dell'iniziativa formale, come da fonte.*

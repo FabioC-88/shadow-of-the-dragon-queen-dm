@@ -394,17 +394,31 @@ AZIONI
 Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 ```
 
-### Dragon Army Soldier (a cavallo) · CR 1/4 · 50 XP cad. *(identico alla Sessione 06)*
+### Dragon Army Soldier (a cavallo) · CR 1 · 200 XP cad. *(identico alla Sessione 06)*
 
 ```
-DRAGON ARMY SOLDIER — creatura umanoide Media, legale malvagio
-CA 16 (cotta di maglia, scudo)   PF 16 (3d8+3)   Velocità 9 m
-STR 13 (+1)  DEX 12 (+1)  CON 12 (+1)  INT 10 (+0)  WIS 11 (+0)  CHA 10 (+0)
-Sensi Percezione passiva 10   Linguaggi Comune
+SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
+Velocità 9 m
+FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Atletica +4, Percezione +2
+Equipaggiamento Giavellotto, Spada lunga
+Sensi Percezione passiva 12
+Linguaggi Comune, Draconico
+CR 1 (200 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, il soldato ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Lancia. +3 al colpire, portata 1,5 m o gittata 6/18 m. Colpito: 5 (1d8+1) perforanti.
-Spada lunga. +3 al colpire, portata 1,5 m. Colpito: 6 (1d10+1) taglienti a due mani.
+Multiattacco. Due attacchi con la Spada lunga oppure con il Giavellotto.
+Spada lunga. +4 al colpire, portata 1,5 m — 6 (1d8+2) taglienti, oppure
+  7 (1d10+2) se impugnata a due mani, più 2 (1d4) danni da fuoco.
+Giavellotto. Attacco in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 9/36 m — 5 (1d6+2) perforanti più 2 (1d4) danni da fuoco.
 ```
 
 ### Cavallo da Guerra (Warhorse) · CR 1/2 · 100 XP
