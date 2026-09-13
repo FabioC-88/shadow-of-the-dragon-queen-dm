@@ -117,38 +117,69 @@ L'unico cancello del campo è sorvegliato da un **draconiano sivak** e due **dra
 ### Stat Block — Draconiano Baaz (fino a ×2) · CR 1/2 · 100 XP cad.
 
 ```
-DRACONIANO BAAZ — drago Piccolo, legale malvagio
-CA 16 (armatura naturale)   PF 13 (3d6+3)   Velocità 9 m, volare 9 m (solo planata, non guadagna quota)
-STR 14 (+2)  DEX 13 (+1)  CON 13 (+1)  INT 8 (-1)  WIS 11 (+0)  CHA 8 (-1)
-Resistenze danni veleno
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+BAAZ DRACONIAN (×N) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
 —
-Spasimi di Pietra. Quando il baaz viene ridotto a 0 punti ferita, il suo corpo si irrigidisce istantaneamente in una statua di pietra fragile, che si sgretola in polvere dopo 1 minuto. Se il colpo di grazia viene inferto con un'arma da mischia non magica, l'arma resta incastrata nella pietra a meno che chi la impugna non superi un TS Forza CD 10 — si libera comunque quando la statua crolla in polvere.
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-AZIONI
-Multiattacco. Due attacchi: morso e artiglio, oppure due artigli.
-Morso. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 5 (1d4+2) danni perforanti.
-Artiglio. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 8 (1d6+2) danni taglienti.
-```
-
-### Stat Block — Draconiano Sivak (fino a ×3: 1 qui in I2, 2 in I5) · CR 2 · 450 XP cad.
-
-```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-*[NOTA DM — riservata] **Schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico.** La fonte rimanda ad *appendix B* per entrambe le schede, non incluso per intero in questo estratto. Ho ricostruito CR e meccaniche coerenti con la caratterizzazione classica dei draconiani: i **baaz** si pietrificano e si sgretolano alla morte (un dettaglio iconico che vale la pena interpretare a voce, magari facendo incastrare un'arma nella statua di un compagno per un momento di tensione/comicità), i **sivak** possono rubare le sembianze delle vittime — un'ottima fonte di paranoia se il party non sta attento a chi si fida dopo un combattimento. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–12.*
+### Stat Block — Draconiano Sivak (fino a ×3: 1 qui in I2, 2 in I5) · CR 4 · 1.100 XP cad.
+
+```
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
+—
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
+—
+AZIONI
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
+```
+
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: baaz e sivak ora usano le schede ufficiali DSotDQ (p197 e p199). Nota conservata come storia della preparazione.] **Erano schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico.** La fonte rimanda ad *appendix B* per entrambe le schede, non incluso per intero in questo estratto. Ho ricostruito CR e meccaniche coerenti con la caratterizzazione classica dei draconiani: i **baaz** si pietrificano e si sgretolano alla morte, pietrificando chi gli sta accanto se fallisce due tiri salvezza (un dettaglio iconico che vale la pena interpretare a voce), i **sivak** possono rubare le sembianze delle vittime — un'ottima fonte di paranoia se il party non sta attento a chi si fida dopo un combattimento. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–12.*
 
 ***Furtività o Travestimento Falliti.*** Se l'inganno al cancello fallisce, o se il party sceglie l'assalto diretto, il combattimento contro sivak e baaz è immediato — e rumoroso: considera se far intervenire la pattuglia esterna di I1 o la torre di guardia di I3 dopo 2-3 round, a seconda di quanto il tavolo vuole intensificare la tensione.
 
@@ -175,35 +206,65 @@ La torre di guardia è occupata da tre **soldati del Dragon Army**. Per via dell
 
 ***Avvistati.*** Se una sentinella in cima alla torre avvista individui sospetti — come persone che non indossano l'uniforme del Dragon Army — suona un corno per allertare le pattuglie e le guardie del cancello dell'area I2.
 
-### Stat Block — Soldato del Dragon Army (fino a ×8) · CR 1/8 · 25 XP cad.
+### Stat Block — Soldato del Dragon Army (fino a ×8) · CR 1 · 200 XP cad.
 
 ```
-SOLDATO DEL DRAGON ARMY — umanoide Medio (umano), legale malvagio
-CA 16 (cotta di maglia, scudo)   PF 11 (2d8+2)   Velocità 9 m
-STR 13 (+1)  DEX 12 (+1)  CON 12 (+1)  INT 10 (+0)  WIS 11 (+0)  CHA 9 (-1)
-Sensi Percezione passiva 10   Linguaggi Comune, Draconico
+SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
+Velocità 9 m
+FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Atletica +4, Percezione +2
+Equipaggiamento Giavellotto, Spada lunga
+Sensi Percezione passiva 12
+Linguaggi Comune, Draconico
+CR 1 (200 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, il soldato ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Lancia. Attacco con arma in mischia o a distanza: +3 al colpire, portata 1,5 m o gittata 6/18 m. Colpito: 5 (1d6+1) danni perforanti (6 (1d8+1) se impugnata a due mani in mischia).
-Balestra Leggera. Attacco con arma a distanza: +3 al colpire, gittata 24/96 m. Colpito: 6 (1d8+1) danni perforanti.
+Multiattacco. Due attacchi con la Spada lunga oppure con il Giavellotto.
+Spada lunga. +4 al colpire, portata 1,5 m — 6 (1d8+2) taglienti, oppure
+  7 (1d10+2) se impugnata a due mani, più 2 (1d4) danni da fuoco.
+Giavellotto. Attacco in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 9/36 m — 5 (1d6+2) perforanti più 2 (1d4) danni da fuoco.
 ```
 
-### Stat Block — Ufficiale del Dragon Army (fino a ×2) · CR 1 · 200 XP cad.
+### Stat Block — Ufficiale del Dragon Army (fino a ×2) · CR 3 · 700 XP cad.
 
 ```
-UFFICIALE DEL DRAGON ARMY — umanoide Medio (umano), legale malvagio
-CA 17 (armatura a piastre parziale)   PF 26 (4d8+8)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 13 (+1)
-Abilità Percezione +3, Intimidire +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Due attacchi di spada corta.
-Spada Corta. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 6 (1d6+2) danni perforanti.
-Comando dell'Ufficiale (1/riposo breve o lungo). Come azione bonus, l'ufficiale sprona un alleato entro 9 m che può sentirlo: quell'alleato ottiene vantaggio al suo prossimo tiro per colpire prima dell'inizio del turno successivo dell'ufficiale.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
-*[NOTA DM — riservata] **Schede ricostruite come truppe generiche.** La fonte cita "Dragon Army soldier" e "Dragon Army officer" per nome in decine di incontri in tutta la campagna (vedi tabella incontri casuali dell'Appendice B, righe 6351–6373) ma non fornisce i valori meccanici completi in questo estratto. Ho ricostruito schede semplici e rapide da giocare, in linea con il loro ruolo di truppe di fanteria numerose piuttosto che minacce individuali — **verificare contro l'appendice B completa se disponibile in tavolo**. Se il party affronta più soldati contemporaneamente, considera di gestirli come un singolo blocco di iniziativa per velocizzare il combattimento, specialmente se il tavolo ha già affrontato molti scontri in questa sessione.*
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: soldato e ufficiale del Dragon Army ora usano le schede ufficiali DSotDQ p200. **Attenzione ai numeri:** il soldato passa da CR 1/8 a **CR 1** e l'ufficiale da CR 1 a **CR 3** — gli incontri di questa sessione pesano molto di più di come erano stati calcolati.] **Erano schede ricostruite come truppe generiche.** La fonte cita "Dragon Army soldier" e "Dragon Army officer" per nome in decine di incontri in tutta la campagna (vedi tabella incontri casuali dell'Appendice B, righe 6351–6373) ma non fornisce i valori meccanici completi in questo estratto. Ho ricostruito schede semplici e rapide da giocare, in linea con il loro ruolo di truppe di fanteria numerose piuttosto che minacce individuali — **verificare contro l'appendice B completa se disponibile in tavolo**. Se il party affronta più soldati contemporaneamente, considera di gestirli come un singolo blocco di iniziativa per velocizzare il combattimento, specialmente se il tavolo ha già affrontato molti scontri in questa sessione.*
 
 ---
 
@@ -555,7 +616,7 @@ Dopo la sessione, aggiorna questi file:
 | 4 | Continuità | ⚠️ Nota pre-sessione | Segnalate le location aggiuntive verificate durante questa preparazione ma non estratte: F, G, H, J, K — con nota esplicita che Heart's Hollow (G) introduce Clystran, "non rimandabile all'infinito" secondo la fonte |
 | 5 | Fedeltà fonte | FASE 1–6 | Preservati tutti i dettagli meccanici della fonte: CD 16 Inganno (travestimento al cancello), CD 21/26 Furtività di gruppo (Akhviri), CD 17/20 Destrezza (scasso gabbie/forziere), tutte le liste di tesoro e le informazioni condivise da sea elves, Kennah, e le lettere di Belephaion |
 | 6 | Testo "Boxed" | BT-01 – BT-09 | Tutti i **8 testi read-aloud `>>`** della fonte (righe 4139–4242) tradotti integralmente e verificati contro l'originale inglese: avvicinamento, I1, I2, I3, I4, I5, Ali di Morte (arrivo + minaccia parlata di Akhviri). Aggiunto un nono blocco boxed (BT-09) per la fuga finale in FASE 6, coerente con lo stile narrativo della fonte anche se non marcato `>>` nell'originale — segnalato come aggiunta stilistica di chiusura, non come testo boxed originale mancante |
-| 7 | Stat Block | Draconiano Baaz, Draconiano Sivak | Ricostruiti da zero (CR 1/2 e CR 2) poiché la fonte rimanda ad *appendix B*, non incluso per intero in questo estratto — inclusi i tratti iconici del lore Dragonlance (Spasimi di Pietra per i baaz, Furto di Forma per i sivak), segnalato esplicitamente l'invito a verificare contro Fizban's Treasury of Dragons |
+| 7 | Stat Block | Draconiano Baaz, Draconiano Sivak | Ricostruiti da zero (CR 1/2 e CR 2) poiché la fonte rimanda ad *appendix B*, non incluso per intero in questo estratto — inclusi i tratti iconici del lore Dragonlance (Death Throes per i baaz, Furto di Forma per i sivak), segnalato esplicitamente l'invito a verificare contro Fizban's Treasury of Dragons. **La Death Throes è stata poi corretta sul testo ufficiale il 2026-09-13**; il resto del blocco resta una ricostruzione |
 | 8 | Stat Block | Soldato/Ufficiale del Dragon Army | Ricostruiti come truppe generiche rapide da giocare, coerenti con il loro ruolo di fanteria numerosa nella tabella incontri casuali dell'Appendice B (righe 6351–6373) — segnalato l'invito a gestirli come blocco unico di iniziativa se il tavolo è già stanco di combattimenti multipli |
 | 9 | Stat Block | Fewmaster Zirrok (Hobgoblin Warlord) | Scheda ricostruita da zero (CR 5) poiché "hobgoblin warlord" non è un nome di mostro del Manuale dei Mostri base — costruita come capitano hobgoblin potenziato, con nota esplicita che non è pensato come boss letale quanto Virruza (S11) |
 | 10 | Stat Block | Urta (Capitana Hobgoblin), Bulette | Riportate le schede **standard** del Manuale dei Mostri senza modifiche sostanziali — la fonte non richiede varianti per queste creature |

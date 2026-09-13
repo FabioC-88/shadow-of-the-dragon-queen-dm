@@ -135,15 +135,27 @@ Incontro pensato per il dialogo, non per il combattimento — diventa ostile sol
 **Drayan (Aurak Draconian) + 6 Bozak Draconian → 7 Bozak**, scalati per il quinto giocatore. Trattamento minore per Drayan (comandante ricorrente, non il boss per cui il capitolo esiste) — ha già economia delle azioni discreta (Sguardo Dominante, Respiro Nocivo, Portale Dimensionale per fuggire verso S18), sufficiente contro 5 PG senza Villain Actions.
 
 ```
-BOZAK DRACONIAN (×7)
-Medium Dragonborn | AC 15 (natural armor) | HP 65 | Speed 30 ft, glide | CR 3
-Glide: no fall damage, can glide horizontally.
-Death Throes: on death, explodes in magical fire — DC 13 Dexterity save, 14 (4d6) fire (half on success), 15 ft radius.
+BOZAK DRACONIAN (×7) — DSotDQ p198, official stat block
+Medium Monstrosity (Sorcerer), typically Lawful Evil | AC 15 (natural armor)
+Initiative +0 (10) | HP 40 (9d8) | Speed 30 ft.
+STR 14 (+2, save +2)   DEX 10 (+0, save +0)   CON 11 (+0, save +0)
+INT 11 (+0, save +2)   WIS 10 (+0, save +2)   CHA 14 (+2, save +4)
+Gear Trident | Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 2 (XP 450; PB +2)
+
+TRAITS
+Death Throes. At 0 HP its scales and flesh shrivel away, then its BONES EXPLODE.
+  Each creature within 10 ft: DC 10 Dexterity save or take 9 (2d8) FORCE damage.
+Glide. Subtracts up to 100 ft from a fall and moves 2 ft horizontally per 1 ft
+  descended. Not flight: cannot gain altitude.
 
 ACTIONS
-Multiattack: 2 attacks with Spiked Mace
-Spiked Mace: +4 to hit, reach 5 ft — 6 (1d8+2) bludgeoning
-Heavy Crossbow: +2 to hit, range 100/400 ft — 6 (1d10+1) piercing
+Multiattack. Two Trident melee attacks OR two Lightning Discharge attacks.
+Trident. Melee or Ranged: +4, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d6+2) piercing, or 6 (1d8+2) if used two-handed in melee.
+Lightning Discharge. Ranged Spell Attack: +4, range 60 ft. Hit: 10 (3d6) lightning.
+Spellcasting (Cha, save DC 12, no material components):
+  1/day each: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
 ```
@@ -181,17 +193,36 @@ Life Drain: +6 to hit, reach 5 ft — 21 (4d8+3) necrotic; DC 15 Constitution sa
 **4 Bozak → 5 Bozak** (blocco sopra) **+ 3 Kapak**, scalati per il quinto giocatore.
 
 ```
-KAPAK DRACONIAN (×3)
-Medium Dragonborn | AC 15 (natural armor) | HP 45 | Speed 30 ft, glide | CR 2
-Skills: Perception +2, Stealth +4
-Glide.
-Poison Coating (bonus action): next weapon hit deals +7 (2d6) poison, DC 12 Constitution save or poisoned 1 min.
-Death Throes: on death, liquefies into acid — DC 12 Dexterity save, 7 (2d6) acid (half on success), 5 ft radius.
+KAPAK DRACONIAN (×3) — DSotDQ p198, scheda ufficiale (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
+Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
+INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
+Skills Deception +4, Perception +3, Stealth +7
+Immunities Poison; Poisoned | Gear Dagger
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Common, Draconic | CR 3 (XP 700; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those
+  around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or
+  be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each
+  of its turns. A creature can use its action to scrape or wash the acid off
+  itself or another creature.
+Glide. When it falls and isn't incapacitated, it subtracts up to 100 ft from the
+  fall when calculating damage, and can move up to 2 ft horizontally for every
+  1 ft it descends. NOT flight: it cannot gain altitude.
 
 ACTIONS
-Multiattack: 2 attacks with Scimitar
-Scimitar: +4 to hit, reach 5 ft — 5 (1d6+2) slashing (+ poison if coated)
-Light Crossbow: +4 to hit, range 80/320 ft — 5 (1d6+2) piercing
+Multiattack. Two Dagger attacks. If both hit the same creature, that target must
+  succeed on a DC 12 Constitution save or be poisoned until the end of its next
+  turn. While poisoned this way, the target is also PARALYZED.
+Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
+
+[NOTA: era scritto come "Medium Dragonborn" CR 2 con scimitarra e balestra.
+ È una Mostruosità CR 3 con un Pugnale: tre kapak ufficiali pesano molto più
+ di tre kapak a CR 2. Rivedere il budget di questo scontro.]
 ```
 
 ### Sala di Guerra Draconiana — Sivak (S18)
@@ -199,15 +230,30 @@ Light Crossbow: +4 to hit, range 80/320 ft — 5 (1d6+2) piercing
 **6 Sivak → 7** (o **4→5 + Drayan** se è fuggita qui da S12), scalati per il quinto giocatore.
 
 ```
-SIVAK DRACONIAN (×7, or ×5 if Drayan present)
-Medium Dragonborn | AC 17 (natural armor) | HP 44 | Speed 30 ft, fly 40 ft | CR 2
-Death Curse (Reaction): on killing a humanoid with a melee attack, can assume its exact appearance for 1 hour or until it takes damage.
-Dive Attack: if it flies 20+ ft straight toward a target and hits with a Claw, +10 (3d6) damage.
+SIVAK DRACONIAN (×7, or ×5 if Drayan present) — DSotDQ p199, official stat block
+LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
+Initiative +0 (10) | HP 57 (6d10+24) | Speed 30 ft., Fly 60 ft.
+STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
+INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
+Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 4 (XP 1100; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP by a Large or smaller creature, it crumbles
+  into dust that forms a spectral, shrieking image OF ITS KILLER, lasting 1 minute.
+  Each creature hostile to the draconian within 10 ft of the image: DC 14 Wisdom
+  save or be frightened of it for 1 minute (repeat save at end of each turn).
 
 ACTIONS
-Multiattack: 1 Bite + 2 Claws
-Bite: +5 to hit, reach 5 ft — 12 (2d6+3) piercing
-Claw: +5 to hit, reach 5 ft — 8 (1d6+3) slashing
+Multiattack. Two Serrated Sword attacks and one Tail attack.
+Serrated Sword. +6 to hit, reach 5 ft — 13 (2d8+4) slashing.
+Tail. +6 to hit, reach 5 ft — 8 (1d8+4) bludgeoning. If the target is Large or
+  smaller, DC 14 Strength save or knocked prone.
+
+REACTIONS
+Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
+  itself in an illusion to look and feel like that creature, keeping its own
+  statistics (other than size). Lasts until it dies or ends it as a bonus action.
 ```
 
 *Se Drayan è presente (blocco sopra): il suo Respiro Nocivo è un'azione preparata sul primo PG a portata — applicalo appena entra in raggio, prima dell'iniziativa formale, come da fonte.*

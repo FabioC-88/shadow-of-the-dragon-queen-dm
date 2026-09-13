@@ -194,25 +194,41 @@ Se scoppia una rissa qui, i soldati che riposano nell'area O8 intervengono dopo 
 
 ***Scalinata.*** Le scale salgono all'area O9.
 
-### Stat Block — Draconiano Bozak (×2) · CR 3 · 700 XP cad. *(ricostruzione DM — vedi nota)*
+### Stat Block — Draconiano Bozak (×2) · CR 2 · 450 XP cad. *(scheda ufficiale DSotDQ p198)*
 
 ```
-DRACONIANO BOZAK — creatura drago Media, caotico malvagio
-CA 15 (armatura naturale)   PF 65 (10d8+20)   Velocità 9 m, planata
-STR 15 (+2)  DEX 11 (+0)  CON 15 (+2)  INT 9 (-1)  WIS 11 (+0)  CHA 10 (+0)
-Abilità Percezione +2
-Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
+DRACONIANO BOZAK — DSotDQ p198, scheda ufficiale
+Mostruosità Media (Stregone), tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +0 (10)   PF 40 (9d8)   Velocità 9 m
+FOR 14 (+2, TS +2)   DES 10 (+0, TS +0)   COS 11 (+0, TS +0)
+INT 11 (+0, TS +2)   SAG 10 (+0, TS +2)   CAR 14 (+2, TS +4)
+Equipaggiamento Tridente
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 2 (450 XP; BC +2)
 —
-Planata (Glide). Come il baaz: il bozak non subisce danno da caduta e può planare 1,5 m in orizzontale per ogni 30 cm di caduta.
-Morte Fiammeggiante (Death Throes). Quando il bozak scende a 0 PF, il suo corpo esplode in un lampo di fuoco magico. Ogni creatura entro 3 m deve superare un TS Destrezza CD 13, subendo 14 (4d6) danni da fuoco, o metà se ha successo.
+TRATTI
+Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
+CD 10 o subisce 9 (2d8) danni da FORZA.
+—
+Planata (Glide). Quando cade e non è incapacitato, sottrae fino a 30 m dall'altezza
+nel calcolo dei danni e può spostarsi di 60 cm in orizzontale per ogni 30 cm di
+discesa. Non è volo: non guadagna quota.
 —
 AZIONI
-Multiattacco. Il bozak effettua due attacchi con la mazza chiodata.
-Mazza Chiodata. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) danni contundenti.
-Balestra Pesante. Attacco a distanza con arma: +2 al colpire, gittata 30/120 m. Colpito: 6 (1d10+1) danni perforanti.
+Multiattacco. Due attacchi con il Tridente in mischia OPPURE due Scariche Elettriche.
+Tridente. Attacco con arma in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 6/18 m — 5 (1d6+2) perforanti, oppure 6 (1d8+2) se impugnato a due
+  mani in mischia.
+Scarica Elettrica. Attacco con incantesimo a distanza: +4 al colpire, gittata 18 m
+  — 10 (3d6) danni da fulmine.
+Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
+  (CD tiro salvezza 12):
+  1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
-*[NOTA DM — riservata] **Ricostruzione dichiarata, non testo originale.** *Appendix B* non include queste schede in questo estratto. Ho ricostruito il bozak a **CR 3** — coerente con le sue apparizioni narrative in Sessioni 02/04/05/06 (dove esplode sempre nelle "Death Throes" quando ucciso, un dettaglio che ho preservato meccanicamente qui per la prima volta con un tiro salvezza esplicito) e con il suo ruolo di draconiano di fanteria "di livello medio" tra il kapak (CR 2) e i tipi superiori. **Usa questa identica scheda per ogni futura apparizione** di bozak draconian in campagna (ne comparirà ancora, sia al Tempio di Paladine sia alla Soglia dei Cieli e nel Bastione, secondo la fonte).*
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: bozak e aurak usano ora le schede ufficiali DSotDQ (p198 e p196). Il bozak scende da CR 3 a **CR 2**; l'aurak resta CR 6 ma ha capacità completamente diverse (Aura di Comando, Respiro Nocivo, incantesimi, vista pura). Nota conservata come storia.] **Era una ricostruzione dichiarata, non testo originale.** *Appendix B* non include queste schede in questo estratto. Ho ricostruito il bozak a **CR 3** — coerente con le sue apparizioni narrative in Sessioni 02/04/05/06 (dove esplode sempre nelle "Death Throes" quando ucciso, un dettaglio che ho preservato meccanicamente qui per la prima volta con un tiro salvezza esplicito) e con il suo ruolo di draconiano di fanteria "di livello medio" tra il kapak (CR 2) e i tipi superiori. **Usa questa identica scheda per ogni futura apparizione** di bozak draconian in campagna (ne comparirà ancora, sia al Tempio di Paladine sia alla Soglia dei Cieli e nel Bastione, secondo la fonte).*
 
 ### Stat Block — Draconiano Kapak e Soldato del Dragon Army
 
@@ -342,23 +358,46 @@ La scala della magione collega questo piccolo corridoio all'area O4 al piano ter
 
 ***Tesoro.*** Una chiave che Hask porta con sé apre il forziere chiuso vicino alla scrivania. Il forziere può anche essere aperto da un personaggio che usa gli strumenti da scasso, dedica 1 minuto, e supera una prova di **Destrezza CD 18**. Il forziere contiene una *perla del potere* e un sacco da 90 kg, etichettato "Paga" in draconico, che custodisce 10.000 mp d'argento.
 
-### Stat Block — Captain Hask (Draconiano Aurak) · CR 6 · 2.300 XP *(ricostruzione DM — vedi nota)*
+### Stat Block — Captain Hask (Draconiano Aurak) · CR 6 · 2.300 XP *(scheda ufficiale DSotDQ p196)*
 
 ```
-CAPTAIN HASK — draconiano aurak, creatura drago Media, legale malvagio
-CA 18 (armatura naturale)   PF 114 (12d8+60)   Velocità 9 m, volare 18 m
-STR 17 (+3)  DEX 10 (+0)  CON 20 (+5)  INT 13 (+1)  WIS 13 (+1)  CHA 17 (+3)
-TS Saggezza +4, Carisma +6
-Resistenza alla Magia. Hask ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
-Sensi scurovisione 18 m, Percezione passiva 11   Linguaggi Comune, Draconico
+CAPTAIN HASK (DRACONIANO AURAK) — DSotDQ p196, scheda ufficiale
+Mostruosità Media (Stregone), tipicamente Legale Malvagio
+CA 17 (armatura naturale)   Iniziativa +2 (12)   PF 67 (9d8+27)   Velocità 10,5 m
+FOR 13 (+1, TS +1)   DES 14 (+2, TS +2)   COS 16 (+3, TS +3)
+INT 16 (+3, TS +6)   SAG 11 (+0, TS +3)   CAR 17 (+3, TS +6)
+Abilità Percezione +3
+Immunità condizione affascinato
+Sensi vista pura 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 6 (2.300 XP; BC +3)
 —
-Sguardo Dominante (Ricarica 5–6). Hask fissa una creatura che riesce a vedere entro 9 m. Il bersaglio deve superare un TS Saggezza CD 15 o essere affascinato da Hask per 1 minuto. La creatura affascinata ripete il tiro salvezza alla fine di ogni suo turno, terminando l'effetto con un successo.
-Morte Corrosiva (Death Throes). Quando Hask scende a 0 PF, il suo corpo si dissolve in una nube di vapore acido. Ogni creatura entro 3 m deve superare un TS Costituzione CD 15, subendo 10 (3d6) danni da acido, o metà se ha successo.
-Portale Dimensionale (1/giorno). Come azione bonus, Hask può lanciare *porta dimensionale* su sé stesso senza consumare uno slot incantesimo.
+TRATTI
+Aura di Comando. L'aurak irradia una presenza autorevole in una sfera di raggio
+6 m centrata su di sé. Un draconiano nell'aura che può vedere o sentire l'aurak
+non può essere affascinato e ha vantaggio ai TS per evitare o terminare su di sé
+la condizione Spaventato.
+—
+Death Throes. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
+una SFERA DI FULMINE contro la creatura più vicina entro 9 m, poi rimbalza su
+fino ad altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza
+CD 14. Fallimento: 9 (2d8) danni da fulmine ed è STORDITO fino alla fine del
+proprio turno successivo. Successo: metà danni, nessuno stordimento.
 —
 AZIONI
-Multiattacco. Hask effettua due attacchi con la spada corta.
-Spada Corta. Attacco con arma in mischia: +6 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni perforanti più 3 (1d6) danni da acido.
+Multiattacco. Tre attacchi di Squarcio oppure di Raggio d'Energia.
+Squarcio. +5 al colpire, portata 1,5 m — 8 (1d12+2) danni taglienti.
+Raggio d'Energia. Attacco con incantesimo a distanza: +6 al colpire, gittata 18 m
+  — 8 (1d10+3) danni da forza.
+Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
+  nell'area: TS Costituzione CD 14. Fallimento: 21 (6d6) danni da veleno e
+  1 livello di sfinimento. Successo: metà danni, nessuno sfinimento, e immunità
+  al Respiro Nocivo di QUALSIASI draconiano per 24 ore.
+Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
+  (CD tiro salvezza 14):
+  A volontà: invisibility, mage hand
+  2/giorno ciascuno: dimension door, disguise self, sending
+  1/giorno: dominate person
 ```
 
 *[NOTA DM — riservata] **Ricostruzione dichiarata.** *Appendix B* non include la scheda del draconiano aurak in questo estratto. L'ho costruito a **CR 6** — il più potente draconiano incontrato finora in campagna (sopra il bozak CR 3 e il kapak CR 2), coerente con il ruolo di comandante amministrativo di alto rango e con la caratterizzazione tipica degli aurak nel lore di Dragonlance come draconiani-incantatori/psionici capaci di dominare la volontà altrui. Ho aggiunto **Sguardo Dominante** come tratto distintivo (gli aurak sono tradizionalmente associati a poteri mentali) e **Portale Dimensionale** per coerenza con le altre apparizioni di aurak più avanti nella fonte (righe 5583: *"two aurak draconians teleport nearby using the dimension door spell"*). **Usa questa identica scheda per ogni futura apparizione** di aurak draconian in campagna. Hask **combatte fino alla morte** per esplicita istruzione della fonte — non è un incontro negoziabile una volta iniziato il combattimento, a differenza di molti altri incontri di questa sessione.*

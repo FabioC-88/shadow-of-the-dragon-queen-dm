@@ -152,7 +152,7 @@ Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allar
 
 ***Tesoro.*** Le rastrelliere d'armi custodiscono dozzine di armi appartenute alle forze di Kalaman prima che il forte cadesse. Una rastrelliera porta anche un bastone **hoopak** (*vedi appendice A*), sottratto a Elgo (imprigionata nell'area W6). Sopra la rastrelliera sud è appesa una lancia lucente incisa con immagini di draghi — decorazione di latta, inutile in combattimento.
 
-*[NOTA DM — riservata] Rivedere i baaz è deliberato: il party li conosce già dalla S05 e sa esattamente come muoiono (pietrificazione, arma incastrata). Usa questa familiarità a tuo vantaggio — è un incontro più rapido da giocare perché il tavolo ha già imparato le regole. Se un PG grida "non colpirlo per ultimo con l'arma buona!", è la conferma che la lezione di S05 ha attecchito.*
+*[NOTA DM — riservata] Rivedere i baaz è deliberato: il party li conosce già dalla S05 e sa esattamente come muoiono (pietrificazione e gas che pietrifica chi è adiacente). Usa questa familiarità a tuo vantaggio — è un incontro più rapido da giocare perché il tavolo ha già imparato le regole. Se un PG grida "state larghi quando cade!", è la conferma che la lezione di S05 ha attecchito.*
 
 ---
 
@@ -291,96 +291,154 @@ Il resto della giornata è libero. Buoni usi:
 
 ## Stat Block — Creature e Alleati di Wheelwatch
 
-### Dragon Army Soldier · CR 1/4 · 50 XP cad.
+### Dragon Army Soldier · CR 1 · 200 XP cad.
 
 ```
-DRAGON ARMY SOLDIER — creatura umanoide Media, legale malvagio
-CA 16 (cotta di maglia, scudo)   PF 16 (3d8+3)   Velocità 9 m
-STR 13 (+1)  DEX 12 (+1)  CON 12 (+1)  INT 10 (+0)  WIS 11 (+0)  CHA 10 (+0)
-Sensi Percezione passiva 10   Linguaggi Comune
+SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
+Velocità 9 m
+FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Atletica +4, Percezione +2
+Equipaggiamento Giavellotto, Spada lunga
+Sensi Percezione passiva 12
+Linguaggi Comune, Draconico
+CR 1 (200 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, il soldato ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Lancia. +3 al colpire, portata 1,5 m o gittata 6/18 m. Colpito: 5 (1d8+1) perforanti.
-Spada lunga. +3 al colpire, portata 1,5 m. Colpito: 6 (1d10+1) taglienti a due mani.
+Multiattacco. Due attacchi con la Spada lunga oppure con il Giavellotto.
+Spada lunga. +4 al colpire, portata 1,5 m — 6 (1d8+2) taglienti, oppure
+  7 (1d10+2) se impugnata a due mani, più 2 (1d4) danni da fuoco.
+Giavellotto. Attacco in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 9/36 m — 5 (1d6+2) perforanti più 2 (1d4) danni da fuoco.
 ```
 
 ### Dragon Army Officer · CR 3 · 700 XP cad.
 
 ```
-DRAGON ARMY OFFICER — creatura umanoide Media, legale malvagio
-CA 17 (semi-piastre)   PF 58 (9d8+18)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 14 (+2)
-Tiri Salvezza Cost +4, Sag +3   Abilità Intimidire +4, Percezione +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. L'ufficiale effettua tre attacchi con la spada lunga.
-Spada lunga. +5 al colpire, portata 1,5 m. Colpito: 7 (1d8+3) taglienti a due mani.
-Comando (1/turno). L'ufficiale sceglie un Dragon Army soldier entro 9 m: quella creatura può usare la propria reazione per effettuare un attacco.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
 ### Sivak Draconian · CR 4 · 1.100 XP
 
 ```
-SIVAK DRACONIAN — creatura drago Media, legale malvagio
-CA 16 (armatura naturale)   PF 60 (8d8+24)   Velocità 9 m, volare 12 m
-STR 17 (+3)  DEX 12 (+1)  CON 16 (+3)  INT 10 (+0)  WIS 12 (+1)  CHA 13 (+1)
-Abilità Inganno +5, Percezione +3   Sensi scurovisione 18 m, Percezione passiva 13
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
 Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide, può assumerne l'aspetto esatto (voce, abiti, equipaggiamento apparente) fino a quando non decide di tornare alla forma naturale o non subisce danni sufficienti a romperla (il DM decide, indicativamente metà dei PF massimi in un singolo colpo). Sotto mentite spoglie non ha svantaggio alle prove di Inganno per passare come la persona imitata.
-Ultimo Inganno (Morte). Quando il sivak scende a 0 PF, se è stato colpito dal colpo mortale da una creatura identificabile, il suo corpo assume per 1 minuto (o finché non viene esaminato da vicino con una prova di Saggezza (Percezione) CD 15) l'esatta sembianza di quella creatura — un ultimo, agghiacciante inganno. Non ha alcun effetto meccanico oltre alla confusione narrativa: usalo per il momento, non come arma tattica contro i PG.
-—
-AZIONI
-Multiattacco. Il sivak effettua due attacchi con la glaive.
-Glaive. +6 al colpire, portata 3 m. Colpito: 11 (2d10) taglienti.
-Morso. +6 al colpire, portata 1,5 m. Colpito: 8 (1d10+3) perforanti.
-```
-
-*[NOTA DM — riservata] Il "Furto di Forma" e l'"Ultimo Inganno" sono ricostruiti sul lore classico di Dragonlance per il sivak (il draconiano che ruba identità) e vanno **verificati sull'appendice B del manuale**, che nell'estratto disponibile riporta solo il nome della creatura senza stat block completo — stessa onestà metodologica di S05 per baaz/kapak. L'"Ultimo Inganno" è pensato come puro colpo di scena narrativo (il cadavere che per un istante ha il volto di chi lo ha ucciso), non come meccanica di combattimento: non dargli conseguenze meccaniche reali, solo l'orrore del momento.*
-
-### Baaz Draconian (×2) · CR 1 · 200 XP cad. *(identico alla Sessione 05)*
-
-```
-BAAZ DRACONIAN — creatura drago Media, legale malvagio
-CA 15 (armatura naturale)   PF 22 (3d8+9)   Velocità 9 m, planata
-STR 15 (+2)  DEX 12 (+1)  CON 16 (+3)  INT 8 (-1)  WIS 10 (+0)  CHA 9 (-1)
-Abilità Intimidire +1
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Comune, Draconico
-—
-Planata (Glide). Il baaz può usare le ali per planare: quando cade, non subisce
-danni da caduta e può spostarsi orizzontalmente di 1,5 m per ogni 3 m di discesa.
-—
-Pietrificazione (Death Burst). Quando il baaz scende a 0 PF, il suo corpo si
-tramuta in pietra. Un'arma da mischia usata per il colpo mortale resta incastrata:
-liberarla richiede un'azione e una prova di Forza CD 11. Dopo 1 minuto la statua
-si sbriciola in polvere.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Il baaz effettua due attacchi: uno con il morso e uno con gli artigli
-(oppure due con la spada lunga).
-Spada lunga. +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) taglienti,
-o 7 (1d10+2) se impugnata a due mani.
-Morso. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) perforanti.
-Artigli. +4 al colpire, portata 1,5 m. Colpito: 6 (2d4+2) taglienti.
-```
-
-### Dragon Army Dragonnel · CR 4 · 1.100 XP
-
-```
-DRAGON ARMY DRAGONNEL — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve
-superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso
-in quel round — il terrore istintivo di fronte a qualcosa che assomiglia a un drago.
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
+```
+
+*[NOTA DM — ⚠️ SUPERATA il 2026-09-13: ora c'è la scheda ufficiale DSotDQ p199 qui sopra. Il "Furto di Forma" ufficiale è una **reazione** e l'"Ultimo Inganno" esiste davvero, ma come **Death Throes con effetto di paura reale** (TS Saggezza CD 14), non come puro colore. Testo originale conservato solo come storia.] Il "Furto di Forma" e l'"Ultimo Inganno" erano ricostruiti sul lore classico di Dragonlance per il sivak (il draconiano che ruba identità) e vanno **verificati sull'appendice B del manuale**, che nell'estratto disponibile riporta solo il nome della creatura senza stat block completo — stessa onestà metodologica di S05 per baaz/kapak. L'"Ultimo Inganno" è pensato come puro colpo di scena narrativo (il cadavere che per un istante ha il volto di chi lo ha ucciso), non come meccanica di combattimento: non dargli conseguenze meccaniche reali, solo l'orrore del momento.*
+
+### Baaz Draconian (×2) · CR 1/2 · 100 XP cad. *(identico alla Sessione 05)*
+
+```
+BAAZ DRACONIAN (×2) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
+—
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
+—
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua un attacco con il morso e uno con gli artigli.
-Morso. +7 al colpire, portata 3 m. Colpito: 15 (2d10+4) perforanti.
-Artigli. +7 al colpire, portata 1,5 m. Colpito: 13 (2d6+4) taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
+```
+
+### Dragon Army Dragonnel · CR 3 · 700 XP
+
+```
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
+—
+AZIONI
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
 *[NOTA DM — riservata] Il dragonnel è descritto nella fonte come "un lontano e selvatico cugino minore dei draghi" — non un vero drago, niente resistenze elementali né soffio. Il valore ricostruito qui (CR 4) lo rende un avversario serio ma non un boss; il vero peso dell'incontro è **scenico**, non meccanico — è la prima creatura della campagna che assomiglia davvero a un drago. Da verificare sull'appendice B del manuale, come sopra.*

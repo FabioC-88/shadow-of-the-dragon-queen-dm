@@ -93,11 +93,11 @@
 | Campo | Valore |
 |-------|--------|
 | **Posizione verso il party** | Neutrale → Potenzialmente Alleata |
-| **PNG di contatto** | **Cudgel Ironsmile** — leader nano |
+| **PNG di contatto** | **Cudgel Ironsmile** — capitana nana |
 | **Sede operativa** | Accampamento mercenari fuori Vogler (Cap 3) |
 | **Obiettivo** | Profitto; contratti militari; sopravvivenza |
 
-**Stile operativo:** Mercenari nani guidati da Cudgel Ironsmile, ex compagno di Ispin Greenshield. Inizialmente assunti a Vogler; la loro lealtà può essere conquistata con gold o dimostrando valore. Cudgel rispetta la forza e l'onestà.
+**Stile operativo:** Compagnia mercenaria guidata da Cudgel Ironsmile, ex compagna d'avventura di Ispin Greenshield e di Becklin. Ingaggiata a Vogler per la rievocazione del Festival del Kingfisher; la sua lealtà si conquista con l'oro o dimostrando valore. Cudgel rispetta la forza e l'onestà. Il suo secondo luogotenente, il **mezzo-ogre Gragonis**, la tradisce in Sessione 01; l'altro, l'umano **Jeyev Veldrews**, resta al campo.
 
 ---
 

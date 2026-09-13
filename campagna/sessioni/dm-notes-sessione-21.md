@@ -103,20 +103,29 @@ Quattro **dragonnel del Dragon Army** si sono separati dai propri cavalieri nel 
 
 *[NOTA DM — riservata — pagamento condizionale del thread della Magione Occupata.* **Se in Sessione 18 il party ha liberato il dragonnel selvatico incatenato in O3** (e specialmente se un PG con background pertinente ha stabilito un legame più duraturo con la creatura, a discrezione del DM come già indicato in quella sessione), questo è il momento naturale per farlo tornare: la fonte lo dice esplicitamente — *"in alternativa, se i personaggi hanno salvato il dragonnel selvatico nella magione occupata, potrebbe tornare con altri dragonnel per aiutarli a fuggire."* In tal caso, salta del tutto la prova di Persuasione CD 16: il dragonnel selvatico (vedi scheda sotto, identica a quella ricostruita in Sessione 14) si offre spontaneamente, riconoscendo chi lo ha liberato. Se il dragonnel non fu liberato, o non fu stabilito alcun legame, si applica la regola standard con la prova CD 16 sui quattro dragonnel del Dragon Army.*
 
-### Stat Block — Dragonnel del Dragon Army (×4, cavalcature non ostili) · CR 4 · 1.100 XP cad. *(scheda identica a Sessioni 06/16/20 — riutilizzata per continuità meccanica)*
+### Stat Block — Dragonnel del Dragon Army (×4, cavalcature non ostili) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16/20 — riutilizzata per continuità meccanica)*
 
 ```
-DRAGONNEL DEL DRAGON ARMY — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso in quel round.
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua un attacco con il morso e uno con gli artigli.
-Morso. +7 al colpire, portata 3 m. Colpito: 15 (2d10+4) perforanti.
-Artigli. +7 al colpire, portata 1,5 m. Colpito: 13 (2d6+4) taglienti.
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
 ### Stat Block — Dragonnel Selvatico (cavalcatura alternativa, condizionale) · CR 2 · 450 XP *(scheda identica a Sessione 14 — riutilizzata per continuità meccanica)*
@@ -168,21 +177,37 @@ Scimitarra. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) taglienti (+ veleno
 Balestra leggera. +4 al colpire, gittata 24/96 m. Colpito: 5 (1d6+2) perforanti.
 ```
 
-### Stat Block — Draconiano Sivak (×1) · CR 2 · 450 XP *(scheda identica a Sessioni 13/15/20 — riutilizzata per continuità meccanica)*
+### Stat Block — Draconiano Sivak (×1) · CR 4 · 1.100 XP *(scheda identica a Sessioni 13/15/20 — riutilizzata per continuità meccanica)*
 
 ```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
 *[NOTA DM — riservata] **Nessuna nuova ricostruzione in questo incontro.** Tutte e cinque le schede di questa fase (dragonnel Dragon Army, dragonnel selvatico, kapak, sivak) riutilizzano identiche quelle già stabilite in Sessioni 05/06/13/14/15/16/18/20 — nessuna nuova invenzione meccanica, in linea con il vincolo di non inventare stat block senza segnalarli. L'unico elemento realmente nuovo di questa scena è ambientale: il masso che cade e la levitazione improvvisa, entrambi effetti del crollo della città stessa, non di una creatura.*

@@ -224,38 +224,69 @@ Questa fossa di sabbia è dove il drago trascorreva la maggior parte del proprio
 ### Stat Block — Draconiano Baaz (fino a ×5) · CR 1/2 · 100 XP cad.
 
 ```
-DRACONIANO BAAZ — drago Piccolo, legale malvagio
-CA 16 (armatura naturale)   PF 13 (3d6+3)   Velocità 9 m, volare 9 m (solo planata, non guadagna quota)
-STR 14 (+2)  DEX 13 (+1)  CON 13 (+1)  INT 8 (-1)  WIS 11 (+0)  CHA 8 (-1)
-Resistenze danni veleno
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+BAAZ DRACONIAN (fino a ×5) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
 —
-Spasimi di Pietra. Quando il baaz viene ridotto a 0 punti ferita, il suo corpo si irrigidisce istantaneamente in una statua di pietra fragile, che si sgretola in polvere dopo 1 minuto. Se il colpo di grazia viene inferto con un'arma da mischia non magica, l'arma resta incastrata nella pietra a meno che chi la impugna non superi un TS Forza CD 10 — si libera comunque quando la statua crolla in polvere.
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-AZIONI
-Multiattacco. Due attacchi: morso e artiglio, oppure due artigli.
-Morso. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 5 (1d4+2) danni perforanti.
-Artiglio. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 8 (1d6+2) danni taglienti.
-```
-
-### Stat Block — Draconiano Sivak · CR 2 · 450 XP
-
-```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-*[NOTA DM — riservata] **Schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico** — identiche a quelle già usate in Sessione 13. La fonte rimanda ad *appendix B* per entrambe, non incluso per intero in questo estratto. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–14.*
+### Stat Block — Draconiano Sivak · CR 4 · 1.100 XP
+
+```
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
+—
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
+—
+AZIONI
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
+```
+
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: baaz e sivak usano ora le schede ufficiali DSotDQ. Il sivak passa da CR 2 a **CR 4**, è **Grande** e **vola a 18 m**: rivedi il peso dell'incontro.] **Erano schede ricostruite, base Fizban's Treasury of Dragons / lore Dragonlance classico** — identiche a quelle già usate in Sessione 13. La fonte rimanda ad *appendix B* per entrambe, non incluso per intero in questo estratto. **Verificare i valori esatti contro Fizban's Treasury of Dragons o l'appendice B completa del manuale**, in linea con la prassi già usata per gli stat block ricostruiti nelle Sessioni 08–14.*
 
 ***Sabbie Mobili.*** Gran parte della fossa sabbiosa contiene 4,5 metri di sabbie mobili, di cui i draconiani sono già a conoscenza. Un personaggio che sonda il pavimento o cerca pericoli individua i rischi della fossa con una prova riuscita di **Saggezza (Percezione) CD 13**. Quando una creatura entra nelle sabbie mobili, sprofonda di 1 metro nella fossa e diventa bloccata. All'inizio di ciascuno dei propri turni, sprofonda di un altro metro. Finché non è completamente sommersa, può liberarsi usando la propria azione e superando una prova di Forza; la CD è 10 più il numero di metri in cui la creatura è sprofondata. Una creatura completamente sommersa non può respirare.
 

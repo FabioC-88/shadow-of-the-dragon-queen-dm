@@ -84,50 +84,72 @@ and move away. Coerente con l'originale: fugge se in inferiorità numerica.
 
 **3× Baaz Draconian** (era 2, scalato per il quinto giocatore) + **1× Kapak Draconian (Ambusher)**. Stat block classici, come sempre in questa campagna.
 
+> ⚠️ **[TODO DM — ricontrollare il budget di questo scontro.]** Il Baaz qui era scritto come **CR 1 (200 XP)**; la scheda ufficiale è **CR 1/2 (100 XP)**, con danni molto più bassi (2× Shortsword 1d6+1 = ~8/round, invece di Morso+Artigli o 2× Longsword = ~11-14/round). Il budget *Flee, Mortals!* di questo incontro era calcolato sui numeri vecchi: **i tre baaz ora pesano circa la metà.** Se vuoi mantenere la pressione originale, alza il numero (4-5 baaz) invece di gonfiare il blocco. Vale per tutti gli scontri con baaz dal Cap. 4 in poi.
+
 ```
-BAAZ DRACONIAN (×3)
-Medium Dragon | AC 15 (natural armor) | HP 22 (3d8+9)
-Speed 30 ft | CR 1 (200 XP each) | Lawful Evil | Languages: Common, Draconic
+BAAZ DRACONIAN (×3) — DSotDQ p197, scheda ufficiale (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 14 (natural armor)
+Initiative +0 (10) | HP 22 (4d8+4) | Speed 30 ft.
+STR 13 (+1, save +1)   DEX 11 (+0, save +0)   CON 13 (+1, save +1)
+INT  8 (-1, save -1)   WIS  8 (-1, save -1)   CHA 10 (+0, save +0)
+Gear Shortsword | Senses Darkvision 60 ft., Passive Perception 9
+Languages Common, Draconic | CR 1/2 (XP 100; PB +2)
 
-STR +2, DEX +1, CON +3, INT -1, WIS +0, CHA -1
-Skills: Intimidation +1 | Darkvision 60 ft, Passive Perception 10
-
-Glide: the baaz takes no falling damage and can move 5 ft horizontally for every
-10 ft it falls.
-Death Burst (Petrification): when reduced to 0 HP, its body turns to stone. A melee
-weapon used for the killing blow becomes stuck: freeing it takes an action and a
-DC 11 Strength check. The statue crumbles to dust after 1 minute.
+TRAITS
+Controlled Fall. When the draconian falls and isn't incapacitated, it subtracts
+  up to 100 ft from the fall when calculating the fall's damage.
+  [NON vola e NON plana lateralmente: attutisce solo i danni da caduta.]
+Death Throes. When reduced to 0 HP, its body turns to stone and releases a
+  petrifying gas. Each creature within 5 ft must succeed on a DC 11 Constitution
+  save or be restrained as it begins to turn to stone. The restrained creature
+  repeats the save at the end of its next turn: on a success the effect ends,
+  otherwise the creature is PETRIFIED for 1 minute. After 1 minute, the body
+  crumbles to dust.
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  draconian has advantage on attack rolls.
 
 ACTIONS
-Multiattack: Bite + Claws, or two attacks with Longsword.
-Longsword: +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed.
-Bite: +4 to hit, reach 5 ft — 5 (1d6+2) piercing.
-Claws: +4 to hit, reach 5 ft — 6 (2d4+2) slashing.
+Multiattack. Two Shortsword attacks.
+Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
 ```
-KAPAK DRACONIAN (Ambusher)
-Medium Dragon | AC 15 (natural armor) | HP 45 (7d8+14)
-Speed 30 ft | CR 2 (450 XP) | Chaotic Evil | Languages: Common, Draconic
+KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 (verificata 2026-09-13)
+Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
+Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
+INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
+Skills Deception +4, Perception +3, Stealth +7
+Immunities Poison; Poisoned | Gear Dagger
+Senses Darkvision 60 ft., Passive Perception 13
+Languages Common, Draconic | CR 3 (XP 700; PB +2)
 
-STR +2, DEX +2, CON +2, INT +0, WIS +0, CHA +0
-Skills: Perception +2, Stealth +4 | Darkvision 60 ft, Passive Perception 12
-
-Glide: as the baaz, above.
-Poisoned Blades: as a bonus action, the kapak can coat its blades in venom — the
-next weapon attack that hits deals +7 (2d6) poison damage, and the target must
-succeed on a DC 12 Constitution save or be poisoned for 1 minute.
-Death Throes (Acid): when reduced to 0 HP, its body dissolves into a pool of acid.
-Creatures within 5 ft: DC 12 Dexterity save or take 7 (2d6) acid damage (half on success).
+TRAITS
+Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those
+  around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or
+  be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each
+  of its turns. A creature can use its action to scrape or wash the acid off
+  itself or another creature.
+Glide. When it falls and isn't incapacitated, it subtracts up to 100 ft from the
+  fall when calculating damage, and can move up to 2 ft horizontally for every
+  1 ft it descends. NOT flight: it cannot gain altitude.
 
 ACTIONS
-Multiattack: two attacks with Shortsword.
-Shortsword: +4 to hit, reach 5 ft — 5 (1d6+2) piercing (+ poison if Poisoned Blades active).
-Light Crossbow: +4 to hit, range 80/320 ft — 5 (1d6+2) piercing.
+Multiattack. Two Dagger attacks. If both hit the same creature, that target must
+  succeed on a DC 12 Constitution save or be poisoned until the end of its next
+  turn. While poisoned this way, the target is also PARALYZED.
+Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
 
-REACTION — Glide Away
-When a melee attack misses it, the Kapak can glide up to 20 ft without provoking
-opportunity attacks — stessa firma tattica del Kapak del Cap. 3: mordi e fuggi.
+--- AGGIUNTE HOMEBREW (dichiarate, come nel Cap. 3) ---
+Sneak Attack: +2d6 se ha vantaggio o un alleato è entro 5 ft dal bersaglio.
+REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
+  20 ft senza provocare attacchi di opportunità.
+
+[NOTA: era scritto come Medium Dragon CR 2, 45 PF, con Shortsword/Light Crossbow
+ e "Poisoned Blades" come azione bonus. Niente di tutto ciò è ufficiale: è una
+ Mostruosità CR 3 con un Pugnale, il veleno è sempre attivo, e il Multiattacco
+ può PARALIZZARE. Rivedere il budget dell'incontro di conseguenza.]
 ```
 
 *Notevole ma non boss: niente Villain Actions. Il picco di difficoltà della sessione resta l'imboscata dall'alto (sorpresa + veleno), non un macchinario narrativo a tre atti.*
@@ -139,83 +161,96 @@ opportunity attacks — stessa firma tattica del Kapak del Cap. 3: mordi e fuggi
 Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di Dragon Army Soldier da 1 a 8 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme totale e più gruppi convergono nello stesso scontro (es. gli 8 della caserma + i 3 del cortile = 11+), restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** per non rallentare il tavolo (vedi 00-framework.md punto 2).
 
 ```
-DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono)
-Medium Humanoid | AC 16 (chain shirt, shield) | HP 16 (3d8+3)
-Speed 30 ft | CR 1/4 (50 XP each) | Lawful Evil | Languages: Common
+DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
+Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
+STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
+INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
+Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
+Senses Passive Perception 12 | Languages Common, Draconic
+CR 1 (XP 200; PB +2)
 
-STR +1, DEX +1, CON +1, INT +0, WIS +0, CHA +0 | Passive Perception 10
-
-ACTIONS
-Spear: +3 to hit, reach 5 ft or range 20/60 ft — 5 (1d8+1) piercing.
-Longsword: +3 to hit, reach 5 ft — 6 (1d10+1) slashing two-handed.
-```
-
-```
-DRAGON ARMY OFFICER (Notable, ~CR 3) — Ardlic Vanse, comandante del forte
-Medium Humanoid | AC 17 (half-plate) | HP 58 (9d8+18)
-Speed 30 ft | Lawful Evil | Languages: Common, Draconic
-
-STR +2, DEX +1, CON +2, INT +0, WIS +1, CHA +2
-Saves: CON +4, WIS +3 | Skills: Intimidation +4, Perception +3 | Passive Perception 13
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  soldier has advantage on attack rolls.
 
 ACTIONS
-Multiattack: three attacks with Longsword.
-Longsword: +5 to hit, reach 5 ft — 7 (1d8+3) slashing two-handed.
-Command (1/turn): choose a Dragon Army Soldier within 30 ft — that creature can use
-its reaction to make one attack.
-
-REACTION — Last Order
-When reduced to 0 HP, before falling he can use Command one final time even though
-it's not his turn. Fanatico per paura di Kansaldi fino all'ultimo respiro.
+Multiattack. Two Longsword or Javelin attacks.
+Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,
+  plus 2 (1d4) fire.
+Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.
+  Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.
 ```
 
 ```
-SIVAK DRACONIAN (Notable, ~CR 4) — travestito da soldato di Kalaman alla torre nord-ovest
-Medium Dragon | AC 16 (natural armor) | HP 60 (8d8+24)
-Speed 30 ft, fly 40 ft | CR 4 (1,100 XP) | Lawful Evil | Languages: Common, Draconic
+DRAGON ARMY OFFICER (Notable, ~CR 3) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 19 (splint, shield)
+Initiative +2 (12) | HP 65 (10d8+20) | Speed 30 ft.
+STR 16 (+3, save +3)   DEX 14 (+2, save +4)   CON 15 (+2, save +2)
+INT 12 (+1, save +1)   WIS 14 (+2, save +4)   CHA 12 (+1, save +1)
+Skills Athletics +5, Perception +4 | Gear Heavy Crossbow, Lance
+Senses Passive Perception 14 | Languages Common, Draconic
+CR 3 (XP 700; PB +2)
 
-STR +3, DEX +1, CON +3, INT +0, WIS +1, CHA +1
-Skills: Deception +5, Perception +3 | Darkvision 60 ft, Passive Perception 13
-
-Form Theft (Reaction): when the sivak kills a Humanoid, it can assume that creature's
-exact appearance (voice, clothes, apparent gear) until it chooses to revert or takes
-enough damage in a single hit to break the disguise (roughly half its max HP — DM call).
-While disguised, it has no disadvantage on Deception checks to pass as the person imitated.
-Final Deception (Death): when reduced to 0 HP by an identifiable creature, its corpse
-takes on that creature's exact likeness for 1 minute (or until examined with a DC 15
-Wisdom (Perception) check) — pure narrative gut-punch, no mechanical effect.
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  officer has advantage on attack rolls.
 
 ACTIONS
-Multiattack: two attacks with Glaive.
-Glaive: +6 to hit, reach 10 ft — 11 (2d10) slashing.
-Bite: +6 to hit, reach 5 ft — 8 (1d10+3) piercing.
+Multiattack. Two Vicious Lance attacks, and uses Assault Orders if available.
+Vicious Lance. +5 to hit, REACH 10 ft — 8 (1d10+3) piercing plus 2 (1d4) fire.
+Heavy Crossbow. +4 to hit, range 100/400 ft — 7 (1d10+2) piercing plus 5 (1d10) fire.
+Assault Orders (Recharge 5-6). Shouts orders at up to two other creatures within
+  60 ft. A target with Draconic Devotion that can hear it may use its reaction to
+  make one melee attack.
+```
 
-BONUS ACTION — Borrowed Face
-Once per turn, if it hasn't taken damage this round, it can make a Deception check
-opposed by the passive Insight of one creature it can see — on a success, that
-creature is unsure whether to treat the sivak as friend or foe for its next turn.
+```
+SIVAK DRACONIAN (Notable, ~CR 4) — DSotDQ p199, official stat block
+LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
+Initiative +0 (10) | HP 57 (6d10+24) | Speed 30 ft., Fly 60 ft.
+STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
+INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
+Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 4 (XP 1100; PB +2)
+
+TRAITS
+Death Throes. When reduced to 0 HP by a Large or smaller creature, it crumbles
+  into dust that forms a spectral, shrieking image OF ITS KILLER, lasting 1 minute.
+  Each creature hostile to the draconian within 10 ft of the image: DC 14 Wisdom
+  save or be frightened of it for 1 minute (repeat save at end of each turn).
+
+ACTIONS
+Multiattack. Two Serrated Sword attacks and one Tail attack.
+Serrated Sword. +6 to hit, reach 5 ft — 13 (2d8+4) slashing.
+Tail. +6 to hit, reach 5 ft — 8 (1d8+4) bludgeoning. If the target is Large or
+  smaller, DC 14 Strength save or knocked prone.
+
+REACTIONS
+Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
+  itself in an illusion to look and feel like that creature, keeping its own
+  statistics (other than size). Lasts until it dies or ends it as a bonus action.
 ```
 
 *Il vero peso di questo incontro è la rivelazione (parla come un alleato finché non lo colpisci), non il numero di azioni — niente Villain Actions, ma la Bonus Action rinforza il tema dell'inganno.*
 
 ```
-DRAGON ARMY DRAGONNEL (Notable duo con l'Officer, CR 3 ufficiale — potenziato a livello ~CR 4 per il duo) — il picco drammatico della sessione, stalla W8
-Large Dragon | AC 16 (natural armor) | HP 82 (9d10+27)
-Speed 30 ft, fly 60 ft | Unaligned | Darkvision 60 ft, Passive Perception 11
+DRAGON ARMY DRAGONNEL (Notable duo con l'Officer, CR 3 ufficiale — DSotDQ p201, official stat block
+Large Dragon, typically Lawful Evil | AC 16 (breastplate barding)
+Initiative +2 (12) | HP 58 (9d10+9) | Speed 30 ft., Fly 60 ft.
+STR 16 (+3, save +3)   DEX 15 (+2, save +2)   CON 12 (+1, save +1)
+INT  8 (-1, save -1)   WIS 13 (+1, save +1)   CHA 10 (+0, save +0)
+Skills Perception +3 | Resistances Fire
+Senses Blindsight 30 ft., Darkvision 120 ft., Passive Perception 13
+Languages understands Common and Draconic but can't speak
+CR 3 (XP 700; PB +2)
 
-Flyby: doesn't provoke opportunity attacks when it flies out of a creature's reach.
-Draconic Omen: the first time a creature sees the dragonnel, it must succeed on a
-DC 12 Wisdom save or have disadvantage on its first attack against it that round —
-istintivo terrore di fronte a qualcosa che assomiglia a un drago.
+TRAITS
+Flyby. Doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
 ACTIONS
-Multiattack: one Bite and one Claws attack.
-Bite: +7 to hit, reach 10 ft — 15 (2d10+4) piercing.
-Claws: +7 to hit, reach 5 ft — 13 (2d6+4) slashing.
-
-BONUS ACTION — Diving Strike
-If the dragonnel flew at least 20 ft straight toward a target this turn before
-attacking, its next hit this turn deals an extra 7 (2d6) damage.
+Multiattack. Two Rend attacks.
+Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 ```
 
 *Il suo cavaliere è un secondo **Dragon Army Officer** (blocco sopra) — la coppia condivide già il Comando dell'Officer come strumento di sinergia, niente bisogno di altro. Duo drammatico, non boss di capitolo: niente Villain Actions piene.*
@@ -239,21 +274,41 @@ Shortsword: +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
 ```
-DRAGON ARMY SOLDIER (mounted) (×5)
-Medium Humanoid | AC 16 (chain shirt, shield) | HP 16 (3d8+3)
-Speed 30 ft | CR 1/4 (50 XP each) | Lawful Evil | Languages: Common
+DRAGON ARMY SOLDIER (mounted) (×5) — DSotDQ p200, official stat block
+Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
+Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
+STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
+INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
+Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
+Senses Passive Perception 12 | Languages Common, Draconic
+CR 1 (XP 200; PB +2)
+
+TRAITS
+Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
+  soldier has advantage on attack rolls.
 
 ACTIONS
-Spear: +3 to hit, reach 5 ft or range 20/60 ft — 5 (1d8+1) piercing.
-Longsword: +3 to hit, reach 5 ft — 6 (1d10+1) slashing two-handed.
+Multiattack. Two Longsword or Javelin attacks.
+Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,
+  plus 2 (1d4) fire.
+Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.
+  Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.
 ```
 
 ```
-WAR HORSE (×5)
-Large Beast | AC 10 | HP 19 (3d10+3) | Speed 60 ft | CR 1/2
+WARHORSE (×5) — MM'25 p373, scheda ufficiale (verificata 2026-09-13)
+Large Beast, Unaligned | AC 11 | Initiative +1 (11)
+HP 19 (3d10+3) | Speed 60 ft. | CR 1/2 (XP 100; PB +2)
+STR 18 (+4, save +4)   DEX 12 (+1, save +1)   CON 13 (+1, save +1)
+INT  2 (-4, save -4)   WIS 12 (+1, save +3)   CHA  7 (-2, save -2)
+Senses Passive Perception 11 | Languages —
 
 ACTIONS
-Hooves: +6 to hit, reach 5 ft — 11 (2d6+4) bludgeoning.
+Hooves. Melee Attack: +6, reach 5 ft. Hit: 9 (2d4+4) Bludgeoning damage.
+  If the target is a Large or smaller creature and the horse moved 20+ ft
+  straight toward it immediately before the hit, the target takes an extra
+  5 (2d4) Bludgeoning damage and has the Prone condition.
+  [AC 11 non 10; danno base 2d4+4 non 2d6+4; la carica e' dentro l'attacco.]
 ```
 
 *Obiettivo dello scontro invariato: proteggere la ritirata, non vincere una battaglia campale. Nessun trattamento boss — è un incontro tattico corale, non un nemico nominato.*

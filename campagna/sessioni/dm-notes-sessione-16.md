@@ -200,32 +200,57 @@ Tre **ufficiali del Dragon Army** restano qui con un **dragonnel del Dragon Army
 ### Stat Block — Dragon Army Officer (×3) · CR 3 · 700 XP cad. *(identico alla Sessione 06)*
 
 ```
-DRAGON ARMY OFFICER — creatura umanoide Media, legale malvagio
-CA 17 (semi-piastre)   PF 58 (9d8+18)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 14 (+2)
-Tiri Salvezza Cost +4, Sag +3   Abilità Intimidire +4, Percezione +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. L'ufficiale effettua tre attacchi con la spada lunga.
-Spada lunga. +5 al colpire, portata 1,5 m. Colpito: 7 (1d8+3) taglienti a due mani.
-Comando (1/turno). L'ufficiale sceglie un Dragon Army soldier entro 9 m: quella creatura può usare la propria reazione per effettuare un attacco.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
-### Stat Block — Dragon Army Dragonnel · CR 4 · 1.100 XP *(identico alla Sessione 06)*
+### Stat Block — Dragon Army Dragonnel · CR 3 · 700 XP *(identico alla Sessione 06)*
 
 ```
-DRAGON ARMY DRAGONNEL — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso in quel round — il terrore istintivo di fronte a qualcosa che assomiglia a un drago.
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua due attacchi: un morso e un artiglio.
-Morso. +7 al colpire, portata 1,5 m. Colpito: 15 (2d10+4) danni perforanti.
-Artiglio. +7 al colpire, portata 1,5 m. Colpito: 13 (2d8+4) danni taglienti.
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
 *[NOTA DM — riservata] **Schede riutilizzate dalla Sessione 06** (Wheelwatch Outpost) per coerenza meccanica tra tutti gli ufficiali e dragonnel del Dragon Army incontrati in campagna. Il dragonnel, "mentre resta all'erta", potrebbe agire prima che gli ufficiali reagiscano pienamente: se vuoi accentuare la sorpresa parziale descritta dalla fonte, considera di dare agli ufficiali svantaggio al primo tiro d'iniziativa o un turno di ritardo, ma non è una regola esplicita — è un'opzione di ritmo.*
@@ -249,17 +274,31 @@ Poco dopo che i personaggi attaccano, dragonnel provenienti dalla Città dei Nom
 | 8–9 | Due **soldati del Dragon Army** arrivano, comparendo in spazi liberi adiacenti alla Mischia vicino a un personaggio scelto a caso. |
 | 10 | Un dragonnel morto precipita dal cielo, schiantandosi in un'area di 3 metri centrata su un personaggio scelto a caso che non si trovi nei recinti dei dragonnel. Ogni creatura nell'area dello schianto deve superare un TS Destrezza CD 14 o subire 33 (6d10) danni contundenti e cadere prona. Se tutti i personaggi sono nei recinti dei dragonnel, ritira su questa tabella. |
 
-### Stat Block — Dragon Army Soldier (per eventi 8–9) · CR 1/4 · 50 XP cad. *(identico alle Sessioni 06–07)*
+### Stat Block — Dragon Army Soldier (per eventi 8–9) · CR 1 · 200 XP cad. *(identico alle Sessioni 06–07)*
 
 ```
-DRAGON ARMY SOLDIER — creatura umanoide Media, legale malvagio
-CA 16 (cotta di maglia, scudo)   PF 16 (3d8+3)   Velocità 9 m
-STR 13 (+1)  DEX 12 (+1)  CON 12 (+1)  INT 10 (+0)  WIS 11 (+0)  CHA 10 (+0)
-Sensi Percezione passiva 10   Linguaggi Comune
+SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
+Velocità 9 m
+FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Atletica +4, Percezione +2
+Equipaggiamento Giavellotto, Spada lunga
+Sensi Percezione passiva 12
+Linguaggi Comune, Draconico
+CR 1 (200 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, il soldato ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Lancia. +3 al colpire, portata 1,5 m o gittata 6/18 m. Colpito: 5 (1d8+1) perforanti.
-Spada lunga. +3 al colpire, portata 1,5 m. Colpito: 6 (1d10+1) taglienti a due mani.
+Multiattacco. Due attacchi con la Spada lunga oppure con il Giavellotto.
+Spada lunga. +4 al colpire, portata 1,5 m — 6 (1d8+2) taglienti, oppure
+  7 (1d10+2) se impugnata a due mani, più 2 (1d4) danni da fuoco.
+Giavellotto. Attacco in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 9/36 m — 5 (1d6+2) perforanti più 2 (1d4) danni da fuoco.
 ```
 
 *[NOTA DM — riservata] **Gestione del ritmo della tabella eventi.** Non è obbligatorio tirare ogni singolo round se il combattimento si protrae oltre le aspettative — usa il buon senso: 2-3 attivazioni della tabella nel corso della battaglia bastano a comunicare il caos crescente senza trasformare lo scontro in un tritacarne. L'evento "10" (dragonnel morto in caduta) è pensato come un momento di spettacolo cinematografico più che come una minaccia letale sistematica — non temere di farlo scattare una volta per l'impatto scenico.*

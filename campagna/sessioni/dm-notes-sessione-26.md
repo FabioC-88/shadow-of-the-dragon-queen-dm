@@ -137,45 +137,95 @@ Il soffitto a volta di questa camera è alto 15 metri. Colonne di ossidiana deli
 
 *[NOTA DM — riservata] **Il pagamento del patto con Alstare Bellis (se accettato in Sessione 25).** Questo è l'incontro che Alstare ha chiesto ai personaggi di completare: distruggere i draconiani del piano superiore, "specialmente il loro comandante dalle scaglie dorate". Se il party sconfigge Drayan (qui o in S18, se fugge) e torna da Alstare con prove — un pezzo di armatura, un trofeo, la sua testimonianza — Alstare condivide come accedere al caveau del tesoro usando la statua qui in S12 (vedi sotto: il puzzle è comunque risolvibile in autonomia, l'aiuto di Alstare è solo una scorciatoia narrativa). Se il patto è stato rifiutato o Alstare è stato attaccato in Sessione 25, questo scontro procede comunque identico — il puzzle della statua resta risolvibile senza il suo aiuto.*
 
-### Stat Block — Draconiano Bozak (×6) · GS 3 · 700 XP cad. *(scheda identica alle Sessioni 18/20/23)*
+### Stat Block — Draconiano Bozak (×6) · CR 2 · 450 XP cad. *(scheda identica alle Sessioni 18/20/23)*
 
 ```
-DRACONIANO BOZAK — creatura drago Media, caotico malvagio
-CA 15 (armatura naturale)   PF 65 (10d8+20)   Velocità 9 m, planata
-STR 15 (+2)  DEX 11 (+0)  CON 15 (+2)  INT 9 (-1)  WIS 11 (+0)  CHA 10 (+0)
-Abilità Percezione +2
-Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
+DRACONIANO BOZAK — DSotDQ p198, scheda ufficiale
+Mostruosità Media (Stregone), tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +0 (10)   PF 40 (9d8)   Velocità 9 m
+FOR 14 (+2, TS +2)   DES 10 (+0, TS +0)   COS 11 (+0, TS +0)
+INT 11 (+0, TS +2)   SAG 10 (+0, TS +2)   CAR 14 (+2, TS +4)
+Equipaggiamento Tridente
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 2 (450 XP; BC +2)
 —
-Planata (Glide). Il bozak non subisce danno da caduta e può planare 1,5 m in orizzontale per ogni 30 cm di caduta.
-Morte Fiammeggiante (Death Throes). Quando il bozak scende a 0 PF, il suo corpo esplode in un lampo di fuoco magico. Ogni creatura entro 3 m deve superare un TS Destrezza CD 13, subendo 14 (4d6) danni da fuoco, o metà se ha successo.
+TRATTI
+Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
+CD 10 o subisce 9 (2d8) danni da FORZA.
 —
-AZIONI
-Multiattacco. Il bozak effettua due attacchi con la mazza chiodata.
-Mazza Chiodata. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) danni contundenti.
-Balestra Pesante. Attacco a distanza con arma: +2 al colpire, gittata 30/120 m. Colpito: 6 (1d10+1) danni perforanti.
-```
-
-### Stat Block — Drayan (Draconiano Aurak) · GS 6 · 2.300 XP *(base identica a "Captain Hask", Sessione 18/20/24 — aggiunto il Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico e non presente nella scheda generica dell'aurak; ricostruzione DM dichiarata per assenza di appendix B in questo estratto)*
-
-```
-DRAYAN — draconiana aurak, creatura drago Media, legale malvagia
-CA 18 (armatura naturale)   PF 114 (12d8+60)   Velocità 9 m, volare 18 m
-STR 17 (+3)  DEX 10 (+0)  CON 20 (+5)  INT 13 (+1)  WIS 13 (+1)  CHA 17 (+3)
-TS Saggezza +4, Carisma +6
-Resistenza alla Magia. Drayan ha vantaggio ai tiri salvezza contro incantesimi e altri effetti magici.
-Sensi scurovisione 18 m, Percezione passiva 11   Linguaggi Comune, Draconico
-—
-Sguardo Dominante (Ricarica 5–6). Drayan fissa una creatura che riesce a vedere entro 9 m. Il bersaglio deve superare un TS Saggezza CD 15 o essere affascinato da Drayan per 1 minuto. La creatura affascinata ripete il tiro salvezza alla fine di ogni suo turno, terminando l'effetto con un successo.
-Morte Corrosiva (Death Throes). Quando Drayan scende a 0 PF, il suo corpo si dissolve in una nube di vapore acido. Ogni creatura entro 3 m deve superare un TS Costituzione CD 15, subendo 10 (3d6) danni da acido, o metà se ha successo.
-Portale Dimensionale (1/giorno). Come azione bonus, Drayan può lanciare *porta dimensionale* su sé stessa senza consumare uno slot incantesimo — è così che fugge verso l'area S18 se la battaglia volge al peggio.
+Planata (Glide). Quando cade e non è incapacitato, sottrae fino a 30 m dall'altezza
+nel calcolo dei danni e può spostarsi di 60 cm in orizzontale per ogni 30 cm di
+discesa. Non è volo: non guadagna quota.
 —
 AZIONI
-Multiattacco. Drayan effettua due attacchi con la spada corta.
-Spada Corta. Attacco con arma in mischia: +6 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni perforanti più 3 (1d6) danni da acido.
-Respiro Nocivo (Ricarica 5–6). Drayan esala una nube tossica in un cono di 4,5 metri. Ogni creatura nell'area deve superare un TS Costituzione CD 15, subendo 22 (4d10) danni da veleno e diventando avvelenata per 1 minuto, o subendo metà danno senza essere avvelenata se ha successo. Una creatura avvelenata in questo modo può ripetere il tiro salvezza alla fine di ogni suo turno, terminando l'effetto su di sé con un successo.
+Multiattacco. Due attacchi con il Tridente in mischia OPPURE due Scariche Elettriche.
+Tridente. Attacco con arma in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 6/18 m — 5 (1d6+2) perforanti, oppure 6 (1d8+2) se impugnato a due
+  mani in mischia.
+Scarica Elettrica. Attacco con incantesimo a distanza: +4 al colpire, gittata 18 m
+  — 10 (3d6) danni da fulmine.
+Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
+  (CD tiro salvezza 12):
+  1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
-*[NOTA DM — riservata] **Il Respiro Nocivo è una ricostruzione dichiarata**, aggiunta specificamente perché la fonte, più avanti (area S18), specifica che "Drayan ha preparato un'azione per usare il proprio Respiro Nocivo non appena vede un personaggio a portata" — un'azione che la scheda generica dell'aurak (Captain Hask, Sessione 18) non possiede. **Usa questa identica scheda, comprensiva del Respiro Nocivo, per ogni futura apparizione di Drayan**, incluso se fugge verso S18 in questa stessa sessione.*
+### Stat Block — Drayan (Draconiano Aurak) · CR 6 · 2.300 XP *(base identica a "Captain Hask", Sessione 18/20/24 — aggiunto il Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico e non presente nella scheda generica dell'aurak; ricostruzione DM dichiarata per assenza di appendix B in questo estratto)*
+
+```
+DRAYAN — draconiana AURAK (boss con nome)
+Base: scheda ufficiale DSotDQ p196, potenziata per il ruolo di boss di area
+Mostruosità Media (Stregone), Legale Malvagia
+CA 17 (armatura naturale)   Iniziativa +2 (12)   PF 114 (boss — l'aurak
+  standard ne ha 67)   Velocità 10,5 m
+FOR 13 (+1, TS +1)   DES 14 (+2, TS +2)   COS 16 (+3, TS +3)
+INT 16 (+3, TS +6)   SAG 11 (+0, TS +3)   CAR 17 (+3, TS +6)
+Abilità Percezione +3
+Immunità condizione affascinato
+Sensi vista pura 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 6+ (2.300 XP base; di fatto più alto per PF e ruolo)
+—
+TRATTI
+Aura di Comando. Sfera di raggio 6 m centrata su di lei. Un draconiano nell'aura
+che può vederla o sentirla non può essere affascinato e ha vantaggio ai TS per
+evitare o terminare su di sé la condizione Spaventato.
+  [Con 4-6 bozak attorno, questo tratto è la ragione per cui vanno tolti di
+   mezzo i suoi scagnozzi o va tolta di mezzo lei per prima.]
+—
+Death Throes. Quando Drayan è ridotta a 0 PF, la sua essenza magica esplode in una
+sfera di fulmine contro la creatura più vicina entro 9 m, poi rimbalza su fino ad
+altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza CD 14.
+Fallimento: 9 (2d8) danni da fulmine e STORDITO fino alla fine del proprio turno
+successivo. Successo: metà danni, nessuno stordimento.
+—
+AZIONI
+Multiattacco. Tre attacchi di Squarcio oppure di Raggio d'Energia.
+Squarcio. +5 al colpire, portata 1,5 m — 8 (1d12+2) danni taglienti.
+Raggio d'Energia. Attacco con incantesimo a distanza: +6 al colpire, gittata 18 m
+  — 8 (1d10+3) danni da forza.
+Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
+  nell'area: TS Costituzione CD 14. Fallimento: 21 (6d6) danni da veleno e
+  1 livello di SFINIMENTO. Successo: metà danni, nessuno sfinimento, e immunità
+  al Respiro Nocivo di qualsiasi draconiano per 24 ore.
+Incantesimi (Carisma, CD tiro salvezza 14, nessuna componente materiale):
+  A volontà: invisibility, mage hand
+  2/giorno ciascuno: dimension door, disguise self, sending
+  1/giorno: dominate person
+  [**La fuga verso S18 usa `dimension door`, che è nella lista ufficiale**:
+   non serve più il tratto inventato "Portale Dimensionale". Ne ha due al giorno.]
+```
+
+*[NOTA DM — aggiornata il 2026-09-13] **Drayan ricostruita sulla scheda ufficiale dell'aurak** (DSotDQ p196), tenendo solo il potenziamento da boss (114 PF invece di 67).*
+
+*Due cose si sono risolte da sole con la scheda vera:*
+- *Il **Respiro Nocivo non era un'invenzione**: l'aurak ce l'ha davvero. La fonte, più avanti (area S18), dice che "Drayan ha preparato un'azione per usare il proprio Respiro Nocivo non appena vede un personaggio a portata" — ed era coerente. Ora usa la versione ufficiale: cono 4,5 m, TS Cos CD 14, 21 (6d6) veleno e **1 livello di sfinimento**, che è ben più cattivo dell'avvelenamento ricostruito.*
+- *La **fuga verso S18 usa `dimension door`**, che è nella sua lista di incantesimi ufficiale (2/giorno). Il tratto inventato "Portale Dimensionale" non serve più.*
+
+*Sono invece spariti "Sguardo Dominante" e "Morte Corrosiva", che non esistono: al loro posto ci sono l'**Aura di Comando** (fa da scudo psicologico ai bozak che la accompagnano — toglierla di mezzo per prima cambia lo scontro) e le **Death Throes a fulmine**, che possono stordire tre personaggi mentre muore.*
+
+***Usa questa scheda per ogni futura apparizione di Drayan**, inclusa la fuga verso S18 in questa stessa sessione.*
 
 ***Statua.*** Se i personaggi esaminano la statua di Takhisis, notano delle rientranze distribuite lungo la base e una targa che recita: "Cedete alla Sua Volontà." Un personaggio che ispeziona le rientranze e supera una prova di **Intelligenza (Investigare) CD 14** capisce che fungono da maniglie per far ruotare la statua.
 
@@ -277,7 +327,7 @@ Questa guarnigione è occupata da **quattro draconiani bozak** e **tre draconian
 
 *[NOTA DM — riservata] **Un incontro evitabile, non un blocco di percorso.** A differenza del Santuario (S12, guardia obbligata alla porta) o della Sala di Guerra (S18, destinazione narrativa necessaria), questa guarnigione è una stanza laterale. Se il party ha bisogno di alleggerire il carico di combattimento della sessione (vedi nota pre-sessione, punto 6), questo è il candidato ideale per essere aggirato con furtività — una prova di **Destrezza (Furtività) di gruppo CD 14** per superare il corridoio senza allertare la guarnigione, se i draconiani non hanno già motivo di essere in allerta.*
 
-### Stat Block — Draconiano Bozak (×4) · GS 3 · 700 XP cad. *(scheda identica a FASE 2 sopra — vedi Sessioni 18/20/23)*
+### Stat Block — Draconiano Bozak (×4) · CR 2 · 450 XP cad. *(scheda identica a FASE 2 sopra — vedi Sessioni 18/20/23)*
 
 *(riutilizza la scheda completa già presentata in FASE 2)*
 
@@ -378,21 +428,37 @@ Uno dei sivak ha una chiave delle celle nell'area S19.
 
 Se **Drayan** è stata incontrata nell'area S12 ed è fuggita, si trova qui quando i personaggi arrivano. In tal caso, solo **quattro** draconiani sivak sono con lei. **Drayan** ha preparato un'azione per usare il proprio Respiro Nocivo non appena vede un personaggio a portata.
 
-### Stat Block — Draconiano Sivak (×6, o ×4 se Drayan è presente) · GS 2 · 450 XP cad. *(scheda identica alla Sessione 13, riutilizzata in 15/18/19/20/21/23/24)*
+### Stat Block — Draconiano Sivak (×6, o ×4 se Drayan è presente) · CR 4 · 1.100 XP cad. *(scheda identica alla Sessione 13, riutilizzata in 15/18/19/20/21/23/24)*
 
 ```
-DRACONIANO SIVAK — creatura drago Media, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
 *Se Drayan è presente (scheda già data in FASE 2): il suo Respiro Nocivo è pronto come azione preparata al primo personaggio a portata — applica il danno immediatamente quando il primo personaggio entra in raggio, prima ancora dell'iniziativa formale, coerentemente con un'azione preparata dichiarata dalla fonte.*

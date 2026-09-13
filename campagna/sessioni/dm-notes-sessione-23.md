@@ -254,21 +254,37 @@ Balestra leggera. +4 al colpire, gittata 24/96 m. Colpito: 5 (1d6+2) perforanti.
 
 Quattro soldati di Kalaman si voltano contro il proprio comandante — in realtà si tratta di quattro **draconiani sivak** travestiti tramite Furto di Forma, che hanno assunto le sembianze di soldati caduti in battaglia.
 
-### Stat Block — Draconiano Sivak (×4) · CR 2 · 450 XP cad. *(scheda identica a Sessioni 06/13/15/18/19/20/21)*
+### Stat Block — Draconiano Sivak (×4) · CR 4 · 1.100 XP cad. *(scheda identica a Sessioni 06/13/15/18/19/20/21)*
 
 ```
-DRACONIANO SIVAK — drago Medio, legale malvagio
-CA 17 (armatura naturale)   PF 44 (8d8+8)   Velocità 9 m, volare 12 m
-STR 16 (+3)  DEX 14 (+2)  CON 13 (+1)  INT 10 (+0)  WIS 10 (+0)  CHA 12 (+1)
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Draconico, Comune
+DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
+Mostruosità GRANDE, tipicamente Legale Malvagio
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
+Velocità 9 m, Volare 18 m
+FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
+INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 4 (1.100 XP; BC +2)
 —
-Furto di Forma (Reazione). Quando il sivak uccide un umanoide con un attacco in mischia, può assumerne l'aspetto per 1 ora o finché non subisce danni. Mentre ha quella forma, mantiene le proprie statistiche ma appare in tutto e per tutto come la vittima.
-Picchiata. Se il sivak vola in linea retta per almeno 6 m direttamente verso un bersaglio e poi colpisce con un attacco di artiglio in mischia nello stesso turno, l'attacco infligge 10 (3d6) danni extra.
+TRATTI
+Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
+URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
+sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
+1 minuto (ripete il TS alla fine di ogni proprio turno per terminare l'effetto).
 —
 AZIONI
-Multiattacco. Tre attacchi: un morso e due artigli.
-Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 12 (2d6+3) danni perforanti.
-Artiglio. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 8 (1d6+3) danni taglienti.
+Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
+Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
+Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
+—
+REAZIONI
+Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
+  ammanta magicamente di un'illusione che lo fa sembrare e percepire come quella
+  creatura, mantenendo le proprie statistiche (tranne la taglia). Dura finché il
+  sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
 *[NOTA DM — riservata] **La rivelazione, non l'agguato, è il punto di questo incontro.** A differenza dell'opzione 1, qui l'orrore non sta nel combattimento in sé ma nello smascheramento: il comandante attaccato vede i volti di soldati che conosceva — forse già morti in battaglia altrove, forse ancora creduti vivi — voltarsi contro di lui con lame vere. Gioca il momento della rivelazione (il primo colpo che ferisce un "sivak-soldato" e mostra le squame sotto la pelle presa in prestito) con lo stesso gelo già stabilito in Sessione 06: è un tema ricorrente della campagna, non serve inventare nulla di nuovo, solo richiamarlo.*
@@ -301,38 +317,63 @@ Attacco con Ballista. Attacco a distanza con arma: +6 al colpire, gittata 36/144
 
 *[NOTA DM — riservata] **Ricostruzione dichiarata, non testo originale.** La fonte rimanda esplicitamente alla sezione "Siege Equipment" del *Dungeon Master's Guide* per le statistiche della ballista — un'appendice non disponibile in questo estratto testuale, come già per il lesser death dragon (Sessione 17) e i costrutti del Dragon Army (Sessione 06). I valori sopra sono una ricostruzione plausibile in linea con le armi d'assedio standard di 5e; se possiedi il *Dungeon Master's Guide* fisico, preferisci sempre i suoi valori ufficiali a questa ricostruzione.*
 
-### Stat Block — Dragonnel del Dragon Army (×4, cavalcature) · CR 4 · 1.100 XP cad. *(scheda identica a Sessioni 06/14/16/20/21/22)*
+### Stat Block — Dragonnel del Dragon Army (×4, cavalcature) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/14/16/20/21/22)*
 
 ```
-DRAGONNEL DEL DRAGON ARMY — creatura drago Grande, non allineato
-CA 16 (armatura naturale)   PF 76 (9d10+27)   Velocità 9 m, volare 18 m
-STR 19 (+4)  DEX 12 (+1)  CON 17 (+3)  INT 4 (-3)  WIS 12 (+1)  CHA 8 (-1)
-Sensi scurovisione 18 m, Percezione passiva 11
+DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
 —
-Presagio Draconico. La prima volta che una creatura vede il dragonnel, deve superare un TS Saggezza CD 12 o avere svantaggio al primo attacco contro di esso in quel round.
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
 —
 AZIONI
-Multiattacco. Il dragonnel effettua un attacco con il morso e uno con gli artigli.
-Morso. +7 al colpire, portata 3 m. Colpito: 15 (2d10+4) perforanti.
-Artigli. +7 al colpire, portata 1,5 m. Colpito: 13 (2d6+4) taglienti.
+Multiattacco. Due attacchi di Squarcio.
+Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
 ```
 
-### Stat Block — Draconiano Bozak (×8) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 18/20)*
+### Stat Block — Draconiano Bozak (×8) · CR 2 · 450 XP cad. *(scheda identica a Sessioni 18/20)*
 
 ```
-DRACONIANO BOZAK — creatura drago Media, caotico malvagio
-CA 15 (armatura naturale)   PF 65 (10d8+20)   Velocità 9 m, planata
-STR 15 (+2)  DEX 11 (+0)  CON 15 (+2)  INT 9 (-1)  WIS 11 (+0)  CHA 10 (+0)
-Abilità Percezione +2
-Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
+DRACONIANO BOZAK — DSotDQ p198, scheda ufficiale
+Mostruosità Media (Stregone), tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +0 (10)   PF 40 (9d8)   Velocità 9 m
+FOR 14 (+2, TS +2)   DES 10 (+0, TS +0)   COS 11 (+0, TS +0)
+INT 11 (+0, TS +2)   SAG 10 (+0, TS +2)   CAR 14 (+2, TS +4)
+Equipaggiamento Tridente
+Sensi scurovisione 18 m, Percezione passiva 10
+Linguaggi Comune, Draconico
+CR 2 (450 XP; BC +2)
 —
-Planata (Glide). Il bozak non subisce danno da caduta e può planare 1,5 m in orizzontale per ogni 30 cm di caduta.
-Morte Fiammeggiante (Death Throes). Quando il bozak scende a 0 PF, il suo corpo esplode in un lampo di fuoco magico. Ogni creatura entro 3 m deve superare un TS Destrezza CD 13, subendo 14 (4d6) danni da fuoco, o metà se ha successo.
+TRATTI
+Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
+CD 10 o subisce 9 (2d8) danni da FORZA.
+—
+Planata (Glide). Quando cade e non è incapacitato, sottrae fino a 30 m dall'altezza
+nel calcolo dei danni e può spostarsi di 60 cm in orizzontale per ogni 30 cm di
+discesa. Non è volo: non guadagna quota.
 —
 AZIONI
-Multiattacco. Il bozak effettua due attacchi con la mazza chiodata.
-Mazza Chiodata. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) danni contundenti.
-Balestra Pesante. Attacco a distanza con arma: +2 al colpire, gittata 30/120 m. Colpito: 6 (1d10+1) danni perforanti.
+Multiattacco. Due attacchi con il Tridente in mischia OPPURE due Scariche Elettriche.
+Tridente. Attacco con arma in mischia o a distanza: +4 al colpire, portata 1,5 m
+  o gittata 6/18 m — 5 (1d6+2) perforanti, oppure 6 (1d8+2) se impugnato a due
+  mani in mischia.
+Scarica Elettrica. Attacco con incantesimo a distanza: +4 al colpire, gittata 18 m
+  — 10 (3d6) danni da fulmine.
+Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
+  (CD tiro salvezza 12):
+  1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
 *[NOTA DM — riservata] Otto bozak con supporto di quattro dragonnel è un incontro sostanzioso per un party di Livello 10 — se lo scegli, considera di far intervenire i soldati di Kalaman e le balliste come supporto attivo, non semplice scenografia, per evitare che il combattimento duri troppo a lungo rispetto al tempo residuo della sessione.*
@@ -466,16 +507,32 @@ Comando (Ricarica dopo un riposo breve o lungo). Per 1 minuto, il cavaliere può
 ### Stat Block — Ufficiale del Dragon Army (×6, se la saracinesca si apre completamente) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16/20/21/22)*
 
 ```
-UFFICIALE DEL DRAGON ARMY — umanoide Medio, legale malvagio
-CA 17 (semi-piastre)   PF 58 (9d8+18)   Velocità 9 m
-STR 15 (+2)  DEX 13 (+1)  CON 14 (+2)  INT 11 (+0)  WIS 12 (+1)  CHA 14 (+2)
-Tiri Salvezza Cost +4, Sag +3   Abilità Intimidire +4, Percezione +3
-Sensi Percezione passiva 13   Linguaggi Comune, Draconico
+UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
+Umanoide Medio, tipicamente Legale Malvagio
+CA 19 (armatura di piastre da battaglia, scudo)   Iniziativa +2 (12)
+PF 65 (10d8+20)   Velocità 9 m
+FOR 16 (+3, TS +3)   DES 14 (+2, TS +4)   COS 15 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 14 (+2, TS +4)   CAR 12 (+1, TS +1)
+Abilità Atletica +5, Percezione +4
+Equipaggiamento Balestra pesante, Lancia da cavallo
+Sensi Percezione passiva 14
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Devozione Draconica. Finché vede un Drago non ostile, l'ufficiale ha vantaggio
+ai tiri per colpire.
 —
 AZIONI
-Multiattacco. L'ufficiale effettua tre attacchi con la spada lunga.
-Spada lunga. +5 al colpire, portata 1,5 m. Colpito: 7 (1d8+3) taglienti a due mani.
-Comando (1/turno). L'ufficiale sceglie una creatura alleata entro 9 m: quella creatura può usare la propria reazione per effettuare un attacco.
+Multiattacco. Due attacchi con la Lancia Crudele e usa Ordini d'Assalto se
+  disponibile.
+Lancia Crudele. +5 al colpire, PORTATA 3 m — 8 (1d10+3) perforanti
+  più 2 (1d4) danni da fuoco.
+Balestra Pesante. +4 al colpire, gittata 30/120 m — 7 (1d10+2) perforanti
+  più 5 (1d10) danni da fuoco.
+Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
+  altre creature entro 18 m. Se il bersaglio ha il tratto Devozione Draconica e
+  può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
 ### Concludere la Notte

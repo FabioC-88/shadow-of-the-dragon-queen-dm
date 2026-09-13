@@ -13,7 +13,7 @@
 ---
 
 > **Nota organizzativa per il DM:** dopo la prima missione "pulita" della S04 (un arco briefing → viaggio → combattimento → PNG → ritorno), questa sessione **alza la posta** su tre fronti che la campagna ha finora solo presagito:
-> 1. **I primi draconiani veri.** Fino a ora i PG hanno affrontato goblinoidi del Dragon Army. Qui incontrano ciò che rende questa guerra diversa da ogni razzia: creature rettili nate da uova di drago corrotte da Takhisis. Il **kapak** che si dissolve in una pozza d'acido morendo e i **baaz** che si pietrificano intrappolando l'arma che li ha uccisi devono lasciare il tavolo a bocca aperta. Gioca il combattimento come una **rivelazione**, non come una scaramuccia.
+> 1. **I primi draconiani veri.** Fino a ora i PG hanno affrontato goblinoidi del Dragon Army. Qui incontrano ciò che rende questa guerra diversa da ogni razzia: creature rettili nate da uova di drago corrotte da Takhisis. Il **kapak** che si dissolve in una pozza d'acido morendo e i **baaz** che si tramutano in pietra sputando un gas che pietrifica chi gli sta accanto devono lasciare il tavolo a bocca aperta. Gioca il combattimento come una **rivelazione**, non come una scaramuccia.
 > 2. **La vicinanza a casa.** Il posto di vedetta è a **sei miglia da Vogler**. Il party torna, per la prima volta dalla fuga, nelle terre della propria casa bruciata. Usa la geografia come peso emotivo.
 > 3. **Il ritorno di Cudgel (e forse Becklin).** "Troops Return" è l'aggancio più prezioso ai thread aperti della S02: chiude — o riapre con forza — il destino di **Becklin** e riporta in scena l'**Ironclad Regiment**. È il cuore emotivo della sessione, e va nella coda tranquilla, dopo il sangue.
 >
@@ -141,14 +141,14 @@ Mentre i due **baaz draconian** tormentano la prigioniera in piena vista, un ter
 - Il kapak agisce per la **prima volta al secondo round** (o nel round in cui un PG si separa dal gruppo), calando dall'alto con **vantaggio all'attacco** (bersaglio ignaro / dall'alto).
 - Un PG che, all'ingresso nella radura, dedica un'azione a scrutare le fronde e supera **Saggezza (Percezione) CD 14** (contro la Furtività del kapak) lo individua in anticipo, negandogli la sorpresa.
 
-*[NOTA DM — riservata] Il kapak è la vera minaccia dell'incontro. I baaz sono duri (si pietrificano morendo, vedi sotto) ma prevedibili; il kapak arriva dall'alto, avvelena le sue armi e — soprattutto — **si dissolve in una pozza d'acido quando muore**. Riservane la morte per il finale del combattimento: la prima volta che i PG vedono un draconiano liquefarsi in acido corrosivo ai loro piedi è un'immagine che resta. Non sprecarla in mezzo alla mischia.*
+*[NOTA DM — riservata] Il kapak è la vera minaccia dell'incontro. I baaz sono duri (morendo si pietrificano e possono pietrificare chi gli sta addosso, vedi sotto) ma prevedibili; il kapak arriva dall'alto, avvelena le sue armi e — soprattutto — **si dissolve in una pozza d'acido quando muore**. Riservane la morte per il finale del combattimento: la prima volta che i PG vedono un draconiano liquefarsi in acido corrosivo ai loro piedi è un'immagine che resta. Non sprecarla in mezzo alla mischia.*
 
 ### Meccaniche Draconiane — le Morti che Contano
 
 I draconiani non muoiono come i goblin. Avverti i giocatori **descrivendo**, non spiegando in anticipo — la sorpresa è metà dell'effetto.
 
-- **Baaz — Pietrificazione (Death Burst).** Quando un baaz draconian scende a 0 PF, il suo corpo **si tramuta istantaneamente in pietra**. Un'arma da mischia che l'ha appena colpito rimane **incastrata nel corpo pietrificato**: per liberarla serve un'azione e una prova di **Forza CD 11**. Dopo **1 minuto** la statua si sbriciola in polvere, liberando l'arma. *(Al tavolo: il PG che sferra il colpo mortale rischia di ritrovarsi disarmato per il resto dello scontro — tensione tattica pura.)*
-- **Kapak — Dissoluzione Acida (Death Throes).** Quando un kapak scende a 0 PF, il suo corpo **si liquefa in una pozza d'acido ribollente**. Ogni creatura entro **1,5 m** deve superare un **TS Destrezza CD 12** o subire **7 (2d6) danni da acido** (metà con successo). L'acido resta sul terreno come pericolo ambientale per qualche istante.
+- **Baaz — Death Throes.** Quando un baaz draconian scende a 0 PF, il suo corpo **si tramuta in pietra e rilascia un gas pietrificante**. Ogni creatura entro **1,5 m** deve superare un **TS Costituzione CD 11** o è **Immobilizzata** mentre inizia a tramutarsi in pietra. Chi è Immobilizzato **ripete il TS alla fine del proprio turno successivo**: con un successo l'effetto termina, altrimenti è **Pietrificato per 1 minuto**. Dopo 1 minuto il corpo del draconiano si sbriciola in polvere. *(Al tavolo: due tiri falliti di fila tolgono un PG dallo scontro per dieci round. Non lasciare che il party si ammucchi attorno a un baaz ferito — e non dimenticare il secondo tiro, è quello che separa uno spavento da un disastro.)*
+- **Kapak — Death Throes.** Quando un kapak scende a 0 PF, **si dissolve in acido che schizza su chi gli sta attorno**. Ogni creatura entro **1,5 m** deve superare un **TS Destrezza CD 12** o resta **ricoperta di acido per 1 minuto**, subendo **7 (2d6) danni da acido all'inizio di ogni proprio turno**. Serve **un'azione** per raschiarlo via da sé o da un compagno. *(Al tavolo: non è un colpo secco, è un conto che continua a salire finché qualcuno non smette di combattere per pulire un amico. Fallo pesare.)*
 - **Kapak — Saliva Velenosa.** Il kapak lecca le proprie lame prima del combattimento: i suoi attacchi in mischia infliggono danno da veleno aggiuntivo e possono avvelenare (vedi stat block). Le sue armi *gocciolano*.
 
 *[NOTA DM — riservata] Queste due meccaniche sono la firma dei draconiani e il motivo per cui il Dragon Army fa paura. Falle vivere: descrivi la pietra che ingoia la spada, l'acido che sfrigola sul cuoio degli stivali. Un party che impara "non dare l'ultimo colpo con l'arma preferita, non ammazzare il kapak stando adiacente" ha capito come si combatte questa guerra — ed è una lezione che si porterà dietro fino a Wheelwatch e oltre.*
@@ -159,54 +159,72 @@ I draconiani non muoiono come i goblin. Avverti i giocatori **descrivendo**, non
 - Il **kapak** è più astuto: colpisce e si sposta, mira agli incantatori, usa il veleno. Combatte fino alla morte come i suoi simili, ma sceglie *quando* e *chi*.
 - I draconiani **non prendono prigionieri**: la prigioniera scout è tenuta viva solo per crudeltà e per estorcerle informazioni. Se il combattimento si prolunga, un baaz può minacciare di ucciderla — un'ottima leva per spingere il party ad agire in fretta.
 
-### Stat Block — Baaz Draconian (×2) · CR 1 · 200 XP cad.
+### Stat Block — Baaz Draconian (×2) · CR 1/2 · 100 XP cad.
 
 ```
-BAAZ DRACONIAN — creatura drago Media, legale malvagio
-CA 15 (armatura naturale)   PF 22 (3d8+9)   Velocità 9 m, planata
-STR 15 (+2)  DEX 12 (+1)  CON 16 (+3)  INT 8 (-1)  WIS 10 (+0)  CHA 9 (-1)
-Abilità Intimidire +1
-Sensi scurovisione 18 m, Percezione passiva 10   Linguaggi Comune, Draconico
+BAAZ DRACONIAN (×2) — Mostruosità Media, tipicamente Legale Malvagio
+CA 14 (armatura naturale)   Iniziativa +0 (10)   PF 22 (4d8+4)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 11 (+0, TS +0)   COS 13 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG  8 (-1, TS -1)   CAR 10 (+0, TS +0)
+Equipaggiamento Spada corta
+Sensi scurovisione 18 m, Percezione passiva 9
+Linguaggi Comune, Draconico
+CR 1/2 (100 XP; BC +2)
 —
-Planata (Glide). Il baaz può usare le ali per planare: quando cade, non subisce
-danni da caduta e può spostarsi orizzontalmente di 1,5 m per ogni 3 m di discesa.
+TRATTI
+Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
+incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-Pietrificazione (Death Burst). Quando il baaz scende a 0 PF, il suo corpo si
-tramuta in pietra. Un'arma da mischia usata per il colpo mortale resta incastrata:
-liberarla richiede un'azione e una prova di Forza CD 11. Dopo 1 minuto la statua
-si sbriciola in polvere.
+Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
+TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
+Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
+l'effetto termina, altrimenti è PIETRIFICATO per 1 minuto. Dopo 1 minuto il corpo
+del draconiano si sbriciola in polvere.
+—
+Devozione Draconica (Draconic Devotion). Finché vede un Drago non ostile nei suoi
+confronti, il draconiano ha vantaggio ai tiri per colpire.
 —
 AZIONI
-Multiattacco. Il baaz effettua due attacchi: uno con il morso e uno con gli artigli
-(oppure due con la spada lunga).
-Spada lunga. +4 al colpire, portata 1,5 m. Colpito: 6 (1d8+2) taglienti,
-o 7 (1d10+2) se impugnata a due mani.
-Morso. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) perforanti.
-Artigli. +4 al colpire, portata 1,5 m. Colpito: 6 (2d4+2) taglienti.
+Multiattacco. Il draconiano effettua due attacchi con la Spada corta.
+Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
+  Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-### Stat Block — Kapak Draconian (×1) · CR 2 · 450 XP
+### Stat Block — Kapak Draconian (×1) · CR 3 · 700 XP
 
 ```
-KAPAK DRACONIAN — creatura drago Media, caotico malvagio
-CA 15 (armatura naturale)   PF 45 (7d8+14)   Velocità 9 m, planata
-STR 14 (+2)  DEX 14 (+2)  CON 15 (+2)  INT 10 (+0)  WIS 10 (+0)  CHA 10 (+0)
-Abilità Percezione +2, Furtività +4
-Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
+KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale
+Mostruosità Media, tipicamente Legale Malvagio
+CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 39 (6d8+12)
+Velocità 12 m, Scalare 12 m
+FOR 11 (+0, TS +0)   DES 17 (+3, TS +5)   COS 14 (+2, TS +2)
+INT 12 (+1, TS +1)   SAG 13 (+1, TS +1)   CAR 11 (+0, TS +0)
+Abilità Inganno +4, Percezione +3, Furtività +7
+Immunità veleno; avvelenato
+Equipaggiamento Pugnale
+Sensi scurovisione 18 m, Percezione passiva 13
+Linguaggi Comune, Draconico
+CR 3 (700 XP; BC +2)
 —
-Planata (Glide). Come il baaz.
-Saliva Velenosa. Prima o durante il combattimento, il kapak può leccare le proprie
-lame come azione bonus, rivestendole di veleno: il primo attacco in arma che va a
-segno infligge +7 (2d6) danni da veleno e il bersaglio deve superare un TS
-Costituzione CD 12 o essere avvelenato per 1 minuto.
+TRATTI
+Death Throes. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
+su chi gli sta attorno. Ogni creatura entro 1,5 m deve superare un TS Destrezza
+CD 12 o resta ricoperta di acido per 1 minuto, subendo 7 (2d6) danni da acido
+all'inizio di ogni proprio turno. Una creatura può usare la propria azione per
+raschiare o lavare via l'acido da sé o da un'altra creatura.
 —
-Dissoluzione Acida (Death Throes). Quando il kapak scende a 0 PF, il corpo si
-liquefa in una pozza d'acido. Ogni creatura entro 1,5 m: TS Destrezza CD 12 o
-7 (2d6) danni da acido (metà con successo).
+Planata (Glide). Quando il kapak cade e non è incapacitato, sottrae fino a 30 m
+dall'altezza nel calcolo dei danni da caduta e può spostarsi di 60 cm in
+orizzontale per ogni 30 cm di discesa. NON è volo: non guadagna quota.
 —
 AZIONI
-Multiattacco. Il kapak effettua due attacchi con la scimitarra.
-Scimitarra. +4 al colpire, portata 1,5 m. Colpito: 5 (1d6+2) taglienti
+Multiattacco. Il kapak effettua due attacchi con il Pugnale. Se entrambi
+colpiscono la stessa creatura, quel bersaglio deve superare un TS Costituzione
+CD 12 o è avvelenato fino alla fine del proprio turno successivo; mentre è
+avvelenato in questo modo, è anche PARALIZZATO.
+Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
+oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
 (+ veleno se la Saliva Velenosa è attiva).
 Balestra leggera. +4 al colpire, gittata 24/96 m. Colpito: 5 (1d6+2) perforanti.
 ```
@@ -463,7 +481,7 @@ Il resto della giornata è libero. Buoni usi:
 - [ ] Lore di Nightlund rivelato/rinsaldato (Storia CD 12): Sì / No
 - [ ] Posto di vedetta trovato: in 15 min (Sopravvivenza CD 15) / in 3 ore
 - [ ] Combattimento al boschetto: baaz sconfitti: __/2 · kapak: ucciso / fuggito / catturato
-- [ ] Meccaniche draconiane viste: pietrificazione baaz __ · acido kapak __ · veleno __ — arma incastrata a un PG? Sì / No
+- [ ] Meccaniche draconiane viste: pietrificazione baaz __ · acido kapak __ · veleno __ — qualche PG Immobilizzato o Pietrificato dal gas? Sì / No
 - [ ] PG feriti dall'acido/veleno: ____________
 - [ ] Vedetta Lehra liberata: Sì / No — Ganon (caduto) onorato: Sì / No
 - [ ] Rapporto strategico ottenuto (accerchiamento di Kalaman): Sì / No
@@ -531,7 +549,7 @@ Dopo la sessione, aggiorna questi file:
 | 2 | Continuità | SETUP INIZIALE | Bridge diretto dalla S04: ritorno con Rookledust (ora al castello), stipendio arrivato, emblema dell'esercito, +2 di Vendri. L'apertura riprende "riceveranno un nuovo incarico" e sposta il tono da curiosità (S04) a minaccia (vedette scomparse vicino a casa) |
 | 3 | Fedeltà fonte | Fase 1 (Missing Scouts) | Preservati tutti i dettagli della fonte: vedette a nord del Vingaard, 20 miglia NW di Kalaman / 6 a est di Vogler, boschetto di betulle grigie (alberi rari), missione via Darrett/Vendri |
 | 4 | Testo "Boxed" | BT-01, BT-02 | **Nota metodologica:** le sezioni "Missing Scouts" e "Troops Return" del manuale **non contengono testo `>>` read-aloud** (a differenza dell'officina in S04). I blockquote BT-01 e BT-02 sono quindi **narrazione DM costruita fedelmente dalla prosa** — ogni dettaglio fattuale è preservato (scout legata + scout morto + 2 baaz + kapak nascosto sopra per BT-01; colonna a 1 miglio, colori né Kalaman né Dragon Army, esausti/reduci, Cudgel per BT-02). Aggiunte atmosferiche separate in blockquote `*[aggiunta atmosferica]*` come da regola Agente 2 |
-| 5 | Meccaniche | Fase 3 | Tradotte integralmente: CD Sopravvivenza 15 (15 min) vs 3 ore; agguato del kapak (Furtività vs Percezione CD 14, vantaggio dall'alto); **meccaniche draconiane firma** (Pietrificazione baaz con arma incastrata + Forza CD 11; Death Throes acido kapak TS Des CD 12, 2d6; Saliva Velenosa) |
+| 5 | Meccaniche | Fase 3 | Tradotte integralmente: CD Sopravvivenza 15 (15 min) vs 3 ore; agguato del kapak (Furtività vs Percezione CD 14, vantaggio dall'alto); **meccaniche draconiane firma** (Death Throes del baaz: gas pietrificante, TS Cos CD 11, secondo TS mancato = Pietrificato 1 minuto — *corretta sul testo ufficiale il 2026-09-13*; Death Throes acido kapak TS Des CD 12, 2d6; Saliva Velenosa) |
 | 6 | Stat Block | Fase 3–4 | Aggiunti stat block completi di **Baaz Draconian, Kapak Draconian e Scout** (formato code block come S04, unità in metri). **Segnalato esplicitamente** che i valori draconiani sono ricostruiti su standard D&D 5e/DSotDQ e vanno verificati sull'Appendice B — onestà sui dati non presenti nell'estratto (l'appendice B del file fonte elenca solo i nomi delle creature) |
 | 7 | Fedeltà fonte | Fase 4 (Development + Clarifying) | Preservati: il piano d'accerchiamento (isolare Kalaman da Maelgoth e Palanthas), la richiesta di scorta, il bonus 100 mo/testa; integrata la cornice "Clarifying the Threat" (4 fatti + 3 opzioni CD 14) collegandola ai draconiani appena affrontati |
 | 8 | Continuità | Fase 5 (Troops Return) | Preservati tutti i dettagli: colonna a 1 miglio, senza colori, esausti, Cudgel = resto dell'Ironclad dopo lo scontro fuori Vogler, rotta tortuosa, cerca riposo/lavoro, chiede presentazione a Vendri, si allea comunque. **Thread Becklin** integrato con 3 opzioni gestibili (fonte: "Other Survivors… like Becklin… could return"), agganciato al thread S02 ad Alta urgenza |
