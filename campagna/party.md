@@ -4,10 +4,52 @@
 
 ## Stato Generale
 
-- **Livello attuale:** 1
-- **Ultima sessione giocata:** — (campagna non ancora iniziata)
-- **Sede base:** TBD (inizialmente Vogler; poi Kalaman)
-- **XP Accumulati:** 0
+- **Livello attuale:** **2**
+- **Ultima sessione giocata:** **Sessioni 00 + 01 — 13 settembre 2026** (interrotta a metà della Battaglia di High Hill)
+- **Sede base:** Vogler *(cade nella Sessione 02)*
+- **XP Accumulati:** **300 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità*
+- **Prossimo avanzamento:** **Livello 3** alla fine della Battaglia di High Hill, in Sessione 02 FASE 0
+
+> ⚠️ **Perché il livello è 2 e non 3.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. Il passaggio al Livello 3 è legato alla conclusione della battaglia, che avviene in apertura di Sessione 02.
+
+---
+
+## Stato dopo la prima serata (Sessioni 00 + 01)
+
+### Oggetti e risorse
+
+| Cosa | Chi | Note |
+|------|-----|------|
+| **Scudo Verde di Ispin** (*+1 shield*) | **Brynja** | È lo stesso scudo che nove anni fa si frappose tra lei e il goblin di Grishnak. A Vogler lo conoscono tutti: la rende **identificabile a vista** |
+| Rotolo sigillato per Wyhan | Garrick | Da consegnare a Kalaman (Cap. 4). Da non aprire |
+| Spellbook dei Magi | Garrick | Dal preludio *Eye in the Sky* |
+| Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Broken Silence*; servono da focus |
+| Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
+| 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scales of War* |
+
+### Il patto sulla magia divina — e la sua prima infrazione
+
+I personaggi hanno capito da soli di essere **tra i primi a portare magia divina dopo trecento anni** e si sono accordati per **non mostrarla in pubblico**.
+
+**Brynja ha già rotto il patto** durante la Battaglia di High Hill, curando davanti a decine di testimoni, e con ogni probabilità lo rifarà. Combinato con lo Scudo Verde, la rende la persona più facile da descrivere di tutto il villaggio — *«la nana con lo scudo verde di Ispin, quella che fa la luce»*.
+
+→ **Scala completa dei contraccolpi** in `sessioni/dm-notes-sessione-02.md`, FASE 0, sezione *"Il contraccolpo della magia divina"*. Non è un malus meccanico: Brynja lancia quello che vuole. È che il mondo comincia a reagire, e a un certo punto lo fa anche il nemico.
+
+**Simmetria da non sprecare:** anche **Corin** ha ricevuto un dio quella notte. Se lui il patto lo sta rispettando, il disaccordo tra loro due si scrive da solo.
+
+### Inimicizie personali aperte
+
+| PG | Nemico | Perché | Dove paga |
+|----|--------|--------|-----------|
+| **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa | Kalaman, Sessione 03 (cortile di Castle Kalaman) |
+| **Asurion** | **Lord Bakaris Uth Estide** | Lo ha trascinato nel fiume davanti al molo durante il festival | Kalaman, Sessione 03 (consiglio cittadino): ha un torto vero da raccontare |
+| **Garrick** | *(nessuno, ed è il punto)* | È l'autore materiale dell'umiliazione di Bakaris e **non è stato visto**. Lo sa solo lui | — |
+
+### Thread personali da tenere caldi
+
+- **Garrick ↔ Leedara** — l'ha corteggiata al funerale con un tiro alto; lei non ha ceduto ma ha cantato, rispondendo che *«in un altro tempo, forse»*. **La frase è letteralmente vera:** Leedara è morta durante il Cataclisma. Garrick è l'unico del gruppo che le abbia parlato davvero.
+- **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
+- **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
 
 ---
 
@@ -147,10 +189,10 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | 1 |
-| **PF attuali** | — |
+| **Livello** | **2** |
+| **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 0 |
+| **XP** | 300 |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 5 della tabella d6.* Dieci anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak aveva 17 anni, al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
@@ -176,10 +218,10 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | 1 |
-| **PF attuali** | — |
+| **Livello** | **2** |
+| **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 0 |
+| **XP** | 300 |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 3 della tabella d6.* Ispin arrivò alla tenuta Firewatch con una spilla di bronzo da identificare — di chi era stata, come fosse finita in un mercato di Nordmaar. Garrick, allora sedicenne e già capace di incrociare blasonari e registri come nessun altro in casa, gliela ricostruì in nove giorni. Fu il primo adulto a chiedergli qualcosa per le sue capacità, non per pietà.
@@ -202,10 +244,10 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | 1 |
-| **PF attuali** | — |
+| **Livello** | **2** |
+| **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 0 |
+| **XP** | 300 |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità di frontiera — nani per la maggior parte, ma non solo — da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja portava fuori dei bambini da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu Ispin, nei giorni seguenti, a dirle che la fede può essere decidere di fare la cosa giusta proprio mentre nessuno risponde — ed è da quella frase che nasce, due anni più tardi, la sua devozione a Mishakal. Fu ancora lui a indirizzarla da Roderick.
@@ -227,10 +269,10 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | 1 |
-| **PF attuali** | — |
+| **Livello** | **2** |
+| **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 0 |
+| **XP** | 300 |
 
 #### Come conobbe Ispin Greenshield
 *Variante esatta della voce 3 della tabella d6.* Un gruppo di briganti aggredì Asurion durante uno spostamento in solitario, derubandolo di tutto — compreso l'amuleto identificativo del suo clan. Ispin trovò l'oggetto e si mise sulle tracce del proprietario per restituirglielo, incrociando così Asurion che a sua volta stava seguendo i briganti per riprenderselo. Da allora Ispin è uno dei pochi Solamniani ad avere la sua piena riconoscenza.
@@ -254,10 +296,10 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | 1 |
-| **PF attuali** | — |
+| **Livello** | **2** |
+| **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 0 |
+| **XP** | 300 |
 
 #### Come conobbe Ispin Greenshield
 Sei anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un temporale e passò due notti ferito nel sottobosco prima che Corin lo trovasse — avvisato dai martin pescatori che non erano rientrati al nido. Lo tenne due settimane e non gli chiese nulla in cambio; **non si sono mai più visti.** Fu Ispin, riempiendo il silenzio con le sue storie, a nominargli per caso il palo del molo di Vogler con l'uccello che tiene un pesce in bocca — la prima prova che Corin abbia mai avuto che il suo rito non fosse un'invenzione privata.

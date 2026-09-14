@@ -1,32 +1,250 @@
 # DM Notes — Sessione 02: La Caduta di Vogler
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 3: When Home Burns (righe 1673–2083)
-**Livello party:** 3 → **4** (avanzamento milestone sulla barca in fuga da Vogler)
-**Avanzamento:** Milestone narrativo (cap. 3 — fuga da Vogler completata)
-**XP accumulati:** 375 XP (dalla Sessione 01: 75 XP Encounter 1 + 300 XP Encounter 2)
-**Obiettivo sessione:** Scoprire l'esercito nemico; ricevere il messaggero della Dragon Army; organizzare la fuga di Vogler; sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme.
-**Durata stimata:** ~2h30m (5 fasi: 20 + 20 + 30 + 20 + 60 min)
+**Livello party:** **2 → 3** (fine della Battaglia di High Hill, in FASE 0) **→ 4** (sulla barca in fuga da Vogler)
+**Avanzamento:** Milestone narrativo (cap. 3 — High Hill conclusa, poi fuga da Vogler completata)
+**XP accumulati a inizio sessione:** 300 XP (dalla Sessione 00). *Contabilità priva di effetti: il Cap. 3 avanza a pietra miliare.*
+**Obiettivo sessione:** Concludere la Battaglia di High Hill; scoprire l'esercito nemico; ricevere il messaggero della Dragon Army; organizzare la fuga di Vogler; sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme.
+**Durata stimata:** ~3h (6 fasi: 35 + 20 + 20 + 30 + 20 + 60 min) — *se la serata è corta, taglia la ricognizione nel bosco della FASE 2, non la FASE 0*
 **Sessione precedente:** dm-notes-sessione-01.md — Cap. 3: When Home Burns, prima metà (righe 1189–1672)
 
-> ⚠️ **Nota pre-sessione:** Verificare che `campagna/party.md` sia aggiornato a **Livello 3** prima di questa sessione. Questa sessione conclude il Cap. 3 e porta il party al Livello 4 — avanzamento che avviene sulla barca durante la fuga notturna verso Kalaman.
+> ⚠️ **QUESTA SESSIONE SI APRE A METÀ COMBATTIMENTO.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. La **FASE 0** contiene tutta la battaglia mancante — Gragonis compreso — ed è stata trasferita qui dalla Sessione 01.
+>
+> **Il party arriva al Livello 2, non 3:** il passaggio di livello è legato alla fine della battaglia e avviene in FASE 0. `campagna/party.md` è corretto così.
+>
+> **Prima di cominciare:** recupera dalla scena di Foundry quanti nemici sono in piedi, i PF dei personaggi e l'ordine di iniziativa.
+
+> 🔴 **Tre eredità della Sessione 01 da tenere a mente per tutta la serata:**
+> 1. **Brynja ha usato magia divina in pubblico** e porta lo **Scudo Verde di Ispin**. Scala dei contraccolpi in FASE 0, sezione *"Il contraccolpo della magia divina"* — culmina nella **FASE 4**, con il messaggero.
+> 2. **Bakaris il Giovane odia Razak** (umiliato in pubblico al ricevimento; incolpa lui, non Garrick che è stato il vero autore).
+> 3. **Lord Bakaris odia Asurion**, che lo ha buttato nel fiume davanti a mezzo villaggio. Entrambi i Bakaris compaiono in FASE 3 e FASE 5A, e **sopravvivono**: si rivedono a Kalaman in Sessione 03.
 
 ---
 
 ## 🎬 SETUP INIZIALE
 
-*Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
+*Non c'è un testo di apertura: la sessione riparte in mezzo a un combattimento. Recupera la scena, ricorda a ciascuno di chi è il turno e vai. Il testo di ripresa è in FASE 0, [BT-00].*
 
-> High Hill è silenziosa, ora. L'erba è ancora umida — non di rugiada. Il cielo sopra Vogler è quello strano viola del crepuscolo che non sa ancora se vuole diventare notte.
+> **Se serve un riepilogo di trenta secondi al tavolo:** la rievocazione della Battaglia di High Hill è diventata una battaglia vera. I mercenari del Reggimento Ironclad hanno lance con le punte vere, il loro capo è un mezzo-ogre con un'ascia d'acciaio, e la milizia di Vogler — pescatori con gli elmi storti — sta morendo sull'erba. Voi siete in mezzo.
+
+---
+
+> ⏸️ **Il testo qui sotto era l'apertura originale di questa sessione**, scritta quando la battaglia si concludeva in Sessione 01. **Ora si legge al termine della FASE 0**, quando il campo si è calmato — non a inizio serata.
 >
-> Siete vivi. Non tutti lo sono. Cudgel ha un taglio sul sopracciglio che sanguina e non ci fa caso. Raven Uth Vogler tiene la mano di un miliziano che non riesce a smettere di tremare. Becklin guarda verso nord, e la sua espressione è quella di qualcuno che riconosce qualcosa che sperava di non dover mai rivedere.
->
-> Il Festival del Kingfisher è finito. Nel modo peggiore possibile.
->
-> Nella piazza di Vogler, le decorazioni di carta a forma di martin pescatore oscillano ancora, ignare.
+> > High Hill è silenziosa, ora. L'erba è ancora umida — non di rugiada. Il cielo sopra Vogler è quello strano viola del crepuscolo che non sa ancora se vuole diventare notte.
+> >
+> > Siete vivi. Non tutti lo sono. Cudgel ha un taglio sul sopracciglio che sanguina e non ci fa caso. Raven Uth Vogler tiene la mano di un miliziano che non riesce a smettere di tremare. Becklin guarda verso nord, e la sua espressione è quella di qualcuno che riconosce qualcosa che sperava di non dover mai rivedere.
+> >
+> > Il Festival del Kingfisher è finito. Nel modo peggiore possibile.
+> >
+> > Nella piazza di Vogler, le decorazioni di carta a forma di martin pescatore oscillano ancora, ignare.
 
 ---
 
 > **Nota organizzativa per il DM:** questa sessione ha una curva di tensione a spirale crescente — ogni fase rende la situazione più critica della precedente. La chiave è *non affrettare* le fasi 1-3: l'attaccamento emotivo a Vogler costruito in Sessione 01 deve avere spazio per pesare prima che tutto venga distrutto. Il finale (Fase 5) funziona solo se il party si è sentito parte del villaggio.
+>
+> ⚠️ **Con l'aggiunta della FASE 0 la serata è più piena di quanto fosse previsto.** Se il tempo stringe, il taglio giusto è la **ricognizione opzionale nel bosco** (FASE 2): le informazioni che dà arrivano comunque dall'interrogatorio e dal rapporto di Cudgel. Non tagliare la FASE 1 — è lì che il villaggio reagisce a quello che ha visto fare a Brynja.
+
+---
+
+## ⚔️ FASE 0 — La Battaglia di High Hill (ripresa)
+
+*~35 minuti · Si riparte a metà combattimento, esattamente dove si è chiusa la Sessione 01*
+
+> ⏸️ **DA DOVE SI RIPARTE.** La Sessione 01 si è interrotta **nel mezzo dello Scontro 1**, contro i mercenari a cavallo. Prima di cominciare, recupera dalla scena di Foundry: **quante Guard e quanti Warhorse sono ancora in piedi**, i **PF dei personaggi**, e l'**ordine di iniziativa**. Si riprende da lì, senza riepiloghi meccanici — al massimo una frase di riaggancio.
+
+### Testo di Ripresa [BT-00]
+
+> Non è passato un secondo. Il pescatore con l'elmo troppo grande è ancora a terra e non si rialza. C'è un cavallo che gira su sé stesso in mezzo al campo, senza cavaliere, e sotto di voi l'erba è diventata scivolosa.
+>
+> Dalla collina, qualcuno continua a suonare la tromba della rievocazione. Non se n'è accorto nessuno che è finita.
+
+---
+
+### ⚔️ SCONTRO 1 — Mercenari a Cavallo
+
+**4 Mercenary Guard montate su 3 War Horse** — *numeri scalati sul quinto giocatore (la fonte ne prevede 3+3); blocchi statistici invariati. Fonte di verità: `campagna/scontri-adattati/capitolo-03.md`.*
+
+I personaggi iniziano lo scontro **adiacenti al tronco d'albero a nord della mappa**. I mercenari a cavallo compaiono sulla strada, all'**angolo sud-ovest** del campo, e puntano dritti su di loro.
+
+```
+GUARD (×4) — MM'25 p162, scheda ufficiale
+Umanoide Piccolo o Medio, Neutrale
+CA 16   Iniziativa +1 (11)   PF 11 (2d8+2)   Velocità 9 m
+FOR 13 (+1, TS +1)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 11 (+0, TS +0)   CAR 10 (+0, TS +0)
+Abilità Percezione +2
+Equipaggiamento Cotta di maglia, Scudo, Lancia
+Sensi Percezione passiva 12
+Linguaggi Comune
+CR 1/8 (25 XP; BC +2)
+—
+AZIONI
+Lancia. Attacco con arma in mischia o a distanza: +3 al colpire,
+portata 1,5 m oppure gittata 6/18 m — 4 (1d6+1) danni perforanti.
+```
+
+> ✅ **Scheda ufficiale** (MM'25 p162), verificata con Fabio il 2026-09-13.
+> ⚠️ **La guardia ha UNA sola arma: la lancia** (in mischia o lanciata). Le versioni precedenti le davano balestra e spada corta, che non ha. Percezione passiva **12**, non 10 — conta per la furtività.
+>
+> *La lancia è la stessa arma della rievocazione: quella dei miliziani è imbottita, quella dei mercenari no. È esattamente il dettaglio che il PG con la Percezione più alta nota un istante prima della carica.*
+
+```
+WARHORSE (×3) — MM'25 p373, scheda ufficiale
+Bestia Grande, Non allineata
+CA 11   Iniziativa +1 (11)   PF 19 (3d10+3)   Velocità 18 m
+FOR 18 (+4, TS +4)   DES 12 (+1, TS +1)   COS 13 (+1, TS +1)
+INT  2 (-4, TS -4)   SAG 12 (+1, TS +3)   CAR  7 (-2, TS -2)
+Sensi Percezione passiva 11
+CR 1/2 (100 XP; BC +2)
+—
+AZIONI
+Zoccoli. Attacco con arma in mischia: +6 al colpire, portata 1,5 m.
+Colpito: 9 (2d4+4) danni contundenti. Se il bersaglio è una creatura Grande
+o più piccola e il cavallo si è mosso di almeno 6 m in linea retta verso di lei
+immediatamente prima del colpo, il bersaglio subisce ulteriori 5 (2d4) danni
+contundenti e ottiene la condizione Prono.
+```
+
+> ✅ **Scheda ufficiale** (MM'25 p373), verificata con Fabio il 2026-09-13.
+> ⚠️ **La carica è dentro l'attacco, non è un tratto a parte e non concede tiro salvezza.** Se il cavallo ha caricato in linea retta per 6 m e colpisce, il bersaglio va a terra e basta: niente TS Forza CD 14, niente secondo attacco come azione bonus. Un solo attacco di Zoccoli per turno.
+> Danno base **2d4+4** (media 9), non 2d6+4.
+>
+> *In pratica: la prima carica dei tre cavalli fa ~14 danni e stende a terra. Poi, dentro la mischia, senza spazio per ripartire da 6 m, scendono a 9 e non stendono più nessuno. Vale la pena descrivere quella differenza al tavolo.*
+
+> 💡 **Ritmo:** con 4-7 nemici dello stesso blocco, fai agire tutte le Guard su **un'unica iniziativa condivisa** (una tirata sola per il gruppo). Niente regola Minion in questa campagna — vedi `campagna/scontri-adattati/00-framework.md`.
+
+---
+
+**Meccaniche del Campo di Battaglia (Mappa 3.2):**
+
+- **La Mischia (Fray):** banda di 4,5 m ai margini della mappa. Terreno difficile. Chi entra nella Mischia o inizia il turno lì: TS Destrezza CD 16 o subisce 7 (2d6) danni taglienti da combattenti opportunisti.
+- **Muri di pietra e Carro:** terreno difficile; concedono mezza copertura alle creature riparate dietro di essi.
+
+**Eventi del Campo:** tira sul d4 a ogni Iniziativa 0.
+
+| d4 | Evento |
+|----|--------|
+| 1 | Pioggia di frecce — PG casuale e creature entro 3 m: TS Destrezza CD 12 o 3 (1d6) perforanti |
+| 2 | 2 destrieri senza cavaliere si imbizzarriscono fuori dalla Mischia — PG casuale: TS Destrezza CD 14 o prono |
+| 3 | Miliziano ferito (1 PF) emerge dalla Mischia vicino a un PG casuale e chiede soccorso |
+| 4 | Guardia mercenaria nemica (6 PF) appare dalla Mischia — agisce a Iniziativa 10 |
+
+---
+
+### ⚔️ SCONTRO 2 — Arriva Gragonis [BT-10]
+
+Quando i cavalieri montati sono sconfitti — o quando sembra narrativamente opportuno:
+
+> Una figura massiccia brandisce una formidabile ascia bipenne mentre guida una banda di mercenari attraverso il caos. Fa a pezzi i pochi miliziani rimasti mentre si avvicina.
+
+Gragonis emerge dal **bordo ovest** del campo, adiacente alla Mischia, con cinque guardie. Punta il personaggio dall'aria più temibile e ride ai suoi: *"Guardate qui! Ne abbiamo uno che crede ancora che sia tutto un gioco!"*
+
+> ⚠️ **Gragonis è un MEZZO-OGRE, non un mezzo-orco.** La fonte lo dice esplicitamente (*"her lieutenants — the half-ogre Gragonis"*), ed è coerente con la taglia Grande, la lingua Gigante e Int 5. Blocco potenziato a ~CR 2 con Azione Bonus e Reazione (non è il boss di capitolo — quello è Gholcag in S02 — quindi niente Villain Actions). Fonte di verità: `campagna/scontri-adattati/capitolo-03.md`.
+
+```
+GRAGONIS — HALF-OGRE (Boss, ~CR 2)
+Large Monstrosity | AC 14 (studded leather + istinto) | HP 55
+Speed 30 ft | Neutral Evil | Languages: Common, Giant
+
+STR 17 (+3), DEX 10 (+0), CON 14 (+2), INT 5 (-3), WIS 7 (-2), CHA 7 (-2)
+Darkvision 60 ft | Passive Perception 8
+
+ACTIONS
+Greataxe (Cleave): +5 al colpo, portata 1,5 m — 1d12+3 taglienti.
+  Cleave: a segno, colpisce automaticamente (stesso tiro) una seconda creatura
+  entro 1,5 m dalla prima — 1d12 taglienti, senza modificatore.
+Javelin: +5 al colpo, gittata 9/36 m — 1d6+3 perforanti.
+
+BONUS ACTION — Brute's Shove
+Una creatura entro 1,5 m: TS Forza CD 13 o viene spinta indietro di 3 m e cade Prona.
+
+REACTION — No Retreat
+Quando una creatura entro 1,5 m si allontana da lui, Gragonis la attacca
+subito con la Greataxe.
+```
+
+```
+GUARD AGGIUNTIVE (×5)
+Stesso blocco ufficiale dello Scontro 1 (MM'25 p162) — già provate dalla
+battaglia, non si ritirano. Lancia +3, 4 (1d6+1) perforanti.
+```
+
+*[NOTA TATTICA] Gragonis va sempre addosso al bersaglio più minaccioso e **non si ritira mai**. Le cinque guardie gli coprono i fianchi e restano fino alla fine. Usa* Brute's Shove *sul personaggio in mischia più fastidioso e* No Retreat *per punire chi prova a sganciarsi senza Disimpegnarsi.*
+
+---
+
+### Dopo la Battaglia — Il Campo Si Calma
+
+Quando Gragonis e le sue cinque guardie sono sconfitti, i mercenari rimasti si sbandano e lo scontro finisce.
+
+**Arrivano Cudgel, Raven e Becklin** con alcuni spettatori robusti — e hanno già combattuto anche loro: al punto di osservazione un mercenario ha aggredito Cudgel su ordine di Gragonis, e Becklin lo ha ucciso. Cudgel, di solito imperturbabile, è furiosa.
+
+- **Darrett:** vivo, contuso — sopravvive sempre
+- **Milizia di Vogler:** quasi interamente spazzata via
+- **Se tutti i PG vengono abbattuti:** Darrett e i miliziani superstiti li trascinano fuori dalla mischia e li rianimano; si risvegliano con **1 PF** proprio mentre arrivano Cudgel, Becklin e Raven
+
+**Il prigioniero:** Cudgel trova rapidamente un mercenario ferito ma vivo e comincia a strattonarlo e urlargli addosso. Se i personaggi non intervengono per primi, è **Raven a calmarla** e a far legare il traditore per riportarlo a Vogler. *(Se i personaggi hanno risparmiato Gragonis, il prigioniero è lui.)*
+
+**Meccanica — Soccorrere i feriti:**
+Saggezza (Medicina) CD 12 → strappa alla morte un abitante ferito. Stesso effetto con magia curativa (almeno 1 PF ripristinato). Chi viene salvato regala al suo soccorritore un gioiello o un portafortuna da 20 mo.
+
+*Se un personaggio usa apertamente il potere di un dio per salvare qualcuno:* chi assiste resta sbigottito e commosso — per tutti loro è un miracolo, la prima magia divina vista in vita loro. Chi è stato salvato così vorrà sapere tutto di quella divinità. **È il primo contraccolpo pubblico del ritorno degli dèi, e a Vogler se ne parlerà.**
+
+---
+### ⚠️ Il contraccolpo della magia divina — Brynja
+
+*Sezione richiesta da Fabio dopo la Sessione 01. Vale per chiunque usi poteri divini in pubblico, ma oggi riguarda Brynja.*
+
+**Il fatto:** i personaggi hanno capito da soli di essere tra i primi a portare magia divina dopo trecento anni, e si sono accordati per non mostrarla. **Brynja l'ha già usata in battaglia, davanti a testimoni**, e quasi certamente lo rifarà. Due aggravanti reali:
+
+1. **Il pubblico.** Non erano due persone in una stanza: era un campo pieno di miliziani, pescatori e spettatori del festival, molti dei quali le devono la vita.
+2. **Lo Scudo Verde.** Porta lo scudo di Ispin, che a Vogler conoscono tutti. **È la persona più facile da descrivere del villaggio** — «la nana con lo scudo verde di Ispin, quella che fa la luce». Un testimone non deve nemmeno sapere il suo nome.
+
+> **[NOTA DM] Come giocarla.** Il punto non è punire la giocatrice: è che **il mondo reagisca in modo prevedibile**. Non toglierle incantesimi, non farla sgridare dagli dèi, non inventare una polizia della fede. Fai semplicemente quello che farebbe della gente vera: **guardare, parlare, chiedere, e raccontarlo a qualcun altro.**
+>
+> E telegrafa. Se la giocatrice capisce al Gradino 1 che c'è un prezzo, la scelta al Gradino 3 diventa sua — che è il punto.
+
+#### La scala dei contraccolpi
+
+| # | Quando | Cosa succede | Costo reale |
+|---|--------|--------------|-------------|
+| **1** | **Ora, FASE 0** — sul campo | Chi la vede curare non ringrazia: **si inginocchia**. Qualcuno le tocca l'orlo del mantello. Una donna le porta in braccio un figlio che è già morto e le chiede di rifarlo | **Non può.** È il primo prezzo, e non è un malus: è scoprire che a chi fa miracoli si chiede l'impossibile, e che dire di no fa male |
+| **2** | **FASE 1** — Brass Crab, la sera | Vogler lo sa entro due ore. Al Brass Crab non la guardano più come una forestiera armata. **Raven le fa la domanda davanti a tutti:** *«Gli dèi sono tornati? Perché se sono tornati, io domani mattina devo dire qualcosa alla mia gente.»* Non è teologia: la sindaca ha bisogno di una risposta da dare | **Non può più scegliere se essere pubblica.** Lo è già. Può solo scegliere cosa dire |
+| **3** | **FASE 4** — il messaggero alla Porta del Fiume | ⚠️ **Il vero contraccolpo.** Il messaggero porta un ultimatum firmato **Belephaion, Voce di Takhisis** — un sacerdote, non un generale. La dottrina ufficiale dell'Armata è che l'unica divinità tornata sia Takhisis. **Una chierica di Mishakal che guarisce in pubblico non è un fastidio: è un'informazione che vale un rapporto** | Vedi il riquadro qui sotto |
+| **4** | **Cap. 4 in poi** — Kalaman | A Kalaman la magia divina è ancora leggenda. Brynja non sarà "un'avventuriera": sarà *quella di Vogler*. Porte che si aprono da sole, e altre che si chiudono | Protezione e bersaglio insieme. Non è una punizione: è **peso** |
+
+> **⚠️ Il Gradino 3, in dettaglio — da preparare prima della FASE 4.**
+>
+> Se Brynja ha guarito in pubblico (e l'ha fatto), **il messaggero la nota**. Non le parla, non la minaccia, non rallenta: la **guarda** un attimo più del necessario mentre Raven legge la pergamena, e i personaggi con Percezione passiva alta se ne accorgono.
+>
+> Poi scegli **uno** dei due esiti — non entrambi:
+>
+> **(a) Il messaggero si ritira e riferisce.** Nessuna conseguenza stasera. Ma da Kalaman in poi, l'Armata del Drago sa che a Vogler c'era una chierica capace di guarigioni vere, e **Belephaion lo sa per primo**. Ricompare come un dettaglio che i personaggi non si aspettano: un ufficiale che la riconosce, un ordine di cattura anziché di uccisione, il suo scudo descritto in un dispaccio.
+>
+> **(b) L'ultimatum la nomina.** Più duro e più immediato: alla fine della pergamena, sotto la firma, c'è una riga in più — *«La portatrice dello scudo verde è attesa. Consegnatela e il villaggio sarà risparmiato.»* È una **menzogna** — Vogler brucia comunque — ma nessuno a Vogler può saperlo. Metti il villaggio nella posizione di dover scegliere, e lascia che sia Raven a rifiutare per prima, ad alta voce. *(Usa questa versione solo se vuoi mettere pressione sul gruppo stasera. È efficace e cattiva.)*
+>
+> **In entrambi i casi non cambiare le regole della magia divina.** Brynja lancia quello che vuole, quando vuole. La conseguenza non è meccanica: è che **adesso qualcuno la sta cercando per nome.**
+
+> **[NOTA DM] Il patto del gruppo.** Non dimenticare che il vincolo non gliel'hai messo tu: **se lo sono dati loro**, e lei l'ha rotto per salvare qualcuno. È il tipo di infrazione di cui il tavolo dovrebbe parlare da solo. Non arbitrarla — se nessuno la solleva, basta una riga da un PNG: Becklin, che di ordini infranti per una buona ragione se ne intende, che le dice *«hai fatto bene»* con la faccia di una a cui non torna del tutto.
+>
+> E un dettaglio di simmetria che vale la pena non sprecare: **anche Corin ha ricevuto un dio quella notte.** Se lui il patto lo sta rispettando, la scena di loro due che non sono d'accordo si scrive da sola.
+
+---
+
+### Avanzamento a Livello 3
+
+I personaggi avanzano al **Livello 3** subito dopo la Battaglia di High Hill — **assegnalo sul campo**, mentre soccorrono i feriti, così arrivano alla FASE 1 già aggiornati. *(Il Livello 4 arriva a fine sessione, sulla barca in fuga da Vogler.)*
+
+> ⚠️ **Il party arriva a questa sessione al Livello 2**, non 3: la battaglia si era interrotta a metà e il passaggio di livello non era ancora avvenuto. **Questo è il momento in cui recupera.**
+
+---
+
+### Chiusura della battaglia — Il Ritorno a Vogler
+
+Sistemati i feriti, Raven e Becklin fanno rientrare tutti al villaggio e chiedono ai personaggi di scortare la gente: il viaggio di ritorno, però, è silenzioso e senza incidenti. A Vogler i leader del villaggio convocano i personaggi al **Brass Crab**, dove la sala era stata addobbata per una serata di festa.
+
+**Questa è la porta della FASE 1**, che riprende esattamente da lì: la sala a festa piena di gente ferita, e il prigioniero legato nella rimessa.
 
 ---
 
@@ -49,17 +267,39 @@ Raven guida la conversazione. Pone queste priorità, nell'ordine:
 - Vogler deve sapere se ci sono altri mercenari pericolosi nell'area.
 - Se un personaggio ha usato magia — specialmente magia curativa o evidenza di potere divino — Raven chiede se può mettere la sua capacità al servizio dei feriti del villaggio.
 
+> ⚠️ **GRADINO 2 del contraccolpo divino — gioca questa scena.** (Vedi FASE 0, *"Il contraccolpo della magia divina"*.)
+>
+> Brynja ha guarito in pubblico su High Hill, e a Vogler si è saputo prima ancora che rientrassero. Quando entra al Brass Crab, **le conversazioni si abbassano di un tono**. Qualcuno le lascia il posto migliore vicino al fuoco senza dire niente.
+>
+> A un certo punto Raven smette di parlare di mercenari e le fa la domanda, **ad alta voce, davanti a tutti**:
+>
+> > *"Devo chiederti una cosa e non so nemmeno se è educata. Gli dèi sono tornati?"*
+> >
+> > *"Perché domani mattina metà di questo villaggio mi chiederà cos'ha visto su quella collina, e io devo dirgli qualcosa. E se la risposta è sì, non è una cosa che riguarda te. Riguarda tutti."*
+>
+> **Non è un attacco.** Raven è una sindaca con duecento persone spaventate da gestire, e le sta chiedendo un'informazione operativa. Ma la domanda è pubblica, e chiude per sempre la possibilità di restare discreta.
+>
+> **Come giocarla:** non risolverla tu. Fai la domanda, poi **aspetta**. Qualunque cosa risponda Brynja va bene — anche il silenzio. Quello che conta è che la giocatrice senta che la stanza è in attesa, e che d'ora in poi la magia divina la userà sapendo cosa costa.
+>
+> **Se il gruppo aveva un patto** — e ce l'aveva — questo è il momento in cui viene fuori, se qualcuno lo tira fuori. Non arbitrare: se nessuno parla, basta che **Becklin** le dica *«hai fatto bene»* con la faccia di una a cui non torna del tutto.
+
 *[NOTA DM — riservata] Lasciate che i personaggi pongano le loro domande e propongano piani. Raven spinge poi verso l'interrogatorio del mercenario catturato, che è tenuto in una rimessa vicina. Cudgel vuole condurlo lei ma fa fatica a non esplodere — è meglio se i personaggi prendono in mano la situazione.*
+
+> **Chi altro c'è nella sala.** **Leedara** è ancora a Vogler e non se ne andrà prima della caduta del villaggio. Dopo il corteggiamento del funerale, il modo più economico di usarla stasera è **non farla parlare**: è seduta in disparte mentre tutti discutono di eserciti, e guarda verso nord come Becklin. Se **Garrick** la cerca, gli concede una battuta e niente di più — è lei a decidere quando si parla.
+>
+> **I due Bakaris** non sono al Brass Crab stasera: compaiono in **FASE 3** (Lord Bakaris che si intromette nella riunione) e in **FASE 5A** (l'evacuazione). Dopo quello che è successo al festival, aspettati che Lord Bakaris eviti lo sguardo di **Asurion** e parli sopra la testa di tutti gli altri.
 
 ---
 
 ### L'Interrogatorio del Mercenario
 
+> ✅ **Non è stato anticipato in Sessione 01:** la serata si è chiusa prima. Questa scena si gioca qui, per intero, come previsto.
+
 A meno che i personaggi non abbiano già risparmiato la vita a Gragonis (nel qual caso è lui il prigioniero), il mercenario catturato durante la Battaglia di High Hill è **Svilnt Sunderlit**, guardia di basso rango dell'Ironclad.
 
 Raven concede a Cudgel e ai personaggi ampia libertà nell'interrogatorio. Non si oppone all'uso di magia coercitiva, ma rifiuta che venga fisicamente maltrattato.
 
-Cudgel inizia lei l'interrogatorio, ma la rabbia prende il sopravvento — si ritira presto a osservare da distanza, intervenendo di tanto in tanto con interjections furiose.
+Cudgel inizia lei l'interrogatorio, ma la rabbia prende il sopravvento — si ritira presto a osservare da lontano, intervenendo di tanto in tanto con sfuriate improvvise.
 
 **Svilnt** viene portato con il petto e le braccia avvolte in una rete da pesca. Inizialmente insulta e rifiuta di parlare. Con roleplay convincente o un test di **Carisma (Intimidazione o Persuasione) CD 12**, rivela:
 
@@ -262,6 +502,20 @@ Questo **soldato dell'Esercito del Drago** a cavallo su un **destriero da guerra
 
 **Meccanica — Riconoscimento di Takhisis:**
 I personaggi competenti in Religione riconoscono il nome Takhisis come uno degli dèi di Krynn. Un chierico di Takhisis o chi supera **Intelligenza (Religione) CD 12** riconosce il simbolo a spirale sull'armatura del messaggero come il segno di Takhisis, la più grande delle divinità malvagie, conosciuta anche come la Regina Dragone. Lo stesso simbolo compare su tutta l'armatura dell'Esercito del Drago.
+
+> ⚠️ **GRADINO 3 del contraccolpo divino — è questo il momento.** (Scala completa in FASE 0.)
+>
+> L'ultimatum è firmato **Belephaion, Voce di Takhisis**: un sacerdote, non un generale. La linea ufficiale dell'Armata del Drago è che **l'unica divinità tornata sia Takhisis** — è su quella che si regge metà della loro autorità morale. Una chierica di Mishakal che guarisce in pubblico a un miglio da qui non è un fastidio militare: **è un'informazione che vale un rapporto scritto.**
+>
+> Mentre Raven legge, **la messaggera guarda Brynja** — lo scudo verde, il simbolo — un attimo più del necessario. Non parla, non rallenta, non minaccia. Chi ha Percezione passiva alta se ne accorge.
+>
+> Poi scegli **uno** dei due esiti, non entrambi:
+>
+> **(a) Riferisce e basta.** Stasera non cambia niente. Ma da Kalaman in poi l'Armata sa che a Vogler c'era una guaritrice vera, e **Belephaion lo sa per primo**. Ritorna come un dettaglio inatteso: un ufficiale che la riconosce, un ordine di catturarla anziché ucciderla, lo scudo descritto in un dispaccio che i personaggi intercettano.
+>
+> **(b) L'ultimatum la nomina.** Sotto la firma c'è una riga in più: *«La portatrice dello scudo verde è attesa. Consegnatela, e il villaggio sarà risparmiato.»* È una **menzogna** — Vogler brucia comunque — ma a Vogler nessuno può saperlo. Metti il villaggio davanti alla scelta e lascia che sia **Raven a rifiutare per prima, ad alta voce**, prima che i personaggi possano rispondere. *Più duro e più immediato: usalo solo se vuoi la pressione stasera.*
+>
+> **In nessuno dei due casi toccare le regole della magia divina.** Brynja lancia quello che vuole. La conseguenza è che adesso **qualcuno la sta cercando per nome**.
 
 **Il Messaggero:**
 Chiede che il villaggio si prepari ad essere occupato dalle truppe dell'Esercito del Drago entro sera. Nel frattempo, nessuno può lasciare Vogler. Se i personaggi chiedono informazioni, il messaggero non ne dà. Se minacciato, mantiene la posizione e fa un segnale. Sulla cima delle scogliere alte 9 metri a est della porta, quattro soldati dell'Esercito del Drago appaiono — usano i loro giavellotti per attaccare chiunque minacci il messaggero o tenti di lasciare il villaggio.
@@ -664,14 +918,17 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 ## Hook PG — Integrazione Personaggi
 
-*[NOTA DM — riservata] Attiva solo per i PG che hanno vissuto il preludio corrispondente.*
+*[NOTA DM — riservata] Vogler brucia stasera. Per quattro di questi cinque non è un villaggio qualunque, e per uno è la seconda volta. Non forzarli tutti: bastano due, giocati bene.*
 
-| Preludio | Hook in Sessione 02 |
-|----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | Se usa apertamente un potere divino per salvare un villager durante l'invasione, gli astanti sono atterriti e commossi. Per molti di loro è il primo vero miracolo divino che vedono in vita loro. È un momento che li seguirà per tutta la campagna. |
-| **Eye in the Sky** (PG incantatore) | Il rotolo per Wyhan è ancora in tasca. Durante la fuga sull'ultima barca, Darrett o Raven menzionano "Kalaman" come destinazione. Il PG sa ora dove sta andando il rotolo — e dove lo aspetta Wyhan. |
-| **Scales of War** (tutti) | Rhys — il giovane contadino salvato sulla strada della Sessione 00 — potrebbe essere tra i civili da evacuare. Se salvato di nuovo, diventa un devoto alleato del party a Kalaman. |
-| **Tutti** | L'addio di Becklin prima della battaglia è rivolto a tutto il gruppo. La sua scomparsa dopo è un filo narrativo che li seguirà. |
+| PG | Hook in Sessione 02 | Dove cade |
+|----|---------------------|-----------|
+| **Brynja** | ⚠️ Il contraccolpo della magia divina, dalla FASE 0 alla FASE 4 (scala completa in FASE 0). **E poi l'eco:** l'ultima volta che Brynja ha visto case in fiamme e gente da portare fuori era un villaggio nanico di frontiera, l'assalto di Grishnak Spezzapietra — la notte in cui **quello scudo che adesso porta lei** si è frapposto tra lei e un goblin. Stanotte succede di nuovo, e stavolta lo scudo ce l'ha lei. *Non dirlo tu: mettici davanti una casa che brucia con qualcuno dentro e basta.* | FASE 0, 1, 4, 5B |
+| **Razak** | **Thornwall Keep è casa sua** — ci ha servito quattro anni. Stasera i personaggi ci tornano a recuperare la cassa di Becklin (FASE 5A) e a usare lo gnomeflinger (FASE 4), e domani non ci sarà più. **E soprattutto: il destino di Becklin** (FASE 5D, Jeyev). Qualunque opzione tu scelga, per lui non è "un PNG importante che scompare": è **la sua cavaliera**. È tornato a Vogler per un funerale e per ringraziare un uomo troppo tardi; rischia di ripartire con un secondo ringraziamento mai detto. **Dagli la scena, e non affrettarla.** | FASE 4, 5A, 5D |
+| **Corin** | **Il palo del molo con la fenice.** Se non è caduto in Sessione 01, l'occasione migliore è adesso: i personaggi si imbarcano **da quel molo**, in fuga, con il villaggio in fiamme alle spalle. Il segno del suo dio — la prima prova che il suo rito di dodici anni non fosse un'invenzione privata — resta lì, e brucia con il resto. *Basta una riga in descrizione mentre la barca si stacca.* | FASE 5C / 5D |
+| **Garrick** | Il **rotolo per Wyhan** è ancora in tasca: durante la fuga, Darrett o Raven nominano **Kalaman** come destinazione, e lui capisce che sta andando esattamente dove il rotolo doveva arrivare. **E Leedara:** è ancora in paese. Se la cerca, gli concede una battuta e niente di più — ma in tutto il gruppo è l'unico con cui abbia parlato davvero. | FASE 1, 5D |
+| **Asurion** | **Lord Bakaris**, che lui ha buttato nel fiume ieri, è tra i civili da evacuare (FASE 5A) — e si oppone ai piani. *È l'unico del gruppo da cui non accetterà niente, e l'unico che potrebbe godersi la scena.* **Attenzione:** Bakaris deve **sopravvivere** all'evacuazione, perché a Kalaman lo ritrovano al consiglio (Sessione 03) con un torto vero da raccontare. | FASE 3, 5A |
+| **Tutti** | **Rhys**, il contadino salvato sulla strada in Sessione 00, può essere tra i civili da evacuare. Se lo salvano di nuovo, a Kalaman diventa un alleato devoto. | FASE 5A/5B |
+| **Tutti** | L'addio di Becklin prima della battaglia è rivolto a tutto il gruppo. La sua scomparsa dopo è un filo che li seguirà. | FASE 5B, 5D |
 
 ---
 
@@ -694,6 +951,16 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 ### Fatti Accaduti
 
+**FASE 0 — Battaglia di High Hill (ripresa)**
+- [ ] Scontro 1 concluso: ____________
+- [ ] Scontro 2 (Gragonis): esito: ____________ — Gragonis vivo/morto: ____________
+- [ ] Feriti soccorsi: quanti ____________ — da chi ____________
+- [ ] **Gradino 1 del contraccolpo divino giocato** (chi si inginocchia, la richiesta impossibile): Sì / No
+- [ ] Party avanzato a **Livello 3**: Sì / No
+
+**Il resto della sessione**
+- [ ] **Gradino 2** — Raven fa la domanda a Brynja al Brass Crab: Sì / No — risposta: ____________
+- [ ] **Gradino 3** — la messaggera nota Brynja: opzione **(a) riferisce** / **(b) l'ultimatum la nomina**
 - [ ] Interrogatorio del mercenario: informazioni ottenute: Sì / No — chi era il prigioniero: ____________
 - [ ] Collegamento Dragon Army ("armature nere e rosse") emerso: Sì / No
 - [ ] Ricognizione nel bosco: eseguita dai PG / dai cacciatori locali
@@ -721,9 +988,10 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 | Darrett Highwater | Sopravvive all'invasione; prende l'elmo di Becklin | +2 → +3 Alleato (da questa sessione è il PNG più vicino al party) |
 | Cudgel Ironsmile | Conduce la difesa del fronte; destino post-battaglia DM | +1/+2 Amichevole (a seconda di come i PG hanno risposto al tradimento) |
 | Raven Uth Vogler | Gestisce la crisi, organizza l'evacuazione; fugge con i suoi | +2 Amichevole |
-| Leedara | Non presente attivamente; DM può inserire un cenno/presenza nella scena dei Cavalieri Minacciosi | 0 Neutrale (invariata) |
+| Leedara | Ancora in paese fino alla caduta. Il DM può inserire un cenno nella scena dei Cavalieri Minacciosi | **+1 Cordiale verso Garrick** (dal funerale) · 0 verso gli altri |
 | Jeyev Veldrews | Arriva con l'elmo di Becklin; fedeltà ambigua | Dipende dalla scelta DM sul destino di Becklin |
-| Lord Bakaris | Cerca di sabotare i piani di evacuazione | -1 Sospettoso → -2 Diffidente |
+| **Lord Bakaris** | Cerca di sabotare i piani di evacuazione. **Porta già il rancore per essere stato buttato nel fiume da Asurion** | -3 verso Asurion (invariata) · -1 → **-2 Diffidente** verso gli altri |
+| **Bakaris il Giovane** | Presente all'evacuazione, evita Razak ma non lo perde di vista | **-3 verso Razak** (invariata). ⚠️ **Devono sopravvivere entrambi:** li si ritrova a Kalaman in Sessione 03 |
 
 ### Ricompense
 
@@ -742,10 +1010,12 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Il destino di Becklin | Catturata? Dispersa? Uccisa? | Alta → Cap. 4 |
+| Il destino di Becklin | Catturata? Dispersa? Uccisa? **Per Razak è la sua cavaliera** | Alta → Cap. 4 |
+| **Brynja e il ritorno degli dèi** | Ha guarito in pubblico due volte. Vogler lo sa, e — a seconda del Gradino 3 — lo sa anche l'Armata del Drago | **Alta → Cap. 4 e oltre** |
+| **I due Bakaris** | Entrambi sopravvivono e arrivano a Kalaman **prima del party**. Lord Bakaris ha un torto vero da raccontare al consiglio; il figlio vuole soddisfazione da Razak | **Alta → Sessione 03** |
 | L'esercito Dragon Army | Belephaion, Voce di Takhisis — chi comanda questa forza? | Alta → Cap. 4 |
 | Wyhan e il rotolo | Il rotolo per Wyhan — ora la destinazione è Kalaman | Media → Apertura Cap. 4 |
-| Leedara | Chi è veramente? Cosa fa a Vogler? | Bassa → tema ricorrente Cap. 4+ |
+| **Garrick ↔ Leedara** | Garrick l'ha corteggiata al funerale; lei ha risposto *"in un altro tempo, forse"*. È l'unico del gruppo che le abbia parlato davvero | Media → **ricompare nel Cap. 4-7, sul filo di Lord Soth** |
 | Jeyev Veldrews | Fedele o traditore? | Dipende dalla scelta DM |
 | Darrett e l'armatura di Becklin | La cassa con l'armatura solamnica — quando/come consegnarla? | Media → Cap. 4 |
 | I Cavalieri Minacciosi | Chi erano le figure sulle scogliere? Lord Soth? Spiriti? | Bassa → tema ricorrente |

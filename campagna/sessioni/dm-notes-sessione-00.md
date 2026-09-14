@@ -1,4 +1,8 @@
 # DM Notes — Sessione 00: I Tre Preludi
+
+> ✅ **SESSIONE GIOCATA — 13 settembre 2026.** Tre preludi su tre, nessuna deviazione dal piano. Party al Livello 2.
+> Recap in `recaps/recap-sessione-00.md`. Nella stessa serata è iniziata la Sessione 01.
+
 **Avventura:** Dragonlance — Shadow of the Dragon Queen  
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 2: Prelude to War (righe 974–1188)  
 **Livello party:** 1 → **2** (avanzamento al termine dei preludi)  
@@ -368,16 +372,19 @@ Vogler è vicina.
 
 ---
 
-## RECAP POST-SESSIONE
+## ✅ RECAP POST-SESSIONE — GIOCATA IL 13/09/2026
 
-*Da compilare DOPO aver giocato la sessione.*
+*Compilato dal recap di Fabio. Fonte: `recaps/recap-sessione-00.md`.*
+
+> **Esito in una riga:** i tre preludi sono stati giocati **come previsto, senza deviazioni**. Party al Livello 2.
+> Nella stessa serata è poi iniziata la Sessione 01, che si è interrotta a metà della Battaglia di High Hill.
 
 ### Fatti Accaduti
 
-- [ ] Preludio 1 eseguito con: [nomi PG]
-- [ ] Preludio 2 eseguito con: [nomi PG]
-- [ ] Preludio 3 eseguito con: [nomi PG / tutto il gruppo]
-- [ ] Party avanzato al livello 2: Sì / No
+- [x] **Preludio 1 — Broken Silence** ✅ eseguito con: **Brynja** (Mishakal) e **Corin** (Habbakuk), insieme
+- [x] **Preludio 2 — Eye in the Sky** ✅ eseguito con: **Garrick**, da solo
+- [x] **Preludio 3 — Scales of War** ✅ eseguito con: **tutto il gruppo** (5 PG) — i baaz sono stati combattuti
+- [x] **Party avanzato al livello 2:** **Sì**
 
 ### Aggiornamenti PNG
 
@@ -385,13 +392,13 @@ Vogler è vicina.
 |-----|--------|----------------------|
 | Rovina | Incontrata al Barb — ha valutato e approvato Garrick | +2 Amichevole |
 | Rhys | Salvato sulla strada verso Vogler | +2 Amichevole |
-| [Divinità PG] | Manifestazione divina diretta | — (entità, non tracciata come PNG) |
+| Mishakal (Brynja) / Habbakuk (Corin) | Manifestazione divina diretta | — (entità, non tracciate come PNG) |
 
 ### Ricompense
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| Scales of War — 3 baaz draconiani | 300 XP totali (100 × 3) — solo se si è combattuto |
+| Scales of War — 3 baaz draconiani | ✅ **300 XP assegnati** (100 × 3) |
 | Scales of War — tesoro del carro | 40 gp, 3 spade lunghe, 8 razioni |
 | Broken Silence — completamento | Accesso poteri e incantesimi divini |
 | Eye in the Sky — completamento | Rotolo sigillato per Wyhan; spellbook dei Magi |
@@ -412,11 +419,11 @@ Vogler è vicina.
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — aggiorna livello a 2; inserisci nomi reali, razze, classi, background
-- [ ] `campagna/png-incontrati.md` — aggiungi Rhys (se incontrato) e Rovina (se incontrata); aggiorna attitudini
-- [ ] `campagna/rapporti.md` — compila sezione "Capitolo 01 (Preludio)" con i rapporti formati
-- [ ] `campagna/sessioni/dm-notes-sessione-01.md` — prepara prima della prossima sessione (Cap 3: When Home Burns)
-- [ ] `/aggiorna-locations 00` — esegui dopo la sessione per aggiornare il compendio luoghi
+- [x] `campagna/party.md` — livello aggiornato a **2**, XP a 300
+- [x] `campagna/png-incontrati.md` — aggiunti Rhys e Rovina
+- [x] `campagna/rapporti.md` — compilata la sezione "Capitolo 01 (Preludio)"
+- [x] `campagna/sessioni/dm-notes-sessione-01.md` — giocata nella stessa serata
+- [x] `/aggiorna-locations 00` — compendio luoghi creato (`campagna/luoghi-visitati/`)
 
 ---
 
