@@ -5,10 +5,12 @@
 - **Villain/Stagione:** Kansaldi Fire-Eyes (Highmaster del Red Dragon Army) · Invasione di Solamnia
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
-- **Party:** 4 PG definiti + 1 in arrivo. In `campagna/party.md`: **Razak Kendall** (umano, monaco dell'Ordine di Majere), **Garrick Ashwatch** (umano, mago di Alta Stregoneria — classe da confermare), **Brynja Daewar** (nana, chierico di Mishakal), **Asurion Loech** (elfo silvano Kagonesti, barbaro). Il **quinto PG** è **Corin Wrenmoor** (giocatore: Gabri; *nome provvisorio*), **druido umano** devoto a **Habbakuk** — background Eremita, custode della Pozza del Martin Pescatore nell'Hinterlund, agganciato alla catena tramite Razak/Asurion (Hinterlund) e Brynja (visione condivisa di *Broken Silence*). Dettagli in `campagna/party.md`. Schede complete in `fonti/personaggi/`
-- **Stato:** **Campagna non ancora iniziata al tavolo — nessuna sessione giocata.** Le sessioni sono state preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`); tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" altrove in questo file descrivono la **preparazione**, non la partita reale
+- **Party:** **5 PG, tutti al tavolo dalla prima serata** — vedi la tabella qui sotto e `campagna/party.md`. Schede complete in `fonti/personaggi/`. *(**Corin Wrenmoor** resta un nome provvisorio: se Gabri lo cambia, va sostituito anche in `campagna/party.md` e nelle sessioni 00-01.)*
+- **Stato:** ✅ **Campagna iniziata il 13 settembre 2026.** Giocate le **Sessioni 00 e 01** nella stessa serata; la Sessione 01 si è interrotta **a metà della Battaglia di High Hill**. Le sessioni successive sono preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`): tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" oltre la Sessione 01 descrivono la **preparazione**, non la partita reale
+- **Capitolo corrente:** **3 — When Home Burns** (prima metà giocata; la seconda metà è la Sessione 02)
+- **Prossima sessione:** **02 — La Caduta di Vogler**, che si apre **in mezzo al combattimento** con la FASE 0
 - **Durata Media Sessioni:** 2,5 ore
-- **Livello attuale del party (al tavolo):** 1 — la campagna deve ancora partire
+- **Livello attuale del party (al tavolo):** **2** — il Livello 3 arriva alla fine della Battaglia di High Hill, in Sessione 02
 - **Preparazione arrivata a:** Capitolo 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; il materiale prevede la conclusione del Cap. 6 con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10 — ma questo **non è ancora successo in gioco**)
 
 ### Struttura della Campagna
@@ -16,7 +18,16 @@
 - **Campagna Vera (Cap 3-7):** Invasione, guerra, avventure in Solamnia
 
 ## Il Party
-[TODO — Tabella party da compilare quando i giocatori si uniranno]
+
+| PG | Giocatore | Specie / Classe | Divinità | Note dopo la Sessione 01 |
+|----|-----------|-----------------|----------|--------------------------|
+| **Razak Kendall** | — | Umano / Monaco (Ordine di Majere) | — | Ex scudiero di Becklin a Thornwall Keep. **Nemico personale: Bakaris il Giovane** |
+| **Garrick Ashwatch** | — | Umano / Mago (Alta Stregoneria) | — | Porta il rotolo sigillato per Wyhan. **Ha corteggiato Leedara** ed è l'unico che le abbia parlato |
+| **Brynja Daewar** | Eric | Nana di montagna / Chierica | **Mishakal** | ⚠️ Porta lo **Scudo Verde di Ispin** e **ha usato magia divina in pubblico** |
+| **Asurion Loech** | Seba | Elfo silvano Kagonesti / Barbaro | — | **Nemico personale: Lord Bakaris**, che ha buttato nel fiume |
+| **Corin Wrenmoor** *(nome provvisorio)* | Gabri | Umano / Druido | **Habbakuk** | Ha appreso il nome del proprio dio nel preludio |
+
+Dettagli completi in `campagna/party.md`; schede in `fonti/personaggi/`.
 
 ## Il Mondo — Krynn
 
@@ -150,4 +161,6 @@ Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Le Sessioni
 
 ---
 
-> **Prossimo Passo:** Invoca `/prep-sessione 23` per preparare "Day of Dread" e "Night of Terror" (Cap. 7, righe 5395–5542 in poi) — l'attesa carica di tensione prima dell'assedio, il ritorno di Clystran e Darrett con notizie sui tunnel della citadella, la pianificazione del contrattacco, e i quattro incontri notturni casuali, fino alla soglia della "Battle of Kalaman"
+> **Prossimo Passo al tavolo:** giocare la **Sessione 02 — La Caduta di Vogler**, che si apre con la **FASE 0** (conclusione della Battaglia di High Hill, trasferita dalla Sessione 01). Tre eredità da tenere presenti: i contraccolpi della magia divina di Brynja, l'inimicizia di Bakaris il Giovane verso Razak e quella di Lord Bakaris verso Asurion.
+
+> **Prossimo Passo di preparazione:** Invoca `/prep-sessione 23` per preparare "Day of Dread" e "Night of Terror" (Cap. 7, righe 5395–5542 in poi) — l'attesa carica di tensione prima dell'assedio, il ritorno di Clystran e Darrett con notizie sui tunnel della citadella, la pianificazione del contrattacco, e i quattro incontri notturni casuali, fino alla soglia della "Battle of Kalaman"

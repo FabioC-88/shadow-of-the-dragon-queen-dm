@@ -92,12 +92,18 @@
 
 | Campo | Valore |
 |-------|--------|
-| **Posizione verso il party** | Neutrale → Potenzialmente Alleata |
-| **PNG di contatto** | **Cudgel Ironsmile** — capitana nana |
-| **Sede operativa** | Accampamento mercenari fuori Vogler (Cap 3) |
+| **Posizione verso il party** | **Spaccata in due** — Cudgel e i suoi: Cordiale; i mercenari di Gragonis: **Ostili** |
+| **PNG di contatto** | **Cudgel Ironsmile** — capitana nana (+1 Cordiale dopo la Sessione 01) |
+| **Sede operativa** | Accampamento mercenari a un miglio a nord di High Hill |
 | **Obiettivo** | Profitto; contratti militari; sopravvivenza |
 
-**Stile operativo:** Compagnia mercenaria guidata da Cudgel Ironsmile, ex compagna d'avventura di Ispin Greenshield e di Becklin. Ingaggiata a Vogler per la rievocazione del Festival del Kingfisher; la sua lealtà si conquista con l'oro o dimostrando valore. Cudgel rispetta la forza e l'onestà. Il suo secondo luogotenente, il **mezzo-ogre Gragonis**, la tradisce in Sessione 01; l'altro, l'umano **Jeyev Veldrews**, resta al campo.
+**Stile operativo:** Compagnia mercenaria guidata da Cudgel Ironsmile, ex compagna d'avventura di Ispin Greenshield e di Becklin. Ingaggiata a Vogler per la rievocazione del Festival del Kingfisher; la sua lealtà si conquista con l'oro o dimostrando valore. Cudgel rispetta la forza e l'onestà.
+
+> ⚠️ **STATO AL 13/09/2026 — la compagnia si è spezzata a metà rievocazione.** Il luogotenente **Gragonis** (mezzo-ogre) è stato comprato da agenti del Red Dragon Army nel bosco a ovest del campo, e con quell'oro **ha pagato i mercenari**: l'intera parte della compagnia presente su High Hill sa cosa sta facendo, e ha lance con le punte vere. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad.
+>
+> **Il tradimento è in corso mentre scriviamo:** la Sessione 01 si è interrotta a metà dello scontro. Cudgel **non lo sa ancora** — lo scopre in Sessione 02, FASE 0.
+>
+> Al campo è rimasto l'altro luogotenente, l'umano **Jeyev Veldrews**, con i mercenari **non** comprati: quelli, in teoria, sono ancora fedeli a Cudgel.
 
 ---
 

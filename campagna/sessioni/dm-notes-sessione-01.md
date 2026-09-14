@@ -1,14 +1,20 @@
 # DM Notes — Sessione 01: Quando Brucia Casa
+
+> ✅ **SESSIONE GIOCATA — 13 settembre 2026.** FASI 1-4 completate; la **FASE 5 si è interrotta a metà dello Scontro 1**.
+> La conclusione della Battaglia di High Hill è stata trasferita in `dm-notes-sessione-02.md`, **FASE 0**.
+> Recap in `recaps/recap-sessione-01.md` · delta in fondo a questo file, sezione **📋 ACCADUTO IN SESSIONE**.
+> **Il party è ancora al Livello 2:** il Livello 3 è legato alla fine della battaglia, che non è conclusa.
+
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 3: When Home Burns (righe 1189–1672)
-**Livello party:** 2 → **3** (avanzamento milestone dopo la Battaglia di High Hill)
+**Livello party:** 2 → ~~**3**~~ — *il passaggio di livello **non è avvenuto**: la battaglia si è interrotta a metà. Il Livello 3 arriva in Sessione 02, FASE 0*
 **Avanzamento:** Milestone narrativo (cap. 3 usa avanzamento per pietra miliare, non XP)
 **XP accumulati a inizio sessione:** 300 XP dalla Sessione 00 (3 baaz di *Scales of War*) — 0 se il party ha evitato lo scontro restando nascosto
 **Obiettivo sessione:** Introdurre Vogler e i suoi abitanti; giocare il funerale di Ispin Greenshield; concludere con il Tradimento di High Hill e l'avanzamento al livello 3.
 **Durata stimata:** ~2h15m (5 fasi: 30 + 25 + 20 + 15 + 40 min = 2h10m, più i tempi morti)
 **Sessione precedente:** dm-notes-sessione-00.md — Cap. 2: Prelude to War (righe 974–1188)
 
-> ⚠️ **Nota pre-sessione:** `campagna/party.md` mostra ancora Livello 1 — **aggiornalo a Livello 2** prima di giocare (avanzamento ottenuto al termine dei preludi della Sessione 00). Se giochi Sessione 00 e Sessione 01 nella stessa serata, il passaggio di livello avviene in mezzo.
+> ✅ **Fatto:** Sessione 00 e Sessione 01 sono state giocate nella stessa serata, con il passaggio al **Livello 2** in mezzo, come previsto. `campagna/party.md` è aggiornato.
 
 > ⚔️ **Stat block:** i blocchi e i numeri dei nemici di questa sessione sono scalati su **5 giocatori** in `campagna/scontri-adattati/capitolo-03.md`, che è la fonte di verità meccanica. I blocchi riportati qui sotto sono allineati a quel file.
 
@@ -32,9 +38,11 @@
 
 ---
 
-## FASE 1 — Arrivo a Vogler
+## ✅ FASE 1 — Arrivo a Vogler
 
 *~30 minuti · Esplorazione libera, primo contatto con i PNG del villaggio*
+
+> **Giocata.** Nessuna deviazione riportata. Da confermare quali ganci dei PG siano effettivamente caduti (palo del molo per Corin, riconoscimento di Razak in paese, notizie dei cacciatori per Asurion).
 
 ### Contesto per il DM
 
@@ -97,9 +105,13 @@ I personaggi hanno alcune ore libere prima del funerale serale. La chiave di que
 
 ---
 
-## FASE 2 — Il Funerale di Ispin Greenshield
+## ✅ FASE 2 — Il Funerale di Ispin Greenshield
 
 *~25 minuti · Evento narrativo centrale; nessun tiro meccanico obbligatorio*
+
+> **Giocata.** Funerale eseguito. Al ricevimento **Razak ha raccontato la propria storia**: l'inverno in cui accudì Ispin all'eremo del Filo di Rame mentre era sotto voto di silenzio, senza rivolgergli mai la parola. È la prima volta che ne parla ad alta voce.
+>
+> 🔀 **Deviazione — Bakaris il Giovane.** Vedi il riquadro nella sezione "Il Disturbatore" qui sotto: la scena si è chiusa in modo diverso da come la prevede la fonte, e con conseguenze molto più personali.
 
 ### Contesto per il DM
 
@@ -146,6 +158,17 @@ A metà dei racconti, dopo uno o due interventi, Bakaris sbadiglia in modo teatr
 
 Un personaggio che lo confronta: roleplay o Carisma (Intimidazione/Persuasione) CD 12 → Bakaris borbotta che *"nessuno a Vogler regge una battuta"* e se ne va.
 
+> 🔀 **COSA È SUCCESSO AL TAVOLO (13/09/2026).**
+> Bakaris ha preso di mira **Razak**. Razak lo ha minacciato e **ha fallito la prova**. È intervenuto **Garrick** con una **prestidigitazione**, simulando una sonora scoreggia sotto la sedia di Bakaris: il Brass Crab è scoppiato a ridere e Bakaris se n'è andato umiliato davanti a mezzo villaggio.
+>
+> **Il dettaglio che conta per tutto il resto della campagna: Bakaris non si è accorto di Garrick.** Ha visto un uomo che lo aveva appena minacciato, e subito dopo tutta la sala che rideva di lui. Per lui è stata opera di **Razak**, e basta.
+>
+> **[NOTA DM — riservata]** La fonte descrive Bakaris il Giovane come uno che *"attribuisce un valore smisurato al proprio bell'aspetto, ai vestiti alla moda e alla propria prestanza"*, che **ha già ucciso un uomo in duello** a Estwilde e che *"fantastica di conquistare un giorno il rispetto con la punta della spada"*. Di tutte le cose che gli potevano capitare, essere **deriso** è la peggiore — l'intimidazione fallita di Razak non lo avrebbe segnato nemmeno per un'ora, la risata sì.
+>
+> Non è un rancore che si sfoga in paese: Vogler cade domani. È un rancore che **riparte a Kalaman**, dove padre e figlio arrivano prima del party (Sessione 03). Quando Bakaris il Giovane intercetta il gruppo nel cortile di Castle Kalaman, non sta più facendo il bullo per abitudine — sta cercando Razak. Dagli una richiesta precisa: soddisfazione, davanti a gente che conti.
+>
+> ⚠️ **Non rivelare a Bakaris che è stato Garrick**, a meno che non sia un giocatore a farglielo scoprire. Il malinteso vale molto più della verità: ha messo il bersaglio addosso alla persona sbagliata, e Garrick lo sa.
+
 ---
 
 **Cudgel al ricevimento:**
@@ -158,6 +181,15 @@ Una donna elfa dalla carnagione bluastra si tiene ai margini. **Leedara**: arriv
 
 [NOTA DM — riservata] Leedara è morta durante il Cataclisma, trecento anni fa. Era una sacerdotessa elfa che testimoniò la caduta del Cavaliere Loren Soth. Ora è uno spirito che perseguita Lord Soth e lavora per sottrarlo al servizio della Dragon Queen. È a Vogler perché Soth si sta muovendo nell'area. Il suo vero ruolo si svelerà nel Cap. 4–7. Trattarla come mistero irrisolto.
 
+> 🔀 **COSA È SUCCESSO AL TAVOLO (13/09/2026).**
+> **Garrick ha provato a sedurla**, con un tiro molto alto. Leedara non ha ceduto: gli ha risposto che *in un altro tempo, forse, avrebbe ceduto alle sue lusinghe — ma non è il momento giusto*. Il tiro è stato dato per buono e **ha cantato**: la canzone silvanesti, poi si è ritirata nella sua stanza.
+>
+> **[NOTA DM — riservata] Quella frase è letteralmente vera, e Garrick non lo sa.** Leedara non stava schivando un corteggiatore con una gentilezza: stava dicendo come stanno le cose. «Un altro tempo» è **prima del Cataclisma**. Non c'è niente da correggere e niente da rivelare — la battuta funziona già perfettamente su due piani, e il secondo si aprirà da solo quando i personaggi scopriranno cos'è.
+>
+> **Conseguenza da tenere:** di tutto il gruppo, **Garrick è l'unico che le abbia parlato davvero**. Lei lo ha guardato in faccia e gli ha risposto qualcosa di sincero, cosa che con nessun altro a Vogler ha fatto. Quando Leedara ricompare nei Capitoli 4–7 sul filo di Lord Soth, **è a lui che si rivolge per prima** — e il fatto che il loro primo scambio sia stato un corteggiamento rende molto più scomoda, e molto migliore, la scena in cui lui capisce con cosa stava flirtando.
+>
+> *Attitudine: **+1 Cordiale verso Garrick**, 0 verso gli altri.*
+
 ---
 
 **Fine della serata:**
@@ -167,9 +199,11 @@ Quando i racconti si esauriscono e il ricevimento si sfoltisce, Becklin si avvic
 
 ---
 
-## FASE 3 — Il Dono e la Mattina Seguente
+## ✅ FASE 3 — Il Dono e la Mattina Seguente
 
 *~20 minuti · Darrett sulla strada, Thornwall Keep, lo Scudo Verde*
+
+> **Giocata.** Darrett incontrato, Thornwall Keep visitato, **Scudo Verde consegnato e assegnato a Brynja** — la persona a cui quello scudo aveva già salvato la vita nove anni fa.
 
 ### Contesto per il DM
 
@@ -226,15 +260,21 @@ Becklin li accoglie in camicia e pantaloni, fuori dall'armatura, nella sua bibli
 
 **Meccanica:** Becklin consegna lo **Scudo Verde** (*+1 shield*) solo se **almeno un personaggio accetta** di partecipare alla rievocazione della Battaglia di High Hill. Il gruppo decide a chi assegnarlo o come condividerlo.
 
+> ✅ **Assegnato a BRYNJA** (13/09/2026). Il gruppo ha accettato la rievocazione e lo scudo è andato a lei.
+>
+> **[NOTA DM]** Da qui in poi tienilo presente ogni volta che qualcuno deve descrivere Brynja a un estraneo: **a Vogler quello scudo lo conoscono tutti**, Ispin lo portava da vent'anni e ne raccontava la storia a chiunque. Combinato con il fatto che è anche una delle due persone che fanno miracoli, ne fa **la persona più facile da identificare di tutto il villaggio** — vedi la scala delle conseguenze in `dm-notes-sessione-02.md`, FASE 0.
+
 > ⚠️ **Questo è il momento di Brynja.** Quello nella cassa è **lo scudo che si è frapposto tra lei e il goblin** che stava per ucciderla, la notte del villaggio nanico in fiamme. Lo riconosce subito e senza tiri: bordo ammaccato, albero intagliato, quel verde. **Non anticiparlo tu** — apri la cassa, descrivi lo scudo e guarda il giocatore. Se non reagisce, digli in privato che lo riconosce.
 >
 > Gli altri quattro sanno tutti della storia dello scudo, perché Ispin la raccontava a chiunque (sbagliando ogni volta il numero dei goblin).
 
 ---
 
-## FASE 4 — Il Festival del Kingfisher
+## ✅ FASE 4 — Il Festival del Kingfisher
 
 *~15 minuti · Ambientazione, evento opzionale, raccordo verso High Hill*
+
+> **Giocata, gara di pesca inclusa** — ed è la fase che ha lasciato più strascichi. Vedi il riquadro in fondo alla gara.
 
 ### Contesto per il DM
 
@@ -279,13 +319,35 @@ Tre round da 10 minuti sul molo. Ogni round: tira sulla tabella Fish to Catch, p
 
 ---
 
+> 🔀 **COSA È SUCCESSO AL TAVOLO (13/09/2026).**
+>
+> **Il party ha perso la gara.** **Razak e Asurion sono finiti in acqua** (falliti di 10 o più, eliminati).
+>
+> **Razak aveva agganciato Benebog Rompilenze** — il 20 sul d20 — e **lo ha perso**. Il pesce è ancora là fuori: la regola "una sola volta in tutta la campagna" vale per la **cattura**, non per l'aggancio, quindi Benebog resta pescabile. *Usalo: un uomo che ha avuto la leggenda del villaggio all'amo per dieci secondi e l'ha persa è un uomo di cui si parla al Brass Crab per anni. Ogni pescatore di Vogler ha un'opinione su cosa avrebbe dovuto fare.*
+>
+> **Lord Bakaris se l'è presa con Asurion** ed è andata diversamente dalle due opzioni previste: Asurion non lo ha mandato via con una prova di Carisma — **si è girato e lo ha trascinato in acqua**, davanti al molo pieno di gente.
+>
+> **[NOTA DM — riservata]** Qui la scala è saltata. La fonte prevedeva un fastidioso da rimuovere con una CD 14; al tavolo c'è stata un'**aggressione fisica pubblica a un nobile solamnico**, per quanto ubriaco, molesto e per quanto tutto il molo abbia riso. A Vogler non ha conseguenze — è l'ultimo giorno di Vogler, e nessuno in paese lo sopporta.
+>
+> **Le conseguenze sono a Kalaman.** In Sessione 03 Lord Bakaris arriva al consiglio cittadino **prima del party** e mente sul proprio ruolo a Vogler (`dm-notes-sessione-03.md`, FASE 4). Adesso ha in mano qualcosa di meglio di una bugia: **un torto vero, verificabile, con decine di testimoni.** Aspettati che lo usi come prima mossa, prima ancora che i personaggi aprano bocca — *«questi sono i vostri eroi? Uno di loro mi ha aggredito in pubblico»* — e che sia la cosa più difficile da smontare di tutta la scena, perché è successa davvero.
+>
+> *Il vantaggio è che rende la scena del consiglio molto più tesa di quanto la fonte non preveda. Non smorzarla: falla pagare, poi lascia che siano i personaggi a ribaltarla raccontando cosa stava facendo Bakaris sul molo mentre il villaggio festeggiava.*
+
+---
+
 **Raccordo:** Darrett, Becklin o un locale trovano i personaggi mentre la parata verso High Hill si forma e li incitano a partecipare alla rievocazione. Il pomeriggio sta avanzando.
 
 ---
 
-## FASE 5 — Il Tradimento di High Hill ⚔️
+## ⏸️ FASE 5 — Il Tradimento di High Hill ⚔️ — *interrotta a metà*
 
 *~40 minuti · Combattimento in due ondate + conseguenze + avanzamento a Livello 3*
+
+> ⏸️ **LA SESSIONE SI È CHIUSA QUI, NEL MEZZO DELLO SCONTRO 1.**
+> Sono stati giocati: la parata, la rievocazione, la prova di Percezione, il tradimento e **la prima parte dello scontro con i mercenari a cavallo**.
+> Tutto il resto (Scontro 2, conseguenze, Livello 3, rientro a Vogler) è in `dm-notes-sessione-02.md`, **FASE 0**.
+>
+> **Prima di riprendere, recupera dalla scena di Foundry:** quante Guard e quanti Warhorse sono ancora in piedi, i PF dei personaggi, e l'ordine di iniziativa. La FASE 0 della Sessione 02 riparte esattamente da lì.
 
 ### Contesto per il DM
 
@@ -340,9 +402,11 @@ Ogni personaggio tira una prova di Saggezza (Percezione). **Chi ottiene il risul
 
 ---
 
-### ⚔️ SCONTRO 1 — Mercenari a Cavallo
+### ⏸️ SCONTRO 1 — Mercenari a Cavallo — *iniziato, non concluso*
 
 **4 Mercenary Guard montate su 3 War Horse** — *numeri scalati sul quinto giocatore (la fonte ne prevede 3+3); blocchi statistici invariati. Fonte di verità: `campagna/scontri-adattati/capitolo-03.md`.*
+
+> ⏸️ **Lo scontro è ancora in corso.** I blocchi qui sotto restano perché questo è lo scontro che è stato giocato; sono **ripetuti identici** in `dm-notes-sessione-02.md`, FASE 0, così che la prossima sessione sia autonoma. Se devi correggere qualcosa, correggi `scontri-adattati/capitolo-03.md` e poi allinea entrambi.
 
 I personaggi iniziano lo scontro **adiacenti al tronco d'albero a nord della mappa**. I mercenari a cavallo compaiono sulla strada, all'**angolo sud-ovest** del campo, e puntano dritti su di loro.
 
@@ -411,160 +475,119 @@ contundenti e ottiene la condizione Prono.
 
 ---
 
-### ⚔️ SCONTRO 2 — Arriva Gragonis [BT-10]
+### ⏸️ SCONTRO 2 — Arriva Gragonis → **TRASFERITO IN SESSIONE 02**
 
-Quando i cavalieri montati sono sconfitti — o quando sembra narrativamente opportuno:
+La sessione si è interrotta prima che Gragonis entrasse in campo.
 
-> Una figura massiccia brandisce una formidabile ascia bipenne mentre guida una banda di mercenari attraverso il caos. Fa a pezzi i pochi miliziani rimasti mentre si avvicina.
+**Tutto quello che veniva dopo lo Scontro 1 è stato spostato integralmente in
+`dm-notes-sessione-02.md`, FASE 0:**
 
-Gragonis emerge dal **bordo ovest** del campo, adiacente alla Mischia, con cinque guardie. Punta il personaggio dall'aria più temibile e ride ai suoi: *"Guardate qui! Ne abbiamo uno che crede ancora che sia tutto un gioco!"*
+- lo Scontro 2 con Gragonis e le cinque guardie
+- le conseguenze sul campo (Cudgel aggredita, il prigioniero, i feriti da soccorrere)
+- l'avanzamento a **Livello 3**
+- il rientro a Vogler e la chiusura
+- l'interrogatorio, che in Sessione 02 non è più un'anticipazione opzionale ma la FASE 1 vera e propria
 
-> ⚠️ **Gragonis è un MEZZO-OGRE, non un mezzo-orco.** La fonte lo dice esplicitamente (*"her lieutenants — the half-ogre Gragonis"*), ed è coerente con la taglia Grande, la lingua Gigante e Int 5. Blocco potenziato a ~CR 2 con Azione Bonus e Reazione (non è il boss di capitolo — quello è Gholcag in S02 — quindi niente Villain Actions). Fonte di verità: `campagna/scontri-adattati/capitolo-03.md`.
+Non cercarlo qui: è là, per esteso e con i blocchi statistici completi.
 
-```
-GRAGONIS — HALF-OGRE (Boss, ~CR 2)
-Large Monstrosity | AC 14 (studded leather + istinto) | HP 55
-Speed 30 ft | Neutral Evil | Languages: Common, Giant
 
-STR 17 (+3), DEX 10 (+0), CON 14 (+2), INT 5 (-3), WIS 7 (-2), CHA 7 (-2)
-Darkvision 60 ft | Passive Perception 8
+## ✅ RECAP POST-SESSIONE — GIOCATA IL 13/09/2026
 
-ACTIONS
-Greataxe (Cleave): +5 al colpo, portata 1,5 m — 1d12+3 taglienti.
-  Cleave: a segno, colpisce automaticamente (stesso tiro) una seconda creatura
-  entro 1,5 m dalla prima — 1d12 taglienti, senza modificatore.
-Javelin: +5 al colpo, gittata 9/36 m — 1d6+3 perforanti.
-
-BONUS ACTION — Brute's Shove
-Una creatura entro 1,5 m: TS Forza CD 13 o viene spinta indietro di 3 m e cade Prona.
-
-REACTION — No Retreat
-Quando una creatura entro 1,5 m si allontana da lui, Gragonis la attacca
-subito con la Greataxe.
-```
-
-```
-GUARD AGGIUNTIVE (×5)
-Stesso blocco ufficiale dello Scontro 1 (MM'25 p162) — già provate dalla
-battaglia, non si ritirano. Lancia +3, 4 (1d6+1) perforanti.
-```
-
-*[NOTA TATTICA] Gragonis va sempre addosso al bersaglio più minaccioso e **non si ritira mai**. Le cinque guardie gli coprono i fianchi e restano fino alla fine. Usa* Brute's Shove *sul personaggio in mischia più fastidioso e* No Retreat *per punire chi prova a sganciarsi senza Disimpegnarsi.*
-
----
-
-### Dopo la Battaglia — Il Campo Si Calma
-
-Quando Gragonis e le sue cinque guardie sono sconfitti, i mercenari rimasti si sbandano e lo scontro finisce.
-
-**Arrivano Cudgel, Raven e Becklin** con alcuni spettatori robusti — e hanno già combattuto anche loro: al punto di osservazione un mercenario ha aggredito Cudgel su ordine di Gragonis, e Becklin lo ha ucciso. Cudgel, di solito imperturbabile, è furiosa.
-
-- **Darrett:** vivo, contuso — sopravvive sempre
-- **Milizia di Vogler:** quasi interamente spazzata via
-- **Se tutti i PG vengono abbattuti:** Darrett e i miliziani superstiti li trascinano fuori dalla mischia e li rianimano; si risvegliano con **1 PF** proprio mentre arrivano Cudgel, Becklin e Raven
-
-**Il prigioniero:** Cudgel trova rapidamente un mercenario ferito ma vivo e comincia a strattonarlo e urlargli addosso. Se i personaggi non intervengono per primi, è **Raven a calmarla** e a far legare il traditore per riportarlo a Vogler. *(Se i personaggi hanno risparmiato Gragonis, il prigioniero è lui.)*
-
-**Meccanica — Soccorrere i feriti:**
-Saggezza (Medicina) CD 12 → strappa alla morte un abitante ferito. Stesso effetto con magia curativa (almeno 1 PF ripristinato). Chi viene salvato regala al suo soccorritore un gioiello o un portafortuna da 20 mo.
-
-*Se un personaggio usa apertamente il potere di un dio per salvare qualcuno:* chi assiste resta sbigottito e commosso — per tutti loro è un miracolo, la prima magia divina vista in vita loro. Chi è stato salvato così vorrà sapere tutto di quella divinità. **È il primo contraccolpo pubblico del ritorno degli dèi, e a Vogler se ne parlerà.**
-
----
-
-### Avanzamento a Livello 3
-
-I personaggi avanzano al **Livello 3** subito dopo la Battaglia di High Hill — non a fine sessione: **assegnalo sul campo**, mentre soccorrono i feriti, così arrivano alla Sessione 02 già aggiornati. *(Il Livello 4 arriverà solo a fine Capitolo 3, sulla barca in fuga da Vogler, in Sessione 02.)*
-
----
-
-### Chiusura — Il Ritorno a Vogler
-
-Sistemati i feriti, Raven e Becklin fanno rientrare tutti al villaggio e chiedono ai personaggi di scortare la gente: il viaggio di ritorno, però, è silenzioso e senza incidenti. A Vogler i leader del villaggio convocano i personaggi al Brass Crab, dove Yalme aveva preparato la sala per una serata di festa.
-
-**Chiudi la sessione qui**, sulla sala addobbata a festa piena di gente ferita e sul prigioniero legato nella rimessa.
-
-> ⚠️ **Attenzione — non giocare l'interrogatorio stasera.** La riunione al Brass Crab e l'**interrogatorio di Svilnt Sunderlit** sono la **FASE 1 della Sessione 02**, scritti per esteso lì. Se li giochi adesso, la prossima sessione parte a vuoto.
->
-> **Se però avanzano 10-15 minuti** e il tavolo ha ancora energia, puoi anticipare il solo interrogatorio come cliff-hanger (il riquadro qui sotto) e poi **saltare la FASE 1 della Sessione 02**, riprendendo dalla ricognizione nel bosco. Decidi tu: non farlo due volte.
-
-<details>
-<summary><strong>Anticipazione opzionale — Interrogatorio del Mercenario</strong></summary>
-
-Il prigioniero è **Svilnt Sunderlit**, guardia di basso rango dell'Ironclad (a meno che i personaggi non abbiano risparmiato Gragonis). Viene portato dentro con petto e braccia legati da una rete da pesca. All'inizio si limita a insultare e a dire il proprio nome. Con il roleplay o una prova di Carisma (Intimidazione/Persuasione) **CD 12**:
-
-- Gragonis voleva uccidere Cudgel e prendersi l'Ironclad
-- Qualche giorno fa Gragonis è andato nel bosco **a ovest del campo** ed è tornato con molto oro
-- Con quell'oro ha pagato i mercenari più fedeli perché attaccassero la milizia durante la rievocazione; poi avrebbe saccheggiato Vogler
-- **Non sa chi gli abbia dato l'oro**
-- Al campo sono rimasti alcuni mercenari, tra cui **Jeyev**, l'altro luogotenente: quelli, crede, sono rimasti fedeli a Cudgel
-
-*Se a essere interrogato è Gragonis:* dice di non sapere chi fosse il committente — solo che era incappucciato e portava **un'armatura nera e rossa**.
-
-[NOTA DM — riservata] "Armatura nera e rossa" = **Dragon Army**. Con Intelligenza (Storia) CD 10 i personaggi possono collegare la descrizione ai draconiani della Sessione 00, che portavano la stessa livrea. È il momento in cui i due fili cominciano a convergere — e rende molto più pesante la ricognizione nel bosco della sessione prossima.
-
-*Raven non si oppone all'uso di magia coercitiva, ma non permette a nessuno di torturare il prigioniero. Cudgel prova a condurre l'interrogatorio ma non regge la rabbia e si sposta a guardare da lontano, intervenendo solo quando sente qualcosa che la fa esplodere.*
-
-</details>
-
----
-
-## RECAP POST-SESSIONE
-
-*Da compilare DOPO aver giocato la sessione.*
+*Compilato dal recap di Fabio. Fonte: `recaps/recap-sessione-01.md`.*
 
 ### Fatti Accaduti
 
-- [ ] Luoghi di Vogler esplorati: ____________
-- [ ] Funerale eseguito: Sì / No
-- [ ] Storie di Ispin raccontate da: ____________
-- [ ] Bakaris confrontato: Sì / No — risultato: ____________
-- [ ] Leedara avvicinata: Sì / No — ha cantato: Sì / No
-- [ ] Darrett incontrato: Sì / No
-- [ ] Lo Scudo Verde accettato da: ____________
-- [ ] Gara di pesca giocata: Sì / No — vincitore: ____________ — Benebog catturato: Sì / No
-- [ ] Scontro 1 (mercenari a cavallo): ____________
-- [ ] Scontro 2 (Gragonis): esito: ____________ — Gragonis vivo/morto: ____________
-- [ ] Party avanzato a Livello 3: Sì / No
-- [ ] Interrogatorio anticipato in questa sessione: Sì / No → *se Sì, salta la FASE 1 della Sessione 02*
-- [ ] Collegamento Dragon Army menzionato ("armatura nera e rossa"): Sì / No
-- [ ] Razak riconosciuto in paese / rivisto Becklin: ____________
-- [ ] Brynja ha riconosciuto lo Scudo Verde: Sì / No
-- [ ] Corin ha trovato il palo del molo: Sì / No
-- [ ] Garrick e Brynja si sono rivisti dopo nove anni: ____________
+- [x] **Luoghi di Vogler esplorati:** villaggio, Brass Crab, molo, piazza, Thornwall Keep, High Hill
+- [x] **Funerale eseguito:** **Sì**
+- [x] **Storie di Ispin raccontate da:** **Razak** — come conobbe Ispin all'eremo del Filo di Rame, l'inverno del voto di silenzio
+- [x] **Bakaris il Giovane confrontato:** **Sì** — Razak lo minaccia e **fallisce**; **Garrick** lo caccia con una prestidigitazione (scoreggia simulata sotto la sedia). **Bakaris incolpa Razak e non sa di Garrick**
+- [x] **Leedara avvicinata:** **Sì, da Garrick** — tentativo di seduzione con tiro alto; non ha ceduto (*"in un altro tempo, forse"*) ma **ha cantato**
+- [x] **Darrett incontrato:** **Sì**
+- [x] **Lo Scudo Verde accettato da:** **BRYNJA**
+- [x] **Gara di pesca giocata:** **Sì** — **persa**; Razak e Asurion trascinati in acqua — **Benebog agganciato da Razak e perso** (non catturato: resta pescabile)
+- [x] **Lord Bakaris (padre) al molo:** molestava **Asurion**, che **lo ha buttato in acqua** davanti a tutti
+- [ ] **Scontro 1 (mercenari a cavallo):** ⏸️ **in corso** — la sessione si è interrotta qui
+- [ ] Scontro 2 (Gragonis): **non giocato** → Sessione 02, FASE 0
+- [ ] **Party avanzato a Livello 3:** **No** — ancora Livello 2
+- [ ] Interrogatorio anticipato: **No** → resta la FASE 1 della Sessione 02, per esteso
+- [ ] Collegamento Dragon Army ("armatura nera e rossa"): **non ancora emerso**
+- [ ] Razak riconosciuto in paese / rivisto Becklin: **[DA CONFERMARE]**
+- [x] **Brynja ha riconosciuto lo Scudo Verde:** **Sì** — e lo porta lei
+- [ ] Corin ha trovato il palo del molo: **[DA CONFERMARE]**
+- [ ] Garrick e Brynja si sono rivisti dopo nove anni: **[DA CONFERMARE]**
+- [x] ⚠️ **Brynja ha lanciato magia divina in pubblico durante la battaglia** — vedi il delta qui sotto
 
 ### Aggiornamenti PNG
 
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
-| Becklin Uth Viharin | Incontrata al funerale; ha consegnato lo Scudo Verde | +2 Amichevole |
-| Darrett Highwater | Incontrato sulla strada per Thornwall Keep; ha vissuto la battaglia | +2 Amichevole |
-| Cudgel Ironsmile | Incontrata al ricevimento; tradita da Gragonis | 0 → +1 Cordiale (se i PG dimostrano valore) |
-| Raven Uth Vogler | Festival; conseguenze della battaglia | +1 Cordiale |
-| Leedara | Prima apparizione misteriosa | 0 Neutrale |
-| Bakaris il Giovane | Fastidio al ricevimento | -1 Sospettoso |
+| Becklin Uth Viharin | Incontrata al funerale; ha consegnato lo Scudo Verde | +2 Amichevole · **+3 verso Razak** |
+| Darrett Highwater | Incontrato sulla strada per Thornwall Keep | +2 Amichevole |
+| Cudgel Ironsmile | Incontrata al ricevimento. **Non sa ancora del tradimento** | +1 Cordiale |
+| Raven Uth Vogler | Festival, gara di pesca | +1 Cordiale |
+| **Leedara** | **Corteggiata da Garrick**; non ha ceduto ma **ha cantato** | **+1 Cordiale verso Garrick** · 0 verso gli altri |
+| **Bakaris il Giovane** | **Umiliato pubblicamente al ricevimento** — incolpa Razak | **-3 verso Razak** · 0 verso gli altri |
+| **Lord Bakaris Uth Estide** | **Trascinato in acqua da Asurion** davanti al molo | **-3 verso Asurion** · -1 verso gli altri |
 
 ### Ricompense
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| 4 Guard + 3 Warhorse — Scontro 1 | 400 XP (25 × 4 + 100 × 3) |
-| Gragonis + 5 Guard — Scontro 2 | 575 XP (450 + 25 × 5) |
-| Abitanti salvati — Medicina/magia | 20 mo cad. per persona salvata |
-| Benebog Rompilenze | Canna da pesca intagliata da 50 mo (dono della sindaca) + fama nel villaggio |
-| Lo Scudo Verde di Ispin | *+1 Shield* |
-| **Avanzamento milestone** | **Livello 3** (Battaglia di High Hill) |
+| **Lo Scudo Verde di Ispin** | *+1 Shield* → **Brynja** |
+| Gara di pesca | Un martin pescatore di legno a testa per i partecipanti |
+| ~~Scontro 1 / Scontro 2 / feriti soccorsi~~ | **Non assegnate** — la battaglia non è finita. Tutto in Sessione 02, FASE 0 |
+| ~~Avanzamento milestone Livello 3~~ | **Non avvenuto** — arriva alla fine della battaglia |
 
 ### Thread Aperti
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Il committente di Gragonis | Armature nere e rosse — chi ha pagato Gragonis? | Alta → si scopre in Sessione 02 |
+| **La battaglia di High Hill** | Interrotta a metà dello Scontro 1. Gragonis non è ancora entrato in campo | **Massima → si riparte da lì** |
+| **La magia divina di Brynja** | Ha curato in pubblico rompendo il patto del gruppo. E porta lo Scudo Verde | **Alta → contraccolpi dalla Sessione 02** |
+| Il committente di Gragonis | Armature nere e rosse — chi ha pagato Gragonis? | Alta → Sessione 02 |
 | L'esercito a nord | Raven, Becklin e Cudgel sanno che c'è qualcosa di grosso là fuori | Alta → Sessione 02 |
+| **Bakaris il Giovane ↔ Razak** | Umiliazione pubblica non vendicata, colpa attribuita alla persona sbagliata | Media → **esplode a Kalaman, Sessione 03** |
+| **Lord Bakaris ↔ Asurion** | Aggredito in pubblico davanti a decine di testimoni | Media → **arma retorica al consiglio, Sessione 03** |
+| **Benebog Rompilenze** | Agganciato e perso da Razak. Ancora là fuori | Bassa → colore ricorrente |
 | Il rotolo per Wyhan | Ancora in tasca — destinazione Kalaman | Media (Cap. 4) |
 | I draconiani della Sessione 00 | Stessa livrea? Stessa armata? | Media → Alta |
-| Leedara | Chi è davvero questa elfa bluastra? | Bassa → tema ricorrente |
-| Becklin e la scatola di legno | Becklin ha qualcosa da chiedere in privato — una scatola nella sua stanza | Alta → Sessione 02 apertura |
+| **Garrick ↔ Leedara** | *"In un altro tempo, forse."* Garrick non sa quanto sia letterale. Di tutto il gruppo, è l'unico che le abbia parlato davvero | Media → **ricompare nel Cap. 4-7, sul filo di Lord Soth** |
+| Becklin e la scatola di legno | Becklin ha qualcosa da chiedere in privato | Alta → Sessione 02 |
+
+---
+
+## 📋 ACCADUTO IN SESSIONE — Delta Piano vs Realtà
+
+| Area | Piano (questo file) | Realtà (13/09/2026) | Impatto |
+|------|--------------------|--------------------|---------|
+| **Durata** | 5 fasi, ~2h15m | Arrivati a metà della FASE 5 | Il combattimento occupa l'apertura della Sessione 02 |
+| **Livello** | 2 → 3 dopo High Hill | **Ancora 2** | Livello 3 in Sessione 02, FASE 0. `party.md` aggiornato a 2 |
+| **XP** | +975 XP dai due scontri | **+0** | Totale fermo a 300 XP (Sessione 00). Irrilevante: il Cap. 3 è a pietra miliare |
+| **Bakaris il Giovane** | Allontanato con CD 12, borbottando | **Umiliato da una prestidigitazione di Garrick**, incolpa Razak | Attitudine **-3 verso Razak**. Nemico personale, non più macchietta. Paga in Sessione 03 |
+| **Lord Bakaris** | Allontanato con CD 14 | **Buttato in acqua da Asurion** in pubblico | Attitudine **-3 verso Asurion**. Ha un torto vero da usare al consiglio di Kalaman |
+| **Gara di pesca** | Opzionale | Giocata e **persa**; due PG in acqua; Benebog agganciato e perso | Benebog resta disponibile. Materiale di colore per il Brass Crab |
+| **Scudo Verde** | Il gruppo decide a chi darlo | **A Brynja** | Chiude il suo arco personale **e** la rende identificabile a vista |
+| **Magia divina** | Il patto del gruppo era di non mostrarla | **Brynja ha curato in pubblico** durante la battaglia | Contraccolpi da costruire — scala completa in Sessione 02, FASE 0 |
+| **Leedara** | Cortese ed evasiva; CD 16 Persuasione per farla cantare | **Corteggiata da Garrick** con un tiro alto: non ha ceduto, ma ha cantato | Attitudine **+1 verso Garrick**. È l'unico del gruppo con cui abbia parlato davvero |
+| **Interrogatorio** | Anticipabile come cliff-hanger opzionale | Non giocato | La FASE 1 della Sessione 02 resta intera |
+
+### Scene da Trasferire a Sessione 02
+
+Trasferite **integralmente e verbatim** in `dm-notes-sessione-02.md` come **FASE 0**:
+
+1. La conclusione dello **Scontro 1** (blocchi Guard e Warhorse, meccaniche del campo, tabella eventi d4)
+2. Lo **Scontro 2 — Arriva Gragonis** e le cinque guardie, con [BT-10]
+3. **Dopo la Battaglia — Il Campo Si Calma** (Cudgel aggredita, il prigioniero, soccorrere i feriti)
+4. **Avanzamento a Livello 3**
+5. **Chiusura — Il Ritorno a Vogler**
+6. L'**interrogatorio**, che in Sessione 02 non è più un'anticipazione opzionale ma la FASE 1 vera e propria
+
+### [TODO DM] — Decisioni rimaste aperte
+
+- [ ] **Stato del combattimento:** recupera dalla scena di Foundry quanti nemici restano in piedi, i PF dei PG e l'ordine di iniziativa
+- [ ] **Ispirazione a Razak** per la storia raccontata al funerale — assegnata o no?
+- [ ] **Corin e il palo del molo:** se non è caduto, l'ultima occasione è la fuga dal molo in Sessione 02 (FASE 5C) — e sarebbe un addio molto più forte
+- [ ] **Garrick e Brynja:** si sono parlati dopo nove anni? Se non è successo, la notte al Brass Crab della Sessione 02 è l'ultimo momento tranquillo che avranno per un pezzo
 
 ---
 
@@ -572,13 +595,13 @@ Il prigioniero è **Svilnt Sunderlit**, guardia di basso rango dell'Ironclad (a 
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — aggiorna livello da 1 → **2** (se non ancora fatto) → poi a **3**; inserisci nomi reali, razze, classi, background; registra XP
-- [ ] `campagna/png-incontrati.md` — aggiorna attitudini: Becklin +2, Darrett +2, Cudgel aggiornata, Raven +1, Leedara 0, Bakaris -1
-- [ ] `campagna/rapporti.md` — compila sezione "Capitolo 02 (Vogler — Cap 3 libro)" con i rapporti formati in questa sessione
-- [ ] `campagna/fazioni.md` — Ironclad Regiment: aggiorna posizione verso il party se Cudgel è diventata più cordiale
-- [ ] `campagna/contesto.md` — aggiorna **Capitolo corrente: da 2 → 3**
-- [ ] `/aggiorna-locations 01` — esegui dopo la sessione per aggiornare il compendio luoghi (Vogler, Thornwall Keep, High Hill, Brass Crab)
-- [ ] `/prep-sessione 02` — prepara la Sessione 02 prima della prossima (Cap. 3 seconda metà: messaggero Dragon Army, fuga da Vogler, battaglia finale)
+- [x] `campagna/party.md` — livello a **2** (non 3: la battaglia non è finita), XP 300, Scudo Verde assegnato a Brynja, patto sulla magia divina registrato
+- [x] `campagna/png-incontrati.md` — attitudini aggiornate: Becklin +2/+3 Razak, Darrett +2, Cudgel +1, Raven +1, **Leedara +1 verso Garrick**, **Bakaris il Giovane -3 verso Razak**, **Lord Bakaris -3 verso Asurion**
+- [x] `campagna/rapporti.md` — compilate le sezioni "Capitolo 01 (Preludio)" e "Capitolo 02 (Vogler)"
+- [x] `campagna/fazioni.md` — Ironclad Regiment aggiornato (Cudgel +1; il tradimento di Gragonis non è ancora emerso)
+- [x] `campagna/contesto.md` — **Capitolo corrente: 3** · stato campagna aggiornato
+- [x] `/aggiorna-locations 01` — compendio luoghi creato: Vogler, Brass Crab, molo, piazza, Thornwall Keep, High Hill
+- [x] `dm-notes-sessione-02.md` — aggiornata con la **FASE 0** (conclusione di High Hill) e i delta di questa sessione
 
 ---
 

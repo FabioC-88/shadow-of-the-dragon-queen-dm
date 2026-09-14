@@ -13,16 +13,42 @@
 
 ---
 
+## PNG Capitolo 2 — Prelude to War (i preludi)
+
+### Rhys
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Giovane contadino dell'Hinterlund |
+| **Prima Apparizione** | ✅ **Sessione 00** — *Scales of War*, sulla strada per Vogler |
+| **Affiliazione** | Nessuna |
+| **Tratto** | Spaventato e grato in modo imbarazzato; non ha mai visto niente del mondo |
+| **Attitudine Attuale** | **+2 Amichevole** |
+| **Note** | Ha trovato il carro rovesciato e i tre Cavalieri di Solamnia morti, e ha urlato: è così che il party è arrivato sui draconiani. Salvato dal gruppo. **Riutilizzabile:** può essere a Vogler per il festival e tra i civili da evacuare in Sessione 02 — se lo salvano di nuovo, a Kalaman diventa un alleato devoto |
+
+---
+
+### Rovina
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Maga delle Vesti Rosse, custode del Barb |
+| **Prima Apparizione** | ✅ **Sessione 00** — *Eye in the Sky*, la Notte dell'Occhio |
+| **Affiliazione** | Mages of High Sorcery |
+| **Tratto** | Capelli grigi, vesti rosse; valuta le persone e non spiega i criteri |
+| **Attitudine Attuale** | **+2 Amichevole verso Garrick** · nessun contatto con gli altri |
+| **Note** | Ha sottoposto Garrick alla prova della Sala della Vista e lo ha approvato. Da lei arrivano il **rotolo sigillato per Wyhan** e lo spellbook dei Magi. Gli altri quattro PG non l'hanno mai vista |
+
+---
+
 ## PNG Capitolo 3 — When Home Burns (Vogler)
 
 ### Ispin Greenshield (Defunto)
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Avventuriero e mercante, anello di unione del party |
-| **Prima Apparizione** | Capitolo 3 (funerale) — già morto |
+| **Prima Apparizione** | ✅ **Sessione 01** — il suo funerale sul molo di Vogler |
 | **Affiliazione** | Indipendente; ex compagno di Becklin e Cudgel |
-| **Tratto** | Scudo verde distintivo (forse magico); amava le storie di viaggio |
-| **Note** | Il suo funerale a Vogler è il gancio che raduna il party. Ogni PG lo conobbe in modo diverso. È stato amico di Becklin Uth Viharin e Cudgel Ironsmile |
+| **Tratto** | Scudo verde distintivo (*+1 shield*); amava le storie di viaggio |
+| **Note** | Il suo funerale a Vogler è il gancio che ha radunato il party. Ogni PG lo conobbe in modo diverso. ✅ **Funerale celebrato in Sessione 01**: corpo affidato al Vingaard su una barca, poi il ricevimento al Brass Crab. **Razak ha raccontato in pubblico** l'inverno in cui lo accudì all'eremo sotto voto di silenzio senza rivolgergli mai la parola. **Lo Scudo Verde è passato a Brynja**, cioè esattamente alla persona a cui quello scudo aveva salvato la vita |
 
 ---
 
@@ -30,11 +56,11 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Cavaliere della Corona, Comandante Thornwall Keep |
-| **Prima Apparizione** | Capitolo 3 (lettera di invito al funerale; presenza a Vogler) |
+| **Prima Apparizione** | ✅ **Sessione 01** — funerale di Ispin, Vogler (lettera d'invito già in Sessione 00) |
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
-| **Attitudine Iniziale** | +1 Cordiale (chi arriva al funerale per rispetto a Ispin guadagna la sua fiducia) |
-| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (scudiero da 4 anni a Thornwall Keep, in congedo da 10 mesi) — è lei a firmare la lettera che lo richiama a Vogler |
+| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) · **+3 Alleato verso Razak** |
+| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
@@ -48,64 +74,117 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Scudiero di Becklin; aspirante cavaliere |
-| **Prima Apparizione** | Capitolo 3 (Vogler) |
+| **Prima Apparizione** | ✅ **Sessione 01** — sulla strada per Thornwall Keep |
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
-| **Attitudine Iniziale** | +1 Cordiale |
+| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) |
 | **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. Vedi `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | +1 Cordiale | — |
+| Razak | **+2 Amichevole** | Si sono incontrati per la prima volta in Sessione 01, sulla strada per Thornwall Keep. Darrett ha passato due anni a sentirsi raccontare com'era il suo predecessore |
 
 ---
 
 ### Cudgel Ironsmile
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Capo dei mercenari Ironclad Regiment |
-| **Prima Apparizione** | Capitolo 3 (accampamento mercenari, Vogler) |
-| **Affiliazione** | Ironclad Regiment (nani mercenari) |
-| **Tratto** | Nanico, temprato dalla guerra, diretto, rispetta la forza e l'onestà |
-| **Attitudine Iniziale** | 0 Neutrale (cresce se dimostrano valore o pagano bene) |
-| **Note** | Ex compagno di Ispin. Inizialmente assoldato a Vogler; può diventare alleato nel Northern Wastes (Cap 5). Porta l'Ironclad Regiment |
+| **Ruolo** | Capitana dei mercenari del Reggimento Ironclad |
+| **Prima Apparizione** | ✅ **Sessione 01** — ricevimento funebre al Brass Crab |
+| **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
+| **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
+| **Attitudine Attuale** | **+1 Cordiale** (dopo la Sessione 01) |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro della Dragon Army e ha dato ordine di ucciderla durante la rievocazione. ⚠️ **Alla fine della Sessione 01 non lo sa ancora**: lo scopre in Sessione 02, FASE 0. Può diventare alleata nel Northern Wastes (Cap. 5) |
 
 ---
 
 ### Raven Uth Vogler
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Sindaco di Vogler |
-| **Prima Apparizione** | Capitolo 3 |
+| **Ruolo** | Sindaca di Vogler |
+| **Prima Apparizione** | ✅ **Sessione 01** — Festival del Kingfisher |
 | **Affiliazione** | Vogler |
 | **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
-| **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili |
+| **Attitudine Attuale** | **+1 Cordiale** |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ⚠️ In Sessione 02 è lei a porre pubblicamente a Brynja la domanda sul ritorno degli dèi |
 
 ---
 
-### Bakaris Uth Estide
+### Lord Bakaris Uth Estide — *il padre*
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Nobile solamnico in "esilio" a Vogler |
-| **Prima Apparizione** | Capitolo 3 (Vogler) |
+| **Prima Apparizione** | ✅ **Sessione 01** — sul molo, ubriaco, durante la gara di pesca |
 | **Affiliazione** | Solamnia (nobile, ma principalmente sé stesso) |
-| **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi |
-| **Attitudine Iniziale** | 0 Neutrale (si mostra cordiale ma non è fidato) |
-| **Note** | [NOTA DM — riservata] Bakaris ha ambizioni proprie che lo portano a potenziali tradimenti. Non fermatelo troppo presto — il suo arco narrativo si sviluppa nel Cap 4 a Kalaman |
+| **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi. Comicamente vigliacco: tutto fiato e parole gonfie |
+| **Attitudine Attuale** | **-3 Ostile verso Asurion** · -1 Sospettoso verso gli altri |
+| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Adesso ha anche un torto vero e verificabile da raccontare**, con decine di testimoni: aspettati che lo usi come prima mossa. Il suo arco continua per tutto il Cap. 4 |
+
+---
+
+### Bakaris "il Giovane" Uth Estide — *il figlio*
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Figlio di Lord Bakaris; bullo con la spada |
+| **Prima Apparizione** | ✅ **Sessione 01** — disturbatore al ricevimento funebre, Brass Crab |
+| **Affiliazione** | Solamnia (nobile); dipende in tutto dalla ricchezza del padre |
+| **Tratto** | Arrogante, meschino, collerico. Dà un valore smisurato al proprio aspetto e alla propria prestanza. **Detesta essere chiamato "il Giovane"** |
+| **Attitudine Attuale** | **-3 Ostile verso Razak** · 0 Neutrale verso gli altri |
+| **Note** | ⚠️ **Sessione 01: umiliato pubblicamente al ricevimento.** Razak lo ha minacciato senza riuscirci; poi **Garrick** ha simulato con una prestidigitazione una sonora scoreggia sotto la sua sedia, e tutta la locanda ha riso. **Non si è accorto di Garrick: incolpa Razak, e basta.** [NOTA DM — riservata] Ha già ucciso un uomo in duello a Estwilde — è il motivo del trasferimento a Vogler — e fantastica di conquistare il rispetto con la punta della spada. Di tutte le cose che gli potevano capitare, **essere deriso è la peggiore**. Ricompare nel cortile di Castle Kalaman in Sessione 03: non sta più facendo il bullo per abitudine, sta cercando Razak. **Non rivelargli che è stato Garrick** a meno che non sia un giocatore a farglielo scoprire |
 
 ---
 
 ### Leedara
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Spirito/fantasma elfa; sacerdotessa dell'era pre-Cataclisma |
-| **Prima Apparizione** | Capitolo 3–4 (apparizioni misteriose) |
-| **Affiliazione** | Spiriti legati a Lord Soth; la sua presenza sfida la sua maledizione |
-| **Tratto** | Eterica, dolente, determinata; odia Lord Soth per ciò che ha fatto |
-| **Attitudine Iniziale** | 0 Neutrale (misteriosa; non ostile ai PG) |
-| **Note** | [NOTA DM — riservata] Leedara è una delle spiriti che tormenta Lord Soth cantando la sua maledizione. Può fornire informazioni su Soth e sulla sua debolezza |
+| **Ruolo** | Spirito elfico; sacerdotessa dell'era pre-Cataclisma. Si presenta come cantante |
+| **Prima Apparizione** | ✅ **Sessione 01** — ai margini del ricevimento funebre, Brass Crab |
+| **Affiliazione** | Spiriti legati a Lord Soth; la sua presenza sfida la maledizione di lui |
+| **Tratto** | Carnagione bluastra, eterea, dolente, determinata. Cortese ed evasiva su tutto |
+| **Attitudine Attuale** | **+1 Cordiale verso Garrick** · 0 Neutrale verso gli altri |
+| **Note** | ⚠️ **Sessione 01: Garrick ha provato a sedurla**, con un tiro molto alto. Non ha ceduto, ma gli ha risposto che *«in un altro tempo, forse, avrebbe ceduto alle sue lusinghe — ma non è il momento giusto»*, e **ha cantato**: una canzone silvanesti, poi si è ritirata. [NOTA DM — riservata] Leedara è **morta durante il Cataclisma, trecento anni fa**: la frase è letteralmente vera, e Garrick non lo sa. È uno degli spiriti che tormentano Lord Soth cantandogli la maledizione, ed è a Vogler perché Soth si sta muovendo nell'area. **Di tutto il gruppo, Garrick è l'unico con cui abbia parlato davvero** — quando ricompare (Cap. 4-7) è a lui che si rivolge per prima. Può fornire informazioni su Soth e sulla sua debolezza |
+
+#### Attitudine PG
+| PG | Attitudine | Note |
+|----|-----------|------|
+| Garrick | +1 Cordiale | L'ha corteggiata al funerale e l'ha convinta a cantare |
+
+---
+
+### Gragonis
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Mezzo-ogre, luogotenente di Cudgel — **il traditore di High Hill** |
+| **Prima Apparizione** | ⏸️ **Sessione 02, FASE 0** — non è ancora entrato in campo |
+| **Affiliazione** | Reggimento Ironclad (formalmente); **comprato dal Red Dragon Army** |
+| **Tratto** | Enorme, ascia bipenne d'acciaio, nessuna intenzione di ritirarsi |
+| **Attitudine Attuale** | **-3 Ostile** |
+| **Note** | ⚠️ **È un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Agenti della Dragon Army lo hanno contattato nel bosco a ovest del campo e hanno comprato la sua fedeltà. Con quell'oro **ha pagato i mercenari**: l'intera compagnia sulla collina sa cosa sta facendo. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad. Blocco statistiche in `sessioni/dm-notes-sessione-02.md`, FASE 0, e in `scontri-adattati/capitolo-03.md`. **Se i personaggi lo risparmiano**, è lui il prigioniero dell'interrogatorio |
+
+---
+
+### Jeyev Veldrews
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | L'altro luogotenente di Cudgel |
+| **Prima Apparizione** | Sessione 02, FASE 5D (al molo) — nominato già nell'interrogatorio |
+| **Affiliazione** | Reggimento Ironclad |
+| **Tratto** | Arriva con l'elmo di Becklin e una storia da raccontare |
+| **Attitudine Attuale** | Non ancora incontrato |
+| **Note** | Rimasto al campo con i mercenari **non** comprati da Gragonis. [NOTA DM — riservata] La sua fedeltà è ambigua per scelta: è il DM a decidere se sia un testimone onesto del destino di Becklin o un secondo traditore comprato. Vedi la tabella delle opzioni in `dm-notes-sessione-02.md`, FASE 5D |
+
+---
+
+### Svilnt Sunderlit
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Guardia di basso rango dell'Ironclad — **il prigioniero** |
+| **Prima Apparizione** | ⏸️ **Sessione 02, FASE 0/1** — catturato alla fine della battaglia |
+| **Affiliazione** | Reggimento Ironclad (pagato da Gragonis) |
+| **Tratto** | Insulta finché può, poi parla |
+| **Attitudine Attuale** | **-2 Diffidente** |
+| **Note** | Legato con una rete da pesca e interrogato al Brass Crab (Sessione 02, FASE 1). Sa del piano di Gragonis e dell'oro, **ma non chi lo abbia pagato**. Se i personaggi hanno risparmiato Gragonis, il prigioniero è lui al posto di Svilnt |
 
 ---
 
