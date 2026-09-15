@@ -35,6 +35,10 @@ I personaggi hanno capito da soli di essere **tra i primi a portare magia divina
 
 → **Scala completa dei contraccolpi** in `sessioni/dm-notes-sessione-02.md`, FASE 0, sezione *"Il contraccolpo della magia divina"*. Non è un malus meccanico: Brynja lancia quello che vuole. È che il mondo comincia a reagire, e a un certo punto lo fa anche il nemico.
 
+**La scena grossa è la notte stessa.** A Vogler non c'è un sacerdote da trecento anni: entro un'ora dal rientro da High Hill, fuori dal Brass Crab si forma una coda che non è fatta solo dei feriti della battaglia — arriva anche chi ha una madre allettata da due inverni e chi ha un dolore al fianco da sei anni, perché per la prima volta **si può chiedere**. Sei incantesimi contro trenta feriti: i numeri non tornano, e la gente rifiuta le cure ordinarie per aspettare quelle divine. Scena giocabile con orologio del malumore in `dm-notes-sessione-02.md`, FASE 1, *"La Coda fuori dal Brass Crab"*.
+
+⚠️ **La posta, che i giocatori non sanno ancora:** domani sera Vogler brucia e si scappa sulle barche. **Chi resta con una gamba rotta stanotte, domani al molo non ci arriva.**
+
 **Simmetria da non sprecare:** anche **Corin** ha ricevuto un dio quella notte. Se lui il patto lo sta rispettando, il disaccordo tra loro due si scrive da solo.
 
 ### Inimicizie personali aperte
