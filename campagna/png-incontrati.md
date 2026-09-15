@@ -119,7 +119,7 @@
 | **Affiliazione** | Solamnia (nobile, ma principalmente sé stesso) |
 | **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi. Comicamente vigliacco: tutto fiato e parole gonfie |
 | **Attitudine Attuale** | **-3 Ostile verso Asurion** · -1 Sospettoso verso gli altri |
-| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Adesso ha anche un torto vero e verificabile da raccontare**, con decine di testimoni: aspettati che lo usi come prima mossa. Il suo arco continua per tutto il Cap. 4 |
+| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. **Sessione 02, la notte della coda:** prova a comprare la precedenza sulle cure di Brynja, offrendo oro perché passi prima da Westide House — dove non c'è nessun malato. Rifiutato, comincia a dire in giro che la chierica sceglie chi vive. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Si porta dietro tre torti**, due veri nella lettera e uno inventato: il tuffo nel fiume, l'umiliazione del figlio, e *«mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no»*. Quest'ultima al consiglio suona benissimo e non si smonta facilmente. Il suo arco continua per tutto il Cap. 4 |
 
 ---
 

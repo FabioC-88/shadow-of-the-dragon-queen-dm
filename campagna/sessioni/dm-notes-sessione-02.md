@@ -5,7 +5,7 @@
 **Avanzamento:** Milestone narrativo (cap. 3 — High Hill conclusa, poi fuga da Vogler completata)
 **XP accumulati a inizio sessione:** 300 XP (dalla Sessione 00). *Contabilità priva di effetti: il Cap. 3 avanza a pietra miliare.*
 **Obiettivo sessione:** Concludere la Battaglia di High Hill; scoprire l'esercito nemico; ricevere il messaggero della Dragon Army; organizzare la fuga di Vogler; sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme.
-**Durata stimata:** ~3h (6 fasi: 35 + 20 + 20 + 30 + 20 + 60 min) — *se la serata è corta, taglia la ricognizione nel bosco della FASE 2, non la FASE 0*
+**Durata stimata:** ~3h15m (6 fasi: 35 + 35 + 20 + 30 + 20 + 60 min) — *se la serata è corta, taglia la ricognizione nel bosco della FASE 2, non la FASE 0; della coda fuori dal Brass Crab c'è una versione corta da 5 minuti*
 **Sessione precedente:** dm-notes-sessione-01.md — Cap. 3: When Home Burns, prima metà (righe 1189–1672)
 
 > ⚠️ **QUESTA SESSIONE SI APRE A METÀ COMBATTIMENTO.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. La **FASE 0** contiene tutta la battaglia mancante — Gragonis compreso — ed è stata trasferita qui dalla Sessione 01.
@@ -15,7 +15,7 @@
 > **Prima di cominciare:** recupera dalla scena di Foundry quanti nemici sono in piedi, i PF dei personaggi e l'ordine di iniziativa.
 
 > 🔴 **Tre eredità della Sessione 01 da tenere a mente per tutta la serata:**
-> 1. **Brynja ha usato magia divina in pubblico** e porta lo **Scudo Verde di Ispin**. Scala dei contraccolpi in FASE 0, sezione *"Il contraccolpo della magia divina"* — culmina nella **FASE 4**, con il messaggero.
+> 1. **Brynja ha usato magia divina in pubblico** e porta lo **Scudo Verde di Ispin**. Scala dei contraccolpi in FASE 0, sezione *"Il contraccolpo della magia divina"*: la scena grossa è **la coda notturna fuori dal Brass Crab** (FASE 1), e culmina nella **FASE 4** con il messaggero.
 > 2. **Bakaris il Giovane odia Razak** (umiliato in pubblico al ricevimento; incolpa lui, non Garrick che è stato il vero autore).
 > 3. **Lord Bakaris odia Asurion**, che lo ha buttato nel fiume davanti a mezzo villaggio. Entrambi i Bakaris compaiono in FASE 3 e FASE 5A, e **sopravvivono**: si rivedono a Kalaman in Sessione 03.
 
@@ -210,7 +210,7 @@ Saggezza (Medicina) CD 12 → strappa alla morte un abitante ferito. Stesso effe
 | # | Quando | Cosa succede | Costo reale |
 |---|--------|--------------|-------------|
 | **1** | **Ora, FASE 0** — sul campo | Chi la vede curare non ringrazia: **si inginocchia**. Qualcuno le tocca l'orlo del mantello. Una donna le porta in braccio un figlio che è già morto e le chiede di rifarlo | **Non può.** È il primo prezzo, e non è un malus: è scoprire che a chi fa miracoli si chiede l'impossibile, e che dire di no fa male |
-| **2** | **FASE 1** — Brass Crab, la sera | Vogler lo sa entro due ore. Al Brass Crab non la guardano più come una forestiera armata. **Raven le fa la domanda davanti a tutti:** *«Gli dèi sono tornati? Perché se sono tornati, io domani mattina devo dire qualcosa alla mia gente.»* Non è teologia: la sindaca ha bisogno di una risposta da dare | **Non può più scegliere se essere pubblica.** Lo è già. Può solo scegliere cosa dire |
+| **2** | **FASE 1** — Brass Crab, la sera e la notte | Vogler lo sa entro due ore. **Raven le fa la domanda davanti a tutti:** *«Gli dèi sono tornati? Perché se sono tornati, io domani mattina devo dire qualcosa alla mia gente.»* Poi, fuori dalla locanda, **si forma la coda** — feriti di High Hill, ma anche madri allettate da due inverni e dolori vecchi di sei anni, perché stanotte per la prima volta in trecento anni si può chiedere | **Non può più scegliere se essere pubblica.** E i numeri non tornano: sei incantesimi contro trenta feriti. ⚠️ **Scena completa in FASE 1, *"La Coda fuori dal Brass Crab"*** |
 | **3** | **FASE 4** — il messaggero alla Porta del Fiume | ⚠️ **Il vero contraccolpo.** Il messaggero porta un ultimatum firmato **Belephaion, Voce di Takhisis** — un sacerdote, non un generale. La dottrina ufficiale dell'Armata è che l'unica divinità tornata sia Takhisis. **Una chierica di Mishakal che guarisce in pubblico non è un fastidio: è un'informazione che vale un rapporto** | Vedi il riquadro qui sotto |
 | **4** | **Cap. 4 in poi** — Kalaman | A Kalaman la magia divina è ancora leggenda. Brynja non sarà "un'avventuriera": sarà *quella di Vogler*. Porte che si aprono da sole, e altre che si chiudono | Protezione e bersaglio insieme. Non è una punizione: è **peso** |
 
@@ -282,6 +282,8 @@ Raven guida la conversazione. Pone queste priorità, nell'ordine:
 > **Come giocarla:** non risolverla tu. Fai la domanda, poi **aspetta**. Qualunque cosa risponda Brynja va bene — anche il silenzio. Quello che conta è che la giocatrice senta che la stanza è in attesa, e che d'ora in poi la magia divina la userà sapendo cosa costa.
 >
 > **Se il gruppo aveva un patto** — e ce l'aveva — questo è il momento in cui viene fuori, se qualcuno lo tira fuori. Non arbitrare: se nessuno parla, basta che **Becklin** le dica *«hai fatto bene»* con la faccia di una a cui non torna del tutto.
+>
+> ➡️ **La domanda di Raven è solo l'apertura.** Il peso vero del Gradino 2 arriva più tardi, stanotte, quando fuori dal Brass Crab si forma la coda: vedi **"La Coda fuori dal Brass Crab"** in fondo a questa fase.
 
 *[NOTA DM — riservata] Lasciate che i personaggi pongano le loro domande e propongano piani. Raven spinge poi verso l'interrogatorio del mercenario catturato, che è tenuto in una rimessa vicina. Cudgel vuole condurlo lei ma fa fatica a non esplodere — è meglio se i personaggi prendono in mano la situazione.*
 
@@ -322,6 +324,140 @@ Quando l'interrogatorio è finito, Svilnt viene posto sotto guardia nella rimess
 > *"Torno all'alba,"* è tutto ciò che dice prima di scomparire nel buio.
 
 Raven è curiosa di sapere di più sull'incontro di Gragonis nel bosco a ovest del villaggio. Vorrebbe mandare cacciatori locali in esplorazione al mattino — ma accoglierà con gratitudine se i personaggi si offrono di farlo prima.
+
+---
+
+### ⚠️ La Coda fuori dal Brass Crab — *il vero peso del Gradino 2*
+
+*~15-20 minuti, oppure tre beat sparsi nella serata. Vedi "Come dosarla" in fondo.*
+
+#### Contesto per il DM
+
+Vogler non ha un sacerdote da trecento anni. Ossa rotte, febbri e parti li ha sempre gestiti chi sapeva di erbe e chi sapeva tirare un braccio a posto — e si moriva lo stesso, con una certa regolarità, e la gente ci aveva fatto l'abitudine.
+
+Stanotte a Vogler c'è **una donna che rimette in piedi i moribondi guardandoli**.
+
+La notizia attraversa il villaggio più in fretta dei feriti stessi. Entro un'ora dal rientro da High Hill, fuori dal Brass Crab c'è gente. Entro due, è una coda. Entro tre, qualcuno ha portato una coperta e si è seduto per terra, perché ha capito che dormirà lì.
+
+**Non sono solo i feriti della battaglia.** Arriva anche chi ha una madre allettata da due inverni, chi ha un figlio che non cammina bene dalla nascita, chi ha un dolore al fianco da sei anni. Sono venuti perché stanotte, per la prima volta da trecento anni, **si può chiedere**.
+
+#### I numeri non tornano, ed è il punto
+
+| | |
+|---|---|
+| **Feriti gravi da High Hill** | una trentina — di questi, 8-10 non passano la notte senza qualcosa |
+| **Contusi e feriti leggeri** | il doppio |
+| **Malati cronici e vecchi dolori arrivati in coda** | una dozzina, e crescono |
+| **Quello che Brynja può lanciare in una giornata** | sei incantesimi, più o meno |
+
+Fai il conto al tavolo se serve, ma non serve: **lo capiscono da soli quando la coda non si accorcia.**
+
+> ⚠️ **Il dettaglio che fa girare tutta la scena: la gente rifiuta le cure normali per aspettare quelle divine.**
+>
+> C'è chi ha una gamba che va fasciata adesso e dice di no, aspetto lei. C'è una madre che toglie il figlio dalle mani di chi lo stava medicando per rimetterlo in fila. **Guarigione magica e un buon impacco fanno la stessa cosa** — ma uno è un miracolo e l'altro no, e nessuno in quella coda ragiona in termini di risultati.
+>
+> È da qui che arriva il morto, se ci arriva. Non da una rissa: da qualcuno che ha aspettato il proprio turno invece di farsi curare da chi poteva.
+
+#### La posta vera: chi curi stanotte è chi corre domani
+
+**[NOTA DM — riservata]** Non dirlo al tavolo, ma tienilo fermo tu: **domani sera Vogler brucia e la gente scappa sulle barche.** Chi stanotte resta con una gamba rotta, domani non arriva al molo.
+
+Questo trasforma la scena da "quanta gente riesci a far contenta" a **"chi metti in condizione di sopravvivere"**, e lo fa senza che nessuno debba spiegarlo. Se al tavolo qualcuno lo intuisce da solo, tanto meglio; se no, lo capiranno domani sera, ed è anche meglio.
+
+*Traduzione pratica per te: segnati due o tre nomi o facce fra quelli curati stanotte, e altrettanti fra quelli rimandati a domani. Domani sera, durante l'evacuazione, falli ricomparire — nella barca o sulla riva sbagliata.*
+
+---
+
+#### Orologio del Malumore — 4 tacche
+
+Non è un contatore da mostrare ai giocatori. È il tuo termometro: fai avanzare una tacca ogni volta che succede una delle cose a sinistra, e tornare indietro di una quando i personaggi fanno una delle cose a destra.
+
+| Avanza di 1 quando… | Torna indietro di 1 quando… |
+|---|---|
+| Brynja finisce gli slot e la coda non si è accorciata | Qualcuno **organizza la fila** — ordine di arrivo o ordine di gravità, purché sia dichiarato ad alta voce |
+| Qualcuno salta la fila (o la gente crede che sia successo) | **Corin** cura con il kit da guaritore e le erbe, togliendo pressione senza magia divina |
+| Brynja va a dormire, o anche solo si allontana senza dire niente | Un personaggio **resta fuori con loro** invece di stare dentro al caldo |
+| Qualcuno viene rifiutato senza spiegazione | **Raven** viene chiamata e mette la propria autorità sulla fila |
+| Lord Bakaris ci mette bocca (vedi sotto) | Viene detto **chiaramente quanti ne può fare stanotte** — la gente regge l'attesa, non regge di non sapere |
+
+**Tacca 1 — Gratitudine.** Ordinata, quasi solenne. Portano regali che non si possono permettere: un pesce, una coperta buona, un anello. Qualcuno si toglie il cappello. Nessuno spinge.
+
+**Tacca 2 — L'attesa.** Sono passate ore. Si formano capannelli, si comincia a contare chi è entrato e chi no. La prima frase detta a voce alta perché la senta qualcun altro: *"Quello è entrato prima di mio padre, e mio padre è qui da prima del tramonto."*
+
+> *Fuori si è alzata la nebbia dal fiume. Qualcuno ha acceso un fuoco tra le cataste di reti, e adesso ci sono tre fuochi. Non è un accampamento: è gente seduta per terra che aspetta, con addosso le coperte prese da casa. Ogni volta che la porta del Brass Crab si apre, si girano tutti insieme.*
+
+**Tacca 3 — La rissa.** Basta una spinta. Due famiglie che si contendono il posto successivo, e in dieci secondi ci sono dentro in otto.
+**L'ironia da giocare fino in fondo:** la rissa **produce nuovi feriti**. Un naso rotto, un polso, qualcuno che cade sul fuoco. La coda si allunga da sola. *Se i personaggi ci mettono un attimo a capirlo, lascia che sia Cudgel a dirlo — e a dirlo male.*
+
+**Tacca 4 — Il peggio.** Scegline **uno**, non due:
+
+- **Il morto in coda.** Qualcuno muore aspettando il proprio turno — uno che si era rifiutato di farsi medicare da chi poteva. **Nessuno accusa Brynja ad alta voce.** Si fa silenzio, e poi la fila si ricompone. *È molto peggio di una rissa, ed è la versione che consiglio.*
+- **Il rapimento per disperazione.** Tre uomini la aspettano fuori e cercano di portarla via — non per farle del male: hanno una madre che sta morendo dall'altra parte del villaggio e non riescono a spostarla. Sono pescatori, sono terrorizzati, e si arrendono al primo che alza la voce. *Nessuno di loro va trattato come un criminale.*
+- **L'accusa.** Parte la voce che stia scegliendo chi vive e chi muore — e che scelga in base a chi la paga. Falsa. Non si spegne. *Se hai tirato in mezzo Lord Bakaris, questa arriva da lì.*
+
+> ⚠️ **Cosa NON fare: la folla inferocita che assalta la chierica.** È il modo più veloce di trasformare Vogler in un villaggio di ingrati, e domani sera devono essere gente per cui ci si dispiace. **Nessuno qui odia Brynja.** La vogliono, che è peggio.
+
+---
+
+#### Ogni PG ha una leva — non è solo la scena di Brynja
+
+| PG | Cosa può fare | Perché tocca proprio a lui |
+|----|---------------|---------------------------|
+| **Corin** | Cura con il **kit da guaritore** e le erbe (talento *Healer*), e toglie metà del peso dalla coda | ⚠️ **È l'unico che possa fare la differenza senza svelarsi** — ma per farlo davvero bene dovrebbe usare Habbakuk, e allora sono due. *Scelta sua. Non decidere tu* |
+| **Garrick** | **Fa l'elenco.** Nomi, ordine, gravità, chi è già stato trattato — che è letteralmente il suo mestiere | La gente accetta una lista scritta molto più di una decisione presa a voce. È anche la prima volta che il tavolo lo vede fare la cosa per cui è bravo *(vedi frizione #3 in `rapporti.md`)* |
+| **Razak** | Tiene l'ordine **senza armi e senza minacce** | L'Ordine di Majere è sopravvissuto trecento anni **senza** dèi. Di tutti, è quello che ha l'opinione più scomoda su una fila di gente che aspetta un miracolo — e potrebbe anche non dirla |
+| **Asurion** | **Triage a vista:** capisce chi sta davvero morendo e chi sta spingendo | Giudica le persone da come si muovono. E se qualcuno salta la fila, si è già visto ieri come reagisce |
+| **Brynja** | Decide. Sei incantesimi, trenta feriti | — |
+
+---
+
+#### Il riposo lungo — la scelta della notte
+
+Brynja recupera gli incantesimi solo con un **riposo lungo**. Fuori c'è gente che dorme per terra in attesa che la porta si riapra.
+
+Metti la scelta in chiaro, senza trucchi:
+
+- **Cura tutta la notte** → salva altre persone, e domani affronta la caduta di Vogler con gli slot già consumati
+- **Dorme** → recupera tutto, e la mattina dopo il villaggio sa che ha dormito mentre loro aspettavano. Qualcuno non c'è più
+
+> ✅ **La terza via esiste, ed è il premio per aver giocato bene la scena:** se l'Orologio del Malumore è a **tacca 1** quando cala la notte — fila organizzata, Raven coinvolta, numeri dichiarati, Corin in appoggio — allora **la gente accetta di aspettare l'alba**. Brynja riposa, non muore nessuno, e al mattino riparte con gli slot pieni.
+>
+> Non è generosità: è che una fila ordinata a cui è stato detto la verità **regge**. Una fila lasciata a sé stessa no. Se arrivano a capirlo, hanno capito la scena.
+
+---
+
+#### Lord Bakaris ci mette bocca
+
+**Non è al Brass Crab, ma di una cosa così viene a sapere entro un'ora.** Si presenta e fa l'unica cosa che sa fare: **prova a comprare la precedenza.** Offre oro perché Brynja passi prima da Westide House — non c'è nessun malato a Westide House; c'è lui che vuole poter dire di essere stato il primo.
+
+**Se rifiutata l'offerta** — e va rifiutata — comincia a dirlo in giro, forte, davanti alla coda: che la donna sceglie, che non è chiaro con che criterio, che a lui almeno non ha dato una risposta.
+
+> **[NOTA DM — riservata] Questo è il terzo torto che si porta a Kalaman, e il più velenoso.** Ha già il figlio umiliato da quella che crede sia opera di Razak, e il tuffo nel Vingaard per mano di Asurion. Ora aggiunge una frase che al consiglio cittadino suona benissimo e non si smonta facilmente: *«Mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no.»*
+>
+> È falso nel senso, vero nella lettera. Preparati: in Sessione 03 (`dm-notes-sessione-03.md`, FASE 4) lo tira fuori davanti a Governor Miat.
+
+*Se al tavolo qualcuno lo zittisce sul posto: Carisma (Intimidazione o Persuasione) **CD 14**. Riuscito, se ne va e l'Orologio non avanza. Fallito, avanza di 1 e lui resta a parlare col vicino di fila.*
+
+---
+
+#### La mattina dopo
+
+Qualunque sia finita la notte, all'alba fuori dal Brass Crab c'è ancora qualcuno. Meno, ma c'è.
+
+> *Il fuoco tra le reti è spento da un pezzo. Sono rimasti in sei o sette, tutti seduti nello stesso modo, con le mani in mezzo alle ginocchia. Nessuno bussa. Quando la porta si apre si alzano tutti insieme, e uno di loro si toglie il cappello prima ancora di sapere chi sta uscendo.*
+
+*Da qui riparte la FASE 2. Se il party va in ricognizione nel bosco, qualcuno dalla coda chiede dove stanno andando — e quanto ci mettono a tornare.*
+
+---
+
+#### Come dosarla
+
+**La serata è già piena** (FASE 0 aggiunta, interrogatorio, partenza di Cudgel). Due modi:
+
+- **Versione lunga (~20 min):** giocala come scena vera, subito dopo la partenza di Cudgel. Vale la pena se il tavolo ha raccolto il Gradino 2 e vuole starci dentro.
+- **Versione corta (~5 min, consigliata se siete lunghi):** tre beat e basta. **(1)** La coda che si forma mentre parlano dentro — una riga, di sfondo. **(2)** La rissa che interrompe la conversazione. **(3)** La scelta sul riposo lungo, prima di chiudere la notte. L'Orologio lo tieni comunque, solo più veloce.
+
+**Non tagliarla del tutto.** È il momento in cui il ritorno degli dèi smette di essere una bella notizia e diventa un problema di tutti — ed è quello che rende diverso l'addio a Vogler di domani sera.
 
 ---
 
@@ -960,6 +1096,13 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 **Il resto della sessione**
 - [ ] **Gradino 2** — Raven fa la domanda a Brynja al Brass Crab: Sì / No — risposta: ____________
+- [ ] **La coda fuori dal Brass Crab:** giocata versione lunga / corta / saltata
+- [ ] Orologio del Malumore arrivato a tacca: ____________ — esito di tacca 4 usato: ____________
+- [ ] Chi ha preso in mano la fila: ____________ (Raven / Garrick con l'elenco / Razak / Asurion / nessuno)
+- [ ] Corin si è esposto: no / kit da guaritore / **magia divina**
+- [ ] Lord Bakaris ha provato a comprare la precedenza: Sì / No — zittito: Sì / No
+- [ ] **Riposo lungo di Brynja:** dormito / curato tutta la notte / la fila ha accettato di aspettare l'alba
+- [ ] Nomi o facce curati stanotte da far ricomparire domani all'evacuazione: ____________
 - [ ] **Gradino 3** — la messaggera nota Brynja: opzione **(a) riferisce** / **(b) l'ultimatum la nomina**
 - [ ] Interrogatorio del mercenario: informazioni ottenute: Sì / No — chi era il prigioniero: ____________
 - [ ] Collegamento Dragon Army ("armature nere e rosse") emerso: Sì / No
@@ -1012,6 +1155,8 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 |--------|-----------|---------|
 | Il destino di Becklin | Catturata? Dispersa? Uccisa? **Per Razak è la sua cavaliera** | Alta → Cap. 4 |
 | **Brynja e il ritorno degli dèi** | Ha guarito in pubblico due volte. Vogler lo sa, e — a seconda del Gradino 3 — lo sa anche l'Armata del Drago | **Alta → Cap. 4 e oltre** |
+| **Chi è rimasto senza cure** | Chi Brynja non ha potuto curare la notte della coda. Alcuni non sono arrivati al molo | Media → si vede subito, all'evacuazione |
+| **Quelli della coda** | I profughi di Vogler a Kalaman hanno visto cosa sa fare. Non la dimenticano, e non stanno zitti | Media → **Cap. 4: a Kalaman la precede la voce** |
 | **I due Bakaris** | Entrambi sopravvivono e arrivano a Kalaman **prima del party**. Lord Bakaris ha un torto vero da raccontare al consiglio; il figlio vuole soddisfazione da Razak | **Alta → Sessione 03** |
 | L'esercito Dragon Army | Belephaion, Voce di Takhisis — chi comanda questa forza? | Alta → Cap. 4 |
 | Wyhan e il rotolo | Il rotolo per Wyhan — ora la destinazione è Kalaman | Media → Apertura Cap. 4 |
