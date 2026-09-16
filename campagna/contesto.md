@@ -85,9 +85,9 @@ I principali luogotenenti di Kansaldi includono:
 |-----|--------|------|---------|-------------|
 | 1 | Character Creation | — | — | Creazione personaggi (salta per party già creato) |
 | **2** | **Prelude to War** | **PREQUEL** | **1** | **Introduzione al mondo, raduno del party a Vogler** |
-| **3** | **When Home Burns** | **Inizio Campagna** | **1→3** | **L'invasione arriva nelle comunità locali, il party scappa** |
-| 4 | Shadow of War | Campagna | 3→5 | Arrivo a Kalaman, investigazione, preparazione |
-| 5 | The Northern Wastes | Campagna | 5→8 | Ricerca dell'arma perduta nelle terre selvagge |
+| **3** | **When Home Burns** | **Inizio Campagna** | **2→4** | **L'invasione arriva nelle comunità locali, il party scappa** |
+| 4 | Shadow of War | Campagna | 4→6 | Arrivo a Kalaman, investigazione, preparazione |
+| 5 | The Northern Wastes | Campagna | 6→8 | Ricerca dell'arma perduta nelle terre selvagge |
 | 6 | City of Lost Names | Campagna | 8→10 | Città misteriosa, incontro con Belephaion |
 | 7 | Siege of Kalaman | Campagna | 10→11 | Battaglia finale contro Kansaldi Fire-Eyes |
 
@@ -115,11 +115,13 @@ I principali luogotenenti di Kansaldi includono:
 | Capitolo | Tipo | Livello Inizio | Livello Fine | XP Accumulati | XP Guadagnati | Chiave Avanzamento |
 |----------|------|---|---|---|---|---|
 | **2 (PREQUEL)** | **Setup** | **1** | **1** | **0 XP** | **0 XP** | **Raduno party, background narrativo** |
-| 3 | Inizio | 1 | 3 | 900 XP | 900 XP | Fuga dall'invasione, scontri significativi |
-| 4 | Campagna | 3 | 5 | 6.500 XP | 5.600 XP | Investigazione Kalaman, battaglie difensive |
-| 5 | Campagna | 5 | 8 | 34.000 XP | 27.500 XP | Northern Wastes, sfide ambientali |
+| 3 | Inizio | 2 | 4 | 900 XP | 900 XP | Liv. 3 dopo High Hill, Liv. 4 dopo l'evacuazione di Vogler |
+| 4 | Campagna | 4 | 6 | 6.500 XP | 5.600 XP | Liv. 5 prima di Wheelwatch, Liv. 6 dopo Zanas Sarlamir |
+| 5 | Campagna | 6 | 8 | 34.000 XP | 27.500 XP | Northern Wastes, sfide ambientali |
 | 6 | Campagna | 8 | 10 | 64.000 XP | 30.000 XP | City of Lost Names, nemici potenti |
 | 7 | Finale | 10 | 11 | 85.000 XP | 21.000 XP | Assedio e scontro finale Kansaldi |
+
+> ⚠️ **Corretto il 2026-09-16.** Le due tabelle qui sopra davano il Cap. 3 come 1→3, il Cap. 4 come 3→5 e il Cap. 5 come 5→8: sfasate di un livello rispetto alla fonte, che dice esplicitamente *"characters start this chapter at 2nd level"* (Cap. 3), *"characters start this chapter at 4th level"* (Cap. 4) e *"the characters advance from 6th to 8th level"* (Cap. 5). `party.md` e le sessioni 02-03 erano già corretti — l'errore stava solo qui. Gli XP in colonna restano pura contabilità: dal Cap. 3 si avanza a pietra miliare.
 
 ## Note di Campagna
 

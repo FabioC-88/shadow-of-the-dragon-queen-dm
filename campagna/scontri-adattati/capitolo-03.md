@@ -236,9 +236,13 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 5. *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*  
 6. *[Aggiunta atmosferica]: Sa di legno bagnato e di pesce affumicato. Sa di Vogler.*  
 7. *Ultimate — The Last Feast:*  
-8. *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di orco in armatura fanno tremare le assi sotto i vostri piedi.*  
+8. *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di ogre in armatura fanno tremare le assi sotto i vostri piedi.*  
 9. *[Aggiunta atmosferica]: Ha mangiato mentre bruciavate. Adesso ha finito, e ha ancora fame.*  
 *Ordine consigliato: Opener appena il party ingagg* *ia (sfrutta il Boilerdrak mentre è ancora "spaventoso" e sconosciuto), Control a metà scontro quando il party si è ravvicinato, Ultimate quando Gholcag è insanguinata — è il punto in cui la scena "Vogler brucia" deve sembrare che potrebbe davvero perdersi.*  
+**⚠️ Nota di continuità sulla Villain Action 1 (*At My Command*):** presuppone un draconiano vivo all'equipaggio del Boilerdrak, ma Gholcag entra in scena **dopo** che i quattro baaz dell'equipaggio sono stati sconfitti (la fonte è esplicita: *"After the baaz draconians are defeated, the commander of the draconian assault arrives"*). Tre letture possibili, discusse in `sessioni/dm-notes-sessione-02.md`, FASE 5C: **(a)** lo spara uno dei due baaz che arrivano con lei — costa a Gholcag un alleato in mischia, ed è la versione consigliata; **(b)** lo spara lei stessa; **(c)** se il party ha distrutto il Boilerdrak, la Villain Action 1 salta e si sostituisce con un secondo *Iron Wave*.
+
+**⚠️ Nota sul primo round del Boilerdrak:** qui sopra è descritto come "già acceso e puntato", ma la fonte gli fa spendere il primo round a caricare/puntare/sparare **sull'Ufficio del Capitano del Porto** — ed è quel colpo ad accendere l'*Edificio in Fiamme*, che è una feature della mappa 3.3. Al tavolo vale la versione della fonte: "già acceso e puntato" descrive lo stato della macchina **quando arriva Gholcag**, non l'apertura dello scontro.
+
 **Nota di continuità:** dopo Gholcag, la sessione procede come da dm-notes-sessione-02.md (destino di Becklin, fuga sull'ultima barca, avanzamento a Livello 4) — nessuna modifica narrativa, solo meccanica di combattimento.  
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnEAAAACCAYAAAA3pIp+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANklEQVR4nO3OQQmAABRAsSeYxZy/lheLGMACBrCCNxG2BFtmZquOAAD4i3Ot7mr/egIAwGvXA7GDBdm88CDQAAAAAElFTkSuQmCC)  
 **Riepilogo Modifiche**  
