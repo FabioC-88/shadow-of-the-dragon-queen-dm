@@ -5,7 +5,7 @@
 **Avanzamento:** Milestone narrativo (cap. 3 — High Hill conclusa, poi fuga da Vogler completata)
 **XP accumulati a inizio sessione:** 300 XP (dalla Sessione 00). *Contabilità priva di effetti: il Cap. 3 avanza a pietra miliare.*
 **Obiettivo sessione:** Concludere la Battaglia di High Hill; scoprire l'esercito nemico; ricevere la messaggera dell'Armata del Drago; organizzare la fuga di Vogler; sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme.
-**Durata stimata:** **~3h50m a pieno regime** (FASE 0 35 · FASE 1 35 · FASE 2 20 · FASE 3 30 · FASE 4 20 · FASE 5 90) — contro una serata media da **2h30m**. ⚠️ **Senza tagli non si arriva a Gholcag:** vedi *"Piano dei tagli"* qui sotto.
+**Durata stimata:** **~3h50m a pieno regime** (FASE 0 35 · FASE 1 35 · FASE 2 20 · FASE 3 30 · FASE 4 20 · FASE 5 90) — contro una serata media da **2h30m**. *Non è un problema: quello che avanza si sposta alla serata dopo.* Vedi *"Dove spezzare"* qui sotto per i punti di rottura buoni e quello da evitare.
 **Sessione precedente:** dm-notes-sessione-01.md — Cap. 3: When Home Burns, prima metà (righe 1189–1672)
 
 > ⚠️ **QUESTA SESSIONE SI APRE A METÀ COMBATTIMENTO.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. La **FASE 0** contiene tutta la battaglia mancante — Gragonis compreso — ed è stata trasferita qui dalla Sessione 01.
@@ -47,11 +47,26 @@
 
 ---
 
-### ✂️ Piano dei tagli — leggere prima di sedersi
+### ✂️ Dove spezzare — leggere prima di sedersi
 
-Il materiale di questa sessione vale **~3h50m**. La serata media è **2h30m**. Non è un problema di ritmo: è che il capitolo intero (battaglia + notte + giorno + invasione + boss) sta in un file solo. Due modi onesti di gestirla.
+Il materiale di questa sessione vale **~3h50m** contro una serata media da **2h30m**: il capitolo intero (battaglia + notte + giorno + invasione + boss) sta in un file solo. **Arrivare a Gholcag stasera non è un obiettivo** — quello che avanza diventa l'apertura della serata dopo, esattamente come è successo con High Hill. Sotto, i punti dove fermarsi bene, quello dove fermarsi male, e i tagli se invece vuoi chiudere il capitolo in una volta.
 
-**Opzione A — tutto in una serata (taglia ~70 minuti).** In ordine di quanto costa poco:
+#### I punti di rottura
+
+| Dove | Come si chiude | Costo |
+|---|---|---|
+| **Fine FASE 1** (dopo la notte al Brass Crab) | Il villaggio ha appena scoperto che gli dèi sono tornati, e non sa ancora dell'esercito | Nessuno. Chiusura pulitissima |
+| **Fine FASE 3** (deciso il da farsi) | Sanno dell'esercito, hanno un piano, e il piano sta per diventare inutile | Nessuno |
+| **Fine FASE 4** (soldati sulle scogliere, si decide di evacuare) | Su una decisione presa, con l'invasione tutta davanti | Nessuno. **Il migliore se vuoi che la FASE 5 sia una serata sua** |
+| **Dentro la FASE 5B** (fra un incontro d'invasione e l'altro) | Accettabile: gli incontri sono scene chiuse | Devi ricordarti chi è ferito e dove sono i PG nel villaggio |
+
+⚠️ **L'unico punto da evitare è a metà del Boilerdrak (5C):** fra i 100 PF della macchina, l'Ufficio del Capitano del Porto che brucia, la Mischia sui bordi e la tabella eventi d6, è lo stato di gioco più scomodo da ricostruire a una settimana di distanza. **Se alle 5C mancano meno di 40 minuti, non aprirla:** chiudi sull'ultimo incontro d'invasione e riparti da lì.
+
+⚠️ **Se spezzi prima della FASE 5**, il **Livello 4** slitta alla serata dopo — è legato all'evacuazione completata — e il party affronta Boilerdrak e Gholcag al **3° livello**. È come la fonte prevede, ma con Gholcag a ~CR 4 pesa: vedi il riquadro letalità in FASE 5C.
+
+#### Se invece vuoi chiudere tutto stasera (taglia ~70 minuti)
+
+In ordine di quanto costa poco:
 
 | Taglio | Risparmio | Cosa si perde davvero |
 |---|---:|---|
@@ -62,8 +77,6 @@ Il materiale di questa sessione vale **~3h50m**. La serata media è **2h30m**. N
 | **Incontri dell'invasione** — 2 combattimenti + 1 non-combattimento (il gatto o la famiglia) invece di 3 scontri | −10 min | Niente: il minimo della fonte è "almeno tre incontri", non "tre combattimenti" |
 
 **Non tagliare mai:** la FASE 0 (è il combattimento sospeso a metà), la domanda di Raven a Brynja (Gradino 2), la messaggera (Gradino 3), l'addio di Becklin, Jeyev con l'elmo.
-
-**Opzione B — spezzare in due serate.** Il punto di rottura pulito è **la fine della FASE 4**, con i soldati sulle scogliere eliminati e il villaggio che decide di evacuare: si chiude su una decisione presa, non su un cliffhanger meccanico. ⚠️ **Costo:** il Livello 4 slitta alla serata dopo (è legato all'evacuazione completata), e il party resta al **3° livello** per tutta la FASE 5. Con Gholcag a ~CR 4 e il Boilerdrak da 5d10, valutalo: è la differenza tra uno scontro duro e uno scontro letale.
 
 ---
 
@@ -1077,6 +1090,7 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 > - **(a)** *Ai Miei Ordini* la usano **i suoi due baaz** — uno dei due corre alla macchina e spara. Costa a Gholcag un alleato in mischia: è la versione più equilibrata, ed è quella che consiglio.
 > - **(b)** Gholcag lo spara **lei stessa** (è già acceso e puntato) — più cattiva: nessun costo, e un cono da 5d10 in più sul tavolo.
 > - **(c)** Se il party ha **distrutto** il Boilerdrak (100 PF, oggetto), la Villain Action 1 non esiste: sostituiscila con un secondo uso di *Onda di Ferro*. **Premiali per averlo fatto saltare.**
+> - **(d)** **Anticipa la sua entrata:** Gholcag sfonda la parete del Brass Crab quando è a terra il **terzo** dei quattro baaz dell'equipaggio, non il quarto. Così la Villain Action funziona alla lettera — c'è ancora un draconiano alla macchina — e i due scontri diventano un'unica onda continua. *È la lettura più fedele al testo della Villain Action e la più spettacolare, ma anche la più dura: somma i due gruppi di nemici invece di metterli in fila. Usala solo se il party è arrivato qui in buona forma.*
 
 > ⚠️ **LETALITÀ — leggere prima di giocare.** Questo blocco è ~CR 4 contro **5 PG di 3° livello**, alla fine di una giornata senza riposi, con `regole-opzionali.md` attivo (critici massimizzati, Esaurimento a ogni risveglio da 0 PF, niente cura automatica dal riposo lungo). Due colpi d'ascia a segno fanno in media **36 danni**: stendono qualunque PG del party in un turno. Se al tavolo il Boilerdrak ha già fatto male, **cala Gholcag a 70-80 PF** o rinuncia alla Reazione *Presa di Ferro*: il momento narrativo (l'ultima barca, l'elmo di Becklin) vale più di un TPK a fine capitolo.
 
@@ -1305,11 +1319,11 @@ Passata di controllo prima della serata di domenica. Correzioni applicate:
 |---|------|---------|----------|
 | 1 | **Stat block sbagliato** | FASE 2 e FASE 4 | **Dragon Army Soldier**: sostituito il blocco vecchio (CA 16, PF 32, Lancia, tratto homebrew "Tattiche della Dragon Army") con la **scheda ufficiale DSotDQ p200** già in `scontri-adattati/capitolo-03.md` dal 13/09: CA 17, **PF 22**, Spada lunga/Giavellotto **+1d4 fuoco**, Devozione Draconica, Percezione passiva 12. Era l'unico file del repo rimasto indietro sulla passata delle schede ufficiali |
 | 2 | **Stat block sbagliato** | FASE 5C | **Fewmaster Gholcag**: la nota diceva "usa il blocco statistiche di un **Orco**" — la fonte dice **ogre** (*"uses the ogre stat block, but she wears scale mail and has AC 14"*). Sono due mostri diversi. Allineato alla versione Action-Oriented ~CR 4 di `capitolo-03.md` (PF 100, Ascia bipenne con Topple, Azione Bonus, Reazione, 3 Villain Actions con i relativi testi da leggere) |
-| 3 | **Buco di continuità** | FASE 5C | La Villain Action *Ai Miei Ordini* fa sparare il Boilerdrak "al draconiano dell'equipaggio", ma Gholcag arriva **dopo** che l'equipaggio è stato sconfitto. Aggiunte tre letture alternative, con la raccomandazione (i suoi due baaz) e il caso "Boilerdrak già distrutto" |
+| 3 | **Buco di continuità** | FASE 5C | La Villain Action *Ai Miei Ordini* fa sparare il Boilerdrak "al draconiano dell'equipaggio", ma Gholcag arriva **dopo** che l'equipaggio è stato sconfitto — quel draconiano non esiste più. Aggiunte quattro letture alternative: i suoi due baaz (consigliata), lei stessa, Boilerdrak già distrutto, oppure anticipare la sua entrata al terzo baaz a terra |
 | 4 | **Contraddizione fra file** | FASE 5C | `capitolo-03.md` dà il Boilerdrak "già acceso e puntato", la fonte gli fa bruciare il primo round sull'Ufficio del Capitano del Porto (ed è quel colpo che accende l'*Edificio in Fiamme* della mappa). Tenuta la versione della fonte, chiarito che "già acceso" vale per la Villain Action di Gholcag. Aggiunta l'opzione di **disinnesco** (Intelligenza (Indagare) o Destrezza (Rapidità di Mano) CD 15) che c'era solo in `capitolo-03.md` |
 | 5 | **Contraddizione fra file** | FASE 5B | Il Kapak qui diceva "non esiste nessun Attacco Furtivo", `capitolo-03.md` gliene aggiunge uno **dichiarato come homebrew** insieme alla Reazione *Via col Volo*. Riportate entrambe come scelta esplicita da fare **prima** dello scontro |
 | 6 | **Letalità** | FASE 5C | Aggiunto un avviso sui numeri reali: Gholcag ~CR 4 contro 5 PG di 3° livello, a fine giornata, con `regole-opzionali.md` attivo (critici massimizzati, Esaurimento da 0 PF, niente auto-heal dal riposo lungo). Due asce a segno = ~36 danni = un PG a terra per turno. Indicate due valvole di sfogo |
-| 7 | **Durata** | Header + FASE 1 + FASE 5 | I numeri non tornavano: l'header dichiarava 3h15m, le fasi ne sommavano **3h50m** (FASE 1 valeva 20 min ma conteneva anche la coda notturna; FASE 5 valeva 60 ma le sue quattro sotto-fasi fanno 90). Corretti tutti e tre, e aggiunto un **"Piano dei tagli"** con l'alternativa a due serate, visto che la serata media è di 2h30m |
+| 7 | **Durata** | Header + FASE 1 + FASE 5 | I numeri non tornavano: l'header dichiarava 3h15m, le fasi ne sommavano **3h50m** (FASE 1 valeva 20 min ma conteneva anche la coda notturna; FASE 5 valeva 60 ma le sue quattro sotto-fasi fanno 90). Corretti tutti e tre. Aggiunta la sezione **"Dove spezzare"**: quattro punti di rottura buoni, l'unico da evitare (metà Boilerdrak), e la lista dei tagli se invece si vuole chiudere il capitolo in una serata sola |
 | 8 | Numerazione | FASE 0 | Il testo d'ingresso di Gragonis era taggato **[BT-10]**, lo stesso tag di "Vogler in Fiamme" in fondo al file (residuo del trasferimento dalla Sessione 01). Ora è **[BT-00b]**. Corrette anche tre righe del Revision Log che puntavano ai BT sbagliati |
 | 9 | **Testi da leggere** | Tutti i BT | Passata completa sui testi da leggere al tavolo: tolte le parole inglesi rimaste (`villager`, `scout`) anche dentro i riquadri e da una battuta di Cudgel; corretti **"figura tozzo"** → tozza, **"induggiano"** → indugiano, **"della invincibile"** → dell'invincibile, **"Poi lo vedono"** → *lo vedete* (il soggetto erano i PG), **"il gnomeflinger"** → lo gnomeflinger |
 | 10 | **Testi da leggere** | BT-09 | *"Hold the boat!"* era tradotto **"Aspettate la barca!"**, che significa il contrario (aspettare *che arrivi*). Ora **"Tenete la barca!"**. Sistemato anche "gracchia" → una voce roca, e "vicolo" → strada (la fonte dice *street*) |
