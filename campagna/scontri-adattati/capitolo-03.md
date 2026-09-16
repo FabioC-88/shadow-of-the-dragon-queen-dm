@@ -220,17 +220,33 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
  strike against whoever hit her.  
    
  VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)  
- 1. Opener — At My Command: shouts orders to the draconian crewing the already-lit,  
-    already-aimed Boilerdrak — it fires immediately, on Gholcag's turn instead of  
-    waiting for the crew's own initiative (roll the d20 as normal: 2+ Flames, 1 Explosion).  
+  1. Opener — To the Wharf!: Gholcag doesn't attack. She points her axe past the  
+       characters, at the loaded boats, and barks one order in Draconic. Two effects,  
+       both lasting for the rest of the fight:  
+       - The FRAY advances 15 ft inward on every side (in Foundry: widen the band  
+         from 15 to 30 ft). Any creature the advance reaches immediately suffers the  
+         Fray's effect — DC 16 Dexterity save or 7 (2d6) slashing — and its space  
+         becomes difficult terrain.  
+       - Two draconians hook the mooring line of the last loaded boat. Freeing it  
+         costs an adjacent character one action and a DC 13 Strength (Athletics)  
+         check. Until the boat is free, one evacuee is dragged off the pier at the  
+         end of each round.  
+       [Sostituisce la vecchia "At My Command", che faceva sparare il Boilerdrak:  
+        non poteva funzionare, perche' Gholcag arriva DOPO che l'equipaggio e' stato  
+        sconfitto, e la macchina e' un oggetto da 100 PF che il party puo' distruggere  
+        o disinnescare. Questa si appoggia solo al suo corpo e alla Fray, che per  
+        regola della mappa non puo' essere danneggiata e resta fino alla fine dello  
+        scontro. Il primo effetto e' pressione, non danno; il secondo non ha prezzo  
+        meccanico — si paga in persone, ed e' li' che la coda fuori dal Brass Crab  
+        viene a chiedere il conto.]  
  2. Control — Iron Wave: strikes the ground. Each creature within 15 ft: DC 15 Dexterity  
     save or takes 2d6+5 bludgeoning and falls prone (half damage, no prone on a success).  
  3. Ultimate — The Last Feast: hurls herself at the nearest enemy with animal fury —  
     extra attack with the Greataxe (+7, 2d12+5); if it hits, she gains 20 temporary HP.  
    
 **Testo da leggere (boss di capitolo — testo + Aggiunta atmosferica, legata al tema "casa che brucia"):**  
-1. *Opener — At My Command:*  
-2. *Gholcag sputa una lisca di traverso, alza il braccio verso il Boilerdrak e abbaia una parola sola, tutta consonanti. La macchina obbedisce prima ancora che abbia finito di dirla.*  
+1. *Opener — Al Molo!:*  
+2. *Gholcag sputa una lisca di traverso e alza l'ascia — non verso di voi. La punta oltre le vostre teste, verso le barche, e abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*  
 3. *[Aggiunta atmosferica]: Non vi ha ancora guardato in faccia. Sta ancora masticando.*  
 4. *Control — Iron Wave:*  
 5. *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*  
@@ -238,9 +254,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 7. *Ultimate — The Last Feast:*  
 8. *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di ogre in armatura fanno tremare le assi sotto i vostri piedi.*  
 9. *[Aggiunta atmosferica]: Ha mangiato mentre bruciavate. Adesso ha finito, e ha ancora fame.*  
-*Ordine consigliato: Opener appena il party ingagg* *ia (sfrutta il Boilerdrak mentre è ancora "spaventoso" e sconosciuto), Control a metà scontro quando il party si è ravvicinato, Ultimate quando Gholcag è insanguinata — è il punto in cui la scena "Vogler brucia" deve sembrare che potrebbe davvero perdersi.*  
-**⚠️ Nota di continuità sulla Villain Action 1 (*At My Command*):** presuppone un draconiano vivo all'equipaggio del Boilerdrak, ma Gholcag entra in scena **dopo** che i quattro baaz dell'equipaggio sono stati sconfitti (la fonte è esplicita: *"After the baaz draconians are defeated, the commander of the draconian assault arrives"*). Tre letture possibili, discusse in `sessioni/dm-notes-sessione-02.md`, FASE 5C: **(a)** lo spara uno dei due baaz che arrivano con lei — costa a Gholcag un alleato in mischia, ed è la versione consigliata; **(b)** lo spara lei stessa; **(c)** se il party ha distrutto il Boilerdrak, la Villain Action 1 salta e si sostituisce con un secondo *Iron Wave*.
-
+*Ordine consigliato: Opener appena il party la ingagg* *ia (imposta la scena e non fa quasi danni, quindi non apre lo scontro con un PG a terra), Control a metà scontro quando la Mischia più stretta li ha costretti ad ammucchiarsi, Ultimate quando Gholcag è insanguinata — è il punto in cui la scena "Vogler brucia" deve sembrare che potrebbe davvero perdersi.*  
 **⚠️ Nota sul primo round del Boilerdrak:** qui sopra è descritto come "già acceso e puntato", ma la fonte gli fa spendere il primo round a caricare/puntare/sparare **sull'Ufficio del Capitano del Porto** — ed è quel colpo ad accendere l'*Edificio in Fiamme*, che è una feature della mappa 3.3. Al tavolo vale la versione della fonte: "già acceso e puntato" descrive lo stato della macchina **quando arriva Gholcag**, non l'apertura dello scontro.
 
 **Nota di continuità:** dopo Gholcag, la sessione procede come da dm-notes-sessione-02.md (destino di Becklin, fuga sull'ultima barca, avanzamento a Livello 4) — nessuna modifica narrativa, solo meccanica di combattimento.  
@@ -257,6 +271,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 | Boilerdrak | stat block errato in una bozza precedente | corretto sullo stat block ufficiale (DSotDQ p.189: oggetto Large, AC 15, HP 100) + opzione di sabotaggio | fedeltà alla fonte, oltre a varietà tattica |   
 | Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics"; poi una bozza con HP 32 | **scheda ufficiale DSotDQ p200** (verificata 2026-09-13): AC 17, **HP 22 (4d8+4)**, Longsword/Javelin +1d4 fuoco, Draconic Devotion, Passive Perception 12 | il danno da fuoco è il dettaglio che giustifica il nome "Dragon Army"; gli HP erano gonfiati di un terzo |   
 | Fewmaster Gholcag | CR 2, statica; AC 15 | ~CR 4, Villain Actions + Bonus Action + Reaction; AC corretta a 14 (fonte: "usa il blocco Ogre, scale mail, AC 14") | vero boss di capitolo, deve reggere 5 round contro 5 PG — il resto del redesign (HP/azioni) resta intenzionale |   
+| Gholcag — Villain Action 1 | *At My Command*: faceva sparare il Boilerdrak | **Al Molo!**: la Mischia avanza di 4,5 m e resta lì, più la barca da liberare | la vecchia dipendeva da un equipaggio già morto quando Gholcag entra in scena, e da un oggetto da 100 PF che il party può distruggere. La nuova si appoggia solo al suo corpo e alla Mischia, che per regola non può essere danneggiata |   
    
 **Prossimi Passi**  
 Capitolo 4 (Shadow of War, Liv. 4→6) — vedi [capitolo-04.md.](capitolo-04.md "capitolo-04.md")  

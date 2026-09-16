@@ -1062,9 +1062,17 @@ Quando viene colpita da un attacco in mischia, contrattacca subito con un
 singolo colpo di Ascia bipenne contro chi l'ha colpita.
 
 VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sola)
-1. Opener — Ai Miei Ordini: urla un ordine al draconiano all'equipaggio del
-   Boilerdrak, che spara immediatamente, nel turno di Gholcag (tira il d20 come
-   di norma: 2+ Fiamme, 1 Esplosione). ⚠️ Vedi la nota di continuità qui sotto.
+1. Opener — AL MOLO!: Gholcag non attacca. Punta l'ascia oltre i personaggi,
+   verso le barche cariche, e urla un ordine in Draconico. Due effetti, ed
+   entrambi restano per il resto dello scontro:
+   • La MISCHIA avanza di 4,5 m verso il centro su tutti i lati (in Foundry:
+     allarga la fascia da 4,5 a 9 m). Ogni creatura raggiunta dall'avanzata
+     subisce subito l'effetto della Mischia — TS Destrezza CD 16 o 7 (2d6)
+     danni taglienti — e il suo spazio diventa terreno difficile.
+   • Due draconiani agganciano la cima dell'ultima barca carica. Liberarla
+     costa a un personaggio adiacente un'azione e una prova di
+     Forza (Atletica) CD 13. Finché la barca non è libera, alla fine di ogni
+     round un evacuato viene trascinato via dal molo.
 2. Control — Onda di Ferro: colpisce il terreno. Ogni creatura entro 4,5 m:
    TS Destrezza CD 15 o subisce 2d6+5 contundenti e cade Prona (metà danni e
    niente Prono con un successo).
@@ -1075,7 +1083,7 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 
 **Testi da leggere per le Villain Actions:**
 
-> **Ai Miei Ordini:** *Gholcag sputa una lisca di traverso, alza il braccio verso il Boilerdrak e abbaia una parola sola, tutta consonanti. La macchina obbedisce prima ancora che abbia finito di dirla.*
+> **AL MOLO!:** *Gholcag sputa una lisca di traverso e alza l'ascia — non verso di voi. La punta oltre le vostre teste, verso le barche, e abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*
 > *[Aggiunta atmosferica]: Non vi ha ancora guardati in faccia. Sta ancora masticando.*
 
 > **Onda di Ferro:** *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*
@@ -1084,13 +1092,15 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 > **L'Ultimo Banchetto:** *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di ogre in armatura fanno tremare le assi sotto i vostri piedi.*
 > *[Aggiunta atmosferica]: Ha mangiato mentre bruciavate. Adesso ha finito, e ha ancora fame.*
 
-*Ordine consigliato: **Opener** appena il party la ingaggia, **Control** a metà scontro quando si sono ravvicinati, **Ultimate** quando Gholcag è insanguinata.*
+*Ordine consigliato: **Opener** appena il party la ingaggia — è la Villain Action che imposta la scena e non fa quasi danni, quindi non rischia di aprire lo scontro con un PG a terra. **Control** a metà, quando la Mischia più stretta li ha costretti ad ammucchiarsi. **Ultimate** quando Gholcag è insanguinata.*
 
-> ⚠️ **NOTA DI CONTINUITÀ — la Villain Action 1 e l'equipaggio del Boilerdrak.** Gholcag arriva **dopo** che i quattro baaz del Boilerdrak sono stati sconfitti: a rigore, quando lei entra in scena non c'è più nessun draconiano a manovrarlo. Scegli **una** lettura prima di sedersi al tavolo:
-> - **(a)** *Ai Miei Ordini* la usano **i suoi due baaz** — uno dei due corre alla macchina e spara. Costa a Gholcag un alleato in mischia: è la versione più equilibrata, ed è quella che consiglio.
-> - **(b)** Gholcag lo spara **lei stessa** (è già acceso e puntato) — più cattiva: nessun costo, e un cono da 5d10 in più sul tavolo.
-> - **(c)** Se il party ha **distrutto** il Boilerdrak (100 PF, oggetto), la Villain Action 1 non esiste: sostituiscila con un secondo uso di *Onda di Ferro*. **Premiali per averlo fatto saltare.**
-> - **(d)** **Anticipa la sua entrata:** Gholcag sfonda la parete del Brass Crab quando è a terra il **terzo** dei quattro baaz dell'equipaggio, non il quarto. Così la Villain Action funziona alla lettera — c'è ancora un draconiano alla macchina — e i due scontri diventano un'unica onda continua. *È la lettura più fedele al testo della Villain Action e la più spettacolare, ma anche la più dura: somma i due gruppi di nemici invece di metterli in fila. Usala solo se il party è arrivato qui in buona forma.*
+> 💡 **Perché l'Opener funziona così.** *Al Molo!* è costruita per non dipendere da niente che il party possa togliere di mezzo: non serve il Boilerdrak, non servono i suoi due baaz, non serve che qualcuno sia in una posizione particolare. Si appoggia solo al **suo corpo** e alla **Mischia**, che per regola della mappa *"non può essere danneggiata e resta fino alla fine della battaglia"*. È sempre usabile, in qualunque ordine siano andate le cose.
+>
+> **Il primo effetto è pressione, non danno.** Restringere il campo di 4,5 m fa tre cose insieme: toglie spazio per sganciarsi da un'ogre con Portata 1,5 m e una Reazione punitiva, prepara *Onda di Ferro* (party più stretto = più bersagli nel raggio di 4,5 m), e mostra fisicamente sulla mappa quello che sta succedendo — l'assalto che si chiude sul molo.
+>
+> **[NOTA DM — riservata] Il secondo effetto non ha un prezzo meccanico: ha un prezzo in persone.** Il party può ignorare la barca e vincere lo scontro lo stesso. Non annunciarlo come un timer e non tirare fuori un conto alla rovescia: **descrivilo**, una riga alla fine di ogni round, e lascia che decidano se qualcuno spende un turno. Se lo ignorano, gli evacuati trascinati via sono i **nomi e le facce che ti sei segnato alla coda fuori dal Brass Crab** (FASE 1) — quelli che Brynja non è riuscita a curare. È lì che quella scena viene a chiedere il conto, senza che tu debba dire una parola.
+
+> 📝 **Cosa c'era prima, e perché è stato sostituito.** La vecchia Villain Action 1 (*Ai Miei Ordini*) faceva sparare il Boilerdrak. Non poteva funzionare: Gholcag entra in scena **dopo** che i quattro baaz dell'equipaggio sono stati sconfitti, quindi il draconiano a cui dava l'ordine non esiste più — e per giunta la macchina è un **oggetto da 100 PF** che il party può aver distrutto o disinnescato. Una Villain Action che il party può cancellare prima ancora che il boss entri in scena non è una Villain Action. *Al Molo!* la sostituisce e non dipende da niente di eliminabile.
 
 > ⚠️ **LETALITÀ — leggere prima di giocare.** Questo blocco è ~CR 4 contro **5 PG di 3° livello**, alla fine di una giornata senza riposi, con `regole-opzionali.md` attivo (critici massimizzati, Esaurimento a ogni risveglio da 0 PF, niente cura automatica dal riposo lungo). Due colpi d'ascia a segno fanno in media **36 danni**: stendono qualunque PG del party in un turno. Se al tavolo il Boilerdrak ha già fatto male, **cala Gholcag a 70-80 PF** o rinuncia alla Reazione *Presa di Ferro*: il momento narrativo (l'ultima barca, l'elmo di Becklin) vale più di un TPK a fine capitolo.
 
@@ -1319,7 +1329,7 @@ Passata di controllo prima della serata di domenica. Correzioni applicate:
 |---|------|---------|----------|
 | 1 | **Stat block sbagliato** | FASE 2 e FASE 4 | **Dragon Army Soldier**: sostituito il blocco vecchio (CA 16, PF 32, Lancia, tratto homebrew "Tattiche della Dragon Army") con la **scheda ufficiale DSotDQ p200** già in `scontri-adattati/capitolo-03.md` dal 13/09: CA 17, **PF 22**, Spada lunga/Giavellotto **+1d4 fuoco**, Devozione Draconica, Percezione passiva 12. Era l'unico file del repo rimasto indietro sulla passata delle schede ufficiali |
 | 2 | **Stat block sbagliato** | FASE 5C | **Fewmaster Gholcag**: la nota diceva "usa il blocco statistiche di un **Orco**" — la fonte dice **ogre** (*"uses the ogre stat block, but she wears scale mail and has AC 14"*). Sono due mostri diversi. Allineato alla versione Action-Oriented ~CR 4 di `capitolo-03.md` (PF 100, Ascia bipenne con Topple, Azione Bonus, Reazione, 3 Villain Actions con i relativi testi da leggere) |
-| 3 | **Buco di continuità** | FASE 5C | La Villain Action *Ai Miei Ordini* fa sparare il Boilerdrak "al draconiano dell'equipaggio", ma Gholcag arriva **dopo** che l'equipaggio è stato sconfitto — quel draconiano non esiste più. Aggiunte quattro letture alternative: i suoi due baaz (consigliata), lei stessa, Boilerdrak già distrutto, oppure anticipare la sua entrata al terzo baaz a terra |
+| 3 | **Villain Action riprogettata** | FASE 5C | La Villain Action 1 di Gholcag (*Ai Miei Ordini*) faceva sparare il Boilerdrak: non poteva funzionare, perché lei entra in scena **dopo** che l'equipaggio è stato sconfitto — e la macchina è comunque un oggetto da 100 PF che il party può distruggere o disinnescare. Sostituita da **Al Molo!**, che si appoggia solo al suo corpo e alla Mischia (indistruttibile per regola della mappa): il campo si stringe di 4,5 m in modo permanente, e una barca carica viene agganciata. Primo effetto pressione, non danno; secondo effetto senza prezzo meccanico — si paga in persone, agganciandosi alla coda della FASE 1 |
 | 4 | **Contraddizione fra file** | FASE 5C | `capitolo-03.md` dà il Boilerdrak "già acceso e puntato", la fonte gli fa bruciare il primo round sull'Ufficio del Capitano del Porto (ed è quel colpo che accende l'*Edificio in Fiamme* della mappa). Tenuta la versione della fonte, chiarito che "già acceso" vale per la Villain Action di Gholcag. Aggiunta l'opzione di **disinnesco** (Intelligenza (Indagare) o Destrezza (Rapidità di Mano) CD 15) che c'era solo in `capitolo-03.md` |
 | 5 | **Contraddizione fra file** | FASE 5B | Il Kapak qui diceva "non esiste nessun Attacco Furtivo", `capitolo-03.md` gliene aggiunge uno **dichiarato come homebrew** insieme alla Reazione *Via col Volo*. Riportate entrambe come scelta esplicita da fare **prima** dello scontro |
 | 6 | **Letalità** | FASE 5C | Aggiunto un avviso sui numeri reali: Gholcag ~CR 4 contro 5 PG di 3° livello, a fine giornata, con `regole-opzionali.md` attivo (critici massimizzati, Esaurimento da 0 PF, niente auto-heal dal riposo lungo). Due asce a segno = ~36 danni = un PG a terra per turno. Indicate due valvole di sfogo |
@@ -1339,7 +1349,7 @@ Passata di controllo prima della serata di domenica. Correzioni applicate:
 
 - **Gholcag: ~CR 4 (allineata a `capitolo-03.md`) o CR 2 (ogre puro della fonte)?** Ho allineato al file degli scontri adattati, perché è quello che il file stesso dichiara come fonte di verità meccanica — ma è un salto di difficoltà vero. La valvola di sfogo è nel riquadro letalità in FASE 5C
 - **Kapak: con o senza le due aggiunte homebrew?** Da decidere prima, non a metà scontro
-- **Villain Action 1 di Gholcag:** quale delle tre letture (i suoi baaz / lei stessa / sostituzione)
+- **La barca agganciata dall'Opener di Gholcag:** decidi *prima* chi sono gli evacuati su quella barca — pescali dai nomi della coda fuori dal Brass Crab (FASE 1)
 - **Gradino 3 del contraccolpo divino:** opzione (a) o (b) — va scelta prima della FASE 4
 - **Destino di Becklin:** uccisa / catturata / dispersa / testimone — va scelto prima della FASE 5D
 
