@@ -35,6 +35,11 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
 - **Tono:** immersivo ma usabile al tavolo — tabelle, bullet, stat block standard, niente saggistica.
 - **Meccaniche:** cita sempre CD nel formato `Caratteristica (Abilità) CD X`.
 - **Segreti:** distingui sempre tra ciò che sa il party e `[NOTA DM — riservata]`.
+- **Testi da leggere al tavolo (boxed text)** — quattro regole, tutte già costate una revisione:
+  - **Dire la cosa una volta sola.** Niente contrasto annunciato col trattino e poi ripetuto dalla frase dopo — *«alza l'ascia — non verso di voi. La punta oltre le vostre teste»* diventa *«alza l'ascia puntandola oltre le vostre teste»*. Stessa regola per la conclusione seguita dalla prova che la ripete (*«non è umana. Le mani hanno artigli»* → basta la seconda frase).
+  - **Descrivere, non spiegare il significato della scena.** Metti il dettaglio e lascia la conclusione al giocatore: *«non è un accampamento improvvisato — è una macchina da guerra a riposo»* diventa *«i fuochi sono allineati, a distanze uguali, come le tende»*. Vale anche per le glosse emotive tipo *«per loro è la fine del mondo»*: tagliale.
+  - **Non decidere l'azione del giocatore.** Mai scrivere cosa fa o sente il PG — *«i tuoi piedi già si muovono»* non si legge al tavolo. Descrivi il mondo, l'azione la sceglie chi gioca.
+  - **Persona coerente:** o **voi** o **tu** per tutto il riquadro, senza saltare a metà. Nel dubbio, **voi**.
 - **Niente mappe/tattiche su griglia** — le gestisce Foundry VTT.
 - **Non pianificare sessioni future in anticipo** a meno che Fabio non lo chieda esplicitamente.
 - Se un comando/slash-command corrisponde a uno già definito in `ai/agents/instructions.md`, seguine la pipeline invece di improvvisare.
