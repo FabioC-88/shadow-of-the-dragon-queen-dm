@@ -629,7 +629,7 @@ L'intera deliberazione si tiene al Brass Crab.
 Cudgel condivide queste informazioni:
 
 - Crede che Jeyev e i mercenari rimasti le siano fedeli — avrebbero potuto sopraffarla facilmente, e non l'hanno fatto.
-- Al ritorno ha trovato Jeyev e altri fedeli che avevano già trattenuto i soldati rimasti leali a Gragonis ma non presenti alla rievocazione.
+- Al ritorno ha trovato Jeyev e altri fedeli che avevano già trattenuto alcuni soldati **legati a Gragonis per fedeltà di comando** — uomini che seguono lui come proprio ufficiale diretto, non complici del piano — ma che non avevano ricevuto l'ordine di presentarsi alla rievocazione. Erano al campo, ignari quanto tutti gli altri: Jeyev li ha fatti trattenere per precauzione appena ha saputo del tradimento, non perché sapessero qualcosa in anticipo.
 - Durante la notte, gli esploratori di Jeyev hanno incrociato la stessa grande forza militare a nordovest del villaggio. Tutto coincide con ciò che i personaggi hanno scoperto nel bosco.
 
 ---
