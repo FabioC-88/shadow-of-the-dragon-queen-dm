@@ -95,7 +95,7 @@
 | **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
 | **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
 | **Attitudine Attuale** | **+1 Cordiale** (dopo la Sessione 01) |
-| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro della Dragon Army e ha dato ordine di ucciderla durante la rievocazione. ⚠️ **Alla fine della Sessione 01 non lo sa ancora**: lo scopre in Sessione 02, FASE 0. Può diventare alleata nel Northern Wastes (Cap. 5) |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato con l'oro della Dragon Army i mercenari da lui stesso scelti per la rievocazione (il roster del dettaglio era compito suo, non di Cudgel — lei era tra i giudici) e ha dato ordine di ucciderla. ⚠️ **Alla fine della Sessione 01 non lo sa ancora**: lo scopre in Sessione 02, FASE 0. Può diventare alleata nel Northern Wastes (Cap. 5) |
 
 ---
 
