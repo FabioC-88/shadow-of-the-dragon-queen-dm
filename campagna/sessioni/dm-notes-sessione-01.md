@@ -357,6 +357,8 @@ Il luogotenente dell'Ironclad Regiment, **Gragonis** (mezzo-ogre, neutral evil),
 
 Cudgel non sa nulla. Il piano di Gragonis prevede anche di ucciderla e prendersi l'Ironclad: durante la battaglia un suo uomo la aggredisce al punto di osservazione, e viene fermato da Becklin. Al campo è rimasto **Jeyev Veldrews**, l'altro luogotenente di Cudgel, con i mercenari che non sono stati comprati.
 
+> **[NOTA DM — riservata] Perché i mercenari al campo non hanno avvisato nessuno:** non sapevano niente da avvisare. Gragonis ha scelto **lui stesso, uno per uno**, chi comprare e portare a High Hill; tutti gli altri — Jeyev compreso — sono rimasti al campo con la routine di sempre (esercitazioni, guardia), senza il minimo sentore del piano. Non serve nessuna scusa per tenerli lontani dalla rievocazione: la compagnia non partecipa mai in massa alle cose in paese, è normale che una parte resti indietro. Il dettaglio emerge in Sessione 02, nell'interrogatorio di Svilnt Sunderlit.
+
 ### La Parata verso High Hill [BT-07]
 
 > Attraverso boschi e campi, la parata di miliziani e spettatori raggiunge finalmente High Hill. La dolce pendenza è punteggiata di alberi e muri di pietra diroccati. Vicino alla base, diverse decine di soldati in armatura identica sono disposti in formazione ordinata. Il contrasto è netto tra i mercenari del Reggimento Ironclad e la milizia di Vogler — con le loro armature spaiate e gli elmi storti — ma nulla smorza gli animi di chi è riunito per la celebrazione conclusiva del Festival del Kingfisher.

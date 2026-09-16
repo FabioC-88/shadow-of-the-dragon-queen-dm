@@ -340,9 +340,11 @@ Cudgel inizia lei l'interrogatorio, ma la rabbia prende il sopravvento — si ri
 
 - Gragonis pianificava di uccidere Cudgel e prendere il controllo dell'Ironclad Regiment.
 - Alcuni giorni fa Gragonis è andato nel bosco a ovest del campo — è tornato con molto oro.
-- Quell'oro ha pagato i mercenari più fedeli affinché attaccassero per davvero durante la rievocazione. L'obiettivo successivo era saccheggiare Vogler.
+- Nei giorni successivi, in segreto, ha pagato **i mercenari a lui più fedeli** — non i più fedeli a Cudgel, i suoi — perché attaccassero per davvero durante la rievocazione. L'obiettivo successivo era saccheggiare Vogler.
 - Non sa chi ha fornito l'oro.
-- Alcuni mercenari sono rimasti al campo: tra questi Jeyev, l'altro luogotenente di Cudgel. Svilnt crede che siano leali a Cudgel — quelli pagati da Gragonis erano alla rievocazione.
+- **Ha scelto lui stesso chi portare a High Hill.** Chi non era stato comprato è rimasto al campo a fare quello che fa sempre — esercitazioni, turni di guardia — Jeyev compreso. Svilnt è sicuro di una cosa: nessuno dei rimasti sapeva niente. Gragonis non si fidava abbastanza di loro nemmeno per dirglielo.
+
+> **[NOTA DM — riservata] Perché nessuno ha avvisato Cudgel.** Non è che dei mercenari leali abbiano saputo e taciuto: è più freddo di così. Gragonis ha selezionato lui stesso, uno per uno, chi comprare — e ha lasciato tutti gli altri fuori dal segreto, al campo, con la routine di sempre. Chi è rimasto non aveva niente da riferire perché non sapeva niente da riferire. Se un giocatore lo chiede a Svilnt in questi termini ("perché nessuno ha detto niente"), la risposta di Svilnt è proprio questa: *"Perché non ce l'ha detto neanche a noi, finché non è iniziato."*
 
 *Se Gragonis è il prigioniero:* afferma di non conoscere l'identità del committente, se non che era incappucciato e indossava **armature nere e rosse**.
 
