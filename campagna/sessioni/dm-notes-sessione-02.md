@@ -826,7 +826,7 @@ Un'ora passa prima che arrivino notizie. Nel frattempo, i personaggi si occupano
 > Dalla direzione della Porta del Fiume arriva un rumore di zoccoli: una mercenaria dell'Ironclad Regiment galoppa verso la piazza circolare. Mentre si avvicina, urla: *"Stanno arrivando! Evacuat—"* La voce si spezza quando una figura tozza e incappucciata si lancia dalle scogliere vicine e le piomba sulla schiena, trascinando cavallo e cavaliera a terra.
 
 *[Aggiunta atmosferica]:*
-> *La figura che l'ha attaccata non è umana. Le mani che si chiudono sull'armatura hanno artigli.*
+> *Le mani che si chiudono sull'armatura hanno artigli.*
 
 ---
 
@@ -958,7 +958,7 @@ Quando sei pronto a portare l'invasione al culmine, procedi con questo incontro.
 > Poi lo vedete. Dondolando da un lato all'altro, le scaglie che tintinnano come piastre d'acciaio, una bestia nera si avvicina al molo, affiancata da invasori rettiliani. Fiamme crepitano dalla sua bocca spalancata.
 
 *[Aggiunta atmosferica]:*
-> *Da vicino il movimento non regge: dondola sempre allo stesso modo, sempre della stessa ampiezza, come una cosa montata su un perno. La gente sul molo lo guarda da lontano, attraverso il fumo, e continua a gridare "drago".*
+> *Da vicino il movimento non regge: dondola sempre allo stesso modo, con la stessa ampiezza, come una cosa montata su un perno. La gente sul molo lo guarda da lontano, attraverso il fumo, e continua a gridare "drago".*
 
 ---
 
@@ -1026,7 +1026,7 @@ Dopo che i baaz draconiani del boilerdrak sono sconfitti, arriva il comandante d
 
 ### Testo — Gholcag Emerge [BT-08]
 
-> Una parete del Brass Crab esplode verso l'esterno. Dalla locanda esce una figura di tre metri in armatura a scaglie nera. Tiene un barile di pesce sotto un braccio e si riempie la bocca con una manciata di pesci ancora vivi.
+> Una parete del Brass Crab si sfonda. Dalla locanda esce una figura di tre metri in armatura a scaglie nera. Tiene un barile di pesce sotto un braccio e si riempie la bocca con una manciata di pesci ancora vivi.
 >
 > Da dietro di lei sbucano due soldati rettiliani. *"Quelli dopo,"* dice l'ogre, indicandovi con un gesto. I soldati avanzano obbedienti.
 
@@ -1083,7 +1083,7 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 
 **Testi da leggere per le Villain Actions:**
 
-> **AL MOLO!:** *Gholcag sputa una lisca di traverso e alza l'ascia — non verso di voi. La punta oltre le vostre teste, verso le barche, e abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*
+> **AL MOLO!:** *Gholcag sputa una lisca di traverso e alza l'ascia puntandola oltre le vostre teste, verso le barche. Poi abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*
 > *[Aggiunta atmosferica]: Non vi ha ancora guardati in faccia. Sta ancora masticando.*
 
 > **Onda di Ferro:** *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*

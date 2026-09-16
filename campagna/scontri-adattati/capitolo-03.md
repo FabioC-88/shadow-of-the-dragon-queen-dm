@@ -246,7 +246,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
    
 **Testo da leggere (boss di capitolo — testo + Aggiunta atmosferica, legata al tema "casa che brucia"):**  
 1. *Opener — Al Molo!:*  
-2. *Gholcag sputa una lisca di traverso e alza l'ascia — non verso di voi. La punta oltre le vostre teste, verso le barche, e abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*  
+2. *Gholcag sputa una lisca di traverso e alza l'ascia puntandola oltre le vostre teste, verso le barche. Poi abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*  
 3. *[Aggiunta atmosferica]: Non vi ha ancora guardato in faccia. Sta ancora masticando.*  
 4. *Control — Iron Wave:*  
 5. *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*  
