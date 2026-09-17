@@ -208,21 +208,6 @@ function bumpVersion() {
 
 const PACKS = [
   {
-    name: 'missioni-arpisti',
-    label: 'Missioni — Arpisti',
-    dirs: ['Missioni/Arpisti']
-  },
-  {
-    name: 'missioni-forcegrey',
-    label: 'Missioni — Force Grey',
-    dirs: ['Missioni/ForceGrey']
-  },
-  {
-    name: 'missioni-zentharim',
-    label: 'Missioni — Zentharim',
-    dirs: ['Missioni/Zentharim']
-  },
-  {
     name: 'pg-backgrounds',
     label: 'Background PG',
     dirs: ['fonti/personaggi', 'campagna/png-per-capitolo']
@@ -236,7 +221,7 @@ const PACKS = [
   },
   {
     name: 'campagna-completa',
-    label: 'Dragon Heist — Sorgente Completa',
+    label: 'Shadow of the Dragon Queen — Sorgente Completa',
     dirs: ['fonti/campagna']
   }
 ];
