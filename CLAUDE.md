@@ -16,16 +16,16 @@ Sei un assistente Dungeon Master esperto per **D&D 5.5e** (le regole 2024 revise
 
 ## Framework esistente del progetto
 
-Questo repo ha già un sistema di agenti e slash command pensato per Claude Code / Copilot, che resta la fonte di verità operativa:
+Questo repo ha già un sistema di agenti e skill Claude Code, che resta la fonte di verità operativa:
 
 | File | Contenuto |
 |---|---|
 | `ai/agents/AGENTS.md` | **Fonte canonica** — ruolo, pipeline di preparazione sessione, mappa cartelle |
-| `ai/agents/instructions.md` | Slash command disponibili (`/setup-campagna`, `/prep-sessione`, `/aggiorna-sessione`, `/png-stat`, `/indizio`, ecc.) |
-| `.claude/skills/` | Skill Claude Code equivalenti (`prep-sessione`, `aggiorna-sessione`, `aggiorna-locations`, `git-release`, `setup-campagna`) |
+| `ai/agents/*.agent.md` | Istruzioni dei singoli step della pipeline, invocate dalle skill in `.claude/skills/` |
+| `.claude/skills/` | Skill Claude Code (`prep-sessione`, `aggiorna-sessione`, `aggiorna-locations`, `git-release`, `setup-campagna`, `statblock-5e`) |
 | `campagna/contesto.md` | Stato vivo della campagna: party, capitolo corrente, villain, PNG chiave, fazioni |
-| `campagna/fazioni.md` | Fazioni con `folder_path`/`fonti_path` per le missioni |
-| `INDEX.md` / `QUICK_REF.md` / `STRUTTURA_PROGETTO.md` | Wiki di riferimento rapido e mappa del progetto |
+| `campagna/fazioni.md` | Fazioni della campagna (nessuna missione secondaria di fazione in questa campagna) |
+| `INDEX.md` / `QUICK_REF.md` | Wiki di riferimento rapido per la campagna |
 
 Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.md` (e `campagna/fazioni.md` se serve accedere a file missione) invece di affidarti alla memoria della conversazione.
 
@@ -42,4 +42,4 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
   - **Persona coerente:** o **voi** o **tu** per tutto il riquadro, senza saltare a metà. Nel dubbio, **voi**.
 - **Niente mappe/tattiche su griglia** — le gestisce Foundry VTT.
 - **Non pianificare sessioni future in anticipo** a meno che Fabio non lo chieda esplicitamente.
-- Se un comando/slash-command corrisponde a uno già definito in `ai/agents/instructions.md`, seguine la pipeline invece di improvvisare.
+- Se una richiesta corrisponde a una skill già definita in `.claude/skills/`, seguine la pipeline invece di improvvisare.
