@@ -10,26 +10,29 @@ Sei un assistente Dungeon Master esperto per campagne D&D 5.5e (regole 2024 revi
 > **Nota regolamento:** le sessioni già giocate (`campagna/sessioni/`) possono contenere stat block in formato Monster Manual 2014 — materiale storico, non va retroattivamente convertito. I contenuti nuovi (PNG, incontri, missioni non ancora giocate) vanno generati in formato 2024.
 
 > **Contesto campagna corrente:** leggi `campagna/contesto.md` per party, villain, PNG chiave, fazioni e missioni.
-> **Fazioni attive e cartelle missioni:** leggi `campagna/fazioni.md` (include `folder_path` e `fonti_path` per ogni fazione).
+> **Fazioni attive:** leggi `campagna/fazioni.md`. Questa campagna non ha missioni secondarie di
+> fazione (vedi `campagna/missioni-secondarie.md`) — niente cartelle `missioni/{fazione}/` da cercare.
 
 ---
 
 ## Pipeline di Preparazione Sessione
 
-| Step | Agente | Input | Output |
-|------|--------|-------|--------|
-| 0 | `00-recap-updater.agent.md` | recap-sessione-[NN-1].md | dm-notes-NN aggiornato con delta realtà vs piano |
-| 1 | `01-session-extractor.agent.md` | marker avanzamento | chunk grezzo da fonti/campagna/ + boxed text marcati |
-| 2 | `02-session-translator.agent.md` | chunk EN | draft IT con testi boxed espansi |
-| 3 | `03-session-pc-integrator.agent.md` | draft IT | draft + hook PG, spotlight, note DM riservate |
-| 4 | `04-session-missions-integrator.agent.md` | draft + PG | draft + hook missioni fazioni (legge fazioni.md per i path) |
-| 5 | `02-session-translator.agent.md` (re-invoke) | draft completo | stile uniforme IT su tutto il documento |
-| 6 | `06-session-reviewer.agent.md` | draft finale | dm-notes-NN.md pronto per commit + revision log |
-| 6b *(condiz.)* | `05-chapter-png-briefer.agent.md` | dm-notes-NN.md + contesto.md | `campagna/png-per-capitolo/capitolo-NN/*.md` + contesto.md aggiornato |
-| 7 | `07-location-updater.agent.md` | dm-notes-NN.md finalizzato | locations.json aggiornato + packs recompilati |
-| 8 | `git-procedures.agent.md` | file finale | commit + release GitHub |
+La sequenza esatta degli step vive nelle skill Claude Code, non qui, per evitare che le due
+descrizioni divergano nel tempo:
 
-**Entry point alternativo:** `/aggiorna-sessione` → Step 0 (recap updater) → 3 → 4 → 6 → 7
+- **`/prep-sessione`** (`.claude/skills/prep-sessione/SKILL.md`) — prepara una sessione nuova
+  invocando in ordine `01-session-extractor` → `02-session-translator` → `03-session-pc-integrator`
+  → `04-session-missions-integrator` → `02-session-translator` (re-invoke) → `06-session-reviewer`
+  → `05-chapter-png-briefer` (solo a cambio capitolo).
+- **`/aggiorna-sessione`** (`.claude/skills/aggiorna-sessione/SKILL.md`) — dopo che una sessione è
+  stata giocata, invoca `00-recap-updater` → `03-session-pc-integrator` → `08-context-updater`
+  → `07-location-updater`, poi prepara la sessione successiva (di nuovo con la pipeline di
+  prep-sessione) e propone la skill `git-release` per pubblicare.
+- **`/aggiorna-locations`** (`.claude/skills/aggiorna-locations/SKILL.md`) — invoca solo
+  `07-location-updater`, per aggiornare i luoghi in isolamento senza rifare tutto il resto.
+
+Ogni file `ai/agents/*.agent.md` contiene le istruzioni operative del proprio step; le skill
+sopra sono l'unico punto che ne fissa l'ordine.
 
 ---
 
@@ -42,8 +45,8 @@ campagna/
     capitolo-NN/
       NomePG.md              ← briefing PNG per capitolo (visibile ai giocatori via Foundry pg-backgrounds pack)
   party.md                 ← stato PG: livello, XP, condizioni, note sessione
-  fazioni.md               ← posizione fazioni + folder_path e fonti_path per ogni fazione
-  missioni-secondarie.md   ← stato tutte le missioni (Pianificata / In corso / Completata)
+  fazioni.md               ← posizione delle fazioni verso il party
+  missioni-secondarie.md   ← campagna lineare, nessuna missione di fazione strutturata
   png-incontrati.md        ← relationship map per PG (atteggiamenti numerici)
   rapporti.md              ← note qualitative su rapporti PG-PNG
   sessioni/
@@ -51,40 +54,16 @@ campagna/
     recaps/
       recap-sessione-NN.md   ← recap post-sessione compilato dal DM
 
-missioni/{fazione}/          ← sottocartelle per fazione; i nomi vengono da campagna/fazioni.md
-  M#-NomeMissione.md         ← struttura meccanica: obiettivi, CD, PNG, ricompense
-
-personaggi/
-  NomePG.md                  ← background strutturato di ogni PG
-
 fonti/
   campagna/
-    [libro o modulo principale].md/txt  ← fonte narrativa principale (es. Dragonlance_ Shadow of the Dragon Queen.md)
-  missioni/
-    [Fazione]_MissioneN_*.txt  ← narrativa estesa per ogni missione (dialoghi, scene)
+    Dragonlance_ Shadow of the Dragon Queen.md  ← fonte narrativa principale del libro
+    filo-narrativo-multiverso.md                ← filo narrativo trasversale (Ser Maelis)
   personaggi/
-    *.md (in fonti/personaggi/) ← background grezzi dei PG
-  lore/
-    *.txt / *.odt              ← guide ambientazione, lore, gazetteer
+    *.md                     ← background grezzi dei PG
+  BG_per_giocatori/
+    *.md                     ← versioni dei background condivise con i giocatori
 
-src/                     ← Foundry VTT source JSON (generato da build-foundry.mjs)
+src/                     ← Foundry VTT source JSON (generato da build-foundry.mjs, non versionato)
 packs/                   ← Foundry VTT LevelDB compilati
 module.json              ← manifest Foundry VTT
 ```
-
-### Come gli agenti trovano le cartelle missioni
-
-Le cartelle `missioni/{fazione}/` e le fonti `fonti/missioni/` hanno nomi diversi per ogni campagna.
-**Gli agenti NON hardcodano i nomi delle fazioni.** Prima di accedere ai file missione:
-1. Leggono `campagna/fazioni.md`
-2. Per ogni fazione trovano i campi `folder_path` (es. `missioni/arpisti/`) e `fonti_path` (es. `fonti/missioni/Arpisti_*.txt`)
-3. Usano quei path per aprire i file corretti
-
----
-
-## Setup Nuova Campagna
-
-Per iniziare a lavorare su una nuova campagna:
-1. Sostituisci il contenuto di `campagna/`, `missioni/`, `personaggi/`, `fonti/`, `src/`, `packs/`, `module.json`
-2. Metti le fonti grezze (libro campagna, BG personaggi, testi missioni) nelle sottocartelle di `fonti/`
-3. Invoca `/setup-campagna` → Agente `00-campaign-setup.agent.md` legge le fonti e genera tutti i file strutturati

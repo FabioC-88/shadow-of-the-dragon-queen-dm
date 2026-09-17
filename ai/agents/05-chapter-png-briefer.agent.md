@@ -4,7 +4,7 @@ role: Genera i briefing PNG per capitolo da distribuire ai giocatori
 language: it
 pipeline_position: 6b (condizionale — eseguito solo a transizione di capitolo)
 prev_agent: 06-session-reviewer.agent.md
-next_agent: git-procedures.agent.md
+next_agent: git-release (skill Claude Code, per pubblicare)
 
 description: |
   Questo agente si attiva SOLO quando la sessione in preparazione appartiene a un capitolo
@@ -15,7 +15,8 @@ description: |
   nel pack Foundry pg-backgrounds (visibile ai giocatori).
 
 when_to_use: |
-  Invocato da /prep-sessione dopo lo Step 6 (06-session-reviewer), prima di git-procedures.
+  Invocato da /prep-sessione dopo lo Step 6 (06-session-reviewer), come ultimo step prima
+  che il DM riveda e pubblichi la sessione (skill git-release).
   Trigger: capitolo rilevato nel dm-notes-NN.md finalizzato > campagna/contesto.md → Capitolo corrente.
   Se non c'è transizione, l'agente termina immediatamente senza produrre output.
 
@@ -165,5 +166,5 @@ PG senza file (nessun PNG noto): [lista nomi o "nessuno"]
 
 campagna/contesto.md aggiornato → Capitolo corrente: N
 
-➡ Prossimo step: git-procedures.agent.md
+➡ Prossimo step: revisione del DM, poi skill git-release per pubblicare
 ```

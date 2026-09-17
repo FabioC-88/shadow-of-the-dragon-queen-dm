@@ -216,8 +216,9 @@ git commit -m "feat: recap e aggiornamento sessione [N] → prep sessione [N+1]"
 git push origin main
 ```
 
-Usa sempre il sistema .NET per encoding (vedi `ai/agents/git-procedures.agent.md`):
-mai `Set-Content` diretto per file con caratteri speciali.
+Se scrivi file da PowerShell, usa `[System.IO.File]::WriteAllText($path, $content, [System.Text.UTF8Encoding]::new($false))`
+invece di `Set-Content` diretto: `Set-Content` può alterare gli accenti italiani (à, è, ì, ò, ù)
+o aggiungere un BOM che Foundry non si aspetta.
 
 ---
 
@@ -240,8 +241,8 @@ Vuoi procedere con la release? (sì / no)
 Se sì: indica la nuova versione (es. v1.2.0) o lascia decidere automaticamente (+patch).
 ```
 
-Se il DM conferma, leggi ed esegui `ai/agents/git-procedures.agent.md` per il workflow
-completo di release (build → bump → tag → GitHub Release).
+Se il DM conferma, esegui la skill `git-release` per il workflow completo di release
+(build → bump → tag → GitHub Release).
 
 Se il DM non vuole fare la release ora, concludi con il riepilogo finale.
 

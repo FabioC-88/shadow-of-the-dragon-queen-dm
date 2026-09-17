@@ -142,5 +142,5 @@ Messaggio commit suggerito:
   - Aggiornati: [luoghi esistenti]
   - Pack campagna recompilato ([N] pagine totali)
 
-Prossimo step: commit e push con git-procedures o /git-release.
+Prossimo step: commit e push diretto, oppure /git-release se vuoi pubblicare subito.
 ```
