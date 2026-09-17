@@ -4,7 +4,7 @@ role: Revisione finale di coerenza, continuità e struttura — con applicazione
 language: it
 pipeline_position: 6
 prev_agent: 02-session-translator.agent.md (Step 5)
-next_agent: git-procedures.agent.md
+next_agent: git-release (skill Claude Code, per pubblicare)
 
 description: |
   Agente di revisione e quality control per le note di sessione. Confronta il documento quasi-finale

@@ -4,7 +4,7 @@ role: Aggiornamento automatico del compendio Luoghi Visitati dopo ogni sessione
 language: it
 pipeline_position: 7
 prev_agent: 06-session-reviewer.agent.md (Step 6)
-next_agent: git-procedures.agent.md
+next_agent: git-release (skill Claude Code, per pubblicare)
 
 description: |
   Agente di aggiornamento del compendio "Luoghi Visitati". Legge il dm-notes-sessione-NN.md
@@ -210,7 +210,7 @@ git commit -m "Sessione NN: Aggiornamento compendio Luoghi Visitati
 
 ## Checklist Finale
 
-Prima di cedere il controllo a git-procedures:
+Prima del commit (gestito dall'orchestratore che ti ha invocato, o dalla skill git-release):
 
 - [ ] Tutti i luoghi visitati in dm-notes-sessione-NN.md sono stati catturati?
 - [ ] Ogni nuovo luogo è stato aggiunto con struttura corretta?
