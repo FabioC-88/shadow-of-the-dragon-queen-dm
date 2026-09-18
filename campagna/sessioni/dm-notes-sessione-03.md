@@ -8,7 +8,7 @@
 **Durata stimata:** ~2h30m (5 fasi: 25 + 15 + 15 + 45 + 50 min)
 **Sessione precedente:** dm-notes-sessione-02.md — Cap. 3: When Home Burns, fuga da Vogler in fiamme (righe 1673–2083)
 
-> ⚠️ **Nota pre-sessione:** Nessun aggiornamento a `campagna/party.md` necessario per il livello (resta 4). Verificare però se la sessione precedente ha lasciato una decisione in sospeso sulla **cassa di Becklin** (armatura solamnica) — se i PG l'hanno recuperata da Thornwall Keep, questa sessione è il momento per consegnarla a Darrett (vedi Fase 1). Verificare inoltre quale destino è stato scelto per **Becklin** al tavolo (uccisa / catturata / dispersa / testimone) — resta un thread aperto ma può riaffiorare in conversazione.
+> ⚠️ **Nota pre-sessione:** Nessun aggiornamento a `campagna/party.md` necessario per il livello (resta 4). Verificare se Razak ha ricevuto la **lettera sigillata per gli archivi di Kalaman** nella Sessione 02 (FASE 5B) — se sì, la scena "Il Registro di Rennard" in Fase 5 è disponibile. Verificare inoltre se la sessione precedente ha lasciato una decisione in sospeso sulla **cassa di Becklin** (armatura solamnica) — se i PG l'hanno recuperata da Thornwall Keep, questa sessione è il momento per consegnarla a Darrett (vedi Fase 1). Verificare inoltre quale destino è stato scelto per **Becklin** al tavolo (uccisa / catturata / dispersa / testimone) — resta un thread aperto ma può riaffiorare in conversazione.
 
 ---
 
@@ -285,7 +285,7 @@ Con questo, l'incontro con i governanti di Kalaman si conclude. Marshal Vendri c
 
 ## FASE 5 — Sistemazione e Nuovi Doveri
 
-*~50 minuti · Il ritorno al campo, l'apotecaria di Wyhan (opzionale), l'incontro con Vendri, gli alloggi, gli ordini di Darrett*
+*~50 minuti · Il ritorno al campo, l'apotecaria di Wyhan e gli archivi di Rennard (entrambe opzionali), l'incontro con Vendri, gli alloggi, gli ordini di Darrett*
 
 ### Il Ritorno al Campo
 
@@ -349,6 +349,75 @@ Qualunque sia la risposta, Wyhan replica con critiche pragmatiche. Lascia che in
 Wyhan risponde volentieri a un paio di domande in più sui Maghi di Alta Stregoneria, ma dopo insiste che i personaggi comprino qualcosa o se ne vadano.
 
 *[NOTA DM — riservata] Qualsiasi personaggio interessato riceverà notizie da Wyhan riguardo al proprio Test di Alta Stregoneria all'inizio del prossimo capitolo — non in questa sessione. Segna questo come thread aperto.*
+
+---
+
+### Il Registro di Rennard *(scena opzionale — solo se Razak ha la lettera di Becklin dalla Sessione 02)*
+
+Il destinatario della busta si trova senza difficoltà: la **Sala degli Archivi** è una stanza al primo piano di Castle Kalaman, accanto agli uffici del governatorato, aperta negli orari d'ufficio.
+
+Se nessuno raccoglie la cosa, non forzarla — la lettera resta in tasca e la scena si gioca in una qualsiasi delle sessioni successive a Kalaman. Se Brynja non è presente, Rennard apre comunque il suo fascicolo e consegna a Razak l'estratto anche per lei.
+
+### Testo — La Sala degli Archivi [BT-09b]
+
+> La sala odora di ceralacca e di carta vecchia. Scaffali di registri coprono le pareti fino al soffitto, ognuno etichettato con la stessa grafia minuta. Dietro una scrivania sommersa di fogli, un uomo anziano in giubba grigia alza gli occhi da un volume aperto, si aggiusta gli occhiali e aspetta.
+>
+> *"Se è per le razioni, è il banco di sotto."*
+
+---
+
+Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — usa **commoner** nell'improbabile caso serva un blocco). Non è un cavaliere e non lo è mai stato: è il civile che tiene il registro dei cavalieri e degli scudieri della provincia di Nightlund. Sessant'anni, mani macchiate d'inchiostro, nessuna opinione dichiarata sulla Misura. Tratta le persone come pratiche da chiudere, e lo fa bene.
+
+**La consegna.** Rennard apre la lettera appena gli viene messa in mano, la legge, la gira per vedere se c'è altro sul retro. Poi tira verso di sé un registro e intinge la penna. Da qui in avanti guarda le righe, non le facce.
+
+### Testo — Le Domande di Rennard [BT-09c]
+
+> *"Kendall. Con due elle?"*
+>
+> *"Anno d'ingresso."*
+>
+> *"Chi ha firmato l'ammissione. Testimoni, se ce n'erano."*
+>
+> *"Casata."*
+
+---
+
+*[NOTA DM — riservata] Alla quarta domanda aspetta. Razak non ha una famiglia verificabile: se non arriva risposta, Rennard non insiste, non alza gli occhi, scrive qualcosa di breve e passa alla riga dopo. **Non fargli aggiungere niente** — tutta la scena sta qui, nell'uomo il cui nome non è mai stato scritto da nessuna parte a cui viene chiesto come si scrive.*
+
+**Il fascicolo di Brynja.** Poi Rennard va agli scaffali e torna con un fascicolo sottile, che apre sul banco.
+
+> *"Daewar, Brynja. C'è."*
+>
+> Sfoglia. *"Rinnovata. Rinnovata. Rinnovata."* Continua a sfogliare per un po'. *"L'ultima è di marzo."*
+
+*[NOTA DM] Sono nove anni di rinnovi annuali firmati da Roderick, protocollati e archiviati uno sopra l'altro. Non contarli ad alta voce oltre i tre: lascia che a contarli sia il rumore delle pagine.*
+
+**Se chiedono quando il Consiglio convocherà il banco di prova:**
+
+> *"Non lo decido io. Posso mettere a verbale un sollecito."* Pausa. *"Il sollecito va in questo stesso fascicolo."*
+
+**Cosa consegna.** Una **copia autenticata** dell'iscrizione: i quattro anni di servizio di Razak sotto Becklin (343–347 AC), messi a registro adesso per la prima volta, e la conferma scritta che la candidatura di Brynja è depositata da nove anni, con data e firma di Roderick.
+
+> *"Copia autenticata. Due d'argento. Se la perdete, un'altra ne costa due."*
+
+**L'ultima domanda.** Per ultima, chiusa la pratica, quando i due stanno per uscire:
+
+> *"Era viva quando ve l'ha data?"*
+
+Qualunque cosa rispondano, torna al registro.
+
+> *"...Metto «esito sconosciuto»."*
+
+*[NOTA DM — riservata] Adatta secondo il destino scelto in Sessione 02: se al tavolo Becklin è morta accertata, Rennard scrive "caduta" e chiede la data; se il party non sa, "esito sconosciuto" resta. In entrambi i casi **non smette di lavorare mentre lo chiede**. È l'unica domanda che non sta su nessun modulo: non sottolinearla, non fargliela commentare.*
+
+**Prove opzionali** — la scena funziona senza:
+
+| Chi | Prova | Effetto |
+|-----|-------|---------|
+| Chi osserva Rennard | Saggezza (Intuizione) CD 13 | Dopo aver timbrato, rilegge il fascicolo di Brynja un momento più del necessario. Non dice niente |
+| Chi guarda il sigillo | Intelligenza (Storia) CD 12 | Il nodo della Corona è autentico: la lettera è davvero di mano di un Cavaliere della Corona |
+
+*[NOTA DM — riservata] **A cosa serve davvero questa scena.** Non è un gradino verso l'investitura di Sessione 19 — Rennard non ha nessuna autorità per convocare il Consiglio e lo dice. È l'opposto: è il **canale regolare, lento e freddo**, che il rito di Jandin al Tempio di Paladine scavalcherà del tutto. L'estratto autenticato serve **nel Cap. 7**, quando il party torna a Kalaman e l'investitura di Brynja va resa difendibile davanti all'Ordine dei vivi (vedi `fonti/personaggi/Brynja-Daewar.md`, "il Consiglio dovrà forzare la mano una seconda volta"), insieme al precedente del 198 AC trovato da Garrick nove anni fa. Non anticipare il collegamento al tavolo: qui è solo carta.*
 
 ---
 
@@ -421,6 +490,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 - **Marshal Nestra Vendri** — Attitudine: +1 Cordiale. Pragmatica, ma comincia a fidarsi dei personaggi in base a quello che fanno.
 - **Darrett Highwater** — Attitudine: +3 Alleato. Trova finalmente un ruolo — non più solo scudiero in lutto, ma ufficiale con uno scopo.
 - **Wyhan** *(se incontrata)* — Attitudine: -1 Sospettosa → 0 Neutrale (se il rotolo viene consegnato con successo). Resta distante ma professionalmente interessata.
+- **Cancelliere Aldous Rennard** *(se incontrato)* — Attitudine: 0 Neutrale, e resta lì. Non è freddezza: è un uomo che lavora. Non cambia in base a come i personaggi si comportano.
 
 ---
 
@@ -433,6 +503,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | **Eye in the Sky** (PG incantatore col rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (il Test di Alta Stregoneria, rimandato al prossimo capitolo). |
 | **Broken Silence** (PG con connessione divina) | La tabella "Disagi del Campo Profughi" (voce 2, la caviglia storta) è un'occasione naturale per un piccolo gesto di grazia divina in pubblico — dopo il "vero miracolo" della Sessione 02, i profughi che lo videro potrebbero cercare di nuovo quel personaggio per un aiuto minore. Un piccolo momento, non un evento — la comunità comincia silenziosamente a considerarlo qualcosa di più di un semplice compagno di viaggio. |
 | **Scales of War** (tutti) | **Rhys**, il giovane contadino salvato nella Sessione 00 e possibilmente di nuovo durante l'invasione di Vogler, può essere tra i superstiti al campo in Fase 1 o Fase 5. Se è sopravvissuto, cerca attivamente i personaggi per ringraziarli e offrire il proprio aiuto — diventa un alleato devoto da questo punto in poi. Usalo come manodopera silenziosa, informatore tra i profughi, o comparsa affettuosa nelle sessioni future a Kalaman. |
+| **Razak + Brynja** (lettera di Becklin, Sessione 02) | Il contraltare esatto del rotolo di Wyhan, e cade nella stessa fase: **"Il Registro di Rennard"** (Fase 5). Razak consegna una busta che non ha aperto; Brynja non sa perché è stata portata lì finché il cancelliere non tira fuori il suo fascicolo. È l'unica scena della sessione dedicata ai due scudieri irregolari — *"la stessa eccezione fatta due volte"* (`campagna/party.md`). Gioca Rennard piatto: il peso lo fanno le caselle del modulo, non le sue battute. |
 | **Tutti** | La cassa di Becklin (Fase 1, se recuperata) è un momento condiviso — l'intero gruppo ha partecipato al recupero, e la gratitudine di Darrett è rivolta a tutti loro insieme. |
 
 ---
@@ -456,6 +527,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | Luogo | Descrizione Rapida |
 |-------|---------------------|
 | **Castle Kalaman** | Fortezza-simbolo della città, su rupi di 30 metri. Sede del governatore, del consiglio e del comando militare. Sotterranei sigillati magicamente. |
+| **Sala degli Archivi** *(Castle Kalaman, 1° piano)* | Registro civile dei cavalieri e degli scudieri della provincia di Nightlund, tenuto dal Cancelliere Aldous Rennard. |
 | **City Market** | Bazaar affollato di mercanti da tutto Ansalon — qui si trova qualsiasi equipaggiamento standard. |
 | **Hammerstrike Forges** | Due fucine gemelle gestite dai cugini nani Kadmos (armature) e Tiria (armi) Hammerstrike. |
 | **Harbor Beacons** | Le mura si estendono nel porto; due torri-faro pre-Cataclisma tagliano la nebbia più densa. |
@@ -483,6 +555,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 |--------|-----------|---------|
 | La Prima Missione — Rookledust | Vendri assegna ai personaggi il compito di raggiungere l'inventrice gnoma Tatina Rookledust, 12 miglia a sud di Kalaman, per indagare sul boilerdrak visto a Vogler | Alta → Apertura Sessione 04 |
 | Il Test di Wyhan | Se il rotolo è stato consegnato, il personaggio riceverà notizie sul proprio Test di Alta Stregoneria all'inizio del prossimo capitolo | Media → Cap. 5 |
+| **L'estratto autenticato di Rennard** | Se la lettera è stata consegnata: Razak è a registro per la prima volta, la candidatura di Brynja resta ferma da nove anni. La carta serve **nel Cap. 7**, per rendere difendibile l'investitura di S19 davanti all'Ordine dei vivi | Bassa ora → **Alta nel Cap. 7** |
 | Rhys come alleato | Se salvato di nuovo, resta a Kalaman come sostenitore devoto del party | Bassa → ricorrente |
 | Il destino di Becklin | Ancora irrisolto dalla Sessione 02 — può riaffiorare in una conversazione con Darrett o Jeyev | Alta → Cap. 4-5 |
 | Jeyev Veldrews | Fedeltà ancora ambigua secondo la scelta fatta in Sessione 02 — non compare in questa sessione ma resta un thread aperto | Media |
@@ -506,6 +579,8 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 - [ ] Decisione di Kalaman: party ha giurato servizio militare: Sì / No — chi: ____________
 - [ ] Raven informata dell'esito: Sì / No
 - [ ] Wyhan visitata, rotolo consegnato: Sì / No — predizione mantello: ____________
+- [ ] Archivi visitati, lettera di Becklin consegnata a Rennard: Sì / No — servizio di Razak messo a registro: Sì / No — estratto autenticato acquistato: Sì / No
+- [ ] Come ha reagito Brynja al fascicolo fermo da nove anni: ____________
 - [ ] Marshal Vendri incontrata in ufficio, doveri assegnati: Sì / No
 - [ ] Alloggi a Castle Kalaman presi in uso: Sì / No
 - [ ] Ordini di Darrett ricevuti: Sì / No
@@ -522,6 +597,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | Lord Bakaris Uth Estide | Smascherato pubblicamente davanti al consiglio | -1 Sospettoso → -2 Diffidente |
 | Bakaris il Giovane | Blocca i personaggi nel cortile, viene respinto | -1 → -2 Diffidente |
 | Wyhan | Visitata (se applicabile), test del rotolo completato | -1 Sospettosa → 0 Neutrale |
+| Cancelliere Aldous Rennard | Riceve la lettera di Becklin; iscrive Razak a registro, apre il fascicolo di Brynja | 0 Neutrale (invariata) |
 
 ### Ricompense
 
@@ -543,7 +619,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra chi ha giurato servizio a Kalaman; aggiorna sede base (TBD → Kalaman, Castle Kalaman); registra eventuale XP narrativo assegnato
-- [ ] `campagna/png-incontrati.md` — aggiungi Governor Calof Miat, Marshal Nestra Vendri, Bakaris il Giovane, Wyhan (se incontrata); aggiorna: Raven, Darrett, Lord Bakaris
+- [ ] `campagna/png-incontrati.md` — aggiungi Governor Calof Miat, Marshal Nestra Vendri, Bakaris il Giovane, Wyhan (se incontrata), Cancelliere Aldous Rennard (se incontrato); aggiorna: Raven, Darrett, Lord Bakaris
 - [ ] `campagna/rapporti.md` — compila sezione "Capitolo 03 (Kalaman — Cap 4 libro)" con i rapporti formati in questa sessione
 - [ ] `campagna/fazioni.md` — aggiorna Esercito di Kalaman (posizione verso il party: Neutrale → Amichevole/Alleata se hanno giurato); aggiorna Mages of High Sorcery se Wyhan è stata incontrata
 - [ ] `campagna/contesto.md` — aggiorna **Capitolo corrente: da 3 → 4** (il party è ora stabilmente a Kalaman)
