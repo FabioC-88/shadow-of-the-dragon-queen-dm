@@ -813,6 +813,18 @@ Prima che Becklin e Cudgel partano verso il fronte, Becklin prende Darrett da pa
 
 > *"Ispin aveva ragione su di voi. Sono contenta di aver avuto la possibilità di scoprirlo da sola."*
 
+#### La Lettera *(solo se Razak è al tavolo)*
+
+Prima di rimontare in sella, Becklin toglie dalla bisaccia una busta sigillata col nodo della Corona e la mette in mano a Razak.
+
+> *"Archivi di Castle Kalaman, primo piano. Chiedi di Rennard. Non aprirla."*
+>
+> Poi, mentre rimonta: *"Porta con te la scudiera di Roderick."*
+>
+> Prima di girare il cavallo fa con due dita uno dei segni che gli aveva insegnato nelle riunioni lunghe, anni fa. Quello che voleva dire *dopo*.
+
+*[NOTA DM — riservata] Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è in Sessione 03, FASE 5 ("Il Registro di Rennard"), e funziona con qualunque destino tu scelga per lei nella FASE 5D — la lettera è già partita prima che il suo destino si decida.*
+
 Poi lei e Cudgel cavalcano via.
 
 Un'ora passa prima che arrivino notizie. Nel frattempo, i personaggi si occupano dei preparativi: recuperano la cassa di Becklin da Thornwall Keep, cercano abitanti dispersi, coordinano le imbarcazioni.
@@ -1168,7 +1180,7 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 | PG | Hook in Sessione 02 | Dove cade |
 |----|---------------------|-----------|
 | **Brynja** | ⚠️ Il contraccolpo della magia divina, dalla FASE 0 alla FASE 4 (scala completa in FASE 0). **E poi l'eco:** l'ultima volta che Brynja ha visto case in fiamme e gente da portare fuori era un villaggio nanico di frontiera, l'assalto di Grishnak Spezzapietra — la notte in cui **quello scudo che adesso porta lei** si è frapposto tra lei e un goblin. Stanotte succede di nuovo, e stavolta lo scudo ce l'ha lei. *Non dirlo tu: mettici davanti una casa che brucia con qualcuno dentro e basta.* | FASE 0, 1, 4, 5B |
-| **Razak** | **Thornwall Keep è casa sua** — ci ha servito quattro anni. Stasera i personaggi ci tornano a recuperare la cassa di Becklin (FASE 5A) e a usare lo gnomeflinger (FASE 4), e domani non ci sarà più. **E soprattutto: il destino di Becklin** (FASE 5D, Jeyev). Qualunque opzione tu scelga, per lui non è "un PNG importante che scompare": è **la sua cavaliera**. È tornato a Vogler per un funerale e per ringraziare un uomo troppo tardi; rischia di ripartire con un secondo ringraziamento mai detto. **Dagli la scena, e non affrettarla.** | FASE 4, 5A, 5D |
+| **Razak** | **Thornwall Keep è casa sua** — ci ha servito quattro anni. Stasera i personaggi ci tornano a recuperare la cassa di Becklin (FASE 5A) e a usare lo gnomeflinger (FASE 4), e domani non ci sarà più. **E soprattutto: il destino di Becklin** (FASE 5D, Jeyev). Qualunque opzione tu scelga, per lui non è "un PNG importante che scompare": è **la sua cavaliera**. È tornato a Vogler per un funerale e per ringraziare un uomo troppo tardi; rischia di ripartire con un secondo ringraziamento mai detto. **Dagli la scena, e non affrettarla.** **E la lettera:** prima di partire per il fronte Becklin gli mette in mano una busta sigillata per gli archivi di Kalaman (FASE 5B, *"La Lettera"*) — l'ultimo ordine che gli dà, e non torna a spiegarlo. | FASE 4, 5A, 5B, 5D |
 | **Corin** | **Il palo del molo con la fenice.** Se non è caduto in Sessione 01, l'occasione migliore è adesso: i personaggi si imbarcano **da quel molo**, in fuga, con il villaggio in fiamme alle spalle. Il segno del suo dio — la prima prova che il suo rito di dodici anni non fosse un'invenzione privata — resta lì, e brucia con il resto. *Basta una riga in descrizione mentre la barca si stacca.* | FASE 5C / 5D |
 | **Garrick** | Il **rotolo per Wyhan** è ancora in tasca: durante la fuga, Darrett o Raven nominano **Kalaman** come destinazione, e lui capisce che sta andando esattamente dove il rotolo doveva arrivare. **E Leedara:** è ancora in paese. Se la cerca, gli concede una battuta e niente di più — ma in tutto il gruppo è l'unico con cui abbia parlato davvero. | FASE 1, 5D |
 | **Asurion** | **Lord Bakaris**, che lui ha buttato nel fiume ieri, è tra i civili da evacuare (FASE 5A) — e si oppone ai piani. *È l'unico del gruppo da cui non accetterà niente, e l'unico che potrebbe godersi la scena.* **Attenzione:** Bakaris deve **sopravvivere** all'evacuazione, perché a Kalaman lo ritrovano al consiglio (Sessione 03) con un torto vero da raccontare. | FASE 3, 5A |
@@ -1228,6 +1240,7 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 - [ ] Cavalieri Minacciosi visti: Sì / No — interpretazione DM: ____________
 - [ ] Boilerdrak: distrutto: Sì / No — round impiegati: ____________
 - [ ] Fewmaster Gholcag: sconfitta: Sì / No
+- [ ] Lettera di Becklin per gli archivi di Kalaman consegnata a Razak: Sì / No
 - [ ] Jeyev arrivato: Sì / No — destino di Becklin scelto: ____________
 - [ ] Darrett ha preso l'elmo di Becklin: Sì / No
 - [ ] Party avanzato a Livello 4 sulla barca: Sì / No
@@ -1269,6 +1282,7 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 | **I due Bakaris** | Entrambi sopravvivono e arrivano a Kalaman **prima del party**. Lord Bakaris ha un torto vero da raccontare al consiglio; il figlio vuole soddisfazione da Razak | **Alta → Sessione 03** |
 | L'esercito Dragon Army | Belephaion, Voce di Takhisis — chi comanda questa forza? | Alta → Cap. 4 |
 | Wyhan e il rotolo | Il rotolo per Wyhan — ora la destinazione è Kalaman | Media → Apertura Cap. 4 |
+| **La lettera di Becklin per gli archivi** | Busta sigillata consegnata a Razak prima del fronte, da portare al Cancelliere Rennard a Castle Kalaman **insieme a Brynja**. Nessuno dei due sa cosa contiene | Media → **Sessione 03, FASE 5** |
 | **Garrick ↔ Leedara** | Garrick l'ha corteggiata al funerale; lei ha risposto *"in un altro tempo, forse"*. È l'unico del gruppo che le abbia parlato davvero | Media → **ricompare nel Cap. 4-7, sul filo di Lord Soth** |
 | Jeyev Veldrews | Fedele o traditore? | Dipende dalla scelta DM |
 | Darrett e l'armatura di Becklin | La cassa con l'armatura solamnica — quando/come consegnarla? | Media → Cap. 4 |
