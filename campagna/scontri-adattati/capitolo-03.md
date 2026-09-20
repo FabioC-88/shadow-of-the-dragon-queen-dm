@@ -176,7 +176,10 @@ KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 + 2 aggiunte homebrew
  Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.  
    Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.  
    
- --- AGGIUNTE HOMEBREW (solo per questo incontro, dichiarate) ---  
+ --- AGGIUNTE HOMEBREW — ❌ NON IN USO (scartate dal DM il 20/09/2026) ---  
+ Il Kapak si gioca con la sola scheda ufficiale qui sopra. Le due aggiunte  
+ restano documentate per memoria: erano troppo pesanti per cinque PG al 3°  
+ livello con due incantatori senza slot.  
  Sneak Attack: +2d6 danni extra se ha vantaggio o un alleato e' entro 5 ft  
    dal bersaglio.  
  REACTION — Glide Away: quando un attacco in mischia lo manca, il Kapak puo'  

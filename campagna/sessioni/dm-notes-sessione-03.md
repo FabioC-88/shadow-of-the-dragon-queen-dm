@@ -17,7 +17,9 @@
 > - **Svilnt**, il prigioniero legato nella rimessa: **se il party non se lo ricorda, muore lì.** Non sollevarlo tu.
 > - **Niente PNG nominati tra i curati della notte della coda** — non ne esistono, e non serve inventarli: le scene sotto sono scritte per funzionare senza.
 >
-> 🔴 **L'unica cosa ancora da decidere: il kapak** (incontro d'invasione, 0B) — con o senza le due aggiunte homebrew (Attacco Furtivo + reazione *Via col Volo*)? **Decidi prima, non a metà scontro.** ⚠️ **Consigliato: senza.** Con due incantatori a secco, un colpo da ~19 danni su cinque PG di 3° livello è metà dei PF di quasi tutti. Vedi il riquadro completo in 0B.
+> - **Kapak: SENZA le aggiunte homebrew.** Si gioca la scheda ufficiale e basta — niente Attacco Furtivo, niente reazione *Via col Volo*.
+>
+> ✅ **Nessuna decisione rimasta aperta: la sessione è pronta da giocare così com'è.**
 >
 > ⏸️ **Cose che la Sessione 02 ha lasciato in sospeso e che cadono qui:** il **favore della cassa** di Becklin a Razak (0A), la **lettera per gli archivi di Kalaman** (0B), e **Svilnt Sunderlit**, il mercenario prigioniero legato in una rimessa del villaggio — che brucia stanotte.
 
@@ -263,11 +265,11 @@ oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da velen
 > ⚠️ **Il veleno è nel Multiattacco:** se entrambi i pugnali colpiscono lo stesso bersaglio, quello rischia di restare **paralizzato** fino alla fine del suo turno. È la vera minaccia, non il danno.
 > ⚠️ **Death Throes:** l'acido **resta addosso** e fa 2d6 all'inizio di ogni turno finché qualcuno non spende **un'azione** per toglierlo.
 >
-> 🔧 **Due aggiunte homebrew dichiarate** in `campagna/scontri-adattati/capitolo-03.md`, per rendere il kapak un vero mordi-e-fuggi invece di un nemico che si pianta in mischia. **Usale o no — ma decidi prima, non a metà scontro:**
-> - **Attacco Furtivo:** +2d6 danni se ha vantaggio o se un suo alleato è entro 1,5 m dal bersaglio.
-> - **REAZIONE — Via col Volo:** quando un attacco in mischia lo manca, si sposta di 6 m senza provocare attacchi di opportunità.
+> ✅ **DECISO (20/09/2026): si gioca SENZA le aggiunte homebrew.** Usa la scheda ufficiale qui sopra e nient'altro.
 >
-> *Con il party al 3° livello e le regole opzionali attive, il solo Attacco Furtivo porta un colpo singolo da ~12 a ~19 danni. Se scegli di usarle, valuta di giocare il kapak **da solo** e non dentro un altro incontro.*
+> 🔧 *Per memoria, le due aggiunte scartate — descritte in `campagna/scontri-adattati/capitolo-03.md` e **non in uso in questa sessione**: **Attacco Furtivo** (+2d6 se ha vantaggio o se un alleato è entro 1,5 m dal bersaglio) e **REAZIONE — Via col Volo** (si sposta di 6 m quando un attacco in mischia lo manca, senza provocare attacchi di opportunità).*
+>
+> **Perché scartate, in due righe:** il solo Attacco Furtivo porta un colpo singolo da ~12 a ~19 danni, e la vera arma del kapak è già il Multiattacco che **paralizza**. Con cinque PG di 3° livello, **due incantatori senza slot** e le regole opzionali attive (critici massimizzati, Esaurimento da 0 PF), un paralizzato più un critico è un personaggio a terra che nessuno può rialzare con la magia — e Gholcag arriva *dopo*.
 
 ---
 
@@ -1250,7 +1252,7 @@ Dopo la sessione, aggiorna questi file:
 | 5 | **Setup** | SETUP INIZIALE | Riscritto: la sessione **non si apre più sulla barca all'alba**, ma **in cima alle scogliere** con quattro cadaveri per terra. Il vecchio testo d'apertura (il Vingaard, Kalaman all'orizzonte) è diventato il **ponte [BT-00]** tra la FASE 0 e la FASE 1 |
 | 6 | **Dove spezzare** | Nuova sezione | Aggiunta: il materiale vale 4h20m contro una serata da 2h30m. Punto di rottura consigliato: **fine FASE 0**, sul Livello 4 e sulla barca che si stacca |
 | 7 | **Risorse del party** | 0A | Nuovo riquadro: **Brynja e Corin senza slot** (hanno curato tutta la notte in Sessione 02). Tre opzioni dichiarate — niente riposo / riposo breve / riposo lungo — da scegliere prima di sedersi |
-| 8 | **Decisioni chiuse** | Header, 0A, 0C, 0D | **Becklin: catturata** → Jeyev è il testimone onesto. **Gholcag: ~CR 4.** **Riposo breve** prima dell'invasione (dadi vita sì, slot no). **Svilnt: se il party non se lo ricorda, muore nella rimessa.** Resta aperto solo il **kapak homebrew sì/no** (consigliato: no) |
+| 8 | **Decisioni chiuse** | Header, 0A, 0B, 0C, 0D | **Tutte prese, niente rimasto in sospeso.** Becklin: **catturata** → Jeyev è il testimone onesto. Gholcag: **~CR 4**. **Riposo breve** prima dell'invasione (dadi vita sì, slot no). Svilnt: **se il party non se lo ricorda, muore nella rimessa**. Kapak: **senza le due aggiunte homebrew** |
 | 8b | **Niente PNG inventati** | 0C, Opener di Gholcag | La nota diceva di pescare gli evacuati della barca agganciata tra *"i nomi e le facce segnati alla coda"* — **quei nomi non esistono**, e Fabio non vuole inventare feriti nominati che il tavolo dimentica in due minuti. Riscritta: la barca trascinata via è **una di quelle che il party ha messo insieme con la soluzione navi in 0A**. Stesso prezzo, nessun personaggio da costruire |
 | 9 | **Continuità PNG** | FASE 1 | La cassa di Becklin non è più condizionata alla Sessione 02 ma alla **FASE 0A** di questa. Aggiunta nota: con Becklin catturata, la consegna dell'armatura a Darrett **pesa il doppio** |
 | 10 | **Continuità PNG** | FASE 1, FASE 4 | Raven a **+2 Amichevole** e Darrett a **+3 Alleato** con le motivazioni reali. Aggiunta la nota grossa su **Lord Bakaris**: ha un torto in più (cacciato dal Brass Crab) **e** il party ha una testimone (Raven) che può smontarlo senza tirare |

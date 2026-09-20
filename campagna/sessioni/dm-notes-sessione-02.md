@@ -992,8 +992,8 @@ Trasferite **integralmente e verbatim** in `dm-notes-sessione-03.md` come **FASE
 - [x] **Che fine fa Svilnt** quando Vogler brucia → ✅ **se il party non se lo ricorda, muore nella rimessa**. Non sollevarlo tu
 - [x] **La barca agganciata dall'Opener di Gholcag** → ✅ **nessun evacuato nominato**: è una delle barche messe insieme dal party con la soluzione navi. Scena riscritta in `dm-notes-sessione-03.md`, FASE 0C
 - [x] I portafortuna da 20 mo per i guariti → ✅ **non assegnati**
-- [ ] 🔴 **Kapak: con o senza le due aggiunte homebrew** (Attacco Furtivo + reazione *Via col Volo*)? Da decidere **prima** dello scontro, non a metà. ⚠️ Con il party al 3° livello e due incantatori a secco, pesano — **consigliato: senza**
-- [ ] **Cudgel esce subito** a richiamare i mercenari?
+- [x] **Kapak** → ✅ **senza le due aggiunte homebrew**: scheda ufficiale e basta
+- [ ] **Cudgel esce subito** a richiamare i mercenari? *(l'unica cosa rimasta, e si risolve al tavolo in trenta secondi)*
 
 ---
 

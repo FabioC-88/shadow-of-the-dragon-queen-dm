@@ -229,5 +229,5 @@ portarla via mentre fuggiva, e ha recuperato l'elmo.
 - [x] **Brynja e Corin: slot rimasti = 0** → **riposo breve** prima dell'invasione
 - [x] I portafortuna da 20 mo → **non assegnati**
 - [x] Che fine fa Svilnt quando Vogler brucia → **se non se lo ricordano, muore lì**
+- [x] Kapak → **senza le aggiunte homebrew**
 - [ ] Cudgel esce subito dal villaggio a richiamare i mercenari?
-- [ ] 🔴 Kapak con o senza le aggiunte homebrew (consigliato: senza)
