@@ -586,7 +586,7 @@ Trasferite **integralmente e verbatim** in `dm-notes-sessione-02.md` come **FASE
 
 - [ ] **Stato del combattimento:** recupera dalla scena di Foundry quanti nemici restano in piedi, i PF dei PG e l'ordine di iniziativa
 - [ ] **Ispirazione a Razak** per la storia raccontata al funerale — assegnata o no?
-- [ ] **Corin e il palo del molo:** se non è caduto, l'ultima occasione è la fuga dal molo in Sessione 02 (FASE 5C) — e sarebbe un addio molto più forte
+- [ ] **Corin e il palo del molo:** se non è caduto, l'ultima occasione è la fuga dal molo — trasferita in **Sessione 03, FASE 0C/0D** — e sarebbe un addio molto più forte
 - [ ] **Garrick e Brynja:** si sono parlati dopo nove anni? Se non è successo, la notte al Brass Crab della Sessione 02 è l'ultimo momento tranquillo che avranno per un pezzo
 
 ---

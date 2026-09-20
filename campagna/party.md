@@ -4,17 +4,20 @@
 
 ## Stato Generale
 
-- **Livello attuale:** **2**
-- **Ultima sessione giocata:** **Sessioni 00 + 01 — 13 settembre 2026** (interrotta a metà della Battaglia di High Hill)
-- **Sede base:** Vogler *(cade nella Sessione 02)*
+- **Livello attuale:** **3**
+- **Ultima sessione giocata:** **Sessione 02 — 20 settembre 2026** (chiusa in cima alle scogliere della Porta del Fiume, dopo le FASI 0-4)
+- **Sede base:** Vogler *(cade nella Sessione 03)*
 - **XP Accumulati:** **300 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità*
-- **Prossimo avanzamento:** **Livello 3** alla fine della Battaglia di High Hill, in Sessione 02 FASE 0
+- **Prossimo avanzamento:** **Livello 4** alla fine dell'evacuazione di Vogler, sulla barca — in Sessione 03
 
-> ⚠️ **Perché il livello è 2 e non 3.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. Il passaggio al Livello 3 è legato alla conclusione della battaglia, che avviene in apertura di Sessione 02.
+> ⚠️ **Perché il livello è 3 e non 4.** La Sessione 02 si è fermata alla fine della FASE 4: le scogliere sono state liberate, ma l'evacuazione non è mai cominciata. Il Livello 4 è legato alla fuga completata e arriva in Sessione 03. **Il party affronta quindi Boilerdrak e Fewmaster Gholcag al 3° livello** — come la fonte prevede, ma con Gholcag a ~CR 4 pesa.
+
+> 🔴 **Stato delle risorse in apertura di Sessione 03 — leggilo prima di sedersi.**
+> **Brynja e Corin hanno curato i feriti tutta la notte e non hanno riposato: slot incantesimo a zero.** Si erano guadagnati il riposo lungo — la fila fuori dal Brass Crab reggeva, Raven era stata coinvolta, i limiti erano stati dichiarati in pubblico — e hanno scelto di curare comunque. L'invasione arriva entro la sera dopo.
 
 ---
 
-## Stato dopo la prima serata (Sessioni 00 + 01)
+## Stato dopo la Sessione 02 (20 settembre 2026)
 
 ### Oggetti e risorse
 
@@ -26,27 +29,33 @@
 | Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Broken Silence*; servono da focus |
 | Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
 | 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scales of War* |
+| **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata del Drago senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
 
-### Il patto sulla magia divina — e la sua prima infrazione
+### Il patto sulla magia divina — rotto da entrambi
 
 I personaggi hanno capito da soli di essere **tra i primi a portare magia divina dopo trecento anni** e si sono accordati per **non mostrarla in pubblico**.
 
-**Brynja ha già rotto il patto** durante la Battaglia di High Hill, curando davanti a decine di testimoni, e con ogni probabilità lo rifarà. Combinato con lo Scudo Verde, la rende la persona più facile da descrivere di tutto il villaggio — *«la nana con lo scudo verde di Ispin, quella che fa la luce»*.
+**Il patto non esiste più.** Brynja lo ha rotto durante la Battaglia di High Hill, curando davanti a decine di testimoni; **Corin lo ha rotto la notte stessa**, curando anche lui con incantesimi davanti alla coda fuori dal Brass Crab. Non si sono divisi sulla questione: **hanno fatto la stessa scelta, insieme, per tutta la notte.**
+
+Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana con lo scudo verde di Ispin, quella che fa la luce»* — ma **Corin non è più invisibile**, e da Kalaman in poi il contraccolpo riguarda due persone, non una.
 
 → **Scala completa dei contraccolpi** in `sessioni/dm-notes-sessione-02.md`, FASE 0, sezione *"Il contraccolpo della magia divina"*. Non è un malus meccanico: Brynja lancia quello che vuole. È che il mondo comincia a reagire, e a un certo punto lo fa anche il nemico.
 
-**La scena grossa è la notte stessa.** A Vogler non c'è un sacerdote da trecento anni: entro un'ora dal rientro da High Hill, fuori dal Brass Crab si forma una coda che non è fatta solo dei feriti della battaglia — arriva anche chi ha una madre allettata da due inverni e chi ha un dolore al fianco da sei anni, perché per la prima volta **si può chiedere**. Sei incantesimi contro trenta feriti: i numeri non tornano, e la gente rifiuta le cure ordinarie per aspettare quelle divine. Scena giocabile con orologio del malumore in `dm-notes-sessione-02.md`, FASE 1, *"La Coda fuori dal Brass Crab"*.
+**✅ Com'è andata la notte della coda (Sessione 02).** Il party ha **chiamato la sindaca Raven** e ha spiegato pubblicamente cosa si poteva davvero fare: che gli dèi non rispondono di continuo e che si sarebbero curati solo i più gravi. Niente rissa, nessun morto in coda, nessuna accusa. **Poi hanno curato comunque fino al mattino**, rinunciando al riposo lungo che si erano guadagnati.
 
-⚠️ **La posta, che i giocatori non sanno ancora:** domani sera Vogler brucia e si scappa sulle barche. **Chi resta con una gamba rotta stanotte, domani al molo non ci arriva.**
+**Il testo qui sotto è il piano originale della scena, tenuto per riferimento.** A Vogler non c'è un sacerdote da trecento anni: entro un'ora dal rientro da High Hill, fuori dal Brass Crab si forma una coda che non è fatta solo dei feriti della battaglia — arriva anche chi ha una madre allettata da due inverni e chi ha un dolore al fianco da sei anni, perché per la prima volta **si può chiedere**. Sei incantesimi contro trenta feriti: i numeri non tornano, e la gente rifiuta le cure ordinarie per aspettare quelle divine. Scena giocabile con orologio del malumore in `dm-notes-sessione-02.md`, FASE 1, *"La Coda fuori dal Brass Crab"*.
 
-**Simmetria da non sprecare:** anche **Corin** ha ricevuto un dio quella notte. Se lui il patto lo sta rispettando, il disaccordo tra loro due si scrive da solo.
+⚠️ **La posta, che i giocatori non sanno ancora:** domani sera Vogler brucia e si scappa sulle barche. **Chi resta con una gamba rotta stanotte, domani al molo non ci arriva.** → Dopo la notte passata a curare, **i feriti di High Hill camminano**: falli ricomparire al molo in Sessione 03.
+
+~~**Simmetria da non sprecare:** anche **Corin** ha ricevuto un dio quella notte. Se lui il patto lo sta rispettando, il disaccordo tra loro due si scrive da solo.~~ → **Superato al tavolo (20/09/2026):** Corin si è esposto anche lui. Il gruppo non si divide sulla magia divina, e il problema diventa interamente esterno.
 
 ### Inimicizie personali aperte
 
 | PG | Nemico | Perché | Dove paga |
 |----|--------|--------|-----------|
 | **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa | Kalaman, Sessione 03 (cortile di Castle Kalaman) |
-| **Asurion** | **Lord Bakaris Uth Estide** | Lo ha trascinato nel fiume davanti al molo durante il festival | Kalaman, Sessione 03 (consiglio cittadino): ha un torto vero da raccontare |
+| **Asurion** | **Lord Bakaris Uth Estide** | Lo ha trascinato nel fiume davanti al molo durante il festival | Kalaman (consiglio cittadino): ha un torto vero da raccontare |
+| **Tutto il gruppo** | **Lord Bakaris Uth Estide** | ⚠️ **Sessione 02:** ha provato a comprare la precedenza sulle cure di Brynja ed è stato **cacciato dal Brass Crab** — *«il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»*. Da -1 a **-2 Diffidente** verso tutti | Kalaman, al consiglio: il torto è più grosso di prima, **ma Raven era presente** e può testimoniare che i criteri erano dichiarati |
 | **Garrick** | *(nessuno, ed è il punto)* | È l'autore materiale dell'umiliazione di Bakaris e **non è stato visto**. Lo sa solo lui | — |
 
 ### Thread personali da tenere caldi
@@ -54,6 +63,9 @@ I personaggi hanno capito da soli di essere **tra i primi a portare magia divina
 - **Garrick ↔ Leedara** — l'ha corteggiata al funerale con un tiro alto; lei non ha ceduto ma ha cantato, rispondendo che *«in un altro tempo, forse»*. **La frase è letteralmente vera:** Leedara è morta durante il Cataclisma. Garrick è l'unico del gruppo che le abbia parlato davvero.
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
+- **Razak ↔ Becklin** — ⏸️ **la cassa e la lettera non sono ancora arrivate.** In Sessione 03 Becklin gli chiede il favore della cassa da consegnare a Darrett e gli mette in mano la busta sigillata per gli archivi di Kalaman. Poi parte per il fronte: **il destino scelto per lei è la cattura**. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
+- **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
+- **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
 
 ---
 

@@ -36,7 +36,7 @@
 | 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile. ~~**Al funerale non sa ancora che Garrick esista**~~ → **aggiornato 13/09/2026:** si sono conosciuti sulla strada per Vogler (Sessione 00). La frizione resta non predisposta: nasce nel momento in cui Garrick fa vedere al tavolo cosa sa fare. ⚠️ **Al ricevimento funebre c'è già andato vicino**, risolvendo con una prestidigitazione lo scontro con Bakaris che Razak aveva appena perso — ma di nascosto, e senza prendersi il merito | **Leva DM (revisione 2026-09-03).** Lo spunto scritto è stato tolto: poggiava su una conoscenza pregressa che Razak non ha. Al suo posto, due mosse tue. **(a)** Quando Garrick ricostruisce qualcosa da documenti davanti al gruppo, descrivi la scena dal punto di vista di Razak e fermati lì — nessuna domanda al giocatore. **(b)** Se non raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`). Nessuno è obbligato a reagire |
 | 4 | **Asurion ↔ Garrick** — corpo e carta | ✅ **Si sono visti per la prima volta in Sessione 00**, sulla strada per Vogler, senza che nessuno dei due sapesse niente dell'altro. Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
 | 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Broken Silence* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
-| 6 | **Brynja ↔ il patto del gruppo** *(nata al tavolo, 13/09/2026)* | I personaggi si sono accordati da soli di non mostrare in pubblico la magia divina. **Brynja l'ha rotto durante la Battaglia di High Hill**, curando davanti a decine di testimoni — e porta lo Scudo Verde di Ispin, che a Vogler conoscono tutti. Corin ha ricevuto un dio la stessa notte e finora non si è esposto | **Non arbitrarla.** È materiale da tavolo: se nessuno la solleva, basta far dire a **Becklin** *«hai fatto bene»* con la faccia di una a cui non torna del tutto. Le conseguenze dal mondo sono già scritte in `sessioni/dm-notes-sessione-02.md`, FASE 0 |
+| 6 | ~~**Brynja ↔ il patto del gruppo**~~ → **Il gruppo ↔ il proprio patto** *(nata al tavolo 13/09/2026, chiusa 20/09/2026)* | I personaggi si sono accordati da soli di non mostrare in pubblico la magia divina. Brynja l'ha rotto durante la Battaglia di High Hill; **la notte dopo Corin l'ha rotto a sua volta**, curando con incantesimi davanti alla coda fuori dal Brass Crab. **Non c'è più asimmetria e non c'è più attrito:** hanno fatto la stessa scelta, insieme, per tutta la notte | ✅ **Chiusa.** La scena di disaccordo tra i due portatori non si creerà. Il problema si è spostato **fuori dal gruppo**: due persone pubblicamente riconoscibili come guaritori, e una messaggera dell'Armata del Drago che è andata a riferirlo a Belephaion |
 
 **[NOTA DM]** Nessuna di queste frizioni ha una risoluzione prevista, ed è voluto. Sono materiale d'attrito, non archi narrativi: se il tavolo ne raccoglie una, seguila; se non ne raccoglie nessuna, non hai perso niente, perché restano comunque descrizioni corrette di chi sono questi cinque.
 
@@ -58,6 +58,13 @@
 | **Brynja** | **Becklin Uth Viharin** | +2 Amichevole | Non l'aveva mai incontrata, ma sapeva chi fosse da Ispin. È Becklin a consegnarle lo Scudo Verde |
 | **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni |
 | **Razak** | **Darrett Highwater** | +2 Amichevole | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare |
+| **Brynja e Corin** | **Il villaggio di Vogler** | **I due che fanno miracoli** | Sessione 02: hanno curato i feriti di High Hill tutta la notte, in pubblico, davanti a una coda che non si accorciava. Vogler li ha visti entrambi, e i profughi arrivano a Kalaman con la storia in bocca |
+| **[Tutti]** | **Raven Uth Vogler** | **+2 Amichevole** | Sessione 02: l'hanno chiamata a mettere la propria autorità sulla fila invece di gestirla da soli, e hanno dichiarato in pubblico i limiti delle cure. **[NOTA DM] È la testimone che smonta Lord Bakaris al consiglio di Kalaman** |
+| **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo |
+| **[Tutti]** | **Lord Bakaris Uth Estide** | **-2 Diffidente** *(era -1)* | Sessione 02: **cacciato dal Brass Crab** dopo aver provato a comprare la precedenza sulle cure. *«Il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»* |
+| **Razak e Brynja** | **Than** | **+1 Cordiale** | Sessione 02: si sono fatti catapultare dallo gnomeflinger di Thornwall Keep per piombare sulle sentinelle. Than ha tirato fuori i *narycrash* |
+| **[Tutti]** | **Jeyev Veldrews** | **+1 Cordiale** | Sessione 02: conosciuto all'alba, presentato da Cudgel come uno dei fedeli — **prima** di ricomparire al molo con l'elmo di Becklin |
+| **[Tutti]** | **Gragonis** | ☠️ **Ucciso** | Sessione 02, FASE 0. Con lui muore l'unico che avesse visto in faccia il committente del tradimento |
 
 ---
 
@@ -113,6 +120,20 @@
 | **Razak ↔ Bakaris il Giovane** | **-3 Ostile per un torto che Razak non ha commesso.** Il rancore è reale e la colpa è della persona sbagliata |
 | **Il gruppo ↔ il proprio patto** | **Brynja lo rompe per prima**, durante la battaglia, per curare. Il tavolo non ne ha ancora parlato |
 
+### Capitolo 02 (Vogler — Cap 3 libro) — ✅ Sessione 02, giocata il 20/09/2026 (FASI 0-4)
+
+| Rapporto | Cosa è successo |
+|----------|-----------------|
+| **Il gruppo ↔ il proprio patto** | **Chiuso.** Anche Corin ha curato con incantesimi in pubblico. Non si sono divisi: hanno fatto la stessa scelta insieme, e da qui in avanti il contraccolpo riguarda due persone |
+| **Brynja e Corin ↔ Vogler** | Una notte intera a curare senza riposare. Il villaggio non li teme e non li odia: **li vuole**, che è peggio. Nessun morto in coda, nessuna rissa |
+| **Il party ↔ Raven** | Invece di gestire la fila da soli l'hanno chiamata e le hanno lasciato l'autorità, dichiarando pubblicamente i limiti delle cure. È il momento in cui la sindaca smette di essere un PNG di servizio e diventa un'alleata |
+| **Il party ↔ Lord Bakaris** | Da nemico personale di Asurion a **antipatia di tutti**: cacciato dal Brass Crab davanti alla coda. Il torto che porta a Kalaman è più grosso — ma stavolta c'è una testimone |
+| **Il party ↔ Cudgel** | Gragonis ucciso, prigioniero consegnato vivo, scogliere liberate perché lei potesse uscire a richiamare la compagnia. **+2 Amichevole** |
+| **Il party ↔ Jeyev** | Conosciuto in anticipo sul piano, all'alba, garantito da Cudgel. Quando ricomparirà al molo con l'elmo di Becklin, **non sarà uno sconosciuto** |
+| **Garrick ↔ il famiglio** | Ha risolto un'intera fase di ricognizione mandando avanti un corvo senza nome fisso. Nessuno scontro, nessun allarme, tutte le informazioni |
+| **Il party ↔ l'Armata del Drago** | Primo contatto diretto e formale: un ultimatum firmato **Belephaion, Voce di Takhisis**, e quattro sentinelle uccise sulle scogliere. **[NOTA DM] La messaggera ha notato Brynja ed è andata a riferire** |
+| **Razak ↔ Becklin** | ⏸️ **Non ancora:** la cassa e la lettera arrivano in Sessione 03, e con loro l'ultimo ordine che gli dà prima di essere catturata |
+
 ### Capitolo 03 (Kalaman — Cap 4 libro)
 [TODO — da compilare durante le sessioni]
 
@@ -127,4 +148,4 @@
 
 ---
 
-> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata. Aggiorna dopo ogni sessione.
+> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**. Aggiorna dopo ogni sessione.

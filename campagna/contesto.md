@@ -6,12 +6,12 @@
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
 - **Party:** **5 PG, tutti al tavolo dalla prima serata** — vedi la tabella qui sotto e `campagna/party.md`. Schede complete in `fonti/personaggi/`. *(**Corin Wrenmoor** resta un nome provvisorio: se Gabri lo cambia, va sostituito anche in `campagna/party.md` e nelle sessioni 00-01.)*
-- **Stato:** ✅ **Campagna iniziata il 13 settembre 2026.** Giocate le **Sessioni 00 e 01** nella stessa serata; la Sessione 01 si è interrotta **a metà della Battaglia di High Hill**. Le sessioni successive sono preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`): tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" oltre la Sessione 01 descrivono la **preparazione**, non la partita reale
-- **Capitolo corrente:** **3 — When Home Burns** (prima metà giocata; la seconda metà è la Sessione 02)
-- **Prossima sessione:** **02 — La Caduta di Vogler**, che si apre **in mezzo al combattimento** con la FASE 0
+- **Stato:** ✅ **Campagna iniziata il 13 settembre 2026.** Giocate le **Sessioni 00, 01 e 02**: la 00 e la 01 nella stessa serata (la 01 interrotta a metà della Battaglia di High Hill), la **02 il 20 settembre 2026**, chiusa in cima alle scogliere della Porta del Fiume. Le sessioni successive sono preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`): tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" oltre la Sessione 02 descrivono la **preparazione**, non la partita reale
+- **Capitolo corrente:** **3 — When Home Burns** (High Hill conclusa, la notte della coda giocata, l'ultimatum ricevuto e le scogliere liberate; **Vogler è ancora in piedi** e cade nella Sessione 03)
+- **Prossima sessione:** **03 — La Caduta di Vogler**, che si apre **in cima alle scogliere** con la FASE 0 (evacuazione, invasione, Boilerdrak, Gholcag, l'ultima barca), e prosegue con l'arrivo a Kalaman
 - **Durata Media Sessioni:** 2,5 ore
-- **Livello attuale del party (al tavolo):** **2** — il Livello 3 arriva alla fine della Battaglia di High Hill, in Sessione 02
-- **Preparazione arrivata a:** Capitolo 7 (Siege of Kalaman — apertura con "A Hasty Retreat", Sessione 22 preparata; il materiale prevede la conclusione del Cap. 6 con la fuga dalla Città dei Nomi Perduti, la rivelazione di Lord Soth/Bastione di Takhisis come citadella volante autonoma, e l'avanzamento a Livello 10 — ma questo **non è ancora successo in gioco**)
+- **Livello attuale del party (al tavolo):** **3** — il Livello 4 arriva a evacuazione completata, sulla barca, in Sessione 03
+- **Preparazione arrivata a:** **Sessione 28 — il finale di campagna** (Cap. 7, "Kalaman Victorious"). Tutte le sessioni da 03 a 28 esistono già come dm-notes preparati; i contenuti si spostano in avanti man mano che le serate reali si accorciano — la Sessione 03 porta già dentro tutta la caduta di Vogler, che era della 02
 
 ### Struttura della Campagna
 - **Prequel (Cap 2 — Prelude to War):** Raduno del party a Vogler, preparazione narrativa
@@ -19,13 +19,13 @@
 
 ## Il Party
 
-| PG | Giocatore | Specie / Classe | Divinità | Note dopo la Sessione 01 |
+| PG | Giocatore | Specie / Classe | Divinità | Note dopo la Sessione 02 |
 |----|-----------|-----------------|----------|--------------------------|
 | **Razak Kendall** | — | Umano / Monaco (Ordine di Majere) | — | Ex scudiero di Becklin a Thornwall Keep. **Nemico personale: Bakaris il Giovane** |
-| **Garrick Ashwatch** | — | Umano / Mago (Alta Stregoneria) | — | Porta il rotolo sigillato per Wyhan. **Ha corteggiato Leedara** ed è l'unico che le abbia parlato |
-| **Brynja Daewar** | Eric | Nana di montagna / Chierica | **Mishakal** | ⚠️ Porta lo **Scudo Verde di Ispin** e **ha usato magia divina in pubblico** |
+| **Garrick Ashwatch** | — | Umano / Mago (Alta Stregoneria) | — | Porta il rotolo sigillato per Wyhan. **Ha corteggiato Leedara** ed è l'unico che le abbia parlato. Ha un **famiglio corvo** senza nome fisso, già usato per la ricognizione del campo nemico |
+| **Brynja Daewar** | Eric | Nana di montagna / Chierica | **Mishakal** | ⚠️ Porta lo **Scudo Verde di Ispin**. Ha curato in pubblico su High Hill e poi tutta la notte al Brass Crab: **Vogler la conosce, e la messaggera dell'Armata del Drago l'ha notata**. Senza slot in apertura di Sessione 03 |
 | **Asurion Loech** | Seba | Elfo silvano Kagonesti / Barbaro | — | **Nemico personale: Lord Bakaris**, che ha buttato nel fiume |
-| **Corin Wrenmoor** *(nome provvisorio)* | Gabri | Umano / Druido | **Habbakuk** | Ha appreso il nome del proprio dio nel preludio |
+| **Corin Wrenmoor** *(nome provvisorio)* | Gabri | Umano / Druido | **Habbakuk** | Ha appreso il nome del proprio dio nel preludio. ⚠️ **Sessione 02: ha curato con incantesimi in pubblico anche lui** — il patto del gruppo è rotto da entrambi. Senza slot in apertura di Sessione 03 |
 
 Dettagli completi in `campagna/party.md`; schede in `fonti/personaggi/`.
 
@@ -72,6 +72,8 @@ I principali luogotenenti di Kansaldi includono:
 | **Becklin Uth Viharin** | Alleato Potenziale | Solamnia | Cavaliere di Solamnia, Comandante di Maelgoth |
 | **Ollen Nahled** | Testimone | Solamnia | Comandante di Wheelwatch Outpost, testimone dell'invasione |
 | **Ser Maelis** | Agente Ambiguo | Dragon Queen (in copertura) | Apparente disertore, cavaliere minore. [NOTA DM] Agente segreto di un filo narrativo multi-campagna — vedi sotto |
+| **Gragonis** | ☠️ Defunto | — | Mezzo-ogre, traditore di High Hill. **Ucciso dal party in Sessione 02**: con lui muore l'unico che avesse visto in faccia il committente |
+| **Raven Uth Vogler** | Alleata | Vogler | Sindaca. **+2 Amichevole.** [NOTA DM] È la testimone che smonta Lord Bakaris al consiglio di Kalaman |
 
 ## Fazioni (Nessuna al momento)
 [TODO — No fazioni secondarie previste per questa campagna]
@@ -163,6 +165,8 @@ Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Le Sessioni
 
 ---
 
-> **Prossimo Passo al tavolo:** giocare la **Sessione 02 — La Caduta di Vogler**, che si apre con la **FASE 0** (conclusione della Battaglia di High Hill, trasferita dalla Sessione 01). Tre eredità da tenere presenti: i contraccolpi della magia divina di Brynja, l'inimicizia di Bakaris il Giovane verso Razak e quella di Lord Bakaris verso Asurion.
+> **Prossimo Passo al tavolo:** giocare la **Sessione 03 — La Caduta di Vogler**, che si apre con la **FASE 0** (trasferita dalla Sessione 02). Quattro eredità da tenere presenti: **Brynja e Corin senza slot**, entrambi pubblicamente riconosciuti come guaritori; **Becklin catturata** (decisione presa) e l'elmo che torna a Darrett; **Lord Bakaris cacciato dal Brass Crab** — con Raven testimone del contraddittorio; e **Svilnt**, il prigioniero legato in una rimessa di un villaggio che sta per bruciare.
 
-> **Prossimo Passo di preparazione:** Invoca `/prep-sessione 23` per preparare "Day of Dread" e "Night of Terror" (Cap. 7, righe 5395–5542 in poi) — l'attesa carica di tensione prima dell'assedio, il ritorno di Clystran e Darrett con notizie sui tunnel della citadella, la pianificazione del contrattacco, e i quattro incontri notturni casuali, fino alla soglia della "Battle of Kalaman"
+> **Prossimo Passo di preparazione:** **niente da preparare ex novo** — le sessioni sono già scritte fino alla **28**, il finale di campagna. Dopo ogni serata giocata, `/aggiorna-sessione N` ri-allinea la successiva ai delta reali; il materiale non giocato scivola in avanti di sessione in sessione, com'è già successo due volte (High Hill dalla 01 alla 02, la caduta di Vogler dalla 02 alla 03).
+>
+> ⚠️ **Da tenere d'occhio:** a questo ritmo il contenuto "Kalaman" della Sessione 03 finirà nella 04, e così via. Non è un problema — ma se a un certo punto vuoi rinumerare i file invece di far scivolare i contenuti, è una decisione da prendere una volta sola e in blocco.
