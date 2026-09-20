@@ -426,6 +426,8 @@ Questo trasforma la scena da "quanta gente riesci a far contenta" a **"chi metti
 
 *Traduzione pratica per te: segnati due o tre nomi o facce fra quelli curati stanotte, e altrettanti fra quelli rimandati a domani. Domani sera, durante l'evacuazione, falli ricomparire — nella barca o sulla riva sbagliata.*
 
+> 🔀 **Non è andata così, e va bene.** Al tavolo **nessun ferito ha preso un nome**: erano gente a caso, e Fabio non ha voluto dilungarsi su comparse che il tavolo dimentica in due minuti. **Le scene della Sessione 03 sono state riscritte per non dipendere da nessun nome** — il conto della coda si paga in massa e in barche, non in facce. Vedi l'Opener di Gholcag in `dm-notes-sessione-03.md`, FASE 0C.
+
 ---
 
 #### Orologio del Malumore — 4 tacche
@@ -986,11 +988,11 @@ Trasferite **integralmente e verbatim** in `dm-notes-sessione-03.md` come **FASE
 
 - [x] **Destino di Becklin:** ✅ **catturata** — Jeyev è il testimone onesto della tabella
 - [x] **Fewmaster Gholcag:** ✅ **~CR 4**, versione Action-Oriented di `scontri-adattati/capitolo-03.md`
-- [ ] **Kapak: con o senza le due aggiunte homebrew** (Attacco Furtivo + reazione *Via col Volo*)? Da decidere **prima** dello scontro, non a metà. ⚠️ Con il party al 3° livello e due incantatori a secco, le aggiunte pesano
-- [ ] **Brynja e Corin: slot a zero.** Concedere un riposo lungo prima dell'invasione o no? La fonte fa arrivare l'attacco entro sera
-- [ ] **La barca agganciata dall'Opener di Gholcag:** decidere *prima* chi sono gli evacuati a bordo — pescali tra i guariti della notte della coda
-- [ ] **Che fine fa Svilnt** quando Vogler brucia?
-- [ ] I portafortuna da 20 mo per i guariti sono stati assegnati?
+- [x] **Brynja e Corin: slot a zero** → ✅ **riposo breve** prima dell'invasione (dadi vita sì, slot no)
+- [x] **Che fine fa Svilnt** quando Vogler brucia → ✅ **se il party non se lo ricorda, muore nella rimessa**. Non sollevarlo tu
+- [x] **La barca agganciata dall'Opener di Gholcag** → ✅ **nessun evacuato nominato**: è una delle barche messe insieme dal party con la soluzione navi. Scena riscritta in `dm-notes-sessione-03.md`, FASE 0C
+- [x] I portafortuna da 20 mo per i guariti → ✅ **non assegnati**
+- [ ] 🔴 **Kapak: con o senza le due aggiunte homebrew** (Attacco Furtivo + reazione *Via col Volo*)? Da decidere **prima** dello scontro, non a metà. ⚠️ Con il party al 3° livello e due incantatori a secco, pesano — **consigliato: senza**
 - [ ] **Cudgel esce subito** a richiamare i mercenari?
 
 ---

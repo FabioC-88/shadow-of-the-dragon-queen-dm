@@ -144,10 +144,10 @@ del combattimento in cima alla rupe.
 
 ## Oggetti e Ricompense
 
-- Nessun oggetto notevole registrato al tavolo.
-- *Da chiedere a Fabio:* i portafortuna/gioielli da 20 mo che la fonte assegna a chi strappa un
-  abitante alla morte (Saggezza (Medicina) CD 12 o cura magica) sono stati consegnati? Con due
-  guaritori attivi tutta la notte, il numero potrebbe non essere banale.
+- **Nessun oggetto, nessuna ricompensa materiale.**
+- I portafortuna/gioielli da 20 mo che la fonte assegna a chi strappa un abitante alla morte
+  **non sono stati assegnati** — e nessuno dei curati ha preso un nome: erano gente a caso, e non
+  valeva la pena costruire comparse che il tavolo dimentica in due minuti.
 - Equipaggiamento dei quattro soldati sulle scogliere (spade lunghe, giavellotti, armature a scaglie,
   scudi) — non registrato come raccolto.
 
@@ -166,6 +166,7 @@ del combattimento in cima alla rupe.
 | **La lettera per gli archivi di Kalaman** | Non consegnata: la scena è in FASE 5B, non giocata. La scena "Il Registro di Rennard" resta condizionata |
 | **Cudgel deve uscire dal villaggio** | La rupe è libera proprio per questo: richiamare i mercenari e schierarli a nord |
 | **Il destino di Becklin** | Deciso dal DM: **catturata** (vedi Note DM). Il party lo scoprirà da Jeyev, al molo |
+| **Svilnt legato nella rimessa** | Deciso: **se il party non se lo ricorda, muore quando Vogler brucia** |
 | **Garrick ↔ Leedara** | Invariato. Leedara è ancora a Vogler e non se ne andrà prima della caduta del villaggio |
 
 ## Note DM
@@ -225,7 +226,8 @@ portarla via mentre fuggiva, e ha recuperato l'elmo.
 ### Da segnare prima della prossima sessione
 
 - [ ] **Stato su Foundry:** PF dei personaggi a fine scontro sulla rupe, posizione del party (in cima alle scogliere, a est della Porta del Fiume)
-- [ ] **Brynja e Corin: slot rimasti = 0.** Decidere se concedere un riposo lungo prima dell'invasione o no — la fonte fa arrivare l'attacco entro sera
-- [ ] I portafortuna da 20 mo per i guariti sono stati assegnati?
+- [x] **Brynja e Corin: slot rimasti = 0** → **riposo breve** prima dell'invasione
+- [x] I portafortuna da 20 mo → **non assegnati**
+- [x] Che fine fa Svilnt quando Vogler brucia → **se non se lo ricordano, muore lì**
 - [ ] Cudgel esce subito dal villaggio a richiamare i mercenari?
-- [ ] Che fine fa Svilnt quando Vogler brucia?
+- [ ] 🔴 Kapak con o senza le aggiunte homebrew (consigliato: senza)

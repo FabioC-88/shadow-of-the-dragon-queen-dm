@@ -10,13 +10,14 @@
 
 > ⚠️ **QUESTA SESSIONE SI APRE IN CIMA A UNA RUPE, CON QUATTRO CADAVERI PER TERRA.** La FASE 0 — tutta la caduta di Vogler — è stata **trasferita qui dalla Sessione 02**, dove non c'è stato tempo di giocarla. Il contenuto è completo: non serve aprire l'altro file.
 >
-> 🔴 **Quattro cose da decidere PRIMA di sedersi:**
-> 1. **Il riposo.** Brynja e Corin hanno curato tutta la notte e **non hanno slot**. Vedi il riquadro in apertura di FASE 0A: niente riposo / riposo breve / riposo lungo concesso.
-> 2. **Il kapak** (incontro d'invasione, 0B): con o senza le due aggiunte homebrew (Attacco Furtivo + reazione *Via col Volo*)? **Decidi prima, non a metà scontro.** ⚠️ Con due incantatori a secco, pesano.
-> 3. **La barca agganciata** dall'Opener di Gholcag (0C): decidi *prima* chi sono gli evacuati a bordo — pescali tra i nomi curati la notte della coda.
-> 4. ✅ **Destino di Becklin: CATTURATA** (già deciso). Jeyev è quindi il **testimone onesto** della tabella in 0D: l'ha vista portare via mentre fuggiva e ne ha recuperato l'elmo.
+> ✅ **Decisioni già prese** (20/09/2026):
+> - **Riposo:** **riposo breve** prima dell'invasione — dadi vita sì, slot no. Brynja e Corin affrontano la caduta di Vogler **senza incantesimi**. Vedi il riquadro in apertura di FASE 0A.
+> - **Destino di Becklin: CATTURATA.** Jeyev è quindi il **testimone onesto** della tabella in 0D: l'ha vista portare via mentre fuggiva e ne ha recuperato l'elmo.
+> - **Gholcag: ~CR 4**, versione Action-Oriented di `scontri-adattati/capitolo-03.md`.
+> - **Svilnt**, il prigioniero legato nella rimessa: **se il party non se lo ricorda, muore lì.** Non sollevarlo tu.
+> - **Niente PNG nominati tra i curati della notte della coda** — non ne esistono, e non serve inventarli: le scene sotto sono scritte per funzionare senza.
 >
-> ✅ **Gholcag: ~CR 4** (versione Action-Oriented di `scontri-adattati/capitolo-03.md`) — già deciso.
+> 🔴 **L'unica cosa ancora da decidere: il kapak** (incontro d'invasione, 0B) — con o senza le due aggiunte homebrew (Attacco Furtivo + reazione *Via col Volo*)? **Decidi prima, non a metà scontro.** ⚠️ **Consigliato: senza.** Con due incantatori a secco, un colpo da ~19 danni su cinque PG di 3° livello è metà dei PF di quasi tutti. Vedi il riquadro completo in 0B.
 >
 > ⏸️ **Cose che la Sessione 02 ha lasciato in sospeso e che cadono qui:** il **favore della cassa** di Becklin a Razak (0A), la **lettera per gli archivi di Kalaman** (0B), e **Svilnt Sunderlit**, il mercenario prigioniero legato in una rimessa del villaggio — che brucia stanotte.
 
@@ -75,10 +76,13 @@ Il materiale vale **~4h20m** contro una serata da **2h30m**. **Arrivare a Kalama
 
 > ⚠️ **PRIMA DI COMINCIARE — il riposo.** Brynja e Corin hanno passato la notte a curare e **non hanno slot**. Tra l'assalto alle scogliere e l'arrivo dell'Armata del Drago c'è un pomeriggio di preparativi: la finestra per un riposo lungo **non basta** (servono 8 ore, e l'invasione arriva entro sera).
 >
-> Le tre strade — scegline una e dichiarala al tavolo:
-> - **Niente riposo.** Il più duro e il più coerente: affrontano l'invasione a mani nude, e la notte della coda presenta il conto. ⚠️ Con Gholcag a ~CR 4 contro cinque PG di 3° livello, tieni pronte le valvole di sfogo del riquadro letalità in 0C.
-> - **Riposo breve.** Compromesso onesto: dadi vita sì, slot no. *È la scelta che consiglio se non vuoi ammorbidire ma nemmeno spezzare le gambe al party.*
-> - **Riposo lungo concesso** perché l'attacco tarda. Legittimo, ma toglie peso alla scelta che hanno fatto la notte prima — se lo fai, **non commentarlo**.
+> ✅ **SCELTO: riposo breve.** Dadi vita sì, **slot no**. Brynja e Corin entrano nella caduta di Vogler senza un solo incantesimo, ed è la conseguenza diretta della notte passata a curare.
+>
+> **Come dichiararlo al tavolo:** una riga, senza sottolineature. *«Riuscite a fermarvi un'ora, non di più.»* Non spiegare perché non è un riposo lungo e non ricordare a nessuno cosa ha scelto ieri sera — **se ne accorgono da soli al primo scontro, ed è molto più efficace.**
+>
+> ⚠️ **Tienilo presente in 0C:** Gholcag a ~CR 4 contro cinque PG di 3° livello **senza cure magiche** è il punto più letale della serata. Le valvole di sfogo sono nel riquadro letalità.
+>
+> *(Le altre due strade, se cambi idea: **niente riposo** — più duro, stessa direzione; **riposo lungo** — legittimo, ma toglie peso alla scelta di ieri sera, e allora non commentarlo.)*
 >
 > *In tutti i casi: i feriti di High Hill curati quella notte **camminano**. Falli ricomparire al molo, in piedi, sulle loro gambe.*
 
@@ -494,7 +498,11 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 >
 > **Il primo effetto è pressione, non danno.** Restringere il campo di 4,5 m fa tre cose insieme: toglie spazio per sganciarsi da un'ogre con Portata 1,5 m e una Reazione punitiva, prepara *Onda di Ferro* (party più stretto = più bersagli nel raggio di 4,5 m), e mostra fisicamente sulla mappa quello che sta succedendo — l'assalto che si chiude sul molo.
 >
-> **[NOTA DM — riservata] Il secondo effetto non ha un prezzo meccanico: ha un prezzo in persone.** Il party può ignorare la barca e vincere lo scontro lo stesso. Non annunciarlo come un timer e non tirare fuori un conto alla rovescia: **descrivilo**, una riga alla fine di ogni round, e lascia che decidano se qualcuno spende un turno. Se lo ignorano, gli evacuati trascinati via sono i **nomi e le facce che ti sei segnato alla coda fuori dal Brass Crab** (Sessione 02, FASE 1) — quelli che Brynja non è riuscita a curare. È lì che quella scena viene a chiedere il conto, senza che tu debba dire una parola.
+> **[NOTA DM — riservata] Il secondo effetto non ha un prezzo meccanico: ha un prezzo in persone — e non ti serve nessun nome.** Il party può ignorare la barca e vincere lo scontro lo stesso. Non annunciarlo come un timer e non tirare fuori un conto alla rovescia: **descrivilo, una riga alla fine di ogni round**, e lascia che decidano se qualcuno spende un turno.
+>
+> ⚠️ **Se lo ignorano, non inventare vittime con un nome e una faccia.** La barca trascinata via è **una di quelle che il party ha messo insieme in 0A** con la soluzione navi — la zattera legata, il traghetto rimontato, le barche requisite. Il costo è quello, ed è concreto senza bisogno di personaggi: hanno lavorato mezza giornata per far entrare cento persone in più, e ne perdono una barcata. **Una riga mentre la corrente se la porta, e basta.**
+>
+> *Se in 0A non hanno risolto il problema navi, è semplicemente una delle barche del villaggio — funziona uguale.*
 
 > 📝 **Cosa c'era prima, e perché è stato sostituito.** La vecchia Villain Action 1 (*Ai Miei Ordini*) faceva sparare il Boilerdrak. Non poteva funzionare: Gholcag entra in scena **dopo** che i quattro baaz dell'equipaggio sono stati sconfitti, quindi il draconiano a cui dava l'ordine non esiste più — e per giunta la macchina è un **oggetto da 100 PF** che il party può aver distrutto o disinnescato. Una Villain Action che il party può cancellare prima ancora che il boss entri in scena non è una Villain Action. *Al Molo!* la sostituisce e non dipende da niente di eliminabile.
 
@@ -1065,7 +1073,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | **Garrick** | Il **rotolo per Wyhan** è ancora in tasca: durante la fuga, Darrett o Raven nominano **Kalaman** come destinazione, e lui capisce che sta andando esattamente dove il rotolo doveva arrivare. **E Leedara:** è ancora in paese e non se ne andrà prima della caduta. Se la cerca mentre il villaggio brucia, decidi tu cosa vede — *lei non ha bisogno di scappare* | 0B, 0D |
 | **Asurion** | **Lord Bakaris è tra i civili da evacuare** (0A) — quello che ha buttato nel fiume, e che la sera prima è stato cacciato dal Brass Crab — e si oppone ai piani. *È l'unico del gruppo da cui non accetterà niente, e l'unico che potrebbe godersi la scena.* ⚠️ **Deve sopravvivere**, lui e il figlio: si ritrovano al consiglio in FASE 4 | 0A |
 | **Tutti** | **Rhys**, il contadino salvato in Sessione 00, può essere tra i civili da evacuare. Se lo salvano di nuovo, a Kalaman diventa un alleato devoto | 0A/0B |
-| **Tutti** | ⏸️ **Svilnt Sunderlit**, il mercenario prigioniero, è legato in una rimessa del villaggio. Nessuno ha deciso cosa farne, e il villaggio brucia. **Non sollevarlo tu:** se se ne ricordano, è una scelta vera; se non se ne ricordano, è una cosa che scopriranno di aver fatto | 0A/0B |
+| **Tutti** | ⏸️ **Svilnt Sunderlit**, il mercenario prigioniero, è legato in una rimessa del villaggio. **Non sollevarlo tu.** Se se ne ricordano, è una scelta vera — liberarlo, portarlo sulle barche, finirlo. ✅ **Se non se ne ricordano, muore lì**, e non c'è bisogno di dirlo: lo scopriranno, o non lo scopriranno mai | 0A/0B |
 
 ### Hook delle FASI 1-5 — Kalaman
 
@@ -1157,7 +1165,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 - [ ] Cavalieri Minacciosi visti: Sì / No — interpretazione DM: ____________
 - [ ] Boilerdrak: distrutto / disinnescato / esploso — round impiegati: ____________
 - [ ] Fewmaster Gholcag sconfitta: Sì / No — valvole di sfogo usate: ____________
-- [ ] La barca agganciata dall'Opener: salvata Sì / No — chi c'era a bordo: ____________
+- [ ] La barca agganciata dall'Opener: salvata Sì / No — quale delle barche messe insieme in 0A: ____________
 - [ ] Jeyev arrivato al molo: Sì / No — come ha reagito Darrett all'elmo: ____________
 - [ ] PG a 0 PF durante la fase: ____________
 - [ ] **Party avanzato a Livello 4 sulla barca:** Sì / No
@@ -1242,7 +1250,8 @@ Dopo la sessione, aggiorna questi file:
 | 5 | **Setup** | SETUP INIZIALE | Riscritto: la sessione **non si apre più sulla barca all'alba**, ma **in cima alle scogliere** con quattro cadaveri per terra. Il vecchio testo d'apertura (il Vingaard, Kalaman all'orizzonte) è diventato il **ponte [BT-00]** tra la FASE 0 e la FASE 1 |
 | 6 | **Dove spezzare** | Nuova sezione | Aggiunta: il materiale vale 4h20m contro una serata da 2h30m. Punto di rottura consigliato: **fine FASE 0**, sul Livello 4 e sulla barca che si stacca |
 | 7 | **Risorse del party** | 0A | Nuovo riquadro: **Brynja e Corin senza slot** (hanno curato tutta la notte in Sessione 02). Tre opzioni dichiarate — niente riposo / riposo breve / riposo lungo — da scegliere prima di sedersi |
-| 8 | **Decisioni chiuse** | Header, 0D | **Becklin: catturata** → Jeyev è il testimone onesto. **Gholcag: ~CR 4.** Restano aperte: kapak homebrew sì/no, riposo, chi c'è sulla barca agganciata |
+| 8 | **Decisioni chiuse** | Header, 0A, 0C, 0D | **Becklin: catturata** → Jeyev è il testimone onesto. **Gholcag: ~CR 4.** **Riposo breve** prima dell'invasione (dadi vita sì, slot no). **Svilnt: se il party non se lo ricorda, muore nella rimessa.** Resta aperto solo il **kapak homebrew sì/no** (consigliato: no) |
+| 8b | **Niente PNG inventati** | 0C, Opener di Gholcag | La nota diceva di pescare gli evacuati della barca agganciata tra *"i nomi e le facce segnati alla coda"* — **quei nomi non esistono**, e Fabio non vuole inventare feriti nominati che il tavolo dimentica in due minuti. Riscritta: la barca trascinata via è **una di quelle che il party ha messo insieme con la soluzione navi in 0A**. Stesso prezzo, nessun personaggio da costruire |
 | 9 | **Continuità PNG** | FASE 1 | La cassa di Becklin non è più condizionata alla Sessione 02 ma alla **FASE 0A** di questa. Aggiunta nota: con Becklin catturata, la consegna dell'armatura a Darrett **pesa il doppio** |
 | 10 | **Continuità PNG** | FASE 1, FASE 4 | Raven a **+2 Amichevole** e Darrett a **+3 Alleato** con le motivazioni reali. Aggiunta la nota grossa su **Lord Bakaris**: ha un torto in più (cacciato dal Brass Crab) **e** il party ha una testimone (Raven) che può smontarlo senza tirare |
 | 11 | **Hook PG** | Hook PG | Aggiunta la tabella degli **hook della FASE 0** (trasferiti dalla Sessione 02) accanto a quelli di Kalaman. Aggiunti due hook nuovi: **Svilnt il prigioniero** dimenticato in una rimessa, e **Leedara che non ha bisogno di scappare** |
