@@ -60,7 +60,7 @@
 | **Affiliazione** | Knights of Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
 | **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) · **+3 Alleato verso Razak** |
-| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler |
+| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler. ⏸️ **Dopo la Sessione 02 non ha ancora chiesto a Razak il favore della cassa**, né consegnato la busta per gli archivi di Kalaman: entrambe le scene sono in Sessione 03, FASE 0A e 0B. **[NOTA DM — riservata] Destino scelto: CATTURATA** durante la battaglia al fronte. Il party lo scopre da Jeyev, al molo, in FASE 0D |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
@@ -94,8 +94,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — ricevimento funebre al Brass Crab |
 | **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
 | **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
-| **Attitudine Attuale** | **+1 Cordiale** (dopo la Sessione 01) |
-| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro della Dragon Army e ha dato ordine di ucciderla durante la rievocazione. ⚠️ **Alla fine della Sessione 01 non lo sa ancora**: lo scopre in Sessione 02, FASE 0. Può diventare alleata nel Northern Wastes (Cap. 5) |
+| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro della Dragon Army e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ⏸️ **Le scogliere sono state liberate proprio perché lei potesse uscire** a richiamare la compagnia e schierarla a nord: è la prima cosa che fa in Sessione 03. Può diventare alleata nel Northern Wastes (Cap. 5) |
 
 ---
 
@@ -106,8 +106,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — Festival del Kingfisher |
 | **Affiliazione** | Vogler |
 | **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
-| **Attitudine Attuale** | **+1 Cordiale** |
-| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ⚠️ In Sessione 02 è lei a porre pubblicamente a Brynja la domanda sul ritorno degli dèi |
+| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo |
 
 ---
 
@@ -118,8 +118,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — sul molo, ubriaco, durante la gara di pesca |
 | **Affiliazione** | Solamnia (nobile, ma principalmente sé stesso) |
 | **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi. Comicamente vigliacco: tutto fiato e parole gonfie |
-| **Attitudine Attuale** | **-3 Ostile verso Asurion** · -1 Sospettoso verso gli altri |
-| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. **Sessione 02, la notte della coda:** prova a comprare la precedenza sulle cure di Brynja, offrendo oro perché passi prima da Westide House — dove non c'è nessun malato. Rifiutato, comincia a dire in giro che la chierica sceglie chi vive. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Si porta dietro tre torti**, due veri nella lettera e uno inventato: il tuffo nel fiume, l'umiliazione del figlio, e *«mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no»*. Quest'ultima al consiglio suona benissimo e non si smonta facilmente. Il suo arco continua per tutto il Cap. 4 |
+| **Attitudine Attuale** | **-3 Ostile verso Asurion** · **-2 Diffidente verso il resto del gruppo** (dopo la Sessione 02) |
+| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. ✅ **Sessione 02, la notte della coda:** ha provato a comprare la precedenza sulle cure di Brynja, offrendo oro perché passasse prima da Westide House — dove non c'è nessun malato. **È stato cacciato dal Brass Crab**: gli è stato risposto che *il potere degli dèi non è in vendita, e che se era davvero ferito poteva mettersi in fila*. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Si porta dietro quattro torti**, tre veri nella lettera e uno inventato: il tuffo nel fiume, l'umiliazione del figlio, *«mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no»*, e **di essere stato buttato fuori da una locanda davanti a mezzo villaggio**. ⚠️ **Ma il party ha anche il contraddittorio senza saperlo:** la spiegazione pubblica sui limiti delle cure è stata data **con Raven presente e consenziente**, e Raven arriva a Kalaman con i profughi. Il suo arco continua per tutto il Cap. 4 |
 
 ---
 
@@ -156,11 +156,11 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Mezzo-ogre, luogotenente di Cudgel — **il traditore di High Hill** |
-| **Prima Apparizione** | ⏸️ **Sessione 02, FASE 0** — non è ancora entrato in campo |
+| **Prima Apparizione** | ✅ **Sessione 02, FASE 0** — entrato in campo dopo i cavalieri, con cinque guardie |
 | **Affiliazione** | Reggimento Ironclad (formalmente); **comprato dal Red Dragon Army** |
 | **Tratto** | Enorme, ascia bipenne d'acciaio, nessuna intenzione di ritirarsi |
-| **Attitudine Attuale** | **-3 Ostile** |
-| **Note** | ⚠️ **È un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Agenti della Dragon Army lo hanno contattato nel bosco a ovest del campo e hanno comprato la sua fedeltà. Con quell'oro **ha pagato i mercenari**: l'intera compagnia sulla collina sa cosa sta facendo. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad. Blocco statistiche in `sessioni/dm-notes-sessione-02.md`, FASE 0, e in `scontri-adattati/capitolo-03.md`. **Se i personaggi lo risparmiano**, è lui il prigioniero dell'interrogatorio |
+| **Attitudine Attuale** | ☠️ **MORTO** — ucciso dal party il 20/09/2026, Sessione 02 FASE 0 |
+| **Note** | ⚠️ **MORTO SUL CAMPO DI HIGH HILL.** Con lui è morta **l'unica persona che avesse visto in faccia il proprio committente**: il mandante del tradimento resta ignoto, e il collegamento con l'Armata del Drago il party lo ha fatto da solo il giorno dopo, per deduzione. ⚠️ **È un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Agenti della Dragon Army lo hanno contattato nel bosco a ovest del campo e hanno comprato la sua fedeltà. Con quell'oro **ha pagato i mercenari**: l'intera compagnia sulla collina sa cosa sta facendo. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad. Blocco statistiche in `sessioni/dm-notes-sessione-02.md`, FASE 0, e in `scontri-adattati/capitolo-03.md`. ~~**Se i personaggi lo risparmiano**, è lui il prigioniero dell'interrogatorio~~ — non è successo: il prigioniero è Svilnt |
 
 ---
 
@@ -168,11 +168,11 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | L'altro luogotenente di Cudgel |
-| **Prima Apparizione** | Sessione 02, FASE 5D (al molo) — nominato già nell'interrogatorio |
+| **Prima Apparizione** | ✅ **Sessione 02, FASE 3** — rientra a Vogler all'alba insieme a Cudgel (in anticipo sul piano, che lo dava al molo) |
 | **Affiliazione** | Reggimento Ironclad |
-| **Tratto** | Arriva con l'elmo di Becklin e una storia da raccontare |
-| **Attitudine Attuale** | Non ancora incontrato |
-| **Note** | Rimasto al campo con i mercenari **non** comprati da Gragonis. [NOTA DM — riservata] La sua fedeltà è ambigua per scelta: è il DM a decidere se sia un testimone onesto del destino di Becklin o un secondo traditore comprato. Vedi la tabella delle opzioni in `dm-notes-sessione-02.md`, FASE 5D |
+| **Tratto** | Umano, pratico; ricompare al molo con l'elmo di Becklin e una storia da raccontare |
+| **Attitudine Attuale** | **+1 Cordiale** |
+| **Note** | Rimasto al campo con i mercenari **non** comprati da Gragonis; ha trattenuto i soldati rimasti leali al traditore e li ha consegnati. ✅ **Sessione 02:** il party lo ha conosciuto all'alba, **presentato da Cudgel come uno dei fedeli** — non è più lo sconosciuto ambiguo che il piano prevedeva al molo. **[NOTA DM — riservata] Destino di Becklin scelto: CATTURATA.** Jeyev è quindi il **testimone onesto** della tabella: ha visto portarla via mentre fuggiva e ne ha recuperato l'elmo. Scena in `dm-notes-sessione-03.md`, FASE 0D |
 
 ---
 
@@ -180,11 +180,35 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Guardia di basso rango dell'Ironclad — **il prigioniero** |
-| **Prima Apparizione** | ⏸️ **Sessione 02, FASE 0/1** — catturato alla fine della battaglia |
+| **Prima Apparizione** | ✅ **Sessione 02, FASE 0/1** — catturato alla fine della battaglia |
 | **Affiliazione** | Reggimento Ironclad (pagato da Gragonis) |
 | **Tratto** | Insulta finché può, poi parla |
 | **Attitudine Attuale** | **-2 Diffidente** |
-| **Note** | Legato con una rete da pesca e interrogato al Brass Crab (Sessione 02, FASE 1). Sa del piano di Gragonis e dell'oro, **ma non chi lo abbia pagato**. Se i personaggi hanno risparmiato Gragonis, il prigioniero è lui al posto di Svilnt |
+| **Note** | ✅ **Interrogato al Brass Crab (Sessione 02, FASE 1) e ha parlato:** il piano di Gragonis di uccidere Cudgel e prendersi l'Ironclad, l'oro preso nel bosco a ovest, i mercenari comprati per attaccare davvero, e il fatto che Jeyev e i rimasti al campo siano probabilmente leali. **Non sa chi abbia fornito l'oro.** ⚠️ **È ancora legato nella rimessa a Vogler, sotto guardia, e nessuno ha deciso cosa farne** — la domanda torna in Sessione 03, quando il villaggio brucia |
+
+---
+
+### Than
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Gnomo armeggione di Vogler; inventore dello **gnomeflinger** di Thornwall Keep |
+| **Prima Apparizione** | ✅ **Sessione 02, FASE 4** — prestando la propria macchina per l'assalto alle scogliere |
+| **Affiliazione** | Nessuna; amico di Becklin e Darrett |
+| **Tratto** | Entusiasmo infantile per le proprie macchine; dimentica i dettagli di sicurezza finché non glieli chiedi |
+| **Attitudine Attuale** | **+1 Cordiale** |
+| **Note** | Lo gnomeflinger è un mezzo di trasporto gnomesco di Mount Nevermind: non lancia proiettili, lancia persone. Becklin lo tollera perché da lontano sembra un'arma d'assedio. ✅ **Sessione 02: Razak e Brynja si sono fatti catapultare sulle scogliere**, e Than ha tirato fuori i *narycrash* — sono atterrati tutti bene. **Ricompare nel Cap. 7 (Sessione 24)** come assistente di Tatina Rookledust, con uno gnomeflinger di scala bellica: se un PG lo riconosce, è un richiamo diretto |
+
+---
+
+### Messaggera dell'Armata del Drago *(senza nome)*
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Araldo a cavallo del Red Dragon Army; ha consegnato l'ultimatum a Vogler |
+| **Prima Apparizione** | ✅ **Sessione 02, FASE 4** — alla Porta del Fiume |
+| **Affiliazione** | Red Dragon Army |
+| **Tratto** | Cotta a scaglie nera e rossa senza un pezzo lasciato al caso; non smonta, non saluta, aspetta |
+| **Attitudine Attuale** | **-3 Ostile** |
+| **Note** | Ha consegnato l'ultimatum firmato **Belephaion, Voce di Takhisis** (*alloggiare i soldati questa notte o morire*) e se n'è andata prima che il party attaccasse le scogliere. ⚠️ **[NOTA DM — riservata] Gradino 3 del contraccolpo divino, opzione (a):** ha **notato Brynja** — lo scudo verde, il simbolo di Mishakal — un attimo più del necessario, e **è tornata a riferire**. Da Kalaman in poi **Belephaion sa** che a Vogler c'era una guaritrice vera, e per come è andata la notte della coda ce n'erano **due**. Ricompare come dettaglio inatteso: un ufficiale che la riconosce, un ordine di catturare anziché uccidere, lo scudo descritto in un dispaccio |
 
 ---
 

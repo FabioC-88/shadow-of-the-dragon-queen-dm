@@ -1,5 +1,5 @@
 **Scontri Adattati — Capitolo 3: When Home Burns**  
-**Copre:** Sessione 01 (La Battaglia di High Hill, Liv. 2) + Sessione 02 (La Caduta di Vogler, Liv. 3→4)  
+**Copre:** Sessione 01 (La Battaglia di High Hill, Liv. 2) + Sessione 02 (La Notte dopo High Hill, Liv. 3) + Sessione 03 (La Caduta di Vogler, Liv. 3→4)  
    
  **Framework di difficoltà:** vedi [00-framework.md — CR budget *Flee, Mortals!*, niente regola Minion, boss Action-Oriented con Villain Actions  
    
@@ -80,7 +80,7 @@ GRAGONIS — HALF-OGRE (Boss, ~CR 2)
    
 **Nota tattica invariata:** Gragonis punta il personaggio più minaccioso e non si ritira mai — coerente con l'originale. Il testo d'ingresso resta quello già scritto in dm-notes-sessione-01.md ("Una figura massiccia brandisce...") — non serve altro boxed text per lui.  
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnEAAAACCAYAAAA3pIp+AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAANklEQVR4nO3OQQmAABRAsScYxpg/h5VMYARvRrCCNxG2BFtmZquOAAD4i3Ot7mr/egIAwGvXA224BcUMk6pDAAAAAElFTkSuQmCC)  
-**Sessione 02 — La Caduta di Vogler (Livello 3 → 4)**  
+**Sessione 03 — La Caduta di Vogler (Livello 3 → 4)** — *era pianificata per la Sessione 02, trasferita il 20/09/2026*  
 **Perché qui serve un approccio "a budget giornaliero"**  
 Questa sessione infila **fino a 6 scontri** in una sola giornata di gioco (ricognizione opzionale, 4 soldati sulle scogliere, almeno 3 incontri dalla tabella d'invasione, Boilerdrak, Gholcag). Il sistema di *Flee, Mortals!* raccomanda **6-8 punti giornalieri** (Facile=1, Standard=2, Difficile=4). Sommare tutto a difficoltà "Standard" sfonda il budget prima ancora di arrivare a Gholcag — per questo gli scontri minori (ricognizione, scogliere, singoli incontri della tabella d'invasione) restano deliberatamente leggeri/veloci, riservando il vero peso della giornata al duo finale.  
 **Ricognizione nel Bosco (opzionale) — invariato**  
@@ -176,7 +176,10 @@ KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 + 2 aggiunte homebrew
  Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.  
    Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.  
    
- --- AGGIUNTE HOMEBREW (solo per questo incontro, dichiarate) ---  
+ --- AGGIUNTE HOMEBREW — ❌ NON IN USO (scartate dal DM il 20/09/2026) ---  
+ Il Kapak si gioca con la sola scheda ufficiale qui sopra. Le due aggiunte  
+ restano documentate per memoria: erano troppo pesanti per cinque PG al 3°  
+ livello con due incantatori senza slot.  
  Sneak Attack: +2d6 danni extra se ha vantaggio o un alleato e' entro 5 ft  
    dal bersaglio.  
  REACTION — Glide Away: quando un attacco in mischia lo manca, il Kapak puo'  

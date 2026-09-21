@@ -92,16 +92,22 @@
 
 | Campo | Valore |
 |-------|--------|
-| **Posizione verso il party** | **Spaccata in due** — Cudgel e i suoi: Cordiale; i mercenari di Gragonis: **Ostili** |
-| **PNG di contatto** | **Cudgel Ironsmile** — capitana nana (+1 Cordiale dopo la Sessione 01) |
+| **Posizione verso il party** | **Amichevole** — la spaccatura è risolta: Gragonis è morto e i suoi sono stati trattenuti |
+| **PNG di contatto** | **Cudgel Ironsmile** — capitana nana (**+2 Amichevole** dopo la Sessione 02); **Jeyev Veldrews**, luogotenente (+1 Cordiale) |
 | **Sede operativa** | Accampamento mercenari a un miglio a nord di High Hill |
 | **Obiettivo** | Profitto; contratti militari; sopravvivenza |
 
 **Stile operativo:** Compagnia mercenaria guidata da Cudgel Ironsmile, ex compagna d'avventura di Ispin Greenshield e di Becklin. Ingaggiata a Vogler per la rievocazione del Festival del Kingfisher; la sua lealtà si conquista con l'oro o dimostrando valore. Cudgel rispetta la forza e l'onestà.
 
-> ⚠️ **STATO AL 13/09/2026 — la compagnia si è spezzata a metà rievocazione.** Il luogotenente **Gragonis** (mezzo-ogre) è stato comprato da agenti del Red Dragon Army nel bosco a ovest del campo, e con quell'oro **ha pagato i mercenari**: l'intera parte della compagnia presente su High Hill sa cosa sta facendo, e ha lance con le punte vere. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad.
+> ✅ **STATO AL 20/09/2026 — il tradimento è finito, la compagnia ha retto.** **Gragonis è morto sul campo di High Hill**, ucciso dal party. Cudgel è rientrata al campo da sola nella notte e ne è tornata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli: quelli comprati da Gragonis ma assenti alla rievocazione erano già stati trattenuti da Jeyev. Un prigioniero, **Svilnt Sunderlit**, è legato in una rimessa a Vogler.
 >
-> **Il tradimento è in corso mentre scriviamo:** la Sessione 01 si è interrotta a metà dello scontro. Cudgel **non lo sa ancora** — lo scopre in Sessione 02, FASE 0.
+> ⏸️ **Cosa succede adesso:** il party ha liberato le scogliere proprio perché Cudgel potesse uscire dal villaggio, richiamare la compagnia e schierarla **a nord di Vogler** contro l'Armata del Drago. È la prima cosa che accade in Sessione 03 — e la battaglia al fronte andrà male.
+>
+> ---
+>
+> ⚠️ **STORICO — STATO AL 13/09/2026: la compagnia si è spezzata a metà rievocazione.** Il luogotenente **Gragonis** (mezzo-ogre) è stato comprato da agenti del Red Dragon Army nel bosco a ovest del campo, e con quell'oro **ha pagato i mercenari**: l'intera parte della compagnia presente su High Hill sa cosa sta facendo, e ha lance con le punte vere. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad.
+>
+> ~~**Il tradimento è in corso mentre scriviamo:** la Sessione 01 si è interrotta a metà dello scontro. Cudgel **non lo sa ancora** — lo scopre in Sessione 02, FASE 0.~~ → **Risolto il 20/09/2026, vedi sopra.**
 >
 > Al campo è rimasto l'altro luogotenente, l'umano **Jeyev Veldrews**, con i mercenari **non** comprati: quelli, in teoria, sono ancora fedeli a Cudgel.
 

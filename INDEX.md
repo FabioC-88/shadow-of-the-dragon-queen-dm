@@ -32,9 +32,9 @@ I personaggi sono eroi travolti dall'avanzata nemica, la cui storia inizia con i
 | Capitolo | Titolo | Livelli | Ambientazione | Villain Chiave |
 |---------|--------|---------|---------------|----------------|
 | **Cap 2** | Prelude to War | Lv 1 | Viaggio verso Vogler | Draconiani (introduzione) |
-| **Cap 3** | When Home Burns | Lv 1→3 | Vogler | Red Dragon Army, Lord Soth (primo) |
-| **Cap 4** | Shadow of War | Lv 3→5 | Kalaman | Lord Soth (attacco città) |
-| **Cap 5** | The Northern Wastes | Lv 5→8 | Northern Wastes | Lohezet, Lord Soth |
+| **Cap 3** | When Home Burns | Lv 2→4 | Vogler | Red Dragon Army, Lord Soth (primo) |
+| **Cap 4** | Shadow of War | Lv 4→6 | Kalaman | Lord Soth (attacco città) |
+| **Cap 5** | The Northern Wastes | Lv 6→8 | Northern Wastes | Lohezet, Lord Soth |
 | **Cap 6** | City of Lost Names | Lv 8→10 | Onyari (rovine) | Belephaion, Lohezet (boss), Lord Soth |
 | **Cap 7** | Siege of Kalaman | Lv 10→11 | Kalaman + Flying Citadel | Kansaldi Fire-Eyes (boss finale) |
 

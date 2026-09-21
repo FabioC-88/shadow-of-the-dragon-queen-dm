@@ -1,12 +1,19 @@
-# DM Notes — Sessione 02: La Caduta di Vogler
+# DM Notes — Sessione 02: La Notte dopo High Hill
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 3: When Home Burns (righe 1673–2083)
-**Livello party:** **2 → 3** (fine della Battaglia di High Hill, in FASE 0) **→ 4** (sulla barca in fuga da Vogler)
-**Avanzamento:** Milestone narrativo (cap. 3 — High Hill conclusa, poi fuga da Vogler completata)
+**Livello party:** ✅ **2 → 3** — assegnato sul campo alla fine della Battaglia di High Hill (FASE 0). *Il Livello 4 era legato all'evacuazione completata: non è avvenuta, e slitta alla Sessione 03.*
+**Avanzamento:** ✅ Milestone narrativo — **High Hill conclusa**. ⏸️ La fuga da Vogler non è stata giocata.
 **XP accumulati a inizio sessione:** 300 XP (dalla Sessione 00). *Contabilità priva di effetti: il Cap. 3 avanza a pietra miliare.*
-**Obiettivo sessione:** Concludere la Battaglia di High Hill; scoprire l'esercito nemico; ricevere la messaggera dell'Armata del Drago; organizzare la fuga di Vogler; sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme.
+**Obiettivo sessione:** ✅ Concludere la Battaglia di High Hill · ✅ scoprire l'esercito nemico · ✅ ricevere la messaggera dell'Armata del Drago · ✅ liberare le scogliere · ⏸️ organizzare la fuga di Vogler · ⏸️ sopravvivere all'invasione draconiana e abbandonare il villaggio in fiamme (→ Sessione 03).
 **Durata stimata:** **~3h50m a pieno regime** (FASE 0 35 · FASE 1 35 · FASE 2 20 · FASE 3 30 · FASE 4 20 · FASE 5 90) — contro una serata media da **2h30m**. *Non è un problema: quello che avanza si sposta alla serata dopo.* Vedi *"Dove spezzare"* qui sotto per i punti di rottura buoni e quello da evitare.
 **Sessione precedente:** dm-notes-sessione-01.md — Cap. 3: When Home Burns, prima metà (righe 1189–1672)
+**Giocata il:** **20 settembre 2026** · Recap in `recaps/recap-sessione-02.md` · delta in fondo a questo file, sezione **📋 ACCADUTO IN SESSIONE**
+
+> ✅ **SESSIONE GIOCATA — coperte le FASI 0 → 4.** La serata si è chiusa **in cima alle scogliere a est della Porta del Fiume**, subito dopo l'eliminazione dei quattro soldati dell'Armata del Drago.
+>
+> ⏸️ **Tutta la FASE 5 — La Caduta di Vogler è stata trasferita in `dm-notes-sessione-03.md`, FASE 0.** Preparativi d'evacuazione, la cassa di Becklin, l'addio, la lettera per gli archivi, l'invasione, il Boilerdrak, Fewmaster Gholcag e l'ultima barca: non cercarli qui, sono là per esteso.
+>
+> *Il titolo originale di questo file era «La Caduta di Vogler»: è passato alla Sessione 03, dove la caduta avviene davvero.*
 
 > ⚠️ **QUESTA SESSIONE SI APRE A METÀ COMBATTIMENTO.** La Sessione 01 si è interrotta nel mezzo dello Scontro 1 su High Hill. La **FASE 0** contiene tutta la battaglia mancante — Gragonis compreso — ed è stata trasferita qui dalla Sessione 01.
 >
@@ -49,6 +56,8 @@
 
 ### ✂️ Dove spezzare — leggere prima di sedersi
 
+> ✅ **È andata così:** la serata si è spezzata al **punto di rottura n° 3 — fine FASE 4**, quello che la tabella qui sotto indicava come *il migliore*. Nessun taglio applicato: le fasi 0-4 sono state giocate tutte, per intero.
+
 Il materiale di questa sessione vale **~3h50m** contro una serata media da **2h30m**: il capitolo intero (battaglia + notte + giorno + invasione + boss) sta in un file solo. **Arrivare a Gholcag stasera non è un obiettivo** — quello che avanza diventa l'apertura della serata dopo, esattamente come è successo con High Hill. Sotto, i punti dove fermarsi bene, quello dove fermarsi male, e i tagli se invece vuoi chiudere il capitolo in una volta.
 
 #### I punti di rottura
@@ -80,7 +89,7 @@ In ordine di quanto costa poco:
 
 ---
 
-## ⚔️ FASE 0 — La Battaglia di High Hill (ripresa)
+## ✅ FASE 0 — La Battaglia di High Hill (ripresa)
 
 *~35 minuti · Si riparte a metà combattimento, esattamente dove si è chiusa la Sessione 01*
 
@@ -209,6 +218,8 @@ battaglia, non si ritirano. Lancia +3, 4 (1d6+1) perforanti.
 
 ### Dopo la Battaglia — Il Campo Si Calma
 
+> ✅ **COSA È SUCCESSO AL TAVOLO (20/09/2026).** Scontro 1 concluso, poi Gragonis è entrato in campo con le cinque guardie ed **è morto sul campo**. **Nessun personaggio è mai sceso a 0 PF** e non ci sono state perdite degne di nota tra i PNG. Il prigioniero è quindi **Svilnt Sunderlit**, non Gragonis — e con Gragonis muore anche l'unica persona che avesse visto in faccia il proprio committente.
+
 Quando Gragonis e le sue cinque guardie sono sconfitti, i mercenari rimasti si sbandano e lo scontro finisce.
 
 **Arrivano Cudgel, Raven e Becklin** con alcuni spettatori robusti — e hanno già combattuto anche loro: al punto di osservazione un mercenario ha aggredito Cudgel su ordine di Gragonis, e Becklin lo ha ucciso. Cudgel, di solito imperturbabile, è furiosa.
@@ -228,6 +239,8 @@ Saggezza (Medicina) CD 12 → strappa alla morte un abitante ferito. Stesso effe
 ### ⚠️ Il contraccolpo della magia divina — Brynja
 
 *Sezione richiesta da Fabio dopo la Sessione 01. Vale per chiunque usi poteri divini in pubblico, ma oggi riguarda Brynja.*
+
+> 🔀 **AGGIORNAMENTO 20/09/2026 — i guaritori pubblici sono due.** Nella notte della coda **anche Corin ha curato con incantesimi, in pubblico**. L'asimmetria su cui era costruita questa sezione — Brynja esposta, Corin no — **non esiste più**: hanno fatto la stessa scelta, insieme, per tutta la notte. Da qui in avanti ogni gradino della scala vale per **due persone**. Brynja resta la più facile da descrivere (lo Scudo Verde), ma Corin non è più invisibile.
 
 **Il fatto:** i personaggi hanno capito da soli di essere tra i primi a portare magia divina dopo trecento anni, e si sono accordati per non mostrarla. **Brynja l'ha già usata in battaglia, davanti a testimoni**, e quasi certamente lo rifarà. Due aggravanti reali:
 
@@ -267,6 +280,8 @@ Saggezza (Medicina) CD 12 → strappa alla morte un abitante ferito. Stesso effe
 
 ### Avanzamento a Livello 3
 
+> ✅ **Assegnato sul campo**, come previsto, mentre il party soccorreva i feriti.
+
 I personaggi avanzano al **Livello 3** subito dopo la Battaglia di High Hill — **assegnalo sul campo**, mentre soccorrono i feriti, così arrivano alla FASE 1 già aggiornati. *(Il Livello 4 arriva a fine sessione, sulla barca in fuga da Vogler.)*
 
 > ⚠️ **Il party arriva a questa sessione al Livello 2**, non 3: la battaglia si era interrotta a metà e il passaggio di livello non era ancora avvenuto. **Questo è il momento in cui recupera.**
@@ -281,7 +296,7 @@ Sistemati i feriti, Raven e Becklin fanno rientrare tutti al villaggio e chiedon
 
 ---
 
-## FASE 1 — Il Ritorno a Vogler
+## ✅ FASE 1 — Il Ritorno a Vogler
 
 *~35 minuti · Brass Crab, deliberazione post-battaglia, interrogatorio del mercenario, la coda notturna*
 
@@ -332,6 +347,12 @@ Raven guida la conversazione. Pone queste priorità, nell'ordine:
 
 A meno che i personaggi non abbiano già risparmiato la vita a Gragonis (nel qual caso è lui il prigioniero), il mercenario catturato durante la Battaglia di High Hill è **Svilnt Sunderlit**, guardia di basso rango dell'Ironclad.
 
+> ✅ **COSA È SUCCESSO AL TAVOLO.** Il prigioniero era **Svilnt** (Gragonis è morto in FASE 0) e **ha parlato**: il piano di uccidere Cudgel e prendersi l'Ironclad, l'oro preso nel bosco a ovest, i mercenari comprati per attaccare davvero, Jeyev e i rimasti al campo probabilmente leali.
+> 🔀 **Il collegamento «armature nere e rosse» NON è uscito da qui** — quell'informazione era di Gragonis, e Gragonis era morto. **Il party ci è arrivato comunque da solo il giorno dopo**, spontaneamente, senza bisogno dell'imbeccata di Becklin.
+>
+> ⏸️ **Svilnt è ancora legato nella rimessa**, e nessuno ha deciso cosa farne. Domani Vogler brucia: la domanda torna in Sessione 03.
+
+
 Raven concede a Cudgel e ai personaggi ampia libertà nell'interrogatorio. Non si oppone all'uso di magia coercitiva, ma rifiuta che venga fisicamente maltrattato.
 
 Cudgel inizia lei l'interrogatorio, ma la rabbia prende il sopravvento — si ritira presto a osservare da lontano, intervenendo di tanto in tanto con sfuriate improvvise.
@@ -361,6 +382,12 @@ Raven è curiosa di sapere di più sull'incontro di Gragonis nel bosco a ovest d
 ---
 
 ### ⚠️ La Coda fuori dal Brass Crab — *il vero peso del Gradino 2*
+
+> ✅ **COSA È SUCCESSO AL TAVOLO (20/09/2026) — la scena è stata giocata, e giocata bene.**
+> Il party **ha chiamato Raven** e ha spiegato **pubblicamente** cosa si poteva davvero fare: che gli dèi non rispondono di continuo, che le cure non sono illimitate, e che si sarebbero curati **solo i più gravi**.
+> **Risultato: niente rissa, nessun morto in coda, nessuna accusa. L'Orologio del Malumore è rimasto alla tacca 1.**
+>
+> ⚠️ **E poi hanno curato comunque tutta la notte.** Si erano guadagnati la «terza via» — fila che regge, riposo lungo pieno — e **hanno scelto di non usarla**: Brynja e Corin sono rimasti alzati fino al mattino. Sono arrivati allo scontro sulle scogliere **senza slot incantesimo**, e arrivano così anche alla Sessione 03.
 
 *~15-20 minuti, oppure tre beat sparsi nella serata. Vedi "Come dosarla" in fondo.*
 
@@ -398,6 +425,8 @@ Fai il conto al tavolo se serve, ma non serve: **lo capiscono da soli quando la 
 Questo trasforma la scena da "quanta gente riesci a far contenta" a **"chi metti in condizione di sopravvivere"**, e lo fa senza che nessuno debba spiegarlo. Se al tavolo qualcuno lo intuisce da solo, tanto meglio; se no, lo capiranno domani sera, ed è anche meglio.
 
 *Traduzione pratica per te: segnati due o tre nomi o facce fra quelli curati stanotte, e altrettanti fra quelli rimandati a domani. Domani sera, durante l'evacuazione, falli ricomparire — nella barca o sulla riva sbagliata.*
+
+> 🔀 **Non è andata così, e va bene.** Al tavolo **nessun ferito ha preso un nome**: erano gente a caso, e Fabio non ha voluto dilungarsi su comparse che il tavolo dimentica in due minuti. **Le scene della Sessione 03 sono state riscritte per non dipendere da nessun nome** — il conto della coda si paga in massa e in barche, non in facce. Vedi l'Opener di Gholcag in `dm-notes-sessione-03.md`, FASE 0C.
 
 ---
 
@@ -446,6 +475,9 @@ Non è un contatore da mostrare ai giocatori. È il tuo termometro: fai avanzare
 
 #### Il riposo lungo — la scelta della notte
 
+> ✅ **SCELTA FATTA: hanno curato tutta la notte.** Né Brynja né Corin hanno riposato. **Slot rimasti: zero**, e la fonte fa arrivare l'invasione entro la sera dopo.
+> *Non correggerlo al ribasso: la conseguenza è la loro, e va fatta pesare senza commentarla. È anche la risposta migliore possibile alla domanda che la scena poneva — chi curi stanotte è chi corre domani. Domani, al molo, i feriti di High Hill camminano.*
+
 Brynja recupera gli incantesimi solo con un **riposo lungo**. Fuori c'è gente che dorme per terra in attesa che la porta si riapra.
 
 Metti la scelta in chiaro, senza trucchi:
@@ -460,6 +492,11 @@ Metti la scelta in chiaro, senza trucchi:
 ---
 
 #### Lord Bakaris ci mette bocca
+
+> 🔀 **COSA È SUCCESSO AL TAVOLO — è stato cacciato.** Si è presentato a comprare la precedenza, e il party gli ha risposto che **il potere degli dèi non è in vendita, e che se era davvero ferito poteva mettersi in fila**. È stato mandato fuori dal Brass Crab.
+>
+> **[NOTA DM — riservata] Il suo torto da raccontare a Kalaman è più grosso di quello che il piano prevedeva** — non solo *«mi sono offerto di pagare e mi è stato detto di no»*, ma anche di essere stato buttato fuori da una locanda davanti a mezzo villaggio.
+> **Ma il party ha anche costruito la propria difesa senza accorgersene:** la spiegazione pubblica sui limiti delle cure è stata data **con la sindaca presente e consenziente**. A Kalaman, Raven può testimoniare che i criteri c'erano ed erano dichiarati. Vedi `dm-notes-sessione-03.md`, FASE 4.
 
 **Non è al Brass Crab, ma di una cosa così viene a sapere entro un'ora.** Si presenta e fa l'unica cosa che sa fare: **prova a comprare la precedenza.** Offre oro perché Brynja passi prima da Westide House — non c'è nessun malato a Westide House; c'è lui che vuole poter dire di essere stato il primo.
 
@@ -501,9 +538,15 @@ Qualunque sia finita la notte, all'alba fuori dal Brass Crab c'è ancora qualcun
 
 ---
 
-## FASE 2 — Il Nemico nel Bosco
+## 🔀 FASE 2 — Il Nemico nel Bosco — *l'ha fatta un corvo*
 
 *~20 minuti · Ricognizione, scoperta del campo dell'Esercito del Drago*
+
+> 🔀 **COSA È SUCCESSO AL TAVOLO (20/09/2026).** **Nessuno è andato di persona.** Garrick ha mandato il proprio **famiglio corvo** sulla zona dello scambio di Gragonis.
+> Essendo un corvo qualunque **non è stato notato**: la pattuglia di tre baaz e due soldati **non è mai stata incontrata** e lo scontro opzionale non si è giocato — e non si giocherà.
+> Il party ha visto il campo dell'Armata del Drago Rosso — le centinaia di tende, i fuochi allineati, le pattuglie che girano sempre nello stesso senso — **attraverso gli occhi del famiglio**. Le informazioni sono arrivate tutte.
+>
+> **[NOTA DM] Precedente da ricordare.** Il corvo **non ha un nome fisso** (Garrick lo cambia quando gli pare) e tornerà: davanti a sentinelle o accampamenti, aspettati la stessa mossa. Decidi *prima* cosa può vedere — un corvo solo tra centinaia di tende non desta sospetti; un corvo che si avvicina troppo a un mago dell'Armata sì.
 
 ### Contesto per il DM
 
@@ -610,9 +653,15 @@ Giavellotto. Attacco con arma in mischia o a distanza: +4 al colpire,
 
 ---
 
-## FASE 3 — Un'Alba Funesta
+## ✅ FASE 3 — Un'Alba Funesta
 
 *~30 minuti · Cudgel torna, deliberazione, la risposta di Vogler*
+
+> ✅ **COSA È SUCCESSO AL TAVOLO — come da programma.** Cudgel è rientrata con **Jeyev Veldrews** e ha riferito. Il party ha collegato **da solo** le armature nere e rosse ai draconiani della Sessione 00. Lord Bakaris si è intromesso. Il piano deciso è quello previsto dalla fonte: **prima liberare le scogliere, poi organizzare l'evacuazione**.
+>
+> 🔀 **Jeyev è stato incontrato qui, non al molo.** Il piano lo faceva comparire per la prima volta in FASE 5D con l'elmo di Becklin in mano e un'ambiguità completa addosso. Ora **il party lo ha già conosciuto all'alba**, presentato da Cudgel come uno dei fedeli: quando ricompare al molo, non è uno sconosciuto sospetto: è uno su cui Cudgel aveva messo la mano sul fuoco. Vedi `dm-notes-sessione-03.md`, FASE 0D.
+>
+> ⏸️ **Becklin non ha ancora chiesto il favore della cassa** a Razak: lo fa in Sessione 03.
 
 ### Contesto per il DM
 
@@ -648,7 +697,7 @@ A metà conversazione arriva **Lord Bakaris**, infuriato di essere stato escluso
 
 ---
 
-## FASE 4 — La Voce della Guerra
+## ✅ FASE 4 — La Voce della Guerra
 
 *~20 minuti · L'arrivo del messaggero, la scelta di resistere*
 
@@ -697,6 +746,9 @@ I personaggi competenti in Religione riconoscono il nome Takhisis come uno degli
 >
 > **In nessuno dei due casi toccare le regole della magia divina.** Brynja lancia quello che vuole. La conseguenza è che adesso **qualcuno la sta cercando per nome**.
 
+> ✅ **SCELTA FATTA AL TAVOLO (20/09/2026): opzione (a).** La messaggera **ha notato Brynja**, non le ha parlato, e se n'è andata a riferire. Stasera non è cambiato niente.
+> **Da Kalaman in poi, Belephaion sa** che a Vogler c'era una guaritrice vera — e, per come è andata la notte della coda, **ce n'erano due**. Ricompare come un dettaglio inatteso: un ufficiale che la riconosce, un ordine di catturare anziché uccidere, lo scudo verde descritto in un dispaccio.
+
 **La messaggera:**
 Chiede che il villaggio si prepari ad essere occupato dalle truppe dell'Esercito del Drago entro sera. Nel frattempo, nessuno può lasciare Vogler. Se i personaggi chiedono informazioni, non ne dà. Se minacciata, mantiene la posizione e fa un segnale. Sulla cima delle scogliere alte 9 metri a est della porta, quattro soldati dell'Esercito del Drago appaiono — usano i loro giavellotti per attaccare chiunque minacci il messaggero o tenti di lasciare il villaggio.
 
@@ -738,444 +790,44 @@ Multiattacco 2× Spada lunga +4 (1d8+2 taglienti + 1d4 fuoco).
 
 ---
 
-## FASE 5 — La Caduta di Vogler ⚔️
-
-*~90 minuti (20 + 30 + 30 + 10) · Preparativi evacuazione, invasione, Boilerdrak e Gholcag, fuga finale*
-
-### 5A — Preparativi per l'Evacuazione (~20 min)
-
-Una volta che i leader del villaggio concordano sull'evacuazione (dopo che Becklin o i personaggi la propongono), Vogler ha molto da fare. Raven chiede ai personaggi e a Darrett di aiutarla con i seguenti compiti:
-
-- Informare gli abitanti raccogliendo tutti nella piazza circolare.
-- Valutare quante navi il villaggio possiede e quante persone possono trasportare.
-- Istruire gli abitanti su come raggiungere la sicurezza lungo il Vingaard verso Kalaman.
-- Tenere calma la gente.
-
-**La Paura di Becklin:**
-Se i personaggi non propongono l'evacuazione autonomamente, Becklin li porta in disparte per una conversazione privata:
-
-- Ha sentito parlare di guerre e eserciti inarrestabili a est — questi soldati le sembrano parte di quella forza più grande.
-- Vogler non è una città guerriera. Ci vorrebbero settimane di addestramento e cento soldati professionisti in più per avere qualche speranza.
-- Suggerisce di preparare gli abitanti all'evacuazione immediata se altri piani falliscono: seguire il Vingaard verso la sicurezza di Kalaman.
-
-**Il Favore di Becklin:**
-Durante la conversazione sui piani di battaglia, il personaggio con il **punteggio passivo di Intuizione più alto** si accorge che Becklin sta nascondendo qualcosa. Se approcciata in privato, la ringrazia e le chiede un favore.
-
-> *"Sotto il mio letto a Thornwall Keep c'è una cassa di legno grande. Non ti dico cosa contiene — ma hai la mia fiducia. Prendila e consegnala a Darrett una volta che è in salvo."*
-
-La cassa pesa circa 30 kg e non porta alcun segno, tranne un semplice simbolo di martin pescatore sul coperchio. Se aperta, contiene una **corazza a piastre solamnica**. I personaggi possono recuperarla da Thornwall Keep in qualsiasi momento prima dell'invasione.
-
-*[NOTA DM — riservata] Non è necessario che la cassa venga consegnata a Darrett durante questa sessione — la consegna avviene nel Cap. 4 a Kalaman. Vedere sezione "Darrett's Armor" in chapter 4.*
-
----
-
-### Testo — La Piazza del Villaggio [BT-04]
-
-> Le decorazioni colorate del Festival del Kingfisher coprono ancora la piazza e il palco. A differenza del giorno prima, la gente raccolta al centro è cupa, e si scambia bisbigli preoccupati mentre la sindaca Raven sale sul palco.
+> ✅ **COSA È SUCCESSO AL TAVOLO — hanno usato tutte e due le strade insieme.**
 >
-> La sindaca non usa mezzi termini: *"Un esercito pericoloso si sta avvicinando a Vogler. L'Ironclad Regiment farà il possibile per difendere Vogler, ma dobbiamo essere pronti a fuggire."*
+> Il piano deciso è quello previsto dalla fonte: **prima le guardie sulla rupe, poi l'evacuazione**. L'assalto è stato combinato e su due fronti:
 >
-> Dopo il rapporto della sindaca, i locali restano in silenzio stupefatto. Poi arrivano le domande, in un'ondata di grida, rabbia e paura.
-
-*[Aggiunta atmosferica]:*
-> *I martin pescatori di carta oscillano sopra le vostre teste. Qualcuno alza gli occhi a guardarli, e resta così.*
-
----
-
-**Meccanica — Placare la folla:**
-Carisma (Intimidazione o Persuasione) CD 12 per aiutare Raven a riprendere il controllo parlando in suo supporto o spiegando i piani di evacuazione. Altrimenti Raven impiega più di un'ora a placare la comunità.
-
-*Lord Bakaris o Bakaris il Giovane potrebbero intervenire cercando di sabotare i piani — gli abitanti rifiutano l'evacuazione finché un personaggio non lo contrasta con roleplay o **Carisma (Intimidazione/Persuasione) CD 14**.*
-
----
-
-**Problema Navi:**
-Un personaggio che passa un'ora ad ispezionare il molo stima che le imbarcazioni presenti possano trasportare solo duecento dei quattrocento residenti. Soluzioni (con **vantaggio** se proficiente con Veicoli acquatici):
-
-| Soluzione | CD | Tempo | Risultato |
-|-----------|-----|-------|-----------|
-| Zattera di barche | Sopravvivenza CD 16 | 3 ore | +200 persone |
-| Flotta personale | Persuasione CD 14 | 2 ore | +100 persone |
-| Traghetto smontato | Indagini CD 12 | 2 ore | +100 persone |
-
-**Piani di Battaglia:**
-Nel primo pomeriggio Cudgel torna. Ha diretto l'Ironclad Regiment a tenere una posizione a nord del villaggio. Ha anche allestito una piccola tenda di comando vicino alla Porta del Fiume con un messaggero per trasmettere ordini. Chiede a Becklin di affianciarla al fronte.
-
-*"Voi rimanete qui con Raven e Darrett. Se qualcuno passa l'Ironclad Regiment, questa gente ha bisogno di qualcuno che sappia combattere."*
-
----
-
-### 5B — L'Invasione di Vogler ⚔️ (~30 min)
-
-#### L'Addio
-
-Prima che Becklin e Cudgel partano verso il fronte, Becklin prende Darrett da parte per un breve addio formale. Poi si rivolge ai personaggi:
-
-> *"Ispin aveva ragione su di voi. Sono contenta di aver avuto la possibilità di scoprirlo da sola."*
-
-#### La Lettera *(solo se Razak è al tavolo)*
-
-Prima di rimontare in sella, Becklin toglie dalla bisaccia una busta sigillata col nodo della Corona e la mette in mano a Razak.
-
-> *"Archivi di Castle Kalaman, primo piano. Chiedi di Rennard. Non aprirla."*
+> - **Corin in forma di ragno**, **Asurion** scalando la parete e **Garrick a cavallo** sono arrivati **da dietro**;
+> - **Razak e Brynja** si sono fatti **catapultare con lo gnomeflinger di Than**, da Thornwall Keep.
 >
-> Poi, mentre rimonta: *"Porta con te la scudiera di Roderick."*
+> **Tutti sono atterrati bene** — i *narycrash* sono stati tirati fuori — e **i quattro soldati sono morti senza che nessuno desse l'allarme**.
 >
-> Prima di girare il cavallo fa con due dita uno dei segni che gli aveva insegnato nelle riunioni lunghe, anni fa. Quello che voleva dire *dopo*.
-
-*[NOTA DM — riservata] Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è in Sessione 03, FASE 5 ("Il Registro di Rennard"), e funziona con qualunque destino tu scelga per lei nella FASE 5D — la lettera è già partita prima che il suo destino si decida.*
-
-Poi lei e Cudgel cavalcano via.
-
-Un'ora passa prima che arrivino notizie. Nel frattempo, i personaggi si occupano dei preparativi: recuperano la cassa di Becklin da Thornwall Keep, cercano abitanti dispersi, coordinano le imbarcazioni.
-
----
-
-#### La Staffetta Attaccata [BT-05]
-
-*Dai ai personaggi un motivo per trovarsi vicino alla Porta del Fiume — recuperare la cassa da Thornwall Keep, cercare un abitante scomparso.*
-
-> Dalla direzione della Porta del Fiume arriva un rumore di zoccoli: una mercenaria dell'Ironclad Regiment galoppa verso la piazza circolare. Mentre si avvicina, urla: *"Stanno arrivando! Evacuat—"* La voce si spezza quando una figura tozza e incappucciata si lancia dalle scogliere vicine e le piomba sulla schiena, trascinando cavallo e cavaliera a terra.
-
-*[Aggiunta atmosferica]:*
-> *Le mani che si chiudono sull'armatura hanno artigli.*
-
----
-
-La cavallerizza usa il blocco statistiche **scout** ed è stata mandata da Becklin per avvertire Vogler di evacuare immediatamente. Quando i personaggi arrivano, il suo cavallo è morto e lei è in lotta con il suo aggressore, un **baaz draconiano**. Il draconiano la uccide se i personaggi non intervengono.
-
-Se salvata, annuncia che l'attacco è imminente — l'Esercito del Drago si è diviso in due colonne. Una è andata a ingaggiare i mercenari, la seconda si dirige al villaggio.
-
----
-
-#### L'Inizio dell'Evacuazione [BT-06]
-
-> Gli abitanti restano stranamente silenziosi mentre cominciano a calarsi nelle barche. Il panico si diffonde tra la folla quando figure incappucciate compaiono sul bordo delle scogliere sopra Vogler. Le figure indugiano un momento, poi si lanciano nel vuoto. Ali si aprono sotto i mantelli, rallentando la loro discesa nel villaggio.
-
-*[Aggiunta atmosferica]:*
-> *Non è come un attacco. È come una calata. Come se il cielo stesse semplicemente... cedendo sopra Vogler.*
-
----
-
-Darrett estrae la spada e chiede ai personaggi di aiutarlo a difendere gli abitanti in fuga.
-
----
-
-#### Gli Incontri dell'Invasione
-
-Vogler è sopraffatta rapidamente dai draconiani. Tira su o scegli **almeno tre** incontri dalla tabella. Posizionali ovunque nel villaggio. Dopo il secondo incontro, i personaggi sentono rumori metallici dal nord — qualcosa di grande e pesante si avvicina. Prima che possano investigare, un terzo incontro li distrae.
-
-Quando hai eseguito almeno tre incontri, passa alla Sezione 5C.
-
-| d10 | Incontro |
-|:---:|---------|
-| 1–2 | Una famiglia di quattro **popolani** si separa dagli altri evacuati. A meno che non vengano scortati al molo, cercano di nascondersi. |
-| 3 | Un gatto abbandonato balza su uno dei personaggi. È terrorizzato e rifiuta di andarsene durante tutta l'invasione. |
-| 4–5 | **Assassino dal Cielo** (vedi sotto) |
-| 6–7 | **Assalto Diretto** (vedi sotto) |
-| 8 | **Cavalieri Minacciosi** (vedi sotto) |
-| 9–10 | **Milizia di Vogler** (vedi sotto) |
-
----
-
-##### Assassino dal Cielo
-
-Un **kapak draconiano** plana dall'alto delle scogliere, intenzionato a piombare su uno dei personaggi. Solo i personaggi con **Percezione passiva 14 o superiore** lo notano. Gli altri sono colti di sorpresa se il kapak attacca.
-
-```
-KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale
-Mostruosità Media, tipicamente Legale Malvagio
-CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 39 (6d8+12)
-Velocità 12 m, Scalare 12 m
-FOR 11 (+0, TS +0)   DES 17 (+3, TS +5)   COS 14 (+2, TS +2)
-INT 12 (+1, TS +1)   SAG 13 (+1, TS +1)   CAR 11 (+0, TS +0)
-Abilità Inganno +4, Percezione +3, Furtività +7
-Immunità veleno; avvelenato
-Equipaggiamento Pugnale
-Sensi scurovisione 18 m, Percezione passiva 13
-Linguaggi Comune, Draconico
-CR 3 (700 XP; BC +2)
-—
-TRATTI
-Death Throes. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
-su chi gli sta attorno. Ogni creatura entro 1,5 m deve superare un TS Destrezza
-CD 12 o resta ricoperta di acido per 1 minuto, subendo 7 (2d6) danni da acido
-all'inizio di ogni proprio turno. Una creatura può usare la propria azione per
-raschiare o lavare via l'acido da sé o da un'altra creatura.
-—
-Planata (Glide). Quando il kapak cade e non è incapacitato, sottrae fino a 30 m
-dall'altezza nel calcolo dei danni da caduta e può spostarsi di 60 cm in
-orizzontale per ogni 30 cm di discesa. NON è volo: non guadagna quota.
-—
-AZIONI
-Multiattacco. Il kapak effettua due attacchi con il Pugnale. Se entrambi
-colpiscono la stessa creatura, quel bersaglio deve superare un TS Costituzione
-CD 12 o è avvelenato fino alla fine del proprio turno successivo; mentre è
-avvelenato in questo modo, è anche PARALIZZATO.
-Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
-oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
-```
-
-> ✅ **Scheda ufficiale** (DSotDQ p198), verificata con Fabio il 2026-09-13.
-> ⚠️ **Non vola.** Ha *Planata* (scende, non sale) e **Scalare 12 m**: piomba dall'alto delle scogliere una volta sola, poi resta a terra. Non c'è nessuna "Ali silenziose" né Attacco Furtivo.
-> ⚠️ **Il veleno è nel Multiattacco:** se entrambi i pugnali colpiscono lo stesso bersaglio, quello rischia di restare **paralizzato** fino alla fine del suo turno. È la vera minaccia, non il danno.
-> ⚠️ **Death Throes:** l'acido **resta addosso** e fa 2d6 all'inizio di ogni turno finché qualcuno non spende **un'azione** per toglierlo.
+> ⚠️ **La messaggera non c'entra:** se n'era già andata da un pezzo. L'attacco è arrivato **molto dopo** la consegna dell'ultimatum, quindi la fuga a cavallo prevista qui sopra non si è giocata.
 >
-> 🔧 **Due aggiunte homebrew dichiarate** in `campagna/scontri-adattati/capitolo-03.md`, per rendere il kapak un vero mordi-e-fuggi invece di un nemico che si pianta in mischia. **Usale o no — ma decidi prima, non a metà scontro:**
-> - **Attacco Furtivo:** +2d6 danni se ha vantaggio o se un suo alleato è entro 1,5 m dal bersaglio.
-> - **REAZIONE — Via col Volo:** quando un attacco in mischia lo manca, si sposta di 6 m senza provocare attacchi di opportunità.
->
-> *Con il party al 3° livello e le regole opzionali attive, il solo Attacco Furtivo porta un colpo singolo da ~12 a ~19 danni. Se scegli di usarle, valuta di giocare il kapak **da solo** e non dentro un altro incontro.*
+> **⏸️ LA SESSIONE SI È CHIUSA QUI.** Party in cima alle scogliere, Vogler ancora in piedi, Cudgel libera di uscire a richiamare i mercenari — e l'ultimatum che scade *stasera*.
 
 ---
 
-##### Assalto Diretto
+## ⏸️ FASE 5 — La Caduta di Vogler → **TRASFERITA IN SESSIONE 03**
 
-> Tra gli edifici irrompono in corsa cinque figure incappucciate, i piedi artigliati che graffiano il terreno. Agitano torce accese e lame affilate sopra le loro teste rettiliane.
+La sessione si è chiusa alla fine dello scontro sulle scogliere, prima che l'evacuazione cominciasse.
 
-Cinque **baaz draconiani** caricano verso il molo, intenzionati ad appiccare il fuoco agli edifici e a uccidere gli abitanti in fuga. In quello stato di frenesia, i draconiani combattono fino alla morte.
+**Tutto quello che veniva dopo la FASE 4 è stato spostato integralmente in `dm-notes-sessione-03.md`, FASE 0:**
 
-*(Stat block: come Fase 2 — CA 14, PF 22, CR 1/2, 2× Spada corta +3)*
+- **0A** — i preparativi per l'evacuazione, la paura di Becklin, **il favore della cassa**, la piazza [BT-V1], il problema navi, i piani di battaglia
+- **0B** — l'invasione: l'addio di Becklin, **la lettera per gli archivi di Kalaman**, la staffetta attaccata [BT-V2], l'inizio dell'evacuazione [BT-V3] e la tabella degli incontri (kapak, assalto diretto, cavalieri minacciosi, milizia)
+- **0C** — la fuga dal molo: il **Boilerdrak** [BT-V4] e **Fewmaster Gholcag** [BT-V5] con le sue Villain Action
+- **0D** — l'ultima barca: **Jeyev al molo** [BT-V6], il destino di Becklin, **Vogler in fiamme** [BT-V7] e l'avanzamento a **Livello 4**
 
----
-
-##### Cavalieri Minacciosi
-
-Il personaggio con il **punteggio passivo di Percezione più alto** scorge la scena seguente durante l'invasione:
-
-> Un lampo di luce attira la tua attenzione. In cima alle scogliere a nord del paese, tre figure su cavalli immobili se ne stanno nell'ombra degli alberi. Riesci a distinguere il luccichio della luce sull'armatura a piastre, ma prima che tu possa avvertire i tuoi compagni, le figure scompaiono.
-
-Tre cavalieri misteriosi osservano la battaglia dall'alto, ma spariscono non appena vengono individuati. **Intelligenza (Storia) CD 16** consente al personaggio di riconoscere l'armatura antiquata come quella dei Cavalieri di Solamnia. Chi siano — cavalieri scheletrici, **Lord Soth** e il suo seguito, o spiriti del Lord Vogler e dei suoi cavalieri — è a discrezione del DM.
-
-[NOTA DM — riservata] Questa apparizione è deliberatamente ambigua. Se si vuole anticipare Lord Soth, può essere lui. Se si vuole mantenere il mistero, possono essere spiriti o visioni. Non rispondere alla domanda questa sessione.
-
----
-
-##### Milizia di Vogler
-
-> Il suono di metallo che si scontra attira la tua attenzione. Due dei miliziani rimasti di Vogler faticano a tenere il loro contro gli invasori dai capi rettiliani. I soldati in scaglie bersagliano i miliziani, sibilando una crudele risata.
-
-I due miliziani (**guardie**) sono in inferiorità contro cinque **baaz draconiani**. Se i personaggi non intervengono rapidamente, i miliziani vengono massacrati. Se i personaggi aiutano e uno sopravvive, il sopravvissuto regala ai personaggi una **pozione di guarigione**.
-
----
-
-### 5C — Fuga dal Molo ⚔️ (~30 min)
-
-Quando sei pronto a portare l'invasione al culmine, procedi con questo incontro. Non importa dove si trovino i personaggi nel villaggio — urla provengono dal molo. Quando i personaggi si avvicinano:
-
-### Testo — Il Boilerdrak [BT-07]
-
-> Le urla della gente, ancora in fila per salire sulle barche, arrivano attraverso il fumo degli edifici in fiamme. Tra le urla si leva una parola incredibile: *"Un drago!"*
->
-> Poi lo vedete. Dondolando da un lato all'altro, le scaglie che tintinnano come piastre d'acciaio, una bestia nera si avvicina al molo, affiancata da invasori rettiliani. Fiamme crepitano dalla sua bocca spalancata.
-
-*[Aggiunta atmosferica]:*
-> *Da vicino il movimento non regge: dondola sempre allo stesso modo, con la stessa ampiezza, come una cosa montata su un perno. La gente sul molo lo guarda da lontano, attraverso il fumo, e continua a gridare "drago".*
-
----
-
-Questa è un **boilerdrak**, un'arma d'assedio gnomia inventata per l'Esercito del Drago. Il boilerdrak è guidato da **quattro baaz draconiani**.
-
-Questa battaglia si svolge davanti al molo di Vogler. Il boilerdrak è posizionato sul terreno bruciato. I personaggi iniziano la battaglia ovunque sul molo.
-
-**Al primo round**, tre draconiani usano le loro azioni per caricare, puntare e sparare il boilerdrak contro l'Ufficio del Capitano del Porto (*Wharfinger's Office*) — la struttura a nord della mappa. L'edificio prende fuoco rapidamente.
-
-> ⚠️ **Il primo round è il regalo che fa funzionare lo scontro.** Il boilerdrak brucia il suo turno d'apertura su un edificio, non sul party: è quello che accende l'*Edificio in Fiamme* della sezione qui sotto, e dà ai personaggi un round per decidere se caricarlo o disinnescarlo. **Non anticipare il colpo sui PG.** (`scontri-adattati/capitolo-03.md` lo descrive "già acceso e puntato": quella nota vale per la Villain Action di Gholcag più avanti, non per l'apertura.)
-
-**Disinnescarlo — opzione tattica vera:** un personaggio adiacente al boilerdrak che spende un'azione e supera **Intelligenza (Indagare)** o **Destrezza (Rapidità di Mano) CD 15** lo blocca prima che spari. L'equipaggio deve ripartire da capo — accendere e puntare, **due azioni perse** — prima di poterci riprovare. *Con 100 PF e CA 15, spegnerlo è spesso più intelligente che romperlo: fallo capire con una descrizione, non con un avvertimento.*
-
-Un personaggio che supera una prova di **Saggezza (Percezione) CD 12** o che si avvicina a meno di 1,5 m dal boilerdrak capisce che non è un drago vero, ma un dispositivo meccanico.
-
----
-
-#### Caratteristiche del Campo di Battaglia
-
-- **Edificio in Fiamme:** l'Ufficio del Capitano del Porto è in fiamme. Una creatura che entra nella struttura per la prima volta nel suo turno o inizia il turno lì deve superare un **TS Costituzione CD 16** o subire **5 (1d10) danni da fuoco**.
-- **La Mischia:** la zona larga 4,5 m ai margini della mappa rappresenta i draconiani che si scontrano con i difensori rimasti di Vogler. Terreno difficile. Una creatura che entra nella Mischia o inizia il turno lì: **TS Destrezza CD 16** o **7 (2d6) danni taglienti** da combattenti opportunisti. La Mischia non può essere danneggiata e resta fino alla fine della battaglia.
-
-#### Eventi del Campo di Battaglia (tira ogni round a Iniziativa 0)
-
-| d6 | Evento |
-|:--:|--------|
-| 1 | Due pescatori di Vogler (**guardie**) arrivano ad aiutare i personaggi. Appaiono in spazi non occupati adiacenti alla Mischia vicino a un personaggio casuale. |
-| 2 | Un **bozak draconiano** accecato (1 PF) barcolla fuori dalla Mischia attraverso il campo di battaglia. Non attacca, ma esplode nella sua Morte Draconiana se viene ucciso. Appare in uno spazio non occupato adiacente alla Mischia vicino a un personaggio casuale. |
-| 3–4 | Un draconiano in planata dall'alto lancia una fiala infuocata su un personaggio casuale: **TS Destrezza CD 10** o **3 (1d6) danni da fuoco**. |
-| 5–6 | Gli abitanti sul molo gridano il loro sostegno. Un personaggio casuale ha vantaggio al suo prossimo tiro di attacco. |
-
----
-
-#### Stat Block — Boilerdrak
-
-```
-BOILERDRAK — DSotDQ p189, scheda ufficiale
-Oggetto Grande   CA 15   PF 100
-Immunità ai danni: veleno, psichico
-
-Congegno grande come un carro, costruito per somigliare vagamente a un drago.
-Prima di poter essere usato va ACCESO (1 azione) e PUNTATO (1 azione); poi
-SPARARE costa 1 azione. Quando spara, tira 1d20:
-  2 o più → Fiamme
-  1       → Esplosione
-
-Fiamme. Il boilerdrak vomita fiamme in un CONO DI 18 METRI. Ogni creatura
-nell'area: TS Destrezza CD 15, subendo 27 (5d10) danni da fuoco con un
-fallimento, o metà con un successo.
-
-Esplosione. Il boilerdrak esplode in una sfera di raggio 9 m ed è distrutto.
-Ogni creatura nell'area: TS Destrezza CD 15, subendo 27 (5d10) danni da fuoco
-con un fallimento, o metà con un successo.
-```
-
-> ✅ **Scheda ufficiale** (DSotDQ p189), verificata con Fabio il 2026-09-13 — coincide con quella già usata in `scontri-adattati/capitolo-03.md`.
-> ⚠️ **È molto più pericoloso di com'era scritto qui.** La versione precedente era un "Costrutto Enorme" con 50 PF, un cono di 9 m e 4d6 danni: quella ufficiale ha **100 PF, un cono di 18 metri, CD 15 e 27 (5d10) danni**. Al 3° livello un colpo pieno può stendere mezzo party.
-> ⚠️ Non ha un attacco di Morso e non si muove: è un **oggetto**, non una creatura. Va acceso, puntato e sparato, un'azione per volta, dai draconiani dell'equipaggio — ed è per questo che disinnescarlo è un'opzione tattica vera.
-
----
-
-#### Fewmaster Gholcag
-
-Dopo che i baaz draconiani del boilerdrak sono sconfitti, arriva il comandante dell'assalto draconiano.
-
-### Testo — Gholcag Emerge [BT-08]
-
-> Una parete del Brass Crab si sfonda. Dalla locanda esce una figura di tre metri in armatura a scaglie nera. Tiene un barile di pesce sotto un braccio e si riempie la bocca con una manciata di pesci ancora vivi.
->
-> Da dietro di lei sbucano due soldati rettiliani. *"Quelli dopo,"* dice l'ogre, indicandovi con un gesto. I soldati avanzano obbedienti.
-
-*[Aggiunta atmosferica]:*
-> *Gholcag non ha fretta. Si sente già la vincitrice. Quello è il tipo di fiducia che viene dall'aver distrutto già altri villaggi come questo.*
-
----
-
-**Fewmaster Gholcag** è un comandante di basso rango nell'Esercito del Drago e la leader del raid su Vogler. Lei e due **baaz draconiani** appaiono adiacenti alla Mischia lungo la strada più a nord. Gholcag e i draconiani combattono fino alla morte.
-
-> ⚠️ **Gholcag usa il blocco statistiche dell'OGRE**, non dell'Orco (fonte: *"Fewmaster Gholcag uses the **ogre** stat block, but she wears scale mail and has AC 14"*). Sono due mostri diversi: l'Orco è Medio, CR 1/2, 15 PF. Se apri la scheda sbagliata in Foundry, il boss di capitolo dura un round.
-
-```
-FEWMASTER GHOLCAG — Boss di Capitolo (Action-Oriented, ~CR 4)
-Base: Ogre (scheda ufficiale) + armatura a scaglie CA 14, potenziata
-Gigante Grande | CA 14 (armatura a scaglie) | PF 100
-Velocità 9 m | Caotico Malvagio | Lingue: Comune, Gigante
-
-FOR 20 (+5), DES 8 (-1), COS 16 (+3), INT 6 (-2), SAG 6 (-2), CAR 6 (-2)
-Scurovisione 18 m | Percezione passiva 8
-
-AZIONI
-Multiattacco. Due attacchi con Ascia bipenne.
-Ascia bipenne (Topple): +7 al colpire, portata 1,5 m — 2d12+5 taglienti.
-  Topple: a segno, il bersaglio fa un TS Costituzione CD 15 o cade Prono.
-Giavellotto: +7 al colpire, gittata 9/27 m — 2d6+5 perforanti.
-
-AZIONE BONUS — Carica della Gigante (dall'"Aggressive" originale)
-Si muove fino alla sua velocità verso un nemico che può vedere.
-
-REAZIONE — Presa di Ferro
-Quando viene colpita da un attacco in mischia, contrattacca subito con un
-singolo colpo di Ascia bipenne contro chi l'ha colpita.
-
-VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sola)
-1. Opener — AL MOLO!: Gholcag non attacca. Punta l'ascia oltre i personaggi,
-   verso le barche cariche, e urla un ordine in Draconico. Due effetti, ed
-   entrambi restano per il resto dello scontro:
-   • La MISCHIA avanza di 4,5 m verso il centro su tutti i lati (in Foundry:
-     allarga la fascia da 4,5 a 9 m). Ogni creatura raggiunta dall'avanzata
-     subisce subito l'effetto della Mischia — TS Destrezza CD 16 o 7 (2d6)
-     danni taglienti — e il suo spazio diventa terreno difficile.
-   • Due draconiani agganciano la cima dell'ultima barca carica. Liberarla
-     costa a un personaggio adiacente un'azione e una prova di
-     Forza (Atletica) CD 13. Finché la barca non è libera, alla fine di ogni
-     round un evacuato viene trascinato via dal molo.
-2. Control — Onda di Ferro: colpisce il terreno. Ogni creatura entro 4,5 m:
-   TS Destrezza CD 15 o subisce 2d6+5 contundenti e cade Prona (metà danni e
-   niente Prono con un successo).
-3. Ultimate — L'Ultimo Banchetto: si scaglia sul nemico più vicino con furia
-   animale — attacco extra con l'Ascia bipenne (+7, 2d12+5); se colpisce,
-   guadagna 20 PF temporanei.
-```
-
-**Testi da leggere per le Villain Actions:**
-
-> **AL MOLO!:** *Gholcag sputa una lisca di traverso e alza l'ascia puntandola oltre le vostre teste, verso le barche. Poi abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*
-> *[Aggiunta atmosferica]: Non vi ha ancora guardati in faccia. Sta ancora masticando.*
-
-> **Onda di Ferro:** *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*
-> *[Aggiunta atmosferica]: Sa di legno bagnato e di pesce affumicato. Sa di Vogler.*
-
-> **L'Ultimo Banchetto:** *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di ogre in armatura fanno tremare le assi sotto i vostri piedi.*
-> *[Aggiunta atmosferica]: Ha mangiato mentre bruciavate. Adesso ha finito, e ha ancora fame.*
-
-*Ordine consigliato: **Opener** appena il party la ingaggia — è la Villain Action che imposta la scena e non fa quasi danni, quindi non rischia di aprire lo scontro con un PG a terra. **Control** a metà, quando la Mischia più stretta li ha costretti ad ammucchiarsi. **Ultimate** quando Gholcag è insanguinata.*
-
-> 💡 **Perché l'Opener funziona così.** *Al Molo!* è costruita per non dipendere da niente che il party possa togliere di mezzo: non serve il Boilerdrak, non servono i suoi due baaz, non serve che qualcuno sia in una posizione particolare. Si appoggia solo al **suo corpo** e alla **Mischia**, che per regola della mappa *"non può essere danneggiata e resta fino alla fine della battaglia"*. È sempre usabile, in qualunque ordine siano andate le cose.
->
-> **Il primo effetto è pressione, non danno.** Restringere il campo di 4,5 m fa tre cose insieme: toglie spazio per sganciarsi da un'ogre con Portata 1,5 m e una Reazione punitiva, prepara *Onda di Ferro* (party più stretto = più bersagli nel raggio di 4,5 m), e mostra fisicamente sulla mappa quello che sta succedendo — l'assalto che si chiude sul molo.
->
-> **[NOTA DM — riservata] Il secondo effetto non ha un prezzo meccanico: ha un prezzo in persone.** Il party può ignorare la barca e vincere lo scontro lo stesso. Non annunciarlo come un timer e non tirare fuori un conto alla rovescia: **descrivilo**, una riga alla fine di ogni round, e lascia che decidano se qualcuno spende un turno. Se lo ignorano, gli evacuati trascinati via sono i **nomi e le facce che ti sei segnato alla coda fuori dal Brass Crab** (FASE 1) — quelli che Brynja non è riuscita a curare. È lì che quella scena viene a chiedere il conto, senza che tu debba dire una parola.
-
-> 📝 **Cosa c'era prima, e perché è stato sostituito.** La vecchia Villain Action 1 (*Ai Miei Ordini*) faceva sparare il Boilerdrak. Non poteva funzionare: Gholcag entra in scena **dopo** che i quattro baaz dell'equipaggio sono stati sconfitti, quindi il draconiano a cui dava l'ordine non esiste più — e per giunta la macchina è un **oggetto da 100 PF** che il party può aver distrutto o disinnescato. Una Villain Action che il party può cancellare prima ancora che il boss entri in scena non è una Villain Action. *Al Molo!* la sostituisce e non dipende da niente di eliminabile.
-
-> ⚠️ **LETALITÀ — leggere prima di giocare.** Questo blocco è ~CR 4 contro **5 PG di 3° livello**, alla fine di una giornata senza riposi, con `regole-opzionali.md` attivo (critici massimizzati, Esaurimento a ogni risveglio da 0 PF, niente cura automatica dal riposo lungo). Due colpi d'ascia a segno fanno in media **36 danni**: stendono qualunque PG del party in un turno. Se al tavolo il Boilerdrak ha già fatto male, **cala Gholcag a 70-80 PF** o rinuncia alla Reazione *Presa di Ferro*: il momento narrativo (l'ultima barca, l'elmo di Becklin) vale più di un TPK a fine capitolo.
-
-Dopo che Gholcag e i draconiani sono sconfitti, la battaglia si conclude.
-
----
-
-### 5D — L'Ultima Barca (~10 min)
-
-La maggior parte dei draconiani rimasti in Vogler si concentra sul saccheggio — questo dà agli abitanti il tempo di evacuare. Al termine del molo, solo **Raven**, **Darrett** e pochi altri attendono ancora. Le ultime barche hanno spazio per loro e per i personaggi.
-
-Prima che i personaggi salgano sulla barca:
-
-### Testo — Jeyev al Molo [BT-09]
-
-> *"Tenete la barca!"* chiama una voce roca dalla strada piena di fumo. Un uomo corre nella foschia verso il molo, con addosso l'armatura dell'Ironclad Regiment e un elmo cornuto stretto in mano.
-
-*[Aggiunta atmosferica]:*
-> *Ha l'aria di qualcuno che ha già corso più di quanto avrebbe voluto questa notte. E l'elmo che porta non sembra il suo.*
-
----
-
-I personaggi riconoscono quest'uomo come **Jeyev Veldrews**, il luogotenente di Cudgel. Dice di essere stato mandato da Becklin con le seguenti informazioni:
-
-- La battaglia contro l'Esercito del Drago è andata male, ma alcuni dell'Ironclad Regiment sono riusciti a fuggire.
-- Becklin lo ha mandato per assicurarsi che tutti nel villaggio evacuassero in sicurezza e che nessuno aspettasse lei e i mercenari.
-- Altre forze Dragon Army sono alle sue calcagna — bisogna fuggire ora.
-
-Un personaggio che guarda l'elmo che porta riconosce che è l'elmo di un Cavaliere di Solamnia. Jeyev non dirà altro finché non sono sulla barca.
-
----
-
-[NOTA DM — riservata] **Il Destino di Becklin:** tu decidi cosa è successo. Opzioni:
-
-| Opzione | Dettaglio |
-|---------|-----------|
-| **Uccisione** | Jeyev è in realtà un bandit captain neutrale malvagio comprato dalla Dragon Army come Gragonis. Ha ucciso Becklin durante la battaglia e sta cercando di avvicinarsi a Darrett per ucciderlo. L'elmo è la prova. |
-| **Cattura** | Becklin ha inviato Jeyev per avvertire gli abitanti che la difesa è fallita. L'ha vista catturare mentre fuggiva. Può riapparire nei Cap. 4 o 5 come prigioniera. |
-| **Dispersa** | Becklin e Cudgel hanno organizzato una ritirata. Potrebbero riapparire a Kalaman nei capitoli successivi dopo aver eluso i nemici. |
-| **Testimone** | Jeyev sa i dettagli dell'ultima battaglia di Becklin e ha recuperato il suo elmo. Potrebbe ancora essere un assassino (prima opzione) o conoscere le informazioni delle altre possibilità. |
-
-Qualunque sia la scelta, **Darrett prende l'elmo di Becklin** e promette di tenerlo al sicuro. La reazione di Darrett a questa notizia — che Becklin è in pericolo o morta — è uno dei momenti emotivi più forti della campagna. Dagli spazio.
-
----
-
-### Testo — Vogler in Fiamme [BT-10]
-
-> Vogler è in fiamme. Tra le colonne di fumo che si levano dal villaggio, gli invasori saccheggiano ciò che resta. Gli abitanti che viaggiano con voi non distolgono lo sguardo: restano a guardare finché la loro casa non è più che una striscia rosso-nera lungo il bordo del fiume. Le barche dell'evacuazione portano tutto ciò che resta di Vogler lungo il Vingaard, verso un rifugio incerto a Kalaman.
-
-*[Aggiunta atmosferica]:*
-> *Non piangono. O forse è solo che nel buio non si vede, con il fumo che brucia gli occhi. Le decorazioni del Kingfisher che qualcuno ha portato sulla barca oscillano nel vento del fiume — gli ultimi martin pescatori che lasciano Vogler.*
-
----
-
-### Avanzamento a Livello 4
-
-I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalaman durante la notte. Il viaggio è lungo quasi tutta la notte. Dopo gli orrori che gli abitanti hanno vissuto, tutti sono sollevati che il percorso sia tranquillo.
+Non cercarli qui: sono là, per esteso e con tutti i blocchi statistici.
 
 ---
 
 ## Hook PG — Integrazione Personaggi
 
 *[NOTA DM — riservata] Vogler brucia stasera. Per quattro di questi cinque non è un villaggio qualunque, e per uno è la seconda volta. Non forzarli tutti: bastano due, giocati bene.*
+
+> 🔀 **DOPO LA SESSIONE DEL 20/09/2026.** Gli hook che cadevano nelle **FASI 0-4** sono stati giocati o sono passati: quello di **Brynja** (il contraccolpo, dalla FASE 0 alla FASE 4) è stato il filo portante della serata, e ha finito per coinvolgere anche **Corin**. Quello di **Razak** è caduto in parte (Thornwall Keep e lo gnomeflinger, FASE 4). Quello di **Asurion** è caduto in FASE 1 invece che in FASE 3: Lord Bakaris è stato cacciato dal Brass Crab.
+>
+> **Tutti gli hook marcati FASE 5A / 5B / 5C / 5D si spostano in `dm-notes-sessione-03.md`, FASE 0** — la casa che brucia per Brynja, la cassa e la lettera e il destino di Becklin per Razak, il palo del molo con la fenice per Corin, Kalaman nominata durante la fuga per Garrick, Lord Bakaris tra gli evacuati per Asurion, Rhys per tutti. **Lo Spotlight Darrett qui sotto non è stato giocato** e si sposta con loro.
+
 
 | PG | Hook in Sessione 02 | Dove cade |
 |----|---------------------|-----------|
@@ -1202,92 +854,146 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 ---
 
-## RECAP POST-SESSIONE
+## ✅ RECAP POST-SESSIONE — GIOCATA IL 20/09/2026
 
-*Da compilare DOPO aver giocato la sessione.*
+*Compilato dal recap di Fabio. Fonte: `recaps/recap-sessione-02.md`.*
 
 ### Fatti Accaduti
 
 **FASE 0 — Battaglia di High Hill (ripresa)**
-- [ ] Scontro 1 concluso: ____________
-- [ ] Scontro 2 (Gragonis): esito: ____________ — Gragonis vivo/morto: ____________
-- [ ] Feriti soccorsi: quanti ____________ — da chi ____________
-- [ ] **Gradino 1 del contraccolpo divino giocato** (chi si inginocchia, la richiesta impossibile): Sì / No
-- [ ] Party avanzato a **Livello 3**: Sì / No
+- [x] **Scontro 1 concluso:** sì, i mercenari a cavallo sono stati finiti
+- [x] **Scontro 2 (Gragonis):** vinto — **Gragonis è MORTO sul campo**
+- [x] **Nessun PG a 0 PF**, nessuna perdita degna di nota tra i PNG
+- [x] **Party avanzato a Livello 3:** **Sì**, assegnato sul campo
+- [x] **Prigioniero:** **Svilnt Sunderlit** (Gragonis è morto)
 
-**Il resto della sessione**
-- [ ] **Gradino 2** — Raven fa la domanda a Brynja al Brass Crab: Sì / No — risposta: ____________
-- [ ] **La coda fuori dal Brass Crab:** giocata versione lunga / corta / saltata
-- [ ] Orologio del Malumore arrivato a tacca: ____________ — esito di tacca 4 usato: ____________
-- [ ] Chi ha preso in mano la fila: ____________ (Raven / Garrick con l'elenco / Razak / Asurion / nessuno)
-- [ ] Corin si è esposto: no / kit da guaritore / **magia divina**
-- [ ] Lord Bakaris ha provato a comprare la precedenza: Sì / No — zittito: Sì / No
-- [ ] **Riposo lungo di Brynja:** dormito / curato tutta la notte / la fila ha accettato di aspettare l'alba
-- [ ] Nomi o facce curati stanotte da far ricomparire domani all'evacuazione: ____________
-- [ ] **Gradino 3** — la messaggera nota Brynja: opzione **(a) riferisce** / **(b) l'ultimatum la nomina**
-- [ ] Interrogatorio del mercenario: informazioni ottenute: Sì / No — chi era il prigioniero: ____________
-- [ ] Collegamento Dragon Army ("armature nere e rosse") emerso: Sì / No
-- [ ] Ricognizione nel bosco: eseguita dai PG / dai cacciatori locali
-- [ ] Campo nemico avvistato: Sì / No
-- [ ] Combattimento sulle scogliere: Sì / No — soldati eliminati: Sì / No
-- [ ] Gnomeflinger usato: Sì / No
-- [ ] Messaggera dell'Armata del Drago ricevuta: Sì / No — reazione degli abitanti: ____________
-- [ ] Cassa di Becklin recuperata: Sì / No
-- [ ] Folla calmata con successo: Sì / No — Lord Bakaris interferito: Sì / No
-- [ ] Soluzione navi implementata: ____________ — persone aggiuntive trasportate: ____________
-- [ ] Staffetta attaccata dal draconiano: salvata: Sì / No
-- [ ] Incontri invasione eseguiti (min 3): ____________ / ____________ / ____________
-- [ ] Cavalieri Minacciosi visti: Sì / No — interpretazione DM: ____________
-- [ ] Boilerdrak: distrutto: Sì / No — round impiegati: ____________
-- [ ] Fewmaster Gholcag: sconfitta: Sì / No
-- [ ] Lettera di Becklin per gli archivi di Kalaman consegnata a Razak: Sì / No
-- [ ] Jeyev arrivato: Sì / No — destino di Becklin scelto: ____________
-- [ ] Darrett ha preso l'elmo di Becklin: Sì / No
-- [ ] Party avanzato a Livello 4 sulla barca: Sì / No
+**FASE 1 — La notte al Brass Crab**
+- [x] **Gradino 2 — Raven fa la domanda a Brynja davanti a tutti:** **Sì** — e **Brynja ha risposto**
+- [x] **La coda fuori dal Brass Crab:** giocata
+- [x] **Orologio del Malumore:** fermo alla **tacca 1** — niente rissa, niente morto in coda, niente accusa
+- [x] **Chi ha preso in mano la fila:** **Raven**, chiamata dal party, + la dichiarazione pubblica dei limiti (*«gli dèi non rispondono di continuo, curiamo solo i più gravi»*)
+- [x] **Corin si è esposto:** ⚠️ **sì, con magia divina** — non con il kit da guaritore
+- [x] **Lord Bakaris ha provato a comprare la precedenza:** **Sì** → **cacciato dal Brass Crab** (*«il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»*)
+- [x] **Riposo lungo di Brynja e Corin:** ⚠️ **nessuno** — hanno curato tutta la notte. **Slot a zero**
+- [x] **Interrogatorio del mercenario:** **Sì**, Svilnt ha parlato (piano contro Cudgel, oro dal bosco, mercenari comprati, Jeyev leale)
+- [x] 🔀 **Collegamento Dragon Army («armature nere e rosse»):** **non** emerso dall'interrogatorio (era informazione di Gragonis) — **il party ci è arrivato da solo il giorno dopo**
+
+**FASE 2 — Il nemico nel bosco**
+- [x] 🔀 **Ricognizione eseguita dal famiglio corvo di Garrick** — non dai PG, non dai cacciatori locali
+- [x] **Campo nemico avvistato:** **Sì**, con gli occhi del corvo
+- [x] **Pattuglia (3 baaz + 2 soldati):** **mai incontrata** — il corvo non è stato notato
+
+**FASE 3 — L'alba**
+- [x] **Cudgel rientra con Jeyev:** **Sì** — 🔀 **primo incontro con Jeyev, in anticipo sul piano**
+- [x] **Piano deciso:** prima le guardie sulla rupe, poi l'evacuazione
+- [ ] **Becklin chiede il favore della cassa:** **No** — non ne ha ancora parlato a Razak → Sessione 03
+
+**FASE 4 — La messaggera e la rupe**
+- [x] **Messaggera dell'Armata del Drago ricevuta:** **Sì**, ultimatum di Belephaion letto
+- [x] **Gradino 3:** ✅ **opzione (a) — la messaggera nota Brynja e se ne va a riferire**
+- [x] **Combattimento sulle scogliere:** **Sì** — **quattro soldati eliminati, nessun allarme dato**
+- [x] **Gnomeflinger usato:** **Sì** (Razak e Brynja) — **narycrash tirati fuori, tutti atterrati bene**
+- [x] **Approccio combinato:** Corin in forma di ragno, Asurion in scalata e Garrick a cavallo **da dietro**
+- [x] 🔀 **La messaggera non è fuggita sotto attacco:** se n'era già andata, l'attacco è arrivato molto dopo
+
+**FASE 5 — non giocata**
+- [ ] Cassa di Becklin recuperata: **No** → Sessione 03
+- [ ] Folla calmata nella piazza / soluzione navi: **No** → Sessione 03
+- [ ] Staffetta attaccata dal draconiano · incontri dell'invasione · Cavalieri Minacciosi: **No** → Sessione 03
+- [ ] Boilerdrak · Fewmaster Gholcag: **No** → Sessione 03
+- [ ] Lettera di Becklin per gli archivi consegnata a Razak: **No** → Sessione 03
+- [ ] Jeyev al molo · destino di Becklin rivelato: **No** → Sessione 03 *(destino scelto dal DM: **catturata**)*
+- [ ] **Party avanzato a Livello 4:** **No** — resta a **3**
 
 ### Aggiornamenti PNG
 
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
-| Becklin Uth Viharin | Addio emozionale prima della battaglia; destino incerto | Trattata come alleata fidata (+3 se viva, +2 se catturata come assente) |
-| Darrett Highwater | Sopravvive all'invasione; prende l'elmo di Becklin | +2 → +3 Alleato (da questa sessione è il PNG più vicino al party) |
-| Cudgel Ironsmile | Conduce la difesa del fronte; destino post-battaglia DM | +1/+2 Amichevole (a seconda di come i PG hanno risposto al tradimento) |
-| Raven Uth Vogler | Gestisce la crisi, organizza l'evacuazione; fugge con i suoi | +2 Amichevole |
-| Leedara | Ancora in paese fino alla caduta. Il DM può inserire un cenno nella scena dei Cavalieri Minacciosi | **+1 Cordiale verso Garrick** (dal funerale) · 0 verso gli altri |
-| Jeyev Veldrews | Arriva con l'elmo di Becklin; fedeltà ambigua | Dipende dalla scelta DM sul destino di Becklin |
-| **Lord Bakaris** | Cerca di sabotare i piani di evacuazione. **Porta già il rancore per essere stato buttato nel fiume da Asurion** | -3 verso Asurion (invariata) · -1 → **-2 Diffidente** verso gli altri |
-| **Bakaris il Giovane** | Presente all'evacuazione, evita Razak ma non lo perde di vista | **-3 verso Razak** (invariata). ⚠️ **Devono sopravvivere entrambi:** li si ritrova a Kalaman in Sessione 03 |
+| **Gragonis** | **Ucciso in FASE 0.** Con lui muore l'unico che avesse visto il committente | ☠️ **Morto** |
+| **Svilnt Sunderlit** | Catturato e interrogato. Ha parlato. **Ancora legato nella rimessa** | **-2 Diffidente** |
+| Cudgel Ironsmile | Il party ha ucciso il traditore che voleva la sua morte e le ha consegnato un prigioniero vivo | **+1 → +2 Amichevole** |
+| Raven Uth Vogler | Chiamata dal party a mettere la propria autorità sulla fila; ha avuto la risposta pubblica che le serviva | **+1 → +2 Amichevole** |
+| Becklin Uth Viharin | Presente alla deliberazione. **Non ha ancora chiesto il favore della cassa** | +2 Amichevole · **+3 Alleato verso Razak** (invariata) |
+| Darrett Highwater | Sopravvissuto a High Hill, contuso | +2 Amichevole (invariata) |
+| **Lord Bakaris Uth Estide** | ⚠️ **Cacciato dal Brass Crab** davanti alla coda dopo aver provato a comprare la precedenza | **-3 verso Asurion** (invariata) · **-1 → -2 Diffidente** verso il resto del gruppo |
+| **Jeyev Veldrews** | 🔀 **Incontrato in FASE 3**, presentato da Cudgel come uno dei fedeli | **+1 Cordiale** |
+| **Than** | Ha prestato lo gnomeflinger di Thornwall Keep e tirato fuori i *narycrash* | **+1 Cordiale** |
+| **Messaggera dell'Armata del Drago** *(senza nome)* | Ha consegnato l'ultimatum, **ha guardato Brynja**, se n'è andata a riferire | **-3 Ostile** |
+| Leedara | Nessun contatto questa sessione | +1 Cordiale verso Garrick · 0 verso gli altri (invariata) |
+| Bakaris il Giovane | Non compare | -3 verso Razak · 0 verso gli altri (invariata) |
 
 ### Ricompense
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| 4 Soldati sulle scogliere (opz.) | 800 XP (200 × 4) |
-| Ricognizione — pattuglia (opz., 3 Baaz + 2 Soldati) | 700 XP (100×3 + 200×2) |
-| Scout salvata dalla draconiana | +50 XP (bonus narrativo) |
-| Incontri invasione (variabili) | 100–700 XP per incontro |
-| Boilerdrak (4 baaz a bordo) | 400 XP (100 × 4) |
-| Fewmaster Gholcag + 2 baaz | 1.300 XP (1.100 per ~CR 4 + 100×2) — *contabilità: il livello arriva a pietra miliare* |
-| Miliziano di Vogler salvato (incontro *Milizia di Vogler*) | Pozione di Guarigione |
-| **Avanzamento milestone** | **Livello 4** (fuga da Vogler completata) |
+| **Avanzamento milestone** | ✅ **Livello 3** — fine della Battaglia di High Hill |
+| Scontro 2 (Gragonis + 5 guardie) | Contabilità XP irrilevante: il Cap. 3 avanza a pietra miliare |
+| 4 Soldati sulle scogliere | 800 XP (200 × 4) — *contabilità* |
+| Portafortuna/gioielli da 20 mo dei guariti | **[DA CONFERMARE con Fabio]** — con due guaritori attivi tutta la notte il numero potrebbe non essere banale |
+| Equipaggiamento dei 4 soldati (spade lunghe, giavellotti, scaglie, scudi) | Non registrato come raccolto |
+| ~~Boilerdrak / Gholcag / incontri d'invasione / Livello 4~~ | **Non assegnate** — la FASE 5 non è stata giocata. Tutto in Sessione 03 |
 
 ### Thread Aperti
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Il destino di Becklin | Catturata? Dispersa? Uccisa? **Per Razak è la sua cavaliera** | Alta → Cap. 4 |
-| **Brynja e il ritorno degli dèi** | Ha guarito in pubblico due volte. Vogler lo sa, e — a seconda del Gradino 3 — lo sa anche l'Armata del Drago | **Alta → Cap. 4 e oltre** |
-| **Chi è rimasto senza cure** | Chi Brynja non ha potuto curare la notte della coda. Alcuni non sono arrivati al molo | Media → si vede subito, all'evacuazione |
-| **Quelli della coda** | I profughi di Vogler a Kalaman hanno visto cosa sa fare. Non la dimenticano, e non stanno zitti | Media → **Cap. 4: a Kalaman la precede la voce** |
-| **I due Bakaris** | Entrambi sopravvivono e arrivano a Kalaman **prima del party**. Lord Bakaris ha un torto vero da raccontare al consiglio; il figlio vuole soddisfazione da Razak | **Alta → Sessione 03** |
-| L'esercito Dragon Army | Belephaion, Voce di Takhisis — chi comanda questa forza? | Alta → Cap. 4 |
-| Wyhan e il rotolo | Il rotolo per Wyhan — ora la destinazione è Kalaman | Media → Apertura Cap. 4 |
-| **La lettera di Becklin per gli archivi** | Busta sigillata consegnata a Razak prima del fronte, da portare al Cancelliere Rennard a Castle Kalaman **insieme a Brynja**. Nessuno dei due sa cosa contiene | Media → **Sessione 03, FASE 5** |
-| **Garrick ↔ Leedara** | Garrick l'ha corteggiata al funerale; lei ha risposto *"in un altro tempo, forse"*. È l'unico del gruppo che le abbia parlato davvero | Media → **ricompare nel Cap. 4-7, sul filo di Lord Soth** |
-| Jeyev Veldrews | Fedele o traditore? | Dipende dalla scelta DM |
-| Darrett e l'armatura di Becklin | La cassa con l'armatura solamnica — quando/come consegnarla? | Media → Cap. 4 |
-| I Cavalieri Minacciosi | Chi erano le figure sulle scogliere? Lord Soth? Spiriti? | Bassa → tema ricorrente |
-| I Draconiani — cosa sono | I personaggi hanno visto creature che muoiono in modo anomalo (pietrificazione, esplosione, dissoluzione) | Media → Arc Dragon Army |
+| **L'evacuazione di Vogler** | Decisa e non ancora cominciata. Barche per metà dei quattrocento abitanti | **Massima → si riparte da lì** |
+| **Brynja e Corin senza slot** | Nessun riposo lungo. Arrivano al giorno dell'invasione a risorse consumate | **Massima → Sessione 03** |
+| **Due guaritori pubblici invece di uno** | Il contraccolpo non riguarda più solo Brynja | **Alta → Cap. 4 e oltre** |
+| **La messaggera ha visto Brynja** | È andata a riferire: **Belephaion lo sa per primo** | Alta → Cap. 4 |
+| **Svilnt legato nella rimessa** | Nessuno ha deciso cosa farne, e domani Vogler brucia | Media → **si risolve in Sessione 03** |
+| **Cudgel deve uscire dal villaggio** | La rupe è stata liberata proprio per questo: richiamare i mercenari e schierarli a nord | **Alta → apertura Sessione 03** |
+| **Il mandante di Gragonis** | Morto lui, resta solo l'inferenza del party: Armata del Drago | Media |
+| **Lord Bakaris, cacciato in pubblico** | Il suo torto da raccontare al consiglio di Kalaman è più grosso — ma Raven era presente | **Alta → Sessione 03, FASE 4** |
+| **La cassa di Becklin** | Il favore non è ancora stato chiesto | **Alta → Sessione 03, FASE 0A** |
+| **La lettera per gli archivi di Kalaman** | Non consegnata. La scena "Il Registro di Rennard" resta condizionata | Media → Sessione 03 |
+| **Il destino di Becklin** | ✅ Deciso dal DM: **catturata**. Il party lo scopre da Jeyev, al molo | **Alta → Sessione 03, FASE 0D** |
+| **I due Bakaris** | Entrambi devono sopravvivere all'evacuazione: si ritrovano a Kalaman | Alta → Sessione 03 |
+| **Garrick ↔ Leedara** | Invariato. Leedara è ancora a Vogler e non se ne va prima della caduta | Media → Cap. 4-7 |
+| **Wyhan e il rotolo** | Destinazione Kalaman | Media (Cap. 4) |
+
+---
+
+## 📋 ACCADUTO IN SESSIONE — Delta Piano vs Realtà
+
+| Area | Piano (questo file) | Realtà (20/09/2026) | Impatto |
+|------|--------------------|--------------------|---------|
+| **Durata** | 6 fasi, ~3h50m | Arrivati alla **fine della FASE 4** | La FASE 5 intera diventa l'apertura della Sessione 03 |
+| **Livello** | 2 → 3 → 4 | **3** | Il Livello 4 slitta: Boilerdrak e Gholcag si affrontano **al 3° livello**, come la fonte prevede ma con Gholcag a ~CR 4 |
+| **Gragonis** | Vivo o morto a scelta del tavolo | **Morto** | Il prigioniero è Svilnt; il committente resta ignoto |
+| **Interrogatorio** | Rivela il collegamento Dragon Army se il prigioniero è Gragonis | Prigioniero Svilnt → **collegamento non emerso lì** | Il party ci è arrivato **da solo** il giorno dopo: meglio così, è una loro deduzione |
+| **La coda notturna** | Orologio destinato a salire; tacca 4 con morto o rissa | **Fermo a tacca 1** — Raven chiamata, limiti dichiarati in pubblico | Vogler non ha rancore verso i guaritori. **E a Kalaman c'è una testimone dei criteri: Raven** |
+| **Riposo lungo** | Premio previsto per chi gioca bene la coda | **Rinunciato:** curano tutta la notte | **Brynja e Corin senza slot** all'invasione |
+| **Corin** | L'unico che poteva reggere la coda senza svelarsi | **Si è svelato anche lui**, con incantesimi | Il contraccolpo vale per due. **La scena di disaccordo tra i due portatori non si crea** |
+| **Lord Bakaris** | Rifiutato, comincia a spargere voci | **Cacciato dal Brass Crab in pubblico** | Torto più grosso a Kalaman, ma contraddittorio disponibile |
+| **FASE 2** | Ricognizione dei PG, pattuglia opzionale | **Famiglio corvo, nessuno scontro** | Lo scontro opzionale è chiuso per sempre. Il corvo diventa uno strumento ricorrente |
+| **Jeyev** | Prima apparizione al molo (5D), ambiguo | **Conosciuto all'alba** (FASE 3) | Al molo non è più uno sconosciuto: è uno garantito da Cudgel |
+| **Gradino 3** | (a) o (b) da scegliere | ✅ **(a)** | Nessuna pressione stasera; **Belephaion informato** da Kalaman in poi |
+| **Scontro sulle scogliere** | Scalata **oppure** gnomeflinger | **Tutte e due insieme**, su due fronti | Sorpresa piena, quattro soldati morti, nessun allarme |
+| **La messaggera** | Fugge a cavallo quando il party attacca | **Era già andata via** | Nessuno scontro con lei; l'attacco è arrivato molto dopo |
+| **Titolo del file** | «La Caduta di Vogler» | La caduta non è avvenuta | Rinominato **«La Notte dopo High Hill»**; il vecchio titolo passa alla Sessione 03 |
+
+### Scene da Trasferire a Sessione 03
+
+Trasferite **integralmente e verbatim** in `dm-notes-sessione-03.md` come **FASE 0 — La Caduta di Vogler**:
+
+1. **5A → 0A** — Preparativi per l'Evacuazione: la paura di Becklin, **il favore della cassa**, la piazza [BT-V1], placare la folla, il problema navi, i piani di battaglia
+2. **5B → 0B** — L'Invasione di Vogler: l'addio di Becklin, **La Lettera** per gli archivi di Kalaman, la staffetta attaccata [BT-V2], l'inizio dell'evacuazione [BT-V3], la tabella d10 degli incontri con i relativi blocchi (kapak, assalto diretto, cavalieri minacciosi, milizia)
+3. **5C → 0C** — Fuga dal Molo: **Boilerdrak** [BT-V4], caratteristiche del campo, eventi d6, **Fewmaster Gholcag** [BT-V5] con Villain Action e riquadro letalità
+4. **5D → 0D** — L'Ultima Barca: **Jeyev al molo** [BT-V6], il destino di Becklin, **Vogler in Fiamme** [BT-V7]
+5. **Avanzamento a Livello 4**
+6. Lo **Spotlight Darrett** (scena opzionale) e tutti gli hook PG marcati 5A/5B/5C/5D
+
+### [TODO DM] — Decisioni rimaste aperte
+
+- [x] **Destino di Becklin:** ✅ **catturata** — Jeyev è il testimone onesto della tabella
+- [x] **Fewmaster Gholcag:** ✅ **~CR 4**, versione Action-Oriented di `scontri-adattati/capitolo-03.md`
+- [x] **Brynja e Corin: slot a zero** → ✅ **riposo breve** prima dell'invasione (dadi vita sì, slot no)
+- [x] **Che fine fa Svilnt** quando Vogler brucia → ✅ **se il party non se lo ricorda, muore nella rimessa**. Non sollevarlo tu
+- [x] **La barca agganciata dall'Opener di Gholcag** → ✅ **nessun evacuato nominato**: è una delle barche messe insieme dal party con la soluzione navi. Scena riscritta in `dm-notes-sessione-03.md`, FASE 0C
+- [x] I portafortuna da 20 mo per i guariti → ✅ **non assegnati**
+- [x] **Kapak** → ✅ **senza le due aggiunte homebrew**: scheda ufficiale e basta
+- [ ] **Cudgel esce subito** a richiamare i mercenari? *(l'unica cosa rimasta, e si risolve al tavolo in trenta secondi)*
 
 ---
 
@@ -1295,13 +1001,13 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — aggiorna livello da 3 → **4**; registra XP guadagnati; aggiorna sede base (TBD → Kalaman)
-- [ ] `campagna/png-incontrati.md` — aggiungi Jeyev Veldrews; aggiorna: Becklin, Darrett, Cudgel, Raven, Leedara, Bakaris
-- [ ] `campagna/rapporti.md` — compila sezione "Capitolo 02 (Vogler — Cap 3 libro)" con i rapporti formati in questa sessione
-- [ ] `campagna/fazioni.md` — aggiorna Knights of Solamnia (Becklin: destino scelto); Ironclad Regiment (Cudgel: fedeltà confermata, mercenari a disposizione)
-- [ ] `campagna/contesto.md` — aggiorna **Capitolo corrente: da 3 → 4** (il party si muove verso Kalaman)
-- [ ] `/aggiorna-locations 02` — esegui dopo la sessione per aggiornare il compendio luoghi (campo Dragon Army, scogliere Vogler, fiume Vingaard)
-- [ ] `/prep-sessione 03` — prepara la Sessione 03 prima della prossima (Cap. 4 Shadow of War: arrivo a Kalaman, Marshal Vendri, prime missioni)
+- [x] `campagna/party.md` — livello a **3** (non 4: l'evacuazione non è avvenuta); Brynja e Corin **senza slot**; patto sulla magia divina rotto da entrambi
+- [x] `campagna/png-incontrati.md` — **Gragonis morto**; nuovi: **Than**, **Messaggera dell'Armata del Drago**; aggiornati: Svilnt, Jeyev (incontrato), Cudgel +2, Raven +2, Lord Bakaris -2
+- [x] `campagna/rapporti.md` — compilata la sezione "Capitolo 02 (Vogler — Cap 3 libro)" con i rapporti di questa serata
+- [x] `campagna/luoghi-visitati/` — High Hill, Brass Crab, Vogler, Thornwall Keep aggiornati; **nuovo: Le Scogliere della Porta del Fiume**
+- [x] `campagna/contesto.md` — **Capitolo corrente: resta 3** (Vogler non è ancora caduta); prossima sessione aggiornata
+- [x] `campagna/sessioni/dm-notes-sessione-03.md` — **FASE 0 La Caduta di Vogler** trasferita; header, setup e hook PG riallineati
+- [ ] `campagna/fazioni.md` — invariato: nessun cambiamento esplicito di posizione di fazione in questa sessione
 
 ---
 
