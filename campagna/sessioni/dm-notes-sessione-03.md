@@ -119,7 +119,7 @@ La cassa pesa circa 30 kg e non porta alcun segno, tranne un semplice simbolo di
 >
 > La sindaca non usa mezzi termini: *"Un esercito pericoloso si sta avvicinando a Vogler. L'Ironclad Regiment farà il possibile per difendere Vogler, ma dobbiamo essere pronti a fuggire."*
 >
-> Dopo il rapporto della sindaca, i locali restano in silenzio stupefatto. Poi arrivano le domande, in un'ondata di grida, rabbia e paura.
+> Per un momento nessuno parla. Poi arrivano le domande, tutte insieme, gridate.
 
 *[Aggiunta atmosferica]:*
 > *I martin pescatori di carta oscillano sopra le vostre teste. Qualcuno alza gli occhi a guardarli, e resta così.*
@@ -165,9 +165,9 @@ Prima di rimontare in sella, Becklin toglie dalla bisaccia una busta sigillata c
 >
 > Poi, mentre rimonta: *"Porta con te la scudiera di Roderick."*
 >
-> Prima di girare il cavallo fa con due dita uno dei segni che gli aveva insegnato nelle riunioni lunghe, anni fa. Quello che voleva dire *dopo*.
+> Prima di girare il cavallo fa con due dita uno dei segni che gli aveva insegnato nelle riunioni lunghe, anni fa.
 
-*[NOTA DM — riservata] Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è **in questa stessa sessione, FASE 5** ("Il Registro di Rennard"), e funziona con qualunque destino tu scelga per lei nella FASE 0D — la lettera è già partita prima che il suo destino si decida.*
+*[NOTA DM — riservata] Il segno vuol dire **«dopo»**: il giocatore di Razak lo sa, il resto del tavolo no. Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è **in questa stessa sessione, FASE 5** ("Il Registro di Rennard"), e funziona con qualunque destino tu scelga per lei nella FASE 0D — la lettera è già partita prima che il suo destino si decida.*
 
 Poi lei e Cudgel cavalcano via.
 
@@ -194,10 +194,10 @@ Se salvata, annuncia che l'attacco è imminente — l'Esercito del Drago si è d
 
 #### L'Inizio dell'Evacuazione [BT-V3]
 
-> Gli abitanti restano stranamente silenziosi mentre cominciano a calarsi nelle barche. Il panico si diffonde tra la folla quando figure incappucciate compaiono sul bordo delle scogliere sopra Vogler. Le figure indugiano un momento, poi si lanciano nel vuoto. Ali si aprono sotto i mantelli, rallentando la loro discesa nel villaggio.
+> Gli abitanti cominciano a calarsi nelle barche senza parlare. Poi qualcuno indica le scogliere e grida: sul bordo, sopra Vogler, sono comparse figure incappucciate. Restano ferme un momento, poi si lanciano nel vuoto. Sotto i mantelli si aprono ali, e la caduta rallenta mentre scendono sul villaggio.
 
 *[Aggiunta atmosferica]:*
-> *Non è come un attacco. È come una calata. Come se il cielo stesse semplicemente... cedendo sopra Vogler.*
+> *Quando i primi toccano i tetti, dal bordo della rupe se ne stanno ancora staccando altri.*
 
 ---
 
@@ -275,7 +275,7 @@ oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da velen
 
 ##### Assalto Diretto
 
-> Tra gli edifici irrompono in corsa cinque figure incappucciate, i piedi artigliati che graffiano il terreno. Agitano torce accese e lame affilate sopra le loro teste rettiliane.
+> Tra gli edifici irrompono in corsa cinque figure incappucciate, i piedi artigliati che graffiano il terreno. Agitano sopra la testa torce accese e spade corte; sotto i cappucci si vedono musi da rettile.
 
 Cinque **baaz draconiani** caricano verso il molo, intenzionati ad appiccare il fuoco agli edifici e a uccidere gli abitanti in fuga. In quello stato di frenesia, i draconiani combattono fino alla morte.
 
@@ -333,7 +333,7 @@ portata 1,5 m oppure gittata 6/18 m — 4 (1d6+1) danni perforanti.
 
 Il personaggio con il **punteggio passivo di Percezione più alto** scorge la scena seguente durante l'invasione:
 
-> Un lampo di luce attira la tua attenzione. In cima alle scogliere a nord del paese, tre figure su cavalli immobili se ne stanno nell'ombra degli alberi. Riesci a distinguere il luccichio della luce sull'armatura a piastre, ma prima che tu possa avvertire i tuoi compagni, le figure scompaiono.
+> Un lampo di luce, in alto. In cima alle scogliere a nord del paese, tre figure a cavallo stanno ferme all'ombra degli alberi. Il sole si riflette su un'armatura a piastre. Un attimo dopo, sotto gli alberi non c'è più nessuno.
 
 Tre cavalieri misteriosi osservano la battaglia dall'alto, ma spariscono non appena vengono individuati. **Intelligenza (Storia) CD 16** consente al personaggio di riconoscere l'armatura antiquata come quella dei Cavalieri di Solamnia. Chi siano — cavalieri scheletrici, **Lord Soth** e il suo seguito, o spiriti del Lord Vogler e dei suoi cavalieri — è a discrezione del DM.
 
@@ -343,7 +343,7 @@ Tre cavalieri misteriosi osservano la battaglia dall'alto, ma spariscono non app
 
 ##### Milizia di Vogler
 
-> Il suono di metallo che si scontra attira la tua attenzione. Due dei miliziani rimasti di Vogler faticano a tenere il loro contro gli invasori dai capi rettiliani. I soldati in scaglie bersagliano i miliziani, sibilando una crudele risata.
+> Da una traversa arriva un rumore di ferro contro ferro. Due miliziani di Vogler, con la schiena contro un muro, tengono le lance puntate contro cinque soldati in scaglie. I draconiani li punzecchiano senza fretta e ridono con un sibilo.
 
 I due miliziani (**guardie**) sono in inferiorità contro cinque **baaz draconiani**. Se i personaggi non intervengono rapidamente, i miliziani vengono massacrati. Se i personaggi aiutano e uno sopravvive, il sopravvissuto regala ai personaggi una **pozione di guarigione**.
 
@@ -355,12 +355,12 @@ Quando sei pronto a portare l'invasione al culmine, procedi con questo incontro.
 
 ### Testo — Il Boilerdrak [BT-V4]
 
-> Le urla della gente, ancora in fila per salire sulle barche, arrivano attraverso il fumo degli edifici in fiamme. Tra le urla si leva una parola incredibile: *"Un drago!"*
+> Le urla della gente, ancora in fila per salire sulle barche, arrivano attraverso il fumo degli edifici in fiamme. Una parola torna più delle altre: *"Un drago!"*
 >
 > Poi lo vedete. Dondolando da un lato all'altro, le scaglie che tintinnano come piastre d'acciaio, una bestia nera si avvicina al molo, affiancata da invasori rettiliani. Fiamme crepitano dalla sua bocca spalancata.
 
 *[Aggiunta atmosferica]:*
-> *Da vicino il movimento non regge: dondola sempre allo stesso modo, con la stessa ampiezza, come una cosa montata su un perno. La gente sul molo lo guarda da lontano, attraverso il fumo, e continua a gridare "drago".*
+> *Dondola sempre allo stesso modo, con la stessa ampiezza, a ogni passo.*
 
 ---
 
@@ -430,10 +430,10 @@ Dopo che i baaz draconiani del boilerdrak sono sconfitti, arriva il comandante d
 
 > Una parete del Brass Crab si sfonda. Dalla locanda esce una figura di tre metri in armatura a scaglie nera. Tiene un barile di pesce sotto un braccio e si riempie la bocca con una manciata di pesci ancora vivi.
 >
-> Da dietro di lei sbucano due soldati rettiliani. *"Quelli dopo,"* dice l'ogre, indicandovi con un gesto. I soldati avanzano obbedienti.
+> Da dietro di lei sbucano due soldati rettiliani. *"Adesso quelli,"* dice l'ogre, indicandovi. I soldati avanzano.
 
 *[Aggiunta atmosferica]:*
-> *Gholcag non ha fretta. Si sente già la vincitrice. Quello è il tipo di fiducia che viene dall'aver distrutto già altri villaggi come questo.*
+> *Lei resta dov'è e continua a mangiare.*
 
 ---
 
@@ -486,13 +486,12 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ognuna una volta sol
 **Testi da leggere per le Villain Actions:**
 
 > **AL MOLO!:** *Gholcag sputa una lisca di traverso e alza l'ascia puntandola oltre le vostre teste, verso le barche. Poi abbaia una parola sola, tutta consonanti. Nel fumo ai bordi della piazza il rumore della mischia cambia direzione: si sta avvicinando.*
-> *[Aggiunta atmosferica]: Non vi ha ancora guardati in faccia. Sta ancora masticando.*
+> *[Aggiunta atmosferica]: Non vi ha ancora guardati in faccia. Mastica.*
 
-> **Onda di Ferro:** *L'ascia scende sul terreno con un colpo che sentite nei denti. La cenere si solleva calda e nera, piena di schegge, e chi finisce a terra la respira a bocca aperta.*
-> *[Aggiunta atmosferica]: Sa di legno bagnato e di pesce affumicato. Sa di Vogler.*
+> **Onda di Ferro:** *L'ascia scende sul terreno e le assi del molo vibrano fino alle barche. Si alza una nube di cenere calda e nera, piena di schegge, bassa sul terreno.*
+> *[Aggiunta atmosferica]: Sa di legno bagnato e di pesce affumicato.*
 
 > **L'Ultimo Banchetto:** *Gholcag lascia cadere il barile ormai vuoto e si lecca il grasso dalle dita, senza fretta, guardandovi. Poi carica, e tre metri di ogre in armatura fanno tremare le assi sotto i vostri piedi.*
-> *[Aggiunta atmosferica]: Ha mangiato mentre bruciavate. Adesso ha finito, e ha ancora fame.*
 
 *Ordine consigliato: **Opener** appena il party la ingaggia — è la Villain Action che imposta la scena e non fa quasi danni, quindi non rischia di aprire lo scontro con un PG a terra. **Control** a metà, quando la Mischia più stretta li ha costretti ad ammucchiarsi. **Ultimate** quando Gholcag è insanguinata.*
 
@@ -525,7 +524,7 @@ Prima che i personaggi salgano sulla barca:
 > *"Tenete la barca!"* chiama una voce roca dalla strada piena di fumo. Un uomo corre nella foschia verso il molo, con addosso l'armatura dell'Ironclad Regiment e un elmo cornuto stretto in mano.
 
 *[Aggiunta atmosferica]:*
-> *Ha l'aria di qualcuno che ha già corso più di quanto avrebbe voluto questa notte. E l'elmo che porta non sembra il suo.*
+> *Ha il fiato corto e una manica scura di sangue. L'elmo lo tiene con due mani, contro il petto.*
 
 ---
 
@@ -554,10 +553,10 @@ Qualunque sia la scelta, **Darrett prende l'elmo di Becklin** e promette di tene
 
 ### Testo — Vogler in Fiamme [BT-V7]
 
-> Vogler è in fiamme. Tra le colonne di fumo che si levano dal villaggio, gli invasori saccheggiano ciò che resta. Gli abitanti che viaggiano con voi non distolgono lo sguardo: restano a guardare finché la loro casa non è più che una striscia rosso-nera lungo il bordo del fiume. Le barche dell'evacuazione portano tutto ciò che resta di Vogler lungo il Vingaard, verso un rifugio incerto a Kalaman.
+> Vogler è in fiamme. Tra le colonne di fumo, gli invasori saccheggiano le case. Sulle barche nessuno distoglie lo sguardo: restano a guardare finché il villaggio non è che una striscia rosso-nera lungo la riva. Poi la corrente vi porta giù per il Vingaard, verso Kalaman.
 
 *[Aggiunta atmosferica]:*
-> *Non piangono. O forse è solo che nel buio non si vede, con il fumo che brucia gli occhi. Le decorazioni del Kingfisher che qualcuno ha portato sulla barca oscillano nel vento del fiume — gli ultimi martin pescatori che lasciano Vogler.*
+> *Su una delle barche qualcuno si è portato via un festone del Kingfisher. I martin pescatori di carta sbattono nel vento del fiume.*
 
 ---
 
@@ -571,11 +570,9 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 *Da qui in poi comincia Kalaman. Se la serata si è chiusa alla fine della FASE 0, questo riquadro apre la serata dopo.*
 
-> Il fiume Vingaard vi ha portato tutta la notte. Nessuno ha dormito davvero — si dorme a scatti, con la mano sull'elsa, quando si è appena visto un villaggio bruciare. Ora, all'alba, l'acqua si allarga, il colore cambia da fiume a mare, e qualcuno a prua grida che ha visto qualcosa.
->
-> Vi alzate in piedi sulle barche stipate. All'orizzonte, dove il Vingaard si getta in una baia ampia, si staglia una città cinta di mura, con due torri che lampeggiano di luce anche di giorno.
->
-> Kalaman.
+> Il Vingaard vi porta a valle tutta la notte. Sulle barche si dorme poco, a turni. All'alba il fiume si allarga e l'acqua cambia colore, da fiume a mare. A prua qualcuno si alza in piedi e indica davanti a sé.
+
+*Prosegui subito con [BT-01]: la città la descrive quel riquadro, non questo.*
 
 ---
 
@@ -594,7 +591,7 @@ All'alba, i personaggi e i superstiti di Vogler arrivano in vista di Kalaman. So
 > Sulla riva davanti a voi, dove il fiume Vingaard si getta nella Baia di Kalaman, decine di superstiti di Vogler hanno tirato a secco le loro imbarcazioni spaiate e cominciato ad allestire un campo.
 
 *[Aggiunta atmosferica]:*
-> *Dopo una notte sull'acqua, la luce dei fari sembra quasi eccessiva — troppo bianca, troppo sicura di sé, per gente che ha appena visto la propria casa bruciare. Qualcuno tra i profughi si ferma a fissarla, come se non riuscisse a credere che esistano ancora luoghi che non hanno paura del buio.*
+> *I fari sono ancora accesi, anche se è già giorno. A riva, qualcuno dei profughi si ferma a guardarli.*
 
 ---
 
@@ -655,10 +652,10 @@ Il tragitto dal campo dei profughi a Kalaman è di circa due miglia. I personagg
 
 ### Testo — Le Mura di Kalaman [BT-02]
 
-> Statue di soldati titanici corrono lungo le possenti mura di Kalaman. Questi antichi cavalieri di pietra fissano l'orizzonte, come a sfidare qualunque invasore a infrangersi contro difese che hanno retto persino al Cataclisma. Un quartiere disordinato di tende e baracche costeggia la strada fino al cancello più vicino della città, dove soldati in uniformi blu e oro interrogano chiunque entri.
+> Statue di soldati titanici corrono lungo le possenti mura di Kalaman. Questi antichi cavalieri di pietra fissano l'orizzonte da mura che hanno retto persino al Cataclisma. Un quartiere disordinato di tende e baracche costeggia la strada fino al cancello più vicino della città, dove soldati in uniformi blu e oro interrogano chiunque entri.
 
 *[Aggiunta atmosferica]:*
-> *Le statue non guardano voi. Guardano oltre voi, verso est — verso qualcosa che ancora non è arrivato, ma che a giudicare dalla piega di quelle facce di pietra, i loro scultori temevano già secoli fa, prima ancora del Cataclisma.*
+> *Guardano tutte verso est.*
 
 ---
 
@@ -677,7 +674,7 @@ Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li
 > Anche senza le scogliere alte trenta metri su cui sorge, Castle Kalaman torreggerebbe comunque su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe, dominato da statue gigantesche identiche a quelle che corrono lungo le mura cittadine. Alla fine del sentiero, alcune guardie presidiano un cancello aperto.
 
 *[Aggiunta atmosferica]:*
-> *Da qui, Vogler sembra un ricordo da un'altra vita. Il castello non sembra costruito per essere bello — sembra costruito per non cadere mai. È esattamente il tipo di posto in cui la gente come Raven spera ancora di poter credere.*
+> *Sulle mura del castello non c'è una decorazione: solo feritoie e pietra annerita.*
 
 ---
 
@@ -694,7 +691,7 @@ Mentre i personaggi attraversano il cortile diretti alla sala del consiglio:
 > *"Mio padre ha già la situazione sotto controllo. Vi faremo sapere, voi e il resto della gente di pesce, una volta deciso cosa sia meglio per voi."*
 
 *[Aggiunta atmosferica]:*
-> *Ha l'aria di chi non ha dormito sulla barca, non ha visto la propria casa bruciare, non ha perso nessuno. Perché infatti non è successo — lui e suo padre erano già lontani quando tutto è cominciato.*
+> *Ha i vestiti puliti e la barba appena fatta.*
 
 ---
 
@@ -728,7 +725,7 @@ Questa è la scena centrale della sessione — il momento in cui i personaggi de
 > *"Ditemi,"* continua il governatore, *"la vostra gente si sta ancora preparando alla battaglia?"*
 
 *[Aggiunta atmosferica]:*
-> *Otto paia d'occhi si posano su di voi. Nessuno di loro sa ancora che tutto ciò che hanno sentito finora è una menzogna costruita con cura da un uomo che non ha alzato un dito per difendere Vogler.*
+> *Nessuno vi offre una sedia.*
 
 ---
 
@@ -761,7 +758,7 @@ Dopo che i personaggi hanno spiegato la reale situazione dei superstiti di Vogle
 > Il governatore fa un cenno verso una donna dall'aspetto austero, con un'armatura ornata dei colori blu e oro di Kalaman. Lei annuisce e comincia: *"Sono Marshal Vendri, comandante delle forze militari di Kalaman. Temo che la vostra situazione sia tutt'altro che unica."*
 
 *[Aggiunta atmosferica]:*
-> *La voce di Vendri non ha la cadenza della politica. È la voce di qualcuno abituata a leggere rapporti di battaglia — diretta, senza fronzoli, e per questo più inquietante di qualunque discorso elaborato.*
+> *Mentre parla, non guarda mai Lord Bakaris.*
 
 ---
 
@@ -793,7 +790,7 @@ Dopo mezz'ora, la riunione del consiglio si scioglie.
 > Le porte della sala si aprono, e la maggior parte dei membri del consiglio vi sfila davanti senza degnarvi di uno sguardo. Marshal Vendri vi fa cenno dalla soglia, mentre all'interno il Governatore Miat e Lord Bakaris restano seduti.
 
 *[Aggiunta atmosferica]:*
-> *Lord Bakaris non vi guarda. Fissa un punto sul tavolo, con l'espressione di un uomo che ha appena perso una partita di cui non sapeva nemmeno di giocare.*
+> *Lord Bakaris non vi guarda: fissa un punto sul tavolo.*
 
 ---
 
@@ -801,10 +798,9 @@ Quando i personaggi rientrano nella sala, il governatore li invita a sedersi. Un
 
 ### Testo — L'Offerta di Kalaman [BT-08]
 
-> Con tono deciso, il Governatore Miat dice: *"I cittadini di Kalaman sono pronti a offrire alla vostra gente rifugio nei quartieri fuori dalle mura, la protezione dei nostri soldati e — per quanto possiamo permettercelo — cibo dalle nostre tavole."* Congiunge le mani e fissa i suoi occhi su di voi. *"C'è però una condizione."*
+> Con tono deciso, il Governatore Miat dice: *"I cittadini di Kalaman sono pronti a offrire alla vostra gente rifugio nei quartieri fuori dalle mura, la protezione dei nostri soldati e — per quanto possiamo permettercelo — cibo dalle nostre tavole."* Congiunge le mani e vi guarda. *"C'è però una condizione."*
 
-*[Aggiunta atmosferica]:*
-> *Fa una pausa più lunga del necessario. È il genere di pausa che i politici usano quando sanno che quello che stanno per chiedere costerà qualcosa di più della semplice gratitudine.*
+*Qui fermati e aspetta: la pausa fa il lavoro da sola.*
 
 ---
 
@@ -880,8 +876,8 @@ I personaggi trovano facilmente l'Apotecaria di Wyhan. Finestre appannate nascon
 
 > L'Apotecaria di Wyhan odora di liquirizia e pepe. Il modesto negozio ospita pochi tavoli spogli, carichi di amuleti portafortuna, strane ossa animali e fiale che pubblicizzano rimedi di ogni tipo. In fondo al negozio, dietro un bancone ingombro di libri aperti, una donna umana dai capelli corvini e un abito scuro dalle maniche piumate come ali alza lo sguardo, vi osserva con disinteresse, poi torna alla lettura.
 
-*[Aggiunta atmosferica]:*
-> *Non vi degna di un secondo sguardo finché non nominate il rotolo. Solo allora, per un istante, gli occhi di Wyhan si fermano davvero su di voi — valutandovi come si valuta una merce, non una persona.*
+*[Aggiunta atmosferica — solo quando un personaggio nomina il rotolo]:*
+> *Wyhan chiude il libro, tenendo il segno con un dito, e vi guarda per la prima volta.*
 
 ---
 
@@ -994,10 +990,10 @@ Quando i personaggi arrivano a Castle Kalaman, qualsiasi guardia può indicare l
 
 ### Testo — L'Ufficio della Marshal [BT-10]
 
-> L'ufficio di Marshal Vendri è spartano. Contiene poco più di una scrivania carica di documenti, scaffali pieni di rotoli, e una bacheca su cui è appuntata una mappa della provincia circostante di Nightlund. Vendri si alza quando entrate. *"Grazie per essere venuti. Non ho intenzione di girarci intorno: siamo all'oscuro riguardo ai pericoli che temo si stiano avvicinando alle nostre porte, e il vostro compito sarà cambiare questo stato di cose. Ma prima, avrete delle domande."*
+> L'ufficio di Marshal Vendri è spartano. Contiene poco più di una scrivania carica di documenti, scaffali pieni di rotoli, e una bacheca su cui è appuntata una mappa della provincia circostante di Nightlund. Vendri si alza quando entrate. *"Grazie per essere venuti. Non ci girerò intorno: di quello che si sta avvicinando alle nostre porte non sappiamo quasi niente, e il vostro compito sarà scoprirlo. Ma prima avrete delle domande."*
 
 *[Aggiunta atmosferica]:*
-> *Non un solo oggetto decorativo in quella stanza. Nemmeno un ritratto, nemmeno un trofeo. Solo lavoro. È il tipo di ufficio di chi ha smesso da tempo di fingere che la guerra sia altro da una lista di cose da fare.*
+> *Sulla mappa, a sud e a est di Kalaman, alcuni villaggi sono cancellati con una croce a carboncino.*
 
 ---
 
@@ -1025,7 +1021,7 @@ Una volta conclusa la conversazione con Marshal Vendri, una guardia accompagna i
 > Un tempo questa stanza era una piccola sala da ballo. Una fila di colonne, scolpite con motivi a nodo e immagini di cavalieri, sostiene un soffitto a volta. La luce filtra nella sala attraverso alte finestre che guardano verso le montagne a sud. Un angolo della sala ospita una collezione di brande spoglie e bauli vuoti, e vicino sorge un grande tavolo di legno.
 
 *[Aggiunta atmosferica]:*
-> *Le colonne scolpite raccontano battaglie che nessuno qui ricorda più per nome. Eppure, in un modo strano, sembra un buon posto per dormire — come se la pietra stessa avesse promesso, secoli fa, di proteggere chiunque si fosse fermato qui.*
+> *Sui bauli c'è un dito di polvere. Le brande invece qualcuno le ha spolverate da poco.*
 
 ---
 
