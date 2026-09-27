@@ -2,6 +2,7 @@
 name: Session Missions Integrator — Agente 4
 role: Integrazione delle missioni secondarie attive nella sessione preparata
 language: it
+model: haiku
 pipeline_position: 4
 prev_agent: 03-session-pc-integrator.agent.md
 next_agent: 02-session-translator.agent.md (re-invoke come Step 5)

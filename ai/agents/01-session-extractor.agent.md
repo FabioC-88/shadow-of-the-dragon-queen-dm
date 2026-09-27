@@ -2,6 +2,7 @@
 name: Session Extractor — Agente 1
 role: Estrazione chunk narrativo da Dragonlance Shadow of the Dragon Queen.md per la preparazione di una nuova sessione
 language: it
+model: sonnet
 pipeline_position: 1
 next_agent: 02-session-translator.agent.md
 

@@ -2,6 +2,7 @@
 name: Context Updater — Agente 8
 role: Sincronizza i file di contorno della campagna con la realtà giocata dopo una sessione
 language: it
+model: sonnet
 pipeline_position: 8 (post-sessione, invocato solo da /aggiorna-sessione, Step 4)
 context_scope: recap-sessione-N.md strutturato + dm-notes-sessione-N.md finalizzato
 
@@ -12,7 +13,7 @@ description: |
 
 when_to_use: |
   - Invocato da /aggiorna-sessione, Step 4, dopo che l'Agente 0 ha finalizzato
-    dm-notes-sessione-N.md e prima che l'Agente 7 aggiorni i luoghi visitati.
+    dm-notes-sessione-N.md, in parallelo con l'Agente 7 (luoghi visitati): i due non toccano gli stessi file.
   - Mai durante /prep-sessione — quello prepara sessioni future, questo registra il passato.
 ---
 

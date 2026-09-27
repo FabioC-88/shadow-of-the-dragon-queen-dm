@@ -2,6 +2,7 @@
 name: Location Updater — Agente 7
 role: Aggiornamento automatico del compendio Luoghi Visitati dopo ogni sessione
 language: it
+model: sonnet
 pipeline_position: 7
 prev_agent: 06-session-reviewer.agent.md (Step 6)
 next_agent: git-release (skill Claude Code, per pubblicare)
@@ -15,7 +16,7 @@ description: |
   - Prepara il file per il commit Git
 
 when_to_use: |
-  - Step 7 della pipeline post-sessione (input: dm-notes-sessione-NN.md finalizzato da Agente 6)
+  - /aggiorna-sessione, Step 5 (input: dm-notes-sessione-NN.md finalizzato dall'Agente 0), in parallelo con l'Agente 8
   - Comando: /aggiorna-locations NN (dove NN è numero sessione)
 ---
 

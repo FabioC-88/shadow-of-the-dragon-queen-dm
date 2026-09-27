@@ -2,6 +2,7 @@
 name: Session PC Integrator — Agente 3
 role: Integrazione dei layer personaggi giocanti nella sessione preparata
 language: it
+model: opus
 pipeline_position: 3
 prev_agent: 02-session-translator.agent.md
 next_agent: 04-session-missions-integrator.agent.md

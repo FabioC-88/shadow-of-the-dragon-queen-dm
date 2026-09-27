@@ -2,6 +2,7 @@
 name: Chapter PNG Briefer — Agente 5b
 role: Genera i briefing PNG per capitolo da distribuire ai giocatori
 language: it
+model: sonnet
 pipeline_position: 6b (condizionale — eseguito solo a transizione di capitolo)
 prev_agent: 06-session-reviewer.agent.md
 next_agent: git-release (skill Claude Code, per pubblicare)

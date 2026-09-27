@@ -2,6 +2,7 @@
 name: Session Recap Updater — Agente 0
 role: Aggiornamento di una sessione preparata in base a ciò che è realmente accaduto nella sessione precedente
 language: it
+model: sonnet
 pipeline_position: 0 (entry point alternativo)
 context_scope: sessioni precedenti SOLO (mai sessioni successive al target)
 next_agent: 03-session-pc-integrator.agent.md → 04-session-missions-integrator.agent.md → 06-session-reviewer.agent.md

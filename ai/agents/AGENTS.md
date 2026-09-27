@@ -23,11 +23,13 @@ descrizioni divergano nel tempo:
 - **`/prep-sessione`** (`.claude/skills/prep-sessione/SKILL.md`) — prepara una sessione nuova
   invocando in ordine `01-session-extractor` → `02-session-translator` → `03-session-pc-integrator`
   → `04-session-missions-integrator` → `02-session-translator` (re-invoke) → `06-session-reviewer`
-  → `05-chapter-png-briefer` (solo a cambio capitolo).
+  → `09-read-aloud-reviewer`, con `05-chapter-png-briefer` in parallelo (solo a cambio capitolo).
 - **`/aggiorna-sessione`** (`.claude/skills/aggiorna-sessione/SKILL.md`) — dopo che una sessione è
   stata giocata, invoca `00-recap-updater` → `03-session-pc-integrator` → `08-context-updater`
-  → `07-location-updater`, poi prepara la sessione successiva (di nuovo con la pipeline di
-  prep-sessione) e propone la skill `git-release` per pubblicare.
+  ∥ `07-location-updater`, poi prepara la sessione successiva (di nuovo con la pipeline di
+  prep-sessione), rilegge i testi da leggere con `09-read-aloud-reviewer` e propone la skill
+  `git-release` per pubblicare. Ogni agente gira come sub-agente con il modello indicato nel
+  campo `model:` del proprio frontmatter.
 - **`/aggiorna-locations`** (`.claude/skills/aggiorna-locations/SKILL.md`) — invoca solo
   `07-location-updater`, per aggiornare i luoghi in isolamento senza rifare tutto il resto.
 
