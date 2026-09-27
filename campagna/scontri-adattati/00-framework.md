@@ -43,12 +43,12 @@ Regole del tavolo valide per **tutti** i capitoli in `campagna/scontri-adattati/
 | Capitolo | File | Stato |
 |---|---|---|
 | 1 | — | Escluso (solo background, nessun combattimento) |
-| 2 | [capitolo-02.md](capitolo-02.md) | Fatto (nessun boss — solo il preludio "Scales of War") |
-| 3 — When Home Burns | [capitolo-03.md](capitolo-03.md) | Fatto (ricontrollato: nessun Minion reale da convertire, letalità e Villain Actions Gholcag verificate) |
-| 4 — Shadow of War | [capitolo-04.md](capitolo-04.md) | Fatto (ricontrollato: 12 Goblin + Dragon Army Soldier convertiti da Minion, letalità e Villain Actions Caradoc/Sarlamir verificate — due echi strutturali con Gholcag segnalati, non riscritti. Lord Soth resta non affrontabile in combattimento diretto qui) |
-| 5 — The Northern Wastes | [capitolo-05.md](capitolo-05.md) | Fatto (boss: Virruza, Akhviri come contingenza — nessuno stat block ufficiale in fonte, tutto ricostruito, `[TODO DM: verificare]` diffuso) |
-| 6 — City of Lost Names | [capitolo-06.md](capitolo-06.md) | Fatto (boss: Belephaion — Lohezet trattamento minore, no Villain Actions) |
-| 7 — Siege of Kalaman | [capitolo-07.md](capitolo-07.md) | Fatto (intero capitolo, Sessioni 25-28 — boss: Kansaldi Fire-Eyes/Ignia + Lord Soth contingenza, basati sulle ricostruzioni già in dm-notes-sessione-27/28.md; resto del capitolo trattamento minore/standard) |
+| 2 | [capitolo-02.md](capitolo-02.md) | Fatto (nessun boss — solo il preludio "Scaglie di Guerra (*Scales of War*)") |
+| 3 — Quando Brucia la Casa (*When Home Burns*) | [capitolo-03.md](capitolo-03.md) | Fatto (ricontrollato: nessun Minion reale da convertire, letalità e Villain Actions Gholcag verificate) |
+| 4 — L'Ombra della Guerra (*Shadow of War*) | [capitolo-04.md](capitolo-04.md) | Fatto (ricontrollato: 12 Goblin + Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) convertiti da Minion, letalità e Villain Actions Caradoc/Sarlamir verificate — due echi strutturali con Gholcag segnalati, non riscritti. Lord Soth resta non affrontabile in combattimento diretto qui) |
+| 5 — Terre Desolate del Nord | [capitolo-05.md](capitolo-05.md) | Fatto (boss: Virruza, Akhviri come contingenza — nessuno stat block ufficiale in fonte, tutto ricostruito, `[TODO DM: verificare]` diffuso) |
+| 6 — Città dei Nomi Perduti | [capitolo-06.md](capitolo-06.md) | Fatto (boss: Belephaion — Lohezet trattamento minore, no Villain Actions) |
+| 7 — Assedio di Kalaman (*Siege of Kalaman*) | [capitolo-07.md](capitolo-07.md) | Fatto (intero capitolo, Sessioni 25-28 — boss: Kansaldi Fire-Eyes/Ignia + Lord Soth contingenza, basati sulle ricostruzioni già in dm-notes-sessione-27/28.md; resto del capitolo trattamento minore/standard) |
 
 ---
 
@@ -58,12 +58,12 @@ Fabio ha fornito gli stat block ufficiali (MM'25 e DSotDQ). Erano tutti ricostru
 
 | Creatura | CR usato prima | CR ufficiale | Effetto sul budget |
 |---|---|---|---|
-| **Dragon Army Soldier** (p200) | CR 1/4 (50 XP) — e CR 1/8 in S13 | **CR 1 (200 XP)** | ⬆️ **×4-8.** AC 17, 22 PF, due attacchi con +1d4 fuoco. Gli incontri con 8 soldati sono un'altra cosa |
+| **Soldato dell'Armata dei Draghi** (p200) | CR 1/4 (50 XP) — e CR 1/8 in S13 | **CR 1 (200 XP)** | ⬆️ **×4-8.** AC 17, 22 PF, due attacchi con +1d4 fuoco. Gli incontri con 8 soldati sono un'altra cosa |
 | **Sivak Draconian** (p199) | CR 2 (450 XP) | **CR 4 (1.100 XP)** | ⬆️ **×2,4.** Ed è **Grande** con **Volo 18 m**, 57 PF, 3 attacchi/round |
-| **Ufficiale del Dragon Army** (p200) | CR 1 in S13, CR 3 altrove | **CR 3 (700 XP)** | ⬆️ solo in S13. AC 19, portata 3 m, Ordini d'Assalto |
+| **Ufficiale dell'Armata dei Draghi** (p200) | CR 1 in S13, CR 3 altrove | **CR 3 (700 XP)** | ⬆️ solo in S13. AC 19, portata 3 m, Ordini d'Assalto |
 | **Kapak Draconian** (p198) | CR 2 in Cap. 4 e 7 | **CR 3 (700 XP)** | ⬆️ e il Multiattacco può **paralizzare** |
-| **Bozak Draconian** (p198) | CR 3 (700 XP) | **CR 2 (450 XP)** | ⬇️ e le Death Throes fanno 2d8 **forza** CD 10, non 4d6 fuoco CD 13 |
-| **Dragonnel del Dragon Army** (p201) | CR 4 (1.100 XP) | **CR 3 (700 XP)** | ⬇️ |
+| **Bozak Draconian** (p198) | CR 3 (700 XP) | **CR 2 (450 XP)** | ⬇️ e le Spasmi di Morte (*Death Throes*) fanno 2d8 **forza** CD 10, non 4d6 fuoco CD 13 |
+| **Dragonnel dell'Armata dei Draghi** (p201) | CR 4 (1.100 XP) | **CR 3 (700 XP)** | ⬇️ |
 | **Baaz Draconian** (p197) | CR 1 in S05/S06/Cap. 4 | **CR 1/2 (100 XP)** | ⬇️ **metà**, e picchia molto meno (2× Spada corta 1d6+1) |
 | **Aurak Draconian** (p196) | CR 6 | **CR 6 (2.300 XP)** | = ma capacità **completamente diverse** |
 | **Guard** (MM'25 p162) | Crossbow + Shortsword | CR 1/8, **solo Lancia** | = come peso, diverso come tattica |
@@ -72,4 +72,4 @@ Fabio ha fornito gli stat block ufficiali (MM'25 e DSotDQ). Erano tutti ricostru
 
 **Regola pratica:** dove il CR è salito, **riduci il numero di nemici** invece di indebolire il blocco; dove è sceso, **aumentalo**. I blocchi ora sono quelli veri e non vanno più toccati — si scala con le quantità, come già fatto per il quinto giocatore.
 
-**Capitoli da ricontrollare prima di giocarli:** 4 (posto di vedetta e forte: baaz ⬇️, kapak ⬆️, sivak ⬆️), 5, 6 e 7 (sivak e soldati ⬆️ in modo sostanziale). I Capitoli 2 e 3 — Sessioni 00, 01 e 02 — sono a posto: usano baaz, guard, warhorse, kapak e boilerdrak già verificati.
+**Capitoli da ricontrollare prima di giocarli:** 4 (posto di vedetta e forte: baaz ⬇️, kapak ⬆️, sivak ⬆️), 5, 6 e 7 (sivak e soldati ⬆️ in modo sostanziale). I Capitoli 2 e 3 — Sessioni 00, 01 e 02 — sono a posto: usano baaz, guardia (*guard*), warhorse, kapak e boilerdrak già verificati.

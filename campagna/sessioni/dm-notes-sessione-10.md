@@ -1,27 +1,27 @@
 # DM Notes — Sessione 10: Il Santuario della Fenice Azzurra
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 5: The Northern Wastes** (righe 3524–3658), sezione **"C: Blue Phoenix Shrine"**
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 5: Terre Desolate del Nord** (righe 3524–3658), sezione **"C: Santuario della Fenice Blu"**
 **Livello party:** 6 (invariato — questa è solo la prima delle tre location sandbox; l'avanzamento richiede il completamento di tre location, un'impresa straordinaria, o il ritrovamento della Città dei Nomi Perduti: vedi nota di apertura della Sessione 09, ancora valida)
 **XP accumulati:** Ereditati dalla Sessione 09 (vedi `campagna/party.md`). Questa sessione offre fino a **2.100 XP** (3 elementali d'acqua, CR 3, 700 XP cad. — guardiani dell'Altare, opzionali) e fino a **3.300 XP** (3 melme nere, CR 4, 1.100 XP cad. — guardiani della Sala delle Offerte, opzionali): **totale potenziale fino a 5.400 XP**, ma entrambi gli scontri sono evitabili se il party rispetta il rituale di purificazione e non profana i sarcofagi (vedi FASE 3 e FASE 5).
-**Obiettivo sessione:** Chiudere la scelta lasciata in sospeso dalla Sessione 09 (quale delle tre location visitare per prima), viaggiare attraverso le Northern Wastes fino al **Blue Phoenix Shrine**, incontrare i naufraghi Dimernesti guidati da **Ishvern Stargazer**, assisterli nel completare un'offerta rituale al dio Habbakuk in nome della sacerdotessa scomparsa Yearkal, esplorare le sei camere del santuario (C1–C6), e ripartire con un nuovo indizio per Dalamar oltre a un nuovo thread aperto: i naufraghi Dimernesti prigionieri a **Camp Carrionclay**.
+**Obiettivo sessione:** Chiudere la scelta lasciata in sospeso dalla Sessione 09 (quale delle tre location visitare per prima), viaggiare attraverso le Terre Desolate del Nord fino al **Santuario della Fenice Blu**, incontrare i naufraghi Dimernesti guidati da **Ishvern Stargazer**, assisterli nel completare un'offerta rituale al dio Habbakuk in nome della sacerdotessa scomparsa Yearkal, esplorare le sei camere del santuario (C1–C6), e ripartire con un nuovo indizio per Dalamar oltre a un nuovo thread aperto: i naufraghi Dimernesti prigionieri a **Camp Carrionclay**.
 **Durata stimata:** ~2h25m (6 fasi: 15 + 25 + 25 + 20 + 35 + 25 min)
-**Sessione precedente:** dm-notes-sessione-09.md — Cap. 5: The Northern Wastes, apertura del capitolo: debriefing a Kalaman, partenza da Kalaman, sbarco a Wrecker's Edge, scontro con 2 elementali dell'aria, incontro con Dalamar e Zhelsuel al campo elfico, incarico di indagare tre location (Blue Phoenix Shrine, Sunward Fortress, Wakenreth), chiusura sulla scelta del party (righe 3191–3522)
+**Sessione precedente:** dm-notes-sessione-09.md — Cap. 5: Terre Desolate del Nord, apertura del capitolo: debriefing a Kalaman, partenza da Kalaman, sbarco a Wrecker's Edge, scontro con 2 elementali dell'aria, incontro con Dalamar e Zhelsuel al campo elfico, incarico di indagare tre location (Santuario della Fenice Blu, Fortezza di Sunward, Wakenreth), chiusura sulla scelta del party (righe 3191–3522)
 
-> ⚠️ **Nota pre-sessione — scelta della location e gestione delle diramazioni.** La Sessione 09 si è chiusa deliberatamente su un bivio aperto: quale delle tre location (Blue Phoenix Shrine, Sunward Fortress, Wakenreth) il party sceglie di visitare per prima. **Al momento di questa preparazione non esiste un party reale al tavolo** (vedi nota su `campagna/party.md` più sotto) che abbia già compiuto quella scelta in sessione. Ho quindi dovuto usare il giudizio richiesto esplicitamente dall'Agente 1 in un caso come questo: **ho scelto di preparare il Blue Phoenix Shrine (location C)** come contenuto di questa sessione, per i seguenti motivi:
+> ⚠️ **Nota pre-sessione — scelta della location e gestione delle diramazioni.** La Sessione 09 si è chiusa deliberatamente su un bivio aperto: quale delle tre location (Santuario della Fenice Blu, Fortezza di Sunward, Wakenreth) il party sceglie di visitare per prima. **Al momento di questa preparazione non esiste un party reale al tavolo** (vedi nota su `campagna/party.md` più sotto) che abbia già compiuto quella scelta in sessione. Ho quindi dovuto usare il giudizio richiesto esplicitamente dall'Agente 1 in un caso come questo: **ho scelto di preparare il Santuario della Fenice Blu (location C)** come contenuto di questa sessione, per i seguenti motivi:
 >
-> 1. **Ordine canonico della fonte.** Il manuale presenta le tre location nell'ordine C (Blue Phoenix Shrine) → D (Sunward Fortress) → E (Wakenreth), e la sezione E chiarisce esplicitamente che **Dalamar prevede di incontrare il party a Wakenreth per ultimo**, una volta raccolti tutti i rapporti ("Dalamar plans to convince Zhelsuel to let him meet the characters at Wakenreth"). Questo rende Wakenreth una **cesura di convergenza narrativa**, non un punto di partenza naturale — meglio riservarla come chiusura del trittico.
-> 2. **Curva di difficoltà.** Sunward Fortress è la location più letale delle tre (draconiani-slaad ibridi, due slaadi rossi, lo slaad verde Virruza, il rischio di *chaos phage* dallo Spawning Shard): un'apertura più dolce dopo il combattimento contro gli elementali della Sessione 09 mi è sembrata una scelta di ritmo più sensata. Il Blue Phoenix Shrine offre invece scontri **evitabili** (guardiani rituali, non nemici con agenda propria) e un forte contenuto di roleplay/esplorazione, in linea con l'alternanza di toni già usata nelle Sessioni 08–09.
-> 3. **Continuità tematica.** La Sessione 09 aveva già seminato questo santuario come "location naturale" per il PG del preludio **Broken Silence** (thread esplicito nella tabella Hook PG di quella sessione). Aprire il trittico da qui permette di onorare quella promessa subito, anziché rimandarla.
+> 1. **Ordine canonico della fonte.** Il manuale presenta le tre location nell'ordine C (Santuario della Fenice Blu) → D (Fortezza di Sunward) → E (Wakenreth), e la sezione E chiarisce esplicitamente che **Dalamar prevede di incontrare il party a Wakenreth per ultimo**, una volta raccolti tutti i rapporti ("Dalamar plans to convince Zhelsuel to let him meet the characters at Wakenreth"). Questo rende Wakenreth una **cesura di convergenza narrativa**, non un punto di partenza naturale — meglio riservarla come chiusura del trittico.
+> 2. **Curva di difficoltà. La ** Fortezza di Sunward è la location più letale delle tre (draconiani-slaad ibridi, due slaadi rossi, lo slaad verde Virruza, il rischio di *fago del caos* dalla Scheggia Generatrice): un'apertura più dolce dopo il combattimento contro gli elementali della Sessione 09 mi è sembrata una scelta di ritmo più sensata. Il Santuario della Fenice Blu offre invece scontri **evitabili** (guardiani rituali, non nemici con agenda propria) e un forte contenuto di roleplay/esplorazione, in linea con l'alternanza di toni già usata nelle Sessioni 08–09.
+> 3. **Continuità tematica.** La Sessione 09 aveva già seminato questo santuario come "location naturale" per il PG del preludio **Silenzio Infranto** (thread esplicito nella tabella Hook PG di quella sessione). Aprire il trittico da qui permette di onorare quella promessa subito, anziché rimandarla.
 >
-> **Questa è una scelta di preparazione, non un fatto di gioco.** Se il tuo tavolo, nel momento in cui la Sessione 09 si chiude davvero in sessione, sceglie **Sunward Fortress** o **Wakenreth** invece del Blue Phoenix Shrine, **non usare questo file**: prepara invece la location scelta con `/prep-sessione 10` di nuovo (o rinomina/archivia questo documento e generane uno nuovo), usando le righe 3659–3801 (Sunward Fortress) o 3802–3921 (Wakenreth) come fonte primaria. Ho lasciato una nota dedicata a fondo documento ("Note per le Sessioni Future") con la mappa completa di come gestire qualunque ordine il party scelga, comprese le dipendenze narrative tra le tre location (Yearkal è prigioniera a Sunward Fortress; alcuni sea elf catturati sono a Camp Carrionclay; Wakenreth è il punto di raccordo finale con Dalamar).
+> **Questa è una scelta di preparazione, non un fatto di gioco.** Se il tuo tavolo, nel momento in cui la Sessione 09 si chiude davvero in sessione, sceglie **Fortezza di Sunward** o **Wakenreth** invece del Santuario della Fenice Blu, **non usare questo file**: prepara invece la location scelta con `/prep-sessione 10` di nuovo (o rinomina/archivia questo documento e generane uno nuovo), usando le righe 3659–3801 (Fortezza di Sunward) o 3802–3921 (Wakenreth) come fonte primaria. Ho lasciato una nota dedicata a fondo documento ("Note per le Sessioni Future") con la mappa completa di come gestire qualunque ordine il party scelga, comprese le dipendenze narrative tra le tre location (Yearkal è prigioniera alla Fortezza di Sunward; alcuni elfo marino catturati sono a Camp Carrionclay; Wakenreth è il punto di raccordo finale con Dalamar).
 >
-> **Party ancora in TBD.** Come nelle Sessioni 00–09, `campagna/party.md` e `fonti/personaggi/` non contengono PG reali. Gli hook PG restano impostati sui tre preludi canonici del manuale (*Broken Silence*, *Eye in the Sky*, *Scales of War*) fino a quando il party non sarà definito.
+> **Party ancora in TBD.** Come nelle Sessioni 00–09, `campagna/party.md` e `fonti/personaggi/` non contengono PG reali. Gli hook PG restano impostati sui tre preludi canonici del manuale (*Silenzio Infranto*, *Occhio nel Cielo*, *Scaglie di Guerra*) fino a quando il party non sarà definito.
 >
 > **Nessuna missione di fazione da integrare.** Come nelle Sessioni 04–09, `campagna/missioni-secondarie.md` non contiene missioni `In corso` o `Pianificate`, e `campagna/fazioni.md` non prevede missioni strutturate per questa campagna lineare. L'Agente 4 non ha quindi integrato alcun hook di missione in questo draft — il thread di Camp Carrionclay che emerge in FASE 6 è un thread narrativo di location, non una missione di fazione.
 >
-> **Step 6.5 non si applica.** Questa sessione resta interamente all'interno del Cap. 5 (The Northern Wastes, righe 3191–4353 della fonte): non c'è transizione di capitolo. `campagna/contesto.md` → Capitolo corrente resta **5**. Vedi la nota di verifica in fondo al documento.
+> **Step 6.5 non si applica.** Questa sessione resta interamente all'interno del Cap. 5 (Terre Desolate del Nord, righe 3191–4353 della fonte): non c'è transizione di capitolo. `campagna/contesto.md` → Capitolo corrente resta **5**. Vedi la nota di verifica in fondo al documento.
 >
-> **Nuovi PNG introdotti.** Questa sessione introduce **Ishvern Stargazer** (esploratore Dimernesti, leader de facto dei naufraghi) e il gruppo dei **sea elves sopravvissuti**, oltre a menzionare (senza farli comparire fisicamente) **Yearkal** (sacerdotessa Dimernesti, prigioniera a Sunward Fortress — location non ancora visitata) e i tre naufraghi prigionieri a **Camp Carrionclay** (location non ancora incontrata). Nessuno di questi PNG ha uno stub preesistente in `campagna/png-incontrati.md`: andranno aggiunti da zero nel workflow `/aggiorna-sessione` dopo aver giocato.
+> **Nuovi PNG introdotti.** Questa sessione introduce **Ishvern Stargazer** (esploratore Dimernesti, leader de facto dei naufraghi) e il gruppo dei **elfi marini sopravvissuti**, oltre a menzionare (senza farli comparire fisicamente) **Yearkal** (sacerdotessa Dimernesti, prigioniera alla Fortezza di Sunward — location non ancora visitata) e i tre naufraghi prigionieri a **Camp Carrionclay** (location non ancora incontrata). Nessuno di questi PNG ha uno stub preesistente in `campagna/png-incontrati.md`: andranno aggiunti da zero nel workflow `/aggiorna-sessione` dopo aver giocato.
 >
 > **Dalamar e Zhelsuel non compaiono in questa sessione.** Il patto stretto in Sessione 09 li tiene all'accampamento elfico/di Darrett; la fonte specifica che "Dalamar needs to know only that the Blue Phoenix Shrine is a holy place sacred to the god Habbakuk" — non serve la sua presenza fisica qui. Darrett, Cudgel e Tatina restano con l'esercito e non partecipano all'avvicinamento al campo dei naufraghi (vedi nota in FASE 2 sul perché tenerli a distanza).
 
@@ -31,7 +31,7 @@
 
 *Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
 
-> Tre nomi, tre destinazioni possibili: Blue Phoenix Shrine. Sunward Fortress. Wakenreth. Nessuno dei due elfi che vi hanno affidato l'incarico ha voluto scegliere per voi. Ora tocca a voi.
+> Tre nomi, tre destinazioni possibili: Santuario della Fenice Blu. La Fortezza di Sunward. Wakenreth. Nessuno dei due elfi che vi hanno affidato l'incarico ha voluto scegliere per voi. Ora tocca a voi.
 >
 > Avete scelto il santuario.
 
@@ -41,13 +41,13 @@
 
 ## FASE 1 — Il Viaggio verso il Santuario
 
-*~15 minuti · La scelta finale, l'attraversamento delle Wastes, l'arrivo alla gola*
+*~15 minuti · La scelta finale, l'attraversamento delle Terre Desolate, l'arrivo alla gola*
 
 ### Contesto per il DM
 
-Il Blue Phoenix Shrine è scavato in una gola labirintica lungo la costa, non lontano dal primo accampamento di Darrett. Usa le regole di movimento, il Wash e le tabelle di incontro già tradotte per intero nella **"🗺️ Note sulle Terre del Nord"** della Sessione 09 (`dm-notes-sessione-09.md`) — non le ripeto qui per non duplicare materiale di riferimento che resta valido per l'intero capitolo. In sintesi operativa: il party si muove a passo normale o rapido rispetto alle truppe di Darrett (più lente), tira su **The Wash** una volta al giorno se rilevante, e ha una probabilità di incontro circa una volta al giorno (tabella d20 della Sessione 09).
+Il Santuario della Fenice Blu è scavato in una gola labirintica lungo la costa, non lontano dal primo accampamento di Darrett. Usa le regole di movimento, il Wash e le tabelle di incontro già tradotte per intero nella **"🗺️ Note sulle Terre del Nord"** della Sessione 09 (`dm-notes-sessione-09.md`) — non le ripeto qui per non duplicare materiale di riferimento che resta valido per l'intero capitolo. In sintesi operativa: il party si muove a passo normale o rapido rispetto alle truppe di Darrett (più lente), tira su **The Wash** una volta al giorno se rilevante, e ha una probabilità di incontro circa una volta al giorno (tabella d20 della Sessione 09).
 
-*[NOTA DM — riservata] Il viaggio non ha una distanza numerica specificata dalla fonte per questa location — usa il tuo giudizio in base alla posizione che hai assegnato al Blue Phoenix Shrine sulla Mappa 5.1 rispetto al primo accampamento. Un giorno o due di viaggio (con un singolo tiro di incontro casuale, se lo desideri per tensione) è coerente con il ritmo delle Wastes stabilito in Sessione 09. Non è necessario un combattimento qui: se tiri un incontro, sentiti libero di risolverlo narrativamente o rimandarlo, per non affollare una sessione già densa di scene sociali e di esplorazione.*
+*[NOTA DM — riservata] Il viaggio non ha una distanza numerica specificata dalla fonte per questa location — usa il tuo giudizio in base alla posizione che hai assegnato al Santuario della Fenice Blu sulla Mappa 5.1 rispetto al primo accampamento. Un giorno o due di viaggio (con un singolo tiro di incontro casuale, se lo desideri per tensione) è coerente con il ritmo delle Terre Desolate stabilito in Sessione 09. Non è necessario un combattimento qui: se tiri un incontro, sentiti libero di risolverlo narrativamente o rimandarlo, per non affollare una sessione già densa di scene sociali e di esplorazione.*
 
 ### Testo — Verso la Gola [BT-01]
 
@@ -66,15 +66,15 @@ Quando la marea del Wash è bassa, l'ingresso del santuario — completamente so
 
 ## FASE 2 — I Naufraghi Dimernesti
 
-*~25 minuti · L'accampamento dei sea elves, Ishvern Stargazer, la richiesta di aiuto*
+*~25 minuti · L'accampamento dei elfi marini, Ishvern Stargazer, la richiesta di aiuto*
 
 ### Contesto per il DM
 
-Ogni anno, un gruppo di elfi del mare Dimernesti provenienti dalla Baia di Thoradin compie un pellegrinaggio al Blue Phoenix Shrine per onorare il Signore del Mare — il nome con cui la maggior parte dei sea elves ricorda ormai solo vagamente il dio Habbakuk. Quest'anno il pellegrinaggio è andato storto: i Dimernesti si sono scontrati con il Red Dragon Army lungo il tragitto. **Quattro** sea elves sono stati catturati — inclusa la loro sacerdotessa guida, **Yearkal** — e molti altri sono periti nello scontro. *(Dei quattro prigionieri: tre sono detenuti a **Camp Carrionclay**, un accampamento del Dragon Army nel mezzo di un lago torbido — location non ancora incontrata; Yearkal è stata invece portata alla **Sunward Fortress** — la seconda delle tre location del bivio, non ancora visitata da questo party.)* Sei sopravvissuti sono riusciti a raggiungere il santuario, portando con sé una sola offerta salvata dal disastro: una sacca di perle blu d'acque profonde.
+Ogni anno, un gruppo di elfi del mare Dimernesti provenienti dalla Baia di Thoradin compie un pellegrinaggio al Santuario della Fenice Blu per onorare il Signore del Mare — il nome con cui la maggior parte dei elfi marini ricorda ormai solo vagamente il dio Habbakuk. Quest'anno il pellegrinaggio è andato storto: i Dimernesti si sono scontrati con l'Armata dei Draghi Rossi lungo il tragitto. **Quattro** elfi marini sono stati catturati — inclusa la loro sacerdotessa guida, **Yearkal** — e molti altri sono periti nello scontro. *(Dei quattro prigionieri: tre sono detenuti a **Camp Carrionclay**, un accampamento dell'Armata dei Draghi nel mezzo di un lago torbido — location non ancora incontrata; Yearkal è stata invece portata alla **Fortezza di Sunward** — la seconda delle tre location del bivio, non ancora visitata da questo party.)* Sei sopravvissuti sono riusciti a raggiungere il santuario, portando con sé una sola offerta salvata dal disastro: una sacca di perle blu d'acque profonde.
 
-Quando il party arriva, il Wash è basso. I sea elves hanno allestito un campo vicino all'ingresso del santuario e si allontanano periodicamente in perlustrazione, in cerca di segni del Dragon Army o dei compagni dispersi.
+Quando il party arriva, il Wash è basso. I elfi marini hanno allestito un campo vicino all'ingresso del santuario e si allontanano periodicamente in perlustrazione, in cerca di segni dell'Armata dei Draghi o dei compagni dispersi.
 
-*[NOTA DM — riservata] **Cruciale:** dopo il recente trauma, i sea elves sono in allerta verso qualsiasi gruppo numeroso. Se il party si avvicina con le truppe di Kalaman al seguito, i sea elves si ritirano e non si fanno più vedere. **Lascia che Darrett, Cudgel, Tatina e le truppe restino all'accampamento o attendano a distanza** mentre solo i personaggi si avvicinano — è l'unico modo, secondo la fonte, per ottenere un contatto pacifico. Se il tavolo non ci pensa da solo, fai in modo che Darrett stesso lo suggerisca: "Meglio se andate voi soli, per ora. Non vogliamo spaventare chi è già scappato da una guerra."*
+*[NOTA DM — riservata] **Cruciale:** dopo il recente trauma, i elfi marini sono in allerta verso qualsiasi gruppo numeroso. Se il party si avvicina con le truppe di Kalaman al seguito, i elfi marini si ritirano e non si fanno più vedere. **Lascia che Darrett, Cudgel, Tatina e le truppe restino all'accampamento o attendano a distanza** mentre solo i personaggi si avvicinano — è l'unico modo, secondo la fonte, per ottenere un contatto pacifico. Se il tavolo non ci pensa da solo, fai in modo che Darrett stesso lo suggerisca: "Meglio se andate voi soli, per ora. Non vogliamo spaventare chi è già scappato da una guerra."*
 
 ### Ishvern Stargazer — Ritratto
 
@@ -85,7 +85,7 @@ Il loro attuale leader, **Ishvern Stargazer**, si avvicina solo se è chiaro che
 - **Legame:** *"Troverò i miei compagni scomparsi."*
 - **Difetto:** *"Posso essere indeciso quando devo scegliere tra opzioni dall'esito incerto."*
 
-### Scheda — Esploratore Elfo del Mare (Ishvern e i sea elves) · CR 1/2 · 100 XP cad.
+### Scheda — Esploratore Elfo del Mare (Ishvern e i elfi marini) · CR 1/2 · 100 XP cad.
 
 ```
 ESPLORATORE ELFO DEL MARE — umanoide Medio (elfo), neutrale buono
@@ -104,21 +104,21 @@ Spada Corta. Attacco con arma in mischia: +4 al colpire, portata 1,5 m. Colpito:
 Arco Lungo. Attacco con arma a distanza: +4 al colpire, gittata 45/180 m. Colpito: 6 (1d8+2) danni perforanti.
 ```
 
-*[NOTA DM — riservata] Scheda **scout** standard del Manuale dei Mostri, con le tre modifiche esplicitamente indicate dalla fonte per i sea elves (vantaggio contro charme, immunità al sonno magico, scurovisione, nuoto, respirazione anfibia) già incorporate. Ishvern e i suoi cinque compagni non sono ostili: non useranno queste statistiche in combattimento a meno che il party non li attacchi per primo o non li tradisca in modo eclatante — trattali come PNG sociali, non come encounter.*
+*[NOTA DM — riservata] Scheda **esploratore (scout)** standard del Manuale dei Mostri, con le tre modifiche esplicitamente indicate dalla fonte per i elfi marini (vantaggio contro charme, immunità al sonno magico, scurovisione, nuoto, respirazione anfibia) già incorporate. Ishvern e i suoi cinque compagni non sono ostili: non useranno queste statistiche in combattimento a meno che il party non li attacchi per primo o non li tradisca in modo eclatante — trattali come PNG sociali, non come encounter.*
 
 ### La Richiesta di Ishvern
 
-Ishvern cerca di farsi un'idea delle motivazioni dei personaggi nelle Wastes. Se il party si avvicina con rispetto, spiega che il santuario vicino è un luogo sacro, dedicato a un'antica divinità che i sea elves ricordano ormai solo come "il Signore del Mare", e racconta come il suo gruppo sia stato attaccato dal Dragon Army durante il pellegrinaggio.
+Ishvern cerca di farsi un'idea delle motivazioni dei personaggi nelle Terre Desolate. Se il party si avvicina con rispetto, spiega che il santuario vicino è un luogo sacro, dedicato a un'antica divinità che i elfi marini ricordano ormai solo come "il Signore del Mare", e racconta come il suo gruppo sia stato attaccato dall'Armata dei Draghi durante il pellegrinaggio.
 
 Anche se resta diffidente verso i personaggi, Ishvern vede valore nella loro presenza — **specialmente se tra loro c'è un chierico o un devoto di una qualche fede.** Chiede ai personaggi di aiutarlo a completare l'offerta del gruppo in nome della sacerdotessa scomparsa, Yearkal. Gli elfi vogliono portare a termine questo rito secondo la tradizione secolare del loro popolo, ma conoscono ormai poco dei legami religiosi dell'atto o del dio Habbakuk stesso. Se i personaggi accettano, Ishvern li conduce all'ingresso del santuario.
 
-*[NOTA DM — riservata] Hook per il PG **Broken Silence** (connessione divina): questa è la scena promessa dalla Sessione 09. Un chierico, paladino o devoto qualsiasi riceve qui un'attenzione speciale da parte di Ishvern — lascialo notare, magari con una domanda diretta ("Il tuo dio ti parla ancora, in questi tempi bui? Il nostro, temo, ci ha dimenticati da secoli") che apre uno spazio di roleplay personale senza forzare una rivelazione. Se nessun PG ha questo tipo di background, la scena funziona comunque: Ishvern si accontenta di chiunque sia disposto ad aiutare.*
+*[NOTA DM — riservata] Hook per il PG **Silenzio Infranto (Broken Silence)** (connessione divina): questa è la scena promessa dalla Sessione 09. Un chierico, paladino o devoto qualsiasi riceve qui un'attenzione speciale da parte di Ishvern — lascialo notare, magari con una domanda diretta ("Il tuo dio ti parla ancora, in questi tempi bui? Il nostro, temo, ci ha dimenticati da secoli") che apre uno spazio di roleplay personale senza forzare una rivelazione. Se nessun PG ha questo tipo di background, la scena funziona comunque: Ishvern si accontenta di chiunque sia disposto ad aiutare.*
 
 ---
 
 **Attitudine PNG in questa scena:**
 - **Ishvern Stargazer** — Attitudine: -1 Sospettoso (nuovo PNG, cauto ma non ostile; migliora rapidamente a +1 Cordiale se il party si offre di aiutare senza secondi fini).
-- **I sea elves sopravvissuti** — Attitudine: -1 Sospettoso collettivo (seguono la guida di Ishvern).
+- **I elfi marini sopravvissuti** — Attitudine: -1 Sospettoso collettivo (seguono la guida di Ishvern).
 
 ---
 
@@ -296,7 +296,7 @@ Con questo, Ishvern ringrazia i personaggi per aver aiutato il suo gruppo a comp
 
 ### Congedo dal Santuario
 
-Dalamar ha bisogno di sapere solo che il Blue Phoenix Shrine è un luogo sacro dedicato al dio Habbakuk — nessun dettaglio meccanico ulteriore gli serve per il suo lavoro di deduzione sulla Città dei Nomi Perduti (vedi FASE 6).
+Dalamar ha bisogno di sapere solo che il Santuario della Fenice Blu è un luogo sacro dedicato al dio Habbakuk — nessun dettaglio meccanico ulteriore gli serve per il suo lavoro di deduzione sulla Città dei Nomi Perduti (vedi FASE 6).
 
 ---
 
@@ -311,7 +311,7 @@ Dalamar ha bisogno di sapere solo che il Blue Phoenix Shrine è un luogo sacro d
 
 ### Contesto per il DM
 
-Mentre il gruppo lascia il santuario, se i personaggi non hanno già liberato i sea elves a Camp Carrionclay (impossibile, a questo punto della campagna: quella location non è ancora stata visitata), un **esploratore elfo del mare** raggiunge Ishvern per riferirgli di aver scoperto dove sono stati portati i loro compagni catturati.
+Mentre il gruppo lascia il santuario, se i personaggi non hanno già liberato i elfi marini a Camp Carrionclay (impossibile, a questo punto della campagna: quella location non è ancora stata visitata), un **esploratore elfo del mare** raggiunge Ishvern per riferirgli di aver scoperto dove sono stati portati i loro compagni catturati.
 
 ### Testo — Le Notizie dell'Esploratore [BT-07]
 
@@ -320,20 +320,20 @@ Mentre il gruppo lascia il santuario, se i personaggi non hanno già liberato i 
 *[Aggiunta atmosferica]:*
 > *È il tipo di notizia che arriva sempre più tardi di quanto si vorrebbe: non un salvataggio, ma solo, finalmente, un indirizzo.*
 
-I sea elves prigionieri sono stati rinchiusi in un accampamento del Dragon Army nel mezzo di un lago torbido — **Camp Carrionclay** (location I sulla Mappa 5.1, non ancora incontrata da questo party). Gli esploratori forniscono indicazioni sufficienti per individuare l'esagono corrispondente.
+I elfi marini prigionieri sono stati rinchiusi in un accampamento dell'Armata dei Draghi nel mezzo di un lago torbido — **Camp Carrionclay** (location I sulla Mappa 5.1, non ancora incontrata da questo party). Gli esploratori forniscono indicazioni sufficienti per individuare l'esagono corrispondente.
 
-*[NOTA DM — riservata] Segna questo esagono sulla mappa dei giocatori (Appendice E) non appena viene menzionato, esattamente come già fatto per Blue Phoenix Shrine, Sunward Fortress e Wakenreth in Sessione 09. Camp Carrionclay non è dettagliato in questo documento — è una location futura, oltre lo scopo di questa sessione. Trattalo come thread aperto, non come contenuto da improvvisare subito.*
+*[NOTA DM — riservata] Segna questo esagono sulla mappa dei giocatori (Appendice E) non appena viene menzionato, esattamente come già fatto per il Santuario della Fenice Blu, Fortezza di Sunward e Wakenreth in Sessione 09. Camp Carrionclay non è dettagliato in questo documento — è una location futura, oltre lo scopo di questa sessione. Trattalo come thread aperto, non come contenuto da improvvisare subito.*
 
 Ishvern chiede ai personaggi di trovare e liberare questi prigionieri. In cambio, offre loro ciò che gli resta come ricompensa: alcune perle blu per un valore di **750 mo**.
 
 ### Chiusura di Sessione
 
-Il party torna al campo di Darrett con un santuario alle spalle, una sacca di perle in tasca, e due nomi ancora da esplorare — Sunward Fortress e Wakenreth — più uno nuovo, non richiesto: Camp Carrionclay. Darrett accoglie il gruppo con curiosità pratica: vuole sapere se il santuario nasconde qualcosa di utile contro il Dragon Army, o se è stato solo un giro a vuoto.
+Il party torna al campo di Darrett con un santuario alle spalle, una sacca di perle in tasca, e due nomi ancora da esplorare — Fortezza di Sunward e Wakenreth — più uno nuovo, non richiesto: Camp Carrionclay. Darrett accoglie il gruppo con curiosità pratica: vuole sapere se il santuario nasconde qualcosa di utile contro l'Armata dei Draghi, o se è stato solo un giro a vuoto.
 
 *[Aggiunta atmosferica]:*
 > *Nessuno, tra i soldati di Kalaman, capisce bene perché un pugno di elfi del mare in fuga sia importante quanto un avamposto nemico — ma nessuno, nemmeno Darrett, si sente di dirlo ad alta voce. In questa guerra, salvare qualcuno sembra valere quanto sconfiggere qualcun altro.*
 
-*[NOTA DM — riservata] Chiudi qui la sessione, lasciando di nuovo ai giocatori la scelta della prossima destinazione: Sunward Fortress, Wakenreth, o una deviazione verso Camp Carrionclay per liberare i prigionieri. Come in Sessione 09, non forzare una decisione — annotala per la preparazione della Sessione 11.*
+*[NOTA DM — riservata] Chiudi qui la sessione, lasciando di nuovo ai giocatori la scelta della prossima destinazione: Fortezza di Sunward, Wakenreth, o una deviazione verso Camp Carrionclay per liberare i prigionieri. Come in Sessione 09, non forzare una decisione — annotala per la preparazione della Sessione 11.*
 
 ---
 
@@ -349,9 +349,9 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 
 | Preludio | Hook in Sessione 10 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | Questa è la sessione promessa dalla chiusura della Sessione 09: il Blue Phoenix Shrine è un momento teologico denso, in netto contrasto con l'assenza di temi divini nella Sessione 09. Ishvern si rivolge direttamente a un PG chierico/devoto in FASE 2; la Benedizione di Habbakuk in FASE 5 è un dono meccanico concreto per questo PG, se presente. Se il PG ha un dio specifico diverso da Habbakuk, lascialo riflettere sul contrasto tra la propria fede attiva e quella dei Dimernesti, ormai ridotta a un nome quasi dimenticato — un dio che sopravvive solo nella memoria rituale, non nella devozione viva. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Nessun momento diretto legato all'Ordine in questa sessione — Wyhan e Dalamar sono entrambi assenti. Un incantatore può però notare con interesse professionale l'incantesimo di *fiamma perenne* usato in tutto il santuario, o riconoscere gli effetti magici della porta e della porta segreta come lavoro non banale, se cerca un aggancio comunque rilevante. |
-| **Scales of War** (tutti) | Il contrasto tra il santuario (rituale, lento, rispettoso) e le catacombe/il campo di battaglia delle sessioni precedenti è deliberato: qui la posta in gioco non è la sopravvivenza immediata, ma la memoria e la pietà. Il thread di Camp Carrionclay in FASE 6 ricorda ai personaggi che la guerra produce prigionieri ovunque, non solo tra le fila di Solamnia. |
+| **Silenzio Infranto** (PG con connessione divina) | Questa è la sessione promessa dalla chiusura della Sessione 09: il Santuario della Fenice Blu è un momento teologico denso, in netto contrasto con l'assenza di temi divini nella Sessione 09. Ishvern si rivolge direttamente a un PG chierico/devoto in FASE 2; la Benedizione di Habbakuk in FASE 5 è un dono meccanico concreto per questo PG, se presente. Se il PG ha un dio specifico diverso da Habbakuk, lascialo riflettere sul contrasto tra la propria fede attiva e quella dei Dimernesti, ormai ridotta a un nome quasi dimenticato — un dio che sopravvive solo nella memoria rituale, non nella devozione viva. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Nessun momento diretto legato all'Ordine in questa sessione — Wyhan e Dalamar sono entrambi assenti. Un incantatore può però notare con interesse professionale l'incantesimo di *fiamma perenne* usato in tutto il santuario, o riconoscere gli effetti magici della porta e della porta segreta come lavoro non banale, se cerca un aggancio comunque rilevante. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Il contrasto tra il santuario (rituale, lento, rispettoso) e le catacombe/il campo di battaglia delle sessioni precedenti è deliberato: qui la posta in gioco non è la sopravvivenza immediata, ma la memoria e la pietà. Il thread di Camp Carrionclay in FASE 6 ricorda ai personaggi che la guerra produce prigionieri ovunque, non solo tra le fila di Solamnia. |
 | **Tutti** | Ishvern e i Dimernesti offrono un altro specchio del tema di redenzione/continuità già introdotto da Dalamar e Zhelsuel in Sessione 09 — un piccolo gruppo che porta avanti un rito antico nonostante tutto sia andato storto, per lealtà verso qualcosa (o qualcuno) di più grande di loro. Lascia che i giocatori notino l'eco se lo desiderano, senza sottolinearla esplicitamente. |
 
 ---
@@ -362,15 +362,15 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| La scelta tra Sunward Fortress e Wakenreth | Restano due delle tre location del bivio di Sessione 09. Il party deve scegliere quale visitare per prima all'inizio della Sessione 11 (o deviare su Camp Carrionclay, vedi sotto) | Alta → Sessione 11, decisione immediata del party |
-| Camp Carrionclay — i prigionieri Dimernesti | Tre sea elves prigionieri in un accampamento del Dragon Army nel mezzo di un lago torbido (location I, non ancora dettagliata in nessuna sessione). Ishvern ha chiesto esplicitamente il loro salvataggio | Media-Alta → nuovo thread, può essere anticipato o rimandato a scelta del party |
-| Yearkal — la sacerdotessa scomparsa | Prigioniera alla Sunward Fortress (non ancora visitata). Se liberata e poi condotta al Blue Phoenix Shrine, conosce tutte le insidie e i passaggi segreti delle aree C1–C4 — dettaglio narrativo per un'eventuale visita successiva della sacerdotessa al santuario, oggi non rilevante ma da tenere a mente | Bassa → dipendenza narrativa futura, solo se il party torna al santuario con Yearkal |
+| La scelta tra la Fortezza di Sunward e Wakenreth | Restano due delle tre location del bivio di Sessione 09. Il party deve scegliere quale visitare per prima all'inizio della Sessione 11 (o deviare su Camp Carrionclay, vedi sotto) | Alta → Sessione 11, decisione immediata del party |
+| Camp Carrionclay — i prigionieri Dimernesti | Tre elfi marini prigionieri in un accampamento dell'Armata dei Draghi nel mezzo di un lago torbido (location I, non ancora dettagliata in nessuna sessione). Ishvern ha chiesto esplicitamente il loro salvataggio | Media-Alta → nuovo thread, può essere anticipato o rimandato a scelta del party |
+| Yearkal — la sacerdotessa scomparsa | Prigioniera alla Fortezza di Sunward (non ancora visitata). Se liberata e poi condotta al Santuario della Fenice Blu, conosce tutte le insidie e i passaggi segreti delle aree C1–C4 — dettaglio narrativo per un'eventuale visita successiva della sacerdotessa al santuario, oggi non rilevante ma da tenere a mente | Bassa → dipendenza narrativa futura, solo se il party torna al santuario con Yearkal |
 | Wakenreth come punto di raccordo con Dalamar | La fonte specifica che Dalamar prevede di incontrare il party proprio a Wakenreth, l'ultima delle tre location, per ricevere tutti i rapporti raccolti e tentare di dedurre la posizione della Città dei Nomi Perduti | Alta → riservare Wakenreth come chiusura del trittico, non come apertura |
 | La Benedizione di Habbakuk (se ottenuta) | Dono soprannaturale temporaneo per i personaggi che hanno rispettato il rituale — verificare il testo esatto nel DMG prima della prossima sessione se possibile | Bassa → risorsa meccanica temporanea |
 | Le perle blu (750 mo) | Ricompensa da Ishvern per l'aiuto prestato — annotare come tesoro ottenuto | Bassa → contabilità post-sessione |
 | Cudgel Ironsmile e Tatina Rookledust nel party itinerante | Non compaiono in questa sessione (restano all'accampamento con Darrett) ma restano risorse ricorrenti per il resto del Cap. 5 | Bassa → invariato da Sessione 09 |
 | Lord Bakaris — l'accusa pubblica | Thread ereditato dalla Sessione 09, non toccato in questa sessione (Bakaris resta a Kalaman) — resta aperto per una futura risoluzione | Media → arco personale, non urgente questa sessione |
-| Le pattuglie del Dragon Army dirette a nord | Menzionate da Dalamar in Sessione 09; nessun contatto diretto in questa sessione, ma il Dragon Army è presente indirettamente tramite l'attacco al pellegrinaggio Dimernesti | Alta → arco principale Cap. 5–6 |
+| Le pattuglie dell'Armata dei Draghi dirette a nord | Menzionate da Dalamar in Sessione 09; nessun contatto diretto in questa sessione, ma l'Armata dei Draghi è presente indirettamente tramite l'attacco al pellegrinaggio Dimernesti | Alta → arco principale Cap. 5–6 |
 
 ---
 
@@ -380,9 +380,9 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 
 ### Fatti Accaduti
 
-- [ ] Location scelta dal party: Blue Phoenix Shrine confermato / altra location (se diversa, questo file NON si applica — vedi nota pre-sessione)
-- [ ] Viaggio attraverso le Wastes: incontro casuale attivato? Sì / No — esito: ____________
-- [ ] Incontro con Ishvern e i sea elves: Sì / No — approccio con o senza truppe al seguito: ____________
+- [ ] Location scelta dal party: Santuario della Fenice Blu confermato / altra location (se diversa, questo file NON si applica — vedi nota pre-sessione)
+- [ ] Viaggio attraverso le Terre Desolate: incontro casuale attivato? Sì / No — esito: ____________
+- [ ] Incontro con Ishvern e i elfi marini: Sì / No — approccio con o senza truppe al seguito: ____________
 - [ ] Ishvern convinto ad aiutare/fidarsi: Sì / No
 - [ ] Ingresso C1 aperto (nome di Habbakuk pronunciato): Sì / No
 - [ ] Purificazione in C3 effettuata prima dell'altare: Sì / No
@@ -391,7 +391,7 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 - [ ] Combattimento contro le 3 melme nere (C6): Sì / No — esito: ____________
 - [ ] Offerta di Ishvern completata, Benedizione di Habbakuk ottenuta dai PG idonei: Sì / No — quali PG: ____________
 - [ ] Thread Camp Carrionclay comunicato ai giocatori: Sì / No
-- [ ] Location scelta per la Sessione 11: Sunward Fortress / Wakenreth / Camp Carrionclay / altro: ____________
+- [ ] Location scelta per la Sessione 11: Fortezza di Sunward / Wakenreth / Camp Carrionclay / altro: ____________
 - [ ] XP combattimento assegnati (fino a 5.400 XP): ____________
 
 ### Aggiornamenti PNG
@@ -399,9 +399,9 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
 | Ishvern Stargazer | **NUOVO PNG** — prima apparizione, richiesta di aiuto rituale | -1 Sospettoso → potenziale +1 Cordiale |
-| I sea elves sopravvissuti | **NUOVO GRUPPO PNG** — prima apparizione | -1 Sospettoso collettivo |
+| I elfi marini sopravvissuti | **NUOVO GRUPPO PNG** — prima apparizione | -1 Sospettoso collettivo |
 | Yearkal | Menzionata, non incontrata fisicamente (prigioniera altrove) | N/A — non ancora un PNG "incontrato" |
-| Darrett Highwater | Accompagna il party, resta a distanza durante l'incontro coi sea elves | +3 Alleato (invariata) |
+| Darrett Highwater | Accompagna il party, resta a distanza durante l'incontro coi elfi marini | +3 Alleato (invariata) |
 
 ### Ricompense
 
@@ -425,15 +425,15 @@ Il party torna al campo di Darrett con un santuario alle spalle, una sacca di pe
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (fino a 5.400) + eventuale tesoro (750 mo in perle); Livello resta 6 salvo diversa decisione del DM
-- [ ] `campagna/png-incontrati.md` — **aggiungi da zero** Ishvern Stargazer e i sea elves sopravvissuti (nuovi PNG, nessuno stub preesistente); annota Yearkal come PNG "conosciuto per sentito dire" ma non ancora incontrato
-- [ ] `campagna/rapporti.md` — compila "Capitolo 04 (Northern Wastes — Cap 5 libro)": rapporto con Ishvern e i Dimernesti (alleati riconoscenti, thread di salvataggio aperto verso Camp Carrionclay)
+- [ ] `campagna/png-incontrati.md` — **aggiungi da zero** Ishvern Stargazer e i elfi marini sopravvissuti (nuovi PNG, nessuno stub preesistente); annota Yearkal come PNG "conosciuto per sentito dire" ma non ancora incontrato
+- [ ] `campagna/rapporti.md` — compila "Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)": rapporto con Ishvern e i Dimernesti (alleati riconoscenti, thread di salvataggio aperto verso Camp Carrionclay)
 - [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — **nessuna modifica**: Capitolo corrente resta 5, nessuna transizione di capitolo in questa sessione
-- [ ] `campagna/png-per-capitolo/capitolo-04/_png-master.md` — valuta se aggiungere Ishvern/sea elves/Yearkal come nuova voce PNG del capitolo (non obbligatorio prima della prossima sessione, ma consigliato per coerenza futura)
+- [ ] `campagna/png-per-capitolo/capitolo-04/_png-master.md` — valuta se aggiungere Ishvern/elfi marini/Yearkal come nuova voce PNG del capitolo (non obbligatorio prima della prossima sessione, ma consigliato per coerenza futura)
 - [ ] `campagna/sessioni/recaps/recap-sessione-10.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] `/aggiorna-locations 10` — esegui dopo la sessione (Blue Phoenix Shrine — tutte le aree C1–C6)
-- [ ] `/prep-sessione 11` — prepara la prossima: la scelta del party tra Sunward Fortress (righe 3659–3801), Wakenreth (righe 3802–3921), o una deviazione su Camp Carrionclay (location non ancora dettagliata nella fonte disponibile — verificare se presente più avanti nel documento sorgente)
+- [ ] `/aggiorna-locations 10` — esegui dopo la sessione (Santuario della Fenice Blu — tutte le aree C1–C6)
+- [ ] `/prep-sessione 11` — prepara la prossima: la scelta del party tra la Fortezza di Sunward (righe 3659–3801), Wakenreth (righe 3802–3921), o una deviazione su Camp Carrionclay (location non ancora dettagliata nella fonte disponibile — verificare se presente più avanti nel documento sorgente)
 
 ---
 
@@ -442,15 +442,15 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Header | Header completo secondo template S01–S09: fonte primaria con righe (3524–3658), livello invariato con motivazione esplicita, XP disponibili (fino a 5.400, entrambi opzionali/evitabili), obiettivo, durata, sessione precedente |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Documentata esplicitamente la scelta di giudizio richiesta per questa sessione (quale delle tre location sandbox preparare), con motivazione a tre punti (ordine canonico, curva di difficoltà, continuità tematica con l'hook Broken Silence) e istruzione esplicita su cosa fare se il tavolo sceglie diversamente |
-| 3 | Continuità | SETUP INIZIALE | Bridge diretto dalla S09: il bivio aperto in chiusura di sessione precedente viene risolto qui esplicitamente verso il Blue Phoenix Shrine |
-| 4 | Fedeltà fonte | FASE 2–6 | Preservati tutti i dettagli meccanici della fonte: DC 12 Religione (riconoscimento fenice), meccaniche di apertura porta C1, DC 17 Forza (sarcofagi), Percezione passiva 16/20 (disegno cripta/porta segreta), DC 12 Costituzione (danno da acido melme nere), tutti i tratti di personalità/ideale/legame/difetto di Ishvern, la ripartizione esatta dei 4 sea elves catturati (3 a Camp Carrionclay, Yearkal a Sunward Fortress) |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Documentata esplicitamente la scelta di giudizio richiesta per questa sessione (quale delle tre location sandbox preparare), con motivazione a tre punti (ordine canonico, curva di difficoltà, continuità tematica con l'hook Silenzio Infranto) e istruzione esplicita su cosa fare se il tavolo sceglie diversamente |
+| 3 | Continuità | SETUP INIZIALE | Bridge diretto dalla S09: il bivio aperto in chiusura di sessione precedente viene risolto qui esplicitamente verso il Santuario della Fenice Blu |
+| 4 | Fedeltà fonte | FASE 2–6 | Preservati tutti i dettagli meccanici della fonte: DC 12 Religione (riconoscimento fenice), meccaniche di apertura porta C1, DC 17 Forza (sarcofagi), Percezione passiva 16/20 (disegno cripta/porta segreta), DC 12 Costituzione (danno da acido melme nere), tutti i tratti di personalità/ideale/legame/difetto di Ishvern, la ripartizione esatta dei 4 elfi marini catturati (3 a Camp Carrionclay, Yearkal alla Fortezza di Sunward) |
 | 5 | Testo "Boxed" | BT-01 – BT-06 | Tutti i **6 testi read-aloud `>>`** presenti nella sezione fonte (righe 3524–3658) sono stati tradotti integralmente e verificati contro l'originale inglese: la gola d'accesso (non marcata `>>` nella fonte, resa comunque in prosa atmosferica non-boxed), la porta bianca (C1), l'altare delle onde (C2, due paragrafi uniti in un unico BT), il bacino di purificazione (C3), le nicchie dei sarcofagi (C5), il pozzo delle offerte (C6). Aggiunto un settimo blocco boxed (BT-07) per l'annuncio dell'esploratore in FASE 6, coerente con lo stile narrativo della fonte anche se non marcato `>>` nell'originale (è materiale di transizione, non descrittivo di un luogo) — segnalato come aggiunta stilistica, non come testo boxed originale mancante |
-| 6 | Stat Block | Elementale d'Acqua, Melma Nera, Esploratore Elfo del Mare | Le tre schede citate dalla fonte solo per nome ("scout", "water weird", "black pudding") sono state ricostruite per intero usando le statistiche standard del Manuale dei Mostri 5e, convertite in unità metriche, con le tre modifiche esplicite per i sea elves (vantaggio vs charme, immunità sonno magico, scurovisione, nuoto, respirazione anfibia) applicate come richiesto dal testo. **Verificare tutti i valori sul manuale completo se disponibile**, in linea con la prassi già usata per Knight Sarlamir (S08) |
+| 6 | Stat Block | Elementale d'Acqua, Melma Nera, Esploratore Elfo del Mare | Le tre schede citate dalla fonte solo per nome ("esploratore", "water weird", "black pudding") sono state ricostruite per intero usando le statistiche standard del Manuale dei Mostri 5e, convertite in unità metriche, con le tre modifiche esplicite per i elfi marini (vantaggio vs charme, immunità sonno magico, scurovisione, nuoto, respirazione anfibia) applicate come richiesto dal testo. **Verificare tutti i valori sul manuale completo se disponibile**, in linea con la prassi già usata per il Cavaliere Sarlamir (S08) |
 | 7 | Oggetti/Regole | Benedizione di Habbakuk | Segnalato `[TODO: verificare]` per il dono soprannaturale "Habbakuk's Blessing" (rimanda alla tabella "Supernatural Gifts" del DMG, non inclusa nell'estratto disponibile); fornito un placeholder meccanico ragionevole e chiaramente marcato come tale, coerente con la prassi già usata per i *fargab* di Tatina Rookledust in S09 |
 | 8 | Bilanciamento | FASE 3 e FASE 5 | Segnalato esplicitamente che entrambi gli scontri (elementali d'acqua, melme nere) sono **totalmente evitabili** tramite comportamento rituale corretto (purificazione, non profanare i sarcofagi) — coerente con la logica della fonte, che li presenta come guardiani, non come incontri obbligatori |
-| 9 | Continuità | FASE 2 | Aggiunta nota DM esplicita e ripetuta sul motivo per cui Darrett/Cudgel/Tatina/le truppe non devono accompagnare il party nell'avvicinamento ai sea elves — dettaglio meccanico-narrativo esplicito della fonte ("If the characters approach them with Kalaman's troops in tow, the sea elves retreat") che avrebbe potuto essere perso in una lettura superficiale |
-| 10 | Continuità — PNG | png-incontrati.md | Verificato che, a differenza di Dalamar/Zhelsuel/Tatina in S09, **nessuno stub preesistente** copre Ishvern, i sea elves o Yearkal — segnalato esplicitamente nella checklist post-sessione come "da aggiungere da zero", non "da confermare" |
+| 9 | Continuità | FASE 2 | Aggiunta nota DM esplicita e ripetuta sul motivo per cui Darrett/Cudgel/Tatina/le truppe non devono accompagnare il party nell'avvicinamento ai elfi marini — dettaglio meccanico-narrativo esplicito della fonte ("If the characters approach them with Kalaman's troops in tow, the sea elves retreat") che avrebbe potuto essere perso in una lettura superficiale |
+| 10 | Continuità — PNG | png-incontrati.md | Verificato che, a differenza di Dalamar/Zhelsuel/Tatina in S09, **nessuno stub preesistente** copre Ishvern, i elfi marini o Yearkal — segnalato esplicitamente nella checklist post-sessione come "da aggiungere da zero", non "da confermare" |
 | 11 | Missioni | Thread Narrativi | Confermato, come in S04–S09, che l'Agente 4 non ha trovato missioni di fazione da integrare; il thread di Camp Carrionclay è stato classificato esplicitamente come thread di location/narrativo, non come missione di fazione, per evitare ambiguità con la struttura "missioni-secondarie.md" |
 | 12 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S01–S09; confermato che questa sessione **non** cambia il capitolo corrente in `contesto.md` — resta 5 |
 | 13 | Lingua/Stile | Tutte le fasi | Uniformato il registro Urban Noir + Fantasy Classico; verificato che il tono resti più contemplativo e rituale rispetto al ritmo "on the road" della Sessione 09, coerente con la natura sacra/elegiaca del santuario rispetto all'accampamento militare |
@@ -462,7 +462,7 @@ Dopo la sessione, aggiorna questi file:
 
 ## ⏭ Step 6.5 — Chapter PNG Briefer
 
-`campagna/contesto.md` → Capitolo corrente: **5**. Questa sessione (Cap. 5, righe 3524–3658 della fonte) **non** rappresenta una transizione di capitolo: resta interamente all'interno del Cap. 5 (The Northern Wastes, righe 3191–4353).
+`campagna/contesto.md` → Capitolo corrente: **5**. Questa sessione (Cap. 5, righe 3524–3658 della fonte) **non** rappresenta una transizione di capitolo: resta interamente all'interno del Cap. 5 (Terre Desolate del Nord, righe 3191–4353).
 
 ```
 ⏭ Step 6.5 saltato (nessuna transizione di capitolo)
@@ -474,11 +474,11 @@ Nessun file `campagna/png-per-capitolo/` è stato creato o modificato da questa 
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Scelta della location sandbox.** Delle tre location aperte dalla Sessione 09 (Blue Phoenix Shrine, Sunward Fortress, Wakenreth), questa sessione prepara **Blue Phoenix Shrine (righe 3524–3658)**. Motivazione completa nella nota di apertura del documento. **Se il tavolo sceglie diversamente durante il gioco reale, questo file non si applica** e va sostituita la preparazione con la location effettivamente scelta.
-- **Distanza dal Capitolo 7 (Siege of Kalaman).** Il Cap. 7 inizia alla riga 5286 della fonte; il Cap. 6 (City of Lost Names) inizia alla riga 4354. Questa sessione (righe 3524–3658) resta ben all'interno del Cap. 5 — restano ancora, dopo questa sessione, le altre due location del bivio (Sunward Fortress, Wakenreth), l'intero Cap. 6, e l'intero Cap. 7. Nessun rischio di sovrapposizione con contenuti futuri.
+- **Scelta della location sandbox.** Delle tre location aperte dalla Sessione 09 (Santuario della Fenice Blu, Fortezza di Sunward, Wakenreth), questa sessione prepara **Santuario della Fenice Blu (righe 3524–3658)**. Motivazione completa nella nota di apertura del documento. **Se il tavolo sceglie diversamente durante il gioco reale, questo file non si applica** e va sostituita la preparazione con la location effettivamente scelta.
+- **Distanza dal Capitolo 7 (Assedio di Kalaman).** Il Cap. 7 inizia alla riga 5286 della fonte; il Cap. 6 (Città dei Nomi Perduti) inizia alla riga 4354. Questa sessione (righe 3524–3658) resta ben all'interno del Cap. 5 — restano ancora, dopo questa sessione, le altre due location del bivio (Fortezza di Sunward, Wakenreth), l'intero Cap. 6, e l'intero Cap. 7. Nessun rischio di sovrapposizione con contenuti futuri.
 - **Gestione delle diramazioni per le sessioni future.** Poiché il Cap. 5 resta sandbox fino alla convergenza a Wakenreth, ecco la mappa di dipendenze narrative da tenere a mente per chi preparerà le Sessioni 11+:
-  - **Sunward Fortress (D, righe 3659–3801):** contiene Yearkal prigioniera, gli slaadi (rossi + Virruza), lo Spawning Shard. Location più letale delle tre — combattimento non opzionale con i due slaad rossi se il party riposa lì o nei dintorni (50% probabilità), e lo scontro con Virruza + red slaad in D5 è centrale alla location.
+  - **Fortezza di Sunward (D, righe 3659–3801):** contiene Yearkal prigioniera, gli slaadi (rossi + Virruza), la Scheggia Generatrice. Location più letale delle tre — combattimento non opzionale con i due slaad rossi se il party riposa lì o nei dintorni (50% probabilità), e lo scontro con Virruza + red slaad in D5 è centrale alla location.
   - **Wakenreth (E, righe 3802–3921+):** riservata come possibile chiusura del trittico — Dalamar prevede di incontrare qui il party per ricevere tutti i rapporti raccolti. Se il party la visita per prima o in mezzo, Dalamar semplicemente non sarà lì ad aspettarli finché non avranno visitato anche le altre due (o finché il DM non decide di anticipare l'incontro per ragioni di ritmo).
-  - **Camp Carrionclay (location I):** location introdotta come thread in questa sessione (tre sea elves prigionieri). Verificato durante questa preparazione che la sezione "I: Camp Carrionclay" esiste più avanti nella fonte, a partire dalla **riga 4139** (ben oltre lo scope di questa sessione, ma ancora all'interno del Cap. 5 — il capitolo termina alla riga 4353): contiene le caratteristiche del campo, i modi per infiltrarsi, e le location interne su Mappa 5.7. Nota anche, dalla riga 3206, che **liberare l'uovo di drago di bronzo a Camp Carrionclay è esplicitamente citato come una delle imprese straordinarie che può far avanzare di livello i personaggi** (vedi nota di apertura Sessione 09) — un buon motivo narrativo per dare priorità a questa location prima o poi. Non l'ho estratta né tradotta in questa sessione poiché fuori dallo scope delle righe 3524–3658: sarà materiale della Sessione 11 o successiva, a seconda della scelta del party.
+  - **Camp Carrionclay (location I):** location introdotta come thread in questa sessione (tre elfi marini prigionieri). Verificato durante questa preparazione che la sezione "I: Camp Carrionclay" esiste più avanti nella fonte, a partire dalla **riga 4139** (ben oltre lo scope di questa sessione, ma ancora all'interno del Cap. 5 — il capitolo termina alla riga 4353): contiene le caratteristiche del campo, i modi per infiltrarsi, e le location interne su Mappa 5.7. Nota anche, dalla riga 3206, che **liberare l'uovo di drago di bronzo a Camp Carrionclay è esplicitamente citato come una delle imprese straordinarie che può far avanzare di livello i personaggi** (vedi nota di apertura Sessione 09) — un buon motivo narrativo per dare priorità a questa location prima o poi. Non l'ho estratta né tradotta in questa sessione poiché fuori dallo scope delle righe 3524–3658: sarà materiale della Sessione 11 o successiva, a seconda della scelta del party.
   - **Nessuna delle tre location rimanenti (D, E, I) è stata toccata o alterata da questa preparazione** — restano fonte vergine per le sessioni successive.
 - **Nessun file esterno "giocato" modificato**, in linea con le Sessioni 00–09: questa preparazione non ha alterato `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md` né `campagna/contesto.md` (quest'ultimo perché non c'è transizione di capitolo da registrare). Tutti gli aggiornamenti "giocati" restano compito del workflow `/aggiorna-sessione` dopo la sessione reale al tavolo.

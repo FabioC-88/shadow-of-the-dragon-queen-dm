@@ -1,11 +1,11 @@
-# PNG Master — Capitolo 06: Siege of Kalaman (Cap 7 libro)
+# PNG Master — Capitolo 06: Assedio di Kalaman (Cap 7 libro)
 
-> Reference DM dei PNG per il Capitolo 7: Siege of Kalaman — FINALE.
+> Reference DM dei PNG per il Capitolo 7: Assedio di Kalaman — FINALE.
 
-> **Verificato in Sessione 22** (Step 6.5, transizione di capitolo Cap. 6 → Cap. 7, la prima dalla Sessione 16): confrontato con il testo completo del Cap. 7 (righe 5286–6278 della fonte, fino alla chiusura "Mysterious Message" prima delle appendici). Il contenuto preesistente (generato durante il bootstrap iniziale della campagna) risultava largamente accurato nella struttura, ma incompleto su alcuni PNG nominati — vedi sezione "PNG Verificati in Sessione 22" più sotto per l'elenco completo delle aggiunte. Nessun file per-PG generato: `fonti/personaggi/` è ancora vuota (party TBD), coerente con la Sessione 16. Vedi `campagna/sessioni/dm-notes-sessione-22.md`, sezione "Step 6.5", per il dettaglio completo della verifica.
+> **Verificato in Sessione 22** (Step 6.5, transizione di capitolo Cap. 6 → Cap. 7, la prima dalla Sessione 16): confrontato con il testo completo del Cap. 7 (righe 5286–6278 della fonte, fino alla chiusura "Messaggio Misterioso" prima delle appendici). Il contenuto preesistente (generato durante il bootstrap iniziale della campagna) risultava largamente accurato nella struttura, ma incompleto su alcuni PNG nominati — vedi sezione "PNG Verificati in Sessione 22" più sotto per l'elenco completo delle aggiunte. Nessun file per-PG generato: `fonti/personaggi/` è ancora vuota (party TBD), coerente con la Sessione 16. Vedi `campagna/sessioni/dm-notes-sessione-22.md`, sezione "Step 6.5", per il dettaglio completo della verifica.
 
 **Livelli PG:** 10+  
-**Setting:** Kalaman (sotto assedio) + Flying Citadel (arena finale)  
+**Setting:** Kalaman (sotto assedio) + Cittadella Volante (arena finale)  
 **Tono:** Epico, disperato, eroico; la guerra arriva al culmine; gli eroi decidono il destino di Kalaman
 
 ---
@@ -16,10 +16,10 @@
 
 | PNG | Ruolo | Attitudine | Note Rapide |
 |-----|-------|-----------|-------------|
-| **Marshal Nestra Vendri** | Comandante difesa Kalaman | +1/+2 | Coordina le difese; conta su i PG per la missione speciale |
-| **Governor Calof Miat** | Governatore | 0 → +1 | Sblocca risorse per la battaglia finale |
+| **Maresciallo Nestra Vendri** | Comandante difesa Kalaman | +1/+2 | Coordina le difese; conta su i PG per la missione speciale |
+| **Governatore Calof Miat** | Governatore | 0 → +1 | Sblocca risorse per la battaglia finale |
 | **Darrett Highwater** | Ufficiale, veterano della campagna | +2 Amichevole | Arco completo — da scudiero a cavaliere vero |
-| **Cudgel Ironsmile** | Mercenario; potenziale ultimo alleato | +1 se guadagnato | Ironclad Regiment può difendere un settore |
+| **Cudgel Ironsmile** | Mercenario; potenziale ultimo alleato | +1 se guadagnato | Reggimento Ironclad può difendere un settore |
 | **Tatina Rookledust** | Inventrice; può contribuire a sabotare la citadella | +1 Cordiale | Gadget di emergenza; conoscenza meccanismi |
 | **Clystran** | Guida ai dragonnel selvatici; ritorna in Sessione 22 e 23, guida i personaggi fino al piede della citadella in "Assault on Hawker's Grove" | +3 Alleato | Presente dal Cap. 5 (Sessione 14); aggiunto qui in verifica di Sessione 23 per completezza di reference — era già usato estesamente in Sessione 22 ma mancava dalla tabella principale del capitolo |
 
@@ -27,10 +27,10 @@
 
 | PNG | Ruolo | CR | Note |
 |-----|-------|----|------|
-| **Kansaldi Fire-Eyes** | **BOSS FINALE** | 16 | Cuore della Flying Citadel; occhio di fuoco; 3 azioni leggendarie |
+| **Kansaldi Fire-Eyes** | **BOSS FINALE** | 16 | Cuore della Cittadella Volante; occhio di fuoco; 3 azioni leggendarie |
 | **Red Ruin** | Asso dragonnel rider | 8 | Combattimento aereo sulla citadella; attacca in picchiata. **Prima apparizione fisica in Sessione 24** ("Red Ruin", duello aereo prima dell'ingresso nella citadella) — stat block completo (CR8, 136 PF, lancia da cavallo con disarcionamento CD15 Forza) generato in `dm-notes-sessione-24.md`, FASE 5. Combatte fino alla morte |
-| **Lord Soth** | Primo incontro diretto e risoluzione dell'arco aperto in Sessione 01 | 19 | **Incontrato fisicamente in Sessione 27** (area S25, "Lord Soth's Throne Room"). Stat block completo generato (GS19, ricostruzione DM dichiarata su base Cavaliere della Morte del Manuale dei Mostri + azione Fuoco Cataclismico) in `dm-notes-sessione-27.md`, FASE 3. Se affrontato con lo *specchio dei passati riflessi* (recuperato in Sessione 26), fallisce automaticamente i TS, sussurra "Isolde" e resta paralizzato 1 ora o fino a subire danno. Indipendentemente dall'esito del confronto, viene consumato dal crollo della citadella in FASE 4 ("Soth's End") — non ricompare più in questa avventura; servirebbe coercizione eccezionale perché torni ad allearsi coi Dragon Army in futuro |
-| **Dragon Army forces** | Esercito completo all'assedio | — | Mass combat (Warriors of Krynn) o gestito narrativamente |
+| **Lord Soth** | Primo incontro diretto e risoluzione dell'arco aperto in Sessione 01 | 19 | **Incontrato fisicamente in Sessione 27** (area S25, "Sala del Trono di Lord Soth"). Stat block completo generato (GS19, ricostruzione DM dichiarata su base Cavaliere della Morte del Manuale dei Mostri + azione Fuoco Cataclismico) in `dm-notes-sessione-27.md`, FASE 3. Se affrontato con lo *specchio dei passati riflessi* (recuperato in Sessione 26), fallisce automaticamente i TS, sussurra "Isolde" e resta paralizzato 1 ora o fino a subire danno. Indipendentemente dall'esito del confronto, viene consumato dal crollo della citadella in FASE 4 ("Soth's End") — non ricompare più in questa avventura; servirebbe coercizione eccezionale perché torni ad allearsi con l'Armata dei Draghi in futuro |
+| **Armata dei Draghi forces** | Esercito completo all'assedio | — | Mass combat (Warriors of Krynn) o gestito narrativamente |
 | **Death dragons** | Draghi non-morti della citadella | CR 9/14 | Minori = CR 9; Maggiori = CR 14 |
 
 ---
@@ -38,37 +38,37 @@
 ## Struttura dell'Assedio
 
 ### Fase 1 — Difesa di Kalaman
-- Dragon Army attacca le mura con soldati, draconiani, dragonnels
-- I PG difendono punti strategici (Trade Gate, Castle Kalaman, Harbor)
+- Armata dei Draghi attacca le mura con soldati, draconiani, dragonnels
+- I PG difendono punti strategici (Porta dei Mercanti, Castello di Kalaman, porto)
 - Possibile uso di **Dragonlance: Warriors of Krynn** per mass combat
 
-### Fase 2 — La Flying Citadel Arriva
+### Fase 2 — La Cittadella Volante Arriva
 - La citadella volante appare sull'orizzonte
 - I PG devono trovare un modo di salire (dragonnel catturato, magia di volo, scalata)
 - Combat aereo contro Red Ruin e dragonnels
 
 ### Fase 3 — Infiltrazione della Citadella
-- I PG si infiltrano nella Flying Citadel mentre l'assedio continua
-- Sfide: difensori, trappole, magia della citadella, death dragons
+- I PG si infiltrano nella Cittadella Volante mentre l'assedio continua
+- Sfide: difensori, trappole, magia della citadella, draghi della morte
 - [NOTA DM] Lord Soth può essere qui — confronto narrativo vs Leedara
 
 ### Fase 4 — Resa dei Conti con Kansaldi
-- Dragon Queen's Sanctum — cuore della citadella
+- Santuario della Regina dei Draghi — cuore della citadella
 - **BOSS FIGHT:** Kansaldi Fire-Eyes (CR 16)
 - Terminare Kansaldi + sabotare la citadella = fine dell'assedio
 
 ---
 
-## La Flying Citadel — Zone
+## La Cittadella Volante — Zone
 
 | Zona | Tipo | Pericolo |
 |------|------|---------|
-| **Citadel Deck (esterno)** | Piattaforma aerea | Vento, caduta, Red Ruin |
-| **Lower Halls** | Corridoi difesi | Dragon Army soldiers, Baaz/Sivak |
-| **Dragon Stables** | Stalle dragonnels | Dragonnels ostili; possibile stalla |
-| **Temple of Takhisis** | Nucleo magico | Death dragons; magia oscura |
-| **Dragon Queen's Sanctum** | Camera Kansaldi | BOSS FINALE |
-| **Lord Soth's Chambers** | Zona Soth | Solo se volete la scena con Soth |
+| **Ponte della Cittadella (esterno)** | Piattaforma aerea | Vento, caduta, Red Ruin |
+| **Lower Halls** | Corridoi difesi | Soldati dell'Armata dei Draghi (*Dragon Army soldiers*), Baaz/Sivak |
+| **Stalle dei Draghi** | Stalle dragonnels | Dragonnels ostili; possibile stalla |
+| **Tempio di Takhisis** | Nucleo magico | Death dragons; magia oscura |
+| **Santuario della Regina dei Draghi** | Camera Kansaldi | BOSS FINALE |
+| **Stanze di Lord Soth** | Zona Soth | Solo se volete la scena con Soth |
 
 ---
 
@@ -78,23 +78,23 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 
 | PNG | Ruolo | Rilevanza | Note |
 |-----|-------|-----------|------|
-| **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governor Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme a Marshal Vendri e Lord Bakaris |
-| **Haldri Leddis** | Capitano umano di una delle navi di Kalaman a Dread Wolf Cove | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
-| **Capitano Oklid Narnhelm** | Ufficiale (veteran) al comando del Trade Gate di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
-| **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale del Dragon Army | Sessione 23–24 | Convince il padre a tradire Kalaman ("Bakaris Defects", Sessione 23); **affrontato direttamente in combattimento aereo in Sessione 24** ("Red Ruin"/"Flight of the Dragonnels") — in sella a un dragonnel del Dragon Army al fianco di Red Ruin, fugge se ridotto a 20 PF o meno, sparisce nel caos se disarcionato o ucciso; esito da determinare al tavolo |
-| **Lord Bakaris (il padre)** | Membro del consiglio di Kalaman, presentato in Sessione 22 (Rapporto Cupo); diserta materialmente verso il Dragon Army in Sessione 23 ("Bakaris Defects") | **Sessione 23** | Nobile codardo (scheda D&D standard, CR 1/8): apre il Warrior's Gate convinto dal figlio, fugge o si arrende alla prima ferita — non un combattente. Aggiunto in verifica di Sessione 23: mancava una voce dedicata, distinta dal figlio |
-| **Caradoc** | Spirito siniscalco di Lord Soth, già apparso nel massacro del consiglio (Cap. 4) | **Incontrato fisicamente in Sessione 27** (aree S21-S22, "Ruined Hall"/"Nuitari's Shrine") | Possiede la soldatessa di Kalaman **Amelia Ghallen**; propone ai PG un patto per tradire Soth e impossessarsi della citadella tramite l'*elmo della citadella volante* (S25) — piano destinato al fallimento poiché l'elmo è utilizzabile solo da un incantatore. Se scopre di non potersi sintonizzare, si infuria e attacca; se rifiutato, tenta un'imboscata successiva. Usa lo stat block standard 5e del veterano (GS3) tramite il corpo posseduto. Esito da determinare al tavolo — generato in `dm-notes-sessione-27.md`, FASE 1 |
-| **Amelia Ghallen** | Soldatessa di Kalaman, veterana, ospite involontaria di Caradoc | **Incontrata in Sessione 27** (S22) | Legale buona; catturata durante una battaglia col Red Dragon Army e portata al Bastione insieme ad altri prigionieri (verosimilmente una delle celle vuote di S19, Sessione 26). Se salvata dalla possessione, aiuta a sconfiggere Caradoc e vuole solo tornare a casa a Kalaman — possibile thread per epilogo/Sessione 28 |
-| **Wersten Kern** | Non-morta, alfiere di Lord Soth, guardiana del braciere del Mourning Sanctum | **Affrontata in Sessione 27** (S23, "Mourning Sanctum") | Combatte fino alla morte; apre con Litania Terrificante. Stat block completo generato (ricostruzione DM dichiarata, GS9 — nessuna base pubblicata disponibile) in `dm-notes-sessione-27.md`, FASE 2. Se Soth non è già stato paralizzato in S25, arriva 3 round dopo l'inizio di questo scontro |
-| **Alstare Bellis** | Vampiro, ex sommo sacerdote di Chemosh | **Prima apparizione fisica in Sessione 25** (area S9, "Tenadria's Tomb") | GS13. Interroga i PG prima di attaccare; offre un patto — distruggere i draconiani del piano superiore (Drayan, area S12) in cambio dell'accesso al caveau del tesoro (S13). Se rifiutato/attaccato, fugge (Fuga Nebbiosa) e diventa nemico mordi-e-fuggi. Stat block completo generato in `dm-notes-sessione-25.md`, FASE 6. Esito del patto da determinare al tavolo |
+| **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governatore Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme alla Maresciallo Vendri e Lord Bakaris |
+| **Haldri Leddis** | Capitano umano di una delle navi di Kalaman alla Cala del Lupo Terribile | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
+| **Capitano Oklid Narnhelm** | Ufficiale (veterano) al comando della Porta dei Mercanti di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
+| **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale dell'Armata dei Draghi | Sessione 23–24 | Convince il padre a tradire Kalaman ("Diserzione di Bakaris (*Bakaris Defects*)", Sessione 23); **affrontato direttamente in combattimento aereo in Sessione 24** ("Red Ruin"/"Volo dei Dragonnel (*Flight of the Dragonnels*)") — in sella a un dragonnel dell'Armata dei Draghi al fianco di Red Ruin, fugge se ridotto a 20 PF o meno, sparisce nel caos se disarcionato o ucciso; esito da determinare al tavolo |
+| **Lord Bakaris (il padre)** | Membro del consiglio di Kalaman, presentato in Sessione 22 (Rapporto Cupo); diserta materialmente verso l'Armata dei Draghi in Sessione 23 ("Diserzione di Bakaris") | **Sessione 23** | Nobile codardo (scheda D&D standard, CR 1/8): apre la Porta del Guerriero convinto dal figlio, fugge o si arrende alla prima ferita — non un combattente. Aggiunto in verifica di Sessione 23: mancava una voce dedicata, distinta dal figlio |
+| **Caradoc** | Spirito siniscalco di Lord Soth, già apparso nel massacro del consiglio (Cap. 4) | **Incontrato fisicamente in Sessione 27** (aree S21-S22, "Sala in Rovina"/"Santuario di Nuitari") | Possiede la soldatessa di Kalaman **Amelia Ghallen**; propone ai PG un patto per tradire Soth e impossessarsi della citadella tramite l'*elmo della citadella volante* (S25) — piano destinato al fallimento poiché l'elmo è utilizzabile solo da un incantatore. Se scopre di non potersi sintonizzare, si infuria e attacca; se rifiutato, tenta un'imboscata successiva. Usa lo stat block standard 5e del veterano (GS3) tramite il corpo posseduto. Esito da determinare al tavolo — generato in `dm-notes-sessione-27.md`, FASE 1 |
+| **Amelia Ghallen** | Soldatessa di Kalaman, veterana, ospite involontaria di Caradoc | **Incontrata in Sessione 27** (S22) | Legale buona; catturata durante una battaglia con l'Armata dei Draghi Rossi e portata al Bastione insieme ad altri prigionieri (verosimilmente una delle celle vuote di S19, Sessione 26). Se salvata dalla possessione, aiuta a sconfiggere Caradoc e vuole solo tornare a casa a Kalaman — possibile thread per epilogo/Sessione 28 |
+| **Wersten Kern** | Non-morta, alfiere di Lord Soth, guardiana del braciere del Santuario del Lutto | **Affrontata in Sessione 27** (S23, "Santuario del Lutto") | Combatte fino alla morte; apre con Litania Terrificante. Stat block completo generato (ricostruzione DM dichiarata, GS9 — nessuna base pubblicata disponibile) in `dm-notes-sessione-27.md`, FASE 2. Se Soth non è già stato paralizzato in S25, arriva 3 round dopo l'inizio di questo scontro |
+| **Alstare Bellis** | Vampiro, ex sommo sacerdote di Chemosh | **Prima apparizione fisica in Sessione 25** (area S9, "Tomba di Tenadria") | GS13. Interroga i PG prima di attaccare; offre un patto — distruggere i draconiani del piano superiore (Drayan, area S12) in cambio dell'accesso al caveau del tesoro (S13). Se rifiutato/attaccato, fugge (Fuga Nebbiosa) e diventa nemico mordi-e-fuggi. Stat block completo generato in `dm-notes-sessione-25.md`, FASE 6. Esito del patto da determinare al tavolo |
 | **Lorry Wanwillow** | Vampira kender, prigioniera liberata dal crollo della città | **Incontrata in Sessione 26** (area S11, "Rubble and Ruin") | Comica, loquace; incontro pensato per il dialogo, non il combattimento (ostile solo se derubata dei suoi oggetti). Ha condiviso: origine (catturata da Alstare Bellis ~200 anni fa, murata viva 50 anni dopo), fuga recente dal crollo del tempio, la paura di Alstare verso "il cavaliere della rosa nera" (Lord Soth), la presenza dello spettro Caradoc (non ancora incontrato fisicamente), e che i "pezzi grossi" draconiani frequentano il Santuario (S12). **Nota di continuità:** la sua cripta funeraria (area S3) era già stata trovata vuota/con targa "mancante" in Sessione 25 — l'indizio seminato in anticipo trova qui il proprio pagamento narrativo |
-| **Cithcillion, Madar, Tenadria** | Spiriti/resti elfi Silvanesti, ambasciatori imprigionati nel tempio da 300 anni | **Incontrati in Sessione 25** (aree S6-S9, "Elven Catacombs" e le tre tombe) | Madar trovato distrutto oltre riparazione (S7); Tenadria trovata intatta ma non collaborativa con *parlare con i morti* (S9); Cithcillion (S8), se riunito ai resti dei suoi amici, condivide informazioni sullo *specchio dei passati riflessi*, chiave per neutralizzare Lord Soth — posizione dell'oggetto ancora non nota, thread aperto per sessioni successive |
-| **Drayan** | Draconiana aurak, supervisiona la guarnigione draconiana della citadella | **Primo scontro fisico in Sessione 26** (area S12, "Sanctuary"; possibile secondo incontro in S18, "Draconian War Room", se fuggita) | Fugge con *porta dimensionale* verso S18 se la battaglia in S12 volge al peggio, dove si prepara a un'imboscata con Respiro Nocivo pronto come azione preparata. Stat block completo (base "Captain Hask" di Sessione 18, con Respiro Nocivo aggiunto) generato in `dm-notes-sessione-26.md`, FASE 2. Rilevante per il patto con Alstare Bellis (Sessione 25): la sua sconfitta è la condizione richiesta per l'accesso assistito al caveau del tesoro. Esito da determinare al tavolo |
-| **Karavarix** | Ex drago d'oro ucciso dal Cavaliere Sarlamir, ora il più potente dei "greater death dragon" | **Affrontata in Sessione 27** (superficie del Bastione, "Karavarix's Revenge") | Attacca dopo la distruzione del braciere, cerca vendetta contro "Sarlamir" — lo stesso Zanas Sarlamir la cui tragedia i personaggi hanno già vissuto e chiuso in Sessione 08 (rianimato da Soth, poi liberato/distrutto dal party). Karavarix non sa che Sarlamir è morto da tempo: vede solo la sua *dragonlance* ancora in mano a mani straniere. Combatte comunque fino alla distruzione, indipendentemente da eventuali tentativi di dialogo. Stat block completo generato (ricostruzione DM dichiarata, GS14) in `dm-notes-sessione-27.md`, FASE 5 |
+| **Cithcillion, Madar, Tenadria** | Spiriti/resti elfi Silvanesti, ambasciatori imprigionati nel tempio da 300 anni | **Incontrati in Sessione 25** (aree S6-S9, "Catacombe Elfiche" e le tre tombe) | Madar trovato distrutto oltre riparazione (S7); Tenadria trovata intatta ma non collaborativa con *parlare con i morti* (S9); Cithcillion (S8), se riunito ai resti dei suoi amici, condivide informazioni sullo *specchio dei passati riflessi*, chiave per neutralizzare Lord Soth — posizione dell'oggetto ancora non nota, thread aperto per sessioni successive |
+| **Drayan** | Draconiana aurak, supervisiona la guarnigione draconiana della citadella | **Primo scontro fisico in Sessione 26** (area S12, "Sanctuary"; possibile secondo incontro in S18, "Sala di Guerra Draconica", se fuggita) | Fugge con *porta dimensionale* verso S18 se la battaglia in S12 volge al peggio, dove si prepara a un'imboscata con Respiro Nocivo pronto come azione preparata. Stat block completo (base "Capitano Hask" di Sessione 18, con Respiro Nocivo aggiunto) generato in `dm-notes-sessione-26.md`, FASE 2. Rilevante per il patto con Alstare Bellis (Sessione 25): la sua sconfitta è la condizione richiesta per l'accesso assistito al caveau del tesoro. Esito da determinare al tavolo |
+| **Karavarix** | Ex drago d'oro ucciso dal Cavaliere Sarlamir, ora il più potente dei "drago della morte maggiore" | **Affrontata in Sessione 27** (superficie del Bastione, "Karavarix's Revenge") | Attacca dopo la distruzione del braciere, cerca vendetta contro "Sarlamir" — lo stesso Zanas Sarlamir la cui tragedia i personaggi hanno già vissuto e chiuso in Sessione 08 (rianimato da Soth, poi liberato/distrutto dal party). Karavarix non sa che Sarlamir è morto da tempo: vede solo la sua *dragonlance* ancora in mano a mani straniere. Combatte comunque fino alla distruzione, indipendentemente da eventuali tentativi di dialogo. Stat block completo generato (ricostruzione DM dichiarata, GS14) in `dm-notes-sessione-27.md`, FASE 5 |
 | **Ignia** | Drago rosso, cavalcatura di Kansaldi Fire-Eyes nello scontro finale | Sessioni finali | Usa la scheda di giovane drago rosso, ma di taglia Enorme |
-| **Ser Maelis** | Agente infiltrato del Culto di Vecna, in copertura nella Red Dragon Army dal Cap. 5 | **Tracce in Sessione 22, 23, e ultima eco in Sessione 28** | **[NOTA DM — riservata]** Non è un antagonista di questo capitolo in senso meccanico: appare solo se il party lo ha già incontrato in Sessioni 09/13/16 (Cap. 5). In Sessione 22 e 23 lascia solo tracce indirette (un rapporto d'intelligence, un sigillo su Lord Bakaris), mai di persona; in Sessione 28 un volto silenzioso riconosciuto tra la folla — nessun dialogo, nessun oggetto, nessuna risoluzione. Non collegato al Messaggio Misterioso/Blue Dragon Army della stessa sessione. Sopravvive alla campagna e diventa alto ufficiale del Culto in Vecna: Eve of Ruin. Vedi `fonti/campagna/filo-narrativo-multiverso.md` |
+| **Ser Maelis** | Agente infiltrato del Culto di Vecna, in copertura nell'Armata dei Draghi Rossi dal Cap. 5 | **Tracce in Sessione 22, 23, e ultima eco in Sessione 28** | **[NOTA DM — riservata]** Non è un antagonista di questo capitolo in senso meccanico: appare solo se il party lo ha già incontrato in Sessioni 09/13/16 (Cap. 5). In Sessione 22 e 23 lascia solo tracce indirette (un rapporto d'intelligence, un sigillo su Lord Bakaris), mai di persona; in Sessione 28 un volto silenzioso riconosciuto tra la folla — nessun dialogo, nessun oggetto, nessuna risoluzione. Non collegato al Messaggio Misterioso/Armata dei Draghi Blu della stessa sessione. Sopravvive alla campagna e diventa alto ufficiale del Culto in Vecna: Eve of Ruin. Vedi `fonti/campagna/filo-narrativo-multiverso.md` |
 
-*[NOTA DM] Fuline Thren e Haldri Leddis erano rilevanti per la Sessione 22. Narnhelm e Lord Bakaris (il padre, tradimento materiale) sono rilevanti per la Sessione 23; Bakaris il Giovane fu affrontato in combattimento aereo in Sessione 24 ("Flight of the Dragonnels"/"Red Ruin"). Cithcillion, Madar, Tenadria e Alstare Bellis sono stati incontrati in Sessione 25 ("Citadel Depths"/"Temple Crypts", aree S1-S9). Lorry Wanwillow e Drayan sono stati incontrati in Sessione 26 ("Priests' Quarters", aree S11-S12/S18). Lord Soth, Caradoc, Amelia Ghallen, Wersten Kern e Karavarix sono stati incontrati/risolti in Sessione 27 ("Bastion of Takhisis"/"The Citadel's Destruction", aree S21-S25 e superficie del Bastione) — vedi le rispettive voci sopra per il dettaglio completo. **Ignia** resta l'unico thread futuro di questa tabella, materiale della Sessione 28 ("Dragon Army Rout" → "Clash of Fallen Flames"), al fianco di Kansaldi Fire-Eyes.*
+*[NOTA DM] Fuline Thren e Haldri Leddis erano rilevanti per la Sessione 22. Narnhelm e Lord Bakaris (il padre, tradimento materiale) sono rilevanti per la Sessione 23; Bakaris il Giovane fu affrontato in combattimento aereo in Sessione 24 ("Volo dei Dragonnel"/"Red Ruin"). Cithcillion, Madar, Tenadria e Alstare Bellis sono stati incontrati in Sessione 25 ("Profondità della Cittadella"/"Cripte del Tempio", aree S1-S9). Lorry Wanwillow e Drayan sono stati incontrati in Sessione 26 ("Priests' Quarters", aree S11-S12/S18). Lord Soth, Caradoc, Amelia Ghallen, Wersten Kern e Karavarix sono stati incontrati/risolti in Sessione 27 ("Bastione di Takhisis"/"Distruzione della Cittadella (The Citadel's Destruction)", aree S21-S25 e superficie del Bastione) — vedi le rispettive voci sopra per il dettaglio completo. **Ignia** resta l'unico thread futuro di questa tabella, materiale della Sessione 28 ("Rotta dell'Armata dei Draghi (Dragon Army Rout)" → "Scontro delle Fiamme Cadute (Clash of Fallen Flames)"), al fianco di Kansaldi Fire-Eyes.*
 
 ---
 
@@ -103,5 +103,5 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 - **Ritorno di tutto il cast:** Questo capitolo è l'opportunità per far tornare ogni PNG sopravvissuto della campagna. Darrett che riceve il titolo di cavaliere, Cudgel che urla ordini, Tatina che fa esplodere qualcosa — usa questo momento
 - **Lord Soth — Risoluzione narrativa:** Se giocato bene, l'arco di Soth si chiude qui (la sua maledizione, Leedara, il suo fallimento come cavaliere). Non servono spade — servono le parole giuste o le azioni giuste
 - **Kansaldi:** È il boss pensato per questo livello. Non ammorbidirlo — deve essere difficile. Usa tutte le azioni leggendarie
-- **Flying Citadel dopo la battaglia:** Quando Kansaldi è sconfitta, la citadella perde controllo — i PG devono fuggire (o sceglierne la rotta di caduta per minimizzare danni)
-- **Fine campagna:** Kalaman sopravvive. Il Red Dragon Army si ritira (momentaneamente). La Guerra della Lancia continua — ma i PG hanno fatto qualcosa che conta
+- **Cittadella Volante dopo la battaglia:** Quando Kansaldi è sconfitta, la citadella perde controllo — i PG devono fuggire (o sceglierne la rotta di caduta per minimizzare danni)
+- **Fine campagna:** Kalaman sopravvive. L'Armata dei Draghi Rossi si ritira (momentaneamente). La Guerra della Lancia continua — ma i PG hanno fatto qualcosa che conta

@@ -85,6 +85,18 @@ Esempi reali dalla revisione della Sessione 03 (27/09/2026). Per ognuno: cosa ce
   corsivo per il DM.
 - **Aggiunte che anticipano una prova.** Se una CD serve a scoprire qualcosa, l'aggiunta
   atmosferica non deve regalarlo.
+- **Termini inglesi nel testo letto.** Ogni titolo, grado, luogo o organizzazione va come in
+  `campagna/glossario.md` (Sessione 03: *«Marshal Vendri»* per 26 volte, *«il Dragon Army»*).
+  Nel testo letto niente parentesi con l'inglese.
+
+## Elenchi puntati senza testo da recitare
+
+Cerca ogni punto in cui un PNG comunica informazioni **solo** come elenco puntato per il DM
+(rapporti, istruzioni, offerte, spiegazioni: in Sessione 03 Becklin, Jeyev, Miat, Vendri due
+volte, la guardia del castello, Darrett). Se manca il testo da recitare, **scrivilo tu** subito
+dopo l'elenco, con il formato e le regole della sezione *«Informazioni dei PNG»* di
+`02-session-translator.agent.md`: tutte le voci dell'elenco, la voce del PNG, frasi parlate.
+L'elenco resta: è il promemoria del DM.
 
 ---
 
@@ -128,6 +140,7 @@ Leggilo mentalmente ad alta voce e chiediti:
 
 ## Vincoli
 
-- Non aggiungere scene, battute nuove dei PNG o informazioni di trama.
+- Non aggiungere scene o informazioni di trama. Le uniche battute nuove che scrivi sono i testi
+  da recitare che traducono in parlato un elenco già presente.
 - Non toccare file di sessioni già giocate.
 - Nel dubbio fra due versioni, scegli la più corta.

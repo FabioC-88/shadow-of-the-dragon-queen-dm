@@ -6,7 +6,7 @@
 
 ## PNG Incontrati
 
-- Quattro soldati dell'Armata del Drago Rosso (sentinelle, ostili)
+- Quattro soldati dell'Armata dei Draghi Rossi (sentinelle, ostili)
 
 ## Eventi Importanti
 

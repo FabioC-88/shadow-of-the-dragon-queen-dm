@@ -48,6 +48,7 @@ campagna/
       NomePG.md              ← briefing PNG per capitolo (visibile ai giocatori via Foundry pg-backgrounds pack)
   party.md                 ← stato PG: livello, XP, condizioni, note sessione
   fazioni.md               ← posizione delle fazioni verso il party
+  glossario.md             ← terminologia italiana EN→IT (fonte unica per tutti gli agenti)
   missioni-secondarie.md   ← campagna lineare, nessuna missione di fazione strutturata
   png-incontrati.md        ← relationship map per PG (atteggiamenti numerici)
   rapporti.md              ← note qualitative su rapporti PG-PNG

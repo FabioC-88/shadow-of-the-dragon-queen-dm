@@ -1,22 +1,22 @@
 # DM Notes — Sessione 18: La Magione Occupata
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 6: City of Lost Names** (righe 4710–4913): apertura di "Exploring the City" — le tabelle strumento **City Sights**, **Random City Encounters** (con "Bridge Checkpoint", "Dragon Army Engineers", "Monster Hunters", "Patrol") e **Dragon Army Interrogations** — l'accenno esteriore al **Bastion of Takhisis** (non visitato) — l'intera location **Occupied Mansion** (aree **O1–O11**) con "Restaffing the Mansion"
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 6: Città dei Nomi Perduti** (righe 4710–4913): apertura di "Esplorare la Città (*Exploring the City*)" — le tabelle strumento **Luoghi della Città (*City Sights*)**, **Incontri Casuali in Città (*Random City Encounters*)** (con il "Posto di Blocco del Ponte", "Genieri dell'Armata dei Draghi (*Dragon Army Engineers*)", "Cacciatori di Mostri (*Monster Hunters*)", "Patrol") e **Interrogatori dell'Armata dei Draghi (*Dragon Army Interrogations*)** — l'accenno esteriore al **Bastione di Takhisis** (non visitato) — l'intera location **Magione Occupata** (aree **O1–O11**) con "Ripopolare la Magione (*Restaffing the Mansion*)"
 **Livello party:** 8 (invariato — l'avanzamento al Livello 9 richiede *entrambe* le condizioni indicate dalla fonte: la riforgiatura della *dragonlance* al Tempio di Paladine **e** l'esplorazione di questo avamposto. Con questa sessione, **una delle due condizioni è soddisfatta**; il level up resta rimandato alla Sessione 19+, quando anche il Tempio sarà stato affrontato)
 **XP accumulati:** Ereditati dalla Sessione 17 (vedi `campagna/party.md`, ancora TBD — vedi nota sotto)
-**Obiettivo sessione:** Scendere dal bordo del cratere nella Città dei Nomi Perduti vera e propria, orientarsi tra le tre priorità indicate da Demelin e dalle pattuglie osservate, scegliere di infiltrarsi nella **Magione Occupata** — il posto di comando in avanscoperta del Red Dragon Army — per scoprire cosa sta pianificando l'esercito. Superare (con la forza, l'inganno, o entrambi) le guardie draconiane, il personale del comando, e **Captain Hask**, per ottenere l'intelligence chiave: la parola d'ordine della Soglia dei Cieli, i nomi dei comandanti (Belephaion e Lohezet), e la conferma che i lavori di ingegneria del Dragon Army sulle fondamenta della città sono quasi completi.
+**Obiettivo sessione:** Scendere dal bordo del cratere nella Città dei Nomi Perduti vera e propria, orientarsi tra le tre priorità indicate da Demelin e dalle pattuglie osservate, scegliere di infiltrarsi nella **Magione Occupata** — il posto di comando in avanscoperta dell'Armata dei Draghi Rossi — per scoprire cosa sta pianificando l'esercito. Superare (con la forza, l'inganno, o entrambi) le guardie draconiane, il personale del comando, e **Capitano Hask**, per ottenere l'intelligence chiave: la parola d'ordine della Soglia dei Cieli, i nomi dei comandanti (Belephaion e Lohezet), e la conferma che i lavori di ingegneria dell'Armata dei Draghi sulle fondamenta della città sono quasi completi.
 **Durata stimata:** ~2h30m (5 fasi: 15 + 30 + 35 + 15 + 40 + 15 min — la FASE 0 introduttiva più le cinque fasi della magione)
 **Sessione precedente:** dm-notes-sessione-17.md — Sentiero dei Ricordi (M1–M9), incontro con Demelin, Vista della Città, presagio di Lord Soth, chiamata di Rookledust; fermata esplicitamente sul bordo del cratere, prima di descrivere qualunque location della città vera e propria
 
 > ⚠️ **Nota pre-sessione — dove ho tagliato, e perché.** Ho letto per intero il resto del Cap. 6 (dalla riga 4710, subito dopo il punto esatto in cui si è fermata la Sessione 17, fino alla riga 5285, l'ultima prima del Cap. 7) per decidere con cognizione di causa la struttura di questa sessione e delle successive. Ecco il ragionamento completo:
 >
-> 1. **La struttura reale di "Exploring the City".** Il libro non presenta le quattro location della città (Magione Occupata, Tempio di Paladine, Soglia dei Cieli, Bastione di Takhisis) come un dungeon lineare, ma come un **sandbox esplicitamente dichiarato**: dopo la sezione strumenti (City Sights, Random City Encounters, Interrogations), il testo recita testualmente *"Use the following sections to further detail the ruins as much as you please... make sure the characters have investigated the city as much as they want"* prima di dirigersi alla Soglia dei Cieli, che chiude il capitolo. Le quattro sezioni sono presentate in quest'ordine nel manuale: **Bastion of Takhisis** (righe 4769–4776, esplicitamente scoraggiata — "explore it in chapter 7"), **Occupied Mansion** (righe 4777–4913), **Temple of Paladine** (righe 4915–5032), **Threshold of the Heavens** (righe 5033–5285, che richiede esplicitamente Livello 9 prima di entrare). Non c'è un ordine obbligato tra Magione e Tempio — sono sandbox — ma la fonte stessa, nella sezione "Priorities" già presentata in Sessione 17, li elenca in quest'ordine: Magione → Tempio → Soglia. Ho seguito questo ordine naturale.
-> 2. **Perché SOLO la Magione Occupata in questa sessione, e non anche il Tempio.** Ho calcolato il conteggio parole di entrambe le location insieme: City Sights/Encounters/Interrogations (~816 parole) + Occupied Mansion (~1.943 parole) + Temple of Paladine (~1.660 parole) = **~4.419 parole totali**, ben oltre il target di 2.500–3.500. Ma il problema non è solo il conteggio: la **densità di incontri** della sola Magione Occupata è già enorme — undici aree numerate (O1–O11) con potenzialmente **otto distinti gruppi di nemici** (guardie kapak all'esterno, guardie alla carrozzeria, la mensa con bozak/kapak/soldati, i rinforzi della caserma, Yurl in cucina, la caserma stessa, Captain Hask, gli ufficiali della biblioteca) — paragonabile per intensità all'intero Sentiero dei Ricordi (M1–M9) della Sessione 17, che da solo ha riempito 2h30m. Aggiungere anche il Tempio di Paladine (altre sette aree, P1–P7, con un treant, un marid, delle mummie, e la scena climatica della riforgiatura della lancia) avrebbe reso la sessione quasi il doppio del ritmo sostenibile. Ho tagliato **alla fine naturale della scena**: "Restaffing the Mansion" (riga 4913) è l'esplicita chiusura narrativa del libro per questa location, immediatamente prima dell'intestazione `## Temple of Paladine` (riga 4915). Conteggio parole del chunk effettivamente scelto (righe 4710–4913): **2.759 parole** — pienamente dentro il target 2.500–3.500.
+> 1. **La struttura reale di "Esplorare la Città".** Il libro non presenta le quattro location della città (Magione Occupata, Tempio di Paladine, Soglia dei Cieli, Bastione di Takhisis) come un dungeon lineare, ma come un **sandbox esplicitamente dichiarato**: dopo la sezione strumenti (Luoghi della Città, Incontri Casuali in Città, Interrogations), il testo recita testualmente *"Use the following sections to further detail the ruins as much as you please... make sure the characters have investigated the city as much as they want"* prima di dirigersi alla Soglia dei Cieli, che chiude il capitolo. Le quattro sezioni sono presentate in quest'ordine nel manuale: **Bastione di Takhisis** (righe 4769–4776, esplicitamente scoraggiata — "explore it in chapter 7"), **Magione Occupata** (righe 4777–4913), **Tempio di Paladine** (righe 4915–5032), **Soglia dei Cieli** (righe 5033–5285, che richiede esplicitamente Livello 9 prima di entrare). Non c'è un ordine obbligato tra Magione e Tempio — sono sandbox — ma la fonte stessa, nella sezione "Priorities" già presentata in Sessione 17, li elenca in quest'ordine: Magione → Tempio → Soglia. Ho seguito questo ordine naturale.
+> 2. **Perché SOLO la Magione Occupata in questa sessione, e non anche il Tempio.** Ho calcolato il conteggio parole di entrambe le location insieme: Luoghi della Città/Encounters/Interrogations (~816 parole) + Magione Occupata (~1.943 parole) + Tempio di Paladine (~1.660 parole) = **~4.419 parole totali**, ben oltre il target di 2.500–3.500. Ma il problema non è solo il conteggio: la **densità di incontri** della sola Magione Occupata è già enorme — undici aree numerate (O1–O11) con potenzialmente **otto distinti gruppi di nemici** (guardie kapak all'esterno, guardie alla carrozzeria, la mensa con bozak/kapak/soldati, i rinforzi della caserma, Yurl in cucina, la caserma stessa, Capitano Hask, gli ufficiali della biblioteca) — paragonabile per intensità all'intero Sentiero dei Ricordi (M1–M9) della Sessione 17, che da solo ha riempito 2h30m. Aggiungere anche il Tempio di Paladine (altre sette aree, P1–P7, con un treant, un marid, delle mummie, e la scena climatica della riforgiatura della lancia) avrebbe reso la sessione quasi il doppio del ritmo sostenibile. Ho tagliato **alla fine naturale della scena**: "Ripopolare la Magione" (riga 4913) è l'esplicita chiusura narrativa del libro per questa location, immediatamente prima dell'intestazione `## Temple of Paladine` (riga 4915). Conteggio parole del chunk effettivamente scelto (righe 4710–4913): **2.759 parole** — pienamente dentro il target 2.500–3.500.
 > 3. **Cosa NON è stato incluso, e perché.** Deliberatamente esclusi da questa sessione: (a) il **Tempio di Paladine** per intero (righe 4915–5032, inclusa la scena della riforgiatura della *dragonlance* e l'avanzamento a Livello 9) — location sostanziosa a sé stante, con il proprio climax meccanico e narrativo, che merita una sessione dedicata e non una coda stanca; (b) la **Soglia dei Cieli** (righe 5033–5285) — esplicitamente gated dalla fonte stessa dietro il Livello 9 ("make sure the characters are 9th level... before they infiltrate the tower"), quindi impossibile da giocare prima che entrambe le altre location siano state visitate; (c) il **Bastione di Takhisis** come location giocabile — la fonte lo scoraggia esplicitamente ("Discourage the characters from approaching it at this point... they will explore it in chapter 7"), quindi in questa sessione appare solo come descrizione a distanza (vedi FASE 0), non come dungeon esplorabile.
-> 4. **Ricostruzioni DM — Appendix B assente, di nuovo.** Come già per il lesser death dragon (Sessione 17), l'anhkolox (Sessione 12) e i costrutti del Dragon Army (Sessione 06), *appendix B* non è disponibile in questo estratto testuale. Questa sessione richiede **due nuove ricostruzioni**: il **draconiano bozak** (mai dettagliato meccanicamente finora, solo menzionato esplodere nelle Death Throes in Sessioni 02/04/05/06) e il **draconiano aurak** (Captain Hask, già anticipato come tale nel file PNG per capitolo generato in Sessione 16). Ho anche riutilizzato lo scheletro del **capitano hobgoblin** già costruito per Urta (Sessione 13) per Yurl, il cuoco della Magione, adattandone l'arma a un'ascia da macellaio (il testo originale specifica esplicitamente "usa le statistiche del suo attacco Spadone/Greatsword"). Tutte le schede sono segnalate chiaramente come ricostruzioni nelle rispettive `[NOTA DM]`, con istruzione di riutilizzo per le future apparizioni di questi tipi di draconiani (la Soglia dei Cieli e il Bastione di Takhisis, nelle sessioni successive, ne sono pieni).
+> 4. **Ricostruzioni DM — Appendix B assente, di nuovo.** Come già per il drago della morte minore (Sessione 17), l'anhkolox (Sessione 12) e i costrutti dell'Armata dei Draghi (Sessione 06), *appendix B* non è disponibile in questo estratto testuale. Questa sessione richiede **due nuove ricostruzioni**: il **draconiano bozak** (mai dettagliato meccanicamente finora, solo menzionato esplodere nelle Spasmi di Morte in Sessioni 02/04/05/06) e il **draconiano aurak** (Capitano Hask, già anticipato come tale nel file PNG per capitolo generato in Sessione 16). Ho anche riutilizzato lo scheletro del **capitano hobgoblin** già costruito per Urta (Sessione 13) per Yurl, il cuoco della Magione, adattandone l'arma a un'ascia da macellaio (il testo originale specifica esplicitamente "usa le statistiche del suo attacco Spadone/Greatsword"). Tutte le schede sono segnalate chiaramente come ricostruzioni nelle rispettive `[NOTA DM]`, con istruzione di riutilizzo per le future apparizioni di questi tipi di draconiani (la Soglia dei Cieli e il Bastione di Takhisis, nelle sessioni successive, ne sono pieni).
 > 5. **Nessun cambio di capitolo.** Questa sessione arriva fino a riga 4913 — resta interamente dentro il Cap. 6 (righe 4354–5285). Il Cap. 7 (`# Chapter 7: Siege of Kalaman`) inizia a riga **5286**, a **oltre 370 righe** di distanza. `campagna/contesto.md` → Capitolo corrente resta **6**. **Step 6.5 saltato** — vedi sezione dedicata in fondo al file.
 > 6. **Party ancora in TBD.** Come nelle Sessioni 00–17, `campagna/party.md` e `fonti/personaggi/` non contengono PG reali (la cartella `fonti/personaggi/` non esiste nemmeno). Gli hook PG restano impostati sui tre preludi canonici.
 > 7. **Nessuna missione di fazione da integrare.** Verificato di nuovo `campagna/missioni-secondarie.md` (0 Pianificate, 0 In corso) e `campagna/fazioni.md` (nessuna missione strutturata prevista per questa campagna lineare). Nessun hook da integrare.
-> 8. **Stato di Chapter 6 dopo questa sessione.** Restano da giocare: il **Tempio di Paladine** per intero (righe 4915–5032, ~1.660 parole — probabile Sessione 19) e la **Soglia dei Cieli** (righe 5033–5285, ~3.927 parole — probabile Sessione 20, gated da Livello 9). È ragionevole stimare che il Cap. 6 si concluda tra la Sessione 19 e la Sessione 20, con il Cap. 7 (Siege of Kalaman) ad aprirsi non prima della Sessione 20–21.
+> 8. **Stato di Chapter 6 dopo questa sessione.** Restano da giocare: il **Tempio di Paladine** per intero (righe 4915–5032, ~1.660 parole — probabile Sessione 19) e la **Soglia dei Cieli** (righe 5033–5285, ~3.927 parole — probabile Sessione 20, gated da Livello 9). È ragionevole stimare che il Cap. 6 si concluda tra la Sessione 19 e la Sessione 20, con il Cap. 7 (Assedio di Kalaman) ad aprirsi non prima della Sessione 20–21.
 
 ---
 
@@ -24,7 +24,7 @@
 
 *Leggi o parafrasa ai giocatori, a continuazione diretta della chiusura della Sessione 17.*
 
-> Il sentiero scende dal bordo del cratere verso le strade sfondate della Città dei Nomi Perduti. Da vicino, la bellezza spezzata vista dall'alto si scioglie in dettagli più concreti e meno gentili: crepe larghe come voragini, un fetore di muffa e ozono, il crepitio lontano di qualcosa che brucia da tre secoli e non ha ancora finito di farlo. Le parole di Demelin vi accompagnano — la Magione Occupata, il Tempio di Paladine, la Soglia dei Cieli. Tre strade. Nessuna fretta di scegliere, ma nemmeno tempo da sprecare: da qualche parte in questa città, i comandanti del Dragon Army stanno pianificando qualcosa, e Tatina Rookledust conta su di voi per fermarlo.
+> Il sentiero scende dal bordo del cratere verso le strade sfondate della Città dei Nomi Perduti. Da vicino, la bellezza spezzata vista dall'alto si scioglie in dettagli più concreti e meno gentili: crepe larghe come voragini, un fetore di muffa e ozono, il crepitio lontano di qualcosa che brucia da tre secoli e non ha ancora finito di farlo. Le parole di Demelin vi accompagnano — la Magione Occupata, il Tempio di Paladine, la Soglia dei Cieli. Tre strade. Nessuna fretta di scegliere, ma nemmeno tempo da sprecare: da qualche parte in questa città, i comandanti dell'Armata dei Draghi stanno pianificando qualcosa, e Tatina Rookledust conta su di voi per fermarlo.
 
 *[Aggiunta atmosferica]:*
 > *Krynn ha un modo strano di ricordare i propri morti: non con lapidi, ma con architettura che si rifiuta di crollare del tutto. Ogni edificio superstite è un promemoria di quanto la città fosse magnifica, e ogni edificio crollato è un promemoria di quanto in fretta sia finita. Camminare per queste strade è come attraversare la mente di qualcuno che si è rifiutato, per trecento anni, di lasciar andare un ricordo.*
@@ -35,7 +35,7 @@
 
 *~15 minuti · Le tabelle di esplorazione libera, l'accenno al Bastione di Takhisis, la scelta della Magione Occupata*
 
-*[NOTA DM — riservata] Questa fase è un ibrido: parte narrazione di transizione, parte cassetta degli attrezzi per te. Le tabelle "City Sights" e "Random City Encounters" non sono legate a un luogo specifico — la fonte le presenta esplicitamente come strumenti generici da usare "durante gli spostamenti tra location, o quando preferisci" per tutta la restante esplorazione del Cap. 6 (questa sessione e le successive). Non è necessario usarle tutte ora: pesca da esse quando serve colore o una minaccia casuale durante i tragitti.*
+*[NOTA DM — riservata] Questa fase è un ibrido: parte narrazione di transizione, parte cassetta degli attrezzi per te. Le tabelle "Luoghi della Città" e "Incontri Casuali in Città" non sono legate a un luogo specifico — la fonte le presenta esplicitamente come strumenti generici da usare "durante gli spostamenti tra location, o quando preferisci" per tutta la restante esplorazione del Cap. 6 (questa sessione e le successive). Non è necessario usarle tutte ora: pesca da esse quando serve colore o una minaccia casuale durante i tragitti.*
 
 ### Uno Sguardo alla Città in Rovina
 
@@ -61,10 +61,10 @@ Mentre il gruppo attraversa le strade della Città dei Nomi Perduti dirigendosi 
 
 | d8 | Incontro |
 |:---:|---------|
-| 1 | Sette **ghast** rosicchiano i cadaveri di soldati del Dragon Army. |
+| 1 | Sette **ghast** rosicchiano i cadaveri di soldati dell'Armata dei Draghi. |
 | 2 | Posto di Blocco al Ponte (vedi sotto) |
 | 3 | Tre **fantasmi** di istariani che ancora litigano infestano le rovine del loro negozio. |
-| 4 | Ingegneri del Dragon Army (vedi sotto) |
+| 4 | Ingegneri dell'Armata dei Draghi (vedi sotto) |
 | 5 | Un curioso **death slaad** vuole divorare un esemplare di ogni tipo di draconiano. Se i personaggi lo aiutano a cacciarli tutti e cinque, li ricompensa con un *anello di caduta plumea*. |
 | 6 | Cacciatori di Mostri (vedi sotto) |
 | 7 | Due **ciclopi** — una madre e il figlio adulto — vivono in una biblioteca, bruciandone i libri per scaldarsi. |
@@ -72,7 +72,7 @@ Mentre il gruppo attraversa le strade della Città dei Nomi Perduti dirigendosi 
 
 **Posto di Blocco al Ponte.** Tre **draconiani sivak** (vedi scheda ricostruita più sotto) sorvegliano un ponte largo 7,5 metri sopra un dirupo roccioso profondo 18 metri. Indagano rapidamente qualunque rumore o visione sospetta nei paraggi.
 
-**Ingegneri del Dragon Army.** Un **ufficiale del Dragon Army** e tre **draconiani sivak** sorvegliano dieci **manovali** (civili) che riparano crepe profonde 9 metri nelle strade della città. Se i membri del Dragon Army notano i personaggi o vengono attaccati, i manovali restano fuori dal combattimento. Possono raccontare che stanno assicurando le fondamenta della città, sebbene non sappiano perché.
+**Ingegneri dell'Armata dei Draghi.** Un **ufficiale dell'Armata dei Draghi** e tre **draconiani sivak** sorvegliano dieci **manovali** (civili) che riparano crepe profonde 9 metri nelle strade della città. Se i membri dell'Armata dei Draghi notano i personaggi o vengono attaccati, i manovali restano fuori dal combattimento. Possono raccontare che stanno assicurando le fondamenta della città, sebbene non sappiano perché.
 
 **Cacciatori di Mostri.** Un **draconiano sivak** e quattro **draconiani kapak** hanno l'ordine di scovare mostri pericolosi nascosti tra le rovine. Hanno appena scovato un *Istarian drone* (costrutto sconosciuto, *appendix B*) e si preparano ad attaccarlo.
 
@@ -80,9 +80,9 @@ Mentre il gruppo attraversa le strade della Città dei Nomi Perduti dirigendosi 
 
 ### Interrogatori
 
-Un personaggio che interroga un membro di basso rango del Red Dragon Army e supera una prova di **Carisma (Intimidire o Persuasione) CD 14** apprende un'informazione dalla tabella seguente. Se il tiro fallisce, il prigioniero urla *"Come vuole la Regina Drago!"* finché non viene messo a tacere.
+Un personaggio che interroga un membro di basso rango dell'Armata dei Draghi Rossi e supera una prova di **Carisma (Intimidire o Persuasione) CD 14** apprende un'informazione dalla tabella seguente. Se il tiro fallisce, il prigioniero urla *"Come vuole la Regina dei Draghi!"* finché non viene messo a tacere.
 
-##### Interrogatori del Dragon Army (d4)
+##### Interrogatori dell'Armata dei Draghi (d4)
 
 | d4 | Informazione |
 |:---:|--------------|
@@ -97,12 +97,12 @@ Un personaggio che interroga un membro di basso rango del Red Dragon Army e supe
 
 Prima di dirigersi verso la Magione Occupata, il gruppo scorge di nuovo, più da vicino, il tempio all'estremità sud della città — lo stesso su cui era apparso il cavaliere sul drago scheletrico nella Sessione 17.
 
-> All'estremità meridionale delle rovine si erge un tempio un tempo chiamato il Bastione di Takhisis — qui, il popolo di Onyari eresse i luoghi sacri di tutti gli dèi malvagi, non volendo disperderli per la città ma nemmeno mancare loro di rispetto. La struttura è ora parzialmente crollata, ridotta a un'intelaiatura vuota tra mura spoglie e minacciose. Cavalieri scheletrici in armatura pattugliano i suoi terreni insieme ad altre truppe del Dragon Army e ad orrori non-morti.
+> All'estremità meridionale delle rovine si erge un tempio un tempo chiamato il Bastione di Takhisis — qui, il popolo di Onyari eresse i luoghi sacri di tutti gli dèi malvagi, non volendo disperderli per la città ma nemmeno mancare loro di rispetto. La struttura è ora parzialmente crollata, ridotta a un'intelaiatura vuota tra mura spoglie e minacciose. Cavalieri scheletrici in armatura pattugliano i suoi terreni insieme ad altre truppe dell'Armata dei Draghi e ad orrori non-morti.
 
 *[Aggiunta atmosferica]:*
 > *Anche da questa distanza, il tempio respinge lo sguardo — non c'è nulla di invitante in quelle mura, solo un'urgenza istintiva di guardare altrove. Chiunque abbia costruito quel luogo voleva che si sentisse così.*
 
-*[NOTA DM — riservata] **Non un dungeon di questa sessione.** La fonte è esplicita: usa queste forze — cavalieri scheletrici e altri non-morti — per scoraggiare i personaggi dall'avvicinarsi al Bastione a questo punto della campagna. È qui che Lord Soth ha costruito il suo braciere per il fuoco Cataclismico rubato da Castle Kalaman, ed è qui che ha già animato **Karavarix** nel primo lesser death dragon (il tipo di creatura affrontato all'area M7 nella Sessione 17). I personaggi lo esploreranno nel Cap. 7. Se insistono per avvicinarsi ora, fai loro percepire con chiarezza (Percezione passiva, o semplicemente narrativa) un numero di guardie e non-morti nettamente superiore a quanto possano affrontare a Livello 8 — un deterrente ambientale, non un muro invisibile.*
+*[NOTA DM — riservata] **Non un dungeon di questa sessione.** La fonte è esplicita: usa queste forze — cavalieri scheletrici e altri non-morti — per scoraggiare i personaggi dall'avvicinarsi al Bastione a questo punto della campagna. È qui che Lord Soth ha costruito il suo braciere per il fuoco Cataclismico rubato dal Castello di Kalaman, ed è qui che ha già animato **Karavarix** nel primo drago della morte minore (il tipo di creatura affrontato all'area M7 nella Sessione 17). I personaggi lo esploreranno nel Cap. 7. Se insistono per avvicinarsi ora, fai loro percepire con chiarezza (Percezione passiva, o semplicemente narrativa) un numero di guardie e non-morti nettamente superiore a quanto possano affrontare a Livello 8 — un deterrente ambientale, non un muro invisibile.*
 
 ---
 
@@ -114,7 +114,7 @@ Prima di dirigersi verso la Magione Occupata, il gruppo scorge di nuovo, più da
 
 *~30 minuti · Le guardie kapak, l'inganno delle uniformi, la carrozzeria e il dragonnel prigioniero*
 
-*[NOTA DM — riservata] Da qui in poi, il gruppo raggiunge la **Magione Occupata**: il Red Dragon Army usa una magione in rovina come posto di comando avanzato. I personaggi possono averla identificata parlando con Demelin (Sessione 17) o osservando le pattuglie (FASE 0). Ricorda per tutta questa location la meccanica chiave: **i personaggi che indossano armature o mantelli del Dragon Army ottengono vantaggio alle prove di Carisma (Inganno) per spacciarsi da soldati** mentre si trovano dentro la magione — un'infiltrazione in uniforme è pienamente supportata dalla fonte ed è probabilmente il modo più rapido (e meno dispendioso in termini di tempo di gioco) di attraversare gran parte di questa sessione.*
+*[NOTA DM — riservata] Da qui in poi, il gruppo raggiunge la **Magione Occupata**: l'Armata dei Draghi Rossi usa una magione in rovina come posto di comando avanzato. I personaggi possono averla identificata parlando con Demelin (Sessione 17) o osservando le pattuglie (FASE 0). Ricorda per tutta questa location la meccanica chiave: **i personaggi che indossano armature o mantelli dell'Armata dei Draghi ottengono vantaggio alle prove di Carisma (Inganno) per spacciarsi da soldati** mentre si trovano dentro la magione — un'infiltrazione in uniforme è pienamente supportata dalla fonte ed è probabilmente il modo più rapido (e meno dispendioso in termini di tempo di gioco) di attraversare gran parte di questa sessione.*
 
 ### O1 — L'Esterno
 
@@ -129,9 +129,9 @@ Questo posto di comando ribolle di attività durante il giorno, con pattuglie um
 
 ***Guardie.*** Quattro **draconiani kapak** (vedi scheda già nota, Sessione 05) sorvegliano l'esterno della magione: uno alla porta est della rimessa, due alla porta principale, uno alla porta del patio sul retro. Se attaccati, i draconiani gridano per allertare gli altri kapak all'esterno e nell'area collegata alla porta che sorvegliano (area O3 o O4, quella più vicina).
 
-***Pattuglia.*** Circa una volta all'ora, un gruppo di otto **soldati del Dragon Army** (scheda già nota, Sessioni 06–07/16) arriva fuori dalla magione, fa rapporto alle guardie, poi riparte. Se le guardie kapak non sono ai loro posti, la pattuglia entra nella magione per investigare.
+***Pattuglia.*** Circa una volta all'ora, un gruppo di otto **soldati dell'Armata dei Draghi** (scheda già nota, Sessioni 06–07/16) arriva fuori dalla magione, fa rapporto alle guardie, poi riparte. Se le guardie kapak non sono ai loro posti, la pattuglia entra nella magione per investigare.
 
-*[NOTA DM — riservata] **Punto di ingresso ideale per l'inganno.** Se i personaggi hanno recuperato armature o mantelli del Dragon Army in sessioni precedenti (bottino comune contro soldati e draconiani fin dal Cap. 3), questo è il momento per farli fruttare: vantaggio all'Inganno per superare i quattro kapak all'esterno senza combattere. Se il party non ha equipaggiamento adatto, le uniformi si trovano proprio all'interno, in O2 — considera di lasciar loro un varco (una porta sul retro non presidiata, un momento di distrazione) per entrare, recuperare i travestimenti, e *poi* decidere come muoversi nel resto della magione.*
+*[NOTA DM — riservata] **Punto di ingresso ideale per l'inganno.** Se i personaggi hanno recuperato armature o mantelli dell'Armata dei Draghi in sessioni precedenti (bottino comune contro soldati e draconiani fin dal Cap. 3), questo è il momento per farli fruttare: vantaggio all'Inganno per superare i quattro kapak all'esterno senza combattere. Se il party non ha equipaggiamento adatto, le uniformi si trovano proprio all'interno, in O2 — considera di lasciar loro un varco (una porta sul retro non presidiata, un momento di distrazione) per entrare, recuperare i travestimenti, e *poi* decidere come muoversi nel resto della magione.*
 
 ---
 
@@ -144,7 +144,7 @@ Questo posto di comando ribolle di attività durante il giorno, con pattuglie um
 *[Aggiunta atmosferica]:*
 > *I mantelli puzzano di umidità e fumo di torcia — un odore che, vi accorgete con un piccolo brivido, è diventato familiare quanto quello delle vostre stesse uniformi da viaggio. Indossarli significa diventare, per qualche minuto o per qualche ora, esattamente il tipo di persona contro cui state combattendo.*
 
-Indossati con il cappuccio alzato, i mantelli qui presenti garantiscono vantaggio alle prove di Carisma (Inganno) per spacciarsi da soldati del Dragon Army mentre ci si trova nella magione. Sono presenti anche sei *lance*.
+Indossati con il cappuccio alzato, i mantelli qui presenti garantiscono vantaggio alle prove di Carisma (Inganno) per spacciarsi da soldati dell'Armata dei Draghi mentre ci si trova nella magione. Sono presenti anche sei *lance*.
 
 *[NOTA DM — riservata] Nessun combattimento in quest'area — è il punto di rifornimento per l'infiltrazione in uniforme. Se il party non ha ancora considerato l'inganno come strategia, questa stanza è il prompt naturale del DM per suggerirlo apertamente ("le uniformi sembrano fatte apposta per la vostra taglia...").*
 
@@ -165,9 +165,9 @@ Questa rimessa funge da prigione della base.
 
 ***Draconiani.*** Tre **draconiani kapak** (scheda già nota) sorvegliano quest'area. Uno di loro ha la chiave del carro-prigione.
 
-***Il Carro-Prigione.*** Un carro di legno con una gabbia di ferro incorporata custodisce un **dragonnel selvatico** (scheda già nota, Sessione 14) che aveva il proprio covo vicino alla magione. Le truppe hanno catturato il dragonnel sperando di addestrarlo a fare da cavalcatura. Un personaggio può liberare il dragonnel in gabbia usando la chiave in possesso delle guardie, oppure superando una prova di **Destrezza CD 18** con gli strumenti da scasso. Se liberato, il dragonnel è diffidente verso i personaggi, evitandoli mentre cerca di raggiungere la strada per volare via. Attacca qualunque truppa del Dragon Army incontri lungo il tragitto.
+***Il Carro-Prigione.*** Un carro di legno con una gabbia di ferro incorporata custodisce un **dragonnel selvatico** (scheda già nota, Sessione 14) che aveva il proprio covo vicino alla magione. Le truppe hanno catturato il dragonnel sperando di addestrarlo a fare da cavalcatura. Un personaggio può liberare il dragonnel in gabbia usando la chiave in possesso delle guardie, oppure superando una prova di **Destrezza CD 18** con gli strumenti da scasso. Se liberato, il dragonnel è diffidente verso i personaggi, evitandoli mentre cerca di raggiungere la strada per volare via. Attacca qualunque truppa dell'Armata dei Draghi incontri lungo il tragitto.
 
-*[NOTA DM — riservata] Il dragonnel liberato **non diventa un alleato addomesticato** — è semplicemente un animale spaventato che approfitta della libertà per fuggire, attaccando eventuali ostacoli del Dragon Army sulla via. Se un personaggio ha competenze specifiche per addomesticare bestie draconiche (o un background coerente), puoi concedere a discrezione una possibilità di stabilire un rapporto più duraturo — ma non è previsto dalla fonte come cavalcatura garantita.*
+*[NOTA DM — riservata] Il dragonnel liberato **non diventa un alleato addomesticato** — è semplicemente un animale spaventato che approfitta della libertà per fuggire, attaccando eventuali ostacoli dell'Armata dei Draghi sulla via. Se un personaggio ha competenze specifiche per addomesticare bestie draconiche (o un background coerente), puoi concedere a discrezione una possibilità di stabilire un rapporto più duraturo — ma non è previsto dalla fonte come cavalcatura garantita.*
 
 ---
 
@@ -188,7 +188,7 @@ Questa rimessa funge da prigione della base.
 *[Aggiunta atmosferica]:*
 > *Il contrasto è quasi comico, se non fosse macabro: mobili da salotto istariani di squisita fattura, spinti alla rinfusa contro il muro come ingombri, mentre tavolacci da campo militare occupano il centro della stanza. Nessuno, qui, ha tempo per l'estetica. Solo per i pasti.*
 
-Il Dragon Army ha convertito questa stanza in una mensa. In ogni momento, due **draconiani bozak**, un **draconiano kapak**, e tre **soldati del Dragon Army** (schede sotto/già note) consumano i pasti qui. Alzano lo sguardo verso chiunque entri, ma non prestano attenzione ai personaggi vestiti da soldati del Dragon Army.
+L'Armata dei Draghi ha convertito questa stanza in una mensa. In ogni momento, due **draconiani bozak**, un **draconiano kapak**, e tre **soldati dell'Armata dei Draghi** (schede sotto/già note) consumano i pasti qui. Alzano lo sguardo verso chiunque entri, ma non prestano attenzione ai personaggi vestiti da soldati dell'Armata dei Draghi.
 
 Se scoppia una rissa qui, i soldati che riposano nell'area O8 intervengono dopo 2 round.
 
@@ -208,7 +208,7 @@ Linguaggi Comune, Draconico
 CR 2 (450 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+Spasmi di Morte. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
 all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
 CD 10 o subisce 9 (2d8) danni da FORZA.
 —
@@ -228,11 +228,11 @@ Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
   1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
-*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: bozak e aurak usano ora le schede ufficiali DSotDQ (p198 e p196). Il bozak scende da CR 3 a **CR 2**; l'aurak resta CR 6 ma ha capacità completamente diverse (Aura di Comando, Respiro Nocivo, incantesimi, vista pura). Nota conservata come storia.] **Era una ricostruzione dichiarata, non testo originale.** *Appendix B* non include queste schede in questo estratto. Ho ricostruito il bozak a **CR 3** — coerente con le sue apparizioni narrative in Sessioni 02/04/05/06 (dove esplode sempre nelle "Death Throes" quando ucciso, un dettaglio che ho preservato meccanicamente qui per la prima volta con un tiro salvezza esplicito) e con il suo ruolo di draconiano di fanteria "di livello medio" tra il kapak (CR 2) e i tipi superiori. **Usa questa identica scheda per ogni futura apparizione** di bozak draconian in campagna (ne comparirà ancora, sia al Tempio di Paladine sia alla Soglia dei Cieli e nel Bastione, secondo la fonte).*
+*[NOTA DM — ⚠️ **SUPERATA il 2026-09-13**: bozak e aurak usano ora le schede ufficiali DSotDQ (p198 e p196). Il bozak scende da CR 3 a **CR 2**; l'aurak resta CR 6 ma ha capacità completamente diverse (Aura di Comando, Respiro Nocivo, incantesimi, vista pura). Nota conservata come storia.] **Era una ricostruzione dichiarata, non testo originale.** *Appendix B* non include queste schede in questo estratto. Ho ricostruito il bozak a **CR 3** — coerente con le sue apparizioni narrative in Sessioni 02/04/05/06 (dove esplode sempre nelle "Spasmi di Morte (Death Throes)" quando ucciso, un dettaglio che ho preservato meccanicamente qui per la prima volta con un tiro salvezza esplicito) e con il suo ruolo di draconiano di fanteria "di livello medio" tra il kapak (CR 2) e i tipi superiori. **Usa questa identica scheda per ogni futura apparizione** di bozak draconian in campagna (ne comparirà ancora, sia al Tempio di Paladine sia alla Soglia dei Cieli e nel Bastione, secondo la fonte).*
 
-### Stat Block — Draconiano Kapak e Soldato del Dragon Army
+### Stat Block — Draconiano Kapak e Soldato dell'Armata dei Draghi
 
-*(vedi schede già stabilite: Kapak Draconian, Sessione 05; Dragon Army Soldier, Sessioni 06–07/16 — riutilizzate qui senza modifiche per coerenza meccanica)*
+*(vedi schede già stabilite: Kapak Draconian, Sessione 05; Soldato dell'Armata dei Draghi (Dragon Army Soldier), Sessioni 06–07/16 — riutilizzate qui senza modifiche per coerenza meccanica)*
 
 *[NOTA DM — riservata] **Bilanciamento della mensa.** 2 bozak (1.400 XP) + 1 kapak (450 XP) + 3 soldati (150 XP) = 2.000 XP, con altri 8 soldati (400 XP) in arrivo dopo 2 round da O8 se la rissa si protrae — un incontro potenzialmente molto pesante per un party di Livello 8 se degenera in scontro totale. **Questo è probabilmente il momento in cui l'inganno in uniforme paga di più**: un party travestito può attraversare la mensa senza destare sospetti, magari fermandosi persino a mangiare per non destare sospetti, invece di dover affrontare undici avversari in un colpo solo. Se il combattimento scoppia comunque, ricorda ai giocatori (o gestisci tu stesso) il timer dei rinforzi da O8: due round netti prima che altri otto soldati si uniscano alla mischia.*
 
@@ -292,9 +292,9 @@ Ascia da Macellaio (Spadone). Attacco con arma in mischia: +4 al colpire, portat
 
 Casse e rastrelliere per armi riempiono questa stanza.
 
-***Cassaforte Trappolata.*** La cassa di metallo, appartenente al comandante del Dragon Army **Belephaion**, porta una trappola magica rilevabile da un personaggio che lancia *individuazione magie* o che perquisisce la cassa e supera una prova di **Intelligenza (Arcane o Indagare) CD 16**. La trappola può essere disinnescata con l'incantesimo *dissolvi magie*. Un personaggio che tenta di aprire la cassa mentre la trappola è attiva deve superare un **TS Destrezza CD 18**, subendo 27 (5d10) danni da fulmine se fallisce, o metà se ha successo. La cassa può essere aperta senza chiave da un personaggio che dedica 1 minuto e supera una prova di **Destrezza CD 20** con gli strumenti da scasso.
+***Cassaforte Trappolata.*** La cassa di metallo, appartenente al comandante dell'Armata dei Draghi **Belephaion**, porta una trappola magica rilevabile da un personaggio che lancia *individuazione magie* o che perquisisce la cassa e supera una prova di **Intelligenza (Arcane o Indagare) CD 16**. La trappola può essere disinnescata con l'incantesimo *dissolvi magie*. Un personaggio che tenta di aprire la cassa mentre la trappola è attiva deve superare un **TS Destrezza CD 18**, subendo 27 (5d10) danni da fulmine se fallisce, o metà se ha successo. La cassa può essere aperta senza chiave da un personaggio che dedica 1 minuto e supera una prova di **Destrezza CD 20** con gli strumenti da scasso.
 
-***Tesoro.*** La dispensa custodisce cibo e acqua sufficienti per cinquanta persone per un mese, insieme a venti *giavellotti*, dieci *spade lunghe*, e dieci armature a scaglie del Dragon Army. La cassa trappolata di **Belephaion** contiene tre *giavellotti del fulmine* e una *borsa* piena di zaffiri del valore di 1.600 mo.
+***Tesoro.*** La dispensa custodisce cibo e acqua sufficienti per cinquanta persone per un mese, insieme a venti *giavellotti*, dieci *spade lunghe*, e dieci armature a scaglie dell'Armata dei Draghi. La cassa trappolata di **Belephaion** contiene tre *giavellotti del fulmine* e una *borsa* piena di zaffiri del valore di 1.600 mo.
 
 *[NOTA DM — riservata] Questa è la prima menzione fisica e tangibile di **Belephaion** in questa sessione — finora solo un nome sentito nominare da Demelin e nei rapporti. La cassa personalizzata (draghi blu incisi, contenuto di alto valore) è un buon momento per un personaggio arcanamente competente di iniziare a farsi un'idea del carattere del comandante: qualcuno che investe risorse personali in oggetti di prestigio, non solo in equipaggiamento funzionale.*
 
@@ -317,7 +317,7 @@ Casse e rastrelliere per armi riempiono questa stanza.
 *[Aggiunta atmosferica]:*
 > *I mosaici, sotto la polvere e le crepe, raffigurano ancora frammenti di scene di danza e musica — la stessa stanza, probabilmente, era un tempo un salotto per intrattenimenti eleganti. Ora ospita file di uomini che dormono con gli stivali ai piedi, pronti a saltare in piedi al primo allarme.*
 
-Questo salotto funge da caserma per le truppe del Dragon Army non in pattuglia. Otto **soldati del Dragon Army** (scheda già nota) riposano qui. Se non sono stati allertati da rumori in altre stanze, vengono colti di sorpresa se i personaggi li attaccano.
+Questo salotto funge da caserma per le truppe dell'Armata dei Draghi non in pattuglia. Otto **soldati dell'Armata dei Draghi** (scheda già nota) riposano qui. Se non sono stati allertati da rumori in altre stanze, vengono colti di sorpresa se i personaggi li attaccano.
 
 *[NOTA DM — riservata] **Il rovescio della medaglia della mensa (O4).** Se il combattimento è scoppiato in O4 e si è protratto oltre 2 round, questi otto soldati arrivano già all'erta — nessuna sorpresa, e probabilmente già armati. Se invece i personaggi raggiungono quest'area per prima, o in silenzio, hanno l'occasione di un'imboscata quasi a senso unico contro otto soldati addormentati o disarmati: considera di applicare la condizione *sorpreso* con generosità, dato che la fonte lo specifica esplicitamente. Otto soldati (400 XP) colti di sorpresa sono un incontro molto più gestibile che otto soldati già in allerta.*
 
@@ -327,7 +327,7 @@ Questo salotto funge da caserma per le truppe del Dragon Army non in pattuglia. 
 
 ---
 
-## FASE 4 — Il Piano Superiore: Captain Hask e l'Intelligence (O9–O11)
+## FASE 4 — Il Piano Superiore: Capitano Hask e l'Intelligence (O9–O11)
 
 *~40 minuti · Il corridoio superiore, l'inganno o lo scontro con l'aurak Hask, i chierici-ufficiali della biblioteca, la parola d'ordine*
 
@@ -348,17 +348,17 @@ La scala della magione collega questo piccolo corridoio all'area O4 al piano ter
 *[Aggiunta atmosferica]:*
 > *È l'unica stanza della magione che sembra ancora appartenere a qualcuno, invece che a un'operazione militare. I vetri intatti della torretta, in particolare, sembrano quasi un lusso osceno in una città dove ogni altra finestra è sbarrata o in frantumi.*
 
-**Captain Hask**, un **draconiano aurak**, sta scrivendo rapporti alla scrivania. Hask conosce tutti i soldati della sua unità, e i personaggi possono convincerlo di essere soldati del Dragon Army solo con una prova di **Carisma (Inganno) CD 22** superata. Se Hask crede di essere ingannato, si alza e attacca mentre chiama i soldati dell'area O11, che arrivano dopo 1 round. Hask è un devoto servitore della Regina Drago e combatte fino alla morte.
+**Capitano Hask**, un **draconiano aurak**, sta scrivendo rapporti alla scrivania. Hask conosce tutti i soldati della sua unità, e i personaggi possono convincerlo di essere soldati dell'Armata dei Draghi solo con una prova di **Carisma (Inganno) CD 22** superata. Se Hask crede di essere ingannato, si alza e attacca mentre chiama i soldati dell'area O11, che arrivano dopo 1 round. Hask è un devoto servitore della Regina dei Draghi e combatte fino alla morte.
 
 ***Intelligence di Comando.*** La scrivania è coperta di rapporti indirizzati al superiore di Hask, indicato come "il Glorioso **Belephaion**". Un personaggio che dedica un minuto a leggere i documenti apprende quanto segue:
 
-- Due comandanti del Dragon Army, **Belephaion** e **Lohezet**, lavorano alla Soglia dei Cieli.
+- Due comandanti dell'Armata dei Draghi, **Belephaion** e **Lohezet**, lavorano alla Soglia dei Cieli.
 - La parola d'ordine per accedere alla Soglia dei Cieli è **"Per sua volontà: il mondo."**
-- Gli ingegneri del Dragon Army hanno completato la maggior parte del loro lavoro, rinforzando le fondamenta dei quartieri più intatti della città.
+- Gli ingegneri dell'Armata dei Draghi hanno completato la maggior parte del loro lavoro, rinforzando le fondamenta dei quartieri più intatti della città.
 
 ***Tesoro.*** Una chiave che Hask porta con sé apre il forziere chiuso vicino alla scrivania. Il forziere può anche essere aperto da un personaggio che usa gli strumenti da scasso, dedica 1 minuto, e supera una prova di **Destrezza CD 18**. Il forziere contiene una *perla del potere* e un sacco da 90 kg, etichettato "Paga" in draconico, che custodisce 10.000 mp d'argento.
 
-### Stat Block — Captain Hask (Draconiano Aurak) · CR 6 · 2.300 XP *(scheda ufficiale DSotDQ p196)*
+### Stat Block — Capitano Hask (Draconiano Aurak) · CR 6 · 2.300 XP *(scheda ufficiale DSotDQ p196)*
 
 ```
 CAPTAIN HASK (DRACONIANO AURAK) — DSotDQ p196, scheda ufficiale
@@ -378,7 +378,7 @@ Aura di Comando. L'aurak irradia una presenza autorevole in una sfera di raggio
 non può essere affascinato e ha vantaggio ai TS per evitare o terminare su di sé
 la condizione Spaventato.
 —
-Death Throes. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
+Spasmi di Morte. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
 una SFERA DI FULMINE contro la creatura più vicina entro 9 m, poi rimbalza su
 fino ad altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza
 CD 14. Fallimento: 9 (2d8) danni da fulmine ed è STORDITO fino alla fine del
@@ -395,7 +395,7 @@ Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
   al Respiro Nocivo di QUALSIASI draconiano per 24 ore.
 Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
   (CD tiro salvezza 14):
-  A volontà: invisibility, mage hand
+  A volontà: invisibility, mago hand
   2/giorno ciascuno: dimension door, disguise self, sending
   1/giorno: dominate person
 ```
@@ -413,16 +413,16 @@ Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
 *[Aggiunta atmosferica]:*
 > *Tra i libri in decomposizione, qualcuno ha impilato con cura ordinata pile di carte molto più recenti — rapporti, mappe, elenchi di nomi. Il contrasto tra il sapere perduto di Onyari e la burocrazia meticolosa dell'occupazione è quasi più inquietante di qualunque mostro incontrato finora.*
 
-Tre **ufficiali del Dragon Army** (scheda già nota, Sessioni 06/16) lavorano qui come scrivani, coordinando i rapporti. Se minacciati, gridano per allertare **Captain Hask**, che arriva dall'area O10 dopo 1 round. Questi ufficiali sono fedeli a **Captain Hask**, e lui conta come un Drago ai fini del loro tratto Devozione Draconica. Due dei tre ufficiali combattono fino alla morte. L'ultimo ufficiale rimasto si arrende quando i suoi alleati sono sconfitti.
+Tre **ufficiali dell'Armata dei Draghi** (scheda già nota, Sessioni 06/16) lavorano qui come scrivani, coordinando i rapporti. Se minacciati, gridano per allertare **Capitano Hask**, che arriva dall'area O10 dopo 1 round. Questi ufficiali sono fedeli al **Capitano Hask**, e lui conta come un Drago ai fini del loro tratto Devozione Draconica. Due dei tre ufficiali combattono fino alla morte. L'ultimo ufficiale rimasto si arrende quando i suoi alleati sono sconfitti.
 
-***Raccogliere Intelligence.*** Gli scrivani sanno molte cose sui piani del Dragon Army. Se uno scrivano viene catturato vivo, un personaggio può convincerlo a condividere le seguenti informazioni superando una prova di **Carisma (Intimidire o Persuasione) CD 14**:
+***Raccogliere Intelligence.*** Gli scrivani sanno molte cose sui piani dell'Armata dei Draghi. Se uno scrivano viene catturato vivo, un personaggio può convincerlo a condividere le seguenti informazioni superando una prova di **Carisma (Intimidire o Persuasione) CD 14**:
 
-- Il comandante del Red Dragon Army, la Dragon Highmaster **Kansaldi Fire-Eyes**, non è nella Città dei Nomi Perduti. È rimasta con il grosso dell'esercito vicino a Kalaman.
-- I comandanti **Belephaion** e **Lohezet** guidano questo contingente del Red Dragon Army. Non vanno d'accordo tra loro.
-- **Belephaion** è una fanatica terrificante che afferma di parlare per conto della Regina Drago in persona. Persino Kansaldi ascolta i suoi consigli.
-- **Lohezet** è un subdolo Mago di Alta Stregoneria in veste nera. È ossessionato dalla magia antica e dalle bestie velenose, e la sua ricerca ha portato il Dragon Army alla Città dei Nomi Perduti.
+- Il comandante dell'Armata dei Draghi Rossi, la Gran Maestra dei Draghi **Kansaldi Fire-Eyes**, non è nella Città dei Nomi Perduti. È rimasta con il grosso dell'esercito vicino a Kalaman.
+- I comandanti **Belephaion** e **Lohezet** guidano questo contingente dell'Armata dei Draghi Rossi. Non vanno d'accordo tra loro.
+- **Belephaion** è una fanatica terrificante che afferma di parlare per conto della Regina dei Draghi in persona. Persino Kansaldi ascolta i suoi consigli.
+- **Lohezet** è un subdolo Mago dell'Alta Stregoneria in veste nera. È ossessionato dalla magia antica e dalle bestie velenose, e la sua ricerca ha portato l'Armata dei Draghi alla Città dei Nomi Perduti.
 - **Belephaion** e **Lohezet** lavorano da giorni alla torre chiamata Soglia dei Cieli, preparandosi a riattivare l'antica magia di volo della città.
-- Lo scrivano non sa nulla di **Lord Soth**, e preferisce così. Il cavaliere della morte, a quanto si dice, riceve ordini direttamente dalla Regina Drago.
+- Lo scrivano non sa nulla di **Lord Soth**, e preferisce così. Il cavaliere della morte, a quanto si dice, riceve ordini direttamente dalla Regina dei Draghi.
 
 Un personaggio può anche raccogliere queste informazioni dedicando un'ora a esaminare i rapporti nella stanza — rischiando però di essere scoperto dalla pattuglia descritta nell'area O1.
 
@@ -432,14 +432,14 @@ Un personaggio può anche raccogliere queste informazioni dedicando un'ora a esa
 
 ### Rifornire di Nuovo la Magione
 
-Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army scopre l'intrusione (se non l'ha già fatta durante la visita del gruppo). La magione viene completamente rifornita di personale 24 ore dopo la partenza dei personaggi, con tutti gli abitanti del Dragon Army sostituiti dallo stesso numero e tipo di creature.
+Poco dopo che i personaggi lasciano la magione, una pattuglia dell'Armata dei Draghi scopre l'intrusione (se non l'ha già fatta durante la visita del gruppo). La magione viene completamente rifornita di personale 24 ore dopo la partenza dei personaggi, con tutti gli abitanti dell'Armata dei Draghi sostituiti dallo stesso numero e tipo di creature.
 
 *[NOTA DM — riservata] **Finestra temporale utile.** Questo dettaglio implica che, se il party vuole tornare alla Magione per qualunque motivo (bottino dimenticato, un prigioniero da liberare), ha una finestra di 24 ore prima che tutto torni come prima — un buon gancio se un giocatore chiede "possiamo tornare indietro?" senza dover improvvisare da zero le conseguenze.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Captain Hask** — *(nessuna voce preesistente in `png-incontrati.md` — verrà aggiunto come PNG del Cap. 6 dopo la sessione, probabilmente come "sconfitto"/"eliminato" se il combattimento va a buon fine, coerente con la sua caratterizzazione di fanatico che combatte fino alla morte)*
+- **Capitano Hask** — *(nessuna voce preesistente in `png-incontrati.md` — verrà aggiunto come PNG del Cap. 6 dopo la sessione, probabilmente come "sconfitto"/"eliminato" se il combattimento va a buon fine, coerente con la sua caratterizzazione di fanatico che combatte fino alla morte)*
 
 ---
 
@@ -449,9 +449,9 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 
 | Preludio | Hook in Sessione 18 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | La cassa personalizzata di **Belephaion** (O7) e i suoi rapporti (O10-O11) dipingono il ritratto di una zelota che "afferma di parlare per conto della Regina Drago". Per un PG con una connessione divina propria, questo è un buon momento per una riflessione silenziosa: cosa distingue la propria fede genuina dal fanatismo cieco di un'invasata come Belephaion? Nessuna meccanica richiesta — solo un momento di caratterizzazione, magari innescato da un oggetto religioso trovato tra le sue cose. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | **Lohezet** viene descritto dagli scrivani come "un subdolo Mago di Alta Stregoneria in veste nera" — la prima conferma diretta, in questa sessione, che un membro dell'Ordine dei Mantelli Neri comanda il contingente nemico. Per un PG che ha sostenuto (o sta considerando) il Test di Demelin, questo è un aggancio diretto: l'Ordine a cui potrebbe unirsi include anche nemici dichiarati. Buon momento per una domanda in-character su cosa significhi davvero appartenere ai Mantelli Neri. |
-| **Scales of War** (tutti) | Il dragonnel selvatico incatenato in O3 — catturato per essere "addestrato a fare da cavalcatura" — rispecchia direttamente il tema della campagna sul rapporto tra mortali e creature draconiche. Liberarlo (o scegliere di non farlo) è una piccola ma concreta dichiarazione di valori per qualunque PG di questo preludio. |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | La cassa personalizzata di **Belephaion** (O7) e i suoi rapporti (O10-O11) dipingono il ritratto di una zelota che "afferma di parlare per conto della Regina dei Draghi". Per un PG con una connessione divina propria, questo è un buon momento per una riflessione silenziosa: cosa distingue la propria fede genuina dal fanatismo cieco di un'invasata come Belephaion? Nessuna meccanica richiesta — solo un momento di caratterizzazione, magari innescato da un oggetto religioso trovato tra le sue cose. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | **Lohezet** viene descritto dagli scrivani come "un subdolo Mago dell'Alta Stregoneria in veste nera" — la prima conferma diretta, in questa sessione, che un membro dell'Ordine dei Mantelli Neri comanda il contingente nemico. Per un PG che ha sostenuto (o sta considerando) il Test di Demelin, questo è un aggancio diretto: l'Ordine a cui potrebbe unirsi include anche nemici dichiarati. Buon momento per una domanda in-character su cosa significhi davvero appartenere ai Mantelli Neri. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Il dragonnel selvatico incatenato in O3 — catturato per essere "addestrato a fare da cavalcatura" — rispecchia direttamente il tema della campagna sul rapporto tra mortali e creature draconiche. Liberarlo (o scegliere di non farlo) è una piccola ma concreta dichiarazione di valori per qualunque PG di questo preludio. |
 | **Tutti** | L'intera location gioca sul tema dell'inganno e del travestimento (le uniformi in O2, l'Inganno CD 22 contro Hask) — un'occasione rara nella campagna per un approccio non violento e basato sull'astuzia, in netto contrasto con la densità di combattimento del Sentiero dei Ricordi (Sessione 17). Se il party sceglie l'infiltrazione silenziosa invece dello scontro totale, celebralo: è esattamente ciò che la fonte incoraggia. |
 
 ---
@@ -466,8 +466,8 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 | Belephaion e Lohezet alla Soglia | Confermato che i due comandanti lavorano insieme alla torre, preparandosi a riattivare la magia di volo | Alta → driver della Sessione 20 (Soglia dei Cieli) |
 | Il Tempio di Paladine ancora da esplorare | Prossima priorità naturale — Demelin l'aveva indicata come luogo per comprendere la maledizione della *dragonlance*; qui avviene anche l'avanzamento a Livello 9 (insieme alla condizione già soddisfatta in questa sessione) | Alta → apertura naturale della Sessione 19 |
 | Il Bastione di Takhisis avvistato di nuovo | Ancora scoraggiato esplicitamente dalla fonte; riservato al Cap. 7 | Bassa → nessuna azione richiesta ora |
-| Il dragonnel selvatico liberato (se accade) | Fugge attaccando le truppe del Dragon Army che incontra; nessun legame duraturo garantito col party | Bassa → esito da tracciare se rilevante |
-| Captain Hask | Il suo destino (sconfitto, o riuscito a fuggire se in qualche modo il party lo permette) va registrato in `png-incontrati.md` dopo la sessione | Media → nuovo PNG da aggiungere |
+| Il dragonnel selvatico liberato (se accade) | Fugge attaccando le truppe dell'Armata dei Draghi che incontra; nessun legame duraturo garantito col party | Bassa → esito da tracciare se rilevante |
+| Capitano Hask | Il suo destino (sconfitto, o riuscito a fuggire se in qualche modo il party lo permette) va registrato in `png-incontrati.md` dopo la sessione | Media → nuovo PNG da aggiungere |
 | Discrepanza su Demelin in png-incontrati.md | Ancora presente dalla Sessione 17: il file la descrive erroneamente come "spirito/costrutto"; la fonte primaria conferma che è un'elfa vivente | Alta → `[TODO DM: correggere dopo la sessione]`, non ancora risolto |
 
 ---
@@ -486,7 +486,7 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 - [ ] O6 (Yurl): combattuto? Sì / No — esito: ____________
 - [ ] O7 (cassaforte trappolata di Belephaion): aperta? Come? ____________ — danno da fulmine subito? Sì / No
 - [ ] O8 (caserma, 8 soldati): sorpresi o allertati? ____________
-- [ ] O10 (Captain Hask): ingannato (CD 22) o combattuto? ____________ — esito: ____________
+- [ ] O10 (Capitano Hask): ingannato (CD 22) o combattuto? ____________ — esito: ____________
 - [ ] O11 (ufficiali/scrivani): combattuti? Sì / No — scrivano catturato e interrogato? Sì / No — informazioni ottenute: ____________
 - [ ] Parola d'ordine della Soglia dei Cieli appresa: Sì / No
 - [ ] Nomi di Belephaion e Lohezet confermati come comandanti alla Soglia: Sì / No
@@ -496,7 +496,7 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
-| Captain Hask | Prima e probabilmente unica apparizione; combatte fino alla morte se scoperto | Nuovo PNG — aggiungere a `png-incontrati.md` con esito della sessione |
+| Capitano Hask | Prima e probabilmente unica apparizione; combatte fino alla morte se scoperto | Nuovo PNG — aggiungere a `png-incontrati.md` con esito della sessione |
 | Belephaion | Ancora non incontrata di persona; solo tramite documenti e testimonianze indirette | -3 Ostile (invariata, presenza narrativa) |
 | Lohezet | Ancora non incontrato di persona; solo tramite documenti e testimonianze indirette | -3 Ostile (invariata, presenza narrativa) |
 
@@ -505,15 +505,15 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 | Fonte | Ricompensa |
 |-------|-----------|
 | 4 kapak (O1) + 3 kapak (O3) + 1 kapak (O4) = 8 kapak totali (evitabili con inganno) | 3.600 XP (450×8) |
-| 8 soldati Dragon Army (patrol O1, evitabile) | 400 XP |
+| 8 soldati dell'Armata dei Draghi (patrol O1, evitabile) | 400 XP |
 | 2 bozak + 3 soldati (O4, evitabile con inganno) | 1.550 XP |
 | Yurl, capitano hobgoblin (O6, difficilmente evitabile se scoperto) | 700 XP |
-| 8 soldati Dragon Army (O8, evitabile/sorprendibile) | 400 XP |
-| Captain Hask, draconiano aurak (O10, evitabile con Inganno CD 22) | 2.300 XP |
-| 3 ufficiali Dragon Army (O11, parzialmente evitabile — uno si arrende) | 2.100 XP |
+| 8 soldati dell'Armata dei Draghi (O8, evitabile/sorprendibile) | 400 XP |
+| Capitano Hask, draconiano aurak (O10, evitabile con Inganno CD 22) | 2.300 XP |
+| 3 ufficiali dell'Armata dei Draghi (O11, parzialmente evitabile — uno si arrende) | 2.100 XP |
 | **Totale combattimento potenziale** | **fino a ~11.050 XP** (la maggior parte degli scontri è evitabile o riducibile tramite inganno in uniforme) |
-| Bottino | Uniformi/mantelli del Dragon Army (O2); rifornimenti, 20 giavellotti, 10 spade lunghe, 10 armature a scaglie (O7); 3 *giavellotti del fulmine* + zaffiri per 1.600 mo nella cassa di Belephaion (O7); *perla del potere* + 10.000 mp d'argento (O10) |
-| Ricompensa narrativa | Parola d'ordine della Soglia dei Cieli; conferma dei nomi e ruoli di Belephaion e Lohezet; conferma che i lavori di ingegneria del Dragon Army sono quasi completi |
+| Bottino | Uniformi/mantelli dell'Armata dei Draghi (O2); rifornimenti, 20 giavellotti, 10 spade lunghe, 10 armature a scaglie (O7); 3 *giavellotti del fulmine* + zaffiri per 1.600 mo nella cassa di Belephaion (O7); *perla del potere* + 10.000 mp d'argento (O10) |
+| Ricompensa narrativa | Parola d'ordine della Soglia dei Cieli; conferma dei nomi e ruoli di Belephaion e Lohezet; conferma che i lavori di ingegneria dell'Armata dei Draghi sono quasi completi |
 | **Avanzamento** | **Nessuno in questa sessione** — una delle due condizioni per il Livello 9 (esplorazione del posto di comando) è ora soddisfatta; manca ancora la riforgiatura della *dragonlance* al Tempio di Paladine |
 
 ### Thread Aperti
@@ -527,9 +527,9 @@ Poco dopo che i personaggi lasciano la magione, una pattuglia del Dragon Army sc
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — nessun avanzamento di livello previsto, ma registra gli XP di combattimento assegnati (fino a ~11.050, variabile in base agli incontri evitati con l'inganno)
-- [ ] `campagna/png-incontrati.md` — aggiungi **Captain Hask** come nuovo PNG del Cap. 6 con l'esito della sessione; **Demelin** ancora da correggere da "spirito/costrutto" a "elfa arcimaga vivente" (TODO ereditato dalla Sessione 17, ancora irrisolto)
-- [ ] `campagna/rapporti.md` — completa "Capitolo 05 (City of Lost Names — Cap 6 libro)" con l'esito dell'infiltrazione nella Magione Occupata (inganno riuscito/fallito, Hask sconfitto/fuggito, intelligence raccolta)
-- [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti (Belephaion e Lohezet restano PNG di contatto ostili del Red Dragon Army, già presenti)
+- [ ] `campagna/png-incontrati.md` — aggiungi **Capitano Hask** come nuovo PNG del Cap. 6 con l'esito della sessione; **Demelin** ancora da correggere da "spirito/costrutto" a "elfa arcimaga vivente" (TODO ereditato dalla Sessione 17, ancora irrisolto)
+- [ ] `campagna/rapporti.md` — completa "Capitolo 05 (Città dei Nomi Perduti — Cap 6 libro)" con l'esito dell'infiltrazione nella Magione Occupata (inganno riuscito/fallito, Hask sconfitto/fuggito, intelligence raccolta)
+- [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti (Belephaion e Lohezet restano PNG di contatto ostili dell'Armata dei Draghi Rossi, già presenti)
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — nessun cambiamento al Capitolo corrente (resta **6**) — verifica comunque dopo la sessione reale
 - [ ] `campagna/sessioni/recaps/recap-sessione-18.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
@@ -544,17 +544,17 @@ Dopo la sessione, aggiorna questi file:
 |---|------|---------|-------------------|
 | 1 | Struttura | Header | Header completo secondo template S01–S17: fonte primaria con righe (4710–4913), livello invariato con motivazione esplicita sulla doppia condizione di avanzamento a Livello 9, XP ereditati, obiettivo, durata, sessione precedente |
 | 2 | Continuità | ⚠️ Nota pre-sessione | Verificata l'apertura diretta a continuazione della chiusura esatta della Sessione 17 (dal bordo del cratere, subito dopo "Fare un Piano"/"Priorities") |
-| 3 | Continuità | ⚠️ Nota pre-sessione | Documentata la scelta del punto di taglio (fine di "Restaffing the Mansion", riga 4913) con motivazione esplicita legata alla struttura sandbox della fonte e al conteggio parole (2.759, dentro il target 2.500–3.500) |
-| 4 | Fedeltà fonte | Tutte le aree O1–O11 e le tabelle strumento | Preservati tutti i dettagli meccanici della fonte: CD 14 Percezione (O3), CD 18 Destrezza scasso (O3), CD 16 Arcane/Indagare + CD 18 TS Destrezza + CD 20 scasso (O7), CD 22 Inganno (O10), CD 18 scasso (O10), CD 14 Intimidire/Persuasione (O11 e Interrogatori), tutte le tabelle (City Sights, Random City Encounters, Interrogations) riportate senza omissioni |
+| 3 | Continuità | ⚠️ Nota pre-sessione | Documentata la scelta del punto di taglio (fine di "Ripopolare la Magione", riga 4913) con motivazione esplicita legata alla struttura sandbox della fonte e al conteggio parole (2.759, dentro il target 2.500–3.500) |
+| 4 | Fedeltà fonte | Tutte le aree O1–O11 e le tabelle strumento | Preservati tutti i dettagli meccanici della fonte: CD 14 Percezione (O3), CD 18 Destrezza scasso (O3), CD 16 Arcane/Indagare + CD 18 TS Destrezza + CD 20 scasso (O7), CD 22 Inganno (O10), CD 18 scasso (O10), CD 14 Intimidire/Persuasione (O11 e Interrogatori), tutte le tabelle (Luoghi della Città, Incontri Casuali in Città, Interrogations) riportate senza omissioni |
 | 5 | Testo "Boxed" | BT-01–BT-09 | Tutti i nove testi read-aloud `>>` delle righe 4710–4913 tradotti integralmente e verificati contro l'originale inglese, con aggiunta atmosferica separata per ciascuno |
-| 6 | Stat Block | Draconiano Bozak, Captain Hask (Aurak) | **Ricostruiti da zero** (CR 3 e CR 6 rispettivamente) per assenza di *appendix B* nell'estratto testuale, con motivazione esplicita basata sulle apparizioni narrative precedenti del bozak (Sessioni 02/04/05/06, sempre con Death Throes) e sulla caratterizzazione da fonte del ruolo di comando di Hask. Segnalati chiaramente come ricostruzioni, con istruzione di riutilizzo per coerenza futura |
+| 6 | Stat Block | Draconiano Bozak, Capitano Hask (Aurak) | **Ricostruiti da zero** (CR 3 e CR 6 rispettivamente) per assenza di *appendix B* nell'estratto testuale, con motivazione esplicita basata sulle apparizioni narrative precedenti del bozak (Sessioni 02/04/05/06, sempre con Spasmi di Morte) e sulla caratterizzazione da fonte del ruolo di comando di Hask. Segnalati chiaramente come ricostruzioni, con istruzione di riutilizzo per coerenza futura |
 | 7 | Stat Block | Yurl (Capitano Hobgoblin) | Riutilizzata la scheda già costruita per Urta (Sessione 13, CR 3), adattata all'arma "Spadone" per istruzione letterale della fonte — non una ricostruzione da zero ma un adattamento dichiarato |
-| 8 | Stat Block | Kapak Draconian, Dragon Army Soldier/Officer, Dragonnel Selvatico | Riutilizzate senza modifiche le schede già stabilite nelle Sessioni 05, 06–07/16, e 14 — riferimento esplicito alla sessione di origine in ogni comparsa |
-| 9 | Stat Block | Draconiano Sivak (tabelle strumento) | Nuova ricostruzione minima per le voci delle tabelle City Encounters (Posto di Blocco, Ingegneri, Cacciatori di Mostri) — segnalata come riferimento per incontri opzionali, non centrale a questa sessione |
+| 8 | Stat Block | Kapak Draconian, Soldato dell'Armata dei Draghi/Officer, Dragonnel Selvatico | Riutilizzate senza modifiche le schede già stabilite nelle Sessioni 05, 06–07/16, e 14 — riferimento esplicito alla sessione di origine in ogni comparsa |
+| 9 | Stat Block | Draconiano Sivak (tabelle strumento) | Nuova ricostruzione minima per le voci delle tabelle Incontri in Città (*City Encounters*) (Posto di Blocco, Ingegneri, Cacciatori di Mostri) — segnalata come riferimento per incontri opzionali, non centrale a questa sessione |
 | 10 | Continuità | Nota pre-sessione | Ribadita la discrepanza ancora irrisolta su Demelin in `png-incontrati.md` (ereditata dalla Sessione 17, non ancora corretta manualmente) |
-| 11 | Struttura | FASE 0 | Aggiunta fase introduttiva per le tabelle strumento (City Sights, Random City Encounters, Interrogations) e per l'accenno a distanza al Bastione di Takhisis, entrambi presenti nel range di righe ma non legati a una location specifica |
+| 11 | Struttura | FASE 0 | Aggiunta fase introduttiva per le tabelle strumento (Luoghi della Città, Incontri Casuali in Città, Interrogations) e per l'accenno a distanza al Bastione di Takhisis, entrambi presenti nel range di righe ma non legati a una location specifica |
 | 12 | Missioni | Thread Narrativi | Confermato, come in S04–S17, che l'Agente 4 non ha trovato missioni di fazione da integrare in questa sessione |
-| 13 | PC Integration | Hook PG | Aggiunti hook specifici per i tre preludi, centrati sul fanatismo di Belephaion (Broken Silence), l'affiliazione di Lohezet ai Mantelli Neri (Eye in the Sky), e il dragonnel prigioniero (Scales of War); aggiunto anche un hook trasversale sul tema dell'inganno/travestimento, distintivo di questa location rispetto alle precedenti |
+| 13 | PC Integration | Hook PG | Aggiunti hook specifici per i tre preludi, centrati sul fanatismo di Belephaion (Silenzio Infranto), l'affiliazione di Lohezet ai Mantelli Neri (Occhio nel Cielo), e il dragonnel prigioniero (Scaglie di Guerra); aggiunto anche un hook trasversale sul tema dell'inganno/travestimento, distintivo di questa location rispetto alle precedenti |
 | 14 | Continuità | Tutta la sessione | Sottolineato ripetutamente, in più `[NOTA DM]`, che gran parte degli scontri di questa location è **evitabile tramite inganno in uniforme** — coerente con l'esplicita meccanica di vantaggio all'Inganno data dalla fonte, e in deliberato contrasto tonale con la densità di combattimento quasi ininterrotta della Sessione 17 |
 | 15 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S01–S17; confermato che il Capitolo corrente resta **6** (nessuna transizione, Step 6.5 saltato); confermato numericamente che questa sessione (fino a riga 4913) resta a oltre 370 righe di distanza dall'inizio del Cap. 7 (riga 5286) |
 | 16 | Lingua/Stile | Tutte le fasi | Uniformato il registro Urban Noir + Fantasy Classico; verificato che il tono resti coerente tra la tensione da infiltrazione (O1–O11) e i momenti di puro colore ambientale (FASE 0, tabelle strumento) |
@@ -576,8 +576,8 @@ Nessun file generato, nessuna modifica a `campagna/contesto.md`. La prossima ver
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Scelta del contenuto.** Le tabelle strumento di "Exploring the City" (City Sights, Random City Encounters, Interrogations, righe 4710–4768), l'accenno a distanza al Bastione di Takhisis (righe 4769–4776), e l'intera location Occupied Mansion (O1–O11, righe 4777–4913) formano un arco scenico completo e autoconclusivo: dall'orientamento nella città vera e propria fino all'uscita dal posto di comando con l'intelligence chiave in mano. Deliberatamente escluso: il Tempio di Paladine (righe 4915–5032) e la Soglia dei Cieli (righe 5033–5285), entrambi riservati a sessioni successive per ragioni di dimensione e ritmo (vedi Nota pre-sessione, punti 1–3).
+- **Scelta del contenuto.** Le tabelle strumento di "Esplorare la Città" (Luoghi della Città, Incontri Casuali in Città, Interrogations, righe 4710–4768), l'accenno a distanza al Bastione di Takhisis (righe 4769–4776), e l'intera location Magione Occupata (O1–O11, righe 4777–4913) formano un arco scenico completo e autoconclusivo: dall'orientamento nella città vera e propria fino all'uscita dal posto di comando con l'intelligence chiave in mano. Deliberatamente escluso: il Tempio di Paladine (righe 4915–5032) e la Soglia dei Cieli (righe 5033–5285), entrambi riservati a sessioni successive per ragioni di dimensione e ritmo (vedi Nota pre-sessione, punti 1–3).
 - **Delimitazione del chunk.** Verificato l'intero contenuto da riga 4710 a riga 4913. Conteggio parole grezze incluse: ~2.759 — pienamente dentro il target di 2.500–3.500. Per confronto, l'intero materiale restante del capitolo (Tempio di Paladine + Soglia dei Cieli) conta insieme oltre 5.500 parole aggiuntive — troppo per una singola sessione, confermando la necessità di almeno altre due sessioni per chiudere il Cap. 6.
 - **Distanza dal Capitolo 7.** Verificato direttamente sulla fonte: `# Chapter 6: City of Lost Names` righe 4354–5285, `# Chapter 7: Siege of Kalaman` a partire dalla riga **5286**. Questa sessione arriva fino a riga 4913 — a **oltre 370 righe** di distanza dall'inizio del Cap. 7. **Nessun rischio di sovrapposizione con contenuti futuri.**
-- **Stato del Capitolo 6.** Con questa sessione, il Cap. 6 ha ora **una delle quattro location della città esplorata** (Magione Occupata). Restano da giocare: il **Tempio di Paladine** per intero (righe 4915–5032, ~1.660 parole — inclusa la riforgiatura della *dragonlance* e l'avanzamento a Livello 9 — probabile Sessione 19) e la **Soglia dei Cieli** (righe 5033–5285, ~3.927 parole — probabile Sessione 20, esplicitamente gated dietro il Livello 9 dalla fonte stessa: *"make sure the characters are 9th level... before they infiltrate the tower"*). Il Bastione di Takhisis resta riservato al Cap. 7 e non richiede una sessione dedicata in questo capitolo. È ragionevole stimare che il Cap. 6 si concluda alla Sessione 19 o 20, con il Cap. 7 (Siege of Kalaman) ad aprirsi non prima della Sessione 20–21.
+- **Stato del Capitolo 6.** Con questa sessione, il Cap. 6 ha ora **una delle quattro location della città esplorata** (Magione Occupata). Restano da giocare: il **Tempio di Paladine** per intero (righe 4915–5032, ~1.660 parole — inclusa la riforgiatura della *dragonlance* e l'avanzamento a Livello 9 — probabile Sessione 19) e la **Soglia dei Cieli** (righe 5033–5285, ~3.927 parole — probabile Sessione 20, esplicitamente gated dietro il Livello 9 dalla fonte stessa: *"make sure the characters are 9th level... before they infiltrate the tower"*). Il Bastione di Takhisis resta riservato al Cap. 7 e non richiede una sessione dedicata in questo capitolo. È ragionevole stimare che il Cap. 6 si concluda alla Sessione 19 o 20, con il Cap. 7 (Assedio di Kalaman) ad aprirsi non prima della Sessione 20–21.
 - **File esterni modificati da questa preparazione.** Nessuno — come nella Sessione 17, questa sessione non attraversa alcuna soglia di capitolo e non richiede aggiornamenti strutturali a `campagna/contesto.md` o a `campagna/png-per-capitolo/`. Tutti i file di stato standard (`party.md`, `png-incontrati.md`, `rapporti.md`, `fazioni.md`, `missioni-secondarie.md`) restano invariati come da prassi, in attesa della sessione reale.

@@ -91,6 +91,18 @@ Per ogni blockquote `>` che corrisponde a un testo read-aloud originale:
 
 ---
 
+#### 2C-bis — Verifica terminologia
+
+Confronta il documento con `campagna/glossario.md` e correggi ogni termine che non corrisponde:
+
+- [ ] Nessun titolo o grado in inglese davanti a un nome (*Marshal*, *Governor*, *Captain*, *Knight*, *Sir*).
+- [ ] Nessun luogo, organizzazione o evento in inglese se il glossario ha la forma italiana (*Dragon Army*, *Castle Kalaman*, *Northern Wastes*…).
+- [ ] Accordi corretti dove il termine italiano ha un genere diverso dall'originale (*l'Armata dei Draghi è schierata*, *la Porta del Guerriero è aperta*).
+- [ ] Schede e sezioni del manuale con l'inglese tra parentesi alla prima occorrenza, mai dentro un testo da leggere.
+- [ ] Termini inglesi nuovi non presenti nel glossario: tradotti con le sue regole **e aggiunti al glossario**.
+
+---
+
 #### 2D — Verifica PNG
 
 Per ogni PNG presente nella sessione:

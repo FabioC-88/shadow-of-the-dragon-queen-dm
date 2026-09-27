@@ -169,3 +169,9 @@ campagna/contesto.md aggiornato → Capitolo corrente: N
 
 ➡ Prossimo step: revisione del DM, poi skill git-release per pubblicare
 ```
+
+---
+
+## Vincoli
+
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì. Questi file finiscono in Foundry e li leggono i giocatori: niente inglese dove il glossario ha l'italiano.

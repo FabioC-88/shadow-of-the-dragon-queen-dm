@@ -1,6 +1,6 @@
 # DM Notes — Sessione 26: Sotto lo Sguardo di Soth
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 7: Siege of Kalaman**, sezione **"Priests' Quarters"** (aree S10–S20: Corridors, Rubble and Ruin/tana di Lorry Wanwillow, Sanctuary, Treasure Vault, Primordial Altar, Draconian Garrison, Study, Library, Draconian War Room, Cells, Storeroom) — righe **5908–6020**
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 7: Assedio di Kalaman (*Siege of Kalaman*)**, sezione **"Priests' Quarters"** (aree S10–S20: Corridors, Rubble and Ruin/tana di Lorry Wanwillow, Sanctuary, Treasure Vault, Primordial Altar, Draconian Garrison, Study, Library, Sala di Guerra Draconica, Cells, Storeroom) — righe **5908–6020**
 **Livello party:** **11** (nessun ulteriore avanzamento — livello finale della campagna, confermato da `campagna/contesto.md`)
 **XP accumulati:** Ereditati dalla Sessione 25 (vedi `campagna/party.md`, ancora a placeholder Livello 1/TBD — `[TODO DM: verificare]`, coerente con tutte le Sessioni 00–25: la campagna reale non è mai stata giocata)
 **Obiettivo sessione:** Attraversare i Quartieri dei Sacerdoti — il livello dei Quartieri dove i draconiani lavorano febbrilmente sotto lo sguardo distante di **Lord Soth** — dai corridoi sorvegliati fino alla sala di guerra draconiana: l'incontro con **Lorry Wanwillow**, la vampira kender che si credeva morta; lo scontro (o la negoziazione mancata) col Santuario profanato, dove **Drayan** e sei draconiani bozak smantellano le statue degli dèi malvagi; il puzzle della statua di Takhisis e l'accesso al caveau del tesoro — dove attende lo *specchio dei passati riflessi*, la chiave promessa da Leedara e Cithcillion per affrontare Lord Soth; l'Altare Primordiale e i suoi tre spettri guardiani; la guarnigione draconiana; le stanze laterali con la loro intelligence e il loro bottino; e infine la sala di guerra, dove sei draconiani sivak rivedono i piani per l'assalto finale a Kalaman — piani che includono, disegnati a carboncino su un tavolo, i volti dei personaggi stessi.
@@ -11,23 +11,23 @@
 
 > ⚠️ **Nota pre-sessione — dove ci si ferma, perché, e una correzione di mappatura rispetto alle sessioni precedenti.**
 >
-> Ho letto per intero l'intera sezione dalla riga 5908 fino a oltre riga 6178 (comprendendo "Priests' Quarters" interamente, "Bastion of Takhisis" fino a Lord Soth nella sua sala del trono, "The Citadel's Destruction", e l'apertura di "Dragon Army Rout") prima di decidere dove tagliare questa sessione. Ecco il ragionamento completo.
+> Ho letto per intero l'intera sezione dalla riga 5908 fino a oltre riga 6178 (comprendendo "Priests' Quarters" interamente, "Bastione di Takhisis" fino a Lord Soth nella sua sala del trono, "Distruzione della Cittadella", e l'apertura della "Rotta dell'Armata dei Draghi") prima di decidere dove tagliare questa sessione. Ecco il ragionamento completo.
 >
-> **1. Una correzione doverosa rispetto alla nota di preparazione ricevuta.** Il brief per questa sessione descriveva "Bastion of Takhisis" (righe 6021–6108) come la sezione del "boss finale Kansaldi Fire-Eyes". Dopo lettura integrale, questo non è esatto, ed è meglio dirlo chiaramente ora: "Bastion of Takhisis" (aree S21–S25) è interamente dedicata a **Lord Soth** — la Sala Rovinata con lo spirito di Caradoc, il Santuario di Nuitari, il Mourning Sanctum col braciere del Fuoco Cataclismico e Wersten Kern, e infine la Sala del Trono di Soth stesso, dove lo *specchio dei passati riflessi* trova il proprio impiego. **Kansaldi Fire-Eyes** non compare in questa sezione: la Highmaster emerge solo dopo, nella sezione "Dragon Army Rout" (righe 6165 e oltre), a terra, dopo la caduta della citadella — un vero e proprio secondo climax narrativo, distinto dal confronto con Soth. Questo significa che il "vero scontro finale" della campagna non è uno snodo unico ma **due**: prima Lord Soth (una forza della natura da neutralizzare, non da uccidere — coerente con `campagna/fazioni.md` e `campagna/png-incontrati.md`, che lo trattano esplicitamente come non pensato per il combattimento diretto), poi Kansaldi (il vero boss meccanico, GS16, con arena e azioni leggendarie). Questa correzione non cambia la decisione di taglio qui sotto, ma è essenziale per pianificare correttamente le Sessioni 27 e 28.
+> **1. Una correzione doverosa rispetto alla nota di preparazione ricevuta.** Il brief per questa sessione descriveva "Bastione di Takhisis" (righe 6021–6108) come la sezione del "boss finale Kansaldi Fire-Eyes". Dopo lettura integrale, questo non è esatto, ed è meglio dirlo chiaramente ora: "Bastione di Takhisis" (aree S21–S25) è interamente dedicata a **Lord Soth** — la Sala Rovinata con lo spirito di Caradoc, il Santuario di Nuitari, il Santuario del Lutto col braciere del Fuoco Cataclismico e Wersten Kern, e infine la Sala del Trono di Soth stesso, dove lo *specchio dei passati riflessi* trova il proprio impiego. **Kansaldi Fire-Eyes** non compare in questa sezione: la Gran Maestra emerge solo dopo, nella sezione "Rotta dell'Armata dei Draghi" (righe 6165 e oltre), a terra, dopo la caduta della citadella — un vero e proprio secondo climax narrativo, distinto dal confronto con Soth. Questo significa che il "vero scontro finale" della campagna non è uno snodo unico ma **due**: prima Lord Soth (una forza della natura da neutralizzare, non da uccidere — coerente con `campagna/fazioni.md` e `campagna/png-incontrati.md`, che lo trattano esplicitamente come non pensato per il combattimento diretto), poi Kansaldi (il vero boss meccanico, GS16, con arena e azioni leggendarie). Questa correzione non cambia la decisione di taglio qui sotto, ma è essenziale per pianificare correttamente le Sessioni 27 e 28.
 >
-> **2. Il confine più naturale resta la fine di "Priests' Quarters".** Esattamente come la Sessione 25 si è fermata alla soglia di questa sezione (riga 5907, subito prima di "### Priests' Quarters"), questa sessione si ferma alla sua fine (riga 6020, subito prima di "### Bastion of Takhisis", riga 6021). È lo stesso principio di "fine di blocco tematico" applicato in ogni sessione precedente: i Quartieri dei Sacerdoti sono un'unità narrativa e meccanica coesa — corridoi sorvegliati, la tana di una vampira kender, un santuario profanato con un puzzle e un combattimento, un caveau del tesoro con il MacGuffin che il tavolo insegue da una sessione intera, un altare primordiale con tre spettri, una guarnigione, tre stanze di intelligence/bottino, e una sala di guerra che chiude su un cliffhanger fortissimo (il party scopre di essere stato profilato dal nemico). Interromperla a metà avrebbe rotto un arco compiuto.
+> **2. Il confine più naturale resta la fine di "Priests' Quarters".** Esattamente come la Sessione 25 si è fermata alla soglia di questa sezione (riga 5907, subito prima di "### Priests' Quarters"), questa sessione si ferma alla sua fine (riga 6020, subito prima di "### Bastione di Takhisis", riga 6021). È lo stesso principio di "fine di blocco tematico" applicato in ogni sessione precedente: i Quartieri dei Sacerdoti sono un'unità narrativa e meccanica coesa — corridoi sorvegliati, la tana di una vampira kender, un santuario profanato con un puzzle e un combattimento, un caveau del tesoro con il MacGuffin che il tavolo insegue da una sessione intera, un altare primordiale con tre spettri, una guarnigione, tre stanze di intelligence/bottino, e una sala di guerra che chiude su un cliffhanger fortissimo (il party scopre di essere stato profilato dal nemico). Interromperla a metà avrebbe rotto un arco compiuto.
 >
-> **3. Il vero confronto con Lord Soth merita la propria sessione, non una coda.** Esattamente come ragionato in Sessione 25 per Kansaldi, lo stesso vale qui per Soth: il Bastione di Takhisis contiene la risoluzione di un arco narrativo aperto fin dalla Sessione 01 (Leedara), il pagamento dello *specchio dei passati riflessi* (aperto in Sessione 25), l'incontro con Caradoc e la sua proposta di tradimento, Wersten Kern, e il confronto/paralisi di Soth stesso — più, immediatamente a seguire senza vera pausa narrativa nella fonte, "The Citadel's Destruction" (fuga dalla citadella crollante, Karavarix). È un arco troppo denso e troppo importante per essere accodato in fondo a una sessione già piena di draconiani. Merita l'apertura di una sessione fresca — la Sessione 27.
+> **3. Il vero confronto con Lord Soth merita la propria sessione, non una coda.** Esattamente come ragionato in Sessione 25 per Kansaldi, lo stesso vale qui per Soth: il Bastione di Takhisis contiene la risoluzione di un arco narrativo aperto fin dalla Sessione 01 (Leedara), il pagamento dello *specchio dei passati riflessi* (aperto in Sessione 25), l'incontro con Caradoc e la sua proposta di tradimento, Wersten Kern, e il confronto/paralisi di Soth stesso — più, immediatamente a seguire senza vera pausa narrativa nella fonte, "Distruzione della Cittadella" (fuga dalla citadella crollante, Karavarix). È un arco troppo denso e troppo importante per essere accodato in fondo a una sessione già piena di draconiani. Merita l'apertura di una sessione fresca — la Sessione 27.
 >
-> **4. Perché non fermarsi prima, ad esempio dopo il Santuario (S12–S13)?** L'ho considerato: la scoperta dello specchio in S13 è un momento di chiusura potente, e si potrebbe tagliare lì. Ma la Guarnigione (S15), le stanze di intelligence (S16–S17, S20) e soprattutto la Sala di Guerra (S18) — con la rivelazione che il Dragon Army ha già schizzi dei volti dei personaggi sul tavolo operativo — sono un crescendo che culmina nel miglior cliffhanger possibile per questa sessione: non un semplice "il combattimento continua", ma la rivelazione che il nemico conosce già il party per nome. Tagliare prima di questo momento avrebbe sprecato il miglior gancio della sezione.
+> **4. Perché non fermarsi prima, ad esempio dopo il Santuario (S12–S13)?** L'ho considerato: la scoperta dello specchio in S13 è un momento di chiusura potente, e si potrebbe tagliare lì. Ma la Guarnigione (S15), le stanze di intelligence (S16–S17, S20) e soprattutto la Sala di Guerra (S18) — con la rivelazione che l'Armata dei Draghi ha già schizzi dei volti dei personaggi sul tavolo operativo — sono un crescendo che culmina nel miglior cliffhanger possibile per questa sessione: non un semplice "il combattimento continua", ma la rivelazione che il nemico conosce già il party per nome. Tagliare prima di questo momento avrebbe sprecato il miglior gancio della sezione.
 >
-> **5. Continuità meccanica — nessuna nuova invenzione strutturale.** Questa sessione riutilizza integralmente le schede già stabilite nella campagna: **draconiano bozak** (GS3, Sessione 18, riutilizzato in 20/23), **draconiano kapak** (GS2, Sessione 05, riutilizzato in 18/21/23), **draconiano sivak** (GS2, versione "soldato semplice" di Sessione 13, riutilizzata in 15/18/19/20/21/23/24), **draconiano aurak** (GS6, Sessione 18 — "Captain Hask" — base riusata per **Drayan**, con l'aggiunta dichiarata del Respiro Nocivo esplicitamente richiesto dalla fonte per questo PNG specifico), **cavaliere scheletrico generico** (GS1, Sessione 25, per i due guardiani di S10), e **spettro/wraith** (GS5, Sessione 08 — versione più fedele al Manuale dei Mostri rispetto alla variante di Sessione 12 — per i tre guardiani dell'Altare Primordiale). Nessuna scheda completamente nuova è richiesta in questa sessione: è un'ottima notizia per il ritmo di gioco, perché il tavolo probabilmente riconoscerà già gran parte di questi nemici.
+> **5. Continuità meccanica — nessuna nuova invenzione strutturale.** Questa sessione riutilizza integralmente le schede già stabilite nella campagna: **draconiano bozak** (GS3, Sessione 18, riutilizzato in 20/23), **draconiano kapak** (GS2, Sessione 05, riutilizzato in 18/21/23), **draconiano sivak** (GS2, versione "soldato semplice" di Sessione 13, riutilizzata in 15/18/19/20/21/23/24), **draconiano aurak** (GS6, Sessione 18 — "Capitano Hask" — base riusata per **Drayan**, con l'aggiunta dichiarata del Respiro Nocivo esplicitamente richiesto dalla fonte per questo PNG specifico), **cavaliere scheletrico generico** (GS1, Sessione 25, per i due guardiani di S10), e **spettro/wraith** (GS5, Sessione 08 — versione più fedele al Manuale dei Mostri rispetto alla variante di Sessione 12 — per i tre guardiani dell'Altare Primordiale). Nessuna scheda completamente nuova è richiesta in questa sessione: è un'ottima notizia per il ritmo di gioco, perché il tavolo probabilmente riconoscerà già gran parte di questi nemici.
 >
 > **6. Il carico di combattimento è deliberatamente alto.** Questa sessione contiene, potenzialmente, quattro scontri strutturati (Santuario: Drayan + 6 bozak; Altare Primordiale: 3 spettri; Guarnigione: 4 bozak + 3 kapak; Sala di Guerra: 6 sivak o Drayan + 4 sivak se fuggita) più i due cavalieri scheletrici di guardia in S10. È un carico di XP notevole — coerente con l'essere un livello di dungeon finale, non un compromesso di bilanciamento cercato: se il tuo tavolo preferisce meno combattimento meccanico, considera di trattare la Guarnigione (S15) come opzionale/evitabile con furtività (non è un vero blocco di percorso secondo la fonte), lasciando i tre scontri "da nome" (Drayan, gli spettri, i sivak) come nucleo irrinunciabile della sessione.
 >
 > **7. Nessun uso di *Dragonlance: Warriors of Krynn*.** Non pertinente: nessun mass combat nei Quartieri dei Sacerdoti, solo scontri mirati in spazi chiusi.
 >
-> **Conseguenza pratica:** questa sessione copre l'intero blocco "Priests' Quarters" (righe 5908–6020) e si ferma esattamente al bordo di "Bastion of Takhisis" (riga 6021), lasciando Caradoc, Wersten Kern, il confronto/la paralisi di Lord Soth con lo specchio, la distruzione della citadella, Karavarix, e l'emergere di Kansaldi Fire-Eyes a terra alle **Sessioni 27 e 28**.
+> **Conseguenza pratica:** questa sessione copre l'intero blocco "Priests' Quarters" (righe 5908–6020) e si ferma esattamente al bordo del "Bastione di Takhisis" (riga 6021), lasciando Caradoc, Wersten Kern, il confronto/la paralisi di Lord Soth con lo specchio, la distruzione della citadella, Karavarix, e l'emergere di Kansaldi Fire-Eyes a terra alle **Sessioni 27 e 28**.
 
 ---
 
@@ -54,7 +54,7 @@ I corridoi di questo livello (raffigurati sulla *mappa 7.2*) sono sorvegliati da
 
 *[NOTA DM — riservata] **I cavalieri scheletrici notano l'arrivo dei personaggi da S3.** Questo significa che, salvo furtività eccezionale, il party non ha sorpresa disponibile in questo primo scontro: i guardiani sanno già che qualcuno sta salendo. Se il tavolo desidera un approccio più silenzioso, considera una prova di **Destrezza (Furtività) di gruppo CD 15** per attraversare i corridoi senza allertarli — ma i due cavalieri restano comunque a guardia della porta del Santuario (S12), quindi un combattimento con loro è probabile prima o poi in questa fase, o rimandato all'ingresso in S12 stesso.*
 
-### Stat Block — Cavaliere Scheletrico (×2) · GS 1 · 200 XP cad. *(scheda identica alla Sessione 25 — vedi anche Knight Sarlamir, GS6, Sessione 08, che resta distinto e più potente)*
+### Stat Block — Cavaliere Scheletrico (×2) · GS 1 · 200 XP cad. *(scheda identica alla Sessione 25 — vedi anche Cavaliere Sarlamir, GS6, Sessione 08, che resta distinto e più potente)*
 
 ```
 CAVALIERE SCHELETRICO — non-morto Medio, legale malvagio
@@ -107,7 +107,7 @@ Lorry chiacchiera a lungo e alla fine fornisce le seguenti informazioni, solo al
 
 *[NOTA DM — riservata] **Il cavaliere della rosa nera** a cui Lorry accenna è **Lord Soth** (il suo stemma è una rosa nera bruciata, vedi la descrizione di S25 nella Sessione 27). Non è necessario spiegarlo ora — è un piccolo presagio per il confronto che verrà.*
 
-*[NOTA DM — riservata] **Caradoc** è materiale della Sessione 27 (Bastion of Takhisis, S21–S22) — non compare fisicamente in questa sessione. La menzione di Lorry è puro seeding narrativo, coerente con la fonte.*
+*[NOTA DM — riservata] **Caradoc** è materiale della Sessione 27 (Bastione di Takhisis, S21–S22) — non compare fisicamente in questa sessione. La menzione di Lorry è puro seeding narrativo, coerente con la fonte.*
 
 ***Tesoro.*** Lo zaino di Lorry è infilato nell'angolo della stanza. Tra i suoi averi: una *pozione di forma gassosa*, un *anello di immagazzinamento incantesimi* con un incantesimo *sembianze* (CD tiro salvezza 16) immagazzinato al suo interno, e un fantoccio da ventriloquo con una pronunciata attaccatura a "vedova" e un mantello di raso rosso. Lorry diventa ostile se i personaggi provano a prendere questi oggetti senza il suo permesso.
 
@@ -126,7 +126,7 @@ Lorry chiacchiera a lungo e alla fine fornisce le seguenti informazioni, solo al
 
 ### Testo — Gli Affreschi in Rovina [BT-02]
 
-> Affreschi in frantumi corrono lungo le pareti di questo santuario cadente. Una statua di sei metri della Regina Drago domina l'estremità occidentale della stanza, con statue più piccole disposte dietro di essa.
+> Affreschi in frantumi corrono lungo le pareti di questo santuario cadente. Una statua di sei metri della Regina dei Draghi domina l'estremità occidentale della stanza, con statue più piccole disposte dietro di essa.
 
 *[Aggiunta atmosferica]:*
 > *Anche in rovina, la statua di Takhisis incute un rispetto quasi fisico — le cinque teste scolpite sembrano seguire ogni movimento nella stanza, anche se è pietra immobile da secoli. Le figure più piccole dietro di lei, invece, sono già state colpite: crepe fresche, scheggiature nette, il lavoro metodico di chi le sta demolendo un pezzo alla volta.*
@@ -151,7 +151,7 @@ Linguaggi Comune, Draconico
 CR 2 (450 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+Spasmi di Morte. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
 all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
 CD 10 o subisce 9 (2d8) danni da FORZA.
 —
@@ -171,7 +171,7 @@ Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
   1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
-### Stat Block — Drayan (Draconiano Aurak) · CR 6 · 2.300 XP *(base identica a "Captain Hask", Sessione 18/20/24 — aggiunto il Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico e non presente nella scheda generica dell'aurak; ricostruzione DM dichiarata per assenza di appendix B in questo estratto)*
+### Stat Block — Drayan (Draconiano Aurak) · CR 6 · 2.300 XP *(base identica a "Capitano Hask", Sessione 18/20/24 — aggiunto il Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico e non presente nella scheda generica dell'aurak; ricostruzione DM dichiarata per assenza di appendix B in questo estratto)*
 
 ```
 DRAYAN — draconiana AURAK (boss con nome)
@@ -194,7 +194,7 @@ evitare o terminare su di sé la condizione Spaventato.
   [Con 4-6 bozak attorno, questo tratto è la ragione per cui vanno tolti di
    mezzo i suoi scagnozzi o va tolta di mezzo lei per prima.]
 —
-Death Throes. Quando Drayan è ridotta a 0 PF, la sua essenza magica esplode in una
+Spasmi di Morte. Quando Drayan è ridotta a 0 PF, la sua essenza magica esplode in una
 sfera di fulmine contro la creatura più vicina entro 9 m, poi rimbalza su fino ad
 altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza CD 14.
 Fallimento: 9 (2d8) danni da fulmine e STORDITO fino alla fine del proprio turno
@@ -210,7 +210,7 @@ Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
   1 livello di SFINIMENTO. Successo: metà danni, nessuno sfinimento, e immunità
   al Respiro Nocivo di qualsiasi draconiano per 24 ore.
 Incantesimi (Carisma, CD tiro salvezza 14, nessuna componente materiale):
-  A volontà: invisibility, mage hand
+  A volontà: invisibility, mago hand
   2/giorno ciascuno: dimension door, disguise self, sending
   1/giorno: dominate person
   [**La fuga verso S18 usa `dimension door`, che è nella lista ufficiale**:
@@ -223,7 +223,7 @@ Incantesimi (Carisma, CD tiro salvezza 14, nessuna componente materiale):
 - *Il **Respiro Nocivo non era un'invenzione**: l'aurak ce l'ha davvero. La fonte, più avanti (area S18), dice che "Drayan ha preparato un'azione per usare il proprio Respiro Nocivo non appena vede un personaggio a portata" — ed era coerente. Ora usa la versione ufficiale: cono 4,5 m, TS Cos CD 14, 21 (6d6) veleno e **1 livello di sfinimento**, che è ben più cattivo dell'avvelenamento ricostruito.*
 - *La **fuga verso S18 usa `dimension door`**, che è nella sua lista di incantesimi ufficiale (2/giorno). Il tratto inventato "Portale Dimensionale" non serve più.*
 
-*Sono invece spariti "Sguardo Dominante" e "Morte Corrosiva", che non esistono: al loro posto ci sono l'**Aura di Comando** (fa da scudo psicologico ai bozak che la accompagnano — toglierla di mezzo per prima cambia lo scontro) e le **Death Throes a fulmine**, che possono stordire tre personaggi mentre muore.*
+*Sono invece spariti "Sguardo Dominante" e "Morte Corrosiva", che non esistono: al loro posto ci sono l'**Aura di Comando** (fa da scudo psicologico ai bozak che la accompagnano — toglierla di mezzo per prima cambia lo scontro) e le **Spasmi di Morte (Death Throes) a fulmine**, che possono stordire tre personaggi mentre muore.*
 
 ***Usa questa scheda per ogni futura apparizione di Drayan**, inclusa la fuga verso S18 in questa stessa sessione.*
 
@@ -275,11 +275,11 @@ Questo è il caveau del tesoro del tempio, dove venivano custodite le offerte e 
 *[Aggiunta atmosferica]:*
 > *Non è un altare che chiede preghiere. È un altare che aspetta, con la pazienza di qualcosa che esiste al di fuori del tempo dei mortali. I colori nella pietra pulsano appena, come un battito troppo lento per essere umano.*
 
-Questa camera ospita un altare primordiale a Takhisis, un punto di cedimento nel tessuto dei piani dove la volontà della Regina Drago sanguina in Krynn. La camera è terreno desacrato che concede a non-morti, demoni e adoratori di Takhisis vantaggio ai tiri per colpire.
+Questa camera ospita un altare primordiale a Takhisis, un punto di cedimento nel tessuto dei piani dove la volontà della Regina dei Draghi sanguina in Krynn. La camera è terreno desacrato che concede a non-morti, demoni e adoratori di Takhisis vantaggio ai tiri per colpire.
 
-***Altare.*** Il primo personaggio che tocca l'altare primordiale rimane stordito fino all'inizio del proprio turno successivo. Durante quel tempo, la sua mente si riempie di visioni terrificanti: le teste draconiche di Takhisis che strillano trionfanti, gli Eserciti del Drago che marciano sul volto di Ansalon, un tempio oscuro che si erge da un terreno spezzato. Il personaggio ottiene l'incanto **Volontà della Regina Drago** (un tipo di *dono soprannaturale* dettagliato nella *Guida del Dungeon Master*; vedi sotto).
+***Altare.*** Il primo personaggio che tocca l'altare primordiale rimane stordito fino all'inizio del proprio turno successivo. Durante quel tempo, la sua mente si riempie di visioni terrificanti: le teste draconiche di Takhisis che strillano trionfanti, le Armate dei Draghi che marciano sul volto di Ansalon, un tempio oscuro che si erge da un terreno spezzato. Il personaggio ottiene l'incanto **Volontà della Regina dei Draghi** (un tipo di *dono soprannaturale* dettagliato nella *Guida del Dungeon Master*; vedi sotto).
 
-*[NOTA DM — riservata] **"Volontà della Regina Drago" — ricostruzione necessaria.** La *Guida del Dungeon Master* non è disponibile in questo estratto testuale, quindi il meccanismo esatto del "dono soprannaturale" non è verificabile. `[TODO DM: verificare le regole esatte dei doni soprannaturali su DMG quando disponibile]`. In assenza del testo esatto, tratta questo incanto come **puramente narrativo per ora**, senza penalità o bonus meccanici imposti: il personaggio toccato porta con sé un legame sottile con la volontà di Takhisis — sogni ricorrenti, un'attrazione inspiegabile verso la violenza o il controllo, un momento di esitazione quando gli viene chiesto di agire contro gli interessi della Regina Drago. Se preferisci una versione meccanica leggera, considera: una volta per riposo lungo, il personaggio può ottenere vantaggio a una prova di Intimidazione o Carisma quando invoca (consapevolmente o meno) l'autorità di Takhisis — ma il DM decide se e quando concederlo, e il dono non deve mai sembrare un vantaggio gratuito senza contropartita narrativa.*
+*[NOTA DM — riservata] **"Volontà della Regina dei Draghi" — ricostruzione necessaria.** La *Guida del Dungeon Master* non è disponibile in questo estratto testuale, quindi il meccanismo esatto del "dono soprannaturale" non è verificabile. `[TODO DM: verificare le regole esatte dei doni soprannaturali su DMG quando disponibile]`. In assenza del testo esatto, tratta questo incanto come **puramente narrativo per ora**, senza penalità o bonus meccanici imposti: il personaggio toccato porta con sé un legame sottile con la volontà di Takhisis — sogni ricorrenti, un'attrazione inspiegabile verso la violenza o il controllo, un momento di esitazione quando gli viene chiesto di agire contro gli interessi della Regina dei Draghi. Se preferisci una versione meccanica leggera, considera: una volta per riposo lungo, il personaggio può ottenere vantaggio a una prova di Intimidazione o Carisma quando invoca (consapevolmente o meno) l'autorità di Takhisis — ma il DM decide se e quando concederlo, e il dono non deve mai sembrare un vantaggio gratuito senza contropartita narrativa.*
 
 ***Creature.*** Non appena una creatura tocca l'altare, **tre spettri** emergono e attaccano.
 
@@ -303,7 +303,7 @@ Multiattacco. Lo spettro effettua due attacchi con Assorbimento Vitale.
 Assorbimento Vitale. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 m. Colpito: 21 (4d8+3) danni necrotici; il bersaglio deve superare un TS Costituzione CD 15 o il proprio PF massimo si riduce di un ammontare pari al danno subito (fino al termine di un riposo lungo), e lo spettro recupera PF pari al danno inflitto. Se questo effetto riduce il PF massimo del bersaglio a 0, il bersaglio muore.
 ```
 
-*[NOTA DM — riservata] **Un incontro punitivo per la curiosità.** Toccare l'altare è opzionale — nulla nella fonte obbliga i personaggi a farlo. Se il tavolo è cauto, questa stanza può essere semplicemente ammirata ed evitata, saltando sia il dono soprannaturale sia lo scontro con i tre spettri. Se qualcuno tocca l'altare per curiosità o per fede (specialmente un PG del preludio Broken Silence, vedi Hook PG più sotto), gioca la conseguenza con serietà: tre spettri a GS5 ciascuno sono uno scontro reale a Livello 11, non uno scherzo.*
+*[NOTA DM — riservata] **Un incontro punitivo per la curiosità.** Toccare l'altare è opzionale — nulla nella fonte obbliga i personaggi a farlo. Se il tavolo è cauto, questa stanza può essere semplicemente ammirata ed evitata, saltando sia il dono soprannaturale sia lo scontro con i tre spettri. Se qualcuno tocca l'altare per curiosità o per fede (specialmente un PG del preludio Silenzio Infranto (Broken Silence), vedi Hook PG più sotto), gioca la conseguenza con serietà: tre spettri a GS5 ciascuno sono uno scontro reale a Livello 11, non uno scherzo.*
 
 ---
 
@@ -321,7 +321,7 @@ Assorbimento Vitale. Attacco con incantesimo in mischia: +6 al colpire, portata 
 > Brande semplici e rastrelliere per equipaggiamento riempiono questa stanza. Alcuni tavoli sono ingombri dei resti di pasti passati.
 
 *[Aggiunta atmosferica]:*
-> *Non c'è nulla di cerimoniale in questa stanza — è puro alloggiamento militare, disciplinato fino alla noia. I resti di cibo sulle tavole sono l'unico segno che le creature che vivono qui hanno ancora bisogno di mangiare, anche se a malapena assomigliano più a ciò che erano prima della corruzione della Regina Drago.*
+> *Non c'è nulla di cerimoniale in questa stanza — è puro alloggiamento militare, disciplinato fino alla noia. I resti di cibo sulle tavole sono l'unico segno che le creature che vivono qui hanno ancora bisogno di mangiare, anche se a malapena assomigliano più a ciò che erano prima della corruzione della Regina dei Draghi.*
 
 Questa guarnigione è occupata da **quattro draconiani bozak** e **tre draconiani kapak**.
 
@@ -342,7 +342,7 @@ Sensi scurovisione 18 m, Percezione passiva 12   Linguaggi Comune, Draconico
 —
 Planata (Glide). Come il baaz — non subisce danno da caduta e può planare orizzontalmente.
 Saliva Velenosa. Prima o durante il combattimento, il kapak può leccare le proprie lame come azione bonus, rivestendole di veleno: il primo attacco in arma che va a segno infligge +7 (2d6) danni da veleno e il bersaglio deve superare un TS Costituzione CD 12 o essere avvelenato per 1 minuto.
-Dissoluzione Acida (Death Throes). Quando il kapak scende a 0 PF, il corpo si liquefa in una pozza d'acido. Ogni creatura entro 1,5 m: TS Destrezza CD 12 o 7 (2d6) danni da acido (metà con successo).
+Dissoluzione Acida (Spasmi di Morte). Quando il kapak scende a 0 PF, il corpo si liquefa in una pozza d'acido. Ogni creatura entro 1,5 m: TS Destrezza CD 12 o 7 (2d6) danni da acido (metà con successo).
 —
 AZIONI
 Multiattacco. Il kapak effettua due attacchi con la scimitarra.
@@ -368,9 +368,9 @@ Balestra Leggera. Attacco a distanza con arma: +4 al colpire, gittata 24/96 m. C
 > Una vecchia scrivania si trova in questo studio. Una delle sue gambe manca ed è stata sostituita con blocchi di macerie.
 
 *[Aggiunta atmosferica]:*
-> *Qualcuno ha continuato a usare questa scrivania anche dopo il crollo — un piccolo gesto di ostinazione burocratica in mezzo al collasso generale. Il Dragon Army, a quanto pare, tiene comunque la contabilità.*
+> *Qualcuno ha continuato a usare questa scrivania anche dopo il crollo — un piccolo gesto di ostinazione burocratica in mezzo al collasso generale. L'Armata dei Draghi, a quanto pare, tiene comunque la contabilità.*
 
-Il cassetto superiore della scrivania contiene rapporti del Dragon Army su truppe e rifornimenti sulla superficie dell'isola volante, oltre a una *pergamena d'incantesimo* di *occhio arcano*.
+Il cassetto superiore della scrivania contiene rapporti dell'Armata dei Draghi su truppe e rifornimenti sulla superficie dell'isola volante, oltre a una *pergamena d'incantesimo* di *occhio arcano*.
 
 ---
 
@@ -409,7 +409,7 @@ I servitori di **Lord Soth** usano questa stanza per stipare cianfrusaglie. Gran
 
 ## FASE 6 — La Sala di Guerra Draconiana e le Celle Vuote (S18–S19)
 
-*~30 minuti · Il combattimento coi sei sivak, la scoperta che il Dragon Army conosce già i personaggi, la chiusura sulla soglia del Bastione*
+*~30 minuti · Il combattimento coi sei sivak, la scoperta che l'Armata dei Draghi conosce già i personaggi, la chiusura sulla soglia del Bastione*
 
 ### S18 — La Sala di Guerra Draconiana
 
@@ -420,9 +420,9 @@ I servitori di **Lord Soth** usano questa stanza per stipare cianfrusaglie. Gran
 *[Aggiunta atmosferica]:*
 > *Il tratto della mappa è impreciso ma funzionale — non l'opera di un cartografo, ma di qualcuno abituato a disegnare in fretta per gente che deve solo capire dove attaccare. È il tipo di documento che non lascia dubbi sulle intenzioni di chi lo ha prodotto.*
 
-**Sei draconiani sivak** sono qui a rivedere il piano di battaglia per l'assalto a Kalaman. Sul tavolo davanti a loro si trovano schizzi grezzi della leadership di Kalaman, tra cui il **Marshal Vendri**, **Darrett**, e — **i personaggi stessi**.
+**Sei draconiani sivak** sono qui a rivedere il piano di battaglia per l'assalto a Kalaman. Sul tavolo davanti a loro si trovano schizzi grezzi della leadership di Kalaman, tra cui il **Maresciallo Vendri**, **Darrett**, e — **i personaggi stessi**.
 
-*[NOTA DM — riservata] **Il vero cliffhanger della sessione.** Questo è probabilmente il momento più inquietante di tutta la Sessione 26: il Dragon Army non solo conosce l'esistenza dei personaggi, ma li ha già disegnati, profilati, inclusi in un piano d'assalto contro Kalaman — la stessa città che difendono da sessioni. Non è necessario spiegare esattamente come i draconiani abbiano ottenuto queste informazioni (la fonte non lo specifica); lascialo come un presagio inquietante, non un puzzle da risolvere subito. Se un personaggio recupera gli schizzi, considera di descriverli con dettagli specifici e riconoscibili — un'arma caratteristica, una cicatrice, un modo di stare in piedi — abbastanza per essere inequivocabilmente loro, non generici "avventurieri".*
+*[NOTA DM — riservata] **Il vero cliffhanger della sessione.** Questo è probabilmente il momento più inquietante di tutta la Sessione 26: l'Armata dei Draghi non solo conosce l'esistenza dei personaggi, ma li ha già disegnati, profilati, inclusi in un piano d'assalto contro Kalaman — la stessa città che difendono da sessioni. Non è necessario spiegare esattamente come i draconiani abbiano ottenuto queste informazioni (la fonte non lo specifica); lascialo come un presagio inquietante, non un puzzle da risolvere subito. Se un personaggio recupera gli schizzi, considera di descriverli con dettagli specifici e riconoscibili — un'arma caratteristica, una cicatrice, un modo di stare in piedi — abbastanza per essere inequivocabilmente loro, non generici "avventurieri".*
 
 Uno dei sivak ha una chiave delle celle nell'area S19.
 
@@ -442,7 +442,7 @@ Linguaggi Comune, Draconico
 CR 4 (1.100 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+Spasmi di Morte. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
 piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
 URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
 sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
@@ -492,9 +492,9 @@ Con la sala di guerra ripulita (o elusa) e le celle vuote esplorate, i personagg
 
 | Preludio | Hook in Sessione 26 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | L'Altare Primordiale (FASE 3) è la prova più diretta e fisica dell'intera campagna del potere grezzo di Takhisis — non un'offerta ambigua come quella di Chemosh in Sessione 25, ma un vero e proprio punto di cedimento planare verso la Dragon Queen. Se questo PG sceglie di toccare l'altare (o viene spinto a farlo da curiosità o da un momento di debolezza), il "dono soprannaturale" che riceve è un'occasione potente per esplorare cosa significhi essere toccati, anche solo per un istante, dalla volontà del male assoluto che il proprio dio combatte. Non è necessario che sia traumatico — può anche essere un momento di resistenza silenziosa, la prova che la propria fede regge anche a contatto diretto con l'opposto. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Lo *specchio dei passati riflessi* (S13) è finalmente nelle mani del party — con **Intelligenza (Arcano) CD 15**, questo PG riconosce che la sua manifattura non assomiglia a nulla del repertorio arcano del Dragon Army: è magia elfica pre-Cataclisma, della stessa "grana" degli specchi funerari incontrati in Sessione 25 (S7-S9). È la conferma diretta dell'ipotesi avanzata due sessioni fa. Inoltre, l'*anello di immagazzinamento incantesimi* di Lorry (FASE 1) con un incantesimo *sembianze* già caricato è un oggetto che potrebbe interessare particolarmente un incantatore — se Lorry viene trattata con rispetto, potrebbe persino essere disposta a discuterne il funzionamento per pura noia sociale. |
-| **Scales of War** (tutti) | Drayan (FASE 2) e i draconiani della guarnigione (FASE 4) sono, ancora una volta, creature corrotte create dalla Regina Drago per servire — ma la Sala di Guerra (FASE 6) introduce un contrappunto diverso: i sivak che pianificano l'assalto a Kalaman non sono vittime confuse, sono soldati che eseguono un piano con lucidità e disciplina. Lascia che un PG di questo preludio noti esplicitamente la differenza rispetto ai draconiani "di base" incontrati nei capitoli iniziali — l'esercito del Dragon Army è cresciuto in sofisticazione tanto quanto il party è cresciuto in potere. |
+| **Silenzio Infranto** (PG con connessione divina) | L'Altare Primordiale (FASE 3) è la prova più diretta e fisica dell'intera campagna del potere grezzo di Takhisis — non un'offerta ambigua come quella di Chemosh in Sessione 25, ma un vero e proprio punto di cedimento planare verso la Regina dei Draghi. Se questo PG sceglie di toccare l'altare (o viene spinto a farlo da curiosità o da un momento di debolezza), il "dono soprannaturale" che riceve è un'occasione potente per esplorare cosa significhi essere toccati, anche solo per un istante, dalla volontà del male assoluto che il proprio dio combatte. Non è necessario che sia traumatico — può anche essere un momento di resistenza silenziosa, la prova che la propria fede regge anche a contatto diretto con l'opposto. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Lo *specchio dei passati riflessi* (S13) è finalmente nelle mani del party — con **Intelligenza (Arcano) CD 15**, questo PG riconosce che la sua manifattura non assomiglia a nulla del repertorio arcano dell'Armata dei Draghi: è magia elfica pre-Cataclisma, della stessa "grana" degli specchi funerari incontrati in Sessione 25 (S7-S9). È la conferma diretta dell'ipotesi avanzata due sessioni fa. Inoltre, l'*anello di immagazzinamento incantesimi* di Lorry (FASE 1) con un incantesimo *sembianze* già caricato è un oggetto che potrebbe interessare particolarmente un incantatore — se Lorry viene trattata con rispetto, potrebbe persino essere disposta a discuterne il funzionamento per pura noia sociale. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Drayan (FASE 2) e i draconiani della guarnigione (FASE 4) sono, ancora una volta, creature corrotte create dalla Regina dei Draghi per servire — ma la Sala di Guerra (FASE 6) introduce un contrappunto diverso: i sivak che pianificano l'assalto a Kalaman non sono vittime confuse, sono soldati che eseguono un piano con lucidità e disciplina. Lascia che un PG di questo preludio noti esplicitamente la differenza rispetto ai draconiani "di base" incontrati nei capitoli iniziali — l'esercito dell'Armata dei Draghi è cresciuto in sofisticazione tanto quanto il party è cresciuto in potere. |
 | **Tutti** | La scoperta degli schizzi dei personaggi stessi sul tavolo della Sala di Guerra (FASE 6) è un momento di spotlight collettivo che non richiede abilità specifiche di nessun PG — è semplicemente il momento in cui il gruppo realizza di essere diventato, agli occhi del nemico, un bersaglio nominato e studiato. Lascia che ogni giocatore reagisca a modo suo: rabbia, orgoglio oscuro, inquietudine. È un buon momento per un giro di tavolo veloce ("cosa pensi vedendo il tuo volto disegnato lì?"), senza dover risolvere nulla meccanicamente. |
 
 ---
@@ -505,7 +505,7 @@ Con la sala di guerra ripulita (o elusa) e le celle vuote esplorate, i personagg
 
 **Missioni secondarie: nessun hook da integrare.** Verificati di nuovo `campagna/missioni-secondarie.md` e `campagna/fazioni.md`. Entrambi i file confermano esplicitamente che questa campagna **non prevede missioni secondarie strutturate**:
 
-- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza ai Dragon Armies." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
+- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza alle Armate dei Draghi." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
 - `campagna/fazioni.md`: "Nessuna fazione del party ha **missioni secondarie strutturate** — questa campagna è lineare."
 
 Coerente con tutte le Sessioni 04–25 precedenti. Non essendoci missioni in stato `In corso` o `Pianificata` per il livello attuale del party (Livello 11, livello finale), lo Step 4 è saltato per intero. Il contenuto principale della sessione resta invariato.
@@ -516,8 +516,8 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 |--------|---------------------------|--------------|-------|------------------|
 | Lo specchio dei passati riflessi — ora in possesso del party | FASE 3 (S13) — il MacGuffin promesso da Leedara e Cithcillion in Sessione 25 | Tutti | Risolto (recuperato) — pronto per l'uso contro Lord Soth in Sessione 27 | Fonte righe 5962-5967; meccanica di paralisi contro Soth in righe 6107 (Sessione 27) |
 | Il patto con Alstare Bellis — compimento | FASE 2 (S12) — Drayan e i draconiani del piano superiore affrontati | Tutti, se il patto fu accettato in Sessione 25 | Attivo/da chiudere — il party può tornare da Alstare con prove per ottenere l'accesso assistito al caveau (già ottenuto autonomamente in questa sessione tramite il puzzle della statua) | Fonte righe 5900-5904 (Sessione 25) |
-| Gli schizzi dei personaggi nella Sala di Guerra | FASE 6 (S18) — il Dragon Army ha già profilato il party | Tutti | Aperto — presagio inquietante, nessuna risoluzione meccanica richiesta | Fonte riga 6006 |
-| Caradoc, lo spettro cospiratore | Menzionato da Lorry Wanwillow (FASE 1, S11) | Tutti | Aperto — apparizione fisica in Sessione 27 (Bastion of Takhisis, S21-S22) | Fonte righe 5938, 6039-6060 |
+| Gli schizzi dei personaggi nella Sala di Guerra | FASE 6 (S18) — l'Armata dei Draghi ha già profilato il party | Tutti | Aperto — presagio inquietante, nessuna risoluzione meccanica richiesta | Fonte riga 6006 |
+| Caradoc, lo spettro cospiratore | Menzionato da Lorry Wanwillow (FASE 1, S11) | Tutti | Aperto — apparizione fisica in Sessione 27 (Bastione di Takhisis, S21-S22) | Fonte righe 5938, 6039-6060 |
 | Wersten Kern, l'alfiere non-morta di Soth | Non ancora incontrata — thread di riferimento per Sessione 27 | Tutti | Futuro — Sessione 27 | Fonte righe 6064-6073 |
 | Il countdown delle tre ore verso Kalaman | Stabilito in Sessione 24, ancora attivo | Tutti | Attivo — da tenere sullo sfondo, non forzare | `campagna/sessioni/dm-notes-sessione-24.md` |
 | Correzione di mappatura Kansaldi/Bastione | Nota pre-sessione di questa sessione | — | Informativo — rilevante per la preparazione delle Sessioni 27 e 28 | Vedi Nota pre-sessione sopra |
@@ -548,7 +548,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 | 6 | FASE 4 | S15 — Guarnigione Draconiana | 4× draconiano bozak (GS3) + 3× draconiano kapak (GS2) | Evitabile con furtività (stanza laterale) |
 | 7 | FASE 6 | S18 — Sala di Guerra | 6× draconiano sivak (GS2), o 4× se Drayan presente | Cliffhanger: schizzi del party sul tavolo operativo |
 
-**Nota generale sulle schede creature:** questa sessione **non introduce nessuna scheda completamente nuova**. Il **cavaliere scheletrico** riutilizza identica la scheda di Sessione 25; il **draconiano bozak** riutilizza identica la scheda di Sessione 18 (già ripresa in 20/23); il **draconiano kapak** riutilizza identica la scheda di Sessione 05 (già ripresa in 18/21/23); il **draconiano sivak** riutilizza identica la scheda "grunt" di Sessione 13 (già ripresa in 15/18/19/20/21/23/24); lo **spettro** riutilizza identica la scheda (più fedele al Manuale dei Mostri) di Sessione 08; **Drayan** riutilizza la base dell'**aurak** di Sessione 18 ("Captain Hask"), con l'aggiunta dichiarata e circoscritta del Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico.
+**Nota generale sulle schede creature:** questa sessione **non introduce nessuna scheda completamente nuova**. Il **cavaliere scheletrico** riutilizza identica la scheda di Sessione 25; il **draconiano bozak** riutilizza identica la scheda di Sessione 18 (già ripresa in 20/23); il **draconiano kapak** riutilizza identica la scheda di Sessione 05 (già ripresa in 18/21/23); il **draconiano sivak** riutilizza identica la scheda "grunt" di Sessione 13 (già ripresa in 15/18/19/20/21/23/24); lo **spettro** riutilizza identica la scheda (più fedele al Manuale dei Mostri) di Sessione 08; **Drayan** riutilizza la base dell'**aurak** di Sessione 18 ("Capitano Hask"), con l'aggiunta dichiarata e circoscritta del Respiro Nocivo, esplicitamente richiesto dalla fonte per questo PNG specifico.
 
 ---
 
@@ -557,14 +557,14 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 *Verificati parola per parola contro `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md`, righe 5908–6020. Nessuna omissione trovata rispetto all'originale inglese: tutti i dettagli chiave (dimensioni, direzioni, oggetti, azioni dei PNG) sono presenti nella versione italiana. Questa sessione contiene **nove** testi boxed.*
 
 - **BT-01 (S11):** "Rubble and Ruin" (dialogo di Lorry) — "So, who are you then?..." — l'unico paragrafo marcato `>>` in quest'area; la descrizione della stanza che lo precede è prosa normale nella fonte, non testo boxed, e resta perciò fuori da questo elenco. Dettagli preservati integralmente.
-- **BT-02 (S12):** "Sanctuary" (apertura) — affreschi in frantumi, statua di sei metri della Regina Drago, statue più piccole disposte dietro. Dettagli preservati integralmente.
+- **BT-02 (S12):** "Sanctuary" (apertura) — affreschi in frantumi, statua di sei metri della Regina dei Draghi, statue più piccole disposte dietro. Dettagli preservati integralmente.
 - **BT-03 (S13):** "Treasure Vault" (apertura) — monete e oggetti di valore sparsi, specchio con pannello di vetro nero intatto. Dettagli preservati integralmente.
 - **BT-04 (S14):** "Primordial Altar" (apertura) — caverna di pietra scura, altare di ossidiana levigato a specchio, bande di colore (blu, verde, bianco, rosso). Dettagli preservati integralmente.
 - **BT-05 (S15):** "Draconian Garrison" (apertura) — brande semplici, rastrelliere per equipaggiamento, tavoli con resti di pasti. Dettagli preservati integralmente.
 - **BT-06 (S16):** "Study" (apertura) — vecchia scrivania, gamba mancante sostituita con macerie. Dettagli preservati integralmente.
 - **BT-07 (S17):** "Library" (apertura) — scaffali crollati, libri con rilegature deteriorate. Dettagli preservati integralmente.
 - **BT-08 (S20):** "Storeroom" (apertura) — macerie, terraglie, doccioni spezzati, dipinto di tramonto, busto di bronzo con cappello piumato. Dettagli preservati integralmente.
-- **BT-09 (S18):** "Draconian War Room" (apertura) — tavolo grande, mappa del Nightlund, documenti e pezzi di carta. Dettagli preservati integralmente.
+- **BT-09 (S18):** "Sala di Guerra Draconica" (apertura) — tavolo grande, mappa del Nightlund, documenti e pezzi di carta. Dettagli preservati integralmente.
 
 Tutti e nove i testi boxed effettivamente marcati `>>` nella fonte (righe 5908–6020) sono stati tradotti, verificati per completezza informativa, ed espansi con aggiunta atmosferica separata secondo le regole della campagna. La descrizione di apertura di S11 (Rubble and Ruin) è stata correttamente trattata come prosa del DM, non come blockquote, poiché non preceduta da `>>` nell'originale — unica eccezione di questo tipo nella sessione. **Nessuna correzione di contenuto necessaria in questa categoria.**
 
@@ -617,13 +617,13 @@ Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — nessun cambio di livello (resta 11); registra gli XP di combattimento assegnati (variabile in base agli incontri opzionali) — `[TODO DM: verificare]` il file resta comunque a placeholder Livello 1/TBD finché la campagna non viene giocata realmente
 - [ ] `campagna/png-incontrati.md` — **aggiungi Lorry Wanwillow** (vampira kender, 0 Neutrale), **aggiungi Drayan** (draconiana aurak, -3 Ostile), aggiorna **Alstare Bellis** se il patto è stato completato in questa sessione
-- [ ] `campagna/rapporti.md` — completa "Capitolo 06 (Siege of Kalaman — Cap 7 libro)" con l'incontro con Lorry Wanwillow, l'esito dello scontro con Drayan, e il recupero dello specchio dei passati riflessi
+- [ ] `campagna/rapporti.md` — completa "Capitolo 06 (Assedio di Kalaman — Cap 7 libro)" con l'incontro con Lorry Wanwillow, l'esito dello scontro con Drayan, e il recupero dello specchio dei passati riflessi
 - [ ] `campagna/fazioni.md` — nessun cambiamento nella posizione delle fazioni principali; considera se il completamento del patto con Alstare Bellis merita una nota come alleato tattico temporaneo
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — nessun aggiornamento al Capitolo corrente (resta **7** — nessuna transizione, vedi ⏭ Step 6.5 sotto)
 - [ ] `campagna/sessioni/recaps/recap-sessione-26.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
 - [ ] `/aggiorna-locations 26` — esegui dopo la sessione (Quartieri dei Sacerdoti, Santuario, Caveau del Tesoro, Altare Primordiale, Sala di Guerra aggiornati)
-- [ ] `/prep-sessione 27` — prepara la prossima: **"Bastion of Takhisis"** (riga 6021 in poi) — Caradoc e la sua proposta di tradimento, Wersten Kern, il confronto (e la paralisi) di Lord Soth con lo specchio dei passati riflessi, la distruzione della citadella e Karavarix
+- [ ] `/prep-sessione 27` — prepara la prossima: **"Bastione di Takhisis"** (riga 6021 in poi) — Caradoc e la sua proposta di tradimento, Wersten Kern, il confronto (e la paralisi) di Lord Soth con lo specchio dei passati riflessi, la distruzione della citadella e Karavarix
 
 ---
 
@@ -632,7 +632,7 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Intero documento | Verificata la struttura completa contro il template di `dm-notes-sessione-01.md` e contro `dm-notes-sessione-25.md`: header a campi singoli, 🎬 SETUP INIZIALE, FASI numerate con durata stimata, Hook PG, Thread Narrativi, Sezioni Opzionali, Indice Encounter, Testi Boxed, RECAP POST-SESSIONE, POST-SESSION CHECKLIST, REVISION LOG — tutte le sezioni presenti |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Aggiunta nota pre-sessione dettagliata (stile Sessioni 08/17/24/25) che giustifica il confine di taglio a fine "Priests' Quarters" (riga 6020), e che **corregge esplicitamente** un'imprecisione nel brief ricevuto: "Bastion of Takhisis" (righe 6021-6108) è la sezione di Lord Soth, non di Kansaldi Fire-Eyes, che compare invece dopo, in "Dragon Army Rout" (riga 6165+) |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Aggiunta nota pre-sessione dettagliata (stile Sessioni 08/17/24/25) che giustifica il confine di taglio a fine "Priests' Quarters" (riga 6020), e che **corregge esplicitamente** un'imprecisione nel brief ricevuto: "Bastione di Takhisis" (righe 6021-6108) è la sezione di Lord Soth, non di Kansaldi Fire-Eyes, che compare invece dopo, nella "Rotta dell'Armata dei Draghi (*Dragon Army Rout*)" (riga 6165+) |
 | 3 | Continuità | SETUP INIZIALE | Verificato che l'apertura riprenda direttamente dalla chiusura della Sessione 25: la soglia della rampa di scale, il conto alla rovescia stabilito in Sessione 24, l'esito non forzato del patto con Alstare Bellis |
 | 4 | Continuità | Header | Confermato che il livello del party resta **11** (nessun avanzamento in questa sessione) — coerente con `campagna/contesto.md` che dichiara 11 come livello finale della campagna |
 | 5 | Fedeltà fonte | Tutti i 9 testi boxed (BT-01/09) | Verificati parola per parola contro `fonti/campagna/...md` righe 5908–6020: nessuna omissione trovata, tutti i dettagli chiave preservati — **nessuna correzione di contenuto necessaria**; corretto un errore di marcatura in fase di stesura (la descrizione d'apertura di S11, "Rubble and Ruin", era stata erroneamente trattata come testo boxed pur non essendo preceduta da `>>` nell'originale) — declassata a prosa del DM e i restanti BT rinumerati correttamente in sequenza da BT-01 a BT-09 |
@@ -640,7 +640,7 @@ Dopo la sessione, aggiorna questi file:
 | 7 | Continuità | FASE 2 (Drayan) | Aggiunta nota DM esplicita che collega lo scontro con Drayan al patto con Alstare Bellis stabilito in Sessione 25, con gestione esplicita di entrambi gli esiti possibili (patto accettato o rifiutato) senza bloccare la sessione in nessuno dei due casi |
 | 8 | PNG | png-per-capitolo/capitolo-06/_png-master.md | **Aggiornate le voci di Lorry Wanwillow e Drayan** per riflettere la loro prima apparizione fisica concreta in questa sessione — vedi sezione ⏭ Step 6.5 sotto per il dettaglio |
 | 9 | Stat Block | Cavaliere Scheletrico, Draconiano Bozak, Draconiano Kapak, Draconiano Sivak, Spettro | Riutilizzate identiche le schede già stabilite rispettivamente in Sessioni 25, 18, 05, 13, e 08 — **nessuna nuova invenzione meccanica** per queste cinque creature, verificato con ricerca dedicata su tutte le sessioni precedenti per garantire continuità |
-| 10 | Stat Block | Drayan (Draconiano Aurak) | Costruita sulla base dichiarata della scheda dell'aurak generico (Sessione 18, "Captain Hask"), con l'aggiunta circoscritta e motivata del Respiro Nocivo — esplicitamente richiesto dalla fonte per questo PNG specifico (riga 6008) e non presente nella scheda generica. Segnalata come ricostruzione dichiarata, coerente con la metodologia onesta già usata in tutta la campagna |
+| 10 | Stat Block | Drayan (Draconiano Aurak) | Costruita sulla base dichiarata della scheda dell'aurak generico (Sessione 18, "Capitano Hask"), con l'aggiunta circoscritta e motivata del Respiro Nocivo — esplicitamente richiesto dalla fonte per questo PNG specifico (riga 6008) e non presente nella scheda generica. Segnalata come ricostruzione dichiarata, coerente con la metodologia onesta già usata in tutta la campagna |
 | 11 | Meccaniche | FASE 2 (Statua di Takhisis) | Tradotta integralmente la meccanica del puzzle: rientranze/maniglie (CD14 Investigare), rotazione (CD22 Forza o Forza combinata 40+), conseguenze delle rotazioni (nord→S14, sud→S13, altrove→fiamma CD16 Destrezza 10d6) |
 | 12 | Meccaniche | FASE 3 (Altare Primordiale) | Tradotta la meccanica del terreno desacrato, dello stordimento al primo tocco, e segnalato esplicitamente con `[TODO DM: verificare]` che il "dono soprannaturale" completo richiede la Guida del Dungeon Master, non disponibile in questo estratto — fornita un'interpretazione narrativa provvisoria non punitiva |
 | 13 | Meccaniche | FASE 6 (Sala di Guerra) | Tradotta la biforcazione condizionale (6 sivak, oppure 4 sivak + Drayan con Respiro Nocivo preparato se fuggita da S12) — entrambi gli esiti gestiti esplicitamente nel testo e nell'Indice Encounter |
@@ -657,7 +657,7 @@ Dopo la sessione, aggiorna questi file:
 
 ## ⏭ Step 6.5 — Chapter PNG Briefer (SALTATO — nessuna transizione di capitolo)
 
-**Verifica transizione (Step 1 dell'agente).** `campagna/contesto.md` → Capitolo corrente al momento di aprire questa sessione: **7** (Siege of Kalaman — aperto in Sessione 22, confermato invariato in Sessioni 23, 24 e 25). Il contenuto estratto per questa sessione (righe 5908–6020, "Priests' Quarters") si trova interamente dentro `# Chapter 7: Siege of Kalaman` (che inizia a riga 5286 e prosegue ben oltre riga 6020 — l'intestazione "### Priests' Quarters" è una sotto-sezione `###` dello stesso capitolo, non un nuovo `# Chapter`). Capitolo della sessione (**7**) **=** Capitolo corrente (**7**) → condizione di transizione **non soddisfatta**. **Step 6.5 saltato**, come previsto per una sessione che resta interamente dentro un capitolo già aperto.
+**Verifica transizione (Step 1 dell'agente).** `campagna/contesto.md` → Capitolo corrente al momento di aprire questa sessione: **7** (Assedio di Kalaman — aperto in Sessione 22, confermato invariato in Sessioni 23, 24 e 25). Il contenuto estratto per questa sessione (righe 5908–6020, "Priests' Quarters") si trova interamente dentro `# Chapter 7: Siege of Kalaman` (che inizia a riga 5286 e prosegue ben oltre riga 6020 — l'intestazione "### Priests' Quarters" è una sotto-sezione `###` dello stesso capitolo, non un nuovo `# Chapter`). Capitolo della sessione (**7**) **=** Capitolo corrente (**7**) → condizione di transizione **non soddisfatta**. **Step 6.5 saltato**, come previsto per una sessione che resta interamente dentro un capitolo già aperto.
 
 `campagna/contesto.md` non richiede alcun aggiornamento del campo "Capitolo corrente" in questa sessione — resta **7**, coerente con quanto impostato in Sessione 22 e confermato nelle Sessioni 23, 24 e 25.
 

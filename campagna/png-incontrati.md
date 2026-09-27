@@ -19,7 +19,7 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Giovane contadino dell'Hinterlund |
-| **Prima Apparizione** | ✅ **Sessione 00** — *Scales of War*, sulla strada per Vogler |
+| **Prima Apparizione** | ✅ **Sessione 00** — *Scaglie di Guerra (Scales of War)*, sulla strada per Vogler |
 | **Affiliazione** | Nessuna |
 | **Tratto** | Spaventato e grato in modo imbarazzato; non ha mai visto niente del mondo |
 | **Attitudine Attuale** | **+2 Amichevole** |
@@ -31,15 +31,15 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Maga delle Vesti Rosse, custode del Barb |
-| **Prima Apparizione** | ✅ **Sessione 00** — *Eye in the Sky*, la Notte dell'Occhio |
-| **Affiliazione** | Mages of High Sorcery |
+| **Prima Apparizione** | ✅ **Sessione 00** — *Occhio nel Cielo (Eye in the Sky)*, la Notte dell'Occhio |
+| **Affiliazione** | Maghi dell'Alta Stregoneria |
 | **Tratto** | Capelli grigi, vesti rosse; valuta le persone e non spiega i criteri |
 | **Attitudine Attuale** | **+2 Amichevole verso Garrick** · nessun contatto con gli altri |
 | **Note** | Ha sottoposto Garrick alla prova della Sala della Vista e lo ha approvato. Da lei arrivano il **rotolo sigillato per Wyhan** e lo spellbook dei Magi. Gli altri quattro PG non l'hanno mai vista |
 
 ---
 
-## PNG Capitolo 3 — When Home Burns (Vogler)
+## PNG Capitolo 3 — Quando Brucia la Casa (Vogler)
 
 ### Ispin Greenshield (Defunto)
 | Elemento | Valore |
@@ -57,7 +57,7 @@
 |----------|--------|
 | **Ruolo** | Cavaliere della Corona, Comandante Thornwall Keep |
 | **Prima Apparizione** | ✅ **Sessione 01** — funerale di Ispin, Vogler (lettera d'invito già in Sessione 00) |
-| **Affiliazione** | Knights of Solamnia |
+| **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
 | **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) · **+3 Alleato verso Razak** |
 | **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler. ⏸️ **Dopo la Sessione 02 non ha ancora chiesto a Razak il favore della cassa**, né consegnato la busta per gli archivi di Kalaman: entrambe le scene sono in Sessione 03, FASE 0A e 0B. **[NOTA DM — riservata] Destino scelto: CATTURATA** durante la battaglia al fronte. Il party lo scopre da Jeyev, al molo, in FASE 0D |
@@ -75,7 +75,7 @@
 |----------|--------|
 | **Ruolo** | Scudiero di Becklin; aspirante cavaliere |
 | **Prima Apparizione** | ✅ **Sessione 01** — sulla strada per Thornwall Keep |
-| **Affiliazione** | Knights of Solamnia |
+| **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
 | **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) |
 | **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. Vedi `fonti/personaggi/Razak-Kendall.md` |
@@ -95,7 +95,7 @@
 | **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
 | **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
 | **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
-| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro della Dragon Army e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ⏸️ **Le scogliere sono state liberate proprio perché lei potesse uscire** a richiamare la compagnia e schierarla a nord: è la prima cosa che fa in Sessione 03. Può diventare alleata nel Northern Wastes (Cap. 5) |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro dell'Armata dei Draghi e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ⏸️ **Le scogliere sono state liberate proprio perché lei potesse uscire** a richiamare la compagnia e schierarla a nord: è la prima cosa che fa in Sessione 03. Può diventare alleata nelle Terre Desolate del Nord (Cap. 5) |
 
 ---
 
@@ -107,7 +107,7 @@
 | **Affiliazione** | Vogler |
 | **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
 | **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
-| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco Dragon Army. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco dell'Armata dei Draghi. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo |
 
 ---
 
@@ -131,7 +131,7 @@
 | **Affiliazione** | Solamnia (nobile); dipende in tutto dalla ricchezza del padre |
 | **Tratto** | Arrogante, meschino, collerico. Dà un valore smisurato al proprio aspetto e alla propria prestanza. **Detesta essere chiamato "il Giovane"** |
 | **Attitudine Attuale** | **-3 Ostile verso Razak** · 0 Neutrale verso gli altri |
-| **Note** | ⚠️ **Sessione 01: umiliato pubblicamente al ricevimento.** Razak lo ha minacciato senza riuscirci; poi **Garrick** ha simulato con una prestidigitazione una sonora scoreggia sotto la sua sedia, e tutta la locanda ha riso. **Non si è accorto di Garrick: incolpa Razak, e basta.** [NOTA DM — riservata] Ha già ucciso un uomo in duello a Estwilde — è il motivo del trasferimento a Vogler — e fantastica di conquistare il rispetto con la punta della spada. Di tutte le cose che gli potevano capitare, **essere deriso è la peggiore**. Ricompare nel cortile di Castle Kalaman in Sessione 03: non sta più facendo il bullo per abitudine, sta cercando Razak. **Non rivelargli che è stato Garrick** a meno che non sia un giocatore a farglielo scoprire |
+| **Note** | ⚠️ **Sessione 01: umiliato pubblicamente al ricevimento.** Razak lo ha minacciato senza riuscirci; poi **Garrick** ha simulato con una prestidigitazione una sonora scoreggia sotto la sua sedia, e tutta la locanda ha riso. **Non si è accorto di Garrick: incolpa Razak, e basta.** [NOTA DM — riservata] Ha già ucciso un uomo in duello a Estwilde — è il motivo del trasferimento a Vogler — e fantastica di conquistare il rispetto con la punta della spada. Di tutte le cose che gli potevano capitare, **essere deriso è la peggiore**. Ricompare nel cortile del Castello di Kalaman in Sessione 03: non sta più facendo il bullo per abitudine, sta cercando Razak. **Non rivelargli che è stato Garrick** a meno che non sia un giocatore a farglielo scoprire |
 
 ---
 
@@ -157,10 +157,10 @@
 |----------|--------|
 | **Ruolo** | Mezzo-ogre, luogotenente di Cudgel — **il traditore di High Hill** |
 | **Prima Apparizione** | ✅ **Sessione 02, FASE 0** — entrato in campo dopo i cavalieri, con cinque guardie |
-| **Affiliazione** | Reggimento Ironclad (formalmente); **comprato dal Red Dragon Army** |
+| **Affiliazione** | Reggimento Ironclad (formalmente); **comprato dall'Armata dei Draghi Rossi** |
 | **Tratto** | Enorme, ascia bipenne d'acciaio, nessuna intenzione di ritirarsi |
 | **Attitudine Attuale** | ☠️ **MORTO** — ucciso dal party il 20/09/2026, Sessione 02 FASE 0 |
-| **Note** | ⚠️ **MORTO SUL CAMPO DI HIGH HILL.** Con lui è morta **l'unica persona che avesse visto in faccia il proprio committente**: il mandante del tradimento resta ignoto, e il collegamento con l'Armata del Drago il party lo ha fatto da solo il giorno dopo, per deduzione. ⚠️ **È un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Agenti della Dragon Army lo hanno contattato nel bosco a ovest del campo e hanno comprato la sua fedeltà. Con quell'oro **ha pagato i mercenari**: l'intera compagnia sulla collina sa cosa sta facendo. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad. Blocco statistiche in `sessioni/dm-notes-sessione-02.md`, FASE 0, e in `scontri-adattati/capitolo-03.md`. ~~**Se i personaggi lo risparmiano**, è lui il prigioniero dell'interrogatorio~~ — non è successo: il prigioniero è Svilnt |
+| **Note** | ⚠️ **MORTO SUL CAMPO DI HIGH HILL.** Con lui è morta **l'unica persona che avesse visto in faccia il proprio committente**: il mandante del tradimento resta ignoto, e il collegamento con l'Armata dei Draghi il party lo ha fatto da solo il giorno dopo, per deduzione. ⚠️ **È un mezzo-ogre, non un mezzo-orco** (fonte: *"her lieutenants — the half-ogre Gragonis"*). Agenti dell'Armata dei Draghi lo hanno contattato nel bosco a ovest del campo e hanno comprato la sua fedeltà. Con quell'oro **ha pagato i mercenari**: l'intera compagnia sulla collina sa cosa sta facendo. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad. Blocco statistiche in `sessioni/dm-notes-sessione-02.md`, FASE 0, e in `scontri-adattati/capitolo-03.md`. ~~**Se i personaggi lo risparmiano**, è lui il prigioniero dell'interrogatorio~~ — non è successo: il prigioniero è Svilnt |
 
 ---
 
@@ -200,21 +200,21 @@
 
 ---
 
-### Messaggera dell'Armata del Drago *(senza nome)*
+### Messaggera dell'Armata dei Draghi *(senza nome)*
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Araldo a cavallo del Red Dragon Army; ha consegnato l'ultimatum a Vogler |
+| **Ruolo** | Araldo a cavallo dell'Armata dei Draghi Rossi; ha consegnato l'ultimatum a Vogler |
 | **Prima Apparizione** | ✅ **Sessione 02, FASE 4** — alla Porta del Fiume |
-| **Affiliazione** | Red Dragon Army |
+| **Affiliazione** | Armata dei Draghi Rossi |
 | **Tratto** | Cotta a scaglie nera e rossa senza un pezzo lasciato al caso; non smonta, non saluta, aspetta |
 | **Attitudine Attuale** | **-3 Ostile** |
 | **Note** | Ha consegnato l'ultimatum firmato **Belephaion, Voce di Takhisis** (*alloggiare i soldati questa notte o morire*) e se n'è andata prima che il party attaccasse le scogliere. ⚠️ **[NOTA DM — riservata] Gradino 3 del contraccolpo divino, opzione (a):** ha **notato Brynja** — lo scudo verde, il simbolo di Mishakal — un attimo più del necessario, e **è tornata a riferire**. Da Kalaman in poi **Belephaion sa** che a Vogler c'era una guaritrice vera, e per come è andata la notte della coda ce n'erano **due**. Ricompare come dettaglio inatteso: un ufficiale che la riconosce, un ordine di catturare anziché uccidere, lo scudo descritto in un dispaccio |
 
 ---
 
-## PNG Capitolo 4 — Shadow of War (Kalaman)
+## PNG Capitolo 4 — L'Ombra della Guerra (Kalaman)
 
-### Governor Calof Miat
+### Governatore Calof Miat
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Governatore civile di Kalaman |
@@ -222,11 +222,11 @@
 | **Affiliazione** | Governo di Kalaman |
 | **Tratto** | Politico pragmatico; cauto, ma non vigliacco; misura i PG prima di fidarsi |
 | **Attitudine Iniziale** | 0 Neutrale |
-| **Note** | Contrappeso politico al Marshal Vendri. Il suo appoggio è utile per risorse e permessi in città |
+| **Note** | Contrappeso politico al Maresciallo Vendri. Il suo appoggio è utile per risorse e permessi in città |
 
 ---
 
-### Marshal Nestra Vendri
+### Maresciallo Nestra Vendri
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Comandante militare di Kalaman |
@@ -243,33 +243,33 @@
 |----------|--------|
 | **Ruolo** | Ex maga di magia nera (mantello nero), ora alchimista/apotecaria a Kalaman |
 | **Prima Apparizione** | Capitolo 4 (Wyhan's Apothecary) |
-| **Affiliazione** | Mages of High Sorcery (ritirata); indipendente |
+| **Affiliazione** | Maghi dell'Alta Stregoneria (ritirata); indipendente |
 | **Tratto** | Cinica, schietta, non si fida facilmente; conosce il suo valore |
 | **Attitudine Iniziale** | -1 Sospettoso |
 | **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi" |
 
 ---
 
-## PNG Capitolo 5 — The Northern Wastes
+## PNG Capitolo 5 — Terre Desolate del Nord
 
 ### Dalamar
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Mago elfo Silvanesti in esilio; ricercatore di rovine |
-| **Prima Apparizione** | Capitolo 5 (campo elfico nel Northern Wastes) |
-| **Affiliazione** | Silvanesti (esule); Mages of High Sorcery (mantello nero) |
+| **Prima Apparizione** | Capitolo 5 (campo elfico nelle Terre Desolate del Nord) |
+| **Affiliazione** | Silvanesti (esule); Maghi dell'Alta Stregoneria (mantello nero) |
 | **Tratto** | Ambizioso, intelligente, gioca su più tavoli; non si fida degli altri Silvanesti |
 | **Attitudine Iniziale** | -1 Sospettoso |
-| **Note** | [NOTA DM] Dalamar è un personaggio famoso del Dragonlance lore. Ha i propri obiettivi; potrebbe aiutare i PG ma mai del tutto gratuitamente. Informazioni sulla City of Lost Names |
+| **Note** | [NOTA DM] Dalamar è un personaggio famoso del Dragonlance lore. Ha i propri obiettivi; potrebbe aiutare i PG ma mai del tutto gratuitamente. Informazioni sulla Città dei Nomi Perduti |
 
 ---
 
 ### Zhelsuel
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Leader della spedizione elfica nel Northern Wastes |
+| **Ruolo** | Leader della spedizione elfica nelle Terre Desolate del Nord |
 | **Prima Apparizione** | Capitolo 5 (campo elfico) |
-| **Affiliazione** | House Mystic, Silvanesti (esuli) |
+| **Affiliazione** | Casata Mystic, Silvanesti (esuli) |
 | **Tratto** | Formale, orgoglioso, diffidente verso i non-elfi |
 | **Attitudine Iniziale** | -1 Sospettoso |
 | **Note** | Guida un piccolo gruppo di Silvanesti esuli che cercano un modo per riconquistare la patria. Può diventare alleato se i PG dimostrano rispetto per la cultura elvish |
@@ -284,16 +284,16 @@
 | **Affiliazione** | Indipendente; alleata del party |
 | **Tratto** | Entusiasta, iper-loquace (come ogni gnomo), geniale ma caotica |
 | **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della City of Lost Names. I suoi gadget possono essere utili ma spesso danno risultati inaspettati |
+| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della Città dei Nomi Perduti. I suoi gadget possono essere utili ma spesso danno risultati inaspettati |
 
 ---
 
 ### Ser Maelis
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Cavaliere di rango minore, apparente disertore del Dragon Army |
+| **Ruolo** | Cavaliere di rango minore, apparente disertore dell'Armata dei Draghi |
 | **Prima Apparizione** | Sessione 09, Cap. 5, tragitto verso Wrecker's Edge (scena opzionale) |
-| **Affiliazione** | Red Dragon Army (in copertura) |
+| **Affiliazione** | Armata dei Draghi Rossi (in copertura) |
 | **Tratto Caratteristico** | Affascinante, competente in combattimento, fa sempre una domanda di troppo |
 | **Attitudine Iniziale** | +1 Cordiale (salva i PG, si mostra cortese e disponibile) |
 | **Note** | Ricompare con un indizio visivo (sigillo di cera grigia, mano con occhio) in Sessione 13, con una rivelazione parziale/scomparsa in Sessione 16, con due tracce indirette (mai di persona) in Sessione 22 e Sessione 23, e con un'ultima eco silenziosa (nessun dialogo) nella Sessione 28 (finale di campagna, Celebrazione degli Eroi). **[NOTA DM — riservata]** Non è un disertore: è un agente infiltrato che raccoglie segreti di guerra per un potere che non nomina mai — un tassello del filo narrativo nascosto del Culto di Vecna che attraversa più campagne del DM. Sopravvive alla campagna e ricompare come alto ufficiale del Culto in Vecna: Eve of Ruin. Non rivelare mai il nome "Vecna" ai giocatori in questa campagna. Vedi `fonti/campagna/filo-narrativo-multiverso.md` |
@@ -305,14 +305,14 @@
 
 ---
 
-## PNG Capitolo 6 — City of Lost Names
+## PNG Capitolo 6 — Città dei Nomi Perduti
 
 ### Demelin
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Archmaga della città (spirito/costrutto intrappolato) |
 | **Prima Apparizione** | Capitolo 6 (Wizard's Workshop nelle rovine) |
-| **Affiliazione** | Mages of High Sorcery — mantello rosso (neutrale) |
+| **Affiliazione** | Maghi dell'Alta Stregoneria — mantello rosso (neutrale) |
 | **Tratto** | Riflessiva, distaccata, custode del sapere della città |
 | **Attitudine Iniziale** | 0 Neutrale |
 | **Note** | Può fornire informazioni cruciali sulla storia della città e come fermare la riattivazione. Non è nemica ma ha le proprie priorità |
@@ -324,10 +324,10 @@
 |----------|--------|
 | **Ruolo** | Mago di magia nera al servizio di Kansaldi — boss del Cap 6 |
 | **Prima Apparizione** | Capitolo 5–6 |
-| **Affiliazione** | Red Dragon Army (mantello nero) |
+| **Affiliazione** | Armata dei Draghi Rossi (mantello nero) |
 | **Tratto** | Freddo, metodico, ossessionato dalla ricerca; crede di servire un obiettivo superiore |
 | **Attitudine Iniziale** | -3 Ostile |
-| **Note** | [NOTA DM] CR 9. Boss fight del capitolo 6. Ricerca la City of Lost Names per riattivarne la magia volante e consegnarla a Kansaldi. Porta con sé Belephaion |
+| **Note** | [NOTA DM] CR 9. Boss fight del capitolo 6. Ricerca la Città dei Nomi Perduti per riattivarne la magia volante e consegnarla a Kansaldi. Porta con sé Belephaion |
 
 ---
 
@@ -335,34 +335,34 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Prete di Takhisis; consigliere religioso di Kansaldi |
-| **Prima Apparizione** | Capitolo 6 (City of Lost Names) |
-| **Affiliazione** | Red Dragon Army; Church of Takhisis |
+| **Prima Apparizione** | Capitolo 6 (Città dei Nomi Perduti) |
+| **Affiliazione** | Armata dei Draghi Rossi; Chiesa di Takhisis |
 | **Tratto** | Zelote fanatico, crudele, convinto di compiere la volontà divina |
 | **Attitudine Iniziale** | -3 Ostile |
 | **Note** | CR 10. Accompagna Lohezet. Usa spirit guardians e thunderwave. Difficile da isolare in combattimento |
 
 ---
 
-## PNG Capitolo 7 — Siege of Kalaman
+## PNG Capitolo 7 — Assedio di Kalaman
 
 ### Kansaldi Fire-Eyes ⚔️ BOSS FINALE
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Dragon Highmaster — Comandante dell'offensiva Red Dragon Army su Solamnia |
+| **Ruolo** | Gran Maestra dei Draghi — Comandante dell'offensiva l'Armata dei Draghi Rossi su Solamnia |
 | **Prima Apparizione** | Capitolo 7 (menzioni già dal Cap 2; scontro fisico nel Cap 7) |
-| **Affiliazione** | Red Dragon Army (su ordini di Verminaard) |
+| **Affiliazione** | Armata dei Draghi Rossi (su ordini di Verminaard) |
 | **Tratto** | Fanatica, tatticamante brillante, parla raramente, agisce sempre |
 | **Attitudine Iniziale** | -3 Ostile |
-| **Note** | CR 16. Occhio sinistro sostituito con un rubino magico (occhio di fuoco). 3 azioni leggendarie, 3 resistenze. Arena: cuore della Flying Citadel |
+| **Note** | CR 16. Occhio sinistro sostituito con un rubino magico (occhio di fuoco). 3 azioni leggendarie, 3 resistenze. Arena: cuore della Cittadella Volante |
 
 ---
 
 ### Red Ruin
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Asso pilota dragonnel dei Dragon Army |
-| **Prima Apparizione** | Capitolo 7 (durante l'assedio e sulla Flying Citadel) |
-| **Affiliazione** | Red Dragon Army |
+| **Ruolo** | Asso pilota dragonnel dell'Armata dei Draghi |
+| **Prima Apparizione** | Capitolo 7 (durante l'assedio e sulla Cittadella Volante) |
+| **Affiliazione** | Armata dei Draghi Rossi |
 | **Tratto** | Silenzioso, mortale, preferisce parlare con le azioni aeree |
 | **Attitudine Iniziale** | -3 Ostile |
 | **Note** | CR 8. Combat aereo su dragonnel. Attacca in picchiata. Immunità al fuoco |
@@ -373,12 +373,12 @@
 
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Death Knight — minaccia sovrannaturale ricorrente |
+| **Ruolo** | Cavaliere della morte (*Death Knight*) — minaccia sovrannaturale ricorrente |
 | **Prima Apparizione** | Capitolo 3 (visione/presenza); Cap 4 (attacco Kalaman) |
-| **Affiliazione** | Coopera con Dragon Army su ordine della Dragon Queen; propria agenda |
+| **Affiliazione** | Coopera con l'Armata dei Draghi su ordine della Regina dei Draghi; propria agenda |
 | **Tratto** | Imponente, maledetto, inesorabile; non porta mai la sconfitta ai livelli tipici della campagna |
 | **Attitudine Iniziale** | -3 Ostile |
-| **Note** | [NOTA DM] CR 19 — NON è pensato per essere ucciso in combattimento. È una forza della narrativa. I PG possono rimuoverlo dalla servitù della Dragon Queen attraverso la storia, non attraverso lo scontro. Usa Leedara e la sua maledizione come strumento narrativo |
+| **Note** | [NOTA DM] CR 19 — NON è pensato per essere ucciso in combattimento. È una forza della narrativa. I PG possono rimuoverlo dalla servitù della Regina dei Draghi attraverso la storia, non attraverso lo scontro. Usa Leedara e la sua maledizione come strumento narrativo |
 
 ---
 

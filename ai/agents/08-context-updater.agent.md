@@ -134,6 +134,7 @@ fazioni.md:              [modificato / invariato — motivo]
 
 ## Vincoli
 
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì.
 - **Non inventare** stato non presente nel recap o nel dm-notes finalizzato — se manca un dato
   necessario (es. nuovo PNG senza attitudine dichiarata), segnalalo come `[TODO DM]` invece di
   stimarlo.

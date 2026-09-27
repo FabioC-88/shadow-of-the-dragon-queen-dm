@@ -212,6 +212,7 @@ campagna/missioni-secondarie.md                      ← Stato missioni
 
 ## Vincoli
 
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì.
 - **Non leggere né considerare** sessioni con numero > NN.
 - **Non riscrivere** le scene già buone — intervieni solo sui punti toccati dai delta.
 - **Non inventare** conseguenze dei delta non menzionate nel recap — registrale come `[TODO DM]`.

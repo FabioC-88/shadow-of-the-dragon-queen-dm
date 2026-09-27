@@ -1,9 +1,9 @@
 # DM Notes — Sessione 25: Sotto le Ossa del Drago
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 7: Siege of Kalaman**, sezione **"The Flying Citadel"** (incl. "Goals in the Citadel", "Citadel Features", "Citadel Depths" — area S1 — e "Temple Crypts" — aree S2-S9) — righe **5706–5907**
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 7: Assedio di Kalaman (*Siege of Kalaman*)**, sezione **"Cittadella Volante"** (incl. "Goals in the Citadel", "Caratteristiche della Cittadella (*Citadel Features*)", "Profondità della Cittadella" — area S1 — e le "Cripte del Tempio" — aree S2-S9) — righe **5706–5907**
 **Livello party:** **11** (nessun ulteriore avanzamento — il Livello 11 raggiunto in Sessione 24 è esplicitamente il **livello finale** dell'intera campagna, confermato da `campagna/contesto.md`)
 **XP accumulati:** Ereditati dalla Sessione 24 (vedi `campagna/party.md`, ancora a placeholder Livello 1/TBD — `[TODO DM: verificare]`, coerente con tutte le Sessioni 00–24: la campagna reale non è mai stata giocata)
-**Obiettivo sessione:** Attraversare i primi due livelli sotterranei della citadella volante — i tunnel grezzi scavati nelle ossa del drago (S1, "Citadel Depths") e le Cripte del Tempio (S2-S9, "Temple Crypts"): il ritorno di **Leedara** con informazioni cruciali su Lord Soth e sullo *specchio dei passati riflessi*; la cripta funeraria sigillata e i suoi custodi non-morti; il santuario di Chemosh e la sua offerta ambigua; le tombe degli ambasciatori Silvanesti **Cithcillion**, **Madar** e **Tenadria**, imprigionati e interrogati per trecento anni; e il primo contatto — non necessariamente ostile — con il vampiro **Alstare Bellis**, che propone un patto. La sessione si ferma alla soglia dei Quartieri dei Sacerdoti, lasciando Drayan, i draconiani bozak e il resto della citadella alla Sessione 26.
+**Obiettivo sessione:** Attraversare i primi due livelli sotterranei della citadella volante — i tunnel grezzi scavati nelle ossa del drago (S1, "Profondità della Cittadella") e le Cripte del Tempio (S2-S9, "Cripte del Tempio"): il ritorno di **Leedara** con informazioni cruciali su Lord Soth e sullo *specchio dei passati riflessi*; la cripta funeraria sigillata e i suoi custodi non-morti; il santuario di Chemosh e la sua offerta ambigua; le tombe degli ambasciatori Silvanesti **Cithcillion**, **Madar** e **Tenadria**, imprigionati e interrogati per trecento anni; e il primo contatto — non necessariamente ostile — con il vampiro **Alstare Bellis**, che propone un patto. La sessione si ferma alla soglia dei Quartieri dei Sacerdoti, lasciando Drayan, i draconiani bozak e il resto della citadella alla Sessione 26.
 **Durata stimata:** ~2h50m (6 fasi: 20 + 25 + 40 + 25 + 35 + 30 min) — sessione volutamente più lunga della norma; vedi nota pre-sessione
 **Sessione precedente:** `dm-notes-sessione-24.md` — Ali sopra Kalaman: l'assedio di Kalaman, il segnale di Clystran, l'assalto al Boschetto di Hawker con il pagamento della dragonlance contro i draconcelli di drago rosso, il volo dei dragonnel, il duello con Red Ruin e Bakaris il Giovane, e l'ingresso nei tunnel della citadella volante con l'avanzamento — l'ultimo dell'intera campagna — a Livello 11
 
@@ -11,19 +11,19 @@
 
 > ⚠️ **Nota pre-sessione — perché ci si ferma esattamente qui, e perché questa sessione è più densa e più lunga della norma.**
 >
-> Ho letto per intero l'intera sezione "The Flying Citadel" dalla riga 5706 fino a oltre riga 6160 (comprendendo "Citadel Depths", "Temple Crypts", "Priests' Quarters", "Bastion of Takhisis" col boss Kansaldi Fire-Eyes, e "The Citadel's Destruction") prima di decidere dove tagliare questa sessione. Ecco il ragionamento completo.
+> Ho letto per intero l'intera sezione "Cittadella Volante" dalla riga 5706 fino a oltre riga 6160 (comprendendo "Profondità della Cittadella", "Cripte del Tempio", "Priests' Quarters", "Bastione di Takhisis" col boss Kansaldi Fire-Eyes, e la "Distruzione della Cittadella") prima di decidere dove tagliare questa sessione. Ecco il ragionamento completo.
 >
-> **1. Il confine più naturale è la fine di "Temple Crypts", non un taglio a metà di un dungeon uniforme.** La fonte organizza la citadella in blocchi tematici espliciti, ciascuno con la propria intestazione di sezione: "Citadel Depths" (S1, i tunnel grezzi), "Temple Crypts" (S2-S9, le cripte sigillate e le tombe degli ambasciatori Silvanesti), "Priests' Quarters" (S10 in poi, dove i draconiani lavorano sotto lo sguardo di Lord Soth), e infine "Bastion of Takhisis" (il santuario interno e Kansaldi Fire-Eyes). Fermarsi alla fine delle Cripte del Tempio (riga 5907, subito prima che inizi "### Priests' Quarters" a riga 5908) significa chiudere la sessione esattamente sulla soglia di un nuovo blocco tematico — la stessa identica logica di "fine di sezione, non fine di riga arbitraria" già applicata in ogni sessione precedente di questa campagna.
+> **1. Il confine più naturale è la fine delle "Cripte del Tempio", non un taglio a metà di un dungeon uniforme.** La fonte organizza la citadella in blocchi tematici espliciti, ciascuno con la propria intestazione di sezione: "Profondità della Cittadella" (S1, i tunnel grezzi), "Cripte del Tempio" (S2-S9, le cripte sigillate e le tombe degli ambasciatori Silvanesti), "Priests' Quarters" (S10 in poi, dove i draconiani lavorano sotto lo sguardo di Lord Soth), e infine "Bastione di Takhisis" (il santuario interno e Kansaldi Fire-Eyes). Fermarsi alla fine delle Cripte del Tempio (riga 5907, subito prima che inizi "### Priests' Quarters" a riga 5908) significa chiudere la sessione esattamente sulla soglia di un nuovo blocco tematico — la stessa identica logica di "fine di sezione, non fine di riga arbitraria" già applicata in ogni sessione precedente di questa campagna.
 >
-> **2. Il vero boss finale merita la propria sessione, non una coda.** Kansaldi Fire-Eyes (CR 16, tre azioni leggendarie, arena dedicata nel Santuario della Regina Drago) è esplicitamente il climax dell'intera campagna — l'ultimo combattimento di undici sessioni di progressione di livello. Accodarla in fondo a una sessione già densa di dungeon crawl (due livelli di citadella, sette PNG nominati, almeno tre incontri di combattimento strutturati) le farebbe torto. Merita l'apertura di una sessione fresca, con il tavolo riposato e pronto — non l'ultimo mezz'ora di una serata già lunga. Lo stesso principio è già stato applicato in Sessione 24 fermandosi prima dell'ingresso nella citadella stessa.
+> **2. Il vero boss finale merita la propria sessione, non una coda.** Kansaldi Fire-Eyes (CR 16, tre azioni leggendarie, arena dedicata nel Santuario della Regina dei Draghi) è esplicitamente il climax dell'intera campagna — l'ultimo combattimento di undici sessioni di progressione di livello. Accodarla in fondo a una sessione già densa di dungeon crawl (due livelli di citadella, sette PNG nominati, almeno tre incontri di combattimento strutturati) le farebbe torto. Merita l'apertura di una sessione fresca, con il tavolo riposato e pronto — non l'ultimo mezz'ora di una serata già lunga. Lo stesso principio è già stato applicato in Sessione 24 fermandosi prima dell'ingresso nella citadella stessa.
 >
-> **3. Perché non fermarsi prima, a fine "Citadel Depths" (S1)?** L'ho considerato seriamente: S1 da sola pesa pochissimo (una manciata di paragrafi, una singola prova di gruppo, un incontro opzionale col lesser death dragon). Fermarsi lì avrebbe prodotto una sessione innaturalmente breve, quasi un intermezzo — e avrebbe interrotto bruscamente il momento in cui Leedara (già radicata nella campagna dal Cap. 3, Sessione 01) ricompare con informazioni che il tavolo aspetta da ventiquattro sessioni. "Temple Crypts" nel suo complesso (S2-S9) è un arco coeso: entrata → cripta sigillata e i suoi guardiani → santuario e la sua prova morale → le tombe degli ambasciatori elfi e il patto del vampiro. Tagliarlo a metà (ad esempio fermandosi dopo S4 o S6) avrebbe interrotto la ricerca in corso di Cithcillion per riunirsi ai propri compagni — un momento di chiusura emotiva che merita di risolversi nella stessa sessione in cui si apre.
+> **3. Perché non fermarsi prima, a fine "Profondità della Cittadella" (S1)?** L'ho considerato seriamente: S1 da sola pesa pochissimo (una manciata di paragrafi, una singola prova di gruppo, un incontro opzionale col drago della morte minore). Fermarsi lì avrebbe prodotto una sessione innaturalmente breve, quasi un intermezzo — e avrebbe interrotto bruscamente il momento in cui Leedara (già radicata nella campagna dal Cap. 3, Sessione 01) ricompare con informazioni che il tavolo aspetta da ventiquattro sessioni. Le "Cripte del Tempio" nel suo complesso (S2-S9) è un arco coeso: entrata → cripta sigillata e i suoi guardiani → santuario e la sua prova morale → le tombe degli ambasciatori elfi e il patto del vampiro. Tagliarlo a metà (ad esempio fermandosi dopo S4 o S6) avrebbe interrotto la ricerca in corso di Cithcillion per riunirsi ai propri compagni — un momento di chiusura emotiva che merita di risolversi nella stessa sessione in cui si apre.
 >
-> **4. Continuità meccanica.** Come da convenzione della campagna, quando l'*appendix B* del testo originale non è disponibile in questo estratto, le creature standard del Manuale dei Mostri vengono ricostruite e segnalate esplicitamente (come già fatto per la mummia in Sessione 19, il lesser death dragon in Sessione 17, la ballista in Sessione 23). Questa sessione richiede diverse ricostruzioni di questo tipo: il cavaliere scheletrico "generico" (da distinguere da Knight Sarlamir, il cavaliere scheletrico *unico* e più potente affrontato in Sessione 08), il minotauro scheletrico, il wight, e — solo se un personaggio rifiuta l'offerta di Chemosh — il golem d'argilla non-morto. Il **lesser death dragon** (S1, incontro opzionale) e la **melma nera** (tabella Contenuto delle Cripte) sono invece riutilizzati identici rispettivamente dalle Sessioni 17/24 e dalla Sessione 10 — nessuna nuova invenzione per queste due.
+> **4. Continuità meccanica.** Come da convenzione della campagna, quando l'*appendix B* del testo originale non è disponibile in questo estratto, le creature standard del Manuale dei Mostri vengono ricostruite e segnalate esplicitamente (come già fatto per la mummia in Sessione 19, il drago della morte minore in Sessione 17, la ballista in Sessione 23). Questa sessione richiede diverse ricostruzioni di questo tipo: il cavaliere scheletrico "generico" (da distinguere dal Cavaliere Sarlamir, il cavaliere scheletrico *unico* e più potente affrontato in Sessione 08), il minotauro scheletrico, il wight, e — solo se un personaggio rifiuta l'offerta di Chemosh — il golem d'argilla non-morto. Il **drago della morte minore** (S1, incontro opzionale) e la **melma nera** (tabella Contenuto delle Cripte) sono invece riutilizzati identici rispettivamente dalle Sessioni 17/24 e dalla Sessione 10 — nessuna nuova invenzione per queste due.
 >
 > **5. Nessun uso di *Dragonlance: Warriors of Krynn*.** Non pertinente in questa sessione: non c'è mass combat nelle Cripte del Tempio, solo esplorazione e incontri mirati.
 >
-> **Conseguenza pratica:** questa sessione copre l'intera "Citadel Depths" + "Temple Crypts" (righe 5706–5907) e si ferma esattamente al bordo di "Priests' Quarters" (riga 5908), lasciando Drayan, i sei draconiani bozak del Santuario (S12), la ricompensa del patto con Alstare Bellis, e l'intero resto della citadella — incluso il Bastione di Takhisis e Kansaldi Fire-Eyes — al materiale delle **Sessioni 26 e successive**. La durata stimata (~2h50m) supera la norma di 2h30m: è una scelta deliberata, coerente con la densità eccezionale di questo tratto di dungeon (otto aree numerate, sette PNG nominati, quattro possibili combattimenti). Se il tuo tavolo corre più lento del previsto, questa è un'altra sessione — come la 08, la 17 e la 24 prima di lei — che vale la pena spezzare in due serate piuttosto che affrettare.
+> **Conseguenza pratica:** questa sessione copre l'intera "Profondità della Cittadella" + "Cripte del Tempio" (righe 5706–5907) e si ferma esattamente al bordo di "Priests' Quarters" (riga 5908), lasciando Drayan, i sei draconiani bozak del Santuario (S12), la ricompensa del patto con Alstare Bellis, e l'intero resto della citadella — incluso il Bastione di Takhisis e Kansaldi Fire-Eyes — al materiale delle **Sessioni 26 e successive**. La durata stimata (~2h50m) supera la norma di 2h30m: è una scelta deliberata, coerente con la densità eccezionale di questo tratto di dungeon (otto aree numerate, sette PNG nominati, quattro possibili combattimenti). Se il tuo tavolo corre più lento del previsto, questa è un'altra sessione — come la 08, la 17 e la 24 prima di lei — che vale la pena spezzare in due serate piuttosto che affrettare.
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## FASE 1 — I Tunnel della Citadella (S1)
 
-*~20 minuti · La prova di gruppo di sopravvivenza, l'incontro opzionale con un lesser death dragon*
+*~20 minuti · La prova di gruppo di sopravvivenza, l'incontro opzionale con un drago della morte minore*
 
 ### Testo — Il Buio nelle Fondamenta [BT-01]
 
@@ -53,11 +53,11 @@
 
 I tunnel sono larghi 3 metri e si aprono occasionalmente in camere più grandi. Tornanti, vicoli ciechi e cunicoli in discesa rendono questi passaggi un vero labirinto.
 
-Per orientarsi nei tunnel fino all'area S2 senza incidenti, i personaggi devono superare una **prova di gruppo di Saggezza (Sopravvivenza) CD 16**. Se più della metà dei personaggi fallisce la prova, il gruppo finisce per attraversare una caverna larga 15 metri, lunga 21 metri e alta 15 metri, dove si nasconde un **lesser death dragon**. La creatura attacca non appena si accorge dei personaggi. Una volta sconfitto il drago, i personaggi non affrontano altri pericoli nei tunnel. Alla fine trovano un pozzo verticale di 9 metri che sale fino all'area S2.
+Per orientarsi nei tunnel fino all'area S2 senza incidenti, i personaggi devono superare una **prova di gruppo di Saggezza (Sopravvivenza) CD 16**. Se più della metà dei personaggi fallisce la prova, il gruppo finisce per attraversare una caverna larga 15 metri, lunga 21 metri e alta 15 metri, dove si nasconde un **drago della morte minore**. La creatura attacca non appena si accorge dei personaggi. Una volta sconfitto il drago, i personaggi non affrontano altri pericoli nei tunnel. Alla fine trovano un pozzo verticale di 9 metri che sale fino all'area S2.
 
-*[NOTA DM — riservata] **Incontro puramente opzionale, condizionato dalla prova di gruppo.** Se il gruppo supera la prova, salta direttamente a FASE 2 senza combattimento — è una scelta legittima della fonte, non un compromesso. Se invece la prova fallisce, questo è un buon momento per lasciare che la dragonlance di Sarlamir (se ancora impugnata da un PG) torni a farsi sentire: sebbene il lesser death dragon sia un non-morto e non un vero drago cromato, considera se concedere comunque un piccolo vantaggio narrativo o meccanico se un PG la brandisce contro di esso — la fonte non lo richiede esplicitamente, ma è coerente con il tema dell'arma contro tutto ciò che porta il sangue e la forma di un drago corrotto dalla Regina Oscura.*
+*[NOTA DM — riservata] **Incontro puramente opzionale, condizionato dalla prova di gruppo.** Se il gruppo supera la prova, salta direttamente a FASE 2 senza combattimento — è una scelta legittima della fonte, non un compromesso. Se invece la prova fallisce, questo è un buon momento per lasciare che la dragonlance di Sarlamir (se ancora impugnata da un PG) torni a farsi sentire: sebbene il drago della morte minore sia un non-morto e non un vero drago cromato, considera se concedere comunque un piccolo vantaggio narrativo o meccanico se un PG la brandisce contro di esso — la fonte non lo richiede esplicitamente, ma è coerente con il tema dell'arma contro tutto ciò che porta il sangue e la forma di un drago corrotto dalla Regina Oscura.*
 
-### Stat Block — Lesser Death Dragon (base) · CR 8 · 3.900 XP *(scheda identica alle Sessioni 17/24 — 153 PF)*
+### Stat Block — Drago della morte minore (base) · CR 8 · 3.900 XP *(scheda identica alle Sessioni 17/24 — 153 PF)*
 
 ```
 LESSER DEATH DRAGON — non morto Grande, legale malvagio
@@ -69,20 +69,20 @@ Immunità danni fuoco, veleno
 Immunità condizioni esaurimento, spaventato, paralizzato, avvelenato
 Sensi scurovisione 36 m, Percezione passiva 15   Linguaggi comprende il draconico ma non può parlare
 —
-Fermezza dei Non Morti. Se un danno ridurrebbe il death dragon a 0 PF, e il danno non è radiante né proviene da un colpo critico, il death dragon può tentare un TS Costituzione (CD pari a 5 + il danno subito): se ha successo, scende a 1 PF invece che a 0.
-Natura Non Morta. Il death dragon non ha bisogno di aria, cibo, acqua o sonno.
+Fermezza dei Non Morti. Se un danno ridurrebbe il drago della morte a 0 PF, e il danno non è radiante né proviene da un colpo critico, il drago della morte può tentare un TS Costituzione (CD pari a 5 + il danno subito): se ha successo, scende a 1 PF invece che a 0.
+Natura Non Morta. Il drago della morte non ha bisogno di aria, cibo, acqua o sonno.
 —
 AZIONI
-Multiattacco. Il death dragon effettua tre attacchi: un morso e due artigli.
+Multiattacco. Il drago della morte effettua tre attacchi: un morso e due artigli.
 Morso. Attacco con arma in mischia: +9 al colpire, portata 3 m. Colpito: 17 (2d10+6) danni perforanti più 7 (2d6) danni necrotici.
 Artiglio. Attacco con arma in mischia: +9 al colpire, portata 1,5 m. Colpito: 13 (2d6+6) danni taglienti.
-Soffio Cataclismico (Ricarica 5-6). Il death dragon esala fiamme violacee in un cono di 18 metri. Ogni creatura nell'area deve superare un TS Destrezza CD 16, subendo 45 (13d6) danni da fuoco più 18 (4d8) danni necrotici se fallisce, o metà se ha successo. Un umanoide ucciso da questo danno si rianima come uno zombie sotto il controllo del Dragon Army all'inizio del turno successivo del death dragon.
+Soffio Cataclismico (Ricarica 5-6). Il drago della morte esala fiamme violacee in un cono di 18 metri. Ogni creatura nell'area deve superare un TS Destrezza CD 16, subendo 45 (13d6) danni da fuoco più 18 (4d8) danni necrotici se fallisce, o metà se ha successo. Un umanoide ucciso da questo danno si rianima come uno zombie sotto il controllo dell'Armata dei Draghi all'inizio del turno successivo del drago della morte.
 ```
 
 ---
 
 **Attitudine PNG in questa scena:**
-- *(nessun PNG nominato — solo l'incontro opzionale col lesser death dragon)*
+- *(nessun PNG nominato — solo l'incontro opzionale col drago della morte minore)*
 
 ---
 
@@ -108,7 +108,7 @@ L'elfa che attende qui è **Leedara** (un **fantasma** neutrale, già presentata
 - Nascosto da qualche parte tra le camere più avanti si trova un reliquia elfica nota come lo *specchio dei passati riflessi* (vedi *appendix A*). Chi vi si specchia intravede frammenti del proprio passato.
 - **Leedara** crede che lo specchio possa distrarre Soth, dando ai personaggi la possibilità di spegnere il Fuoco Cataclismico.
 
-**Leedara** conosce anche il passato di **Lord Soth**, e riferisce tutte le informazioni già emerse in "La Maledizione di Lord Soth" (Cap. 4 — vedi anche la scoperta di Knight Sarlamir in Sessione 08).
+**Leedara** conosce anche il passato di **Lord Soth**, e riferisce tutte le informazioni già emerse in "La Maledizione di Lord Soth" (Cap. 4 — vedi anche la scoperta del Cavaliere Sarlamir in Sessione 08).
 
 I personaggi avranno probabilmente molte domande su **Leedara** stessa: perché è qui, come conosce tanto su Soth, e così via. Se interrogata, **Leedara** rivela la propria vera forma spettrale. Spiega che, in vita, era una delle assistenti della sacerdotessa elfa Isolde, e fu tra coloro che distolsero Soth dal proprio compito di impedire il Cataclisma. Per le sue azioni è condannata a vivere come fantasma — ma è anche essa stessa una maledizione per Soth, e lavora per ostacolare le sue ambizioni. Non può opporsi a Soth da sola, e cerca sinceramente di aiutare i personaggi. Dopo aver condiviso queste informazioni e risposto a ogni domanda su **Lord Soth**, svanisce.
 
@@ -175,7 +175,7 @@ Una fenditura si è aperta nella parete di questa cripta, permettendo l'accesso 
 
 *[NOTA DM — riservata] **Non è necessario aprire tutte e undici le cripte.** Lascia che siano i giocatori a decidere quante aprirne — è un momento di curiosità macabra opzionale, non un obbligo strutturale. Tre o quattro estrazioni bastano a dare il sapore della location senza rallentare eccessivamente la sessione.*
 
-### Stat Block — Cavaliere Scheletrico (×2) · GS 1 · 200 XP cad. *(ricostruzione DM — appendix B del testo originale non disponibile in questo estratto; scheda generica, distinta da Knight Sarlamir — GS 6, Sessione 08 — che resta un cavaliere scheletrico unico e più potente)*
+### Stat Block — Cavaliere Scheletrico (×2) · GS 1 · 200 XP cad. *(ricostruzione DM — appendix B del testo originale non disponibile in questo estratto; scheda generica, distinta dal Cavaliere Sarlamir — GS 6, Sessione 08 — che resta un cavaliere scheletrico unico e più potente)*
 
 ```
 CAVALIERE SCHELETRICO — non-morto Medio, legale malvagio
@@ -288,7 +288,7 @@ Se i personaggi interrogano un teschio proveniente dall'area S3, questo può ris
 
 Se vengono interrogati i teschi delle aree S8 e S9, essi forniscono i fatti dettagliati in quelle sezioni.
 
-*[NOTA DM — riservata] **La scelta morale più diretta di tutta la sessione.** Nessuna maledizione meccanica è prevista dalla fonte per chi accetta l'offerta di Chemosh — è semplicemente un'utilità narrativa (comunicare coi morti senza simbolo sacro) offerta da un dio del male. Questo è precisamente il tipo di scelta che merita spazio al tavolo, non una risoluzione rapida: lascia che i giocatori discutano se accettare o rifiutare, e non forzare un giudizio morale univoco — la fonte non lo fa. Se un PG del preludio "Broken Silence" (connessione divina) è presente, questo è probabilmente il momento di spotlight più intenso e diretto dell'intera sessione per lui: vedi la sezione Hook PG più sotto.*
+*[NOTA DM — riservata] **La scelta morale più diretta di tutta la sessione.** Nessuna maledizione meccanica è prevista dalla fonte per chi accetta l'offerta di Chemosh — è semplicemente un'utilità narrativa (comunicare coi morti senza simbolo sacro) offerta da un dio del male. Questo è precisamente il tipo di scelta che merita spazio al tavolo, non una risoluzione rapida: lascia che i giocatori discutano se accettare o rifiutare, e non forzare un giudizio morale univoco — la fonte non lo fa. Se un PG del preludio "Silenzio Infranto (Broken Silence)" (connessione divina) è presente, questo è probabilmente il momento di spotlight più intenso e diretto dell'intera sessione per lui: vedi la sezione Hook PG più sotto.*
 
 ### Stat Block — Figura Colossale (Golem d'Argilla non-morto) · GS 9 · 5.000 XP *(ricostruzione DM — scheda standard del golem d'argilla, Manuale dei Mostri, riclassificata come non-morto invece che costrutto per esplicita indicazione della fonte; appare solo se un personaggio rifiuta l'offerta di Chemosh)*
 
@@ -423,7 +423,7 @@ Un'ispezione ravvicinata del pavimento rivela che le schegge di vetro sono pezzi
 
 ***Alstare Bellis.*** Il **vampiro** neutrale malvagio ed ex sommo sacerdote di Chemosh, **Alstare Bellis**, si nasconde appena sopra l'ingresso della tomba in forma di pipistrello. Un personaggio che supera una prova di **Saggezza (Percezione) CD 18** nota il pipistrello. Se Alstare non viene scoperto, aspetta che i personaggi entrino nella tomba e poi scende alle loro spalle, tornando alla forma umanoide e bloccando l'uscita.
 
-Alstare non attacca subito i personaggi, ma li interroga. Se diventa chiaro che sono nemici del Red Dragon Army, offre un patto. In cambio della distruzione dei draconiani al piano superiore — specialmente il loro comandante dalle scaglie dorate (**Drayan**, area S12) — Alstare ricompenserà il gruppo con "tesori incalcolabili". Una volta che i personaggi tornano da lui con prove di aver completato questo compito, Alstare rivelerà come accedere al caveau del tesoro (area S13) usando la statua nell'area S12.
+Alstare non attacca subito i personaggi, ma li interroga. Se diventa chiaro che sono nemici dell'Armata dei Draghi Rossi, offre un patto. In cambio della distruzione dei draconiani al piano superiore — specialmente il loro comandante dalle scaglie dorate (**Drayan**, area S12) — Alstare ricompenserà il gruppo con "tesori incalcolabili". Una volta che i personaggi tornano da lui con prove di aver completato questo compito, Alstare rivelerà come accedere al caveau del tesoro (area S13) usando la statua nell'area S12.
 
 Se i personaggi accettano di aiutare Alstare, egli condivide immediatamente anche come funziona l'altare nell'area S4.
 
@@ -486,9 +486,9 @@ Che il patto con Alstare venga accettato, rifiutato o rimandato, i personaggi si
 
 | Preludio | Hook in Sessione 25 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | Il momento di spotlight più diretto e personale dell'intera sessione: la Benedizione di Chemosh (FASE 4) mette alla prova esattamente il tipo di fede che questo PG porta con sé dai preludi. Non è necessariamente una tentazione da respingere con orrore automatico — la fonte non impone una penalità meccanica per l'accettazione — ma è un momento in cui il PG deve confrontarsi apertamente con cosa significhi il proprio rapporto col divino quando un dio del male gli si rivolge con rispetto genuino. Se la *dragonlance* di Sarlamir (Sessione 19) è ancora impugnata da questo PG, l'incontro opzionale col lesser death dragon (FASE 1) è un'altra occasione, più marginale, per sentirne il peso simbolico contro un drago corrotto — anche se non vero drago cromato. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Le Cripte del Tempio sono dense di magia antica e non convenzionale: gli specchi funerari di S7-S9, l'aura di necromanzia sull'altare di Chemosh (S4), e la menzione ripetuta (da Leedara in S2 e da Cithcillion in S8) dello *specchio dei passati riflessi* sono tutti agganci naturali. Con **Intelligenza (Arcano) CD 15**, questo PG riconosce che la magia degli specchi funerari (S7-S9) non è necromanzia comune, ma un'antica tecnica elfica di conservazione dello spirito — diversa nella sua "grana" arcana da qualunque cosa il Red Dragon Army abbia mai costruito. È la prosecuzione diretta dell'ipotesi avanzata in Sessione 24 su magie non convenzionali nella struttura della citadella: qui trova conferma che almeno una parte di quella magia è di origine elfica pre-Cataclisma, non della Regina Drago. |
-| **Scales of War** (tutti) | Lo scheletro di minotauro guardiano della cripta sigillata (FASE 3) porta il nome "Acont, Principe dei Minotauri" sulla targa della propria cripta infranta — un tempo un individuo di rango, ora ridotto a guardiano meccanico di un tesoro che non gli appartiene più. Lascia che un PG di questo preludio noti la differenza tra questo genere di non-morte (senza scelta, senza redenzione possibile) e le creature senzienti incontrate in questa stessa sessione — Leedara, il wight piangente, perfino Alstare Bellis, che negozia invece di attaccare a vista. Non tutti i morti di questo tempio sono uguali, ed è un tema che vale la pena portare a galla esplicitamente al tavolo. |
+| **Silenzio Infranto** (PG con connessione divina) | Il momento di spotlight più diretto e personale dell'intera sessione: la Benedizione di Chemosh (FASE 4) mette alla prova esattamente il tipo di fede che questo PG porta con sé dai preludi. Non è necessariamente una tentazione da respingere con orrore automatico — la fonte non impone una penalità meccanica per l'accettazione — ma è un momento in cui il PG deve confrontarsi apertamente con cosa significhi il proprio rapporto col divino quando un dio del male gli si rivolge con rispetto genuino. Se la *dragonlance* di Sarlamir (Sessione 19) è ancora impugnata da questo PG, l'incontro opzionale col drago della morte minore (FASE 1) è un'altra occasione, più marginale, per sentirne il peso simbolico contro un drago corrotto — anche se non vero drago cromato. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Le Cripte del Tempio sono dense di magia antica e non convenzionale: gli specchi funerari di S7-S9, l'aura di necromanzia sull'altare di Chemosh (S4), e la menzione ripetuta (da Leedara in S2 e da Cithcillion in S8) dello *specchio dei passati riflessi* sono tutti agganci naturali. Con **Intelligenza (Arcano) CD 15**, questo PG riconosce che la magia degli specchi funerari (S7-S9) non è necromanzia comune, ma un'antica tecnica elfica di conservazione dello spirito — diversa nella sua "grana" arcana da qualunque cosa l'Armata dei Draghi Rossi abbia mai costruito. È la prosecuzione diretta dell'ipotesi avanzata in Sessione 24 su magie non convenzionali nella struttura della citadella: qui trova conferma che almeno una parte di quella magia è di origine elfica pre-Cataclisma, non della Regina dei Draghi. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Lo scheletro di minotauro guardiano della cripta sigillata (FASE 3) porta il nome "Acont, Principe dei Minotauri" sulla targa della propria cripta infranta — un tempo un individuo di rango, ora ridotto a guardiano meccanico di un tesoro che non gli appartiene più. Lascia che un PG di questo preludio noti la differenza tra questo genere di non-morte (senza scelta, senza redenzione possibile) e le creature senzienti incontrate in questa stessa sessione — Leedara, il wight piangente, perfino Alstare Bellis, che negozia invece di attaccare a vista. Non tutti i morti di questo tempio sono uguali, ed è un tema che vale la pena portare a galla esplicitamente al tavolo. |
 | **Tutti** | Il ricongiungimento di Cithcillion con i resti dei propri amici (FASE 5) è un momento di spotlight collettivo naturale — non richiede abilità speciali di nessun PG, solo la scelta di portare a termine un compito emotivamente carico prima di ottenere informazioni utili. Lascia che il gruppo decida collettivamente come gestire i frammenti irreparabili di Madar: è un piccolo momento di cura reciproca prima del prossimo dungeon crawl. |
 
 ---
@@ -499,7 +499,7 @@ Che il patto con Alstare venga accettato, rifiutato o rimandato, i personaggi si
 
 **Missioni secondarie: nessun hook da integrare.** Verificati di nuovo `campagna/missioni-secondarie.md` e `campagna/fazioni.md`. Entrambi i file confermano esplicitamente che questa campagna **non prevede missioni secondarie strutturate**:
 
-- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza ai Dragon Armies." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
+- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza alle Armate dei Draghi." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
 - `campagna/fazioni.md`: "Nessuna fazione del party ha **missioni secondarie strutturate** — questa campagna è lineare."
 
 Coerente con tutte le Sessioni 04–24 precedenti. Non essendoci missioni in stato `In corso` o `Pianificata` per il livello attuale del party (Livello 11, livello finale), lo Step 4 è saltato per intero. Il contenuto principale della sessione resta invariato.
@@ -520,7 +520,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 
 ## Sezioni Opzionali
 
-- **Il combattimento opzionale con il lesser death dragon (FASE 1):** si attiva solo se la prova di gruppo di Sopravvivenza fallisce. Se il gruppo supera la prova, questa fase richiede solo pochi minuti di narrazione.
+- **Il combattimento opzionale con il drago della morte minore (FASE 1):** si attiva solo se la prova di gruppo di Sopravvivenza fallisce. Se il gruppo supera la prova, questa fase richiede solo pochi minuti di narrazione.
 - **L'esplorazione delle undici cripte (FASE 3):** non è necessario aprirle tutte. Le tabelle "Targhe delle Cripte" e "Contenuti delle Cripte" sono pensate per essere usate con discrezione, non esaurite sistematicamente.
 - **Il rifiuto dell'offerta di Chemosh (FASE 4):** genera un combattimento opzionale e molto pericoloso (GS 9) contro la Figura Colossale. Se nessun personaggio si avvicina al teschio, questa sotto-sezione non si attiva affatto.
 - **Il patto con Alstare Bellis (FASE 6):** la sua accettazione o il suo rifiuto non cambiano la struttura di questa sessione, ma determinano il tono dell'apertura della Sessione 26.
@@ -533,7 +533,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 
 | # | Fase | Location | Creature/PNG | Note |
 |---|------|----------|--------------|------|
-| 0 | FASE 1 | S1 — Tunnel della citadella | 1× lesser death dragon (CR8, opzionale) | Solo se la prova di gruppo Sopravvivenza CD16 fallisce |
+| 0 | FASE 1 | S1 — Tunnel della citadella | 1× drago della morte minore (CR8, opzionale) | Solo se la prova di gruppo Sopravvivenza CD16 fallisce |
 | 1 | FASE 2 | S2 — Ingresso | Leedara (fantasma, +2 Amichevole) | Scena espositiva; nessun combattimento |
 | 2 | FASE 3 | S3 — Cripta sigillata | 2× cavaliere scheletrico (GS1), 1× scheletro di minotauro (GS2) | Combattimento a vista; guardiani della cripta |
 | 3 | FASE 3 | S3 — Cripte (tabella) | 1× wight (GS3, opzionale) e/o 1× melma nera (GS4, opzionale) | Solo se estratti dalla tabella Contenuti delle Cripte |
@@ -541,7 +541,7 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 | 5 | FASE 5 | S5-S8 — Sagrestia, Catacombe elfiche, tombe di Madar e Cithcillion | Cithcillion (spirito, +1 Cordiale) | Esplorazione e dialogo; nessun combattimento |
 | 6 | FASE 6 | S9 — Tomba di Tenadria | Alstare Bellis (vampiro, GS13) | Negoziazione; combattimento solo se rifiutato/attaccato, e anche in tal caso Alstare fugge |
 
-**Nota generale sulle schede creature:** il **lesser death dragon** (FASE 1) e la **melma nera** (FASE 3) riutilizzano identiche le schede già stabilite nelle Sessioni 17/24 e Sessione 10 rispettivamente — nessuna nuova invenzione per queste due. Le schede completamente nuove di questa sessione sono: il **cavaliere scheletrico generico** (GS1, distinto da Knight Sarlamir GS6 della Sessione 08), lo **scheletro di minotauro** (GS2, standard Manuale dei Mostri), il **wight** (GS3, standard Manuale dei Mostri), la **figura colossale/golem d'argilla non-morto** (GS9, standard Manuale dei Mostri riclassificato) e **Alstare Bellis** (GS13, scheda standard del vampiro). Tutte segnalate esplicitamente come ricostruzioni per assenza di *appendix B*/manuale base in questo estratto testuale.
+**Nota generale sulle schede creature:** il **drago della morte minore** (FASE 1) e la **melma nera** (FASE 3) riutilizzano identiche le schede già stabilite nelle Sessioni 17/24 e Sessione 10 rispettivamente — nessuna nuova invenzione per queste due. Le schede completamente nuove di questa sessione sono: il **cavaliere scheletrico generico** (GS1, distinto dal Cavaliere Sarlamir GS6 della Sessione 08), lo **scheletro di minotauro** (GS2, standard Manuale dei Mostri), il **wight** (GS3, standard Manuale dei Mostri), la **figura colossale/golem d'argilla non-morto** (GS9, standard Manuale dei Mostri riclassificato) e **Alstare Bellis** (GS13, scheda standard del vampiro). Tutte segnalate esplicitamente come ricostruzioni per assenza di *appendix B*/manuale base in questo estratto testuale.
 
 ---
 
@@ -552,14 +552,14 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 - **BT-01:** "S1: Tunnels" (apertura) — il buio completo, i rimbombi occasionali, lo spostamento delle fondamenta in volo. Dettagli preservati integralmente.
 - **BT-02:** "S2: Entry" — il pozzo naturale, la fenditura verso est, l'elfa dalla pelle azzurrina in veste pallida con sorriso consapevole. Dettagli preservati integralmente.
 - **BT-03:** "S3: Burial Vault" — gli archi murati distribuiti sul perimetro, le targhe, il basamento con la statua minacciosa, la porta doppia/porta piccola/scalinata a est. Dettagli preservati integralmente.
-- **BT-04:** "S4: Chemosh's Shrine" (statua) — il basamento, la figura ammantata dal volto scarnificato, il paio di scheletri inginocchiati che reggono l'altare di pietra nera. Dettagli preservati integralmente.
+- **BT-04:** "S4: Santuario di Chemosh" (statua) — il basamento, la figura ammantata dal volto scarnificato, il paio di scheletri inginocchiati che reggono l'altare di pietra nera. Dettagli preservati integralmente.
 - **BT-05:** "Chemosh's Blessing" (voce) — "Ti trovo degno. Unisciti a me, e ti aprirò il Fiume delle Anime." Dettagli preservati integralmente.
 - **BT-06:** "S5: Vestry" — le vesti in disfacimento sui piolini, la sezione di parete aperta che rivela la porta segreta. Dettagli preservati integralmente.
-- **BT-07:** "S6: Elven Catacombs" — le tre statue (nord/sud/est), le rispettive pose, la statua a sud già spostata. Dettagli preservati integralmente.
-- **BT-08:** "S7: Madar's Tomb" — la lastra di marmo grigio, l'incavo nel soffitto, i resti scheletrici mescolati a frammenti di vetro. Dettagli preservati integralmente.
-- **BT-09:** "S8: Cithcillion's Tomb" — la lastra di marmo grigio, i resti scheletrici dell'elfo, lo specchio nell'incavo del soffitto. Dettagli preservati integralmente.
+- **BT-07:** "S6: Catacombe Elfiche" — le tre statue (nord/sud/est), le rispettive pose, la statua a sud già spostata. Dettagli preservati integralmente.
+- **BT-08:** "S7: Tomba di Madar" — la lastra di marmo grigio, l'incavo nel soffitto, i resti scheletrici mescolati a frammenti di vetro. Dettagli preservati integralmente.
+- **BT-09:** "S8: Tomba di Cithcillion" — la lastra di marmo grigio, i resti scheletrici dell'elfo, lo specchio nell'incavo del soffitto. Dettagli preservati integralmente.
 - **BT-10:** "S8" (voce di Cithcillion) — "Sono Cithcillion di Silvanost. Sono giunto qui con due cari amici, Madar e Tenadria. Sapete cos'è stato di loro?" Dettagli preservati integralmente.
-- **BT-11:** "S9: Tenadria's Tomb" — la lastra di marmo grigio, lo scheletro umanoide, l'incavo nel soffitto, le schegge di vetro infranto sparse. Dettagli preservati integralmente.
+- **BT-11:** "S9: Tomba di Tenadria" — la lastra di marmo grigio, lo scheletro umanoide, l'incavo nel soffitto, le schegge di vetro infranto sparse. Dettagli preservati integralmente.
 
 Tutti gli undici testi boxed sono stati tradotti, verificati contro l'originale per completezza informativa, ed espansi con aggiunta atmosferica separata secondo le regole della campagna. **Nessuna correzione necessaria in questa categoria.**
 
@@ -571,7 +571,7 @@ Tutti gli undici testi boxed sono stati tradotti, verificati contro l'originale 
 
 ### Fatti Accaduti
 
-- [ ] FASE 1 (Tunnel S1): prova di gruppo Sopravvivenza superata? Sì / No — lesser death dragon affrontato? Sì / No, esito: ____________
+- [ ] FASE 1 (Tunnel S1): prova di gruppo Sopravvivenza superata? Sì / No — drago della morte minore affrontato? Sì / No, esito: ____________
 - [ ] FASE 2 (Leedara): informazioni ricevute e comprese dal party? Sì / No — Leedara attaccata/scacciata? Sì / No
 - [ ] FASE 3 (Cripta sigillata): cavalieri scheletrici e minotauro sconfitti? Sì / No — cripte aperte: ____________ — wight/melma nera incontrati? Sì / No
 - [ ] FASE 4 (Santuario di Chemosh): un PG ha ricevuto l'offerta? Sì / No — chi: ____________ — accettata o rifiutata: ____________ — figura colossale affrontata? Sì / No
@@ -593,7 +593,7 @@ Tutti gli undici testi boxed sono stati tradotti, verificati contro l'originale 
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| FASE 1 (se combattuto) | 3.900 XP (lesser death dragon) |
+| FASE 1 (se combattuto) | 3.900 XP (drago della morte minore) |
 | FASE 3 (guardiani della cripta) | 850 XP (200×2 + 450) |
 | FASE 3 (estrazioni opzionali dalla tabella) | Fino a 1.800 XP (700 wight + 1.100 melma nera), se entrambe estratte e affrontate |
 | FASE 4 (se rifiutata l'offerta e affrontata la figura colossale) | 5.000 XP |
@@ -614,7 +614,7 @@ Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — nessun cambio di livello (resta 11); registra gli XP di combattimento assegnati (variabile in base agli incontri opzionali) — `[TODO DM: verificare]` il file resta comunque a placeholder Livello 1/TBD finché la campagna non viene giocata realmente
 - [ ] `campagna/png-incontrati.md` — **aggiungi Cithcillion** (+1 Cordiale, spirito elfo silvanesti), **aggiungi Alstare Bellis** (vampiro, patto condizionato o ostilità aperta a seconda dell'esito), **aggiorna Leedara** (Cap. 3 → ora rivelata pienamente, +2 Amichevole)
-- [ ] `campagna/rapporti.md` — completa "Capitolo 06 (Siege of Kalaman — Cap 7 libro)" con la rivelazione di Leedara, l'esito del patto con Alstare Bellis, e la riunione dei resti degli ambasciatori Silvanesti
+- [ ] `campagna/rapporti.md` — completa "Capitolo 06 (Assedio di Kalaman — Cap 7 libro)" con la rivelazione di Leedara, l'esito del patto con Alstare Bellis, e la riunione dei resti degli ambasciatori Silvanesti
 - [ ] `campagna/fazioni.md` — nessun cambiamento nella posizione delle fazioni principali; considera se annotare Alstare Bellis come potenziale alleato tattico temporaneo, se il patto viene accettato
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — nessun aggiornamento al Capitolo corrente (resta **7** — nessuna transizione, vedi ⏭ Step 6.5 sotto)
@@ -629,15 +629,15 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Intero documento | Verificata la struttura completa contro il template di `dm-notes-sessione-01.md` e contro `dm-notes-sessione-24.md`: header a campi singoli, 🎬 SETUP INIZIALE, FASI numerate con durata stimata, Hook PG, Thread Narrativi, Sezioni Opzionali, Indice Encounter, Testi Boxed, RECAP POST-SESSIONE, POST-SESSION CHECKLIST, REVISION LOG — tutte le sezioni presenti |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Aggiunta nota pre-sessione dettagliata (stile Sessioni 08/17/24) che giustifica il confine di taglio a fine "Temple Crypts" (riga 5907), la scelta di non accodare il Bastione di Takhisis/Kansaldi, e la durata superiore alla norma (~2h50m) |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Aggiunta nota pre-sessione dettagliata (stile Sessioni 08/17/24) che giustifica il confine di taglio a fine "Cripte del Tempio" (riga 5907), la scelta di non accodare il Bastione di Takhisis/Kansaldi, e la durata superiore alla norma (~2h50m) |
 | 3 | Continuità | SETUP INIZIALE | Verificato che l'apertura riprenda direttamente dalla chiusura della Sessione 24: il congedo di Clystran, l'ingresso nel tunnel S1, il countdown delle tre ore già stabilito |
 | 4 | Continuità | Header | Confermato che il livello del party resta **11** (nessun avanzamento in questa sessione) — coerente con `campagna/contesto.md` che dichiara 11 come livello finale della campagna |
 | 5 | Fedeltà fonte | Tutti gli 11 testi boxed (BT-01/11) | Verificati parola per parola contro `fonti/campagna/...md` righe 5706–5907: nessuna omissione trovata, tutti i dettagli chiave preservati — **nessuna correzione necessaria** in questa categoria |
 | 6 | Continuità | FASE 2 | Verificato e rafforzato il callback esplicito a Leedara (Sessione 01, Cap. 3) — confermato che la sua caratterizzazione (voce silenziosa, canzone silvanesti, mistero irrisolto) trova qui pagamento completo, coerente con la nota DM originale di Sessione 01 ("il suo vero ruolo si svelerà nel Cap. 4-7") |
 | 7 | Continuità | FASE 5 | Aggiunta nota DM esplicita sulla gestione narrativa dei resti frantumati di Madar (nessuna soluzione "pulita" imposta dalla fonte, interpretazione ragionevole applicata e segnalata) |
 | 8 | PNG | png-per-capitolo/capitolo-06/_png-master.md | **Aggiornate le voci di Cithcillion/Madar/Tenadria e Alstare Bellis** per riflettere la loro realizzazione concreta in questa sessione — vedi sezione ⏭ Step 6.5 sotto per il dettaglio |
-| 9 | Stat Block | Lesser Death Dragon, Melma Nera | Riutilizzate identiche le schede già stabilite in Sessioni 17/24 e Sessione 10 rispettivamente — **nessuna nuova invenzione meccanica** per queste due creature |
-| 10 | Stat Block | Cavaliere Scheletrico (generico), Scheletro di Minotauro, Wight, Figura Colossale (Golem d'Argilla non-morto), Alstare Bellis (Vampiro) | Create nuove schede, tutte segnalate esplicitamente come ricostruzioni dichiarate poiché *appendix B*/manuale base non sono disponibili in questo estratto testuale — stessa metodologia onesta già usata nelle Sessioni 06/08/17/19/23/24. Esplicitamente distinta la scheda del Cavaliere Scheletrico generico (GS1) da Knight Sarlamir (GS6, Sessione 08), per evitare confusione tra le due |
+| 9 | Stat Block | Drago della morte minore (*Lesser Death Dragon*), Melma Nera | Riutilizzate identiche le schede già stabilite in Sessioni 17/24 e Sessione 10 rispettivamente — **nessuna nuova invenzione meccanica** per queste due creature |
+| 10 | Stat Block | Cavaliere Scheletrico (generico), Scheletro di Minotauro, Wight, Figura Colossale (Golem d'Argilla non-morto), Alstare Bellis (Vampiro) | Create nuove schede, tutte segnalate esplicitamente come ricostruzioni dichiarate poiché *appendix B*/manuale base non sono disponibili in questo estratto testuale — stessa metodologia onesta già usata nelle Sessioni 06/08/17/19/23/24. Esplicitamente distinta la scheda del Cavaliere Scheletrico generico (GS1) dal Cavaliere Sarlamir (GS6, Sessione 08), per evitare confusione tra le due |
 | 11 | Meccaniche | FASE 3 (Cripta sigillata) | Tradotte integralmente le tabelle "Targhe delle Cripte" e "Contenuti delle Cripte" dalla fonte, incluso il collegamento narrativo (non meccanico) tra la targa vuota di Lorry Wanwillow e la sua vera natura di vampira ancora attiva, da incontrare in Sessione 26 |
 | 12 | Meccaniche | FASE 4 (Santuario di Chemosh) | Tradotta integralmente la meccanica dell'incantesimo *consacra*, la Benedizione di Chemosh, e la conseguenza del rifiuto (Figura Colossale) — segnalata esplicitamente come scelta morale senza penalità meccanica imposta dalla fonte |
 | 13 | Meccaniche | FASE 6 (Alstare Bellis) | Aggiunta nota DM esplicita sul tono negoziale dell'incontro, coerente con le capacità difensive/di fuga del vampiro (Fuga Nebbiosa) — l'incontro non è pensato per concludersi in un combattimento fino alla morte |
@@ -654,7 +654,7 @@ Dopo la sessione, aggiorna questi file:
 
 ## ⏭ Step 6.5 — Chapter PNG Briefer (SALTATO — nessuna transizione di capitolo)
 
-**Verifica transizione (Step 1 dell'agente).** `campagna/contesto.md` → Capitolo corrente al momento di aprire questa sessione: **7** (Siege of Kalaman — aperto in Sessione 22, confermato invariato in Sessioni 23 e 24). Il contenuto estratto per questa sessione (righe 5706–5907, "The Flying Citadel" → "Citadel Depths" + "Temple Crypts") si trova interamente dentro `# Chapter 7: Siege of Kalaman` (che inizia a riga 5286 e prosegue ben oltre riga 5907 — le intestazioni "## The Flying Citadel", "### Citadel Depths", "### Temple Crypts" sono sotto-sezioni `##`/`###` dello stesso capitolo, non nuovi `# Chapter`). Capitolo della sessione (**7**) **=** Capitolo corrente (**7**) → condizione di transizione **non soddisfatta**. **Step 6.5 saltato**, come previsto per una sessione che resta interamente dentro un capitolo già aperto.
+**Verifica transizione (Step 1 dell'agente).** `campagna/contesto.md` → Capitolo corrente al momento di aprire questa sessione: **7** (Assedio di Kalaman — aperto in Sessione 22, confermato invariato in Sessioni 23 e 24). Il contenuto estratto per questa sessione (righe 5706–5907, "Cittadella Volante" → "Profondità della Cittadella" + "Cripte del Tempio") si trova interamente dentro `# Chapter 7: Siege of Kalaman` (che inizia a riga 5286 e prosegue ben oltre riga 5907 — le intestazioni "## Cittadella Volante", "### Profondità della Cittadella", "### Cripte del Tempio" sono sotto-sezioni `##`/`###` dello stesso capitolo, non nuovi `# Chapter`). Capitolo della sessione (**7**) **=** Capitolo corrente (**7**) → condizione di transizione **non soddisfatta**. **Step 6.5 saltato**, come previsto per una sessione che resta interamente dentro un capitolo già aperto.
 
 `campagna/contesto.md` non richiede alcun aggiornamento del campo "Capitolo corrente" in questa sessione — resta **7**, coerente con quanto impostato in Sessione 22 e confermato nelle Sessioni 23 e 24.
 

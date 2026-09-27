@@ -1,31 +1,31 @@
-# DM Notes — Sessione 15: Bluemaw Cave, il Sale e le Ossa del Drago
+# DM Notes — Sessione 15: Grotta di Bluemaw, il Sale e le Ossa del Drago
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 5: The Northern Wastes** (righe 3936–4044), sezione **"F: Bluemaw Cave"**
-**Livello party:** 7 (invariato — Bluemaw Cave non è uno dei tre criteri di avanzamento del capitolo — tre location/impresa straordinaria/passaggio a Wind's End, vedi Sessioni 12–13 — quindi nessun avanzamento è concesso qui. Il primo criterio è già stato consumato in Sessione 12 [Livello 7], il secondo deliberatamente riservato dalla Sessione 13, il terzo resta l'obiettivo di fine capitolo alla sezione K, non ancora estratta)
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — **Cap. 5: Terre Desolate del Nord** (righe 3936–4044), sezione **"F: Grotta di Bluemaw"**
+**Livello party:** 7 (invariato — Grotta di Bluemaw non è uno dei tre criteri di avanzamento del capitolo — tre location/impresa straordinaria/passaggio a Wind's End, vedi Sessioni 12–13 — quindi nessun avanzamento è concesso qui. Il primo criterio è già stato consumato in Sessione 12 [Livello 7], il secondo deliberatamente riservato dalla Sessione 13, il terzo resta l'obiettivo di fine capitolo alla sezione K, non ancora estratta)
 **XP accumulati:** Ereditati dalla Sessione 14 (vedi `campagna/party.md`, ancora TBD). Questa sessione offre XP di combattimento potenzialmente denso, distribuito su tre incontri distinti: fino a **3.150 XP** (branco di 7 **gricks**, CR 2, 450 XP cad., F1, difficilmente evitabile una volta attirata la loro attenzione), fino a **950 XP** (1 draconiano sivak + 5 draconiani baaz, F3 — l'ostacolo centrale se il party sceglie di liberare la caverna per il clan Migan) e fino a **1.600 XP** (1 **grick alpha** + 2 gricks, F3, scatenati solo se il combattimento nella fossa di sabbia degenera): **totale potenziale fino a ~5.700 XP** se il party affronta tutto direttamente. Nessuno di questi scontri è esplicitamente etichettato come "impresa straordinaria" dalla fonte, quindi nessun avanzamento di livello è legato a questa sessione
-**Obiettivo sessione:** Rispondere all'aggancio lasciato dai cercatori di Heart's Hollow (Sessione 14): raggiungere **Bluemaw Cave**, incontrare **Grasha Migan** e il suo clan di nani rifugiati, decidere se aiutarli a liberare la caverna dai **draconiani** che ne stanno saccheggiando il tesoro (l'antica tana di un drago blu, il cui nome — **Nadir** — è inciso nella roccia), superare la **fossa di sabbie mobili** di F3, e tornare con il clan Migan riconquistarsi finalmente la propria casa.
+**Obiettivo sessione:** Rispondere all'aggancio lasciato dai cercatori di Heart's Hollow (Sessione 14): raggiungere la **Grotta di Bluemaw**, incontrare **Grasha Migan** e il suo clan di nani rifugiati, decidere se aiutarli a liberare la caverna dai **draconiani** che ne stanno saccheggiando il tesoro (l'antica tana di un drago blu, il cui nome — **Nadir** — è inciso nella roccia), superare la **fossa di sabbie mobili** di F3, e tornare con il clan Migan riconquistarsi finalmente la propria casa.
 **Durata stimata:** ~2h30m (6 fasi: 20 + 25 + 25 + 15 + 45 + 20 min)
-**Sessione precedente:** dm-notes-sessione-14.md — Cap. 5: The Northern Wastes, **Heart's Hollow / Dragonnel Spire** (righe 4045–4138): incontro con Clystran, esplorazione del villaggio nascosto, rivelazione di Nezrah/Ness, consegna opzionale dell'uovo di drago, foraggiamento dei dragonnel — e l'aggancio diretto verso questa sessione: un gruppo di cercatori che chiede al party di controllare Bluemaw Cave e stabilire un rapporto con i nani avvistati lì
+**Sessione precedente:** dm-notes-sessione-14.md — Cap. 5: Terre Desolate del Nord, **Heart's Hollow / Guglia dei Dragonnel** (righe 4045–4138): incontro con Clystran, esplorazione del villaggio nascosto, rivelazione di Nezrah/Ness, consegna opzionale dell'uovo di drago, foraggiamento dei dragonnel — e l'aggancio diretto verso questa sessione: un gruppo di cercatori che chiede al party di controllare la Grotta di Bluemaw e stabilire un rapporto con i nani avvistati lì
 
-> ⚠️ **Nota pre-sessione — perché Bluemaw Cave, e perché da sola.** Ho verificato di persona sia la chiusura della Sessione 14 sia l'intera fonte primaria rimanente del Cap. 5 (righe 3936–4353) prima di scegliere cosa preparare qui. Le opzioni rimaste erano: **F: Bluemaw Cave** (righe 3936–4044, questa sessione), **J: Dread Wolf Cove** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread aperto fin dalla Sessione 12, mai onorato), e la sezione di transizione **K: City of Lost Names** (righe 4255–4353, che introduce l'accampamento del Dragon Army a Wind's End, la battaglia che chiude il capitolo, e l'avanzamento a Livello 8). Ho scelto **Bluemaw Cave**, e l'ho scelta **da sola**, per queste ragioni:
+> ⚠️ **Nota pre-sessione — perché Grotta di Bluemaw, e perché da sola.** Ho verificato di persona sia la chiusura della Sessione 14 sia l'intera fonte primaria rimanente del Cap. 5 (righe 3936–4353) prima di scegliere cosa preparare qui. Le opzioni rimaste erano: **F: Grotta di Bluemaw** (righe 3936–4044, questa sessione), **J: Cala del Lupo Terribile** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread aperto fin dalla Sessione 12, mai onorato), e la sezione di transizione **K: Città dei Nomi Perduti** (righe 4255–4353, che introduce l'accampamento dell'Armata dei Draghi a Wind's End, la battaglia che chiude il capitolo, e l'avanzamento a Livello 8). Ho scelto **Grotta di Bluemaw**, e l'ho scelta **da sola**, per queste ragioni:
 >
-> 1. **Aggancio diretto e non rimandabile.** La Sessione 14 si è chiusa con un gruppo di cercatori di Heart's Hollow che chiede esplicitamente al party di controllare Bluemaw Cave. È l'unico thread rimasto del capitolo con un gancio comunitario così fresco e specifico — rimandarlo ulteriormente rischierebbe di farlo sembrare dimenticato, esattamente come la Sessione 13 aveva segnalato per Camp Carrionclay dopo la doppia conferma di Ishvern e Yearkal.
-> 2. **Struttura autonoma e completa, adatta a una sessione singola — non a un accessorio di un'altra location.** Bluemaw Cave ha un inizio (l'avvicinamento e la trappola di Grasha), uno sviluppo in tre aree numerate (F1–F3, ciascuna con una minaccia distinta: branco di gricks, sabbie mobili, draconiani, grick alpha) e una chiusura netta ("Victory!" — i nani rientrano in casa). È strutturalmente parallela a Sunward Fortress (S11), Wakenreth (S12) e Camp Carrionclay (S13): un dungeon crawl autoconclusivo, non un hub relazionale diluibile come Heart's Hollow.
+> 1. **Aggancio diretto e non rimandabile.** La Sessione 14 si è chiusa con un gruppo di cercatori di Heart's Hollow che chiede esplicitamente al party di controllare la Grotta di Bluemaw. È l'unico thread rimasto del capitolo con un gancio comunitario così fresco e specifico — rimandarlo ulteriormente rischierebbe di farlo sembrare dimenticato, esattamente come la Sessione 13 aveva segnalato per Camp Carrionclay dopo la doppia conferma di Ishvern e Yearkal.
+> 2. **Struttura autonoma e completa, adatta a una sessione singola — non a un accessorio di un'altra location. La ** Grotta di Bluemaw ha un inizio (l'avvicinamento e la trappola di Grasha), uno sviluppo in tre aree numerate (F1–F3, ciascuna con una minaccia distinta: branco di gricks, sabbie mobili, draconiani, grick alpha) e una chiusura netta ("Victory!" — i nani rientrano in casa). È strutturalmente parallela alla Fortezza di Sunward (S11), Wakenreth (S12) e Camp Carrionclay (S13): un dungeon crawl autoconclusivo, non un hub relazionale diluibile come Heart's Hollow.
 > 3. **Densità tattica alta nonostante il conteggio parole contenuto.** Ho contato **~1.539 parole** di testo grezzo inglese nella sezione F — in linea con Camp Carrionclay (1.280 parole, S13) più che con le sessioni relazionali (Heart's Hollow, 1.578 parole ma quasi priva di combattimento obbligato). Qui, al contrario, si concentrano **tre incontri di combattimento distinti** (gricks in F1, draconiani + sabbie mobili + grick alpha in F3) più una trappola ambientale (il pozzo all'ingresso) e una scena diplomatica strutturata (convincere Reka e il clan Migan). Come indicato dalle istruzioni dell'Agente 1 — "la densità va considerata: incontri di combattimento = più tempo" — questo giustifica pienamente una stima di ~2h30m nonostante il conteggio parole relativamente basso.
-> 4. **Perché non combinarla con J (Dread Wolf Cove).** Ho valutato seriamente questa opzione (sono solo 278 parole aggiuntive), ma **Dread Wolf Cove richiede la presenza attiva di Dalamar** come compagno di scorta — un PNG che non ha alcun ruolo narrativo o logistico a Bluemaw Cave. Le due location sono sganciate per trigger, PNG coinvolti e persino tono (una diplomazia comunitaria con nani rifugiati contro una scorta arcana verso un manufatto di magia oscura). Fondere le due scene in una sessione avrebbe richiesto o di forzare la presenza di Dalamar senza motivo, o di trattarle come due mini-sessioni scollegate nello stesso file — entrambe soluzioni deboli. Dread Wolf Cove resta un thread pulito e autonomo per una sessione futura, quando il tavolo deciderà di onorare la promessa di scorta.
-> 5. **Perché non combinarla con K (City of Lost Names — transizione).** Questa è stata la decisione più delicata. K contiene il vero climax strutturale del capitolo: la rivelazione dell'accampamento del Dragon Army, la battaglia di Wind's End (con la propria tabella di eventi casuali), il ritrovamento del passaggio, e l'avanzamento a Livello 8 che chiude il Cap. 5. Sommare Bluemaw Cave (tre combattimenti già) a Wind's End (un'altra battaglia strutturata con tabella di eventi) avrebbe prodotto una sessione con **quattro** scontri tattici distinti in 2h30m — un ritmo insostenibile al tavolo, e un rischio concreto di dover tagliare a metà proprio il momento che la fonte stessa presenta come "perfetto cliffhanger" di fine capitolo. K merita una sessione tutta sua, con il proprio ritmo di apertura (il debriefing con Darrett, la pianificazione dell'attacco) invece di essere schiacciata in coda a un dungeon crawl indipendente.
+> 4. **Perché non combinarla con J (Cala del Lupo Terribile).** Ho valutato seriamente questa opzione (sono solo 278 parole aggiuntive), ma la **Cala del Lupo Terribile richiede la presenza attiva di Dalamar** come compagno di scorta — un PNG che non ha alcun ruolo narrativo o logistico alla Grotta di Bluemaw. Le due location sono sganciate per trigger, PNG coinvolti e persino tono (una diplomazia comunitaria con nani rifugiati contro una scorta arcana verso un manufatto di magia oscura). Fondere le due scene in una sessione avrebbe richiesto o di forzare la presenza di Dalamar senza motivo, o di trattarle come due mini-sessioni scollegate nello stesso file — entrambe soluzioni deboli. La Cala del Lupo Terribile resta un thread pulito e autonomo per una sessione futura, quando il tavolo deciderà di onorare la promessa di scorta.
+> 5. **Perché non combinarla con K (Città dei Nomi Perduti — transizione).** Questa è stata la decisione più delicata. K contiene il vero climax strutturale del capitolo: la rivelazione dell'accampamento dell'Armata dei Draghi, la battaglia di Wind's End (con la propria tabella di eventi casuali), il ritrovamento del passaggio, e l'avanzamento a Livello 8 che chiude il Cap. 5. Sommare Grotta di Bluemaw (tre combattimenti già) a Wind's End (un'altra battaglia strutturata con tabella di eventi) avrebbe prodotto una sessione con **quattro** scontri tattici distinti in 2h30m — un ritmo insostenibile al tavolo, e un rischio concreto di dover tagliare a metà proprio il momento che la fonte stessa presenta come "perfetto cliffhanger" di fine capitolo. K merita una sessione tutta sua, con il proprio ritmo di apertura (il debriefing con Darrett, la pianificazione dell'attacco) invece di essere schiacciata in coda a un dungeon crawl indipendente.
 >
-> **Questa è ancora una scelta di preparazione, non un fatto di gioco.** Se il tuo tavolo, alla chiusura reale della Sessione 14, ha scelto di dirigersi verso Dread Wolf Cove, direttamente verso la Spina del Gigante/Wind's End, o ha ignorato del tutto l'aggancio dei cercatori, **non usare questo file**: prepara invece la scelta effettiva con `/prep-sessione 15` di nuovo.
+> **Questa è ancora una scelta di preparazione, non un fatto di gioco.** Se il tuo tavolo, alla chiusura reale della Sessione 14, ha scelto di dirigersi verso la Cala del Lupo Terribile, direttamente verso la Spina del Gigante/Wind's End, o ha ignorato del tutto l'aggancio dei cercatori, **non usare questo file**: prepara invece la scelta effettiva con `/prep-sessione 15` di nuovo.
 >
-> **Delimitazione del chunk — dove finisce questa sessione e perché mi fermo qui.** Ho verificato l'intera sezione "F: Bluemaw Cave" (righe 3936–4044): copre l'avvicinamento, la trappola di Grasha, il ritratto di Grasha, l'incontro con il clan Migan, la decisione di aiutarli, le caratteristiche della caverna, le tre aree numerate F1–F3, e la chiusura "Victory!". È una scena narrativamente **completa e autoconclusiva**, che termina esattamente dove la fonte cambia soggetto, luogo e tono con "G: Heart's Hollow" (riga 4045 — già coperta in Sessione 14). Non ho tagliato a metà nessun incontro: anche la sotto-sezione delle sabbie mobili e il grick alpha, entrambi in F3, sono stati inclusi per intero.
+> **Delimitazione del chunk — dove finisce questa sessione e perché mi fermo qui.** Ho verificato l'intera sezione "F: Grotta di Bluemaw" (righe 3936–4044): copre l'avvicinamento, la trappola di Grasha, il ritratto di Grasha, l'incontro con il clan Migan, la decisione di aiutarli, le caratteristiche della caverna, le tre aree numerate F1–F3, e la chiusura "Victory!". È una scena narrativamente **completa e autoconclusiva**, che termina esattamente dove la fonte cambia soggetto, luogo e tono con "G: Heart's Hollow" (riga 4045 — già coperta in Sessione 14). Non ho tagliato a metà nessun incontro: anche la sotto-sezione delle sabbie mobili e il grick alpha, entrambi in F3, sono stati inclusi per intero.
 >
-> **Nota sulle locations aggiuntive non toccate.** Restano non estratte: **J: Dread Wolf Cove** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread ereditato dalla Sessione 12, mai onorato) e la sezione di transizione **K: City of Lost Names** (righe 4255–4353, che introduce l'accampamento del Dragon Army a Wind's End, la battaglia che chiude il capitolo, e l'avanzamento a Livello 8). **Nessuna di queste è stata estratta né tradotta in questa sessione.** Con Bluemaw Cave coperta, **G, H, I** già coperte (Sessioni 13–14), il Cap. 5 ha ora solo **J e K** ancora da giocare prima della transizione al Cap. 6 (riga 4354).
+> **Nota sulle locations aggiuntive non toccate.** Restano non estratte: **J: Cala del Lupo Terribile** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread ereditato dalla Sessione 12, mai onorato) e la sezione di transizione **K: Città dei Nomi Perduti** (righe 4255–4353, che introduce l'accampamento dell'Armata dei Draghi a Wind's End, la battaglia che chiude il capitolo, e l'avanzamento a Livello 8). **Nessuna di queste è stata estratta né tradotta in questa sessione.** Con la Grotta di Bluemaw coperta, **G, H, I** già coperte (Sessioni 13–14), il Cap. 5 ha ora solo **J e K** ancora da giocare prima della transizione al Cap. 6 (riga 4354).
 >
-> **Party ancora in TBD.** Come nelle Sessioni 00–14, `campagna/party.md` e `fonti/personaggi/` non contengono PG reali. Gli hook PG restano impostati sui tre preludi canonici del manuale (*Broken Silence*, *Eye in the Sky*, *Scales of War*) fino a quando il party non sarà definito.
+> **Party ancora in TBD.** Come nelle Sessioni 00–14, `campagna/party.md` e `fonti/personaggi/` non contengono PG reali. Gli hook PG restano impostati sui tre preludi canonici del manuale (*Silenzio Infranto*, *Occhio nel Cielo*, *Scaglie di Guerra*) fino a quando il party non sarà definito.
 >
 > **Nessuna missione di fazione da integrare.** Come nelle Sessioni 04–14, `campagna/missioni-secondarie.md` non contiene missioni `In corso` o `Pianificate`, e `campagna/fazioni.md` non prevede missioni strutturate per questa campagna lineare. L'Agente 4 ha verificato entrambi i file e non ha integrato alcun hook di missione in questo draft — l'unico thread "di fazione" toccato da questa sessione (i cercatori di Heart's Hollow) è un thread narrativo di location ereditato dalla Sessione 14, non una missione strutturata.
 >
-> **Step 6.5 non si applica.** Questa sessione resta interamente all'interno del Cap. 5 (The Northern Wastes, righe 3191–4353 della fonte): non c'è transizione di capitolo. Verificato direttamente sulla fonte: `# Chapter 5: The Northern Wastes` inizia alla riga **3191**, `# Chapter 6: City of Lost Names` alla riga **4354**, `# Chapter 7: Siege of Kalaman` alla riga **5286**. Le righe di questa sessione (3936–4044) restano ben all'interno del Cap. 5, e molto lontane sia dal Cap. 6 sia dal Cap. 7. `campagna/contesto.md` → Capitolo corrente resta **5**.
+> **Step 6.5 non si applica.** Questa sessione resta interamente all'interno del Cap. 5 (Terre Desolate del Nord, righe 3191–4353 della fonte): non c'è transizione di capitolo. Verificato direttamente sulla fonte: `# Chapter 5: The Northern Wastes` inizia alla riga **3191**, `# Chapter 6: City of Lost Names` alla riga **4354**, `# Chapter 7: Siege of Kalaman` alla riga **5286**. Le righe di questa sessione (3936–4044) restano ben all'interno del Cap. 5, e molto lontane sia dal Cap. 6 sia dal Cap. 7. `campagna/contesto.md` → Capitolo corrente resta **5**.
 >
 > **Nuovi PNG introdotti.** Questa sessione introduce **Grasha Migan** (nana, leader del clan e inventrice) e sette membri della sua famiglia: **Reka** (sua moglie, diffidente ma pragmatica), **Blem, Grap, Lop, Oske, Trop, Yula** (nominati dalla fonte ma senza caratterizzazione propria — puoi svilupparli liberamente al tavolo). Nessuno ha uno stub preesistente in `campagna/png-incontrati.md` — andranno aggiunti da zero nel workflow `/aggiorna-sessione`. Il nome **"Nadir"**, inciso nella roccia di F3, appartiene al drago blu che un tempo abitava la caverna: non è presentato dalla fonte come un PNG attivo (il drago ha "abbandonato" la tana da tempo), ma è un dettaglio di lore che vale la pena annotare per eventuali richiami futuri.
 
@@ -39,7 +39,7 @@
 >
 > Non aspetta una risposta prima di arrotolare la mappa e tornare al proprio lavoro. Ma il segno a carboncino resta impresso nella vostra memoria: una caverna, un cratere di sale blu, e una domanda semplice che nessuno a Heart's Hollow ha ancora avuto il coraggio — o i mezzi — di andare a porre di persona.
 
-*[NOTA DM — riservata] Se il tuo tavolo ha lasciato Heart's Hollow con Clystran come guida (Sessione 14, FASE 5), questo è un buon momento per farlo intervenire: conosce la direzione approssimativa di Bluemaw Cave e può dimezzare il tempo di viaggio (ignora terreno difficile). Se il party non ha guide, il viaggio richiede semplicemente un giorno o due extra attraverso le Wastes — usa le tabelle di viaggio e le tabelle di incontro casuale già tradotte nella Sessione 09, se vuoi inserire un incontro ambientale lungo la strada.*
+*[NOTA DM — riservata] Se il tuo tavolo ha lasciato Heart's Hollow con Clystran come guida (Sessione 14, FASE 5), questo è un buon momento per farlo intervenire: conosce la direzione approssimativa della Grotta di Bluemaw e può dimezzare il tempo di viaggio (ignora terreno difficile). Se il party non ha guide, il viaggio richiede semplicemente un giorno o due extra attraverso le Terre Desolate — usa le tabelle di viaggio e le tabelle di incontro casuale già tradotte nella Sessione 09, se vuoi inserire un incontro ambientale lungo la strada.*
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Contesto per il DM
 
-Bluemaw Cave è un'antica tana di drago, abbandonata da tempo, che deve la propria sfumatura azzurra a un'alta concentrazione di cristalli di sale blu. I personaggi potrebbero imbattersi in Bluemaw Cave per caso, o apprenderne l'esistenza dai cercatori di Heart's Hollow (vedi SETUP INIZIALE). La caverna fu scavata da un drago blu che l'abbandonò molto tempo fa; ora ospita una famiglia di nani catturati a sud dal Dragon Army, ma da allora fuggiti — hanno reclamato la caverna come una casa lontana dalla guerra. Per una disgrazia atroce, il comandante del Dragon Army **Belephaion** ha di recente identificato il luogo come una possibile tana di drago e vi ha inviato dei draconiani a investigare.
+Grotta di Bluemaw è un'antica tana di drago, abbandonata da tempo, che deve la propria sfumatura azzurra a un'alta concentrazione di cristalli di sale blu. I personaggi potrebbero imbattersi nella Grotta di Bluemaw per caso, o apprenderne l'esistenza dai cercatori di Heart's Hollow (vedi SETUP INIZIALE). La caverna fu scavata da un drago blu che l'abbandonò molto tempo fa; ora ospita una famiglia di nani catturati a sud dall'Armata dei Draghi, ma da allora fuggiti — hanno reclamato la caverna come una casa lontana dalla guerra. Per una disgrazia atroce, il comandante dell'Armata dei Draghi **Belephaion** ha di recente identificato il luogo come una possibile tana di drago e vi ha inviato dei draconiani a investigare.
 
 ### Testo — L'Ingresso di Zaffiro [BT-01]
 
 > Una caverna imponente si apre nella parete rocciosa davanti a voi. Enormi cristalli color zaffiro-blu ne incorniciano la bocca.
 
 *[Aggiunta atmosferica]:*
-> *Da vicino, i cristalli non sono affatto immobili come sembrano da lontano: pulsano appena, con una luce sedata che ricorda più il respiro di qualcosa di addormentato che il bagliore inerte del minerale. È bellissimo, ed è esattamente il tipo di bellezza che le Wastes usano per farti abbassare la guardia.*
+> *Da vicino, i cristalli non sono affatto immobili come sembrano da lontano: pulsano appena, con una luce sedata che ricorda più il respiro di qualcosa di addormentato che il bagliore inerte del minerale. È bellissimo, ed è esattamente il tipo di bellezza che le Terre Desolate usano per farti abbassare la guardia.*
 
 Grasha ha appena finito di costruire una trappola a pozzo appena dentro l'imbocco della caverna. Si è nascosta per tutto il giorno in un crepaccio vicino alla sommità dell'imbocco, in attesa di vedere se qualche draconiano ci sarebbe caduto dentro.
 
@@ -68,7 +68,7 @@ Che la trappola venga innescata o meno, Grasha sente i personaggi avvicinarsi, e
 
 ### Grasha Migan — Ritratto
 
-La leader di una famiglia di nani ed entusiasta di ingegneria gnomesca, **Grasha** indossa abiti lavorati a maglia patchwork e porta i capelli in una lunga treccia. Grasha è un'inventrice di talento, affascinata dai rari minerali che ha trovato intorno a Bluemaw Cave.
+La leader di una famiglia di nani ed entusiasta di ingegneria gnomesca, **Grasha** indossa abiti lavorati a maglia patchwork e porta i capelli in una lunga treccia. Grasha è un'inventrice di talento, affascinata dai rari minerali che ha trovato intorno alla Grotta di Bluemaw.
 
 - **Tratto della Personalità:** "Se essere madre mi ha insegnato qualcosa, è l'importanza dell'improvvisazione."
 - **Ideale:** "Le idee migliori sono efficaci, ma anche un po' appariscenti."
@@ -79,7 +79,7 @@ La leader di una famiglia di nani ed entusiasta di ingegneria gnomesca, **Grasha
 
 Quando Grasha si avvicina ai personaggi, non è minacciosa. A meno che i personaggi non siano ostili, si scusa profondamente e aiuta chiunque sia caduto nella trappola. Grasha mette in guardia dall'entrare nella caverna, poiché brulica di mostri e draconiani.
 
-Spiega che lei e il suo clan sono arrivati qui dopo essere stati catturati dal Dragon Army. Incoraggia i personaggi a non indugiare vicino all'imbocco della caverna, per non attirare l'attenzione dei nemici all'interno. Grasha propone di guidare i personaggi verso un luogo sicuro dove potranno incontrare il resto del suo clan, ma avverte che il tragitto potrebbe risultare scomodo per chi ha una corporatura più grande.
+Spiega che lei e il suo clan sono arrivati qui dopo essere stati catturati dall'Armata dei Draghi. Incoraggia i personaggi a non indugiare vicino all'imbocco della caverna, per non attirare l'attenzione dei nemici all'interno. Grasha propone di guidare i personaggi verso un luogo sicuro dove potranno incontrare il resto del suo clan, ma avverte che il tragitto potrebbe risultare scomodo per chi ha una corporatura più grande.
 
 *[NOTA DM — riservata] **Interpretazione di Grasha.** È calorosa, un po' ciarliera, e sinceramente mortificata se qualcuno è finito nel suo pozzo — offre subito bende, un sorso della sua fiaschetta, o semplicemente scuse ripetute finché non è chiaro che il personaggio non le serba rancore. È il tipo di persona che ha imparato a improvvisare soluzioni funzionanti (anche se un po' rischiose) perché l'alternativa, con una famiglia da proteggere nel bel mezzo di una guerra, era non improvvisare affatto.*
 
@@ -121,7 +121,7 @@ Se i personaggi accettano di aiutare i nani, Grasha aggiunge con noncuranza che,
 
 ### Verso l'Imbocco
 
-Una volta che i personaggi sono pronti, Grasha li conduce all'ingresso di Bluemaw Cave. Grasha non andrà oltre l'imbocco della caverna, ma assicura ai personaggi che riarmerà la trappola a pozzo per tenere lontani gli intrusi.
+Una volta che i personaggi sono pronti, Grasha li conduce all'ingresso della Grotta di Bluemaw. Grasha non andrà oltre l'imbocco della caverna, ma assicura ai personaggi che riarmerà la trappola a pozzo per tenere lontani gli intrusi.
 
 ---
 
@@ -136,7 +136,7 @@ Una volta che i personaggi sono pronti, Grasha li conduce all'ingresso di Bluema
 
 *~25 minuti · Le caratteristiche della caverna, i cristalli di sale, il branco di gricks*
 
-### Caratteristiche di Bluemaw Cave — Riferimento del DM
+### Caratteristiche della Grotta di Bluemaw — Riferimento del DM
 
 La caverna è scavata nella roccia ignea. Il suo ingresso vanta un soffitto cavernoso alto 12 metri, e la sua camera inferiore si apre verso la superficie sopra di essa. La tana presenta inoltre le seguenti caratteristiche:
 
@@ -152,7 +152,7 @@ La caverna è scavata nella roccia ignea. Il suo ingresso vanta un soffitto cave
 *[Aggiunta atmosferica]:*
 > *Il suono dei vostri stessi passi cambia qui dentro — più acuto, quasi cristallino a sua volta, come se la caverna stessa avesse deciso di far risuonare ogni movimento un po' più a lungo del necessario. Da qualche parte più in profondità, un grugnito rauco in una lingua che non è la vostra risponde a un altro, poi tace.*
 
-Una prova di Investigare rivela che i cristalli sono di sale, sebbene abbiano proprietà speciali (dettagliate sopra in "Caratteristiche di Bluemaw Cave"). I draconiani nell'area F3 si possono udire debolmente da qui, grugnendo e ringhiando tra loro in Draconico.
+Una prova di Investigare rivela che i cristalli sono di sale, sebbene abbiano proprietà speciali (dettagliate sopra in "Caratteristiche della Grotta di Bluemaw"). I draconiani nell'area F3 si possono udire debolmente da qui, grugnendo e ringhiando tra loro in Draconico.
 
 ***Branco di Gricks.*** I personaggi attirano l'attenzione di un branco di sette **gricks** nascosti nelle fessure delle pareti. Erano stati agitati e infine spaventati fuori dalla camera inferiore dai draconiani. Attaccano la prima creatura che vedono.
 
@@ -237,7 +237,7 @@ TRATTI
 Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
 incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+Spasmi di Morte. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
 pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
 TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
 Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
@@ -267,7 +267,7 @@ Linguaggi Comune, Draconico
 CR 4 (1.100 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+Spasmi di Morte. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
 piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
 URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
 sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
@@ -320,15 +320,15 @@ Tentacoli. Attacco con arma in mischia: +7 al colpire, portata 3 m. Colpito: 11 
 
 I draconiani hanno rimosso gran parte del tesoro dell'accumulo, ma qualcosa resta nei sacchi qui e nascosto sotto la sabbia. I draconiani hanno raccolto **700 mo** nei loro sacchi. Cercare ed estrarre in sicurezza ciò che rimane richiede circa **sei ore**, a meno che i personaggi non usino mezzi magici per spostare la sabbia, nel qual caso il tempo può essere ridotto a discrezione del DM. L'accumulo rimanente include **1.200 mr, 8.000 ma, 2.300 mo, 60 mp**, dodici gemme assortite del valore di 50 mo ciascuna, un calice ornato del valore di 1.000 mo, e un paio di **stivali di levitazione**.
 
-*[NOTA DM — riservata] **Le sei ore di scavo sono un costo narrativo, non solo economico.** Se il party sceglie di scavare per intero l'accumulo, considera cosa succede nel frattempo: un riposo lungo forzato nel cuore delle Wastes, un possibile incontro casuale (usa le tabelle della Sessione 09), o semplicemente il tempo che passa mentre i cercatori di Heart's Hollow attendono notizie. Non è necessario penalizzare la scelta — è semplicemente un'informazione utile per il ritmo della sessione, specialmente se il tavolo vuole chiudere con Grasha e il clan nella stessa giornata di gioco.*
+*[NOTA DM — riservata] **Le sei ore di scavo sono un costo narrativo, non solo economico.** Se il party sceglie di scavare per intero l'accumulo, considera cosa succede nel frattempo: un riposo lungo forzato nel cuore delle Terre Desolate, un possibile incontro casuale (usa le tabelle della Sessione 09), o semplicemente il tempo che passa mentre i cercatori di Heart's Hollow attendono notizie. Non è necessario penalizzare la scelta — è semplicemente un'informazione utile per il ritmo della sessione, specialmente se il tavolo vuole chiudere con Grasha e il clan nella stessa giornata di gioco.*
 
 ---
 
-**Attitudine PNG in questa scena:** *(nessun PNG nominato presente — solo creature ostili; il tesoro appartiene formalmente al Dragon Army che l'ha saccheggiato, non al clan Migan)*
+**Attitudine PNG in questa scena:** *(nessun PNG nominato presente — solo creature ostili; il tesoro appartiene formalmente all'Armata dei Draghi che l'ha saccheggiato, non al clan Migan)*
 
 ---
 
-## FASE 6 — Epilogo: Vittoria a Bluemaw Cave
+## FASE 6 — Epilogo: Vittoria alla Grotta di Bluemaw
 
 *~20 minuti · Il ringraziamento del clan, il ritorno a casa, la scelta della prossima destinazione*
 
@@ -341,11 +341,11 @@ I draconiani hanno rimosso gran parte del tesoro dell'accumulo, ma qualcosa rest
 
 *[NOTA DM — riservata] **Chiusura calda, non trionfalistica.** Questa non è la liberazione di un intero villaggio (Heart's Hollow, S14) né il salvataggio di prigionieri di guerra (Camp Carrionclay, S13) — è una famiglia di otto persone che riottiene una casa. Lascia che la scala della vittoria resti quella: piccola, concreta, personale. Se il party ha scavato per il tesoro completo (vedi FASE 5), Grasha e Reka non ne rivendicano alcuna parte — è tesoro del drago, non loro, e lo dicono esplicitamente se richiesto.*
 
-Se i personaggi tornano al campo di Darrett (o a qualunque base operativa il tavolo abbia stabilito), Darrett accoglie con soddisfazione pratica la notizia di un'altra minaccia del Dragon Army neutralizzata nelle Wastes — un presidio di recupero tesori in meno per finanziare la campagna di Kansaldi.
+Se i personaggi tornano al campo di Darrett (o a qualunque base operativa il tavolo abbia stabilito), Darrett accoglie con soddisfazione pratica la notizia di un'altra minaccia dell'Armata dei Draghi neutralizzata nelle Terre Desolate — un presidio di recupero tesori in meno per finanziare la campagna di Kansaldi.
 
-Restano aperte più direzioni possibili: onorare finalmente la promessa di scorta a **Dread Wolf Cove** per Dalamar (thread aperto dalla Sessione 12), proseguire verso la **Spina del Gigante / Città dei Nomi Perduti** (obiettivo principale del capitolo, ancora in sospeso), o tornare a Heart's Hollow per riferire ai cercatori l'esito della missione.
+Restano aperte più direzioni possibili: onorare finalmente la promessa di scorta alla **Cala del Lupo Terribile** per Dalamar (thread aperto dalla Sessione 12), proseguire verso la **Spina del Gigante / Città dei Nomi Perduti** (obiettivo principale del capitolo, ancora in sospeso), o tornare a Heart's Hollow per riferire ai cercatori l'esito della missione.
 
-*[NOTA DM — riservata] Chiudi qui la sessione lasciando aperta la scelta della prossima destinazione, come nelle Sessioni 09–14. Annota con il tavolo quale preferiscono per la preparazione della Sessione 16. Con Bluemaw Cave conclusa, restano solo **J (Dread Wolf Cove)** e **K (City of Lost Names — la sezione che chiude il capitolo)** come contenuto non ancora giocato del Cap. 5.*
+*[NOTA DM — riservata] Chiudi qui la sessione lasciando aperta la scelta della prossima destinazione, come nelle Sessioni 09–14. Annota con il tavolo quale preferiscono per la preparazione della Sessione 16. Con la Grotta di Bluemaw conclusa, restano solo **J (Cala del Lupo Terribile)** e **K (Città dei Nomi Perduti — la sezione che chiude il capitolo)** come contenuto non ancora giocato del Cap. 5.*
 
 ---
 
@@ -362,9 +362,9 @@ Restano aperte più direzioni possibili: onorare finalmente la promessa di scort
 
 | Preludio | Hook in Sessione 15 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | Il gesto di Reka nell'epilogo (FASE 6) — una mano posata sul nome inciso di un drago che nessuno di loro ha mai conosciuto — è un piccolo momento di rito laico non dissimile dal Mosaico di Heart's Hollow (Sessione 14): un modo per restituire dignità a un luogo, anche senza un dio a cui rivolgersi. Un PG con background divino può notare come la fede, in questa campagna, si manifesti tanto nei templi quanto in gesti minuscoli e privati come questo. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | I cristalli di sale conduttivi all'elettricità (FASE 3) sono un dettaglio arcano concreto su cui un incantatore può sperimentare — riconoscere la CD 13 Arcana come propria area di competenza è un piccolo momento di expertise riconosciuta. Più in profondità, il nome "Nadir" inciso ripetutamente nella pietra (FASE 5) è un secondo richiamo, dopo "Onyari" (Sessione 14), al tema dei nomi dimenticati che attraversa il capitolo e anticipa il titolo stesso del Cap. 6 — un PG arcano può iniziare a notare il pattern, senza ancora comprenderlo del tutto. |
-| **Scales of War** (tutti) | I draconiani di Bluemaw Cave non sono qui per conquista militare, ma per **finanziare** la guerra — saccheggiare un tesoro antico per la causa di Kansaldi è un promemoria che il Dragon Army combatte anche con l'economia, non solo con le spade. Liberare il clan Migan, per quanto piccolo nella scala della guerra, è un altro esempio concreto di ciò che il party può effettivamente controllare e proteggere in un conflitto altrimenti enorme — un tema che risuona direttamente con Heart's Hollow (S14) e Camp Carrionclay (S13). |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | Il gesto di Reka nell'epilogo (FASE 6) — una mano posata sul nome inciso di un drago che nessuno di loro ha mai conosciuto — è un piccolo momento di rito laico non dissimile dal Mosaico di Heart's Hollow (Sessione 14): un modo per restituire dignità a un luogo, anche senza un dio a cui rivolgersi. Un PG con background divino può notare come la fede, in questa campagna, si manifesti tanto nei templi quanto in gesti minuscoli e privati come questo. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | I cristalli di sale conduttivi all'elettricità (FASE 3) sono un dettaglio arcano concreto su cui un incantatore può sperimentare — riconoscere la CD 13 Arcana come propria area di competenza è un piccolo momento di expertise riconosciuta. Più in profondità, il nome "Nadir" inciso ripetutamente nella pietra (FASE 5) è un secondo richiamo, dopo "Onyari" (Sessione 14), al tema dei nomi dimenticati che attraversa il capitolo e anticipa il titolo stesso del Cap. 6 — un PG arcano può iniziare a notare il pattern, senza ancora comprenderlo del tutto. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | I draconiani della Grotta di Bluemaw non sono qui per conquista militare, ma per **finanziare** la guerra — saccheggiare un tesoro antico per la causa di Kansaldi è un promemoria che l'Armata dei Draghi combatte anche con l'economia, non solo con le spade. Liberare il clan Migan, per quanto piccolo nella scala della guerra, è un altro esempio concreto di ciò che il party può effettivamente controllare e proteggere in un conflitto altrimenti enorme — un tema che risuona direttamente con Heart's Hollow (S14) e Camp Carrionclay (S13). |
 | **Tutti** | L'ingegnosità pratica di Grasha ("le idee migliori sono efficaci ma anche un po' appariscenti") è un piccolo specchio di sopravvivenza adattiva in un mondo in guerra — un tono che il tavolo può ritrovare, se lo desidera, nei propri stessi personaggi. La trappola a pozzo di Grasha, inoltre, è un'occasione di comicità leggera a basso costo se un personaggio ci cade dentro: non temere di lasciare che la scena resti imbarazzante invece che grave. |
 
 ---
@@ -375,9 +375,9 @@ Restano aperte più direzioni possibili: onorare finalmente la promessa di scort
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Un Secondo Incarico — scorta a Dread Wolf Cove | Thread ereditato dalla Sessione 12, ancora non toccato — richiede la presenza attiva di Dalamar | Media → candidato diretto per Sessione 16, ormai l'unico contenuto "leggero" rimasto del capitolo |
+| Un Secondo Incarico — scorta alla Cala del Lupo Terribile | Thread ereditato dalla Sessione 12, ancora non toccato — richiede la presenza attiva di Dalamar | Media → candidato diretto per Sessione 16, ormai l'unico contenuto "leggero" rimasto del capitolo |
 | La Spina del Gigante / Città dei Nomi Perduti / Wind's End | Obiettivo principale del capitolo, rivelato in Sessione 12 — non toccato in questa sessione; contiene l'avanzamento a Livello 8 | Alta → resta il driver strutturale principale e l'ultimo contenuto del Cap. 5 |
-| Il clan Migan a Bluemaw Cave | Grasha, Reka e il resto del clan hanno riottenuto la propria casa; potrebbero ricomparire come contatti locali o fornitori di minerali rari in sessioni future | Bassa → materiale opzionale di continuità |
+| Il clan Migan alla Grotta di Bluemaw | Grasha, Reka e il resto del clan hanno riottenuto la propria casa; potrebbero ricomparire come contatti locali o fornitori di minerali rari in sessioni future | Bassa → materiale opzionale di continuità |
 | Il tesoro/gli stivali di levitazione | Se recuperato per intero (richiede ~6 ore di scavo), il party possiede ora un oggetto magico di valore e un tesoro cospicuo | Bassa → contabilità post-sessione |
 | Il nome "Nadir" | Il drago blu che un tempo abitava la caverna — nessun seguito immediato nella fonte, ma un dettaglio di lore riutilizzabile per foreshadowing futuro | Bassa → tema ricorrente opzionale |
 | Riferire ai cercatori di Heart's Hollow | Il party potrebbe voler tornare a Heart's Hollow per confermare l'esito della missione affidata dai cercatori (Sessione 14) | Bassa → chiusura di continuità opzionale |
@@ -390,7 +390,7 @@ Restano aperte più direzioni possibili: onorare finalmente la promessa di scort
 
 ### Fatti Accaduti
 
-- [ ] Location scelta dal party: Bluemaw Cave confermata / altra location (se diversa, questo file NON si applica — vedi nota pre-sessione)
+- [ ] Location scelta dal party: Grotta di Bluemaw confermata / altra location (se diversa, questo file NON si applica — vedi nota pre-sessione)
 - [ ] Trappola a pozzo (FASE 1): innescata? Sì / No — chi è caduto: ____________
 - [ ] Grasha Migan incontrata e caratterizzata: Sì / No
 - [ ] Clan Migan (Reka + gli altri) incontrato: Sì / No — party accetta di aiutare: Sì / No
@@ -401,7 +401,7 @@ Restano aperte più direzioni possibili: onorare finalmente la promessa di scort
 - [ ] Tesoro della fossa: recuperato parzialmente (700 mo nei sacchi) o per intero (scavo di 6 ore)? ____________
 - [ ] Stivali di levitazione: recuperati? Sì / No — assegnati a: ____________
 - [ ] Clan Migan liberato/reinsediato nella caverna: Sì / No
-- [ ] Prossima destinazione scelta per la Sessione 16: Dread Wolf Cove / Spina del Gigante-Wind's End / altro: ____________
+- [ ] Prossima destinazione scelta per la Sessione 16: Cala del Lupo Terribile / Spina del Gigante-Wind's End / altro: ____________
 - [ ] XP combattimento assegnati (variabile, fino a ~5.700 totali): ____________
 
 ### Aggiornamenti PNG
@@ -422,7 +422,7 @@ Restano aperte più direzioni possibili: onorare finalmente la promessa di scort
 | 1 grick alpha + 2 gricks (F3, FASE 5, se scatenati) | fino a 1.600 XP (700 + 900 XP) |
 | Tesoro parziale (sacchi dei draconiani) | 700 mo |
 | Tesoro completo (se scavato, ~6 ore) | 1.200 mr, 8.000 ma, 2.300 mo, 60 mp, 12 gemme da 50 mo, calice da 1.000 mo, *stivali di levitazione* |
-| **Avanzamento** | Nessuno concesso in questa sessione — Bluemaw Cave non è uno dei tre criteri di avanzamento del capitolo |
+| **Avanzamento** | Nessuno concesso in questa sessione — Grotta di Bluemaw non è uno dei tre criteri di avanzamento del capitolo |
 
 ### Thread Aperti
 
@@ -436,13 +436,13 @@ Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra tesoro/oggetti magici (stivali di levitazione, monete, gemme, calice, se recuperati); nessun avanzamento di livello previsto
 - [ ] `campagna/png-incontrati.md` — **aggiungi da zero** Grasha Migan, Reka, e (se il tavolo li ha sviluppati) Blem/Grap/Lop/Oske/Trop/Yula
-- [ ] `campagna/rapporti.md` — compila "Capitolo 04 (Northern Wastes — Cap 5 libro)": rapporto con Grasha e Reka, esito della liberazione della caverna
+- [ ] `campagna/rapporti.md` — compila "Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)": rapporto con Grasha e Reka, esito della liberazione della caverna
 - [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — **nessuna modifica al Capitolo corrente** (resta 5)
 - [ ] `campagna/sessioni/recaps/recap-sessione-15.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] `/aggiorna-locations 15` — esegui dopo la sessione (Bluemaw Cave — F1 Sala di Cristallo, F2 Scogliere Discendenti, F3 Fossa di Sabbia)
-- [ ] `/prep-sessione 16` — prepara la prossima: Dread Wolf Cove (righe 4243+, se Dalamar è disponibile e il party sceglie di onorare la scorta) o la Spina del Gigante/City of Lost Names — sezione K (righe 4255+, obiettivo principale e chiusura del capitolo), a seconda della scelta del tavolo
+- [ ] `/aggiorna-locations 15` — esegui dopo la sessione (Grotta di Bluemaw — F1 Sala di Cristallo, F2 Scogliere Discendenti, F3 Fossa di Sabbia)
+- [ ] `/prep-sessione 16` — prepara la prossima: Cala del Lupo Terribile (righe 4243+, se Dalamar è disponibile e il party sceglie di onorare la scorta) o la Spina del Gigante/Città dei Nomi Perduti — sezione K (righe 4255+, obiettivo principale e chiusura del capitolo), a seconda della scelta del tavolo
 
 ---
 
@@ -451,8 +451,8 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Header | Header completo secondo template S01–S14: fonte primaria con righe (3936–4044), livello party esplicito con motivazione sul mancato avanzamento, XP potenziale a fasce per i tre incontri distinti, obiettivo, durata, sessione precedente |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Documentata la scelta consapevole di Bluemaw Cave su Dread Wolf Cove/City of Lost Names, con motivazione esplicita del perché non combinarla con nessuna delle altre due location rimaste nel capitolo |
-| 3 | Continuità | ⚠️ Nota pre-sessione | Verificato l'aggancio diretto dalla chiusura della Sessione 14 (i cercatori di Heart's Hollow) leggendo il file stesso, non solo il riassunto fornito — confermato che corrisponde esattamente al thread "Bluemaw Cave (location F)" della tabella Thread Narrativi di S14 |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Documentata la scelta consapevole della Grotta di Bluemaw sulla Cala del Lupo Terribile/Città dei Nomi Perduti, con motivazione esplicita del perché non combinarla con nessuna delle altre due location rimaste nel capitolo |
+| 3 | Continuità | ⚠️ Nota pre-sessione | Verificato l'aggancio diretto dalla chiusura della Sessione 14 (i cercatori di Heart's Hollow) leggendo il file stesso, non solo il riassunto fornito — confermato che corrisponde esattamente al thread "Grotta di Bluemaw (location F)" della tabella Thread Narrativi di S14 |
 | 4 | Continuità | ⚠️ Nota pre-sessione | Documentata la delimitazione del chunk (righe 3936–4044) e il conteggio parole (1.539), con nota esplicita sulla densità tattica (tre incontri di combattimento distinti) come giustificazione della durata stimata |
 | 5 | Fedeltà fonte | FASE 1–6 | Preservati tutti i dettagli meccanici della fonte: CD 15 Investigare (trappola), danni 2d6+2d10, CD 13 Arcana/Natura (cristalli), CD 13 Percezione (sabbie mobili), meccanica di sprofondamento e recupero dalle sabbie mobili, composizione esatta dei draconiani (1 sivak + 5 baaz), composizione dell'imboscata (1 grick alpha + 2 gricks), tesoro esatto (700 mo nei sacchi; 1.200 mr, 8.000 ma, 2.300 mo, 60 mp, 12 gemme da 50 mo, calice da 1.000 mo, stivali di levitazione nell'accumulo completo), tempo di scavo (6 ore) |
 | 6 | Testo "Boxed" | BT-01–BT-05 | Tutti e cinque i testi read-aloud `>>` presenti nella sezione F (righe 3936–4044) tradotti integralmente e verificati contro l'originale inglese: l'ingresso di zaffiro, la sala di cristallo, il passaggio che precipita, la sala del drago con le incisioni, la vittoria finale. Confermato che nessun altro paragrafo della fonte in questo intervallo è marcato `>>` |
@@ -462,7 +462,7 @@ Dopo la sessione, aggiorna questi file:
 | 10 | Bilanciamento | Header / FASE 6 | Chiarito esplicitamente che questa location non soddisfa nessuno dei tre criteri di avanzamento di livello del capitolo (tre location / impresa straordinaria / passaggio a Wind's End) — nessun avanzamento concesso, coerente con le Sessioni 13–14 |
 | 11 | Continuità — PNG | png-incontrati.md | Verificato che nessuno dei PNG di questa sessione (Grasha Migan, Reka, e i sei nani secondari) ha uno stub preesistente — tutti da aggiungere da zero nel workflow `/aggiorna-sessione` |
 | 12 | Missioni | Thread Narrativi | Confermato, come in S04–S14, che l'Agente 4 non ha trovato missioni di fazione da integrare; tutti i thread di questa sessione sono classificati esplicitamente come narrativi/di location, non missioni di fazione |
-| 13 | PC Integration | Hook PG | Aggiunti hook specifici per i tre preludi, centrati sul parallelo tematico con Heart's Hollow/Camp Carrionclay (Scales of War), il secondo richiamo al tema dei nomi dimenticati dopo "Onyari" (Eye in the Sky, con "Nadir"), e il piccolo rito laico di Reka nell'epilogo (Broken Silence) |
+| 13 | PC Integration | Hook PG | Aggiunti hook specifici per i tre preludi, centrati sul parallelo tematico con Heart's Hollow/Camp Carrionclay (Scaglie di Guerra), il secondo richiamo al tema dei nomi dimenticati dopo "Onyari" (Occhio nel Cielo, con "Nadir"), e il piccolo rito laico di Reka nell'epilogo (Silenzio Infranto) |
 | 14 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S01–S14; confermato che questa sessione **non** cambia il capitolo corrente in `contesto.md` — resta 5; confermato numericamente che le righe della sessione (3936–4044) restano ben lontane sia dall'inizio del Cap. 6 (riga 4354) sia dall'inizio del Cap. 7 (riga 5286) |
 | 15 | Lingua/Stile | Tutte le fasi | Uniformato il registro Urban Noir + Fantasy Classico; verificato che il tono resti coerente con l'alternanza di scene tattiche (draconiani, sabbie mobili) e scene calorose/relazionali (Grasha, Reka, l'epilogo) già stabilita nelle Sessioni 13–14 |
 
@@ -473,7 +473,7 @@ Dopo la sessione, aggiorna questi file:
 
 ## ⏭ Step 6.5 — Chapter PNG Briefer
 
-`campagna/contesto.md` → Capitolo corrente: **5**. Questa sessione (Cap. 5, righe 3936–4044 della fonte) **non** rappresenta una transizione di capitolo: resta interamente all'interno del Cap. 5 (The Northern Wastes, righe 3191–4353).
+`campagna/contesto.md` → Capitolo corrente: **5**. Questa sessione (Cap. 5, righe 3936–4044 della fonte) **non** rappresenta una transizione di capitolo: resta interamente all'interno del Cap. 5 (Terre Desolate del Nord, righe 3191–4353).
 
 ```
 ⏭ Step 6.5 saltato (nessuna transizione di capitolo)
@@ -485,8 +485,8 @@ Nessun file `campagna/png-per-capitolo/` è stato creato o modificato da questa 
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Scelta della location.** Delle location rimaste aperte dopo la Sessione 14 (F: Bluemaw Cave, J: Dread Wolf Cove, K: City of Lost Names — quest'ultima la sezione di transizione al Cap. 6), questa sessione prepara **Bluemaw Cave da sola (righe 3936–4044)**, per l'aggancio diretto e non rimandabile lasciato dai cercatori di Heart's Hollow in Sessione 14, per la sua struttura autonoma e completa parallela a Sunward Fortress/Wakenreth/Camp Carrionclay, e per evitare di sovraccaricare una singola sessione con quattro scontri tattici distinti (i tre di Bluemaw Cave più la battaglia di Wind's End in K). **Se il tavolo sceglie diversamente durante il gioco reale, questo file non si applica** e va sostituita la preparazione con la location effettivamente scelta.
-- **Delimitazione del chunk.** Ho verificato l'intera sezione "F: Bluemaw Cave" (righe 3936–4044): copre l'avvicinamento, la trappola di Grasha, l'incontro con il clan Migan, le tre aree numerate F1–F3, e la chiusura "Victory!" — esattamente dove la fonte cambia soggetto con "G: Heart's Hollow" (riga 4045, già coperta in Sessione 14). Conteggio parole grezze: ~1.539 — comparabile a Camp Carrionclay (1.280 parole, S13) per densità tattica, nonostante il conteggio più basso delle sessioni relazionali. Non ho tagliato a metà nessun incontro.
+- **Scelta della location.** Delle location rimaste aperte dopo la Sessione 14 (F: Grotta di Bluemaw, J: Cala del Lupo Terribile, K: Città dei Nomi Perduti — quest'ultima la sezione di transizione al Cap. 6), questa sessione prepara **Grotta di Bluemaw da sola (righe 3936–4044)**, per l'aggancio diretto e non rimandabile lasciato dai cercatori di Heart's Hollow in Sessione 14, per la sua struttura autonoma e completa parallela alla Fortezza di Sunward/Wakenreth/Camp Carrionclay, e per evitare di sovraccaricare una singola sessione con quattro scontri tattici distinti (i tre della Grotta di Bluemaw più la battaglia di Wind's End in K). **Se il tavolo sceglie diversamente durante il gioco reale, questo file non si applica** e va sostituita la preparazione con la location effettivamente scelta.
+- **Delimitazione del chunk.** Ho verificato l'intera sezione "F: Grotta di Bluemaw" (righe 3936–4044): copre l'avvicinamento, la trappola di Grasha, l'incontro con il clan Migan, le tre aree numerate F1–F3, e la chiusura "Victory!" — esattamente dove la fonte cambia soggetto con "G: Heart's Hollow" (riga 4045, già coperta in Sessione 14). Conteggio parole grezze: ~1.539 — comparabile a Camp Carrionclay (1.280 parole, S13) per densità tattica, nonostante il conteggio più basso delle sessioni relazionali. Non ho tagliato a metà nessun incontro.
 - **Distanza dal Capitolo 6 e dal Capitolo 7.** Verificato direttamente sulla fonte: `# Chapter 5: The Northern Wastes` inizia alla riga **3191**, `# Chapter 6: City of Lost Names` alla riga **4354**, `# Chapter 7: Siege of Kalaman` alla riga **5286**. Questa sessione (righe 3936–4044) resta ben all'interno del Cap. 5 e molto lontana sia dal Cap. 6 sia dal Cap. 7. **Nessun rischio di sovrapposizione con contenuti futuri; questa sessione non raggiunge né si avvicina al Cap. 7.**
-- **Stato del Capitolo 5 dopo questa sessione.** Con questa sessione, il Cap. 5 **non è ancora concluso**, ma è ormai vicino alla chiusura. Location coperte finora: **C** (Blue Phoenix Shrine, S10), **D** (Sunward Fortress, S11), **E** (Wakenreth, S12), **I** (Camp Carrionclay, S13), **G+H** (Heart's Hollow/Dragonnel Spire, S14), **F** (Bluemaw Cave, questa sessione). Restano non toccate: **J: Dread Wolf Cove** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread ereditato dalla Sessione 12, mai onorato) e **K: City of Lost Names** (righe 4255–4353, che introduce l'accampamento del Dragon Army, la battaglia di Wind's End, il ritrovamento del passaggio, e l'avanzamento a Livello 8 che chiude formalmente il capitolo). **Il Capitolo 5 non è ancora concluso: restano J e K prima della transizione al Cap. 6.** Raccomandazione per la Sessione 16: entrambe le location rimaste sono legittime; J è più breve e leggera (buon contrappunto dopo una sessione di combattimento densa come questa), K è il vero climax strutturale del capitolo e probabilmente merita di essere l'ultima cosa giocata prima della transizione, indipendentemente da quando viene preparata.
+- **Stato del Capitolo 5 dopo questa sessione.** Con questa sessione, il Cap. 5 **non è ancora concluso**, ma è ormai vicino alla chiusura. Location coperte finora: **C** (Santuario della Fenice Blu, S10), **D** (Fortezza di Sunward, S11), **E** (Wakenreth, S12), **I** (Camp Carrionclay, S13), **G+H** (Heart's Hollow/Guglia dei Dragonnel, S14), **F** (Grotta di Bluemaw, questa sessione). Restano non toccate: **J: Cala del Lupo Terribile** (righe 4243–4254, richiede la scorta attiva di Dalamar — thread ereditato dalla Sessione 12, mai onorato) e **K: Città dei Nomi Perduti** (righe 4255–4353, che introduce l'accampamento dell'Armata dei Draghi, la battaglia di Wind's End, il ritrovamento del passaggio, e l'avanzamento a Livello 8 che chiude formalmente il capitolo). **Il Capitolo 5 non è ancora concluso: restano J e K prima della transizione al Cap. 6.** Raccomandazione per la Sessione 16: entrambe le location rimaste sono legittime; J è più breve e leggera (buon contrappunto dopo una sessione di combattimento densa come questa), K è il vero climax strutturale del capitolo e probabilmente merita di essere l'ultima cosa giocata prima della transizione, indipendentemente da quando viene preparata.
 - **Nessun file esterno "giocato" modificato**, in linea con le Sessioni 00–14: questa preparazione non ha alterato `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md` né `campagna/contesto.md`. Tutti gli aggiornamenti "giocati" restano compito del workflow `/aggiorna-sessione` dopo la sessione reale al tavolo.

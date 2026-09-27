@@ -1,13 +1,13 @@
 # DM Notes — Sessione 06: Le Mura di Wheelwatch
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: Shadow of War, sezione **"Wheelwatch Outpost"** (righe 2615–2770)
-**Livello party:** 5 (per la fonte, riga 2613: *"the characters advance to 5th level"* prima di affrontare Wheelwatch Outpost — vedi ⚠️ Nota pre-sessione)
-**XP accumulati:** Ereditati dalla Sessione 05 (vedi `campagna/party.md`; include fino a 850 XP del boschetto delle vedette + eventuali XP dalle missioni modulari residue se il DM le ha giocate). Questa sessione **ha** più incontri di combattimento potenziali: 18 Dragon Army soldier (50 XP cad.) + 2 Dragon Army officer (700 XP cad.) + 1 sivak draconian (1.100 XP) + 2 baaz draconian (200 XP cad.) + 1 Dragon Army dragonnel (1.100 XP) = **fino a ~4.900 XP** se il forte viene ripulito interamente — non necessario né consigliato in 2h30m (vedi bilanciamento in Fase 3).
-**Obiettivo sessione:** Infiltrarsi a Wheelwatch Outpost, il forte di confine caduto in mano al Dragon Army, e aprirne i cancelli dall'interno per far entrare le truppe di Raven; liberare i prigionieri di Kalaman; affrontare (o evitare) i difensori — inclusi il primo **sivak draconian** della campagna e il primo **dragonnel**; riportare la vittoria a Kalaman.
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: L'Ombra della Guerra (*Shadow of War*), sezione **"Avamposto di Wheelwatch"** (righe 2615–2770)
+**Livello party:** 5 (per la fonte, riga 2613: *"the characters advance to 5th level"* prima di affrontare l'Avamposto di Wheelwatch — vedi ⚠️ Nota pre-sessione)
+**XP accumulati:** Ereditati dalla Sessione 05 (vedi `campagna/party.md`; include fino a 850 XP del boschetto delle vedette + eventuali XP dalle missioni modulari residue se il DM le ha giocate). Questa sessione **ha** più incontri di combattimento potenziali: 18 Soldati dell'Armata dei Draghi (*Dragon Army soldier*) (50 XP cad.) + 2 Ufficiali dell'Armata dei Draghi (*Dragon Army officer*) (700 XP cad.) + 1 draconiano sivak (1.100 XP) + 2 baaz draconian (200 XP cad.) + 1 Armata dei Draghi dragonnel (1.100 XP) = **fino a ~4.900 XP** se il forte viene ripulito interamente — non necessario né consigliato in 2h30m (vedi bilanciamento in Fase 3).
+**Obiettivo sessione:** Infiltrarsi all'Avamposto di Wheelwatch, il forte di confine caduto in mano all'Armata dei Draghi, e aprirne i cancelli dall'interno per far entrare le truppe di Raven; liberare i prigionieri di Kalaman; affrontare (o evitare) i difensori — inclusi il primo **draconiano sivak** della campagna e il primo **dragonnel**; riportare la vittoria a Kalaman.
 **Durata stimata:** ~2h30m (6 fasi: 15 + 20 + 55 + 20 + 35 + 15 min)
-**Sessione precedente:** dm-notes-sessione-05.md — Cap. 4: Shadow of War, "Missing Scouts" + "Troops Return": i primi draconiani (baaz, kapak) affrontati al boschetto di betulle grigie, il rapporto sull'accerchiamento di Kalaman, il ritorno di Cudgel Ironsmile e dell'Ironclad Regiment (righe 2559–2613)
+**Sessione precedente:** dm-notes-sessione-05.md — Cap. 4: L'Ombra della Guerra, "Esploratori Scomparsi (*Missing Scouts*)" + "Ritorno delle Truppe (*Troops Return*)": i primi draconiani (baaz, kapak) affrontati al boschetto di betulle grigie, il rapporto sull'accerchiamento di Kalaman, il ritorno di Cudgel Ironsmile e del Reggimento Ironclad (righe 2559–2613)
 
-> ⚠️ **Nota pre-sessione:** La Sessione 05 si è chiusa lasciando al DM la scelta se concludere lì il ciclo "Missions for Kalaman" (salendo il party al Livello 5) o giocare prima una delle missioni modulari residue (Ambushing the Enemy / Draconian Blockade). **Questa sessione presume che il ciclo sia concluso**: la fonte è tassativa a riga 2613 — il party sale al **5° livello prima di affrontare Wheelwatch Outpost**, indipendentemente da quante missioni modulari extra il tavolo ha giocato. Se il DM ha invece giocato "Draconian Blockade" o "Ambushing the Enemy" tra la S05 e questa sessione, nessun problema: applica comunque il livello 5 qui, e considera gli XP e il bottino di quelle missioni come ulteriore eredità (annotali in `campagna/party.md` prima di iniziare). Verificare al tavolo, come thread aperti dalla S05: il destino di **Becklin** (se risolto o ancora aperto), il rapporto con **Cudgel** e l'Ironclad Regiment, il **fargab** di Rookledust, il **rotolo di Wyhan**.
+> ⚠️ **Nota pre-sessione:** La Sessione 05 si è chiusa lasciando al DM la scelta se concludere lì il ciclo "Missions for Kalaman" (salendo il party al Livello 5) o giocare prima una delle missioni modulari residue (Tendere un'Imboscata al Nemico / Blocco Draconico). **Questa sessione presume che il ciclo sia concluso**: la fonte è tassativa a riga 2613 — il party sale al **5° livello prima di affrontare l'Avamposto di Wheelwatch**, indipendentemente da quante missioni modulari extra il tavolo ha giocato. Se il DM ha invece giocato "Blocco Draconico" o "Tendere un'Imboscata al Nemico" tra la S05 e questa sessione, nessun problema: applica comunque il livello 5 qui, e considera gli XP e il bottino di quelle missioni come ulteriore eredità (annotali in `campagna/party.md` prima di iniziare). Verificare al tavolo, come thread aperti dalla S05: il destino di **Becklin** (se risolto o ancora aperto), il rapporto con **Cudgel** e il Reggimento Ironclad, il **fargab** di Rookledust, il **rotolo di Wyhan**.
 
 ---
 
@@ -26,7 +26,7 @@
 
 > La notte dopo il ritorno di Cudgel Ironsmile, Kalaman dorme un sonno più leggero del solito. Ci sono nuovi volti nelle caserme, nuove voci all'osteria, e nei corridoi del castello si respira qualcosa che assomiglia, quasi, alla speranza.
 >
-> Poi Darrett vi trova di nuovo — questa volta con un'urgenza diversa nel passo. *"Wheelwatch è caduto,"* dice, senza preamboli. *"Il forte di confine a sud, quello che controlla la strada per Estwilde. Il Dragon Army lo tiene da giorni. Vendri vuole riprenderlo — e vuole che lo facciate voi."*
+> Poi Darrett vi trova di nuovo — questa volta con un'urgenza diversa nel passo. *"Wheelwatch è caduto,"* dice, senza preamboli. *"Il forte di confine a sud, quello che controlla la strada per Estwilde. L'Armata dei Draghi lo tiene da giorni. Vendri vuole riprenderlo — e vuole che lo facciate voi."*
 >
 > Aggiunge, quasi come una nota a margine, ma con un peso che non gli sfugge: *"C'è qualcuno che vuole conoscervi, prima. Qualcuno che forse già conoscete."*
 
@@ -38,16 +38,16 @@
 
 ### Contesto per il DM
 
-Attraverso Darrett, Vendri affida al party la riconquista di **Wheelwatch Outpost**, l'avamposto meridionale di Kalaman, caduto in mano del Dragon Army. Ma la vera sorpresa di questa fase è chi comanda la piccola forza incaricata dell'assalto: **Raven**, l'ex sindaca di Vogler.
+Attraverso Darrett, Vendri affida al party la riconquista dell'**Avamposto di Wheelwatch**, l'avamposto meridionale di Kalaman, caduto in mano dell'Armata dei Draghi. Ma la vera sorpresa di questa fase è chi comanda la piccola forza incaricata dell'assalto: **Raven**, l'ex sindaca di Vogler.
 
 *[NOTA DM — riservata] Raven Uth Vogler (vedi `campagna/png-incontrati.md`, PNG Capitolo 3) ha lasciato le rovine della propria comunità per mettersi al servizio di Kalaman. Non è più la sindaca di un villaggio in festa: è una donna che ha ricostruito un ruolo da zero, e le è stato affidato un comando — piccolo, inesperto, ma suo. Per qualunque PG che l'ha conosciuta a Vogler, rivederla in un'armatura presa in prestito, a capo di reclute nervose, è un altro tassello del motivo emotivo di questa campagna: **i volti di casa non scompaiono, si trasformano**. È il secondo "ritorno" dopo Cudgel in S05 — gioca la continuità, non ripetere la scena, cambiala: Cudgel era una mercenaria indurita che torna sé stessa; Raven è un'amministratrice che si sta reinventando soldato, e non è ancora sicura di esserne capace.*
 
 ### Gli Ordini
 
-- **Wheelwatch Outpost** sorge **ventiquattro miglia a sud-est** di Kalaman, vicino al confine con le terre di Estwilde; rifornisce le truppe di Kalaman che pattugliano la frontiera.
-- Il Dragon Army lo ha preso. Raven ha ricevuto il comando di una forza incaricata di riconquistarlo — ma i suoi soldati sono **pochi e inesperti**.
+- **Avamposto di Wheelwatch** sorge **ventiquattro miglia a sud-est** di Kalaman, vicino al confine con le terre di Estwilde; rifornisce le truppe di Kalaman che pattugliano la frontiera.
+- L'Armata dei Draghi lo ha preso. Raven ha ricevuto il comando di una forza incaricata di riconquistarlo — ma i suoi soldati sono **pochi e inesperti**.
 - Darrett chiede al party di affiancare Raven e sostenerla nella riconquista.
-- Raven mostra al party uno **schizzo del forte** (Mappa 4.2): la torre nord-ovest, alta, è un osservatorio con vista dominante sul territorio; ognuna delle quattro fortificazioni d'angolo ha un **corno d'allarme** che le sentinelle usano per dare l'allarme; Raven non sa quanti soldati del Dragon Army occupino il forte.
+- Raven mostra al party uno **schizzo del forte** (Mappa 4.2): la torre nord-ovest, alta, è un osservatorio con vista dominante sul territorio; ognuna delle quattro fortificazioni d'angolo ha un **corno d'allarme** che le sentinelle usano per dare l'allarme; Raven non sa quanti soldati dell'Armata dei Draghi occupino il forte.
 - **Tempistica:** una volta partite da Kalaman, le truppe di Raven impiegheranno **otto ore** per posizionarsi in un boschetto appartato a un miglio dal forte. Raven suggerisce che il party si infiltri nel forte e apra un cancello **senza far scattare l'allarme** — ma è aperta a qualunque piano che non metta a rischio la vita dei suoi uomini né distrugga il forte.
 
 *[NOTA DM — riservata] Non forzare il tavolo verso la furtività: è la strategia suggerita da Raven, non un obbligo di modulo. Se il party preferisce un assalto diretto o un'infiltrazione mista (travestimento, inganno, un misto di furtività e violenza selettiva), il forte regge tutte e tre le strade — vedi il sistema di allarme in Fase 3. L'unico vincolo reale è **il tempo**: le truppe di Raven arrivano in posizione otto ore dopo la partenza da Kalaman, e resteranno acquattate nel boschetto ad aspettare un segnale (i cancelli aperti, o un segnale concordato).*
@@ -57,7 +57,7 @@ Attraverso Darrett, Vendri affida al party la riconquista di **Wheelwatch Outpos
 **Attitudine PNG in questa scena:**
 - **Darrett Highwater** — Attitudine: +3 Alleato (invariata). Presenta Raven con orgoglio quieto: sa cosa le è costato rimettersi in piedi dopo Vogler.
 - **Raven Uth Vogler** — Attitudine: +1 Cordiale (ereditata dal Cap. 3). Professionale ma visibilmente non a suo agio nel nuovo ruolo — cerca l'approvazione tacita di chi la conosceva da sindaca. Se un PG la tratta con rispetto o le ricorda un momento positivo di Vogler, sale a **+2 Amichevole**.
-- **Marshal Nestra Vendri** *(fuori scena, mandante)* — Attitudine: +3 Alleato (consolidata in S05). Affida la missione al party perché ormai non si fida di nessun altro allo stesso modo.
+- **Maresciallo Nestra Vendri** *(fuori scena, mandante)* — Attitudine: +3 Alleato (consolidata in S05). Affida la missione al party perché ormai non si fida di nessun altro allo stesso modo.
 
 ---
 
@@ -78,11 +78,11 @@ Ventiquattro miglia a sud-est: più lontano dal cuore familiare di Vogler, verso
 
 ### Ricognizione
 
-Se un personaggio dedica **otto ore** a osservare il forte, stabilisce che le pattuglie nelle torri d'angolo si danno il cambio ogni **sei ore**, e può tentare una prova di **Intelligenza (Indagare) CD 14** per stimare quanti soldati del Dragon Army occupino il forte.
+Se un personaggio dedica **otto ore** a osservare il forte, stabilisce che le pattuglie nelle torri d'angolo si danno il cambio ogni **sei ore**, e può tentare una prova di **Intelligenza (Indagare) CD 14** per stimare quanti soldati dell'Armata dei Draghi occupino il forte.
 
-- **Successo:** stima accuratamente **circa venti soldati** del Dragon Army nel forte.
+- **Successo:** stima accuratamente **circa venti soldati** dell'Armata dei Draghi nel forte.
 - **Fallimento:** stima il **doppio** di quel numero.
-- **Fallimento di 10 o più:** il personaggio viene avvistato. Dopo dieci minuti, una squadra di **sei Dragon Army soldier** esce dal forte per indagare sulla sua posizione. Se i soldati trovano il personaggio o questi non fa ritorno, il forte va **in allerta** (vedi "Allerta di Wheelwatch", Fase 3).
+- **Fallimento di 10 o più:** il personaggio viene avvistato. Dopo dieci minuti, una squadra di **sei Soldato dell'Armata dei Draghi** esce dal forte per indagare sulla sua posizione. Se i soldati trovano il personaggio o questi non fa ritorno, il forte va **in allerta** (vedi "Allerta di Wheelwatch", Fase 3).
 
 *[NOTA DM — riservata] Otto ore di osservazione sono compatibili con le otto ore che servono a Raven per posizionare le sue truppe — un buon momento per far coincidere le due tempistiche, se il party sceglie di osservare a lungo. Se il tavolo preferisce muoversi subito senza ricognizione prolungata, va bene lo stesso: perderanno solo la stima precisa delle forze nemiche (venti soldati, più i draconiani e il dragonnel, che Raven comunque non conosce).*
 
@@ -99,16 +99,16 @@ Se un personaggio dedica **otto ore** a osservare il forte, stabilisce che le pa
 
 ### Contesto per il DM
 
-Questo è il **cuore tattico** della sessione: un piccolo forte con nove aree (W1–W9), un sistema di allarme che il party può innescare o disinnescare, e la possibilità concreta di **evitare interi combattimenti**. Non è pensato per essere ripulito stanza per stanza — è pensato per essere **giocato con intelligenza**. Lascia che il tavolo scelga: furtività totale, inganno (travestimento da soldati del Dragon Army), violenza selettiva, o un assalto totale se è quello che vogliono.
+Questo è il **cuore tattico** della sessione: un piccolo forte con nove aree (W1–W9), un sistema di allarme che il party può innescare o disinnescare, e la possibilità concreta di **evitare interi combattimenti**. Non è pensato per essere ripulito stanza per stanza — è pensato per essere **giocato con intelligenza**. Lascia che il tavolo scelga: furtività totale, inganno (travestimento da soldati dell'Armata dei Draghi), violenza selettiva, o un assalto totale se è quello che vogliono.
 
 ### Il Sistema di Allarme — "Allerta di Wheelwatch"
 
 - **Corni d'allarme.** Ognuna delle fortificazioni d'angolo (aree W2, W3, W4) ha un corno d'allarme. Se una sentinella in una di queste aree nota nemici o attività sospette, tenta di suonare il corno **un round dopo**, al proprio turno. Una volta suonato un corno, il forte va in allerta.
-- **Allerta.** Se una minaccia viene rilevata, gli **otto Dragon Army soldier** dell'area W5 accorrono verso la minaccia (o si radunano in W1 se la fonte non è chiara). Mentre sono in allerta, le truppe del Dragon Army hanno **vantaggio alle prove di Saggezza (Percezione)**. Restano in allerta per **dodici ore** dopo aver avvistato un nemico o trovato segni chiari di attività nemica.
-- **Impostori.** I personaggi che indossano armature del Dragon Army hanno **vantaggio alle prove di Carisma (Inganno)** per passare per soldati nemici. *(Un'opzione concreta: dopo aver neutralizzato le prime sentinelle, il party può spogliarle e usarne le armature per infiltrarsi più a fondo.)*
-- **Il cavaliere di dragonnel.** Il Dragon Army ha un'arma segreta nell'area W8: un **Dragon Army dragonnel** e il suo cavaliere, un **Dragon Army officer** (vedi Fase 5). Se il party non li scopre per primo, dragonnel e cavaliere si alzano in volo e attaccano in un momento drammatico — verosimilmente dopo che il party ha già avuto ragione della maggior parte delle forze del forte, o mentre lavora per aprire i cancelli in W1.
+- **Allerta.** Se una minaccia viene rilevata, gli **otto Soldato dell'Armata dei Draghi** dell'area W5 accorrono verso la minaccia (o si radunano in W1 se la fonte non è chiara). Mentre sono in allerta, le truppe dell'Armata dei Draghi hanno **vantaggio alle prove di Saggezza (Percezione)**. Restano in allerta per **dodici ore** dopo aver avvistato un nemico o trovato segni chiari di attività nemica.
+- **Impostori.** I personaggi che indossano armature dell'Armata dei Draghi hanno **vantaggio alle prove di Carisma (Inganno)** per passare per soldati nemici. *(Un'opzione concreta: dopo aver neutralizzato le prime sentinelle, il party può spogliarle e usarne le armature per infiltrarsi più a fondo.)*
+- **Il cavaliere di dragonnel.** L'Armata dei Draghi ha un'arma segreta nell'area W8: un'**Armata dei Draghi dragonnel** e il suo cavaliere, un **Ufficiale dell'Armata dei Draghi** (vedi Fase 5). Se il party non li scopre per primo, dragonnel e cavaliere si alzano in volo e attaccano in un momento drammatico — verosimilmente dopo che il party ha già avuto ragione della maggior parte delle forze del forte, o mentre lavora per aprire i cancelli in W1.
 
-*[NOTA DM — riservata] **Bilanciamento.** Il forte contiene, in totale, diciotto Dragon Army soldier, due Dragon Army officer, un sivak draconian, due baaz draconian e un dragonnel — fino a **~4.900 XP** se il party li affronta tutti. È un bottino enorme per una singola sessione da 2h30m, e non è l'intento del modulo: la fonte presume che gran parte del forte venga aggirata con furtività o inganno, non conquistata stanza per stanza. **Consiglio pratico:** tratta i gruppi di Dragon Army soldier come "mucchi" tattici — usa le regole di mob combat (raggruppa i danni, semplifica le iniziative) per i gruppi da 3-8 soldati regolari, e riserva il dettaglio tattico completo per gli scontri con nome (il sivak, i baaz, il dragonnel). Se il party sceglie lo scontro totale, avvisa che la sessione sforerà il tempo previsto — è una scelta legittima del tavolo, ma pianifica di dividerla in due sedute se necessario.*
+*[NOTA DM — riservata] **Bilanciamento.** Il forte contiene, in totale, diciotto Soldato dell'Armata dei Draghi, due Ufficiale dell'Armata dei Draghi, un draconiano sivak, due baaz draconian e un dragonnel — fino a **~4.900 XP** se il party li affronta tutti. È un bottino enorme per una singola sessione da 2h30m, e non è l'intento del modulo: la fonte presume che gran parte del forte venga aggirata con furtività o inganno, non conquistata stanza per stanza. **Consiglio pratico:** tratta i gruppi di soldati dell'Armata dei Draghi come "mucchi" tattici — usa le regole di mob combat (raggruppa i danni, semplifica le iniziative) per i gruppi da 3-8 soldati regolari, e riserva il dettaglio tattico completo per gli scontri con nome (il sivak, i baaz, il dragonnel). Se il party sceglie lo scontro totale, avvisa che la sessione sforerà il tempo previsto — è una scelta legittima del tavolo, ma pianifica di dividerla in due sedute se necessario.*
 
 ### W1 — Il Cortile
 
@@ -116,7 +116,7 @@ Questo è il **cuore tattico** della sessione: un piccolo forte con nove aree (W
 
 > Il cortile del forte ospita alcune piccole strutture dai tetti di legno. Delle scale salgono dal terreno battuto verso le merlature ovest ed est del forte. A nord e a sud si ergono solidi cancelli di legno, rinforzati da fasce di ferro. Lungo il muro accanto a ciascun cancello, un meccanismo di metallo con un vistoso argano.
 
-In ogni momento, **tre Dragon Army soldier** pattugliano il cortile, si addestrano o sbrigano commissioni.
+In ogni momento, **tre Soldato dell'Armata dei Draghi** pattugliano il cortile, si addestrano o sbrigano commissioni.
 
 ***Controlli dei cancelli.*** I cancelli nord e sud hanno ciascuno un meccanismo per aprirsi e chiudersi. Sbloccare un meccanismo richiede una delle tre chiavi del forte, oppure una prova di **Destrezza CD 14** con arnesi da scasso. Una volta sbloccato, l'argano si muove liberamente: ci vuole **un minuto** per aprire o chiudere completamente i cancelli. Aprire un cancello attira l'attenzione di ogni creatura nelle aree W1, W2, W3 e W4.
 
@@ -126,7 +126,7 @@ In ogni momento, **tre Dragon Army soldier** pattugliano il cortile, si addestra
 
 > Due soldati sorvegliano le strette finestre di questa stanza di pietra. Un corno pende dal muro tra le due porte.
 
-Le torri di guardia sud sono identiche fra loro. In ciascuna, **due Dragon Army soldier** vigilano sul territorio circostante. *(Totale: quattro soldati fra le due torri.)*
+Le torri di guardia sud sono identiche fra loro. In ciascuna, **due Soldato dell'Armata dei Draghi** vigilano sul territorio circostante. *(Totale: quattro soldati fra le due torri.)*
 
 ### W3 — Torre di Guardia Nord-Ovest
 
@@ -136,9 +136,9 @@ Le torri di guardia sud sono identiche fra loro. In ciascuna, **due Dragon Army 
 
 La torre nord-ovest è la più grande delle torri di guardia di Wheelwatch. Il suo secondo piano è identico al primo, raggiungibile tramite la scala a pioli qui presente.
 
-Al piano terra, un **sivak draconian** monta la guardia **sotto sembianze umane**. Sta usando la sua reazione di Furto di Forma per assumere l'aspetto di un soldato di Kalaman che ha ucciso. Se viene ucciso, torna alla sua vera forma.
+Al piano terra, un **draconiano sivak** monta la guardia **sotto sembianze umane**. Sta usando la sua reazione di Furto di Forma per assumere l'aspetto di un soldato di Kalaman che ha ucciso. Se viene ucciso, torna alla sua vera forma.
 
-Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allarme pende dalla parete sud, accanto alla scala.
+Al secondo piano, **due Soldato dell'Armata dei Draghi** sorvegliano; il loro corno d'allarme pende dalla parete sud, accanto alla scala.
 
 *[NOTA DM — riservata] Il sivak è la **rivelazione** di questa fase, il seguito naturale della paranoia seminata in S05 con i kapak travestiti da viandanti. Gioca il "soldato di Kalaman" al piano terra come un alleato plausibile — risponde in Comune, si comporta come una sentinella qualunque, magari accenna a un compagno morto in battaglia (ironia amara: è letteralmente la vittima di cui porta il volto). Se il party lo interroga senza sospetti, lascialo mentire con disinvoltura. Solo un'indagine più insistente (o un colpo che lo ferisce e rivela le squame sotto la pelle presa in prestito) smaschera l'inganno. Quando muore, torna alla forma vera — una faccia rettile al posto di quella umana con cui aveva parlato fino a un attimo prima: lascia che il tavolo senta il gelo di quel cambio.*
 
@@ -148,7 +148,7 @@ Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allar
 
 > Un corridoio a U, costeggiato da strette finestre, corre attorno a questa fortificazione. Lungo una parete che porta rastrelliere d'armi e un corno appeso a una cinghia di cuoio, alcune porte conducono a una stanza interna.
 
-**Due baaz draconian** *(stesso stat block della Sessione 05 — vedi sotto)* vigilano in questo corridoio. Il loro corno d'allarme pende dalla rastrelliera nord. Se qui scoppia battaglia, i Dragon Army soldier dell'area W5 accorrono a indagare dopo **due round**.
+**Due baaz draconian** *(stesso stat block della Sessione 05 — vedi sotto)* vigilano in questo corridoio. Il loro corno d'allarme pende dalla rastrelliera nord. Se qui scoppia battaglia, i Soldato dell'Armata dei Draghi dell'area W5 accorrono a indagare dopo **due round**.
 
 ***Tesoro.*** Le rastrelliere d'armi custodiscono dozzine di armi appartenute alle forze di Kalaman prima che il forte cadesse. Una rastrelliera porta anche un bastone **hoopak** (*vedi appendice A*), sottratto a Elgo (imprigionata nell'area W6). Sopra la rastrelliera sud è appesa una lancia lucente incisa con immagini di draghi — decorazione di latta, inutile in combattimento.
 
@@ -157,7 +157,7 @@ Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allar
 ---
 
 **Attitudine PNG in questa scena:**
-- **Dragon Army soldier / officer / sivak / baaz draconian** — Attitudine: -3 Ostile. Attaccano se scoperti, altrimenti pattugliano di routine.
+- **Soldato dell'Armata dei Draghi / officer / sivak / baaz draconian** — Attitudine: -3 Ostile. Attaccano se scoperti, altrimenti pattugliano di routine.
 - **Sivak Draconian (travestito)** — Attitudine apparente: 0 Neutrale (finché il travestimento regge). Attitudine reale: -3 Ostile.
 
 ---
@@ -172,7 +172,7 @@ Al secondo piano, **due Dragon Army soldier** sorvegliano; il loro corno d'allar
 
 > Una tenue luce di lanterna delinea appena sei set di letti a castello a due livelli, che riempiono questa modesta caserma. Sotto ogni set di letti, una piccola cassapanca.
 
-In ogni momento, **otto Dragon Army soldier** riposano qui — si alternano con le guardie in servizio nel corso della giornata. Se sentono battaglia nell'area W4 o un corno d'allarme, accorrono in supporto dopo **due round**.
+In ogni momento, **otto Soldato dell'Armata dei Draghi** riposano qui — si alternano con le guardie in servizio nel corso della giornata. Se sentono battaglia nell'area W4 o un corno d'allarme, accorrono in supporto dopo **due round**.
 
 ***Tesoro.*** Sotto ogni set di letti c'è una semplice cassapanca di legno. Ognuna contiene due mute di abiti comuni e 10 mo. Una cassapanca contiene anche una **spada lunga imargentata**, un'altra un **simbolo sacro di Takhisis** e una chiave per i controlli dei cancelli in W1.
 
@@ -180,15 +180,15 @@ In ogni momento, **otto Dragon Army soldier** riposano qui — si alternano con 
 
 ### W6 — Prigione
 
-Se l'allarme non è scattato, un **Dragon Army officer** di nome **Ardlic Vanse** è seduto a una scrivania, intento a scrivere un rapporto. Comanda le forze qui presenti. È terrorizzato dalla sua comandante, **Kansaldi Fire-Eyes**, e sacrificherà la propria vita e quella dei suoi uomini pur di mantenere il controllo del forte.
+Se l'allarme non è scattato, un **Ufficiale dell'Armata dei Draghi** di nome **Ardlic Vanse** è seduto a una scrivania, intento a scrivere un rapporto. Comanda le forze qui presenti. È terrorizzato dalla sua comandante, **Kansaldi Fire-Eyes**, e sacrificherà la propria vita e quella dei suoi uomini pur di mantenere il controllo del forte.
 
 ***Cella nord.*** Questa cella chiusa a chiave ospita un soldato di Kalaman neutrale di nome **Lanal Brint**. Stava smaltendo una notte di bevute in questa cella quando l'avamposto è caduto. Racconta ai personaggi tutto ciò che vogliono sapere sulla fortezza — come funzionano i meccanismi dei cancelli, per esempio — ma solo dopo essere stato separato da Elgo (vedi sotto).
 
-***Cella sud.*** Questa cella chiusa a chiave ospita **Elgo Duckditcher**, una kender caotica buona che si considera una famosa esploratrice e un'evitatrice di pollame. Il Red Dragon Army l'ha imprigionata qui dopo che lei ha insistito per esplorare il forte. Nei giorni trascorsi, ha raccontato a Lanal ogni storia che conosce, due volte, e lo ha dichiarato suo cugino adottivo. È convinta che il suo nome sia Flannel, e non sente ragioni — conosce bene il nome di suo cugino. Se liberata, Elgo non se ne andrà finché non recupera il suo hoopak (nell'area W4).
+***Cella sud.*** Questa cella chiusa a chiave ospita **Elgo Duckditcher**, una kender caotica buona che si considera una famosa esploratrice e un'evitatrice di pollame. L'Armata dei Draghi Rossi l'ha imprigionata qui dopo che lei ha insistito per esplorare il forte. Nei giorni trascorsi, ha raccontato a Lanal ogni storia che conosce, due volte, e lo ha dichiarato suo cugino adottivo. È convinta che il suo nome sia Flannel, e non sente ragioni — conosce bene il nome di suo cugino. Se liberata, Elgo non se ne andrà finché non recupera il suo hoopak (nell'area W4).
 
-***Tesoro.*** I documenti sulla scrivania includono i rapporti quotidiani del comandante Vanse, insieme a ordini di tenere Wheelwatch a ogni costo, firmati *"Dragon Highmaster Kansaldi Fire-Eyes."* Un cassetto della scrivania contiene **arnesi da scasso** confiscati a Elgo e 200 mo. Vanse porta un anello di ferro con le chiavi delle celle di quest'area e dei cancelli in W1.
+***Tesoro.*** I documenti sulla scrivania includono i rapporti quotidiani del comandante Vanse, insieme a ordini di tenere Wheelwatch a ogni costo, firmati *"Gran Maestra dei Draghi Kansaldi Fire-Eyes."* Un cassetto della scrivania contiene **arnesi da scasso** confiscati a Elgo e 200 mo. Vanse porta un anello di ferro con le chiavi delle celle di quest'area e dei cancelli in W1.
 
-*[NOTA DM — riservata] I documenti firmati da Kansaldi sono la prima prova scritta, tangibile, che il party trova del suo comando diretto — finora era solo un nome temuto dai draconiani (S05). Metterle in mano un ordine vergato di suo pugno rende la Highmaster più reale, più vicina. Elgo e Lanal sono pensati come sollievo comico dopo la tensione delle torri — una kender logorroica e un soldato ubriaco che ora si crede suo cugino sono un ottimo contrasto tonale prima della Fase 5. Non forzare il comico se il tavolo preferisce restare in modalità operativa: bastano poche battute.*
+*[NOTA DM — riservata] I documenti firmati da Kansaldi sono la prima prova scritta, tangibile, che il party trova del suo comando diretto — finora era solo un nome temuto dai draconiani (S05). Metterle in mano un ordine vergato di suo pugno rende la Gran Maestra più reale, più vicina. Elgo e Lanal sono pensati come sollievo comico dopo la tensione delle torri — una kender logorroica e un soldato ubriaco che ora si crede suo cugino sono un ottimo contrasto tonale prima della Fase 5. Non forzare il comico se il tavolo preferisce restare in modalità operativa: bastano poche battute.*
 
 ### W7 — Deposito
 
@@ -219,7 +219,7 @@ Un personaggio che origlia alla porta della stalla e supera una prova di **Sagge
 
 > Piena di stalli e provviste per cavalli, questa stalla puzza di grandi animali e sangue. Il terreno è coperto dagli scheletri sparsi di due cavalli. Chino su di essi, qualcosa di grosso, rosso e rettiliano fruga tra le ossa.
 
-Un **Dragon Army dragonnel** e il suo cavaliere, un **Dragon Army officer**, occupano questa stalla. Se i personaggi entrano, il dragonnel li riconosce come intrusi e attacca. È probabilmente la prima volta che i personaggi vedono una creatura così simile a un drago. Un personaggio che supera una prova di **Intelligenza (Arcano o Natura) CD 14** riconosce la creatura come un dragonnel, un lontano e selvatico cugino minore dei draghi leggendari scomparsi da Krynn.
+Un'**Armata dei Draghi dragonnel** e il suo cavaliere, un **Ufficiale dell'Armata dei Draghi**, occupano questa stalla. Se i personaggi entrano, il dragonnel li riconosce come intrusi e attacca. È probabilmente la prima volta che i personaggi vedono una creatura così simile a un drago. Un personaggio che supera una prova di **Intelligenza (Arcano o Natura) CD 14** riconosce la creatura come un dragonnel, un lontano e selvatico cugino minore dei draghi leggendari scomparsi da Krynn.
 
 *[NOTA DM — riservata] Se il dragonnel e il suo cavaliere sono già decollati (perché l'allarme era già scattato altrove — vedi "Allerta di Wheelwatch", Fase 3), questa zona è vuota, e il duo attacca invece **a sorpresa** più avanti, nel momento più drammatico possibile — idealmente proprio mentre il party lavora ai controlli del cancello in W1. Non sprecare questa rivelazione: se il combattimento nel resto del forte è stato lungo e faticoso, il dragonnel che piomba dal cielo è il colpo di scena che rialza la posta prima del gran finale.*
 
@@ -229,18 +229,18 @@ Un **Dragon Army dragonnel** e il suo cavaliere, un **Dragon Army officer**, occ
 
 > Rifornimenti da cucina riempiono questa stanza. Di fronte a un tavolo coperto di posate e carote striminzite, un soldato umano che indossa un grembiule macchiato sopra l'armatura sorveglia due pentole che ribollono su una stufa accesa.
 
-Un **Dragon Army soldier** prepara qui un pasto: una zuppa annacquata, pesante di pepe.
+Un **Soldato dell'Armata dei Draghi** prepara qui un pasto: una zuppa annacquata, pesante di pepe.
 
 ***Tesoro.*** Il bene più prezioso del cuoco è una coppia di saliere e pepiere del valore di 20 mo, intagliate con amore a forma di draghi bianchi e neri.
 
 ### Completare la Missione
 
-Una volta che i personaggi aprono i cancelli di Wheelwatch, Raven manda dentro le sue truppe per ripulire ogni residua resistenza del Dragon Army. Suggerisce ai personaggi di riposare e riprendersi, poi tornare a Kalaman con una lettera di Raven che informa Marshal Vendri della vittoria.
+Una volta che i personaggi aprono i cancelli di Wheelwatch, Raven manda dentro le sue truppe per ripulire ogni residua resistenza dell'Armata dei Draghi. Suggerisce ai personaggi di riposare e riprendersi, poi tornare a Kalaman con una lettera di Raven che informa Maresciallo Vendri della vittoria.
 
-Qualunque soldato del Dragon Army catturato durante la missione afferma una delle seguenti cose (scegli o tira un d3):
+Qualunque soldato dell'Armata dei Draghi catturato durante la missione afferma una delle seguenti cose (scegli o tira un d3):
 
-- **Vittoria futile.** Il Dragon Army riprenderà Wheelwatch da un momento all'altro. I difensori di Kalaman farebbero meglio ad arrendersi ora.
-- **Minaccia in arrivo.** Il capo del Red Dragon Army, la Dragon Highmaster **Kansaldi Fire-Eyes**, sta ancora radunando le sue forze. Le sue truppe sottometteranno la regione prima di rivolgersi a conquiste più grandi.
+- **Vittoria futile.** L'Armata dei Draghi riprenderà Wheelwatch da un momento all'altro. I difensori di Kalaman farebbero meglio ad arrendersi ora.
+- **Minaccia in arrivo.** Il capo dell'Armata dei Draghi Rossi, la Gran Maestra dei Draghi **Kansaldi Fire-Eyes**, sta ancora radunando le sue forze. Le sue truppe sottometteranno la regione prima di rivolgersi a conquiste più grandi.
 - **Messaggero.** Il dragonnel di stanza qui era un semplice messaggero. Quando la guerra arriverà davvero in questa regione, ali rosse oscureranno i cieli.
 
 *[NOTA DM — riservata] Le tre affermazioni sono presagi calibrati: la prima è disinformazione da soldato spaventato; la seconda rinforza Kansaldi come minaccia crescente ma non ancora scatenata (coerente con quanto già seminato in S05); la terza è il presagio più inquietante — "ali rosse che oscurano i cieli" anticipa gli assi dragonnel e i draghi veri dei capitoli successivi. Scegline una in base a cosa vuoi seminare, o falle dire tutte e tre da prigionieri diversi se il party ne cattura più d'uno.*
@@ -248,7 +248,7 @@ Qualunque soldato del Dragon Army catturato durante la missione afferma una dell
 ---
 
 **Attitudine PNG in questa scena:**
-- **Dragon Army dragonnel / officer (cavaliere)** — Attitudine: -3 Ostile. Il dragonnel attacca per istinto/addestramento, il cavaliere per dovere.
+- **Armata dei Draghi dragonnel / officer (cavaliere)** — Attitudine: -3 Ostile. Il dragonnel attacca per istinto/addestramento, il cavaliere per dovere.
 - **Raven Uth Vogler** *(quando i cancelli si aprono)* — Attitudine: +1/+2 (vedi Fase 1). Entra nel forte coi suoi uomini, visibilmente sollevata e più sicura di sé — il primo comando della sua nuova vita da soldato è un successo.
 
 ---
@@ -260,16 +260,16 @@ Qualunque soldato del Dragon Army catturato durante la missione afferma una dell
 ### Il Rientro
 
 Il party rientra a Kalaman con:
-1. **Wheelwatch Outpost** riconquistato, presidiato dalle truppe di Raven.
+1. L'**Avamposto di Wheelwatch** riconquistato, presidiato dalle truppe di Raven.
 2. **Lanal Brint** ed **Elgo Duckditcher**, liberi, riportati in salvo.
-3. La conferma di due nuove facce del Dragon Army: il **sivak** che ruba forme, il **dragonnel** che vola.
+3. La conferma di due nuove facce dell'Armata dei Draghi: il **sivak** che ruba forme, il **dragonnel** che vola.
 4. Il bottino del forte: documenti firmati da Kansaldi Fire-Eyes, un simbolo sacro di Takhisis, armi, fuoco alchemico, monete.
 
 ### Rapporto a Vendri
 
-I personaggi riferiscono a Darrett o direttamente a Vendri. La Marshal è **soddisfatta**: un avamposto di confine è tornato in mano a Kalaman, un nuovo comandante (Raven) si è dimostrato all'altezza, e le informazioni raccolte (i documenti di Vanse, le affermazioni dei prigionieri) confermano che Kansaldi sta ancora radunando le forze prima di colpire più a fondo.
+I personaggi riferiscono a Darrett o direttamente a Vendri. La Maresciallo è **soddisfatta**: un avamposto di confine è tornato in mano a Kalaman, un nuovo comandante (Raven) si è dimostrato all'altezza, e le informazioni raccolte (i documenti di Vanse, le affermazioni dei prigionieri) confermano che Kansaldi sta ancora radunando le forze prima di colpire più a fondo.
 
-*[NOTA DM — riservata] **Anticipo per la Sessione 07.** La fonte prosegue immediatamente da qui con "Battle at Steel Springs" (righe 2771–2865) e "The Lord's Arrival" (righe 2867 in poi): un contingente di Kalaman guidato da Lord Bakaris cade in un'imboscata, Darrett vi manda un messaggio disperato, e al ritorno a Kalaman la città subisce un attacco a sorpresa da cavalieri non-morti al servizio di Lord Soth. **Non anticipare nulla di questo ai giocatori.** Se vuoi seminare un piccolo presagio, un aiutante di Vendri può menzionare, di sfuggita, che "Lord Bakaris preme per un'azione più aggressiva a ovest" — nient'altro. Il resto arriva con la prossima sessione.*
+*[NOTA DM — riservata] **Anticipo per la Sessione 07.** La fonte prosegue immediatamente da qui con "Battle at Steel Springs" (righe 2771–2865) e "L'Arrivo del Signore (The Lord's Arrival)" (righe 2867 in poi): un contingente di Kalaman guidato da Lord Bakaris cade in un'imboscata, Darrett vi manda un messaggio disperato, e al ritorno a Kalaman la città subisce un attacco a sorpresa da cavalieri non-morti al servizio di Lord Soth. **Non anticipare nulla di questo ai giocatori.** Se vuoi seminare un piccolo presagio, un aiutante di Vendri può menzionare, di sfuggita, che "Lord Bakaris preme per un'azione più aggressiva a ovest" — nient'altro. Il resto arriva con la prossima sessione.*
 
 ### Tempo Libero e Ricompense
 
@@ -277,13 +277,13 @@ Il resto della giornata è libero. Buoni usi:
 - Ritirare lo stipendio, curare ferite, rifornirsi in armeria con parte del bottino di Wheelwatch (dopo che Raven e Vendri hanno trattenuto ciò che serve alla difesa).
 - Elgo Duckditcher, se sopravvissuta e riportata a Kalaman, si aggira per la città raccontando a chiunque le sue "leggendarie esplorazioni" di Wheelwatch — un piccolo PNG comico ricorrente, se il tavolo l'ha adottata.
 - Lanal Brint torna al proprio reparto, riconoscente; potrebbe rivelarsi una fonte informale futura su cosa succede nelle retrovie militari di Kalaman.
-- Bere con Cudgel e l'Ironclad Regiment, aggiornarli sulla missione; fraternizzare ancora con Rookledust (che chiederà, inevitabilmente, dettagli tecnici sul dragonnel).
+- Bere con Cudgel e il Reggimento Ironclad, aggiornarli sulla missione; fraternizzare ancora con Rookledust (che chiederà, inevitabilmente, dettagli tecnici sul dragonnel).
 - Chi ha thread aperti (rotolo di Wyhan, fargab, destino di Becklin se non chiuso) può proseguirli.
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Marshal Nestra Vendri** — Attitudine: +3 Alleato (invariata/consolidata). Un avamposto riconquistato senza perdite fra i propri effettivi è esattamente il tipo di risultato che si aspetta ormai dal party.
+- **Maresciallo Nestra Vendri** — Attitudine: +3 Alleato (invariata/consolidata). Un avamposto riconquistato senza perdite fra i propri effettivi è esattamente il tipo di risultato che si aspetta ormai dal party.
 - **Darrett Highwater** — Attitudine: +3 Alleato. Orgoglioso di Raven, orgoglioso del party.
 - **Raven Uth Vogler** — Attitudine: +1/+2 (vedi Fase 1/5). Il suo primo comando riuscito; da qui in avanti presidia Wheelwatch, un altro volto di Vogler ritrovato in un ruolo nuovo.
 
@@ -291,7 +291,7 @@ Il resto della giornata è libero. Buoni usi:
 
 ## Stat Block — Creature e Alleati di Wheelwatch
 
-### Dragon Army Soldier · CR 1 · 200 XP cad.
+### Soldato dell'Armata dei Draghi · CR 1 · 200 XP cad.
 
 ```
 SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
@@ -318,7 +318,7 @@ Giavellotto. Attacco in mischia o a distanza: +4 al colpire, portata 1,5 m
   o gittata 9/36 m — 5 (1d6+2) perforanti più 2 (1d4) danni da fuoco.
 ```
 
-### Dragon Army Officer · CR 3 · 700 XP cad.
+### Ufficiale dell'Armata dei Draghi · CR 3 · 700 XP cad.
 
 ```
 UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
@@ -363,7 +363,7 @@ Linguaggi Comune, Draconico
 CR 4 (1.100 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+Spasmi di Morte. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
 piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
 URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
 sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
@@ -382,7 +382,7 @@ Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
   sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
-*[NOTA DM — ⚠️ SUPERATA il 2026-09-13: ora c'è la scheda ufficiale DSotDQ p199 qui sopra. Il "Furto di Forma" ufficiale è una **reazione** e l'"Ultimo Inganno" esiste davvero, ma come **Death Throes con effetto di paura reale** (TS Saggezza CD 14), non come puro colore. Testo originale conservato solo come storia.] Il "Furto di Forma" e l'"Ultimo Inganno" erano ricostruiti sul lore classico di Dragonlance per il sivak (il draconiano che ruba identità) e vanno **verificati sull'appendice B del manuale**, che nell'estratto disponibile riporta solo il nome della creatura senza stat block completo — stessa onestà metodologica di S05 per baaz/kapak. L'"Ultimo Inganno" è pensato come puro colpo di scena narrativo (il cadavere che per un istante ha il volto di chi lo ha ucciso), non come meccanica di combattimento: non dargli conseguenze meccaniche reali, solo l'orrore del momento.*
+*[NOTA DM — ⚠️ SUPERATA il 2026-09-13: ora c'è la scheda ufficiale DSotDQ p199 qui sopra. Il "Furto di Forma" ufficiale è una **reazione** e l'"Ultimo Inganno" esiste davvero, ma come **Spasmi di Morte (Death Throes) con effetto di paura reale** (TS Saggezza CD 14), non come puro colore. Testo originale conservato solo come storia.] Il "Furto di Forma" e l'"Ultimo Inganno" erano ricostruiti sul lore classico di Dragonlance per il sivak (il draconiano che ruba identità) e vanno **verificati sull'appendice B del manuale**, che nell'estratto disponibile riporta solo il nome della creatura senza stat block completo — stessa onestà metodologica di S05 per baaz/kapak. L'"Ultimo Inganno" è pensato come puro colpo di scena narrativo (il cadavere che per un istante ha il volto di chi lo ha ucciso), non come meccanica di combattimento: non dargli conseguenze meccaniche reali, solo l'orrore del momento.*
 
 ### Baaz Draconian (×2) · CR 1/2 · 100 XP cad. *(identico alla Sessione 05)*
 
@@ -400,7 +400,7 @@ TRATTI
 Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
 incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+Spasmi di Morte. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
 pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
 TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
 Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
@@ -416,7 +416,7 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
   Colpito: 4 (1d6+1) danni perforanti.
 ```
 
-### Dragon Army Dragonnel · CR 3 · 700 XP
+### Dragonnel dell'Armata dei Draghi · CR 3 · 700 XP
 
 ```
 DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
@@ -479,11 +479,11 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 
 | Preludio | Hook in Sessione 06 |
 |----------|---------------------|
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Il **Furto di Forma** del sivak non è illusione: è una vera trasformazione fisica, magia legata alla morte e all'identità. Un PG con Arcano può riconoscerne la natura (**Intelligenza (Arcano) CD 13**: *"Non è un travestimento. È il corpo stesso che si riscrive. Chi ha creato queste creature ha voluto che nessuno potesse più fidarsi di un volto."*). Anche il dragonnel offre materiale: non è magico, ma la sua sola esistenza — un "quasi-drago" selvatico — è una domanda aperta sul confine tra draghi veri e le loro imitazioni imperfette, un tema che risuonerà nei capitoli a venire. |
-| **Broken Silence** (PG con connessione divina) | Il **simbolo sacro di Takhisis** trovato nella caserma (W5) è un oggetto che un PG di fede può voler distruggere, benedire contro, o studiare con orrore — è la prima prova fisica e tangibile del culto nemico che il party abbia mai tenuto in mano. Il dragonnel, "cugino selvatico" dei draghi, può anche innescare una riflessione teologica: cosa resta della bontà originaria in una creatura che non è stata corrotta come i draconiani, ma che la guerra ha comunque reso un'arma? |
-| **Scales of War** (tutti) | Questa è la prima missione della campagna giocata come **operazione militare vera**, non come reazione a un'emergenza: piano, ricognizione, tempistica concordata con Raven. Per l'intero party è un salto di status — non più profughi che reagiscono, ma soldati che pianificano. E ritrovare **Raven**, un'altra faccia di Vogler, in un ruolo del tutto nuovo, rinforza il tema di una casa perduta che si ricostruisce altrove, in forme diverse. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Il **Furto di Forma** del sivak non è illusione: è una vera trasformazione fisica, magia legata alla morte e all'identità. Un PG con Arcano può riconoscerne la natura (**Intelligenza (Arcano) CD 13**: *"Non è un travestimento. È il corpo stesso che si riscrive. Chi ha creato queste creature ha voluto che nessuno potesse più fidarsi di un volto."*). Anche il dragonnel offre materiale: non è magico, ma la sua sola esistenza — un "quasi-drago" selvatico — è una domanda aperta sul confine tra draghi veri e le loro imitazioni imperfette, un tema che risuonerà nei capitoli a venire. |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | Il **simbolo sacro di Takhisis** trovato nella caserma (W5) è un oggetto che un PG di fede può voler distruggere, benedire contro, o studiare con orrore — è la prima prova fisica e tangibile del culto nemico che il party abbia mai tenuto in mano. Il dragonnel, "cugino selvatico" dei draghi, può anche innescare una riflessione teologica: cosa resta della bontà originaria in una creatura che non è stata corrotta come i draconiani, ma che la guerra ha comunque reso un'arma? |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Questa è la prima missione della campagna giocata come **operazione militare vera**, non come reazione a un'emergenza: piano, ricognizione, tempistica concordata con Raven. Per l'intero party è un salto di status — non più profughi che reagiscono, ma soldati che pianificano. E ritrovare **Raven**, un'altra faccia di Vogler, in un ruolo del tutto nuovo, rinforza il tema di una casa perduta che si ricostruisce altrove, in forme diverse. |
 | **Legame con Vogler / Raven** (qualunque PG che ha interagito con la sindaca in Cap. 3) | Rivedere Raven Uth Vogler — non più sindaca di un villaggio in festa, ma comandante nervosa di reclute — è il momento-spotlight di questa sessione per chi l'ha conosciuta a Vogler. Un PG che la incoraggia, la sfida a fidarsi di sé stessa, o semplicemente le ricorda chi era, la aiuta concretamente a superare l'incertezza del comando (rifletti questo in un momento di leadership riuscita in Fase 5). |
-| **Tutti** | Il sivak e il dragonnel spostano ancora la posta dopo i baaz/kapak della S05: non solo il Dragon Army ha soldati fedeli fino alla morte e creature che si dissolvono — ora ha anche **spie che rubano volti** e **bestie che sembrano draghi**. Ogni PG può reagire diversamente a questa escalation: sospetto crescente verso ogni sconosciuto, fascinazione tattica, o puro terrore represso. È un momento condiviso che approfondisce il tono della guerra. |
+| **Tutti** | Il sivak e il dragonnel spostano ancora la posta dopo i baaz/kapak della S05: non solo l'Armata dei Draghi ha soldati fedeli fino alla morte e creature che si dissolvono — ora ha anche **spie che rubano volti** e **bestie che sembrano draghi**. Ogni PG può reagire diversamente a questa escalation: sospetto crescente verso ogni sconosciuto, fascinazione tattica, o puro terrore represso. È un momento condiviso che approfondisce il tono della guerra. |
 
 ---
 
@@ -520,9 +520,9 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 > *Anche da morti, questi guerrieri rettili portano miseria, esplodendo in fiotti d'acido o nubi di vapore. State attenti.*
 > *Anche se sopravviviamo agli invasori, non abbiamo abbastanza da mangiare, e si semina poco nelle terre circostanti con eserciti in marcia. Come si vive un anno senza raccolto?*
 > *Non so per quanto resisteremo, né chi leggerà queste parole. Spero solo che servano da monito a qualcuno.*
-> *Ollen Nahled, Comandante di Wheelwatch Outpost"*
+> *Ollen Nahled, Comandante dell'Avamposto di Wheelwatch"*
 
-*[NOTA DM — riservata] Questa lettera è tratta dal frontespizio del manuale (pagina introduttiva, non dalla sezione meccanica "Wheelwatch Outpost" estratta per questa sessione) ed è qui ripresa come documento in-mondo scopribile, per dare peso storico al forte: Ollen Nahled ne era il comandante prima della caduta, e il suo destino non è specificato nella sezione giocabile. Puoi lasciarlo un mistero (disperso? catturato? morto altrove?) o deciderlo tu — non è vincolato da alcun dato meccanico. Se un PG trova la lettera, è un buon momento silenzioso: la prova scritta che qualcuno ha già visto arrivare i draconiani, ed è probabilmente per questo che sapevamo già, fin dalla S05, come li chiamano.*
+*[NOTA DM — riservata] Questa lettera è tratta dal frontespizio del manuale (pagina introduttiva, non dalla sezione meccanica "Avamposto di Wheelwatch" estratta per questa sessione) ed è qui ripresa come documento in-mondo scopribile, per dare peso storico al forte: Ollen Nahled ne era il comandante prima della caduta, e il suo destino non è specificato nella sezione giocabile. Puoi lasciarlo un mistero (disperso? catturato? morto altrove?) o deciderlo tu — non è vincolato da alcun dato meccanico. Se un PG trova la lettera, è un buon momento silenzioso: la prova scritta che qualcuno ha già visto arrivare i draconiani, ed è probabilmente per questo che sapevamo già, fin dalla S05, come li chiamano.*
 
 ---
 
@@ -532,8 +532,8 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 
 | Missione | Dove | Nemici | Nota |
 |----------|------|--------|------|
-| **Ambushing the Enemy** | Fattoria 18 miglia a est | 1 Dragon Army soldier + 6 hobgoblin | Bottino: 200 mo, 5 cotte di maglia nere, messaggio della Highmaster |
-| **Draconian Blockade** | 20 miglia a est, guado del Raiding Rill | 5 baaz + 1 bozak draconian | Primo bozak della campagna (esplode in Death Throes) |
+| **Tendere un'Imboscata al Nemico (*Ambushing the Enemy*)** | Fattoria 18 miglia a est | 1 Soldato dell'Armata dei Draghi + 6 hobgoblin | Bottino: 200 mo, 5 cotte di maglia nere, messaggio della Gran Maestra |
+| **Blocco Draconico (*Draconian Blockade*)** | 20 miglia a est, guado del Raiding Rill | 5 baaz + 1 bozak draconian | Primo bozak della campagna (esplode in Spasmi di Morte) |
 
 ---
 
@@ -543,9 +543,9 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Battle at Steel Springs / The Lord's Arrival | Prossimo beat della fonte (righe 2771 in poi): un'imboscata a Steel Springs, un messaggio disperato di Darrett, e un attacco a sorpresa a Kalaman da cavalieri non-morti al servizio di Lord Soth | Alta → Sessione 07 |
+| Battle at Steel Springs / L'Arrivo del Signore | Prossimo beat della fonte (righe 2771 in poi): un'imboscata a Steel Springs, un messaggio disperato di Darrett, e un attacco a sorpresa a Kalaman da cavalieri non-morti al servizio di Lord Soth | Alta → Sessione 07 |
 | Raven Uth Vogler, comandante di Wheelwatch | Rimane a presidiare l'avamposto riconquistato; futura alleata ricorrente e possibile fonte di informazioni dal fronte sud-est | Media → ricorrente |
-| I Draconiani — arco aperto | Sivak (ruba forme) affrontato dopo baaz/kapak (S05). Prossimi: bozak (esplode), aurak (magia). Il tema delle "morti che contano" continua a crescere | Media → arco Dragon Army |
+| I Draconiani — arco aperto | Sivak (ruba forme) affrontato dopo baaz/kapak (S05). Prossimi: bozak (esplode), aurak (magia). Il tema delle "morti che contano" continua a crescere | Media → arco dell'Armata dei Draghi |
 | Il dragonnel e i "cugini di drago" | Prima creatura drago-simile della campagna; presagio dei veri draghi e dei loro cavalieri (Red Ruin) nei capitoli avanzati | Bassa → arco lungo |
 | Elgo Duckditcher e Lanal Brint | Nuovi PNG minori, potenzialmente ricorrenti se il tavolo li ha adottati; nessun obbligo di richiamarli | Bassa → opzionale |
 | Kansaldi Fire-Eyes — prove scritte | I documenti firmati trovati a Wheelwatch la rendono più concreta come antagonista; nessuna nuova informazione strategica oltre a quanto già noto | Bassa → arco lungo |
@@ -569,7 +569,7 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 - [ ] Sivak draconian smascherato: Sì / No — come: ____________
 - [ ] Baaz draconian (W4) sconfitti: __/2
 - [ ] Lanal Brint ed Elgo liberati: Sì / No — hoopak di Elgo recuperato: Sì / No
-- [ ] Dragon Army dragonnel + cavaliere affrontati: Sì / No — esito: ____________
+- [ ] Armata dei Draghi dragonnel + cavaliere affrontati: Sì / No — esito: ____________
 - [ ] Cancelli aperti, truppe di Raven entrate: Sì / No
 - [ ] Prigionieri interrogati — affermazione ottenuta: Vittoria futile / Minaccia in arrivo / Messaggero
 - [ ] Lettera di Ollen Nahled trovata: Sì / No
@@ -582,7 +582,7 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
 | Darrett Highwater | Presenta Raven, orgoglioso dell'esito | +3 Alleato (invariata) |
-| Marshal Nestra Vendri | Riceve la notizia del forte riconquistato | +3 Alleato (invariata/consolidata) |
+| Maresciallo Nestra Vendri | Riceve la notizia del forte riconquistato | +3 Alleato (invariata/consolidata) |
 | Raven Uth Vogler | **Reincontrata** — primo comando riuscito | +1 → +2 (Cordiale/Amichevole) |
 | Lanal Brint | **NUOVO PNG** — soldato prigioniero liberato | +1 Cordiale |
 | Elgo Duckditcher | **NUOVO PNG** — kender prigioniera liberata | +1 → +2 (Cordiale/Amichevole) |
@@ -593,9 +593,9 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| Fino a 18 Dragon Army soldier | fino a 900 XP (50 cad.) |
-| Fino a 2 Dragon Army officer | fino a 1.400 XP (700 cad.) |
-| 1 sivak draconian | 1.100 XP |
+| Fino a 18 Soldati dell'Armata dei Draghi | fino a 900 XP (50 cad.) |
+| Fino a 2 Ufficiali dell'Armata dei Draghi | fino a 1.400 XP (700 cad.) |
+| 1 draconiano sivak | 1.100 XP |
 | 2 baaz draconian | 400 XP (200 cad.) |
 | 1 dragonnel | 1.100 XP |
 | **Totale combattimento** | **fino a ~4.900 XP** (vittoria completa — non necessaria) |
@@ -613,14 +613,14 @@ Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (fino a ~4.900) + bottino; **conferma il Livello 5**; annota Wheelwatch come avamposto alleato riconquistato
-- [ ] `campagna/png-incontrati.md` — **aggiungi Lanal Brint ed Elgo Duckditcher sotto "PNG Capitolo 4"**; aggiorna **Raven Uth Vogler** (+1 → +2, ora comandante di Wheelwatch); aggiungi **sivak draconian** e **dragonnel** come nuovi nemici tipo affrontati; annota il destino di Ardlic Vanse
+- [ ] `campagna/png-incontrati.md` — **aggiungi Lanal Brint ed Elgo Duckditcher sotto "PNG Capitolo 4"**; aggiorna **Raven Uth Vogler** (+1 → +2, ora comandante di Wheelwatch); aggiungi **draconiano sivak** e **dragonnel** come nuovi nemici tipo affrontati; annota il destino di Ardlic Vanse
 - [ ] `campagna/rapporti.md` — compila "Capitolo 03 (Kalaman — Cap 4 libro)": rapporto con Raven (continuità da Vogler), eventuale legame con Elgo/Lanal
 - [ ] `campagna/fazioni.md` — **Esercito di Kalaman**: ulteriore consolidamento verso Alleata (vittoria militare concreta); annota Wheelwatch come avamposto riconquistato e presidiato da Raven
-- [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato); se "Ambushing the Enemy" o "Draconian Blockade" non sono ancora state giocate, restano disponibili come digressioni future
+- [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato); se "Tendere un'Imboscata al Nemico" o il "Blocco Draconico" non sono ancora state giocate, restano disponibili come digressioni future
 - [ ] `campagna/contesto.md` — **nessun cambio di capitolo** (resta 4); aggiorna la nota di stato ("Sessione 06 preparata"); conferma Livello 5 nella tabella progressione
 - [ ] `campagna/sessioni/recaps/recap-sessione-06.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] `/aggiorna-locations 06` — esegui dopo la sessione (Wheelwatch Outpost, la strada per Estwilde)
-- [ ] `/prep-sessione 07` — prepara la prossima: **Battle at Steel Springs** e **The Lord's Arrival** (righe 2771 in poi)
+- [ ] `/aggiorna-locations 06` — esegui dopo la sessione (Avamposto di Wheelwatch, la strada per Estwilde)
+- [ ] `/prep-sessione 07` — prepara la prossima: **Battle at Steel Springs** e **L'Arrivo del Signore** (righe 2771 in poi)
 
 ---
 
@@ -633,11 +633,11 @@ Dopo la sessione, aggiorna questi file:
 | 3 | Continuità | SETUP INIZIALE / Fase 1 | Bridge diretto dalla S05: il nuovo incarico arriva dopo il ritorno di Cudgel; introdotta **Raven Uth Vogler** (già presente in `png-incontrati.md`, Cap. 3) come comandante della forza di supporto — continuità con l'ex sindaca di Vogler, echeggiando il ritorno di Cudgel in S05 senza ripetere la stessa scena |
 | 4 | Fedeltà fonte | Fasi 2–5 | Preservati tutti i dettagli meccanici della fonte: 24 miglia a sud-est, ricognizione 8 ore/CD 14 Indagare, sistema di allarme (corni, allerta 12h, impostori), tutte le 9 aree (W1–W9) con relativi abitanti, tesori e meccaniche (controlli cancelli CD 14 Destrezza, scalata muri CD 14 Forza, ricerca deposito CD 16 Indagare, ascolto stalla CD 14 Percezione, identificazione dragonnel CD 14 Arcano/Natura) |
 | 5 | Testo "Boxed" | BT-01 – BT-08 | Tutti gli **8 testi read-aloud `>>`** presenti nella sezione fonte sono stati tradotti integralmente e verificati uno a uno contro l'originale inglese: fortezza all'orizzonte, cortile, torri sud, torre nord-ovest, fortificazione nord-est, caserma, stalla, cucina. Nessun dettaglio omesso; aggiunte atmosferiche separate in blockquote `*[aggiunta atmosferica]*` dove presenti, secondo la regola dell'Agente 2 |
-| 6 | Stat Block | Creature | Riutilizzato **identico** lo stat block del baaz draconian dalla S05 (continuità meccanica per il tavolo); aggiunti stat block ricostruiti per Dragon Army soldier, Dragon Army officer, sivak draconian (con Furto di Forma e Ultimo Inganno ricostruiti sul lore Dragonlance), Dragon Army dragonnel, e stat block di riferimento per gli alleati Elgo Duckditcher e Lanal Brint. **Segnalato esplicitamente** che l'appendice B del file fonte disponibile elenca solo i nomi delle creature, senza valori meccanici — gli stessi ricostruiti vanno verificati sul manuale completo, coerentemente con la metodologia S04–S05 |
-| 7 | Bilanciamento | Fase 3 (NOTA DM) | Aggiunta nota esplicita di bilanciamento: il forte contiene ~4.900 XP potenziali, un carico eccessivo per 2h30m se affrontato per intero; raccomandato l'uso di regole di "mob combat" per i gruppi di Dragon Army soldier e la scelta furtiva/mista come percorso di default, coerente con l'impostazione della fonte (che presenta il forte come infiltrazione, non come dungeon-crawl lineare) |
-| 8 | Continuità | Fase 6 / Thread Narrativi | Aggiunto un accenno controllato (non uno spoiler) al prossimo beat della fonte ("Battle at Steel Springs" / "The Lord's Arrival", righe 2771+), da non rivelare ai giocatori: solo un'eco indiretta tramite un aiutante di Vendri, per preparare la Sessione 07 senza anticipare l'imboscata o l'attacco dei cavalieri non-morti |
-| 9 | PC Integration | Hook PG | Hook per Eye in the Sky (Furto di Forma come vera trasformazione, non illusione), Broken Silence (simbolo di Takhisis trovato, riflessione sul dragonnel come "non-corrotto ma comunque arma"), Scales of War (prima operazione militare pianificata, ritorno di Raven), nuovo hook "Legame con Vogler/Raven" al posto del legame Becklin/Cavalieri di S05 (qui assente perché nessun Cavaliere compare in questa sezione); due scene opzionali (il comando di Raven; Elgo e Lanal "cugini") |
-| 10 | Missioni | Thread Narrativi | Confermato, come in S04–S05, che l'Agente 4 non ha trovato missioni di fazione da integrare (`missioni-secondarie.md` e `fazioni.md` non prevedono missioni strutturate). Le missioni modulari residue di S05 (Ambushing the Enemy, Draconian Blockade) restano segnalate come materiale opzionale indipendente da Wheelwatch |
+| 6 | Stat Block | Creature | Riutilizzato **identico** lo stat block del baaz draconian dalla S05 (continuità meccanica per il tavolo); aggiunti stat block ricostruiti per Soldato dell'Armata dei Draghi, Ufficiale dell'Armata dei Draghi, draconiano sivak (con Furto di Forma e Ultimo Inganno ricostruiti sul lore Dragonlance), Armata dei Draghi dragonnel, e stat block di riferimento per gli alleati Elgo Duckditcher e Lanal Brint. **Segnalato esplicitamente** che l'appendice B del file fonte disponibile elenca solo i nomi delle creature, senza valori meccanici — gli stessi ricostruiti vanno verificati sul manuale completo, coerentemente con la metodologia S04–S05 |
+| 7 | Bilanciamento | Fase 3 (NOTA DM) | Aggiunta nota esplicita di bilanciamento: il forte contiene ~4.900 XP potenziali, un carico eccessivo per 2h30m se affrontato per intero; raccomandato l'uso di regole di "mob combat" per i gruppi di soldati dell'Armata dei Draghi e la scelta furtiva/mista come percorso di default, coerente con l'impostazione della fonte (che presenta il forte come infiltrazione, non come dungeon-crawl lineare) |
+| 8 | Continuità | Fase 6 / Thread Narrativi | Aggiunto un accenno controllato (non uno spoiler) al prossimo beat della fonte ("Battle at Steel Springs" / "L'Arrivo del Signore", righe 2771+), da non rivelare ai giocatori: solo un'eco indiretta tramite un aiutante di Vendri, per preparare la Sessione 07 senza anticipare l'imboscata o l'attacco dei cavalieri non-morti |
+| 9 | PC Integration | Hook PG | Hook per Occhio nel Cielo (Furto di Forma come vera trasformazione, non illusione), Silenzio Infranto (simbolo di Takhisis trovato, riflessione sul dragonnel come "non-corrotto ma comunque arma"), Scaglie di Guerra (prima operazione militare pianificata, ritorno di Raven), nuovo hook "Legame con Vogler/Raven" al posto del legame Becklin/Cavalieri di S05 (qui assente perché nessun Cavaliere compare in questa sezione); due scene opzionali (il comando di Raven; Elgo e Lanal "cugini") |
+| 10 | Missioni | Thread Narrativi | Confermato, come in S04–S05, che l'Agente 4 non ha trovato missioni di fazione da integrare (`missioni-secondarie.md` e `fazioni.md` non prevedono missioni strutturate). Le missioni modulari residue di S05 (Tendere un'Imboscata al Nemico, Blocco Draconico) restano segnalate come materiale opzionale indipendente da Wheelwatch |
 | 11 | Coerenza — Unità | Fasi 2–5 | Distanze narrative in miglia (24 SE, 18/20 est per le missioni residue) coerenti col manuale; distanze tattiche, altezze e portate convertite in metri negli stat block e nelle meccaniche di area (muri 6 m, cancelli 4,5 m, portata glaive 3 m, volo dragonnel 18 m) |
 | 12 | Coerenza — PNG | png-incontrati / fazioni | Verificato che **Raven Uth Vogler** era già presente in `png-incontrati.md` con attitudine iniziale +1 Cordiale (Cap. 3) — riutilizzata come base per questa sessione senza contraddizioni; nessuna incoerenza rilevata con lo stato di Darrett o Vendri (invariati da S05) |
 | 13 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S04–S05; confermato "nessun cambio di capitolo" (resta 4) → **Step 6.5 della pipeline saltato** (nessuna transizione: la sessione resta interamente nel Cap. 4, righe 2615–2770, ben lontana sia dall'inizio del Cap. 5 — riga 3191 — sia dal Cap. 7 — riga 5286) |
@@ -650,10 +650,10 @@ Dopo la sessione, aggiorna questi file:
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Estensione del chunk:** a differenza della S05 (due missioni brevi da "Missions for Kalaman"), questa sessione copre **un'unica sezione coesa** — "Wheelwatch Outpost" (righe 2615–2770, ~2.180 parole nella fonte) — seguendo la priorità dell'Agente 1 per "un'intera sezione/capitolo coeso" piuttosto che un taglio arbitrario a metà di un forte con nove aree collegate.
-- **Testi read-aloud presenti nella fonte:** a differenza della S05 (dove "Missing Scouts"/"Troops Return" non avevano `>>` originali), questa sezione **ne contiene otto**, tutti tradotti e verificati uno a uno con fedeltà completa ai dettagli fattuali — coerente con l'approccio della S04 (che aveva un `>>` boxed originale per l'officina).
-- **Valori delle creature:** come per baaz/kapak in S05, l'estratto della fonte in `fonti/campagna/` riporta l'Appendice B come **semplice elenco di nomi**, senza stat block completi per Dragon Army soldier/officer, sivak draconian o dragonnel. Ho ricostruito questi valori su basi standard D&D 5e (guardie/veterani per gli umani, lore classico Dragonlance per il sivak, un ibrido "piccolo drago" per il dragonnel) e ho **segnalato al DM di verificarli sul manuale completo**, con la stessa cautela metodologica della S04–S05.
+- **Estensione del chunk:** a differenza della S05 (due missioni brevi da "Missions for Kalaman"), questa sessione copre **un'unica sezione coesa** — "Avamposto di Wheelwatch" (righe 2615–2770, ~2.180 parole nella fonte) — seguendo la priorità dell'Agente 1 per "un'intera sezione/capitolo coeso" piuttosto che un taglio arbitrario a metà di un forte con nove aree collegate.
+- **Testi read-aloud presenti nella fonte:** a differenza della S05 (dove gli "Esploratori Scomparsi"/"Ritorno delle Truppe" non avevano `>>` originali), questa sezione **ne contiene otto**, tutti tradotti e verificati uno a uno con fedeltà completa ai dettagli fattuali — coerente con l'approccio della S04 (che aveva un `>>` boxed originale per l'officina).
+- **Valori delle creature:** come per baaz/kapak in S05, l'estratto della fonte in `fonti/campagna/` riporta l'Appendice B come **semplice elenco di nomi**, senza stat block completi per Soldato dell'Armata dei Draghi/officer, draconiano sivak o dragonnel. Ho ricostruito questi valori su basi standard D&D 5e (guardie/veterani per gli umani, lore classico Dragonlance per il sivak, un ibrido "piccolo drago" per il dragonnel) e ho **segnalato al DM di verificarli sul manuale completo**, con la stessa cautela metodologica della S04–S05.
 - **Bilanciamento del forte:** ventiquattro creature ostili (~4.900 XP) sono troppe per un combattimento lineare in 2h30m. Ho reso esplicito, nella Fase 3, che il modulo presume un approccio furtivo/misto (coerente con "Raven suggests the characters slip into the fort... without raising the alarm") e ho fornito al DM strumenti pratici (mob combat, priorità agli scontri con nome) per non far collassare il ritmo della sessione, senza tagliare nessun contenuto della fonte.
-- **Il documento di Ollen Nahled:** la lettera del comandante originario di Wheelwatch si trova nel frontespizio del manuale (righe 150–162), non nella sezione meccanica "Wheelwatch Outpost" propriamente detta. L'ho ripresa come documento facoltativo scopribile in-mondo, segnalando chiaramente la fonte non contigua al chunk principale — coerente con la trasparenza metodologica richiesta dall'Agente 6.
+- **Il documento di Ollen Nahled:** la lettera del comandante originario di Wheelwatch si trova nel frontespizio del manuale (righe 150–162), non nella sezione meccanica "Avamposto di Wheelwatch" propriamente detta. L'ho ripresa come documento facoltativo scopribile in-mondo, segnalando chiaramente la fonte non contigua al chunk principale — coerente con la trasparenza metodologica richiesta dall'Agente 6.
 - **Party in TBD:** `campagna/party.md` e `fonti/personaggi/` sono ancora privi di PG definiti. Coerentemente con S03–S05, gli hook PG sono impostati sui preludi del manuale. Nessuna correzione: è lo stato atteso finché il party non sarà popolato.
 - **Nessun file esterno modificato:** in linea con le Sessioni 00–05, questa preparazione non ha alterato `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md` né `campagna/contesto.md` — tutti gli aggiornamenti "giocati" restano compito del workflow `/aggiorna-sessione` dopo la sessione reale al tavolo. Poiché il capitolo non cambia (resta 4), lo Step 6.5 (Chapter PNG Briefer) non si applica e non è stato eseguito.

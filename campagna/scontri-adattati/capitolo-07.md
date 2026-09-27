@@ -1,6 +1,6 @@
-# Scontri Adattati — Capitolo 7: Siege of Kalaman
+# Scontri Adattati — Capitolo 7: Assedio di Kalaman
 
-**Copre:** l'intero Capitolo 7 — Sessioni 25-26 (Citadel Depths/Temple Crypts, Priests' Quarters), Sessione 27 (Bastione di Takhisis e fuga) e Sessione 28 (boss fight finale).
+**Copre:** l'intero Capitolo 7 — Sessioni 25-26 (Profondità della Cittadella/Cripte del Tempio, Priests' Quarters), Sessione 27 (Bastione di Takhisis e fuga) e Sessione 28 (boss fight finale).
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!* ×5 PG, niente regola Minion, boss Action-Oriented con Villain Actions
 **Party:** 5 personaggi, Livello 11 · **Letalità target:** vedi [regole-opzionali.md](../regole-opzionali.md) — fascia bassa preferita, ma Lord Soth e Kansaldi sono **deliberatamente** all'estremo alto (vedi note sotto)
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
@@ -20,7 +20,7 @@
 
 ## Sessione 25 — Sotto le Ossa del Drago (S1-S9)
 
-### Lesser Death Dragon (S1, opzionale)
+### Drago della morte minore (S1, opzionale)
 
 Incontro condizionale: scatta solo se il gruppo fallisce la prova di gruppo Saggezza (Sopravvivenza) CD 16. Creatura solitaria contro 5 PG — l'economia delle azioni è già a favore del party per definizione (1 turno contro 5), quindi nessuna Villain Action: basta un piccolo cuscinetto di PF.
 
@@ -40,7 +40,7 @@ Cataclysmic Breath (Recharge 5-6): 60 ft cone, DC 16 Dexterity save, 45 (13d6) f
 
 ### Cripta Sigillata — Guardiani (S3)
 
-**2 Skeletal Knight → 3** (stesso blocco già usato sopra in questo file) **+ 1 Minotaur Skeleton**, scalati per il quinto giocatore.
+**2 Cavaliere scheletrico (*Skeletal Knight*) → 3** (stesso blocco già usato sopra in questo file) **+ 1 Minotaur Skeleton**, scalati per il quinto giocatore.
 
 ```
 MINOTAUR SKELETON
@@ -124,7 +124,7 @@ Bite (grappled/incapacitated/restrained target only): +9 to hit, reach 5 ft — 
 
 ### Corridoi Sorvegliati (S10)
 
-**2 Skeletal Knight → 3** (stesso blocco di S3), scalati per il quinto giocatore.
+**2 Cavaliere scheletrico → 3** (stesso blocco di S3), scalati per il quinto giocatore.
 
 ### Lorry Wanwillow (S11)
 
@@ -260,7 +260,7 @@ Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
 
 ---
 
-## Wersten Kern (S23, Mourning Sanctum)
+## Wersten Kern (S23, Santuario del Lutto)
 
 **Trattamento minore** — già ha un kit action-oriented-lite nei dm-notes (multiattacco + Litania Terrificante a ricarica + reazione Guardia dell'Impalcato): sufficiente contro 5 PG senza bisogno di altro. Nessuna Villain Action.
 
@@ -286,7 +286,7 @@ When a creature it can see hits the brazier, the platform, or a support pillar, 
 
 ---
 
-## Karavarix, Death Dragon Maggiore
+## Karavarix, Drago della morte maggiore
 
 **Trattamento minore** — un ostacolo drammatico ma non il boss per cui esiste il capitolo (quello è Kansaldi). Nessuna Villain Action; il kit da drago solitario (multiattacco + soffio a ricarica) regge già bene contro 5 PG per un singolo scontro d'impatto prima della fuga finale.
 
@@ -429,7 +429,7 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 
 **Testo da leggere (nemesi ricorrente/finale — testo lungo ed evocativo):**
 
-1. *Opener — Il Segno della Regina Dragone:*
+1. *Opener — Il Segno della Regina dei Draghi:*
    > Kansaldi alza il mento, e la gemma nel suo occhio sinistro non brucia più soltanto — punta. Un fascio di luce cremisi attraversa il campo di battaglia e si posa su uno di voi, freddo come una condanna già firmata.
    >
    > *[Aggiunta atmosferica]: Ignia lo vede prima ancora che voi capiate cosa significhi. I draghi non hanno bisogno di parole quando la loro cavaliera ha già scelto per loro.*
@@ -486,6 +486,6 @@ Wing Buffet (Recharge 5-6): each creature within 10 ft — DC 18 Dexterity save 
 
 ## Copertura e prossimi passi
 
-Questo file copre l'intero Capitolo 7: Sessioni 25-26 (Citadel Depths, Temple Crypts, Priests' Quarters — S1-S20), Sessione 27 (Bastione di Takhisis e fuga) e Sessione 28 (boss fight finale). Nessuna scena rimane fuori dall'adattamento.
+Questo file copre l'intero Capitolo 7: Sessioni 25-26 (Profondità della Cittadella, Cripte del Tempio, Priests' Quarters — S1-S20), Sessione 27 (Bastione di Takhisis e fuga) e Sessione 28 (boss fight finale). Nessuna scena rimane fuori dall'adattamento.
 
-Note di scaling generali per le Sessioni 25-26: i gruppi numerosi (Bozak, Sivak, Skeletal Knight, Wraith) sono scalati di +1 unità per il quinto giocatore, coerente col resto della campagna; le creature solitarie (Lesser Death Dragon, Undead Clay Golem, Alstare Bellis) restano sostanzialmente invariate perché l'economia delle azioni gioca già a favore di 5 PG contro 1 nemico. Nessun nuovo boss con Villain Actions in questa parte del capitolo — Drayan e Alstare Bellis restano trattamento minore, come deciso con Fabio.
+Note di scaling generali per le Sessioni 25-26: i gruppi numerosi (Bozak, Sivak, Cavaliere scheletrico, Wraith) sono scalati di +1 unità per il quinto giocatore, coerente col resto della campagna; le creature solitarie (Drago della morte minore (*Lesser Death Dragon*), Undead Clay Golem, Alstare Bellis) restano sostanzialmente invariate perché l'economia delle azioni gioca già a favore di 5 PG contro 1 nemico. Nessun nuovo boss con Villain Actions in questa parte del capitolo — Drayan e Alstare Bellis restano trattamento minore, come deciso con Fabio.

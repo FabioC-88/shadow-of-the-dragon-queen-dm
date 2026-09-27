@@ -1,21 +1,21 @@
 # DM Notes — Sessione 08: Le Catacombe Saccheggiate e la Maledizione di Sarlamir
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: Shadow of War, sezione **"Raided Catacombs"** (righe 3002–3190)
-**Livello party:** 5 → **6** (avanzamento dopo la sconfitta di Knight Sarlamir — trigger esplicito della fonte, riga 3175: *"characters advance to 6th level after defeating the skeletal knight Zanas Sarlamir"*)
-**XP accumulati:** Ereditati dalla Sessione 07 (vedi `campagna/party.md`; include fino a ~3.900 XP di Steel Springs/Kalaman se tutti i combattimenti sono stati portati a termine). Questa sessione offre: 2 wraith opzionali (1.800 XP cad. = 3.600 XP, solo se le salme in R2 vengono disturbate) + 2 cavalli scheletrici opzionali (100 XP cad. = 200 XP, solo se il tentativo di placarli fallisce) + lo scontro obbligatorio contro **Knight Sarlamir** (CR 6, 2.300 XP) = **da ~2.300 XP (minimo garantito) a ~6.100 XP (se tutti gli scontri opzionali vengono innescati)**.
-**Obiettivo sessione:** Scendere nelle catacombe sotto Castle Kalaman inseguendo Lord Soth attraverso sette camere cariche di fuoco Cataclismico, assistere — tramite le Visioni di Fuoco — alla tragica storia della sua caduta, raccogliere la leggenda del Cavaliere Sarlamir dallo spirito di Jandin, affrontare e distruggere lo scheletro animato di Sarlamir (salendo così al **6° livello**), e infine riemergere in una Kalaman dove Marshal Vendri e Lord Bakaris sono appena tornati con il grosso delle forze cittadine — chiudendo il Capitolo 4 e aprendo la strada verso il Capitolo 5: The Northern Wastes.
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: L'Ombra della Guerra (*Shadow of War*), sezione **"Catacombe Saccheggiate"** (righe 3002–3190)
+**Livello party:** 5 → **6** (avanzamento dopo la sconfitta del Cavaliere Sarlamir — trigger esplicito della fonte, riga 3175: *"characters advance to 6th level after defeating the skeletal knight Zanas Sarlamir"*)
+**XP accumulati:** Ereditati dalla Sessione 07 (vedi `campagna/party.md`; include fino a ~3.900 XP di Steel Springs/Kalaman se tutti i combattimenti sono stati portati a termine). Questa sessione offre: 2 wraith opzionali (1.800 XP cad. = 3.600 XP, solo se le salme in R2 vengono disturbate) + 2 cavalli scheletrici opzionali (100 XP cad. = 200 XP, solo se il tentativo di placarli fallisce) + lo scontro obbligatorio contro **Cavaliere Sarlamir** (CR 6, 2.300 XP) = **da ~2.300 XP (minimo garantito) a ~6.100 XP (se tutti gli scontri opzionali vengono innescati)**.
+**Obiettivo sessione:** Scendere nelle catacombe sotto il Castello di Kalaman inseguendo Lord Soth attraverso sette camere cariche di fuoco Cataclismico, assistere — tramite le Visioni di Fuoco — alla tragica storia della sua caduta, raccogliere la leggenda del Cavaliere Sarlamir dallo spirito di Jandin, affrontare e distruggere lo scheletro animato di Sarlamir (salendo così al **6° livello**), e infine riemergere in una Kalaman dove Maresciallo Vendri e Lord Bakaris sono appena tornati con il grosso delle forze cittadine — chiudendo il Capitolo 4 e aprendo la strada verso il Capitolo 5: Terre Desolate del Nord.
 **Durata stimata:** ~2h25m (7 fasi: 15 + 20 + 15 + 15 + 20 + 45 + 15 min)
-**Sessione precedente:** dm-notes-sessione-07.md — Cap. 4: Shadow of War, "Battle at Steel Springs" e "The Lord's Arrival": il party ha difeso il ritiro di Steel Springs, è tornato a una Kalaman silenziosa, ha scoperto il massacro del governatore e del consiglio cittadino, affrontato Caradoc (siniscalco di Lord Soth, fuggito o distrutto), letto il proclama di Soth, ricevuto l'avvertimento di Leedara, e sceso le prime scale verso le catacombe (righe 2771–3001)
+**Sessione precedente:** dm-notes-sessione-07.md — Cap. 4: L'Ombra della Guerra, "Battle at Steel Springs" e "L'Arrivo del Signore (*The Lord's Arrival*)": il party ha difeso il ritiro di Steel Springs, è tornato a una Kalaman silenziosa, ha scoperto il massacro del governatore e del consiglio cittadino, affrontato Caradoc (siniscalco di Lord Soth, fuggito o distrutto), letto il proclama di Soth, ricevuto l'avvertimento di Leedara, e sceso le prime scale verso le catacombe (righe 2771–3001)
 
-> ⚠️ **Nota pre-sessione:** Questa sessione copre per intero la sezione **"Raided Catacombs"** (righe 3002–3190, ~3.240 parole) — una singola sezione coesa della fonte, in linea con il criterio di estensione dell'Agente 1. Il taglio si ferma **esattamente** all'ultima riga prima dell'intestazione "Chapter 5: The Northern Wastes" (riga 3191): *"Darrett seeks out the characters to learn more... two names that guide the characters in the following chapter."* È una cesura naturale — la fine del Capitolo 4 nel libro — ma **non** rappresenta un cambio di capitolo nel senso della pipeline di preparazione: tutto il contenuto di questa sessione, incluso l'epilogo "Sanctuary Shattered", appartiene ancora al Cap. 4. Il Cap. 5 vero e proprio (Northern Wastes) inizierà solo nella Sessione 09. **Step 6.5 (Chapter PNG Briefer) non si applica a questa sessione** — vedi nota di verifica in fondo al documento.
+> ⚠️ **Nota pre-sessione:** Questa sessione copre per intero la sezione **"Catacombe Saccheggiate"** (righe 3002–3190, ~3.240 parole) — una singola sezione coesa della fonte, in linea con il criterio di estensione dell'Agente 1. Il taglio si ferma **esattamente** all'ultima riga prima dell'intestazione "Chapter 5: Terre Desolate del Nord" (riga 3191): *"Darrett seeks out the characters to learn more... two names that guide the characters in the following chapter."* È una cesura naturale — la fine del Capitolo 4 nel libro — ma **non** rappresenta un cambio di capitolo nel senso della pipeline di preparazione: tutto il contenuto di questa sessione, incluso l'epilogo "Sanctuary Shattered", appartiene ancora al Cap. 4. Il Cap. 5 vero e proprio (Terre Desolate del Nord) inizierà solo nella Sessione 09. **Step 6.5 (Chapter PNG Briefer) non si applica a questa sessione** — vedi nota di verifica in fondo al documento.
 >
-> **Il salto al 6° livello è un trigger narrativo esplicito della fonte**, non un semplice traguardo di XP: avviene nel momento preciso in cui Knight Sarlamir viene sconfitto (riga 3176), indipendentemente dal totale di XP accumulato fino a quel punto. Questo accade **prima** della fine "ufficiale" del Capitolo 4 secondo la tabella di `campagna/contesto.md` (che segnala Cap. 4 come "Livello Inizio 3 → Fine 5" — una semplificazione già segnalata come da affinare nella nota di chiusura della Sessione 07). Non correggere quella tabella in questa sessione: limitati a applicare il trigger di livello come specificato dalla fonte per la Sessione 08.
+> **Il salto al 6° livello è un trigger narrativo esplicito della fonte**, non un semplice traguardo di XP: avviene nel momento preciso in cui Cavaliere Sarlamir viene sconfitto (riga 3176), indipendentemente dal totale di XP accumulato fino a quel punto. Questo accade **prima** della fine "ufficiale" del Capitolo 4 secondo la tabella di `campagna/contesto.md` (che segnala Cap. 4 come "Livello Inizio 3 → Fine 5" — una semplificazione già segnalata come da affinare nella nota di chiusura della Sessione 07). Non correggere quella tabella in questa sessione: limitati a applicare il trigger di livello come specificato dalla fonte per la Sessione 08.
 >
 > **Struttura non lineare delle catacombe (Mappa 4.4):** le sette camere (R1–R7) non si esplorano necessariamente in sequenza stretta. Alcuni passaggi infranti (in R2 e R3) sono le scorciatoie che lo stesso Lord Soth ha aperto a forza per raggiungere direttamente R7 — un party che le trova può, in teoria, saltare R4–R6. La fonte gestisce già questa eventualità: le **Visioni di Fuoco** (cinque scene numerate, "Meeting" → "Disgraced" → "Quest" → "Distraction" → "Confrontation") si attivano in ordine ogni volta che i personaggi entrano in **una nuova camera**, indipendentemente da quale; se il party raggiunge R7 prima che tutte e cinque siano state mostrate, le scene rimanenti si susseguono lì. Il passaggio in R3 è inoltre esplicitamente instabile (rischio di crollo, vedi R3 più sotto) — un deterrente narrativo naturale contro la scorciatoia. La scomposizione in fasi qui sotto assume l'ordine "di default" R1→R7 solo per stimare i tempi: se il tuo party salta delle stanze, comprimi le fasi corrispondenti e sposta le visioni mancanti su R7 come indicato.
 >
-> **Incontri opzionali/evitabili — tienili a mente per il ritmo:** i due wraith in R2 (Cripte) attaccano **solo se** le salme vengono disturbate; i due cavalli scheletrici in R4 (Sala dei Destrieri) si placano **senza combattere** se un personaggio indossa armatura da Cavaliere di Solamnia o supera una prova di Saggezza (Addestrare Animali) CD 16. L'unico scontro **obbligatorio** di questa sessione è quello contro Knight Sarlamir in R7. Non forzare gli incontri opzionali se il tavolo li evita con giudizio o fortuna — è il funzionamento previsto dalla fonte, non un modo per "recuperare" combattimenti mancati.
+> **Incontri opzionali/evitabili — tienili a mente per il ritmo:** i due wraith in R2 (Cripte) attaccano **solo se** le salme vengono disturbate; i due cavalli scheletrici in R4 (Sala dei Destrieri) si placano **senza combattere** se un personaggio indossa armatura da Cavaliere di Solamnia o supera una prova di Saggezza (Addestrare Animali) CD 16. L'unico scontro **obbligatorio** di questa sessione è quello contro Cavaliere Sarlamir in R7. Non forzare gli incontri opzionali se il tavolo li evita con giudizio o fortuna — è il funzionamento previsto dalla fonte, non un modo per "recuperare" combattimenti mancati.
 >
-> **Stat block ricostruiti:** come nelle sessioni precedenti, l'estratto disponibile dell'Appendice B elenca "Skeletal Knight" solo per nome, senza valori meccanici pubblicati — stessa cosa per gli oggetti magici di Appendice A citati in questa sezione (*Kagonesti Forest Shroud*, e implicitamente *berserker axe*, elencati solo per nome). Ho ricostruito Knight Sarlamir come CR 6 sulla base della descrizione narrativa (scheletro animato in armatura, spada che arde di fiamma violacea, trigger di avanzamento di livello) e ho usato le schede standard 5e per wraith e cavallo scheletrico (Manuale dei Mostri). **Verificare tutti questi valori sul manuale completo se disponibile.**
+> **Stat block ricostruiti:** come nelle sessioni precedenti, l'estratto disponibile dell'Appendice B elenca "Cavaliere scheletrico" solo per nome, senza valori meccanici pubblicati — stessa cosa per gli oggetti magici di Appendice A citati in questa sezione (*Manto Forestale Kagonesti*, e implicitamente *berserker axe*, elencati solo per nome). Ho ricostruito Cavaliere Sarlamir come CR 6 sulla base della descrizione narrativa (scheletro animato in armatura, spada che arde di fiamma violacea, trigger di avanzamento di livello) e ho usato le schede standard 5e per wraith e cavallo scheletrico (Manuale dei Mostri). **Verificare tutti questi valori sul manuale completo se disponibile.**
 
 ---
 
@@ -41,7 +41,7 @@
 
 *Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
 
-> Il suono del fuoco vi accoglie prima ancora della luce — un respiro lento, regolare, innaturale. Scendete la ripida scalinata sotto Castle Kalaman, lasciandovi alle spalle il massacro della sala del consiglio, l'avvertimento sfuggente di Leedara, il nome che brucia ancora nella vostra mente: *Lord Loren Soth*.
+> Il suono del fuoco vi accoglie prima ancora della luce — un respiro lento, regolare, innaturale. Scendete la ripida scalinata sotto il Castello di Kalaman, lasciandovi alle spalle il massacro della sala del consiglio, l'avvertimento sfuggente di Leedara, il nome che brucia ancora nella vostra mente: *Lord Loren Soth*.
 >
 > I gradini terminano in un bagliore violaceo che non scalda nulla.
 
@@ -49,7 +49,7 @@
 
 ---
 
-## FASE 1 — La Sala dei Cavalieri (R1: Hall of Knights)
+## FASE 1 — La Sala dei Cavalieri (R1: Sala dei Cavalieri)
 
 *~15 minuti · L'ingresso nelle catacombe, la prima Visione di Fuoco, il riconoscimento di Kiri-Jolith*
 
@@ -112,7 +112,7 @@ Multiattacco. Il wraith effettua due attacchi con Assorbimento Vitale.
 Assorbimento Vitale. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 m. Colpito: 21 (4d8+3) danni necrotici; il bersaglio deve superare un TS Costituzione CD 15 o il proprio PF massimo si riduce di un ammontare pari al danno subito (fino al termine di un riposo lungo), e il wraith recupera PF pari al danno inflitto. Se questo effetto riduce il PF massimo del bersaglio a 0, il bersaglio muore.
 ```
 
-*[NOTA DM — riservata] Scheda standard del **wraith** (Manuale dei Mostri), senza modifiche — la fonte non ne richiede per questi due guardiani, a differenza degli Undead soldier della Sessione 07. Verificare comunque sul manuale completo.*
+*[NOTA DM — riservata] Scheda standard del **wraith** (Manuale dei Mostri), senza modifiche — la fonte non ne richiede per questi due guardiani, a differenza degli Soldato non morto (Undead soldier) della Sessione 07. Verificare comunque sul manuale completo.*
 
 ---
 
@@ -121,7 +121,7 @@ Assorbimento Vitale. Attacco con incantesimo in mischia: +6 al colpire, portata 
 
 ---
 
-## FASE 3 — La Tomba dell'Acciaio Onorato (R3: Tomb of Vaunted Steel)
+## FASE 3 — La Tomba dell'Acciaio Onorato (R3: Tomba dell'Acciaio Onorato)
 
 *~15 minuti · Terza Visione di Fuoco, le tombe sigillate, il passaggio instabile, il bottino*
 
@@ -153,7 +153,7 @@ Non appena i personaggi entrano, va in scena la terza Visione di Fuoco: **La Mis
 
 ---
 
-## FASE 4 — La Sala dei Destrieri (R4: Hall of Steeds)
+## FASE 4 — La Sala dei Destrieri (R4: Sala dei Destrieri)
 
 *~15 minuti · Quarta Visione di Fuoco, i cavalli scheletrici opzionali, il dono di Xheriev e Steelwind*
 
@@ -193,7 +193,7 @@ Zoccoli. +6 al colpire, portata 1,5 m. Colpito: 11 (2d6+4) contundenti.
 
 ## FASE 5 — Il Monumento e il Santuario degli Onorati (R5 + R6)
 
-*~20 minuti · Quinta Visione di Fuoco (la più importante), i nomi sui monumenti, lo spirito di Knight Jandin*
+*~20 minuti · Quinta Visione di Fuoco (la più importante), i nomi sui monumenti, lo spirito del Cavaliere Jandin*
 
 ### Testo — Il Monumento dei Perduti (R5) [BT-05]
 
@@ -206,7 +206,7 @@ Non appena i personaggi entrano, va in scena la quinta e ultima Visione di Fuoco
 
 *[NOTA DM — riservata] **Questa è la visione-chiave della sessione.** Gioca la scena con lentezza cerimoniale: è letteralmente l'origine di Lord Soth, mostrata in fiamme illusorie senza che nessun PNG debba spiegarla a voce. Lascia che il tavolo assista in silenzio prima di procedere con qualunque altra interazione. Se tutte e cinque le visioni non sono ancora state mostrate a questo punto (party che ha preso scorciatoie), sposta questa e le rimanenti su R7 come indicato nelle "Note strutturali".*
 
-***Lastre di Marmo.*** Il monumento in questa stanza registra i nomi dei Cavalieri di Solamnia che prestarono servizio a Castle Kalaman e morirono con onore. Un personaggio che le legge trova i nomi di **Knight Vogler** e **Knight Jandin** (che i personaggi incontrano in R6).
+***Lastre di Marmo.*** Il monumento in questa stanza registra i nomi dei Cavalieri di Solamnia che prestarono servizio al Castello di Kalaman e morirono con onore. Un personaggio che le legge trova i nomi del **Cavaliere Vogler** e **Cavaliere Jandin** (che i personaggi incontrano in R6).
 
 ### Testo — Il Santuario degli Onorati (R6) [BT-06]
 
@@ -215,15 +215,15 @@ Non appena i personaggi entrano, va in scena la quinta e ultima Visione di Fuoco
 *[Aggiunta atmosferica]:*
 > *Lo spirito inginocchiato non sembra accorgersi di voi — o forse se ne accorge, e ha semplicemente smesso, tempo fa, di temere gli intrusi. C'è qualcosa di più simile al rimorso che alla veglia, nella curva delle sue spalle.*
 
-***Lastre di Marmo.*** Le lastre qui riportano i nomi di eroi e comandanti onorati tra i Cavalieri di Solamnia che prestarono servizio a Castle Kalaman. Un personaggio che legge i nomi trova **Knight Sarlamir** nell'elenco.
+***Lastre di Marmo.*** Le lastre qui riportano i nomi di eroi e comandanti onorati tra i Cavalieri di Solamnia che prestarono servizio al Castello di Kalaman. Un personaggio che legge i nomi trova **Cavaliere Sarlamir** nell'elenco.
 
 ***Spirito del Cavaliere.*** Lo spirito inginocchiato è incorporeo e innocuo. Se attaccato, svanisce e non riappare.
 
-Questo spirito era tra i cavalieri che viaggiarono con Knight Sarlamir. Se i personaggi le parlano, si presenta come **Knight Jandin**, cavaliere dell'Ordine della Spada morta durante il Cataclisma. Condivide le seguenti informazioni:
+Questo spirito era tra i cavalieri che viaggiarono con il Cavaliere Sarlamir. Se i personaggi le parlano, si presenta come **Cavaliere Jandin**, cavaliere dell'Ordine della Spada morta durante il Cataclisma. Condivide le seguenti informazioni:
 
-### Testo — Il Racconto di Knight Jandin
+### Testo — Il Racconto del Cavaliere Jandin
 
-- **La Maledizione di Knight Sarlamir.** Tra i morti sepolti sotto Castle Kalaman giace il corpo di Knight Zanas Sarlamir, rispettato cavaliere dell'Ordine della Corona. Anni prima del Cataclisma, Sarlamir ricevette una missione divina dal dio Paladine: nell'est, il Kingpriest di Istar aveva creato una meraviglia magica — una città volante (dettagliata nel Cap. 6) — infuriando i draghi metallici a lungo nascosti su Krynn. Paladine incaricò Sarlamir di raggiungere la città, placare la furia dei draghi, e convincere il Kingpriest a farla atterrare. Sarlamir accettò — ma, prudente, portò con sé il tesoro più grande della propria famiglia: un'antica *dragonlance*.
+- **La Maledizione del Cavaliere Sarlamir.** Tra i morti sepolti sotto il Castello di Kalaman giace il corpo del Cavaliere Zanas Sarlamir, rispettato cavaliere dell'Ordine della Corona. Anni prima del Cataclisma, Sarlamir ricevette una missione divina dal dio Paladine: nell'est, il Kingpriest di Istar aveva creato una meraviglia magica — una città volante (dettagliata nel Cap. 6) — infuriando i draghi metallici a lungo nascosti su Krynn. Paladine incaricò Sarlamir di raggiungere la città, placare la furia dei draghi, e convincere il Kingpriest a farla atterrare. Sarlamir accettò — ma, prudente, portò con sé il tesoro più grande della propria famiglia: un'antica *dragonlance*.
 - Sarlamir e i suoi compagni cavalieri raggiunsero la città volante e si trovarono davanti a un volo di draghi metallici, giustamente furiosi. Quando il Kingpriest rifiutò di far atterrare la città, i draghi rifiutarono di andarsene. Mentre il conflitto degenerava, Sarlamir usò la propria dragonlance per uccidere il capo dei draghi, il drago d'oro **Karavarix**. Non appena il sangue di Karavarix toccò l'arma, questa si arrugginì nella mano di Sarlamir. I draghi attaccarono, uccidendo Sarlamir e facendo precipitare la città volante.
 - Una manciata di cavalieri fedeli a Sarlamir fuggì, portando con sé il suo corpo e la dragonlance maledetta, sepolti poi qui sotto Kalaman.
 - **Quando Jandin riportò il corpo di Sarlamir a Kalaman, mentì**, riferendo che Sarlamir era morto difendendo la gente da draghi malvagi in tumulto. Sarlamir fu sepolto come un eroe.
@@ -231,14 +231,14 @@ Questo spirito era tra i cavalieri che viaggiarono con Knight Sarlamir. Se i per
 - **Chiede ai personaggi di prendere l'arma sepolta con Sarlamir** nella prossima camera. Forse, nelle loro mani, può trovare redenzione e il favore degli dèi.
 - Le fiamme che bruciano tra le tombe sono fuoco del Cataclisma. Un tempo erano confinate alla tomba di Sarlamir, ma ora dilagano senza controllo. Jandin non sa perché (ignora la presenza di Lord Soth).
 
-Dopo aver condiviso queste informazioni, Knight Jandin augura fortuna ai personaggi e svanisce.
+Dopo aver condiviso queste informazioni, Cavaliere Jandin augura fortuna ai personaggi e svanisce.
 
 *[NOTA DM — riservata] Questo è il **lore dump più denso della sessione** — tutta la leggenda di Sarlamir arriva qui in un colpo solo. Non affrettarla: è un bel momento per un chierico o un PG con connessione divina (vedi Hook PG più sotto) per intervenire con domande, dubbi teologici, o semplice empatia per Jandin. Nota anche che questa è la **prima menzione diretta della dragonlance** nella campagna — un'arma leggendaria contro i draghi, ora ridotta a una punta di lancia arrugginita e magicamente inerte (vedi R7, sezione Tesoro). Non serve sottolinearne il potenziale futuro: lascia che il nome risuoni da solo.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Knight Jandin (spirito)** — Attitudine: +1 Cordiale (unico incontro, non ricorrente). Pentita, onesta, chiede un favore ai personaggi prima di svanire per sempre.
+- **Cavaliere Jandin (spirito)** — Attitudine: +1 Cordiale (unico incontro, non ricorrente). Pentita, onesta, chiede un favore ai personaggi prima di svanire per sempre.
 
 ---
 
@@ -248,7 +248,7 @@ Dopo aver condiviso queste informazioni, Knight Jandin augura fortuna ai persona
 
 ### Contesto per il DM
 
-Questo è il **culmine della sessione**: la camera dove Lord Soth ha appena compiuto il proprio scopo, e dove il suo ultimo strumento — lo scheletro rianimato di Knight Sarlamir — attende per fermare chiunque lo insegua. Gestiscila con la stessa cura cinematografica della Sala del Consiglio nella Sessione 07: prima l'orrore silenzioso della camera, poi la visione finale di Soth *dal vivo* (per quanto in fiamme illusorie), infine il combattimento.
+Questo è il **culmine della sessione**: la camera dove Lord Soth ha appena compiuto il proprio scopo, e dove il suo ultimo strumento — lo scheletro rianimato del Cavaliere Sarlamir — attende per fermare chiunque lo insegua. Gestiscila con la stessa cura cinematografica della Sala del Consiglio nella Sessione 07: prima l'orrore silenzioso della camera, poi la visione finale di Soth *dal vivo* (per quanto in fiamme illusorie), infine il combattimento.
 
 ### Testo — La Tomba degli Eroi [BT-07]
 
@@ -280,25 +280,25 @@ Quando i personaggi entrano in questa stanza, ogni Visione di Fuoco rimasta va i
 *[Aggiunta atmosferica]:*
 > *Per un istante — solo un istante — il cavaliere di fiamma si volta verso di voi, come se sapesse esattamente dove sareste stati in piedi trecento anni dopo. Poi il muro lo inghiotte, e lo sapete: non era un ricordo qualunque. Era Lord Soth stesso, appena passato di lì.*
 
-**Lord Soth** è stato qui pochi minuti prima dei personaggi e ha reclamato una porzione del Fuoco Cataclismico che maledice questa tomba. Ha poi sfondato il muro meridionale, creando un passaggio in alto sulle scogliere sotto Castle Kalaman. Dopo che questa scena si conclude, un altro colpo violento scuote la tomba circondata dal drago scolpito.
+**Lord Soth** è stato qui pochi minuti prima dei personaggi e ha reclamato una porzione del Fuoco Cataclismico che maledice questa tomba. Ha poi sfondato il muro meridionale, creando un passaggio in alto sulle scogliere sotto il Castello di Kalaman. Dopo che questa scena si conclude, un altro colpo violento scuote la tomba circondata dal drago scolpito.
 
 *[NOTA DM — riservata] Questa è la **prima e unica apparizione visiva diretta di Lord Soth** in questa sessione — non uno scontro, ma un ricordo che coincide quasi esattamente col presente (Soth è stato qui *minuti* prima). Il campanello di attenzione va oltre la creatura in sé: da qui in avanti, il party lo sa per certo — non stanno inseguendo un'ombra o un nome su un proclama. Stanno inseguendo qualcuno di reale, che si muove poco davanti a loro.*
 
 ***Tomba di Sarlamir.*** La tomba di Sarlamir si trova a est e reca le parole "Zanas Sarlamir, Cavaliere della Corona". Una creatura può aprirla con una prova di **Forza CD 12** riuscita. All'interno giacciono i resti animati del cavaliere (vedi sotto). Se i personaggi non aprono la cripta, Sarlamir ne frantuma il coperchio ed emerge 3 round dopo il loro ingresso nella stanza.
 
-***Knight Sarlamir.*** Lord Soth ha usato il Fuoco Cataclismico per rianimare Sarlamir come **scheletro animato** (vedi statistiche sotto). Il cavaliere non-morto indossa un'antica armatura solamnica e brandisce una lama che arde di fiamma violacea. Attacca i personaggi non appena emerge, e combatte finché non viene distrutto.
+***Cavaliere Sarlamir.*** Lord Soth ha usato il Fuoco Cataclismico per rianimare Sarlamir come **scheletro animato** (vedi statistiche sotto). Il cavaliere non-morto indossa un'antica armatura solamnica e brandisce una lama che arde di fiamma violacea. Attacca i personaggi non appena emerge, e combatte finché non viene distrutto.
 
 Sarlamir parla mentre attacca, lasciando chiaro che è costretto dalla magia di Soth. Con voce cava, lo scheletro corazzato proclama:
 
 - Il cavaliere maledetto, **Lord Soth**, chiama Sarlamir attraverso le fiamme infestate del Cataclisma.
 - **Lord Soth** comanda a Sarlamir di uccidere chiunque si opponga a lui.
-- Soth chiama Sarlamir a seguirlo a nord — di ritorno al luogo del proprio disonore, il luogo nelle Northern Wastes che Soth chiama **la Città dei Nomi Perduti**.
+- Soth chiama Sarlamir a seguirlo a nord — di ritorno al luogo del proprio disonore, il luogo nelle Terre Desolate del Nord che Soth chiama **la Città dei Nomi Perduti**.
 
-Non appena Sarlamir viene sconfitto, le fiamme violacee intorno alla sua arma e nel resto delle catacombe si affievoliscono, poi svaniscono. Assicurati che Sarlamir menzioni la Città dei Nomi Perduti e le Northern Wastes, anche solo come un ultimo rantolo — i personaggi ne sapranno di più nel Capitolo 5.
+Non appena Sarlamir viene sconfitto, le fiamme violacee intorno alla sua arma e nel resto delle catacombe si affievoliscono, poi svaniscono. Assicurati che Sarlamir menzioni la Città dei Nomi Perduti e le Terre Desolate del Nord, anche solo come un ultimo rantolo — i personaggi ne sapranno di più nel Capitolo 5.
 
 *[NOTA DM — riservata] **Questo è il momento del salto di livello.** Non appena Sarlamir cade, annuncia l'avanzamento al 6° livello — è un trigger esplicito della fonte, indipendente dal conteggio XP di questa sessione. Prenditi un momento per farlo sentire come un vero traguardo: i personaggi non solo hanno sconfitto un boss, hanno assistito all'intera tragedia di Lord Soth in fiamme illusorie e sono usciti dall'altra parte più forti.*
 
-### Stat Block — Knight Sarlamir (scheletro animato) · CR 6 · 2.300 XP
+### Stat Block — Cavaliere Sarlamir (scheletro animato) · CR 6 · 2.300 XP
 
 ```
 KNIGHT SARLAMIR — creatura non morta Media, legale malvagio
@@ -317,25 +317,25 @@ Spada Fiammeggiante. Attacco con arma in mischia: +7 al colpire, portata 1,5 m. 
 Presenza Terrificante (Ricarica 5–6). Ogni creatura entro 9 m che può vedere Sarlamir deve superare un TS Saggezza CD 14 o essere spaventata per 1 minuto (può ripetere il tiro salvezza alla fine di ogni proprio turno, terminando l'effetto al successo).
 ```
 
-*[NOTA DM — riservata] Scheda **interamente ricostruita** — l'estratto disponibile dell'Appendice B elenca "Skeletal Knight" solo per nome, senza valori meccanici pubblicati. Ho calibrato Sarlamir come **CR 6 solitario** (in linea con le linee guida della DMG per un singolo avversario contro un party di 4 personaggi di Livello 5, e coerente con il ruolo di "boss di fine capitolo" che innesca l'avanzamento di livello). **Verificare sul manuale completo se disponibile** — se lo stat block ufficiale differisce, sostituiscilo pure: l'importante narrativamente è che Sarlamir sia un combattimento impegnativo ma vincibile in un solo scontro, senza fasi multiple come Caradoc nella Sessione 07.*
+*[NOTA DM — riservata] Scheda **interamente ricostruita** — l'estratto disponibile dell'Appendice B elenca "Cavaliere scheletrico (Skeletal Knight)" solo per nome, senza valori meccanici pubblicati. Ho calibrato Sarlamir come **CR 6 solitario** (in linea con le linee guida della DMG per un singolo avversario contro un party di 4 personaggi di Livello 5, e coerente con il ruolo di "boss di fine capitolo" che innesca l'avanzamento di livello). **Verificare sul manuale completo se disponibile** — se lo stat block ufficiale differisce, sostituiscilo pure: l'importante narrativamente è che Sarlamir sia un combattimento impegnativo ma vincibile in un solo scontro, senza fasi multiple come Caradoc nella Sessione 07.*
 
 ***Passaggio Nord.*** Se il passaggio infranto nel muro settentrionale non è già crollato, crolla se una creatura avanza per più di 1,5 metri lungo di esso (vedi R3 per i dettagli sul crollo). I personaggi coinvolti nel crollo vengono spinti in quest'area (R7) anziché in R3.
 
-***Passaggio Sud.*** Questo passaggio grezzo emerge a 24 metri di altezza su una scogliera scoscesa sotto le mura di Castle Kalaman. Sotto si vedono strade pavimentate e i tetti degli edifici. Non c'è traccia di **Lord Soth**, che si è già ricongiunto a tutti i suoi cavalieri non-morti superstiti ed è partito a cavallo dalla città. Vedi l'inizio del Capitolo 5 per i dettagli su dove Soth si dirige poi.
+***Passaggio Sud.*** Questo passaggio grezzo emerge a 24 metri di altezza su una scogliera scoscesa sotto le mura del Castello di Kalaman. Sotto si vedono strade pavimentate e i tetti degli edifici. Non c'è traccia di **Lord Soth**, che si è già ricongiunto a tutti i suoi cavalieri non-morti superstiti ed è partito a cavallo dalla città. Vedi l'inizio del Capitolo 5 per i dettagli su dove Soth si dirige poi.
 
 ***Tesoro.*** All'interno della tomba di Sarlamir si trova la punta distintiva di una lancia arrugginita — tutto ciò che resta della sua *dragonlance*. Un incantesimo di *individuazione del magico* rivela un'aura di magia di evocazione, sebbene la punta non mostri proprietà evidenti. Un personaggio che tenta di sintonizzarsi con l'oggetto e supera **Intelligenza (Arcano o Religione) CD 12** scopre che la punta è magica, ma che il potere divino ne ha reso inerte la magia. Le altre tombe in questa stanza sono vuote, salvo ossa e armature arrugginite.
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Knight Sarlamir** — Attitudine: -3 Ostile (compulsivo, non per scelta propria). **Distrutto** in questo scontro — non un vero nemico, ma uno strumento di Soth; la sua morte è liberazione, non vittoria su un villain.
+- **Cavaliere Sarlamir** — Attitudine: -3 Ostile (compulsivo, non per scelta propria). **Distrutto** in questo scontro — non un vero nemico, ma uno strumento di Soth; la sua morte è liberazione, non vittoria su un villain.
 - **Lord Loren Soth** *(visto solo in visione, non in scontro diretto)* — Attitudine: -3 Ostile (invariata da Sessione 07). Ha lasciato le catacombe poco prima dell'arrivo dei personaggi; nessuno scontro fisico avviene in questa sessione.
 
 ---
 
 ## FASE 7 — Ritorno alla Luce (Epilogo)
 
-*~15 minuti · L'uscita dalle catacombe, il ritorno di Marshal Vendri e Lord Bakaris, l'interesse di Darrett per Soth e la Città dei Nomi Perduti*
+*~15 minuti · L'uscita dalle catacombe, il ritorno della Maresciallo Vendri e Lord Bakaris, l'interesse di Darrett per Soth e la Città dei Nomi Perduti*
 
 ### Contesto per il DM
 
@@ -351,23 +351,23 @@ Quando i personaggi emergono dalle catacombe, il macello nella sala del consigli
 
 ### Testo — Il Ritorno di Darrett
 
-> Diverse ore più tardi, Darrett arriva a Kalaman insieme a Marshal Vendri, Lord Bakaris, e il grosso delle forze militari cittadine. Sono sconvolti nell'apprendere cosa è accaduto. Marshal Vendri si muove rapidamente per mantenere l'ordine in città e assicurarsi che non seguano altri attacchi. Allo stesso tempo, Darrett cerca i personaggi per saperne di più. Mostra un interesse particolare per ciò che hanno da raccontare su **Lord Soth** e sulla **Città dei Nomi Perduti** — due nomi che guideranno i personaggi nel capitolo seguente.
+> Diverse ore più tardi, Darrett arriva a Kalaman insieme alla Maresciallo Vendri, Lord Bakaris, e il grosso delle forze militari cittadine. Sono sconvolti nell'apprendere cosa è accaduto. La Maresciallo Vendri si muove rapidamente per mantenere l'ordine in città e assicurarsi che non seguano altri attacchi. Allo stesso tempo, Darrett cerca i personaggi per saperne di più. Mostra un interesse particolare per ciò che hanno da raccontare su **Lord Soth** e sulla **Città dei Nomi Perduti** — due nomi che guideranno i personaggi nel capitolo seguente.
 
 *[Aggiunta atmosferica]:*
 > *Vendri non perde tempo in cordoglio pubblico — dà ordini prima ancora di scendere da cavallo, e la città, per la prima volta da quando siete tornati da Wheelwatch, sembra ricordarsi come si respira. Bakaris, alle sue spalle, non dice una parola. Non ha bisogno di dirne: il suo silenzio, questa volta, non è shock. È qualcosa che comincia — lentamente, dolorosamente — a somigliare a una decisione.*
 
-*[NOTA DM — riservata] **Marshal Vendri torna in scena qui per la prima volta da prima della Sessione 07** — assente per l'intera sessione precedente (in marcia da ovest), la sua presenza attiva ora segna la fine del vuoto di potere che ha permesso a Bakaris di causare il disastro di Steel Springs (vedi `campagna/png-incontrati.md`: attitudine 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci). Con Governor Miat morto, Vendri è ora, di fatto, l'autorità principale a Kalaman — un cambiamento politico enorme che meriterà spazio nelle sessioni future, ma che qui puoi limitarti ad accennare con il suo comportamento, non con esposizione.*
+*[NOTA DM — riservata] **Maresciallo Vendri torna in scena qui per la prima volta da prima della Sessione 07** — assente per l'intera sessione precedente (in marcia da ovest), la sua presenza attiva ora segna la fine del vuoto di potere che ha permesso a Bakaris di causare il disastro di Steel Springs (vedi `campagna/png-incontrati.md`: attitudine 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci). Con il Governatore Miat morto, Vendri è ora, di fatto, l'autorità principale a Kalaman — un cambiamento politico enorme che meriterà spazio nelle sessioni future, ma che qui puoi limitarti ad accennare con il suo comportamento, non con esposizione.*
 *[NOTA DM — riservata] **Lord Bakaris** appare di nuovo, ancora silenzioso, ma la fonte non specifica ulteriori sviluppi qui: il suo arco resta esattamente dove la Sessione 07 lo ha lasciato (in lutto per il probabile figlio perduto, in bilico tra vendetta, redenzione o negazione). Non forzare una risoluzione — è materiale per il Cap. 5 e oltre.*
 
 ### Domande di Darrett
 
 Darrett interroga i personaggi con genuina curiosità, non con l'urgenza spaventata della sessione precedente:
 
-- Cosa hanno visto delle catacombe? Chi era davvero Knight Sarlamir?
+- Cosa hanno visto delle catacombe? Chi era davvero Cavaliere Sarlamir?
 - Chi era il cavaliere che ha massacrato il consiglio — Caradoc — e chi è davvero il suo signore?
 - Cosa significa "Città dei Nomi Perduti"? Sarlamir l'ha davvero nominata mentre moriva?
 
-Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proclama letto in Sessione 07, la menzione delle Northern Wastes da parte di Sarlamir) guadagna la piena attenzione di Darrett — e, per estensione, quella di Marshal Vendri, a cui Darrett riferirà tutto entro sera.
+Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proclama letto in Sessione 07, la menzione delle Terre Desolate del Nord da parte di Sarlamir) guadagna la piena attenzione di Darrett — e, per estensione, quella della Maresciallo Vendri, a cui Darrett riferirà tutto entro sera.
 
 *[NOTA DM — riservata] Questa conversazione è deliberatamente il **collante** tra Cap. 4 e Cap. 5: la fonte stessa dice esplicitamente che questi sono "due nomi che guidano i personaggi nel capitolo seguente" (Lord Soth, Città dei Nomi Perduti). Non serve altro contenuto qui — chiudi la sessione su questa nota di transizione, con la sensazione che la guerra difensiva a Kalaman sia finita e che qualcosa di più grande, nelle terre selvagge a nord, stia per iniziare.*
 
@@ -375,7 +375,7 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 
 **Attitudine PNG in questa scena:**
 - **Darrett Highwater** — Attitudine: +3 Alleato (invariata, rafforzata). Torna al proprio ruolo di alleato curioso e premuroso, non più comandante di un ritiro disperato.
-- **Marshal Nestra Vendri** — Attitudine: 0 Neutrale (invariata, presente per la prima volta da S06). La sua azione decisa segna l'inizio di una possibile transizione verso +1 Cordiale se il party continua a dimostrarsi capace.
+- **Maresciallo Nestra Vendri** — Attitudine: 0 Neutrale (invariata, presente per la prima volta da S06). La sua azione decisa segna l'inizio di una possibile transizione verso +1 Cordiale se il party continua a dimostrarsi capace.
 - **Bakaris Uth Estide (Lord Bakaris)** — Attitudine: 0 Neutrale (invariata, ancora in lutto silenzioso). Nessuno sviluppo diretto in questa scena — thread aperto.
 
 ---
@@ -386,17 +386,17 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 
 | Preludio | Hook in Sessione 08 |
 |----------|---------------------|
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Il fuoco Cataclismico è un fenomeno magico più antico di qualunque scuola arcana conosciuta — memoria pura, senza incantatore vivente a sostenerla. Un PG con Arcano può tentare **Intelligenza (Arcano) CD 15** osservando le Visioni di Fuoco: *"Questo non è un incantesimo di rievocazione. Non c'è formula, non c'è componente — è dolore, cristallizzato in fiamma, che si ripete perché nessuno gli ha mai detto di fermarsi."* Un buon momento per collegare questa magia "impossibile" al più ampio mistero del Cataclisma e di Lord Soth. |
-| **Broken Silence** (PG con connessione divina) | Questa è la sessione più densa di teologia dell'intera campagna finora: un cavaliere che ricevette una missione da Paladine e la tradì per orgoglio (Sarlamir), un altro maledetto dagli dèi per aver ignorato la propria missione divina per gelosia (Soth), una dragonlance ridotta a rottame perché usata contro la creatura sbagliata nel momento sbagliato. Un PG di fede può voler pregare per la liberazione di Sarlamir dopo averlo sconfitto, o interrogarsi su quanto la fede — mal riposta, o tradita — possa condannare intere epoche. Knight Jandin, che porta il peso di una bugia pia raccontata per proteggere l'onore di un amico, è un ottimo specchio per un PG che ha mai mentito "per una buona causa". |
-| **Scales of War** (tutti) | Dopo Steel Springs e il massacro del consiglio, questa sessione è più intima e verticale: non un esercito da fermare, ma una singola tragedia di trecento anni fa che continua a produrre vittime. Sconfiggere Sarlamir non è vincere la guerra — è liberare un uomo morto da una schiavitù che dura da generazioni. È un buon contrappunto tematico: la guerra di Soth contro Solamnia è personale quanto lo è quella dei personaggi contro il Dragon Army. |
-| **Legame con Bakaris / Vogler** (PG che ha già interagito con Bakaris Uth Estide) | Bakaris torna in Fase 7, ancora silenzioso, al fianco di Marshal Vendri. Un PG che lo ha consolato o affrontato nella Sessione 07 può cercare un altro scambio, anche minimo — un cenno del capo, una domanda lasciata senza risposta. Non c'è ancora una svolta nel suo arco: è un momento per seminare, non per raccogliere. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Il fuoco Cataclismico è un fenomeno magico più antico di qualunque scuola arcana conosciuta — memoria pura, senza incantatore vivente a sostenerla. Un PG con Arcano può tentare **Intelligenza (Arcano) CD 15** osservando le Visioni di Fuoco: *"Questo non è un incantesimo di rievocazione. Non c'è formula, non c'è componente — è dolore, cristallizzato in fiamma, che si ripete perché nessuno gli ha mai detto di fermarsi."* Un buon momento per collegare questa magia "impossibile" al più ampio mistero del Cataclisma e di Lord Soth. |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | Questa è la sessione più densa di teologia dell'intera campagna finora: un cavaliere che ricevette una missione da Paladine e la tradì per orgoglio (Sarlamir), un altro maledetto dagli dèi per aver ignorato la propria missione divina per gelosia (Soth), una dragonlance ridotta a rottame perché usata contro la creatura sbagliata nel momento sbagliato. Un PG di fede può voler pregare per la liberazione di Sarlamir dopo averlo sconfitto, o interrogarsi su quanto la fede — mal riposta, o tradita — possa condannare intere epoche. Cavaliere Jandin, che porta il peso di una bugia pia raccontata per proteggere l'onore di un amico, è un ottimo specchio per un PG che ha mai mentito "per una buona causa". |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Dopo Steel Springs e il massacro del consiglio, questa sessione è più intima e verticale: non un esercito da fermare, ma una singola tragedia di trecento anni fa che continua a produrre vittime. Sconfiggere Sarlamir non è vincere la guerra — è liberare un uomo morto da una schiavitù che dura da generazioni. È un buon contrappunto tematico: la guerra di Soth contro Solamnia è personale quanto lo è quella dei personaggi contro l'Armata dei Draghi. |
+| **Legame con Bakaris / Vogler** (PG che ha già interagito con Bakaris Uth Estide) | Bakaris torna in Fase 7, ancora silenzioso, al fianco della Maresciallo Vendri. Un PG che lo ha consolato o affrontato nella Sessione 07 può cercare un altro scambio, anche minimo — un cenno del capo, una domanda lasciata senza risposta. Non c'è ancora una svolta nel suo arco: è un momento per seminare, non per raccogliere. |
 | **Tutti** | Il nome **Città dei Nomi Perduti**, pronunciato per la prima volta da Sarlamir morente e poi ripreso da Darrett, è pensato per essere il secondo grande gancio geografico della campagna dopo Kalaman stessa. Lascia che ogni giocatore lo accolga con la propria curiosità — è la destinazione del Capitolo 5, ancora avvolta di mistero. |
 
 ---
 
 ### Scena Opzionale — Spotlight: Il Peso della Bugia di Jandin
 
-**Trigger:** durante la Fase 5, dopo che Knight Jandin ha condiviso la propria storia e prima di svanire.
+**Trigger:** durante la Fase 5, dopo che Cavaliere Jandin ha condiviso la propria storia e prima di svanire.
 
 **Contenuto:** Un PG che le chiede direttamente perché abbia mentito su come Sarlamir sia morto ottiene una risposta più vulnerabile del previsto: *"Perché la verità lo avrebbe reso un traditore invece che un eroe — e io non potevo sopportare che l'ultima cosa che Kalaman sapesse di lui fosse una bugia diversa da quella che ho scelto io."* Un momento breve ma toccante su cosa significhi proteggere la memoria di qualcuno, anche a costo della verità.
 
@@ -410,16 +410,16 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Il Capitolo 5 — Northern Wastes | Prossimo beat della fonte (riga 3191 in poi): i personaggi seguono Lord Soth nelle Northern Wastes, accompagnati da truppe di Kalaman, alla ricerca della Città dei Nomi Perduti | Alta → Sessione 09, **cambio di capitolo** |
+| Il Capitolo 5 — Terre Desolate del Nord | Prossimo beat della fonte (riga 3191 in poi): i personaggi seguono Lord Soth nelle Terre Desolate del Nord, accompagnati da truppe di Kalaman, alla ricerca della Città dei Nomi Perduti | Alta → Sessione 09, **cambio di capitolo** |
 | Lord Loren Soth | Visto per la prima volta "dal vivo" (in visione) in questa sessione; ha lasciato Kalaman diretto a nord. Presenza ricorrente Cap. 3–7 | Alta → arco lunghissimo |
 | La Città dei Nomi Perduti | Nominata per la prima volta da Sarlamir morente e da Darrett; destinazione del Cap. 5–6 | Alta → arco lungo |
 | La dragonlance di Sarlamir | Punta di lancia arrugginita, magicamente inerte per intervento divino; possibile futuro significato se il potere divino che la blocca dovesse mai revocarsi | Bassa → oggetto simbolico, non immediato |
-| Marshal Nestra Vendri | Torna al comando effettivo di Kalaman dopo la morte di Governor Miat; assume più autorità diretta | Media → conseguenze politiche Cap. 5 |
+| Maresciallo Nestra Vendri | Torna al comando effettivo di Kalaman dopo la morte del Governatore Miat; assume più autorità diretta | Media → conseguenze politiche Cap. 5 |
 | Bakaris Uth Estide (Lord Bakaris) | Ancora in lutto silenzioso per il probabile figlio perduto; nessuno sviluppo diretto in questa sessione | Media → arco personale aperto |
-| Knight Jandin | Spirito liberato del proprio rimorso dopo aver condiviso la verità; non ricorrente (svanisce per sempre) | Bassa → chiuso narrativamente |
+| Cavaliere Jandin | Spirito liberato del proprio rimorso dopo aver condiviso la verità; non ricorrente (svanisce per sempre) | Bassa → chiuso narrativamente |
 | Favore del Destriero Eroico (se ottenuto) | Dono sovrannaturale per il PG che ha placato Xheriev e Steelwind con rispetto invece che con la spada | Bassa → risorsa opzionale futura |
 | Bottino recuperato (spada lunga +1, corazza di mithral, Sudario Kagonesti, ascia berserker, amuleto di Reorx) | Da distribuire/identificare; verificare meccaniche complete su manuale se disponibile | Media → gestione inventario |
-| Il destino di Becklin / Il rotolo di Wyhan / Il fargab / Cudgel e l'Ironclad Regiment | Thread ereditati da S04–S07; non toccati in questa sessione (nessun momento di tempo libero narrativo prima del Cap. 5) — restano aperti | Media → ricorrenti |
+| Il destino di Becklin / Il rotolo di Wyhan / Il fargab / Cudgel e il Reggimento Ironclad | Thread ereditati da S04–S07; non toccati in questa sessione (nessun momento di tempo libero narrativo prima del Cap. 5) — restano aperti | Media → ricorrenti |
 
 ---
 
@@ -435,9 +435,9 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 - [ ] R3 (Tomba dell'Acciaio) esplorata: Sì / No — bottino raccolto: ____________ — passaggio crollato: Sì / No
 - [ ] R4 (Sala dei Destrieri) esplorata: Sì / No — cavalli scheletrici placati o combattuti: ____________ — Favore del Destriero Eroico ottenuto da: ____________
 - [ ] R5 (Monumento) esplorata: Sì / No — Visione "Lo Scontro" mostrata: Sì / No
-- [ ] R6 (Santuario) esplorata: Sì / No — Knight Jandin incontrata: Sì / No — favore (dragonlance) accettato: Sì / No
+- [ ] R6 (Santuario) esplorata: Sì / No — Cavaliere Jandin incontrata: Sì / No — favore (dragonlance) accettato: Sì / No
 - [ ] R7 (Tomba degli Eroi) raggiunta: Sì / No — Visione finale di Soth mostrata: Sì / No
-- [ ] Knight Sarlamir combattuto e sconfitto: Sì / No
+- [ ] Cavaliere Sarlamir combattuto e sconfitto: Sì / No
 - [ ] Party avanzato a Livello 6: Sì / No
 - [ ] Punta della dragonlance recuperata: Sì / No
 - [ ] Uscita dalle catacombe, ritorno di Darrett/Vendri/Bakaris: Sì / No
@@ -448,11 +448,11 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
-| Knight Sarlamir | **NUOVO PNG, poi distrutto** — scheletro rianimato, liberato in combattimento | -3 Ostile → distrutto (definitivo) |
-| Knight Jandin | **NUOVO PNG** — spirito, incontro unico, svanita per sempre | +1 Cordiale (chiuso) |
+| Cavaliere Sarlamir | **NUOVO PNG, poi distrutto** — scheletro rianimato, liberato in combattimento | -3 Ostile → distrutto (definitivo) |
+| Cavaliere Jandin | **NUOVO PNG** — spirito, incontro unico, svanita per sempre | +1 Cordiale (chiuso) |
 | Lord Loren Soth | Visto per la prima volta in visione diretta; lasciato Kalaman verso nord | -3 Ostile (invariata, presenza ricorrente) |
 | Darrett Highwater | Torna al proprio ruolo di alleato curioso; interroga sui fatti delle catacombe | +3 Alleato (invariata, rafforzata) |
-| Marshal Nestra Vendri | Torna al comando attivo di Kalaman dopo l'assenza in S07 | 0 Neutrale (invariata, potenziale +1 se il party si dimostra capace) |
+| Maresciallo Nestra Vendri | Torna al comando attivo di Kalaman dopo l'assenza in S07 | 0 Neutrale (invariata, potenziale +1 se il party si dimostra capace) |
 | Bakaris Uth Estide (Lord Bakaris) | Presente ma silenzioso; nessuno sviluppo diretto | 0 Neutrale (invariata) |
 
 ### Ricompense
@@ -461,10 +461,10 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 |-------|-----------|
 | 2 wraith (R2, se disturbati) | 3.600 XP (1.800 cad., opzionale) |
 | 2 cavalli scheletrici (R4, se combattuti) | 200 XP (100 cad., opzionale) |
-| Knight Sarlamir (R7, obbligatorio) | 2.300 XP |
+| Cavaliere Sarlamir (R7, obbligatorio) | 2.300 XP |
 | **Totale combattimento** | **da ~2.300 XP a ~6.100 XP** |
 | Bottino | Spada lunga +1, corazza di mithral, Sudario Silvano dei Kagonesti, ascia berserker, amuleto di Reorx, punta di dragonlance (magicamente inerte), eventuale Favore del Destriero Eroico |
-| **Avanzamento** | **Livello 6** — trigger narrativo esplicito alla sconfitta di Knight Sarlamir, indipendente dal totale XP |
+| **Avanzamento** | **Livello 6** — trigger narrativo esplicito alla sconfitta del Cavaliere Sarlamir, indipendente dal totale XP |
 
 ### Thread Aperti
 
@@ -477,14 +477,14 @@ Un personaggio che risponde con dettagli concreti (il nome di Lord Soth, il proc
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (da ~2.300 a ~6.100) + bottino; **aggiorna il Livello a 6** (trigger narrativo, non solo XP)
-- [ ] `campagna/png-incontrati.md` — **aggiungi Knight Sarlamir** (Cap. 4, distrutto/liberato) e **Knight Jandin** (Cap. 4, spirito, incontro chiuso); aggiorna Marshal Vendri (di nuovo attiva) e conferma stato invariato di Bakaris
+- [ ] `campagna/png-incontrati.md` — **aggiungi Cavaliere Sarlamir** (Cap. 4, distrutto/liberato) e **Cavaliere Jandin** (Cap. 4, spirito, incontro chiuso); aggiorna Maresciallo Vendri (di nuovo attiva) e conferma stato invariato di Bakaris
 - [ ] `campagna/rapporti.md` — compila "Capitolo 03 (Kalaman — Cap 4 libro)": eventuale rapporto con Jandin, con i cavalli scheletrici se placati
-- [ ] `campagna/fazioni.md` — **Esercito di Kalaman**: annota il ritorno al comando attivo di Marshal Vendri dopo la morte di Miat e il vuoto di potere temporaneo; **Knights of Solamnia**: nessun cambiamento diretto
+- [ ] `campagna/fazioni.md` — **Esercito di Kalaman**: annota il ritorno al comando attivo della Maresciallo Vendri dopo la morte di Miat e il vuoto di potere temporaneo; **Cavalieri di Solamnia**: nessun cambiamento diretto
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato)
 - [ ] `campagna/contesto.md` — **nessun cambio di capitolo** in questa sessione (resta 4; il Cap. 5 si apre solo in Sessione 09); aggiorna la nota di stato ("Sessione 08 preparata"); aggiorna la tabella progressione per riflettere il Livello 6 raggiunto tramite trigger narrativo, non solo XP aggregati
 - [ ] `campagna/sessioni/recaps/recap-sessione-08.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] `/aggiorna-locations 08` — esegui dopo la sessione (Raided Catacombs sotto Castle Kalaman)
-- [ ] `/prep-sessione 09` — prepara la prossima: **Capitolo 5 — The Northern Wastes** (righe 3191 in poi). **Questa sarà una vera transizione di capitolo: eseguire lo Step 6.5 (Chapter PNG Briefer) nella Sessione 09**, non in questa
+- [ ] `/aggiorna-locations 08` — esegui dopo la sessione (Catacombe Saccheggiate sotto il Castello di Kalaman)
+- [ ] `/prep-sessione 09` — prepara la prossima: **Capitolo 5 — Terre Desolate del Nord** (righe 3191 in poi). **Questa sarà una vera transizione di capitolo: eseguire lo Step 6.5 (Chapter PNG Briefer) nella Sessione 09**, non in questa
 
 ---
 
@@ -493,18 +493,18 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Header | Header completo secondo template S01–S07: fonte primaria con righe (3002–3190), livello 5→6 con motivazione esplicita del trigger narrativo, XP disponibili (da ~2.300 a ~6.100), obiettivo, durata, sessione precedente |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Chiarito che questa sessione copre l'intera sezione "Raided Catacombs" (una singola sezione coesa, ~3.240 parole, in linea col fallback dell'Agente 1), che il taglio coincide con la fine del Cap. 4 nel libro ma **non** con un cambio di capitolo della pipeline (Step 6.5 non applicabile), e che il salto al Livello 6 è un trigger esplicito della fonte legato alla sconfitta di Sarlamir, non un conteggio XP puro |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Chiarito che questa sessione copre l'intera sezione "Catacombe Saccheggiate" (una singola sezione coesa, ~3.240 parole, in linea col fallback dell'Agente 1), che il taglio coincide con la fine del Cap. 4 nel libro ma **non** con un cambio di capitolo della pipeline (Step 6.5 non applicabile), e che il salto al Livello 6 è un trigger esplicito della fonte legato alla sconfitta di Sarlamir, non un conteggio XP puro |
 | 3 | Continuità | Note strutturali | Aggiunta sezione dedicata alla non-linearità della mappa 4.4 (passaggi infranti come scorciatoie di Lord Soth, gestione delle Visioni di Fuoco indipendentemente dall'ordine di esplorazione) — assente nella fonte come sezione a sé, ma necessaria per prepararsi a un party che esplora fuori ordine |
 | 4 | Continuità | SETUP INIZIALE | Bridge diretto dalla S07: discesa immediata dalla soglia buia lasciata come cliffhanger, nessuna ambientazione aggiuntiva necessaria |
-| 5 | Fedeltà fonte | R1–R7 | Preservati tutti i dettagli meccanici della fonte: le cinque Visioni di Fuoco per esteso, i DC di tutte le prove (Religione CD 14 ×2, Percezione/Sopravvivenza CD 14, Destrezza CD 16, Addestrare Animali CD 16, Forza CD 12 ×2, Arcano/Religione CD 12), i danni del crollo (4d6 contundenti), le meccaniche di apertura delle sbarre (CA 19, 20 PF), tutte le informazioni di Knight Jandin sulla leggenda di Sarlamir, il testo completo del racconto della dragonlance e di Karavarix |
+| 5 | Fedeltà fonte | R1–R7 | Preservati tutti i dettagli meccanici della fonte: le cinque Visioni di Fuoco per esteso, i DC di tutte le prove (Religione CD 14 ×2, Percezione/Sopravvivenza CD 14, Destrezza CD 16, Addestrare Animali CD 16, Forza CD 12 ×2, Arcano/Religione CD 12), i danni del crollo (4d6 contundenti), le meccaniche di apertura delle sbarre (CA 19, 20 PF), tutte le informazioni del Cavaliere Jandin sulla leggenda di Sarlamir, il testo completo del racconto della dragonlance e di Karavarix |
 | 6 | Testo "Boxed" | BT-01 – BT-10 | Tutti i **10 testi read-aloud `>>`** presenti nella sezione fonte sono stati tradotti integralmente e verificati uno a uno contro l'originale inglese: R1 (sala dei cavalieri), R2 (cripte), R3 (tomba dell'acciaio), R4 (sala dei destrieri), R5 (monumento), R6 (santuario), R7 (tre testi di ingresso + visione finale). Nessun dettaglio omesso; aggiunte atmosferiche separate in blockquote `*[aggiunta atmosferica]*` secondo la regola dell'Agente 2 |
-| 7 | Stat Block | Creature | Riutilizzata la scheda standard 5e del **wraith** (Manuale dei Mostri, nessuna modifica richiesta dalla fonte) e del **cavallo scheletrico** (idem). Ricostruito integralmente **Knight Sarlamir** come CR 6 solitario, poiché l'Appendice B disponibile elenca "Skeletal Knight" solo per nome, senza valori meccanici pubblicati — **segnalato esplicitamente** al DM di verificare sul manuale completo, stessa metodologia onesta di S04–S07 |
+| 7 | Stat Block | Creature | Riutilizzata la scheda standard 5e del **wraith** (Manuale dei Mostri, nessuna modifica richiesta dalla fonte) e del **cavallo scheletrico** (idem). Ricostruito integralmente **Cavaliere Sarlamir** come CR 6 solitario, poiché l'Appendice B disponibile elenca "Cavaliere scheletrico" solo per nome, senza valori meccanici pubblicati — **segnalato esplicitamente** al DM di verificare sul manuale completo, stessa metodologia onesta di S04–S07 |
 | 8 | Oggetti Magici | R3/R4 | Segnalati come `[TODO: verificare su manuale]` il *Sudario Silvano dei Kagonesti* e il *Favore del Destriero Eroico*, entrambi elencati solo per nome nell'estratto disponibile di Appendice A; fornita un'interpretazione narrativa ragionevole in attesa di verifica, senza inventare meccaniche definitive spacciate per canoniche |
 | 9 | Bilanciamento | Fase 2/4 | Segnalato esplicitamente che i due combattimenti (wraith in R2, cavalli scheletrici in R4) sono opzionali/evitabili per design della fonte, non "contenuto perso" se il party li aggira — evitato ogni tentativo di forzarli |
-| 10 | Continuità | Fase 7 | Ricollegato esplicitamente il ritorno di Marshal Vendri e Lord Bakaris al thread lasciato aperto dalla Sessione 07 (assenza di Vendri come causa abilitante del disastro di Steel Springs; lutto silenzioso di Bakaris) — nessuno sviluppo forzato, solo continuità di stato |
+| 10 | Continuità | Fase 7 | Ricollegato esplicitamente il ritorno della Maresciallo Vendri e Lord Bakaris al thread lasciato aperto dalla Sessione 07 (assenza di Vendri come causa abilitante del disastro di Steel Springs; lutto silenzioso di Bakaris) — nessuno sviluppo forzato, solo continuità di stato |
 | 11 | Missioni | Thread Narrativi | Confermato, come in S04–S07, che l'Agente 4 non ha trovato missioni di fazione da integrare (`missioni-secondarie.md` e `fazioni.md` non prevedono missioni strutturate) |
 | 12 | Coerenza — Unità | R1–R7 | Distanze e altezze convertite in metri (soffitti 4,5 m, portate 1,5 m, velocità 9/18 m, scogliera 24 m, distanza di movimento nei passaggi 1,5 m) coerentemente con le sessioni precedenti (piedi × 0,3, arrotondato) |
-| 13 | Coerenza — PNG | png-incontrati / contesto | Verificato che Darrett, Marshal Vendri e Bakaris Uth Estide erano già presenti nei file di stato con le rispettive attitudini — riutilizzate senza contraddizioni rispetto alla chiusura della Sessione 07 |
+| 13 | Coerenza — PNG | png-incontrati / contesto | Verificato che Darrett, Maresciallo Vendri e Bakaris Uth Estide erano già presenti nei file di stato con le rispettive attitudini — riutilizzate senza contraddizioni rispetto alla chiusura della Sessione 07 |
 | 14 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S01–S07; confermato che questa sessione **non** cambia il capitolo corrente in `contesto.md` (resta 4) e segnalata esplicitamente la necessità di eseguire lo Step 6.5 nella **prossima** sessione (S09), quando il Cap. 5 verrà effettivamente aperto |
 | 15 | Lingua/Stile | Tutte le fasi (Step 5) | Uniformato il registro Urban Noir + Fantasy Classico sulle parti aggiunte dagli Agenti 3–4; corretti calchi linguistici; verificato che il tono delle visioni resti solenne e mai comico, in contrasto deliberato con il registro leggero di Caradoc nella Sessione 07 |
 
@@ -515,10 +515,10 @@ Dopo la sessione, aggiorna questi file:
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Nessuna transizione di capitolo in questa sessione.** Il Capitolo 5 (The Northern Wastes) inizia esattamente alla riga 3191 della fonte, subito dopo l'ultima riga coperta da questa preparazione (riga 3190, la conversazione con Darrett su Lord Soth e la Città dei Nomi Perduti). Tutto il contenuto di questa sessione — incluso l'epilogo "Sanctuary Shattered" — appartiene ancora al Cap. 4. Di conseguenza **lo Step 6.5 (Chapter PNG Briefer) non è stato eseguito** e `campagna/contesto.md` non è stato modificato: il campo "Capitolo corrente" resta **4**. La Sessione 09, che aprirà effettivamente il Cap. 5, dovrà eseguire questo step.
-- **Distanza dal Capitolo 7 (Siege of Kalaman).** Il Cap. 7 inizia alla riga 5286 della fonte, e l'Appendice A alla riga 6283. Questa sessione (righe 3002–3190) resta ben lontana da entrambi i traguardi — la campagna ha ancora attraversato solo la prima metà del Cap. 4 su un totale di sette capitoli di contenuto (Cap. 3–7).
-- **Il trigger di Livello 6** è esplicitamente legato dalla fonte alla sconfitta di Knight Sarlamir (riga 3175–3176: *"characters advance to 6th level after defeating the skeletal knight Zanas Sarlamir"*), non a un conteggio aggregato di XP. Questo avviene interamente all'interno del Cap. 4, come già segnalato dalla Sessione 07 in merito alla semplificazione della tabella "Progressione Livelli" di `campagna/contesto.md` (che indica Cap. 4 come "Livello Inizio 3 → Fine 5"). Questa sessione non corregge quella tabella — si limita ad applicare il trigger di livello come specificato dalla fonte, coerentemente con quanto raccomandato nella nota di chiusura della Sessione 07. Consigliato: affinare la tabella di `contesto.md` quando si avrà un momento dedicato alla manutenzione dei file di contesto, non durante la preparazione di una sessione.
-- **Stat block e oggetti magici ricostruiti.** Come nelle sessioni precedenti, l'estratto della fonte disponibile in `fonti/campagna/` riporta l'Appendice B come semplice elenco di nomi (incluso "Skeletal Knight") e l'Appendice A allo stesso modo (incluso "Kagonesti Forest Shroud"), senza stat block o descrizioni meccaniche complete. Ho ricostruito questi valori sulla base delle schede standard 5e esplicitamente richiamate o implicite nel testo (wraith, cavallo scheletrico) più un'invenzione ragionata e bilanciata per Knight Sarlamir (CR 6 solitario) e per gli oggetti magici citati solo per nome, segnalando chiaramente al DM di verificarli sul manuale completo se disponibile.
+- **Nessuna transizione di capitolo in questa sessione.** Il Capitolo 5 (Terre Desolate del Nord) inizia esattamente alla riga 3191 della fonte, subito dopo l'ultima riga coperta da questa preparazione (riga 3190, la conversazione con Darrett su Lord Soth e la Città dei Nomi Perduti). Tutto il contenuto di questa sessione — incluso l'epilogo "Sanctuary Shattered" — appartiene ancora al Cap. 4. Di conseguenza **lo Step 6.5 (Chapter PNG Briefer) non è stato eseguito** e `campagna/contesto.md` non è stato modificato: il campo "Capitolo corrente" resta **4**. La Sessione 09, che aprirà effettivamente il Cap. 5, dovrà eseguire questo step.
+- **Distanza dal Capitolo 7 (Assedio di Kalaman).** Il Cap. 7 inizia alla riga 5286 della fonte, e l'Appendice A alla riga 6283. Questa sessione (righe 3002–3190) resta ben lontana da entrambi i traguardi — la campagna ha ancora attraversato solo la prima metà del Cap. 4 su un totale di sette capitoli di contenuto (Cap. 3–7).
+- **Il trigger di Livello 6** è esplicitamente legato dalla fonte alla sconfitta del Cavaliere Sarlamir (riga 3175–3176: *"characters advance to 6th level after defeating the skeletal knight Zanas Sarlamir"*), non a un conteggio aggregato di XP. Questo avviene interamente all'interno del Cap. 4, come già segnalato dalla Sessione 07 in merito alla semplificazione della tabella "Progressione Livelli" di `campagna/contesto.md` (che indica Cap. 4 come "Livello Inizio 3 → Fine 5"). Questa sessione non corregge quella tabella — si limita ad applicare il trigger di livello come specificato dalla fonte, coerentemente con quanto raccomandato nella nota di chiusura della Sessione 07. Consigliato: affinare la tabella di `contesto.md` quando si avrà un momento dedicato alla manutenzione dei file di contesto, non durante la preparazione di una sessione.
+- **Stat block e oggetti magici ricostruiti.** Come nelle sessioni precedenti, l'estratto della fonte disponibile in `fonti/campagna/` riporta l'Appendice B come semplice elenco di nomi (incluso "Cavaliere scheletrico") e l'Appendice A allo stesso modo (incluso "Manto Forestale Kagonesti (*Kagonesti Forest Shroud*)"), senza stat block o descrizioni meccaniche complete. Ho ricostruito questi valori sulla base delle schede standard 5e esplicitamente richiamate o implicite nel testo (wraith, cavallo scheletrico) più un'invenzione ragionata e bilanciata per il Cavaliere Sarlamir (CR 6 solitario) e per gli oggetti magici citati solo per nome, segnalando chiaramente al DM di verificarli sul manuale completo se disponibile.
 - **Struttura non lineare delle catacombe.** La mappa 4.4 (non disponibile come immagine in questo estratto testuale) descrive collegamenti multipli tra le sette camere, incluse due scorciatoie che Lord Soth stesso ha aperto a forza (in R2 e R3) per raggiungere direttamente R7. Ho aggiunto una sezione dedicata ("Note strutturali sulle Catacombe") per aiutare il DM a gestire un party che esplora fuori dall'ordine "di default" R1→R7 usato per scandire le fasi di questa preparazione — la fonte stessa prevede già questa eventualità tramite la regola delle Visioni di Fuoco che si "recuperano" in R7 se saltate altrove.
 - **Party in TBD.** `campagna/party.md` e `fonti/personaggi/` sono ancora privi di PG definiti (la cartella `fonti/personaggi/` non esiste nel repository). Coerentemente con S01–S07, gli hook PG sono impostati sui preludi del manuale. Nessuna correzione: è lo stato atteso finché il party non sarà popolato.
 - **Nessun file esterno modificato.** In linea con le Sessioni 00–07, questa preparazione non ha alterato `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md` né `campagna/contesto.md` — tutti gli aggiornamenti "giocati" restano compito del workflow `/aggiorna-sessione` dopo la sessione reale al tavolo. Poiché il capitolo non cambia in questa sessione (resta 4), lo Step 6.5 (Chapter PNG Briefer) non si applica e non è stato eseguito; sarà necessario nella Sessione 09.

@@ -18,7 +18,7 @@
 | Razak | Garrick | **Conosciuti in Sessione 00**; in Sessione 01 Garrick gli ha tolto le castagne dal fuoco senza dirglielo | Fino alla strada per Vogler Razak non sapeva che esistesse; Garrick sapeva di lui dalle lettere: «un monaco di un eremo sopra Vogler». ⚠️ **Al ricevimento funebre Garrick ha risolto con una prestidigitazione lo scontro che Razak aveva perso, e Razak potrebbe non saperlo.** Vedi frizione #3 |
 | Razak | Corin | Riconoscimento reciproco senza parole | Tre anni di messaggi portati a valle, con sosta alla Pozza; nessuno dei due ha mai avuto bisogno di spiegarsi. **Razak non ne conosce il nome** e non sapeva che conoscesse Ispin |
 | Asurion | Corin | Rispetto professionale, stesso territorio | Guida e guardiano della stessa terra dell'Hinterlund; si scambiano da anni informazioni pratiche |
-| Brynja | Corin | Tre giorni di strada in comune, poi la notte di *Broken Silence* | Si sono incontrati per caso a tre giorni da Vogler, diretti allo stesso funerale; la visione divina li raggiunge nello stesso istante, allo stesso fuoco |
+| Brynja | Corin | Tre giorni di strada in comune, poi la notte di *Silenzio Infranto (Broken Silence)* | Si sono incontrati per caso a tre giorni da Vogler, diretti allo stesso funerale; la visione divina li raggiunge nello stesso istante, allo stesso fuoco |
 | Garrick | Corin | **Conosciuti in Sessione 00**, sulla strada per Vogler | Fino a quella sera Corin non sapeva che esistesse. Garrick, dalle lettere, sapeva di «un tale che sta in un bosco e rimette a posto le zampe alle bestie» — l'unico dei quattro a cui Ispin non abbia mai dato un nome, nemmeno storpiato: solo «quello della Pozza» |
 
 ---
@@ -35,8 +35,8 @@
 | 2 | **Garrick ↔ Brynja** — il documento rubato | Garrick ha consegnato posizioni, turni e parole d'ordine delle torri di segnalazione a un'agente delle Vesti Nere; Brynja ha giurato su una cosa imparata in una piazza in fiamme. Lei ne conosce solo la versione che le raccontò Ispin di sfuggita, anni fa — e Ispin era l'unico a non giudicarlo. Non se ne sono mai parlati, e non si rivedono da nove anni | — |
 | 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile. ~~**Al funerale non sa ancora che Garrick esista**~~ → **aggiornato 13/09/2026:** si sono conosciuti sulla strada per Vogler (Sessione 00). La frizione resta non predisposta: nasce nel momento in cui Garrick fa vedere al tavolo cosa sa fare. ⚠️ **Al ricevimento funebre c'è già andato vicino**, risolvendo con una prestidigitazione lo scontro con Bakaris che Razak aveva appena perso — ma di nascosto, e senza prendersi il merito | **Leva DM (revisione 2026-09-03).** Lo spunto scritto è stato tolto: poggiava su una conoscenza pregressa che Razak non ha. Al suo posto, due mosse tue. **(a)** Quando Garrick ricostruisce qualcosa da documenti davanti al gruppo, descrivi la scena dal punto di vista di Razak e fermati lì — nessuna domanda al giocatore. **(b)** Se non raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`). Nessuno è obbligato a reagire |
 | 4 | **Asurion ↔ Garrick** — corpo e carta | ✅ **Si sono visti per la prima volta in Sessione 00**, sulla strada per Vogler, senza che nessuno dei due sapesse niente dell'altro. Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
-| 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Broken Silence* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
-| 6 | ~~**Brynja ↔ il patto del gruppo**~~ → **Il gruppo ↔ il proprio patto** *(nata al tavolo 13/09/2026, chiusa 20/09/2026)* | I personaggi si sono accordati da soli di non mostrare in pubblico la magia divina. Brynja l'ha rotto durante la Battaglia di High Hill; **la notte dopo Corin l'ha rotto a sua volta**, curando con incantesimi davanti alla coda fuori dal Brass Crab. **Non c'è più asimmetria e non c'è più attrito:** hanno fatto la stessa scelta, insieme, per tutta la notte | ✅ **Chiusa.** La scena di disaccordo tra i due portatori non si creerà. Il problema si è spostato **fuori dal gruppo**: due persone pubblicamente riconoscibili come guaritori, e una messaggera dell'Armata del Drago che è andata a riferirlo a Belephaion |
+| 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Silenzio Infranto* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
+| 6 | ~~**Brynja ↔ il patto del gruppo**~~ → **Il gruppo ↔ il proprio patto** *(nata al tavolo 13/09/2026, chiusa 20/09/2026)* | I personaggi si sono accordati da soli di non mostrare in pubblico la magia divina. Brynja l'ha rotto durante la Battaglia di High Hill; **la notte dopo Corin l'ha rotto a sua volta**, curando con incantesimi davanti alla coda fuori dal Brass Crab. **Non c'è più asimmetria e non c'è più attrito:** hanno fatto la stessa scelta, insieme, per tutta la notte | ✅ **Chiusa.** La scena di disaccordo tra i due portatori non si creerà. Il problema si è spostato **fuori dal gruppo**: due persone pubblicamente riconoscibili come guaritori, e una messaggera dell'Armata dei Draghi che è andata a riferirlo a Belephaion |
 
 **[NOTA DM]** Nessuna di queste frizioni ha una risoluzione prevista, ed è voluto. Sono materiale d'attrito, non archi narrativi: se il tavolo ne raccoglie una, seguila; se non ne raccoglie nessuna, non hai perso niente, perché restano comunque descrizioni corrette di chi sono questi cinque.
 
@@ -72,9 +72,9 @@
 
 | PG | Fazione | Status | Note |
 |----|---------|--------|------|
-| [Tutti] | Red Dragon Army | Nemici | Obiettivo: fermare l'invasione |
+| [Tutti] | Armata dei Draghi Rossi | Nemici | Obiettivo: fermare l'invasione |
 | [Tutti] | Esercito di Kalaman | TBD → Alleati | Si costruisce nel Cap 4 |
-| [Tutti] | Knights of Solamnia | TBD → Alleati | Si costruisce nel Cap 3 con Becklin |
+| [Tutti] | Cavalieri di Solamnia | TBD → Alleati | Si costruisce nel Cap 3 con Becklin |
 
 ---
 
@@ -84,12 +84,12 @@
 |-------|-------|-----------|------|
 | Becklin Uth Viharin | Ispin Greenshield | Ex compagna d'avventura | La sua morte pesa molto su Becklin |
 | Cudgel Ironsmile | Ispin Greenshield | Ex compagno d'avventura | Rapporto di lunga data |
-| Kansaldi Fire-Eyes | Lord Soth | Cooperazione forzata | Soth rispetta solo la Dragon Queen; sopporta Kansaldi |
-| Lohezet | Kansaldi Fire-Eyes | Subordinato → Capo | Kansaldi gli ha assegnato la missione della City of Lost Names |
-| Belephaion | Lohezet | Alleati | Co-guidano la missione sulla City of Lost Names |
+| Kansaldi Fire-Eyes | Lord Soth | Cooperazione forzata | Soth rispetta solo la Regina dei Draghi; sopporta Kansaldi |
+| Lohezet | Kansaldi Fire-Eyes | Subordinato → Capo | Kansaldi gli ha assegnato la missione della Città dei Nomi Perduti |
+| Belephaion | Lohezet | Alleati | Co-guidano la missione sulla Città dei Nomi Perduti |
 | Leedara | Lord Soth | Antagonismo spirituale | Le spiriti tormentano Soth cantando la sua maledizione |
-| Wyhan | Mages of High Sorcery | Ex membro (mantello nero, ritirata) | Non ama essere associata all'Ordine attivamente |
-| Dalamar | Mages of High Sorcery | Membro attivo (mantello nero) | Usa l'Ordine per i propri fini |
+| Wyhan | Maghi dell'Alta Stregoneria | Ex membro (mantello nero, ritirata) | Non ama essere associata all'Ordine attivamente |
+| Dalamar | Maghi dell'Alta Stregoneria | Membro attivo (mantello nero) | Usa l'Ordine per i propri fini |
 
 ---
 
@@ -131,19 +131,19 @@
 | **Il party ↔ Cudgel** | Gragonis ucciso, prigioniero consegnato vivo, scogliere liberate perché lei potesse uscire a richiamare la compagnia. **+2 Amichevole** |
 | **Il party ↔ Jeyev** | Conosciuto in anticipo sul piano, all'alba, garantito da Cudgel. Quando ricomparirà al molo con l'elmo di Becklin, **non sarà uno sconosciuto** |
 | **Garrick ↔ il famiglio** | Ha risolto un'intera fase di ricognizione mandando avanti un corvo senza nome fisso. Nessuno scontro, nessun allarme, tutte le informazioni |
-| **Il party ↔ l'Armata del Drago** | Primo contatto diretto e formale: un ultimatum firmato **Belephaion, Voce di Takhisis**, e quattro sentinelle uccise sulle scogliere. **[NOTA DM] La messaggera ha notato Brynja ed è andata a riferire** |
+| **Il party ↔ l'Armata dei Draghi** | Primo contatto diretto e formale: un ultimatum firmato **Belephaion, Voce di Takhisis**, e quattro sentinelle uccise sulle scogliere. **[NOTA DM] La messaggera ha notato Brynja ed è andata a riferire** |
 | **Razak ↔ Becklin** | ⏸️ **Non ancora:** la cassa e la lettera arrivano in Sessione 03, e con loro l'ultimo ordine che gli dà prima di essere catturata |
 
 ### Capitolo 03 (Kalaman — Cap 4 libro)
 [TODO — da compilare durante le sessioni]
 
-### Capitolo 04 (Northern Wastes — Cap 5 libro)
+### Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)
 [TODO — da compilare durante le sessioni]
 
-### Capitolo 05 (City of Lost Names — Cap 6 libro)
+### Capitolo 05 (Città dei Nomi Perduti — Cap 6 libro)
 [TODO — da compilare durante le sessioni]
 
-### Capitolo 06 (Siege of Kalaman — Cap 7 libro)
+### Capitolo 06 (Assedio di Kalaman — Cap 7 libro)
 [TODO — da compilare durante le sessioni]
 
 ---

@@ -269,3 +269,9 @@ Non esitare ad aggregare info multi-fonte per evento più ricco di contesto.
   "_key": "!journal.pages!f2a8b5c1d3e4f6g7h8i9j0k1.pXXX_slug"
 }
 ```
+
+---
+
+## Vincoli
+
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì. Questi file finiscono in Foundry e li leggono i giocatori: niente inglese dove il glossario ha l'italiano.

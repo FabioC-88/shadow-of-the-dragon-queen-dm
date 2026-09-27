@@ -25,11 +25,11 @@
 |------|-----|------|
 | **Scudo Verde di Ispin** (*+1 shield*) | **Brynja** | È lo stesso scudo che nove anni fa si frappose tra lei e il goblin di Grishnak. A Vogler lo conoscono tutti: la rende **identificabile a vista** |
 | Rotolo sigillato per Wyhan | Garrick | Da consegnare a Kalaman (Cap. 4). Da non aprire |
-| Spellbook dei Magi | Garrick | Dal preludio *Eye in the Sky* |
-| Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Broken Silence*; servono da focus |
+| Spellbook dei Magi | Garrick | Dal preludio *Occhio nel Cielo (Eye in the Sky)* |
+| Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Silenzio Infranto (Broken Silence)*; servono da focus |
 | Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
-| 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scales of War* |
-| **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata del Drago senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
+| 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scaglie di Guerra (Scales of War)* |
+| **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata dei Draghi senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
 
 ### Il patto sulla magia divina — rotto da entrambi
 
@@ -53,7 +53,7 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 
 | PG | Nemico | Perché | Dove paga |
 |----|--------|--------|-----------|
-| **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa | Kalaman, Sessione 03 (cortile di Castle Kalaman) |
+| **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa | Kalaman, Sessione 03 (cortile del Castello di Kalaman) |
 | **Asurion** | **Lord Bakaris Uth Estide** | Lo ha trascinato nel fiume davanti al molo durante il festival | Kalaman (consiglio cittadino): ha un torto vero da raccontare |
 | **Tutto il gruppo** | **Lord Bakaris Uth Estide** | ⚠️ **Sessione 02:** ha provato a comprare la precedenza sulle cure di Brynja ed è stato **cacciato dal Brass Crab** — *«il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»*. Da -1 a **-2 Diffidente** verso tutti | Kalaman, al consiglio: il torto è più grosso di prima, **ma Raven era presente** e può testimoniare che i criteri erano dichiarati |
 | **Garrick** | *(nessuno, ed è il punto)* | È l'autore materiale dell'umiliazione di Bakaris e **non è stato visto**. Lo sa solo lui | — |
@@ -138,7 +138,7 @@ Prima ancora di Ispin, il druido conosce l'Hinterlund come lo conoscono loro due
 
 #### Brynja ↔ Il druido
 
-Si conoscono da una sola notte: quella di *Broken Silence*. Prima di allora erano due sconosciuti diretti allo stesso funerale, le cui strade si sono unite per puro caso pochi giorni prima di Vogler. Hanno acceso lo stesso fuoco, dormito allo stesso margine di bosco — ed è lì, nello stesso istante, che le loro divinità hanno risposto insieme, dopo trecento anni di silenzio.
+Si conoscono da una sola notte: quella di *Silenzio Infranto*. Prima di allora erano due sconosciuti diretti allo stesso funerale, le cui strade si sono unite per puro caso pochi giorni prima di Vogler. Hanno acceso lo stesso fuoco, dormito allo stesso margine di bosco — ed è lì, nello stesso istante, che le loro divinità hanno risposto insieme, dopo trecento anni di silenzio.
 
 **Il legame.** Non hanno una storia condivisa da raccontare: hanno un evento. Nessun altro nel gruppo può dire di aver visto la propria fede confermata nello stesso momento di qualcun altro. Brynja, che aspetta da nove anni un segno che nessuno le aveva mai dato prima di questa notte, scopre di non essere stata l'unica ad aspettare.
 
@@ -151,20 +151,20 @@ Non è una regola né un segreto: è la cosa che questi quattro hanno in comune,
 - **Razak** ha un nome ricamato su un ritaglio di stoffa da qualcuno che non si è mai fatto vivo, e nessuna famiglia verificabile.
 - **Brynja** si addestra da nove anni in un Ordine il cui registro non la nomina.
 - **Garrick** ha lasciato cadere il cognome di casata e se n'è scelto uno da solo.
-- **Asurion** porta al collo l'unico documento che attesti chi sia, e il clan che potrebbe confermarlo è a Southern Ergoth.
+- **Asurion** porta al collo l'unico documento che attesti chi sia, e il clan che potrebbe confermarlo è all'Ergoth del Sud.
 
 L'unico foglio al mondo in cui compaiono tutti e quattro insieme sono le lettere di Ispin — scritte male, senza date, da un uomo morto.
 
 **[NOTA DM — riservata]** Il filo nascosto (`campagna/contesto.md`, "Culto di Vecna") si regge su un'organizzazione che **archivia i nomi**, e Razak è l'unico del gruppo il cui nome è stato registrato *prima* che esistesse la persona. Il fatto che gli altri tre siano tutti, per ragioni diverse, gente che nessun registro nomina è materiale d'ambiente perfetto: non allude a niente, non va spiegato, e rende Razak meno isolato agli occhi del tavolo proprio mentre lo isola davvero.
 
-**[NOTA DM]** Il **quinto PG (Corin, druido)** è agganciato alla catena su due legami distinti: storia pregressa con Razak e Asurion nell'Hinterlund, legame nuovo con Brynja nato dalla visione condivisa di *Broken Silence*. Dettagli completi nella sua scheda qui sopra e in `fonti/personaggi/Corin-Wrenmoor.md`.
+**[NOTA DM]** Il **quinto PG (Corin, druido)** è agganciato alla catena su due legami distinti: storia pregressa con Razak e Asurion nell'Hinterlund, legame nuovo con Brynja nato dalla visione condivisa di *Silenzio Infranto*. Dettagli completi nella sua scheda qui sopra e in `fonti/personaggi/Corin-Wrenmoor.md`.
 
 **[NOTA DM] Sovrapposizione Corin/Asurion — risolta il 2026-09-03.** Duskwalker (S19 FASE 1) è passato a Corin, Asurion ha ricevuto il Passaggio di Wind's End (S16 FASE 4). Vedi la tabella dei talenti dell'8° livello qui sopra e la sezione "L'arco — da guida a battistrada" in `fonti/personaggi/Asurion-Loech.md`. **Da comunicare a Seba**, perché sostituisce una decisione già presa con lui il 2026-09-02.
 ---
 
 ### Regola di tavolo — il talento dell'8° livello *(decisa 2026-09-02)*
 
-`campagna/guida-giocatori.md` prevedeva un secondo talento bonus **al 4° livello**, scegliendo anche tra le specializzazioni istituzionali (Knight of the Crown/Rose/Sword, Adept of the Black/Red/White Robes). Per questo party quel timing non regge: al 4° livello **nessuno ha i requisiti di storia**.
+`campagna/guida-giocatori.md` prevedeva un secondo talento bonus **al 4° livello**, scegliendo anche tra le specializzazioni istituzionali (Cavaliere della Corona/della Rosa/della Spada, Adepto delle Vesti Nere (*Adept of the Black*)/Red/White Robes). Per questo party quel timing non regge: al 4° livello **nessuno ha i requisiti di storia**.
 
 > **La regola: nessun PG prende il talento bonus al 4° livello. Ogni PG lo guadagna all'8°, nella scena che glielo fa meritare.**
 
@@ -172,8 +172,8 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 
 | PG | La sua porta | Dove | Talento |
 |---|---|---|---|
-| **Garrick** | Il Test di Alta Stregoneria | **S17** — Demelin, Città dei Nomi Perduti | Adept of the Red / White / Black Robes, secondo la veste ottenuta |
-| **Brynja** | Il banco di prova solamnico | **S19** FASE 4 — Jandin, Tempio di Paladine | Knight of the Crown / of the Rose / of the Sword, secondo la risposta |
+| **Garrick** | La Prova dell'Alta Stregoneria | **S17** — Demelin, Città dei Nomi Perduti | Adepto delle Vesti Rosse (*Adept of the Red*) / White / Black Robes, secondo la veste ottenuta |
+| **Brynja** | Il banco di prova solamnico | **S19** FASE 4 — Jandin, Tempio di Paladine | Cavaliere della Corona / of the Rose / of the Sword, secondo la risposta |
 | **Razak** | Lo stesso, **se sceglie di farsi avanti** | **S19** FASE 4 | Idem |
 | **Asurion** | **Il Passaggio di Wind's End** — la porta che trova lui | **S16** FASE 4 — Wind's End, Spina del Gigante | **Sentinel** *(consigliato — vedi sotto; la lista resta aperta, la scelta è di Seba)* |
 | **Corin** | **Duskwalker** — due custodi senza giardino | **S19** FASE 1 — il boschetto sul terrapieno | **War Caster** *(consigliato — la scelta è di Gabri)* |
@@ -184,9 +184,9 @@ Vale **per tutti allo stesso modo** — è questo il punto. Nessuno prende un ta
 
 Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che altrimenti ne conteneva tre su quattro. Ora il Cap. 6 li distribuisce — **S16** Asurion, **S17** Garrick, **S19** Corin (apertura), Brynja e Razak (chiusura).
 
-**Perché Sentinel.** La motivazione non cambia con la scena, anzi ci sta meglio: *«ha smesso di essere uno che viene pagato per portare la gente attraverso il pericolo ed è diventato uno che ci si mette davanti»*. *Mobile* è ciò che Asurion è già; *Divinely Favored* richiede un rapporto divino che non ha dichiarato — e lo spazio "divinità della natura" è ormai di Corin. **Sentinel** si incastra col *Kagonesti Forest Shroud*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **Resta un consiglio, non un vincolo: il talento lo sceglie Seba.**
+**Perché Sentinel.** La motivazione non cambia con la scena, anzi ci sta meglio: *«ha smesso di essere uno che viene pagato per portare la gente attraverso il pericolo ed è diventato uno che ci si mette davanti»*. *Mobile* è ciò che Asurion è già; *Divinely Favored* richiede un rapporto divino che non ha dichiarato — e lo spazio "divinità della natura" è ormai di Corin. **Sentinel** si incastra con il *Manto Forestale Kagonesti (Kagonesti Forest Shroud)*: teletrasporto per chiudere la distanza, Sentinel per tenere la linea. **Resta un consiglio, non un vincolo: il talento lo sceglie Seba.**
 
-**Perché Duskwalker è la porta di Corin.** Duskwalker era il **capo giardiniere di Onyari** prima della distruzione della città, e la devastazione l'ha reso amaro: da allora tratta chiunque passi da profanatore e appende i soldati del Dragon Army agli alberi (fonte, righe 4950-4952). È **un custode che ha perso il proprio giardino** — cioè esattamente Corin, dopo il Cap. 3, con la differenza di trecento anni e di una scelta già fatta. Non è un'ammissione e non è un premio: è **incontrare la versione di sé stesso che ha deciso di diventare rancorosa**, e il talento arriva dal modo in cui Corin risponde a quello specchio. Il simbolo di Habbakuk che porta al collo apre la scena senza tiri di dado (la fonte nomina Habbakuk per esteso); quello che succede dopo è tutto suo.
+**Perché Duskwalker è la porta di Corin.** Duskwalker era il **capo giardiniere di Onyari** prima della distruzione della città, e la devastazione l'ha reso amaro: da allora tratta chiunque passi da profanatore e appende i soldati dell'Armata dei Draghi agli alberi (fonte, righe 4950-4952). È **un custode che ha perso il proprio giardino** — cioè esattamente Corin, dopo il Cap. 3, con la differenza di trecento anni e di una scelta già fatta. Non è un'ammissione e non è un premio: è **incontrare la versione di sé stesso che ha deciso di diventare rancorosa**, e il talento arriva dal modo in cui Corin risponde a quello specchio. Il simbolo di Habbakuk che porta al collo apre la scena senza tiri di dado (la fonte nomina Habbakuk per esteso); quello che succede dopo è tutto suo.
 
 **Il caso di riserva, per tutti.** Se un PG rifiuta la propria prova, la fallisce, o la scena non viene giocata, prende comunque all'8° livello un talento normale dalla lista. Nessuno resta indietro per un incidente di tavolo o per una scelta di interpretazione — e per Razak il rifiuto è un esito esplicitamente previsto.
 
@@ -200,7 +200,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 **Giocatore:** [DA COMPILARE]  
 **Razza / Classe:** Umano / Monaco — Ordine di Majere, Via dell'Ombra  
 **Background:** Eremita — cresciuto all'eremo del Filo di Rame, negli altipiani dell'Hinterlund; poi 4 anni come scudiero di Becklin Uth Viharin a Thornwall Keep (dai 19 ai 23) — apprendistato di fatto concluso, giudicato pronto da Becklin — chiuso **4 anni fa** da un congedo verso l'eremo, per assistere Maestro Roke. Da ~2 anni il suo posto è di Darrett Highwater. 27 anni. Scheda completa: `fonti/personaggi/Razak-Kendall.md`  
-**Preludio (Cap. 2):** Nessun preludio individuale — viaggia già con Asurion, si unisce al gruppo per **Scales of War**  
+**Preludio (Cap. 2):** Nessun preludio individuale — viaggia già con Asurion, si unisce al gruppo per **Scaglie di Guerra**  
 **Connessione a Ispin:** Lo accudì per un intero inverno all'eremo, mentre era sotto voto di silenzio — Ispin gli insegnò a mani nude a scassinare e a far sparire piccoli oggetti, legandoli più delle storie stesse — poi lo rivide regolarmente per 4 anni a Vogler, durante il servizio come scudiero  
 
 | | |
@@ -227,9 +227,9 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 ### Garrick Ashwatch
 **Giocatore:** [DA COMPILARE]  
-**Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, apprendista di un maestro delle Vesti Bianche; **veste non ancora scelta** a inizio campagna. **[NOTA DM]** Atterraggio previsto: **Mantelli Rossi**, al Test di Alta Stregoneria in Sessione 17  
-**Background:** Mago di Alta Stregoneria — nato Firewatch, casata solamnica di guardiani delle torri di segnalazione sul confine orientale; diseredato a 19 anni per un incastro, riabilitato e preso come allievo da Aeliran Dawnhollow (Vesti Bianche, Torre di Wayreth). Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
-**Preludio (Cap. 2):** **Eye in the Sky** — da solo, alla Notte dell'Occhio, pochi giorni prima di Vogler  
+**Razza / Classe:** Umano / Mago *(da confermare)* — Alta Stregoneria, apprendista di un maestro delle Vesti Bianche; **veste non ancora scelta** a inizio campagna. **[NOTA DM]** Atterraggio previsto: **Mantelli Rossi**, alla Prova dell'Alta Stregoneria in Sessione 17  
+**Background:** Mago dell'Alta Stregoneria — nato Firewatch, casata solamnica di guardiani delle torri di segnalazione sul confine orientale; diseredato a 19 anni per un incastro, riabilitato e preso come allievo da Aeliran Dawnhollow (Vesti Bianche, Torre di Wayreth). Scheda completa: `fonti/personaggi/Garrick-Ashwatch.md`  
+**Preludio (Cap. 2):** **Occhio nel Cielo** — da solo, alla Notte dell'Occhio, pochi giorni prima di Vogler  
 **Connessione a Ispin:** Ispin lo cercò a 16 anni per identificare un cimelio; tornò più volte, poi gli scrisse undici lettere in sette anni dopo il disonore, senza mai accennarvi  
 
 | | |
@@ -254,8 +254,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 ### Brynja Daewar
 **Giocatore:** Eric  
 **Razza / Classe:** Nana di montagna (clan Daewar) / Chierico — Mishakal, ~32 anni  
-**Background:** Cavaliere di Solamnia (scudiera) — addestrata da **nove anni** da Sir Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
-**Preludio (Cap. 2):** **Broken Silence** — condiviso con il druido: si incontrano per la prima volta sulla strada per Vogler, la notte della visione  
+**Background:** Cavaliere di Solamnia (scudiera) — addestrata da **nove anni** da Ser Roderick Kar-Thas "l'Ostinato", Cavaliere della Spada, sfidando i puristi dell'Ordine. Nel 351 AC la Misura riserva formalmente l'accesso ai soli umani nobili solamnici: Brynja non è ufficialmente registrata, è un'eccezione sostenuta solo dall'autorità personale di Roderick. Scheda completa: `fonti/personaggi/Brynja-Daewar.md`  
+**Preludio (Cap. 2):** **Silenzio Infranto** — condiviso con il druido: si incontrano per la prima volta sulla strada per Vogler, la notte della visione  
 **Connessione a Ispin:** Ispin si frappose con lo scudo verde tra lei e un goblin durante l'assalto di Grishnak Spezzapietra a un villaggio nanico di frontiera  
 
 | | |
@@ -269,7 +269,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 *Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità di frontiera — nani per la maggior parte, ma non solo — da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja portava fuori dei bambini da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu Ispin, nei giorni seguenti, a dirle che la fede può essere decidere di fare la cosa giusta proprio mentre nessuno risponde — ed è da quella frase che nasce, due anni più tardi, la sua devozione a Mishakal. Fu ancora lui a indirizzarla da Roderick.
 
 #### PNG collegati
-- **Sir Roderick Kar-Thas "l'Ostinato"** — mentore, Cavaliere della Spada; temporaneamente separato da Brynja per un dovere personale da definire, in attesa del banco di prova finale
+- **Ser Roderick Kar-Thas "l'Ostinato"** — mentore, Cavaliere della Spada; temporaneamente separato da Brynja per un dovere personale da definire, in attesa del banco di prova finale
 - **Ispin Greenshield** — defunto
 - **Grishnak Spezzapietra** — il goblin che tentò di ucciderla; **corpo mai ritrovato**, gancio pienamente riutilizzabile
 - **Becklin Uth Viharin** — nessuna relazione diretta, ma Ispin gliene ha parlato: Brynja arriva a Vogler sapendo già chi è
@@ -278,9 +278,9 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 ### Asurion Loech
 **Giocatore:** Seba  
-**Razza / Classe:** Elfo Silvano (Kagonesti, Southern Ergoth) / Barbaro  
-**Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; scout per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
-**Preludio (Cap. 2):** Nessun preludio individuale — viaggia con Razak, resta nel gruppo per **Scales of War**  
+**Razza / Classe:** Elfo Silvano (Kagonesti, Ergoth del Sud) / Barbaro  
+**Background:** Guida — cacciatore e battitore di frontiera Kagonesti, vive di piccoli incarichi (guida per mercanti, cacciatori, viaggiatori; ricerca di persone scomparse; esploratore (*scout*) per gruppi armati, spesso Cavalieri di Solamnia) attraverso le regioni esterne di Solamnia. Scheda completa: `fonti/personaggi/Asurion-Loech.md`  
+**Preludio (Cap. 2):** Nessun preludio individuale — viaggia con Razak, resta nel gruppo per **Scaglie di Guerra**  
 **Connessione a Ispin:** Ispin trovò l'amuleto del clan rubatogli dai briganti e si mise a cercarne il proprietario per restituirglielo  
 
 | | |
@@ -296,7 +296,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 #### PNG collegati
 - **Ispin Greenshield** — defunto
 - **Il gruppo di briganti** *(senza nome)* — mai identificati; PNG jolly riutilizzabile
-- **La comunità Kagonesti d'origine** (Southern Ergoth) — gancio dormiente per il ritorno futuro di Asurion
+- **La comunità Kagonesti d'origine** (Ergoth del Sud) — gancio dormiente per il ritorno futuro di Asurion
 
 ---
 
@@ -305,8 +305,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 **Razza / Classe:** Umano / **Druido** — Cerchio da scegliere al 3° livello (consigliato Luna). 27 anni, praticamente coetaneo di Razak. Scheda completa: `fonti/personaggi/Corin-Wrenmoor.md`  
 **Nome provvisorio:** "Corin Wrenmoor" è un segnaposto in attesa della scelta di Gabri — se cambia, va sostituito anche in `campagna/contesto.md` e nel nome del file  
 **Background (regole 2024):** **Eremita** — talento d'origine **Healer**, proficiency Medicina + Religione, Kit da Erborista. Nessuna sovrapposizione: Razak usa Cavaliere di Solamnia (scudiero), non Eremita  
-**Divinità:** **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu) *(deciso 2026-09-03, al posto di Chislev)* — custodisce da dodici anni la **Pozza del Martin Pescatore**, una sorgente sacra nell'Hinterlund, praticandone il rito senza aver mai saputo il nome del dio a cui è dedicato: **lo apprende nel preludio**. Habbakuk è già presente nella campagna preparata in tre punti — il palo del molo a Vogler (S01), il Blue Phoenix Shrine (S10) e Yearkal (S11) — dove Chislev non compariva mai  
-**Preludio (Cap. 2):** **Broken Silence** — condiviso con Brynja: sconosciuti fino a quella notte, si incontrano per la prima volta sulla strada per Vogler  
+**Divinità:** **Habbakuk** (NG — vita animale ed equilibrio naturale; simbolo: uccello blu) *(deciso 2026-09-03, al posto di Chislev)* — custodisce da dodici anni la **Pozza del Martin Pescatore**, una sorgente sacra nell'Hinterlund, praticandone il rito senza aver mai saputo il nome del dio a cui è dedicato: **lo apprende nel preludio**. Habbakuk è già presente nella campagna preparata in tre punti — il palo del molo a Vogler (S01), il Santuario della Fenice Blu (S10) e Yearkal (S11) — dove Chislev non compariva mai  
+**Preludio (Cap. 2):** **Silenzio Infranto** — condiviso con Brynja: sconosciuti fino a quella notte, si incontrano per la prima volta sulla strada per Vogler  
 **Connessione a Ispin:** *(elemento inventato, coerente con le altre schede)* Ispin si perse ferito nei boschi dell'Hinterlund durante uno dei suoi viaggi; il druido lo trovò, lo curò e lo rimise sulla strada giusta — l'unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito  
 **Connessione agli altri PG:** Storia pregressa con **Razak** e **Asurion** (vicini di territorio nell'Hinterlund, da prima dell'inizio della campagna); legame nuovo, nato dalla visione condivisa, con **Brynja**. Nessun contatto con Garrick  
 

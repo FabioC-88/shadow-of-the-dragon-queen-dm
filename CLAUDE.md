@@ -25,6 +25,7 @@ Questo repo ha già un sistema di agenti e skill Claude Code, che resta la fonte
 | `.claude/skills/` | Skill Claude Code (`prep-sessione`, `aggiorna-sessione`, `aggiorna-locations`, `git-release`) |
 | `campagna/contesto.md` | Stato vivo della campagna: party, capitolo corrente, villain, PNG chiave, fazioni |
 | `campagna/fazioni.md` | Fazioni della campagna (nessuna missione secondaria di fazione in questa campagna) |
+| `campagna/glossario.md` | Terminologia italiana: titoli, luoghi, Armata dei Draghi, schede — fonte unica |
 | `INDEX.md` / `QUICK_REF.md` | Wiki di riferimento rapido per la campagna |
 
 Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.md` (e `campagna/fazioni.md` se serve accedere a file missione) invece di affidarti alla memoria della conversazione.
@@ -34,6 +35,8 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
 - **Sempre in italiano.**
 - **Tono:** immersivo ma usabile al tavolo — tabelle, bullet, stat block standard, niente saggistica.
 - **Meccaniche:** cita sempre CD nel formato `Caratteristica (Abilità) CD X`.
+- **Terminologia:** segui `campagna/glossario.md`. Titoli e gradi si traducono sempre (*Maresciallo* Vendri, mai «Marshal Vendri»), l'esercito nemico è l'*Armata dei Draghi*; schede e sezioni del manuale in italiano con l'inglese tra parentesi alla prima occorrenza.
+- **Informazioni dei PNG in elenco:** quando un PNG comunica una serie di informazioni, oltre all'elenco per il DM scrivi il **testo da recitare** con la sua voce.
 - **Segreti:** distingui sempre tra ciò che sa il party e `[NOTA DM — riservata]`.
 - **Testi da leggere al tavolo (boxed text)** — quattro regole, tutte già costate una revisione:
   - **Dire la cosa una volta sola.** Niente contrasto annunciato col trattino e poi ripetuto dalla frase dopo — *«alza l'ascia — non verso di voi. La punta oltre le vostre teste»* diventa *«alza l'ascia puntandola oltre le vostre teste»*. Stessa regola per la conclusione seguita dalla prova che la ripete (*«non è umana. Le mani hanno artigli»* → basta la seconda frase).

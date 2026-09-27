@@ -101,6 +101,7 @@ Usa sempre `[NOTA DM — riservata]` per distinguere le informazioni riservate.
 
 ## Vincoli
 
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì.
 - Non modificare i testi boxed `>` tradotti dall'Agente 2.
 - Non aggiungere combattimenti o incontri — le scene opzionali devono essere di roleplay o esplorazione.
 - Non rivelare segreti che non sono ancora stati "guadagnati" narrativamente dai giocatori.

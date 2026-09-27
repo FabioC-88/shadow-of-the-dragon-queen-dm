@@ -24,9 +24,9 @@ Da allora il tempo si misura in anni "Dopo il Cataclisma" (AC): la campagna si s
 
 Nei secoli successivi, carestie, epidemie e migrazioni di massa hanno rimodellato ogni cultura di Ansalon. I Cavalieri di Solamnia, un tempo garanti della pace, furono sospettati di complicità con Istar e perseguitati ovunque. Elfi e nani si richiusero nelle loro terre. Orde di hobgoblin e ogre approfittarono del caos per espandersi. Lentamente, però, il mondo ha ricominciato a guarire: esploratori hanno rimappato il continente, le rotte commerciali sono rinate, e le civiltà sopravvissute hanno imparato a convivere con una verità sconcertante — gli dèi sono davvero spariti, e la vera fede è merce rara.
 
-### Il Ritorno della Regina Dragone
+### Il Ritorno della Regina dei Draghi
 
-Più di mille anni fa, il cavaliere Huma Dragonbane sconfisse la dea malvagia **Takhisis, la Regina Dragone**, con la prima delle leggendarie *dragonlance*, costringendo lei e i suoi draghi cromatici a lasciare Krynn. Takhisis ha atteso, in segreto, il momento del suo ritorno: ha corrotto le uova rubate ai draghi buoni trasformandole in **draconiani**, guerrieri rettiliani che oggi riempiono le fila delle sue **Armate dei Draghi**. Oggi la Regina Dragone è tornata, e la sua invasione ha già travolto ampie zone dell'Ansalon orientale. Le sue forze sono organizzate in cinque Armate dei Draghi (una per ogni colore cromatico), ciascuna guidata da un Dragon Highlord fedele a Takhisis — **chi minaccia direttamente la vostra regione lo scoprirete in gioco**.
+Più di mille anni fa, il cavaliere Huma Dragonbane sconfisse la dea malvagia **Takhisis, la Regina dei Draghi**, con la prima delle leggendarie *dragonlance*, costringendo lei e i suoi draghi cromatici a lasciare Krynn. Takhisis ha atteso, in segreto, il momento del suo ritorno: ha corrotto le uova rubate ai draghi buoni trasformandole in **draconiani**, guerrieri rettiliani che oggi riempiono le fila delle sue **Armate dei Draghi**. Oggi la Regina dei Draghi è tornata, e la sua invasione ha già travolto ampie zone dell'Ansalon orientale. Le sue forze sono organizzate in cinque Armate dei Draghi (una per ogni colore cromatico), ciascuna guidata da un Signore dei Draghi fedele a Takhisis — **chi minaccia direttamente la vostra regione lo scoprirete in gioco**.
 
 I draconiani sono probabilmente il primo vero nemico che incontrerete: umanoidi rettiliani nati dalla corruzione delle uova draconiche, spietati in battaglia e pericolosi perfino da morti (alcuni esplodono in acido, altri rilasciano gas letali quando cadono).
 
@@ -45,9 +45,9 @@ Dopo il Cataclisma la cavalleria fu sospettata di complicità con la caduta di I
 | **Cavalieri della Spada** | Kiri-Jolith | Onore eroico, coraggio, sacrificio in difesa degli indifesi |
 | **Cavalieri della Rosa** | Paladine | Onore temperato da saggezza e giustizia; il vertice della cavalleria |
 
-### I Maghi di Alta Stregoneria
+### I Maghi dell'Alta Stregoneria
 
-La maggior parte degli incantatori arcani di Krynn appartiene a un'antica organizzazione, i **Maghi di Alta Stregoneria**, divisa in tre Ordini legati alle tre lune mistiche di Krynn e sovrintesa da un consiglio, il Conclave:
+La maggior parte degli incantatori arcani di Krynn appartiene a un'antica organizzazione, i **Maghi dell'Alta Stregoneria**, divisa in tre Ordini legati alle tre lune mistiche di Krynn e sovrintesa da un consiglio, il Conclave:
 
 | Ordine | Luna | Dio | Filosofia |
 |---|---|---|---|
@@ -55,7 +55,7 @@ La maggior parte degli incantatori arcani di Krynn appartiene a un'antica organi
 | **Vesti Rosse** | Lunitari | Lunitari | Aiutare quando conviene, mantenere l'equilibrio tra bene e male |
 | **Vesti Nere** | Nuitari | Nuitari | Perseguire prima la propria ambizione, poi quella dell'Ordine |
 
-Chi vuole unirsi a un Ordine deve superare il **Test di Alta Stregoneria**, una prova personalizzata pensata per essere letale in caso di fallimento: mette alla prova non solo l'abilità magica, ma il carattere del candidato con dilemmi morali e illusioni indistinguibili dalla realtà. Chi lascia l'organizzazione (o fallisce il Test e sopravvive) e continua a praticare magia senza permesso è bollato come **rinnegato**, e gli altri maghi sono tenuti a denunciarlo o cacciarlo.
+Chi vuole unirsi a un Ordine deve superare la **Prova dell'Alta Stregoneria**, una prova personalizzata pensata per essere letale in caso di fallimento: mette alla prova non solo l'abilità magica, ma il carattere del candidato con dilemmi morali e illusioni indistinguibili dalla realtà. Chi lascia l'organizzazione (o fallisce il Test e sopravvive) e continua a praticare magia senza permesso è bollato come **rinnegato**, e gli altri maghi sono tenuti a denunciarlo o cacciarlo.
 
 ### Le Divinità di Krynn
 
@@ -135,8 +135,8 @@ Se qualcuno al tavolo desidera giocare una razza non originaria di Krynn — dra
 
 In questa campagna, **qualsiasi background scegliate** (uno di quelli nuovi qui sotto, oppure uno del *Player's Handbook* o di un'altra fonte), ottenete due talenti bonus legati all'esperienza della guerra:
 
-- **Al 1° livello:** se scegliete il background Cavaliere di Solamnia o Mago di Alta Stregoneria, ottenete il talento specifico previsto da quel background. Altrimenti, scegliete un talento bonus tra **Skilled** o **Tough** (*Player's Handbook*).
-- **All'8° livello, non al 4°:** il secondo talento bonus **non si prende avanzando di livello**. Si **guadagna in gioco**, all'8° livello, nella scena in cui il vostro personaggio diventa quello che sarà — il Test di Alta Stregoneria per chi aspira alle Vesti, il banco di prova per chi si addestra alla cavalleria, e l'equivalente per chiunque altro. Si sceglie dalla lista sopra oppure tra: **Adept of the Black/Red/White Robes**, **Alert**, **Divinely Favored**, **Knight of the Crown/Rose/Sword**, **Mobile**, **Sentinel**, **War Caster** — purché ne rispettiate i prerequisiti.
+- **Al 1° livello:** se scegliete il background Cavaliere di Solamnia o Mago dell'Alta Stregoneria, ottenete il talento specifico previsto da quel background. Altrimenti, scegliete un talento bonus tra **Skilled** o **Tough** (*Player's Handbook*).
+- **All'8° livello, non al 4°:** il secondo talento bonus **non si prende avanzando di livello**. Si **guadagna in gioco**, all'8° livello, nella scena in cui il vostro personaggio diventa quello che sarà — la Prova dell'Alta Stregoneria per chi aspira alle Vesti, il banco di prova per chi si addestra alla cavalleria, e l'equivalente per chiunque altro. Si sceglie dalla lista sopra oppure tra: **Adepto delle Vesti Nere (*Adept of the Black*)/Red/White Robes**, **Alert**, **Divinely Favored**, **Cavaliere della Corona/della Rosa/della Spada**, **Mobile**, **Sentinel**, **War Caster** — purché ne rispettiate i prerequisiti.
 
 > **Perché.** Quasi tutti i talenti di quella lista rappresentano un **traguardo**, non un allenamento: una veste, un Ordine cavalleresco, il favore di un dio. Al 4° livello nessuno di voi lo ha ancora raggiunto. Aspettando l'8° il talento arriva quando la storia se l'è guadagnato, invece di comparire sulla scheda a un level-up. Vale **per tutti allo stesso modo**: nessuno è avvantaggiato e nessuno resta indietro.
 >
@@ -144,11 +144,11 @@ In questa campagna, **qualsiasi background scegliate** (uno di quelli nuovi qui 
 
 ### Cavaliere di Solamnia
 
-Per chi ha giurato il codice della cavalleria — o si sta ancora addestrando per farlo. Questo background riflette un personaggio legato (come scudiero, iniziato o cavaliere effettivo) a uno dei tre Ordini di Solamnia, e concede il talento **Squire of Solamnia** al 1° livello: la base per specializzarsi in seguito in uno degli Ordini (Corona, Spada o Rosa) tramite i talenti dedicati.
+Per chi ha giurato il codice della cavalleria — o si sta ancora addestrando per farlo. Questo background riflette un personaggio legato (come scudiero, iniziato o cavaliere effettivo) a uno dei tre Ordini di Solamnia, e concede il talento **Scudiero di Solamnia** al 1° livello: la base per specializzarsi in seguito in uno degli Ordini (Corona, Spada o Rosa) tramite i talenti dedicati.
 
-### Mago di Alta Stregoneria
+### Mago dell'Alta Stregoneria
 
-Per chi ha iniziato — o completato — il proprio cammino tra i Maghi di Alta Stregoneria, legato a uno dei tre Ordini delle Vesti. Concede il talento **Initiate of High Sorcery** al 1° livello, punto di partenza per specializzarsi più avanti in una delle tre vesti (Bianca, Rossa o Nera).
+Per chi ha iniziato — o completato — il proprio cammino tra i Maghi dell'Alta Stregoneria, legato a uno dei tre Ordini delle Vesti. Concede il talento **Iniziato dell'Alta Stregoneria (*Initiate of High Sorcery*)** al 1° livello, punto di partenza per specializzarsi più avanti in una delle tre vesti (Bianca, Rossa o Nera).
 
 ### Altri Background
 
@@ -163,20 +163,20 @@ Talenti pensati per legare il personaggio alla guerra, alla fede o alle grandi o
 | Talento | Per chi è pensato |
 |---|---|
 | **Divinely Favored** | Un personaggio toccato da un dio buono di Krynn: percepisce la presenza/voce di poteri divini benevoli come Paladine. Disponibile a chiunque, non solo ai devoti dichiarati. |
-| **Initiate of High Sorcery** | Il primo passo per entrare tra i Maghi di Alta Stregoneria, prerequisito narrativo per specializzarsi in una delle tre vesti. |
-| **Adept of the Black Robes** | Specializzazione nell'Ordine delle Vesti Nere (Nuitari). |
-| **Adept of the Red Robes** | Specializzazione nell'Ordine delle Vesti Rosse (Lunitari). |
-| **Adept of the White Robes** | Specializzazione nell'Ordine delle Vesti Bianche (Solinari). |
-| **Squire of Solamnia** | Il primo passo nella cavalleria solamnica, prerequisito narrativo per specializzarsi in uno dei tre Ordini. |
-| **Knight of the Crown** | Specializzazione nell'Ordine della Corona (Habbakuk). |
-| **Knight of the Rose** | Specializzazione nell'Ordine della Rosa (Paladine). |
-| **Knight of the Sword** | Specializzazione nell'Ordine della Spada (Kiri-Jolith). |
+| **Iniziato dell'Alta Stregoneria** | Il primo passo per entrare tra i Maghi dell'Alta Stregoneria, prerequisito narrativo per specializzarsi in una delle tre vesti. |
+| **Adepto delle Vesti Nere (*Adept of the Black Robes*)** | Specializzazione nell'Ordine delle Vesti Nere (Nuitari). |
+| **Adepto delle Vesti Rosse (*Adept of the Red Robes*)** | Specializzazione nell'Ordine delle Vesti Rosse (Lunitari). |
+| **Adepto delle Vesti Bianche (*Adept of the White Robes*)** | Specializzazione nell'Ordine delle Vesti Bianche (Solinari). |
+| **Scudiero di Solamnia** | Il primo passo nella cavalleria solamnica, prerequisito narrativo per specializzarsi in uno dei tre Ordini. |
+| **Cavaliere della Corona** | Specializzazione nell'Ordine della Corona (Habbakuk). |
+| **Cavaliere della Rosa** | Specializzazione nell'Ordine della Rosa (Paladine). |
+| **Cavaliere della Spada** | Specializzazione nell'Ordine della Spada (Kiri-Jolith). |
 
 ---
 
-## Nuovo Archetipo: Stregoneria Lunare (Lunar Sorcery)
+## Nuovo Archetipo: Stregoneria Lunare (Stregoneria Lunare)
 
-L'unica sottoclasse introdotta da questo manuale è una nuova Origine Stregonesca per lo **Stregone**: la **Stregoneria Lunare**, per personaggi la cui magia innata risuona con le tre lune mistiche di Krynn — Solinari (bianca), Lunitari (rossa) e Nuitari (nera, invisibile a occhio nudo). È l'opzione ideale per uno stregone che vuole avere legami tematici con i Maghi di Alta Stregoneria senza appartenervi formalmente, con capacità che nel manuale variano in base alle fasi lunari. Per le caratteristiche esatte della sottoclasse (livello per livello) fate riferimento al Capitolo 1 del manuale.
+L'unica sottoclasse introdotta da questo manuale è una nuova Origine Stregonesca per lo **Stregone**: la **Stregoneria Lunare**, per personaggi la cui magia innata risuona con le tre lune mistiche di Krynn — Solinari (bianca), Lunitari (rossa) e Nuitari (nera, invisibile a occhio nudo). È l'opzione ideale per uno stregone che vuole avere legami tematici con i Maghi dell'Alta Stregoneria senza appartenervi formalmente, con capacità che nel manuale variano in base alle fasi lunari. Per le caratteristiche esatte della sottoclasse (livello per livello) fate riferimento al Capitolo 1 del manuale.
 
 ---
 
@@ -217,7 +217,7 @@ Il collegamento più naturale è con i Cavalieri di Solamnia, in particolare con
 
 ### Ranger
 
-Esploratori e battitori di frontiera: guide Kagonesti, cacciatori Plainsfolk, gente selvatica di Ergoth Meridionale, o semplici viandanti che conoscevano le rotte commerciali prima che la guerra le rendesse pericolose. Con l'avanzata delle Armate dei Draghi e delle loro orde di hobgoblin e ogre, questi personaggi si trovano spesso reclutati (volontari o no) come scout per eserciti e colonne di profughi.
+Esploratori e battitori di frontiera: guide Kagonesti, cacciatori Plainsfolk, gente selvatica di Ergoth Meridionale, o semplici viandanti che conoscevano le rotte commerciali prima che la guerra le rendesse pericolose. Con l'avanzata delle Armate dei Draghi e delle loro orde di hobgoblin e ogre, questi personaggi si trovano spesso reclutati (volontari o no) come esploratore (*scout*) per eserciti e colonne di profughi.
 
 ### Ladro
 
@@ -225,7 +225,7 @@ Prospera nei crocevia e nei porti di Ansalon — Tarsis su tutti — ma anche ne
 
 ### Stregone
 
-I Maghi di Alta Stregoneria guardano gli stregoni con sospetto, perché la loro magia è innata e non passa mai dal Test di Alta Stregoneria: sono potenzialmente pericolosi e "non certificati" agli occhi dell'Ordine. È lo sfondo ideale per la nuova sottoclasse Stregoneria Lunare (vedi sopra), ma anche per un personaggio la cui magia selvaggia risale a un'eredità draconica, o a un capriccio della magia impazzita nei decenni successivi al Cataclisma.
+I Maghi dell'Alta Stregoneria guardano gli stregoni con sospetto, perché la loro magia è innata e non passa mai dalla Prova dell'Alta Stregoneria: sono potenzialmente pericolosi e "non certificati" agli occhi dell'Ordine. È lo sfondo ideale per la nuova sottoclasse Stregoneria Lunare (vedi sopra), ma anche per un personaggio la cui magia selvaggia risale a un'eredità draconica, o a un capriccio della magia impazzita nei decenni successivi al Cataclisma.
 
 ### Warlock
 
@@ -233,7 +233,7 @@ Il tema dei patti si presta benissimo a Krynn: un patrono può essere un dio ste
 
 ### Mago
 
-Per la maggior parte dei personaggi, la strada del mago passa dai Maghi di Alta Stregoneria e dal loro Test (vedi il background Mago di Alta Stregoneria più sopra): è di gran lunga l'inquadramento più comune sull'intero continente. In alternativa, un mago può essere un rinnegato che pratica l'arte senza permesso, un'accademica solitaria che ha ricostruito la magia da testi pre-Cataclisma, o — più raramente — qualcuno addestrato al di fuori di Ansalon.
+Per la maggior parte dei personaggi, la strada del mago passa dai Maghi dell'Alta Stregoneria e dal loro Test (vedi il background Mago dell'Alta Stregoneria più sopra): è di gran lunga l'inquadramento più comune sull'intero continente. In alternativa, un mago può essere un rinnegato che pratica l'arte senza permesso, un'accademica solitaria che ha ricostruito la magia da testi pre-Cataclisma, o — più raramente — qualcuno addestrato al di fuori di Ansalon.
 
 ### Artefice (opzionale)
 
@@ -249,12 +249,12 @@ L'Artefice non compare nel manuale di *Shadow of the Dragon Queen*, ma si inseri
 - **Una prima linea solida** (tank o comunque qualcuno che regge i colpi): gli scontri contro le Armate dei Draghi possono essere numerosi e serrati, e i draconiani sono pericolosi anche da morti.
 - **Un supporto/guaritore**: la guerra logora, e le occasioni di riposo lungo non sono sempre garantite.
 - **Una "voce" per la diplomazia**: militari, cavalieri e funzionari cittadini rispondono bene a chi sa muoversi con carisma o autorità.
-- **Un incantatore arcano**: si lega naturalmente ai Maghi di Alta Stregoneria e offre versatilità contro minacce magiche.
+- **Un incantatore arcano**: si lega naturalmente ai Maghi dell'Alta Stregoneria e offre versatilità contro minacce magiche.
 - **Qualcuno a proprio agio in ambienti selvaggi**: esplorazione e sopravvivenza torneranno utili più di una volta nel corso della campagna.
 
 Non serve incastrare questi ruoli in classi precise: bastano personaggi diversi tra loro che, messi insieme, coprano combattimento, indagine, socialità e sopravvivenza.
 
-**Sfruttate le opzioni di Krynn.** Anche un solo personaggio legato ai Cavalieri di Solamnia o ai Maghi di Alta Stregoneria (via background e talenti dedicati) dà al gruppo un aggancio naturale con due delle istituzioni più importanti del mondo — utile sia per il roleplay sia per ottenere risorse e alleati in gioco. Non serve che tutto il party ne faccia parte: anzi, un mix di insider e outsider (per esempio un cavaliere accanto a un kender vagabondo o a un nano delle colline senza patria) crea più attriti narrativi interessanti.
+**Sfruttate le opzioni di Krynn.** Anche un solo personaggio legato ai Cavalieri di Solamnia o ai Maghi dell'Alta Stregoneria (via background e talenti dedicati) dà al gruppo un aggancio naturale con due delle istituzioni più importanti del mondo — utile sia per il roleplay sia per ottenere risorse e alleati in gioco. Non serve che tutto il party ne faccia parte: anzi, un mix di insider e outsider (per esempio un cavaliere accanto a un kender vagabondo o a un nano delle colline senza patria) crea più attriti narrativi interessanti.
 
 **Legate i personaggi tra loro.** Prima ancora di conoscere i dettagli della trama, concordate con gli altri giocatori (e col DM) un motivo plausibile per cui i vostri personaggi si conoscono già o si trovano nello stesso posto all'inizio della guerra: un vecchio compagno d'armi, un maestro comune, un villaggio o una nazione d'origine condivisa. Il DM avrà un gancio concreto pronto per la prima sessione, e voi partirete con una relazione di gruppo già viva.
 

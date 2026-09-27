@@ -1,4 +1,4 @@
-# Scontri Adattati — Capitolo 4: Shadow of War
+# Scontri Adattati — Capitolo 4: L'Ombra della Guerra
 
 **Copre:** Sessioni 03-08 (Liv. 4 → 6)
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!*, niente regola Minion, Villain Actions solo per boss veramente seri o di fine capitolo
@@ -7,7 +7,7 @@
 
 > **Nota onestà DM:** valori ricalibrati a giudizio, non playtestati — stesso approccio di Cap. 3. `[TODO DM: aggiustare HP/DC dopo il primo turno reale al tavolo]`.
 >
-> **Nota ricontrollo (regole opzionali + stile Villain Actions):** [regole-opzionali.md](../regole-opzionali.md) è attivo da questa sessione — critici massimizzati e niente guarigione automatica dal riposo lungo rendono Caradoc e Knight Sarlamir più duri di quanto suggerisca il CR nudo, specie Sarlamir (HP 170, già alzato per il party a 5). `[TODO DM: verificare]` al tavolo. Rilette le Villain Actions di entrambi contro quelle di Fewmaster Gholcag (Cap. 3): nessun riciclo letterale, ma due echi strutturali da tenere d'occhio nei prossimi capitoli — il guadagno di PF temporanei sul colpo (Gholcag Ultimate, Caradoc Control) e l'AoE con tiro salvezza o prono (Gholcag Control, Sarlamir Ultimate). Diverso slot, trigger e tono narrativo in ogni caso (non è un copia-incolla), quindi non riscritto — ma è il tipo di ripetizione da evitare nei boss di Cap. 5-7.
+> **Nota ricontrollo (regole opzionali + stile Villain Actions):** [regole-opzionali.md](../regole-opzionali.md) è attivo da questa sessione — critici massimizzati e niente guarigione automatica dal riposo lungo rendono Caradoc e Cavaliere Sarlamir più duri di quanto suggerisca il CR nudo, specie Sarlamir (HP 170, già alzato per il party a 5). `[TODO DM: verificare]` al tavolo. Rilette le Villain Actions di entrambi contro quelle di Fewmaster Gholcag (Cap. 3): nessun riciclo letterale, ma due echi strutturali da tenere d'occhio nei prossimi capitoli — il guadagno di PF temporanei sul colpo (Gholcag Ultimate, Caradoc Control) e l'AoE con tiro salvezza o prono (Gholcag Control, Sarlamir Ultimate). Diverso slot, trigger e tono narrativo in ogni caso (non è un copia-incolla), quindi non riscritto — ma è il tipo di ripetizione da evitare nei boss di Cap. 5-7.
 
 ---
 
@@ -20,9 +20,9 @@ Sei sessioni, molti nemici nominati, ma solo **due boss veri** secondo il criter
 | 03 — L'Ombra della Guerra | 4 | — | — | nessun combattimento |
 | 04 — La Prima Missione | 4 | — | Hobgoblin (capo) | 12× Goblin, stat block classico (iniziativa condivisa) |
 | 05 — Le Vedette Perdute | 4 | — | Kapak Draconian (ambusher) | 3× Baaz Draconian |
-| 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian, Dragon Army Officer + Dragonnel (duo) | Dragon Army Soldier (gruppi da 1-8 per stanza, stat block classico anche se convergono) |
-| 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | Dragon Army Soldier a cavallo, Undead Soldier |
-| 08 — Le Catacombe / Sarlamir | 5→6 | **Knight Sarlamir** | — | Wraith, Skeletal Horse (entrambi opzionali/evitabili) |
+| 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian, Ufficiale dell'Armata dei Draghi (*Dragon Army Officer*) + Dragonnel (duo) | Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) (gruppi da 1-8 per stanza, stat block classico anche se convergono) |
+| 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | Soldato dell'Armata dei Draghi a cavallo, Undead Soldier |
+| 08 — Le Catacombe / Sarlamir | 5→6 | **Cavaliere Sarlamir** | — | Wraith, Skeletal Horse (entrambi opzionali/evitabili) |
 
 ---
 
@@ -158,7 +158,7 @@ REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
 
 ## Sessione 06 — Le Mura di Wheelwatch (Livello 5)
 
-Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di Dragon Army Soldier da 1 a 8 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme totale e più gruppi convergono nello stesso scontro (es. gli 8 della caserma + i 3 del cortile = 11+), restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** per non rallentare il tavolo (vedi 00-framework.md punto 2).
+Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di soldati dell'Armata dei Draghi da 1 a 8 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme totale e più gruppi convergono nello stesso scontro (es. gli 8 della caserma + i 3 del cortile = 11+), restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** per non rallentare il tavolo (vedi 00-framework.md punto 2).
 
 ```
 DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono) — DSotDQ p200, official stat block
@@ -253,7 +253,7 @@ Multiattack. Two Rend attacks.
 Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 ```
 
-*Il suo cavaliere è un secondo **Dragon Army Officer** (blocco sopra) — la coppia condivide già il Comando dell'Officer come strumento di sinergia, niente bisogno di altro. Duo drammatico, non boss di capitolo: niente Villain Actions piene.*
+*Il suo cavaliere è un secondo **Ufficiale dell'Armata dei Draghi** (blocco sopra) — la coppia condivide già il Comando dell'Officer come strumento di sinergia, niente bisogno di altro. Duo drammatico, non boss di capitolo: niente Villain Actions piene.*
 
 **[Correzione]** Il Dragonnel ufficiale è **CR 3** (HP/danno base più bassi, e ha il tratto **Flyby** che qui mancava — aggiunto sopra). Ho lasciato HP e danno alzati a livello ~CR4: è una scelta dichiarata per far pesare il duo con l'Officer nella scena, non un errore di ricostruzione — segnalo qui per trasparenza.
 
@@ -263,7 +263,7 @@ Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 
 ### La Battaglia del Guado (Steel Springs)
 
-**5× Dragon Army Soldier a cavallo** (era 4, scalato) + **Warhorses** vs 6 Kalaman Soldier feriti (alleati in ritirata, PF ridotti). La tabella eventi del campo di battaglia (d8) resta **invariata** — è già ottima, guidata dalla fonte.
+**5× Soldati dell'Armata dei Draghi a cavallo** (era 4, scalato) + **Warhorses** vs 6 Kalaman Soldier feriti (alleati in ritirata, PF ridotti). La tabella eventi del campo di battaglia (d8) resta **invariata** — è già ottima, guidata dalla fonte.
 
 ```
 KALAMAN SOLDIER (Wounded, allies) (×6)
@@ -313,7 +313,7 @@ Hooves. Melee Attack: +6, reach 5 ft. Hit: 9 (2d4+4) Bludgeoning damage.
 
 *Obiettivo dello scontro invariato: proteggere la ritirata, non vincere una battaglia campale. Nessun trattamento boss — è un incontro tattico corale, non un nemico nominato.*
 
-### I Guardiani del Cortile (Castle Kalaman)
+### I Guardiani del Cortile (Castello di Kalaman)
 
 **3× Undead Soldier** (era 2, scalato) — falsi Cavalieri di Solamnia, bloccano l'ingresso.
 
@@ -436,7 +436,7 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 
 *Ordine consigliato: Opener appena emerge nella forma spettrale (mostra subito che non è più "solo" un cavaliere), Control quando il party si raggruppa per accerchiarlo, Ultimate quando fallisce un tiro di Bound Tether o è vicino a essere distrutto — è la sua ultima carta prima di essere risucchiato via o annientato.*
 
-**Nota di continuità:** Caradoc promette ai personaggi che li rivedrà prima di svanire (che sia sconfitto o richiamato a Dargaard Keep) — nessuna modifica narrativa a questa promessa.
+**Nota di continuità:** Caradoc promette ai personaggi che li rivedrà prima di svanire (che sia sconfitto o richiamato alla Rocca di Dargaard) — nessuna modifica narrativa a questa promessa.
 
 ---
 
@@ -484,7 +484,7 @@ Hooves: +6 to hit, reach 5 ft — 11 (2d6+4) bludgeoning.
 
 *Placabili con armatura solamnica indossata o un successo a Wisdom (Animal Handling) — invariato.*
 
-### Knight Sarlamir — Boss Finale del Capitolo
+### Cavaliere Sarlamir — Boss Finale del Capitolo
 
 Il vero climax di tutto il Capitolo 4: lo scheletro rianimato che innesca l'avanzamento al 6° livello. Trattamento pieno.
 
@@ -552,16 +552,16 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
    >
    > *[Aggiunta atmosferica]: Un cavaliere, da vivo, si sarebbe fermato per contare i nemici prima di colpire. Questo non conta più niente.*
 
-3. *Ultimate — A Moment of Himself:*
+3. *Ultimate — Un Momento di Sé (A Moment of Himself):*
    > Per un solo battito, Sarlamir si ferma. La lama trema a mezz'aria, e sotto l'elmo qualcosa che potrebbe essere stato un uomo sembra guardare le proprie mani.
    >
    > *[Aggiunta atmosferica]: Poi urla — non di rabbia, ma di qualcun altro che riprende il controllo — e la lama scende nella pietra.*
 
 *Ordine consigliato: Opener al primo round (stabilisce che il fuoco della stanza è parte del combattimento, non solo scenografia), Control quando il party lo circonda, Ultimate quando è insanguinato — è l'unico momento dell'intero scontro in cui il tavolo intravede l'uomo sotto la maledizione, un attimo prima che la sua sconfitta liberi entrambi.*
 
-**[Correzione]** Lo Skeletal Knight ufficiale su cui è basato Sarlamir è **CR 7** (2.900 XP), non CR6, con **WIS +5** ai tiri salvezza (non +3) e un'abilità distintiva — **Enervating Blade** — che qui mancava del tutto: l'ho aggiunta alla Flaming Sword. Numeri corretti sopra; design delle Villain Actions e testo invariati.
+**[Correzione]** Lo Cavaliere scheletrico (*Skeletal Knight*) ufficiale su cui è basato Sarlamir è **CR 7** (2.900 XP), non CR6, con **WIS +5** ai tiri salvezza (non +3) e un'abilità distintiva — **Enervating Blade** — che qui mancava del tutto: l'ho aggiunta alla Flaming Sword. Numeri corretti sopra; design delle Villain Actions e testo invariati.
 
-**Nota di continuità:** appena Sarlamir cade, annuncia l'avanzamento al **Livello 6** — trigger esplicito della fonte, indipendente dal conteggio XP. Nessuna modifica narrativa: Sarlamir menziona comunque la Città dei Nomi Perduti e le Northern Wastes prima di svanire.
+**Nota di continuità:** appena Sarlamir cade, annuncia l'avanzamento al **Livello 6** — trigger esplicito della fonte, indipendente dal conteggio XP. Nessuna modifica narrativa: Sarlamir menziona comunque la Città dei Nomi Perduti e le Terre Desolate del Nord prima di svanire.
 
 ---
 
@@ -579,8 +579,8 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 | Guardiani del cortile | 2 Undead Soldier | 3 Undead Soldier | scala sul quinto giocatore |
 | **Caradoc** | CR8 ufficiale | Fase 1 leggera, Fase 2 **Villain Actions piene**, HP 75→150 (corretto da bozza iniziale ~CR5) | il vero nome-cardine della campagna dopo Kansaldi |
 | Catacombe (Wraith, Skeletal Horse) | invariati | invariati | già ben calibrati come minacce opzionali/placabili |
-| **Knight Sarlamir** | CR7 ufficiale (Skeletal Knight) | **Villain Actions piene**, HP 142→170, **Enervating Blade** aggiunta, WIS save +3→+5 corretto | vero boss finale, trigger del Livello 6 |
+| **Cavaliere Sarlamir** | CR7 ufficiale (Cavaliere scheletrico) | **Villain Actions piene**, HP 142→170, **Enervating Blade** aggiunta, WIS save +3→+5 corretto | vero boss finale, trigger del Livello 6 |
 
 ## Prossimi Passi
 
-Capitolo 5 (The Northern Wastes, Liv. 5→8) quando Fabio conferma — Lohezet come boss atteso.
+Capitolo 5 (Terre Desolate del Nord, Liv. 5→8) quando Fabio conferma — Lohezet come boss atteso.

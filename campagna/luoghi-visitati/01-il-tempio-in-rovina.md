@@ -18,4 +18,4 @@
 
 ## Note Aggiuntive
 
-È il momento in cui gli dèi tornano nel mondo di Krynn — non solo per chi era presente. *Fonte: DSotDQ Cap. 2, "Broken Silence".*
+È il momento in cui gli dèi tornano nel mondo di Krynn — non solo per chi era presente. *Fonte: DSotDQ Cap. 2, "Silenzio Infranto (Broken Silence)".*

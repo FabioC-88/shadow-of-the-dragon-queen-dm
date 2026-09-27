@@ -7,7 +7,7 @@
 
 ## Fazioni Antagoniste
 
-### Red Dragon Army
+### Armata dei Draghi Rossi
 
 | Campo | Valore |
 |-------|--------|
@@ -16,30 +16,30 @@
 | **Sede operativa** | Taman Busuk (est); avanzando verso Kalaman |
 | **Obiettivo** | Conquistare Kalaman e tutta Solamnia in nome di Takhisis |
 
-**Composizione:** Draconiani (truppe d'élite), umani, goblin, hobgoblin, ogre, draghi cromati. Guidati da Dragon Highlord Verminaard; sul fronte di Solamnia comanda Dragon Highmaster **Kansaldi Fire-Eyes**.
+**Composizione:** Draconiani (truppe d'élite), umani, goblin, hobgoblin, ogre, draghi cromati. Guidati da Signore dei Draghi Verminaard; sul fronte di Solamnia comanda Gran Maestra dei Draghi **Kansaldi Fire-Eyes**.
 
 **Comandi principali:**
-- **Kansaldi Fire-Eyes** — Highmaster, comandante dell'offensiva su Kalaman
-- **Lohezet** — Mago di magia nera, ricerca l'arma perduta nel Northern Wastes
+- **Kansaldi Fire-Eyes** — Gran Maestra, comandante dell'offensiva su Kalaman
+- **Lohezet** — Mago di magia nera, ricerca l'arma perduta nelle Terre Desolate del Nord
 - **Belephaion** — Prete di Takhisis, consigliere militare di Kansaldi
 - **Red Ruin** — Asso dei dragonnel riders
 
-**Nota DM:** Lord Soth non è tecnicamente nella Dragon Army — coopera su ordine della Dragon Queen ma ha la propria agenda. Trattarlo come entità separata.
+**Nota DM:** Lord Soth non è tecnicamente nell'Armata dei Draghi — coopera su ordine della Regina dei Draghi ma ha la propria agenda. Trattarlo come entità separata.
 
-**Agente Infiltrato (segreto):** **Ser Maelis** — cavaliere di rango minore, formalmente sotto il comando di Kansaldi come tutti gli altri. **[NOTA DM — riservata]** La sua vera fedeltà appartiene a un potere che la Dragon Army stessa non conosce; usa l'esercito come copertura per raccogliere segreti di guerra. Incontrato per la prima volta in Sessione 09 (scena opzionale), riappare in Sessione 13 (indizio) e Sessione 16 (rivelazione parziale/scomparsa). Fa parte di un filo narrativo nascosto che attraversa più campagne del DM — vedi `fonti/campagna/filo-narrativo-multiverso.md`. Non nominare mai la sua vera affiliazione ai giocatori.
+**Agente Infiltrato (segreto):** **Ser Maelis** — cavaliere di rango minore, formalmente sotto il comando di Kansaldi come tutti gli altri. **[NOTA DM — riservata]** La sua vera fedeltà appartiene a un potere che l'Armata dei Draghi stessa non conosce; usa l'esercito come copertura per raccogliere segreti di guerra. Incontrato per la prima volta in Sessione 09 (scena opzionale), riappare in Sessione 13 (indizio) e Sessione 16 (rivelazione parziale/scomparsa). Fa parte di un filo narrativo nascosto che attraversa più campagne del DM — vedi `fonti/campagna/filo-narrativo-multiverso.md`. Non nominare mai la sua vera affiliazione ai giocatori.
 
 ---
 
 ## Fazioni Alleate
 
-### Knights of Solamnia
+### Cavalieri di Solamnia
 
 | Campo | Valore |
 |-------|--------|
 | **Posizione verso il party** | Amichevole (se i PG non sono già cavalieri) / Alleata |
 | **PNG di contatto** | **Becklin Uth Viharin** — primo e principale |
 | **Sede operativa** | Thornwall Keep (Vogler, Cap 3); poi Kalaman |
-| **Obiettivo** | Difendere Solamnia dall'invasione Dragon Army |
+| **Obiettivo** | Difendere Solamnia dall'invasione dell'Armata dei Draghi |
 
 **Stile operativo:** I Cavalieri di Solamnia seguono un rigido codice d'onore (Misura — la misura delle parole è nei fatti). Preferiscono la difesa diretta all'inganno. Possono essere rigidi ma sono affidabili.
 
@@ -47,7 +47,7 @@
 - **Becklin Uth Viharin** — Cavaliere della Corona, stazionata a Vogler; vecchia amica di Ispin Greenshield
 - **Darrett Highwater** — Scudiero di Becklin; ambizioso, giovane, fedele al party nel tempo
 
-**Background:** I Knights of Solamnia erano alleati dell'Impero di Istar prima del Cataclisma. Da allora, molti di Solamnia li diffidano come responsabili del disastro. Si trovano a difendere una nazione che non sempre li apprezza.
+**Background:** I Cavalieri di Solamnia erano alleati dell'Impero di Istar prima del Cataclisma. Da allora, molti di Solamnia li diffidano come responsabili del disastro. Si trovano a difendere una nazione che non sempre li apprezza.
 
 ---
 
@@ -56,21 +56,21 @@
 | Campo | Valore |
 |-------|--------|
 | **Posizione verso il party** | Neutrale → Alleata (se i PG dimostrano valore) |
-| **PNG di contatto** | **Marshal Nestra Vendri** (militare), **Governor Calof Miat** (civile) |
-| **Sede operativa** | Castle Kalaman |
+| **PNG di contatto** | **Maresciallo Nestra Vendri** (militare), **Governatore Calof Miat** (civile) |
+| **Sede operativa** | Castello di Kalaman |
 | **Obiettivo** | Difendere Kalaman e le terre di Solamnia orientale |
 
-**Stile operativo:** Milizia professionale. Marshal Vendri è pragmatica e misura i PG per ciò che fanno. Il Governor Miat è più cauto politicamente. I PG vengono probabilmente reclutati come agenti speciali o contractors.
+**Stile operativo:** Milizia professionale. La Maresciallo Vendri è pragmatica e misura i PG per ciò che fanno. Il Governatore Miat è più cauto politicamente. I PG vengono probabilmente reclutati come agenti speciali o contractors.
 
 **PNG chiave:**
-- **Marshal Nestra Vendri** — Comandante militare; pragmatica, esigente
-- **Governor Calof Miat** — Governatore civile; politico, cauto
+- **Maresciallo Nestra Vendri** — Comandante militare; pragmatica, esigente
+- **Governatore Calof Miat** — Governatore civile; politico, cauto
 
 ---
 
 ## Fazioni Neutrali
 
-### Mages of High Sorcery
+### Maghi dell'Alta Stregoneria
 
 | Campo | Valore |
 |-------|--------|
@@ -84,11 +84,11 @@
 - **Mantello Rosso** (Lunitari) — Magia neutrale; allineamento N
 - **Mantello Nero** (Nuitari) — Magia oscura; allineamento NM; non necessariamente nemici
 
-**Note:** Wyhan indossa il mantello nero ma è in pensione e non è nemica del party. Demelin (Cap 6) è una maga di mantello rosso, spirito intrappolato nelle rovine. **Lohezet** è anche mantello nero ma al servizio della Dragon Army.
+**Note:** Wyhan indossa il mantello nero ma è in pensione e non è nemica del party. Demelin (Cap 6) è una maga di mantello rosso, spirito intrappolato nelle rovine. **Lohezet** è anche mantello nero ma al servizio dell'Armata dei Draghi.
 
 ---
 
-### Ironclad Regiment (Mercenari)
+### Reggimento Ironclad (Mercenari)
 
 | Campo | Valore |
 |-------|--------|
@@ -101,11 +101,11 @@
 
 > ✅ **STATO AL 20/09/2026 — il tradimento è finito, la compagnia ha retto.** **Gragonis è morto sul campo di High Hill**, ucciso dal party. Cudgel è rientrata al campo da sola nella notte e ne è tornata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli: quelli comprati da Gragonis ma assenti alla rievocazione erano già stati trattenuti da Jeyev. Un prigioniero, **Svilnt Sunderlit**, è legato in una rimessa a Vogler.
 >
-> ⏸️ **Cosa succede adesso:** il party ha liberato le scogliere proprio perché Cudgel potesse uscire dal villaggio, richiamare la compagnia e schierarla **a nord di Vogler** contro l'Armata del Drago. È la prima cosa che accade in Sessione 03 — e la battaglia al fronte andrà male.
+> ⏸️ **Cosa succede adesso:** il party ha liberato le scogliere proprio perché Cudgel potesse uscire dal villaggio, richiamare la compagnia e schierarla **a nord di Vogler** contro l'Armata dei Draghi. È la prima cosa che accade in Sessione 03 — e la battaglia al fronte andrà male.
 >
 > ---
 >
-> ⚠️ **STORICO — STATO AL 13/09/2026: la compagnia si è spezzata a metà rievocazione.** Il luogotenente **Gragonis** (mezzo-ogre) è stato comprato da agenti del Red Dragon Army nel bosco a ovest del campo, e con quell'oro **ha pagato i mercenari**: l'intera parte della compagnia presente su High Hill sa cosa sta facendo, e ha lance con le punte vere. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad.
+> ⚠️ **STORICO — STATO AL 13/09/2026: la compagnia si è spezzata a metà rievocazione.** Il luogotenente **Gragonis** (mezzo-ogre) è stato comprato da agenti dell'Armata dei Draghi Rossi nel bosco a ovest del campo, e con quell'oro **ha pagato i mercenari**: l'intera parte della compagnia presente su High Hill sa cosa sta facendo, e ha lance con le punte vere. Il piano prevede anche di **uccidere Cudgel** e prendersi l'Ironclad.
 >
 > ~~**Il tradimento è in corso mentre scriviamo:** la Sessione 01 si è interrotta a metà dello scontro. Cudgel **non lo sa ancora** — lo scopre in Sessione 02, FASE 0.~~ → **Risolto il 20/09/2026, vedi sopra.**
 >
@@ -119,13 +119,13 @@
 
 | Campo | Valore |
 |-------|--------|
-| **Posizione verso il party** | Ostile (per ora coopera con Dragon Army) |
-| **PNG** | **Lord Soth** — Death Knight |
-| **Obiettivo** | Riconquistare Nightlund; vendicarsi sui Knights of Solamnia |
+| **Posizione verso il party** | Ostile (per ora coopera con l'Armata dei Draghi) |
+| **PNG** | **Lord Soth** — Cavaliere della morte (*Death Knight*) |
+| **Obiettivo** | Riconquistare Nightlund; vendicarsi sui Cavalieri di Solamnia |
 
-**NOTA CRITICA:** Lord Soth non è uno scontro pianificabile ai livelli tipici della campagna. Trattarlo come forza della natura — è lì, è terrificante, va aggirato/evitato, non battuto. I PG possono eventualmente rimuoverlo dalla servitù della Dragon Queen, ma non ucciderlo.
+**NOTA CRITICA:** Lord Soth non è uno scontro pianificabile ai livelli tipici della campagna. Trattarlo come forza della natura — è lì, è terrificante, va aggirato/evitato, non battuto. I PG possono eventualmente rimuoverlo dalla servitù della Regina dei Draghi, ma non ucciderlo.
 
-**Stato:** Coopera con Kansaldi solo perché la Dragon Queen glielo ordina. Ha la propria agenda. Comandava Nightlund (ex Knightlund) come lord decaduto.
+**Stato:** Coopera con Kansaldi solo perché la Regina dei Draghi glielo ordina. Ha la propria agenda. Comandava Nightlund (ex Knightlund) come lord decaduto.
 
 ---
 

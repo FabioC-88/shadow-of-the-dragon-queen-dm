@@ -1,6 +1,6 @@
-# Scontri Adattati — Capitolo 5: The Northern Wastes
+# Scontri Adattati — Capitolo 5: Terre Desolate del Nord
 
-**Copre:** l'intero capitolo (Liv. 6→8) — Wrecker's Edge, Blue Phoenix Shrine, Sunward Fortress, Wakenreth, Bluemaw Cave (opzionale), Camp Carrionclay, Wind's End
+**Copre:** l'intero capitolo (Liv. 6→8) — Wrecker's Edge, Santuario della Fenice Blu, Fortezza di Sunward, Wakenreth, Grotta di Bluemaw (opzionale), Camp Carrionclay, Wind's End
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!* ×5, niente regola Minion (iniziativa condivisa per i gruppi), boss Action-Oriented con Villain Actions
 **Party:** 5 personaggi · **Letalità target:** Deadly/Hard scalato su 5 PG, fascia bassa preferita — vedi [regole-opzionali.md](../regole-opzionali.md) (critici massimizzati e riposo lungo limitato ai Dadi Vita alzano la letalità reale oltre il budget CR nudo)
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
@@ -15,7 +15,7 @@
 
 - **2024 vs 2014 + 5 giocatori:** stesso ragionamento di `00-framework.md` — i PG colpiscono più forte/spesso del baseline 2014, e 5 iniziative "consumano" l'azione di un nemico solitario più in fretta di quanto la fonte preveda per un party di 4.
 - **Struttura del capitolo:** è un capitolo di viaggio/esplorazione a hub (mappa 5.1), non una sequenza lineare — la maggior parte delle location (B, G, H) è puramente sociale/esplorativa e non necessita adattamento meccanico. Solo gli scontri elencati sotto sono stati toccati.
-- **Boss del capitolo (decisi con Fabio):** **Virruza** (D5, Sunward Fortress) e **Akhviri** (I, Camp Carrionclay) ottengono il trattamento pieno con 3 Villain Actions — Virruza perché è l'unico vero scontro scriptato serio del capitolo, Akhviri come contingenza esplicita nel caso il party scelga di combatterla invece di fuggire (la fonte la scrive per essere evitata). Nessun altro boss: il capitolo non ha un climax narrativo proprio, è rimandato al Cap. 6.
+- **Boss del capitolo (decisi con Fabio):** **Virruza** (D5, Fortezza di Sunward) e **Akhviri** (I, Camp Carrionclay) ottengono il trattamento pieno con 3 Villain Actions — Virruza perché è l'unico vero scontro scriptato serio del capitolo, Akhviri come contingenza esplicita nel caso il party scelga di combatterla invece di fuggire (la fonte la scrive per essere evitata). Nessun altro boss: il capitolo non ha un climax narrativo proprio, è rimandato al Cap. 6.
 
 ---
 
@@ -42,7 +42,7 @@ Slam: +8 to hit, reach 5 ft — 2d8+5 bludgeoning.
 
 ---
 
-## C: Blue Phoenix Shrine — Guardiani del Tempio
+## C: Santuario della Fenice Blu — Guardiani del Tempio
 
 Due incontri distinti nel dungeon, entrambi invariati nella struttura (guardiani che si attivano per una trasgressione specifica) ma con numero adattato per 5 PG.
 
@@ -62,7 +62,7 @@ Constrict: +6 to hit, reach 10 ft (water only), one creature — 2d6+4 bludgeoni
 
 *3× CR3 = incontro Hard per 5 PG a livello 6-7 — coerente col budget, nessuna modifica necessaria oltre a confermarlo (la fonte già usa 3 invece del classico 2).*
 
-### Shrine Guardians
+### Guardiani del Santuario
 
 ```
 BLACK PUDDING (×3, era invariato — confermato adeguato per 5 PG)
@@ -81,7 +81,7 @@ Pseudopod: +8 to hit, reach 5 ft — 4d6+4 acid, and nonmagical armor worn corro
 
 ---
 
-## D: Sunward Fortress — Il Covo di Virruza
+## D: Fortezza di Sunward — Il Covo di Virruza
 
 ### D3 — Dracophage Subjects
 
@@ -98,11 +98,11 @@ Claw (replaces Dagger): +5 to hit, reach 5 ft — 1d4+3 piercing + 2d6 poison.
 
 ### Resting near Camp (evento condizionale)
 
-50% di possibilità **2× Red Slaad** (vedi statistiche sotto D5) attaccano se il party riposa vicino al campo/fortezza — invariato dalla fonte.
+50% di possibilità **2× Slaad rosso (*Red Slaad*)** (vedi statistiche sotto D5) attaccano se il party riposa vicino al campo/fortezza — invariato dalla fonte.
 
 ### D5 — Virruza (Boss — Action-Oriented)
 
-Il vero climax meccanico del capitolo: Virruza difende la Spawning Shard su un ponte/crepaccio infiammabile. Budget Hard/Deadly per un party di 5 al 6°-8° livello (CR cap ~6-7).
+Il vero climax meccanico del capitolo: Virruza difende la Scheggia Generatrice su un ponte/crepaccio infiammabile. Budget Hard/Deadly per un party di 5 al 6°-8° livello (CR cap ~6-7).
 
 ```
 RED SLAAD (accompagna Virruza, coperto da 5 slaad tadpole)
@@ -140,13 +140,13 @@ BONUS ACTION — Warty Lunge
 Moves up to half its speed toward a creature it can see, ignoring difficult terrain from
 the chasm's edge.
 
-REACTION — Death Throes (passiva, non un vero reaction: si attiva a 0 HP)
+REACTION — Spasmi di Morte (passiva, non un vero reaction: si attiva a 0 HP)
 Quando Virruza scende a 0 PF, esplode in una pozza d'acido. Ogni creatura entro 5 ft:
 DC 12 Dexterity save o è coperta d'acido (7 danni acido all'inizio di ogni turno finché
 non se lo pulisce di dosso con un'azione).
 
 VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ciascuna usabile una sola volta)
-1. Opener — Lo Shard Sussurra: Virruza tocca la Spawning Shard alle sue spalle. Una
+1. Opener — La Scheggia Sussurra: Virruza tocca la Scheggia Generatrice alle sue spalle. Una
    creatura a sua scelta entro 30 ft deve superare un TS su Costituzione CD 14 o essere
    Spaventata per 1 minuto (vede la propria pelle iniziare a incresparsi, come la sua).
 2. Control — Il Ponte Cede: Virruza colpisce il ponte/crepaccio sotto i piedi del party.
@@ -160,7 +160,7 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ciascuna usabile una
 
 **Testo da leggere (boss di capitolo — testo + Aggiunta atmosferica, legata al tema "corruzione/mutazione"):**
 
-1. *Opener — Lo Shard Sussurra:*
+1. *Opener — La Scheggia Sussurra:*
    > Virruza posa il palmo sulla gemma arancione dietro di sé, senza guardarla — non ne ha bisogno, la conosce a memoria ormai, come si conosce una ferita che non guarisce. Quando si volta di nuovo verso di voi, un pezzo di pelle gli si stacca dalla guancia e cade a terra, ancora umida.
    >
    > *[Aggiunta atmosferica]: Non sembra accorgersene. O forse è già successo troppe volte perché importi ancora.*
@@ -215,9 +215,9 @@ Rend: +8 to hit, reach 10 ft — 2d10+5 slashing plus 2d6 necrotic (target's hp 
 
 ---
 
-## F: Bluemaw Cave (opzionale)
+## F: Grotta di Bluemaw (opzionale)
 
-Non esplorato in dettaglio dalla fonte oltre a "crawling with monsters and draconians" — se il tavolo lo visita, riusa i blocchi Baaz/Kapak Draconian di `capitolo-03.md` più eventuali predatori dalla tabella "Wastes Predators". Nessun boss, nessuna Villain Action: è opzionale e secondario per definizione. `[TODO DM: dettagliare al bisogno se il party lo esplora davvero]`.
+Non esplorato in dettaglio dalla fonte oltre a "crawling with monsters and draconians" — se il tavolo lo visita, riusa i blocchi Baaz/Kapak Draconian di `capitolo-03.md` più eventuali predatori dalla tabella "Predatori delle Terre Desolate (*Wastes Predators*)". Nessun boss, nessuna Villain Action: è opzionale e secondario per definizione. `[TODO DM: dettagliare al bisogno se il party lo esplora davvero]`.
 
 ---
 
@@ -282,15 +282,15 @@ VILLAIN ACTIONS (una per round, dopo il turno di un nemico; ciascuna usabile una
 
 ---
 
-## J: Dread Wolf Cove (opzionale)
+## J: Cala del Lupo Terribile (opzionale)
 
 **1× Anhkolox** (blocco identico a quello di Wakenreth sopra) — Dalamar aiuta se presente. Opzionale, nessuna modifica oltre a riusare il blocco già scritto per Wakenreth.
 
 ---
 
-## K: City of Lost Names — Wind's End (Battaglia di Distrazione)
+## K: Città dei Nomi Perduti — Wind's End (Battaglia di Distrazione)
 
-Schermaglia su larga scala, non un duello — riusa **Dragon Army Soldier** (blocco in `capitolo-03.md`) e aggiungi:
+Schermaglia su larga scala, non un duello — riusa **Soldato dell'Armata dei Draghi (*Dragon Army Soldier*)** (blocco in `capitolo-03.md`) e aggiungi:
 
 ```
 DRAGON ARMY DRAGONNEL (wasteland dragonnel, mount + rider)
@@ -303,7 +303,7 @@ Bite: +6 to hit, reach 5 ft — 2d6+3 piercing.
 Tail: +6 to hit, reach 10 ft — 2d8+3 bludgeoning.
 ```
 
-Niente boss, niente Villain Actions — è una battaglia campale con eventi ambientali a Iniziativa 0 (tabella "Wind's End Battlefield Events", invariata dalla fonte). Gestisci i Dragon Army Soldier/Dragonnel con iniziativa condivisa per gruppo, niente Minion. Il capitolo si chiude sul cliffhanger verso il Cap. 6 — nessuna modifica narrativa, solo meccanica.
+Niente boss, niente Villain Actions — è una battaglia campale con eventi ambientali a Iniziativa 0 (tabella "Wind's End Battlefield Events", invariata dalla fonte). Gestisci i Soldato dell'Armata dei Draghi/Dragonnel con iniziativa condivisa per gruppo, niente Minion. Il capitolo si chiude sul cliffhanger verso il Cap. 6 — nessuna modifica narrativa, solo meccanica.
 
 ---
 
@@ -321,4 +321,4 @@ Niente boss, niente Villain Actions — è una battaglia campale con eventi ambi
 
 ## Prossimi Passi
 
-Capitolo 6 (City of Lost Names, Liv. 8) — Belephaion come boss vero, Lohezet trattamento minore, quando Fabio conferma.
+Capitolo 6 (Città dei Nomi Perduti, Liv. 8) — Belephaion come boss vero, Lohezet trattamento minore, quando Fabio conferma.

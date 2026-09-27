@@ -1,4 +1,4 @@
-**Scontri Adattati — Capitolo 3: When Home Burns**  
+**Scontri Adattati — Capitolo 3: Quando Brucia la Casa (*When Home Burns*)**  
 **Copre:** Sessione 01 (La Battaglia di High Hill, Liv. 2) + Sessione 02 (La Notte dopo High Hill, Liv. 3) + Sessione 03 (La Caduta di Vogler, Liv. 3→4)  
    
  **Framework di difficoltà:** vedi [00-framework.md — CR budget *Flee, Mortals!*, niente regola Minion, boss Action-Oriented con Villain Actions  
@@ -95,7 +95,7 @@ Questa sessione infila **fino a 6 scontri** in una sola giornata di gioco (ricog
  TRAITS  
  Controlled Fall. When the draconian falls and isn't incapacitated, it subtracts  
    up to 100 ft from the fall when calculating the fall's damage.  
- Death Throes. When reduced to 0 HP, its body turns to stone and releases a  
+ Spasmi di Morte (*Death Throes*). When reduced to 0 HP, its body turns to stone and releases a  
    petrifying gas. Each creature within 5 ft must succeed on a DC 11 Constitution  
    save or be restrained as it begins to turn to stone. The restrained creature  
    repeats the save at the end of its next turn: on a success the effect ends,  
@@ -137,7 +137,7 @@ DRAGON ARMY SOLDIER (×2) — DSotDQ p200, scheda ufficiale (verificata 2026-09-
    
 *Ha Multiattack e tattiche di squadra — resta comunque stat block classico anche a numeri alti (niente Minion, vedi framework).*  
 **I Quattro Soldati sulle Scogliere — invariato**  
-Lasciato deliberatamente "Facile": è il payoff cinematico di un buon piano (scalata furtiva o gnomeflinger), non il punto di difficoltà della sessione. **4× Dragon Army Soldier**, blocco standard sopra. Nessuna modifica.  
+Lasciato deliberatamente "Facile": è il payoff cinematico di un buon piano (scalata furtiva o gnomeflinger), non il punto di difficoltà della sessione. **4× Soldati dell'Armata dei Draghi (*Dragon Army Soldier*)**, blocco standard sopra. Nessuna modifica.  
 **Tabella Incontri dell'Invasione (d10) — adattata**  
 | | | |  
 |-|-|-|  
@@ -160,7 +160,7 @@ KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 + 2 aggiunte homebrew
  Languages Common, Draconic | CR 3 (XP 700; PB +2)  
    
  TRAITS  
- Death Throes. When reduced to 0 HP, it dissolves into acid that splashes on those  
+ Spasmi di Morte. When reduced to 0 HP, it dissolves into acid that splashes on those  
    around it. Each creature within 5 ft must succeed on a DC 12 Dexterity save or  
    be covered in acid for 1 minute, taking 7 (2d6) acid damage at the start of each  
    of its turns. A creature can use its action to scrape or wash the acid off  
@@ -189,7 +189,7 @@ KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 + 2 aggiunte homebrew
 *Consiglio: con 5 giocatori, gestisci 4-5 come "Assalto Diretto" o "Milizia di Vogler" più spesso del Kapak solitario — l'iniziativa condivisa per i Baaz Draconian (vedi nota Encounter 1) tiene alto il ritmo senza bisogno di Minion.*  
 **Il Boilerdrak e Fewmaster Gholcag — Boss Finale del Capitolo**  
 Questo è il vero climax del Capitolo 3: il momento in cui "casa brucia" smette di essere metafora. Si combatte al **3° livello** (il salto a 4° avviene solo dopo, all'evacuazione di Vogler a fine capitolo — non prima di Gholcag). Budget Hard/Extreme per un party di 5 al 3° livello (CR cap 4) — Gholcag sale a un equivalente ~CR 4 con pieno trattamento Action-Oriented; il Boilerdrak resta un  **oggetto/pericolo di scena** più che un secondo attaccante a tutti gli effetti, per non raddoppiare il carico di azioni da gestire.  
-BOILERDRAK — Siege Weapon (DSotDQ p.189, stat block ufficiale)  
+BOILERDRAK — Arma d'Assedio (*Siege Weapon*) (DSotDQ p.189, stat block ufficiale)  
  Large object | AC 15 | HP 100  
  Damage Immunities: poison, psychic  
    
@@ -223,7 +223,7 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
  strike against whoever hit her.  
    
  VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)  
-  1. Opener — To the Wharf!: Gholcag doesn't attack. She points her axe past the  
+  1. Opener — Al Molo (*To the Wharf*)!: Gholcag doesn't attack. She points her axe past the  
        characters, at the loaded boats, and barks one order in Draconic. Two effects,  
        both lasting for the rest of the fight:  
        - The FRAY advances 15 ft inward on every side (in Foundry: widen the band  
@@ -269,12 +269,12 @@ FEWMASTER GHOLCAG (Villain — Action-Oriented, ~CR 4)
 | Cavalieri Mercenari | 3 Guard + 3 Warhorse | 4 Guard + 3 Warhorse | scala il numero sul quinto giocatore; schede sostituite con quelle ufficiali MM'25 (la Guard ha solo la Lancia, non Crossbow+Shortsword) |   
 | Warhorse | Multiattack 2 Hooves, poi Trampling Charge con TS Forza CD 14 + attacco bonus | **scheda ufficiale MM'25 p373**: un solo Hooves 2d4+4, con la carica integrata nell'attacco (niente TS, niente azione bonus) | entrambe le bozze precedenti erano sbagliate, la prima in eccesso sul danno, la seconda sulla meccanica di carica |   
 | Gragonis | CR 1, statico, erroneamente indicato come mezzo-orco | ~CR 2, Bonus Action + Reaction (niente Villain Actions — non è il boss di capitolo); corretto in **mezzo-ogre** (fonte: recap ufficiali di sessione) | risolve l'economia delle azioni senza gonfiare i danni né dargli il trattamento riservato ai boss veri; la taglia Large nel blocco era già incoerente con "half-orc" |   
-| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Death Throes homebrew | **scheda ufficiale integrale DSotDQ p197** (verificata 2026-09-13): AC 14, HP 22, 2× Shortsword +3 (1d6+1), Controlled Fall, Draconic Devotion, Death Throes = gas pietrificante CD 11 Cos con secondo TS mancato = Pietrificato 1 minuto | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
-| Kapak (Assassino dal Cielo) | AC 13, HP 52, "fly" (volo), Bite+Dagger, Death Throes veleno | corretto sullo stat block ufficiale DSotDQ: AC 15, HP 39, climb 40 ft (non vola), 2 Dagger, Death Throes acido; mantenuta la Reaction homebrew "Glide Away" | il Kapak ufficiale non può volare, solo planare da una caduta — l'errore cambiava la tattica dell'incontro |   
+| Ricognizione/Invasione (Baaz) | Baaz Draconian con Claw+Javelin, AC 13, Spasmi di Morte homebrew | **scheda ufficiale integrale DSotDQ p197** (verificata 2026-09-13): AC 14, HP 22, 2× Shortsword +3 (1d6+1), Controlled Fall, Draconic Devotion, Spasmi di Morte = gas pietrificante CD 11 Cos con secondo TS mancato = Pietrificato 1 minuto | fedeltà alla fonte — niente regola Minion resta valida, cambia solo l'accuratezza del blocco |   
+| Kapak (Assassino dal Cielo) | AC 13, HP 52, "fly" (volo), Bite+Dagger, Spasmi di Morte veleno | corretto sullo stat block ufficiale DSotDQ: AC 15, HP 39, climb 40 ft (non vola), 2 Dagger, Spasmi di Morte acido; mantenuta la Reaction homebrew "Glide Away" | il Kapak ufficiale non può volare, solo planare da una caduta — l'errore cambiava la tattica dell'incontro |   
 | Boilerdrak | stat block errato in una bozza precedente | corretto sullo stat block ufficiale (DSotDQ p.189: oggetto Large, AC 15, HP 100) + opzione di sabotaggio | fedeltà alla fonte, oltre a varietà tattica |   
-| Dragon Army Soldier | Spear+Javelin, AC 16, trait homebrew "Dragon Army Tactics"; poi una bozza con HP 32 | **scheda ufficiale DSotDQ p200** (verificata 2026-09-13): AC 17, **HP 22 (4d8+4)**, Longsword/Javelin +1d4 fuoco, Draconic Devotion, Passive Perception 12 | il danno da fuoco è il dettaglio che giustifica il nome "Dragon Army"; gli HP erano gonfiati di un terzo |   
+| Soldato dell'Armata dei Draghi | Spear+Javelin, AC 16, trait homebrew "Tattiche dell'Armata dei Draghi (*Dragon Army Tactics*)"; poi una bozza con HP 32 | **scheda ufficiale DSotDQ p200** (verificata 2026-09-13): AC 17, **HP 22 (4d8+4)**, Longsword/Javelin +1d4 fuoco, Draconic Devotion, Passive Perception 12 | il danno da fuoco è il dettaglio che giustifica il nome "Armata dei Draghi"; gli HP erano gonfiati di un terzo |   
 | Fewmaster Gholcag | CR 2, statica; AC 15 | ~CR 4, Villain Actions + Bonus Action + Reaction; AC corretta a 14 (fonte: "usa il blocco Ogre, scale mail, AC 14") | vero boss di capitolo, deve reggere 5 round contro 5 PG — il resto del redesign (HP/azioni) resta intenzionale |   
 | Gholcag — Villain Action 1 | *At My Command*: faceva sparare il Boilerdrak | **Al Molo!**: la Mischia avanza di 4,5 m e resta lì, più la barca da liberare | la vecchia dipendeva da un equipaggio già morto quando Gholcag entra in scena, e da un oggetto da 100 PF che il party può distruggere. La nuova si appoggia solo al suo corpo e alla Mischia, che per regola non può essere danneggiata |   
    
 **Prossimi Passi**  
-Capitolo 4 (Shadow of War, Liv. 4→6) — vedi [capitolo-04.md.](capitolo-04.md "capitolo-04.md")  
+Capitolo 4 (L'Ombra della Guerra (*Shadow of War*), Liv. 4→6) — vedi [capitolo-04.md.](capitolo-04.md "capitolo-04.md")  

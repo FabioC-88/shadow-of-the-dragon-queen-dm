@@ -64,10 +64,27 @@ I testi marcati come `[BOXED TEXT]` (o già in blockquote `>`) sono i **read-alo
 #### Le regole dei testi da leggere
 Valgono le quattro regole di `CLAUDE.md` (dire la cosa una volta sola · descrivere senza spiegare il significato · non decidere l'azione del giocatore · persona coerente, nel dubbio **voi**). Il catalogo dei pattern da evitare, con esempi reali, è in `ai/agents/09-read-aloud-reviewer.agent.md`: leggilo prima di scrivere. L'Agente 9 rilegge comunque tutto alla fine, ma ogni riquadro che scrivi già pulito è un riquadro che non deve riscrivere.
 
-#### Terminologia D&D
-- I nomi propri di luoghi, PNG, organizzazioni e oggetti magici restano come li usano le sessioni precedenti (es. *Ironclad Regiment*, *Brass Crab*, *Castle Kalaman*, *Marshal Vendri*): controlla lì prima di tradurre un nome.
+#### Terminologia — `campagna/glossario.md`
+**Prima di tradurre, apri `campagna/glossario.md` e usalo per ogni termine che contiene.** È la fonte unica: vince su come il termine compare nelle sessioni precedenti.
+- **Titoli, gradi e ruoli si traducono sempre:** *Maresciallo* Vendri, *Governatore* Miat, *Capitano* Hask, *Cavaliere* Jandin. Una parola inglese davanti a un nome italiano è un errore di traduzione, non un nome proprio.
+- **Luoghi:** si traduce la parte descrittiva (*Castello di Kalaman*, *Terre Desolate del Nord*, *Porta dei Mercanti*); restano in inglese solo i nomi propri e quelli già sentiti al tavolo, elencati nel glossario.
+- **Schede, sezioni del manuale, missioni e oggetti:** italiano, con l'inglese tra parentesi alla prima occorrenza nel file — *esploratore (*scout*)*. Mai la parentesi dentro un testo da leggere.
+- **Accordi:** l'*Armata dei Draghi* è femminile; se un termine cambia genere traducendolo, accorda participi e aggettivi.
+- **Termine nuovo, non presente nel glossario:** traducilo con le stesse regole e **aggiungilo al glossario** nella sezione giusta.
 - Le meccaniche di gioco (CD, stat, tiri) rimangono nel formato standard: `Caratteristica (Abilità) CD X`.
-- I nomi delle creature restano quelli ufficiali italiani se esistono, o l'originale inglese se non c'è traduzione consolidata (es. *baaz draconiano*, *boilerdrak*).
+
+#### Informazioni dei PNG: elenco **e** testo da recitare
+Quando il manuale fa dire a un PNG una serie di informazioni in elenco puntato (un rapporto, delle istruzioni, un'offerta, le risposte a domande prevedibili), **tieni l'elenco per il DM e scrivi subito dopo un testo da recitare**: le stesse informazioni in bocca al PNG, con la sua voce.
+
+```markdown
+**Da recitare** *(adatta alle domande del tavolo; l'elenco sopra resta il promemoria)*:
+> *"Lo stipendio si paga in anticipo: cinque monete d'oro a settimana, le ritirate oggi dal mio segretario. …"*
+```
+
+- Tutte le voci dell'elenco devono comparire nel testo; puoi riordinarle perché suonino come un discorso.
+- Frasi brevi, parlate. Un PNG non elenca: risponde, taglia corto, torna su ciò che gli preme.
+- Se un'informazione arriva solo su domanda, mettila in un secondo blockquote introdotto da *Se chiedono di…*.
+- Valgono tutte le regole dei testi da leggere (niente spiegazioni del sottotesto, niente azioni decise per i PG).
 
 #### Voci dei PNG
 Non inventare una voce: ricavala da come il PNG ha già parlato nelle sessioni precedenti (`campagna/sessioni/dm-notes-sessione-*.md`) e dalle note in `campagna/png-incontrati.md`. Se un PNG compare per la prima volta, resta vicino alle battute del manuale.

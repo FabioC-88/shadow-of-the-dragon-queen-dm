@@ -17,4 +17,4 @@
 
 ## Note Aggiuntive
 
-I baaz portavano una livrea nera e rossa. Nessuno nel party sa ancora cosa significhi. *Fonte: DSotDQ Cap. 2, "Scales of War".*
+I baaz portavano una livrea nera e rossa. Nessuno nel party sa ancora cosa significhi. *Fonte: DSotDQ Cap. 2, "Scaglie di Guerra (Scales of War)".*

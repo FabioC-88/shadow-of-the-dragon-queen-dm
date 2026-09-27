@@ -14,7 +14,7 @@
 - Lord Bakaris Uth Estide e Bakaris il Giovane (nobili solamnici, ostili)
 - Jeyev Veldrews (luogotenente dell'Ironclad, umano)
 - Than (gnomo armeggione, inventore dello gnomeflinger)
-- Una messaggera dell'Armata del Drago Rosso (araldo a cavallo)
+- Una messaggera dell'Armata dei Draghi Rossi (araldo a cavallo)
 
 ## Eventi Importanti
 
@@ -23,7 +23,7 @@
 - [S1] La rievocazione della Battaglia di High Hill è degenerata in una battaglia vera
 - [S2] Il villaggio ha saputo in una notte che gli dèi sono tornati: due membri del party hanno curato in pubblico fino al mattino
 - [S2] Il party ha scoperto un esercito accampato a poche miglia a nordovest, mandando in ricognizione un famiglio
-- [S2] Una messaggera in armatura nera e rossa si è presentata alla Porta del Fiume con un ultimatum: alloggiare i soldati dell'Armata del Drago entro sera, o morire. Nessuno poteva lasciare il villaggio
+- [S2] Una messaggera in armatura nera e rossa si è presentata alla Porta del Fiume con un ultimatum: alloggiare i soldati dell'Armata dei Draghi entro sera, o morire. Nessuno poteva lasciare il villaggio
 - [S2] Il villaggio ha deciso di non arrendersi e di prepararsi all'evacuazione lungo il Vingaard
 
 ## Note Aggiuntive

@@ -1,23 +1,23 @@
 # DM Notes — Sessione 07: Steel Springs e la Notte del Cavaliere Morto
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: Shadow of War, sezioni **"Battle at Steel Springs"** e **"The Lord's Arrival"** (righe 2771–3001)
-**Livello party:** 5 (invariato — vedi ⚠️ Nota pre-sessione: il salto al 6° livello avviene solo dopo la sconfitta di Knight Sarlamir, contenuto rimandato alla Sessione 08)
-**XP accumulati:** Ereditati dalla Sessione 06 (vedi `campagna/party.md`; include fino a ~4.900 XP di Wheelwatch se il forte è stato ripulito per intero, più il bottino). Questa sessione offre combattimenti più contenuti rispetto a Wheelwatch: 4 Dragon Army soldier a cavallo (50 XP cad. = 200 XP) + 2 Undead soldier/cavalieri non-morti (700 XP cad. = 1.400 XP) + Caradoc, forma duplice cavaliere posseduto/spirito (CR equivalente ~6, 2.300 XP) = **fino a ~3.900 XP** in questa sessione.
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: L'Ombra della Guerra (*Shadow of War*), sezioni **"Battle at Steel Springs"** e **"L'Arrivo del Signore (*The Lord's Arrival*)"** (righe 2771–3001)
+**Livello party:** 5 (invariato — vedi ⚠️ Nota pre-sessione: il salto al 6° livello avviene solo dopo la sconfitta del Cavaliere Sarlamir, contenuto rimandato alla Sessione 08)
+**XP accumulati:** Ereditati dalla Sessione 06 (vedi `campagna/party.md`; include fino a ~4.900 XP di Wheelwatch se il forte è stato ripulito per intero, più il bottino). Questa sessione offre combattimenti più contenuti rispetto a Wheelwatch: 4 Soldati dell'Armata dei Draghi (*Dragon Army soldier*) a cavallo (50 XP cad. = 200 XP) + 2 Soldati non morto (*Undead soldier*)/cavalieri non-morti (700 XP cad. = 1.400 XP) + Caradoc, forma duplice cavaliere posseduto/spirito (CR equivalente ~6, 2.300 XP) = **fino a ~3.900 XP** in questa sessione.
 **Obiettivo sessione:** Rispondere all'appello disperato di Darrett, difendere il ritiro delle truppe di Kalaman travolte a Steel Springs, tornare in una Kalaman che ha appena subito un colpo mortale — l'intero consiglio cittadino e il governatore Calof Miat massacrati da falsi Cavalieri di Solamnia — affrontare il primo agente diretto del vero nemico dietro l'attacco, e scoprire, nero su bianco, il nome che guiderà la campagna nei prossimi capitoli: **Lord Loren Soth**.
 **Durata stimata:** ~2h45m (7 fasi: 15 + 15 + 45 + 20 + 15 + 20 + 40 min)
-**Sessione precedente:** dm-notes-sessione-06.md — Cap. 4: Shadow of War, "Wheelwatch Outpost": riconquista del forte di confine, primo sivak draconian e primo dragonnel della campagna, Raven Uth Vogler nuova comandante dell'avamposto (righe 2615–2770)
+**Sessione precedente:** dm-notes-sessione-06.md — Cap. 4: L'Ombra della Guerra, "Avamposto di Wheelwatch": riconquista del forte di confine, primo draconiano sivak e primo dragonnel della campagna, Raven Uth Vogler nuova comandante dell'avamposto (righe 2615–2770)
 
-> ⚠️ **Nota pre-sessione:** Questa sessione copre **due sezioni consecutive e coese** della fonte — "Battle at Steel Springs" e "The Lord's Arrival" (righe 2771–3001) — per un totale di ~3.270 parole, in linea con il criterio di estensione dell'Agente 1 (fallback ~2.500–3.500 parole quando la sezione naturale supera la durata di una sessione). Il taglio si ferma **esattamente** all'ultima riga prima dell'intestazione "Raided Catacombs" (riga 3002 della fonte): *"Questo passaggio scende nelle catacombe sotto Castle Kalaman."* È una cesura di scena completa, non a metà di un incontro — il cliffhanger perfetto su cui chiudere il tavolo. La Sessione 08 coprirà per intero le Raided Catacombs (righe 3002–3190): sette stanze, lo scontro con Knight Sarlamir, e il salto al **6° livello** (riga 3176 della fonte). **Non anticipare il 6° livello in questa sessione: il party resta di Livello 5 per tutta la Sessione 07.**
+> ⚠️ **Nota pre-sessione:** Questa sessione copre **due sezioni consecutive e coese** della fonte — "Battle at Steel Springs" e "L'Arrivo del Signore" (righe 2771–3001) — per un totale di ~3.270 parole, in linea con il criterio di estensione dell'Agente 1 (fallback ~2.500–3.500 parole quando la sezione naturale supera la durata di una sessione). Il taglio si ferma **esattamente** all'ultima riga prima dell'intestazione "Catacombe Saccheggiate" (riga 3002 della fonte): *"Questo passaggio scende nelle catacombe sotto il Castello di Kalaman."* È una cesura di scena completa, non a metà di un incontro — il cliffhanger perfetto su cui chiudere il tavolo. La Sessione 08 coprirà per intero le Catacombe Saccheggiate (righe 3002–3190): sette stanze, lo scontro con il Cavaliere Sarlamir, e il salto al **6° livello** (riga 3176 della fonte). **Non anticipare il 6° livello in questa sessione: il party resta di Livello 5 per tutta la Sessione 07.**
 >
-> Verificare al tavolo, come thread aperti dalla S06: il destino di **Becklin** (se ancora aperto), il rapporto con **Cudgel** e l'Ironclad Regiment, il **fargab** di Rookledust, il **rotolo di Wyhan**. Questa sessione non offre un vero momento di tempo libero per riprenderli (l'intera sessione, dalla nota di Darrett al ritrovamento dei cadaveri, è pensata per correre senza pause — vedi "The Lord's Arrival": *"there is no timeline... but encourage a sense of urgency"*) — se un giocatore li tira in ballo, un accenno di una riga durante la cavalcata verso Kalaman (Fase 5) basta e avanza; non è il momento per svilupparli.
+> Verificare al tavolo, come thread aperti dalla S06: il destino di **Becklin** (se ancora aperto), il rapporto con **Cudgel** e il Reggimento Ironclad, il **fargab** di Rookledust, il **rotolo di Wyhan**. Questa sessione non offre un vero momento di tempo libero per riprenderli (l'intera sessione, dalla nota di Darrett al ritrovamento dei cadaveri, è pensata per correre senza pause — vedi "L'Arrivo del Signore": *"there is no timeline... but encourage a sense of urgency"*) — se un giocatore li tira in ballo, un accenno di una riga durante la cavalcata verso Kalaman (Fase 5) basta e avanza; non è il momento per svilupparli.
 >
-> **Punto di possibile sospensione:** se il tempo stringe, questa sessione ha una cesura naturale anche a metà, alla fine della Fase 4 ("Il Ritiro dei Comandanti" — i personaggi si accampano per la notte con i sopravvissuti di Steel Springs). È un punto di pausa dignitoso se il tavolo deve fermarsi lì; la Fase 5 in poi ("The Lord's Arrival") può allora aprire la Sessione 08 prima delle Raided Catacombs. Ma se il tempo lo consente, gioca fino in fondo alla Fase 7: il cliffhanger sulle scale verso le catacombe è il vero cuore drammatico di questa preparazione, ed è pensato per lasciare il tavolo con il fiato sospeso.
+> **Punto di possibile sospensione:** se il tempo stringe, questa sessione ha una cesura naturale anche a metà, alla fine della Fase 4 ("Il Ritiro dei Comandanti" — i personaggi si accampano per la notte con i sopravvissuti di Steel Springs). È un punto di pausa dignitoso se il tavolo deve fermarsi lì; la Fase 5 in poi ("L'Arrivo del Signore") può allora aprire la Sessione 08 prima delle Catacombe Saccheggiate. Ma se il tempo lo consente, gioca fino in fondo alla Fase 7: il cliffhanger sulle scale verso le catacombe è il vero cuore drammatico di questa preparazione, ed è pensato per lasciare il tavolo con il fiato sospeso.
 
 ---
 
 > **Nota organizzativa per il DM:** dopo l'infiltrazione tattica di Wheelwatch (S06), questa sessione cambia completamente registro **due volte**. La prima metà (Fasi 1–4) è un'**azione di soccorso disperata**: niente piani, niente ricognizioni — solo una corsa contro il tempo per salvare un ritiro che sta andando storto. La seconda metà (Fasi 5–7) è **puro horror gotico**: un castello troppo silenzioso, un massacro già consumato, un nemico che indossa il volto di un alleato e si diverte a giocare con le vittime superstiti. Tre cose da tenere a mente:
 > 1. **Bakaris Uth Estide torna in scena — e questa volta le sue ambizioni hanno un costo reale.** Il nobile manipolatore incontrato a Vogler nel Cap. 3 (vedi `campagna/png-incontrati.md`) è lo stesso "Lord Bakaris" che qui spinge Kalaman a un attacco avventato, di fatto causando il disastro di Steel Springs con la propria arroganza politica. Se un PG lo ha già valutato con sospetto in Cap. 3, questa sessione conferma quel giudizio — con gli interessi. Suo figlio, **Bakaris il Giovane**, è disperso e creduto morto nel ritiro: gioca Lord Bakaris sotto shock, non come villain sconfitto, ma come uomo che sta cominciando a pagare per le proprie scelte. Non redimerlo troppo in fretta, ma non renderlo nemmeno un fantoccio comico.
-> 2. **Il governatore muore. Tutto il consiglio muore.** Governor Calof Miat (PNG conosciuto dal party dal Cap. 4, contrappeso politico di Vendri) e l'intero consiglio cittadino vengono trovati massacrati in questa sessione. È un evento enorme per la politica interna di Kalaman: da qui in avanti, l'autorità civile è in bilico, e Marshal Vendri (assente in questa sessione, ancora in marcia da ovest) potrebbe dover assumere un'autorità più diretta al suo ritorno. Non serve improvvisare le conseguenze politiche adesso — bastano le facce sconvolte delle guardie e il silenzio della città — ma tienilo a mente per le sessioni future.
+> 2. **Il governatore muore. Tutto il consiglio muore.** Governatore Calof Miat (PNG conosciuto dal party dal Cap. 4, contrappeso politico di Vendri) e l'intero consiglio cittadino vengono trovati massacrati in questa sessione. È un evento enorme per la politica interna di Kalaman: da qui in avanti, l'autorità civile è in bilico, e Maresciallo Vendri (assente in questa sessione, ancora in marcia da ovest) potrebbe dover assumere un'autorità più diretta al suo ritorno. Non serve improvvisare le conseguenze politiche adesso — bastano le facce sconvolte delle guardie e il silenzio della città — ma tienilo a mente per le sessioni future.
 > 3. **Caradoc non è un mostro — è un attore.** Gioca la sua scena con leggerezza macabra, quasi da commedia nera: si diverte, sfotte i morti, minimizza la strage con humour nero mentre i personaggi assorbono l'orrore della stanza. È il primo vero "villain con dialogo" della campagna — non un draconiano bestiale, ma un'intelligenza crudele e vanitosa che gioca con loro. Quando infine rivela il nome del suo signore — **Lord Loren Soth** — lascialo cadere con tutto il peso che merita: è il nome che guiderà l'intera campagna da qui al Capitolo 7.
 
 ---
@@ -28,9 +28,9 @@
 
 > Wheelwatch è alle vostre spalle: i cancelli riconquistati, Raven al comando di un avamposto che è di nuovo suo, Lanal ed Elgo in salvo. Il viaggio di ritorno verso Kalaman è tranquillo — fin troppo, forse, dopo giorni di corni d'allarme e sangue di draconiano.
 >
-> Il personaggio con la Saggezza (Percezione) passiva più alta nota qualcosa che gli altri non colgono subito: Castle Kalaman è **insolitamente silenzioso**. Non ci sono le solite grida dei sergenti nei cortili, non i richiami delle sentinelle sui bastioni. Solo un silenzio che sembra trattenere il fiato.
+> Il personaggio con la Saggezza (Percezione) passiva più alta nota qualcosa che gli altri non colgono subito: Castello di Kalaman è **insolitamente silenzioso**. Non ci sono le solite grida dei sergenti nei cortili, non i richiami delle sentinelle sui bastioni. Solo un silenzio che sembra trattenere il fiato.
 >
-> Quando riferite a Marshal Vendri del successo di Wheelwatch, non trovate lei ad accogliervi — ma un suo aiutante, pallido, che vi guarda come se aveste bussato alla porta sbagliata nel momento sbagliato.
+> Quando riferite alla Maresciallo Vendri del successo di Wheelwatch, non trovate lei ad accogliervi — ma un suo aiutante, pallido, che vi guarda come se aveste bussato alla porta sbagliata nel momento sbagliato.
 
 *[NOTA DM — riservata] Questo è un bridge diretto: la sessione presume che i personaggi tornino a Kalaman subito dopo Wheelwatch (coerente con "The trip from Wheelwatch back to Kalaman is uneventful"). Se il tavolo ha usato il tempo libero di fine S06 per altro (bere con Cudgel, seguire il rotolo di Wyhan, ecc.), comprimi quelle scene in una battuta di passaggio prima di questo setup — l'importante è arrivare al castello silenzioso con lo stacco netto tra "la vittoria di ieri" e "qualcosa non va oggi".*
 
@@ -48,11 +48,11 @@ L'aiutante di Vendri non ha buone notizie. Mentre i personaggi erano impegnati a
 
 L'aiutante riferisce quanto segue:
 
-- Dopo la partenza dei personaggi da Kalaman, il consiglio cittadino ha ricevuto notizia che un contingente di truppe del Dragon Army si era staccato dal grosso delle forze nemiche.
+- Dopo la partenza dei personaggi da Kalaman, il consiglio cittadino ha ricevuto notizia che un contingente di truppe dell'Armata dei Draghi si era staccato dal grosso delle forze nemiche.
 - Stanchi delle mosse caute, alcuni membri della leadership di Kalaman — spinti da **Lord Bakaris** — hanno preteso che l'esercito cittadino cogliesse l'occasione per una vittoria netta.
-- Con Marshal Vendri lontana, ancora alla guida delle truppe più a ovest, è stato il **Governatore Miat** ad approvare l'azione.
+- Con la Maresciallo Vendri lontana, ancora alla guida delle truppe più a ovest, è stato il **Governatore Miat** ad approvare l'azione.
 - **Lord Bakaris** e suo figlio guidano l'attacco. **Darrett presta servizio sotto il loro comando.**
-- Il piano è tendere un'imboscata al Red Dragon Army presso un guado dell'Inkwater chiamato **Steel Springs**, trenta miglia a ovest di Kalaman.
+- Il piano è tendere un'imboscata all'Armata dei Draghi Rossi presso un guado dell'Inkwater chiamato **Steel Springs**, trenta miglia a ovest di Kalaman.
 
 L'aiutante non sa altro — ma prima che i personaggi se ne vadano, gli scivola in mano, con discrezione, un biglietto sigillato firmato da Darrett.
 
@@ -68,8 +68,8 @@ L'aiutante non sa altro — ma prima che i personaggi se ne vadano, gli scivola 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Marshal Nestra Vendri** *(assente, citata)* — Attitudine: +3 Alleato (invariata). È lontana, non per sua scelta: la sua assenza è ciò che ha permesso a Bakaris di far approvare l'attacco.
-- **Governor Calof Miat** *(assente, citato)* — Attitudine: 0 Neutrale (invariata, per ora). Ha approvato l'attacco sotto pressione politica — un errore che pagherà nel giro di questa stessa sessione (vedi Fase 6).
+- **Maresciallo Nestra Vendri** *(assente, citata)* — Attitudine: +3 Alleato (invariata). È lontana, non per sua scelta: la sua assenza è ciò che ha permesso a Bakaris di far approvare l'attacco.
+- **Governatore Calof Miat** *(assente, citato)* — Attitudine: 0 Neutrale (invariata, per ora). Ha approvato l'attacco sotto pressione politica — un errore che pagherà nel giro di questa stessa sessione (vedi Fase 6).
 - **Darrett Highwater** *(assente, tramite biglietto)* — Attitudine: +3 Alleato (invariata). Per la prima volta scrive ai personaggi come qualcuno che chiede aiuto, non come qualcuno che lo offre — un capovolgimento significativo della loro dinamica.
 
 ---
@@ -86,12 +86,12 @@ Se i personaggi hanno mezzi per muoversi più in fretta (cavalcature, magia), la
 
 ### Testo — L'Arrivo a Steel Springs [BT-02]
 
-> Quando il ruscello chiamato Inkwater appare alla vista, del fumo si alza oltre la linea degli alberi al di là. Soldati feriti di Kalaman barcollano fuori dal bosco, dirigendosi verso un guado stretto proprio nella vostra direzione. Soldati del Dragon Army li inseguono a cavallo.
+> Quando il ruscello chiamato Inkwater appare alla vista, del fumo si alza oltre la linea degli alberi al di là. Soldati feriti di Kalaman barcollano fuori dal bosco, dirigendosi verso un guado stretto proprio nella vostra direzione. Soldati dell'Armata dei Draghi li inseguono a cavallo.
 
 *[Aggiunta atmosferica]:*
 > *Il fumo non ha l'odore pulito di un falò. È acre, misto a qualcos'altro che nessuno di voi vuole nominare ad alta voce. Il grido di un cavallo, in lontananza, si spegne di colpo.*
 
-*[NOTA DM — riservata] La fonte presenta un'alternativa "con Mass Combat" (rimanda al supplemento **Dragonlance: Warriors of Krynn**, Scenario 4) non disponibile in questo estratto. Questa preparazione segue quindi il percorso **"senza Mass Combat"** — la sezione "Retreat from Steel Springs" qui sotto — che è il default corretto per questa campagna. Nota anche che il bonus "Saviors of Steel Springs" (vantaggio ai tiri di Inganno/Persuasione sui militari di Kalaman) è testualmente legato allo scenario di Mass Combat: se vuoi comunque premiare un successo netto in questa versione dello scontro, considera di concedere un beneficio narrativo equivalente a tua discrezione — è un buon modo per non perdere la ricompensa tematica anche senza il minigioco.*
+*[NOTA DM — riservata] La fonte presenta un'alternativa "con Mass Combat" (rimanda al supplemento **Dragonlance: Warriors of Krynn**, Scenario 4) non disponibile in questo estratto. Questa preparazione segue quindi il percorso **"senza Mass Combat"** — la sezione "Retreat from Steel Springs" qui sotto — che è il default corretto per questa campagna. Nota anche che il bonus "Salvatori di Steel Springs (Saviors of Steel Springs)" (vantaggio ai tiri di Inganno/Persuasione sui militari di Kalaman) è testualmente legato allo scenario di Mass Combat: se vuoi comunque premiare un successo netto in questa versione dello scontro, considera di concedere un beneficio narrativo equivalente a tua discrezione — è un buon modo per non perdere la ricompensa tematica anche senza il minigioco.*
 
 ---
 
@@ -105,11 +105,11 @@ Questo è uno scontro con un obiettivo diverso dal solito: **non vincere una bat
 
 ### La Scena
 
-Sei **Kalaman soldier** feriti (vedi statistiche sotto — *già feriti: 8 PF attuali ciascuno, invece del valore pieno di 11*) fuggono verso sud dalla battaglia più a monte lungo la strada. Hanno raggiunto l'isolotto al centro della mappa. Quattro **Dragon Army soldier** (vedi statistiche sotto) in sella a **cavalli da guerra** galoppano in inseguimento lungo la strada a nord della mappa.
+Sei **Soldato di Kalaman (*Kalaman soldier*)** feriti (vedi statistiche sotto — *già feriti: 8 PF attuali ciascuno, invece del valore pieno di 11*) fuggono verso sud dalla battaglia più a monte lungo la strada. Hanno raggiunto l'isolotto al centro della mappa. Quattro **Soldato dell'Armata dei Draghi** (vedi statistiche sotto) in sella a **cavalli da guerra** galoppano in inseguimento lungo la strada a nord della mappa.
 
-I soldati del Dragon Army si spingono fino al bordo del ruscello settentrionale, scagliando lance contro i Kalaman soldier in ritirata. Se attaccati, spostano l'attenzione sui personaggi.
+I soldati dell'Armata dei Draghi si spingono fino al bordo del ruscello settentrionale, scagliando lance contro i Soldato di Kalaman in ritirata. Se attaccati, spostano l'attenzione sui personaggi.
 
-I Kalaman soldier continuano la ritirata verso sud invece di ingaggiare combattimento: si muovono solo **4,5 metri a round** (vedi "Eventi del Campo di Battaglia"), restando in gruppo e sostenendo i feriti tra loro.
+I Soldato di Kalaman continuano la ritirata verso sud invece di ingaggiare combattimento: si muovono solo **4,5 metri a round** (vedi "Eventi del Campo di Battaglia"), restando in gruppo e sostenendo i feriti tra loro.
 
 Una volta sconfitte tutte le forze nemiche, procedi con la Fase 4 — "Il Ritiro dei Comandanti".
 
@@ -121,23 +121,23 @@ Una volta sconfitte tutte le forze nemiche, procedi con la Fase 4 — "Il Ritiro
 
 ### Eventi del Campo di Battaglia — Steel Springs
 
-Durante questo scontro, finché restano Dragon Army soldier sul campo, tira sulla tabella seguente ogni round al conteggio di iniziativa 0. Considera di tirare anche se un personaggio entra nella Mischia o se un Kalaman soldier viene ucciso. Dopo aver tirato, i Kalaman soldier feriti si spostano di 4,5 metri verso sud lungo la strada, a meno che l'evento non specifichi altrimenti.
+Durante questo scontro, finché restano Soldato dell'Armata dei Draghi sul campo, tira sulla tabella seguente ogni round al conteggio di iniziativa 0. Considera di tirare anche se un personaggio entra nella Mischia o se un Soldato di Kalaman viene ucciso. Dopo aver tirato, i Soldato di Kalaman feriti si spostano di 4,5 metri verso sud lungo la strada, a meno che l'evento non specifichi altrimenti.
 
 | d8 | Evento |
 |:---:|--------|
-| 1–3 | Uno dei **Kalaman soldier** feriti collassa. Quel soldato e gli altri Kalaman soldier entro 3 metri da lui non si muovono questo round. |
+| 1–3 | Uno dei **Soldato di Kalaman** feriti collassa. Quel soldato e gli altri Soldato di Kalaman entro 3 metri da lui non si muovono questo round. |
 | 4–5 | Frecce arcuano sopra gli alberi a nord. Un personaggio scelto a caso e ogni creatura entro 3 metri da lui devono superare un **TS Destrezza CD 14** o subire 10 (3d6) danni perforanti. |
-| 6 | Un altro **Kalaman soldier** ferito (8 PF) appare adiacente alla Mischia più vicina a un Dragon Army soldier scelto a caso. Questo soldato ferito si muove solo 4,5 metri a round e cerca di ritirarsi a sud come gli altri. |
-| 7 | Un dragonnel sorvola la scena, lasciando cadere un Kalaman soldier urlante accanto a un personaggio scelto a caso. Il soldato muore all'impatto. Questo evento è inquietante ma non ha altri effetti. |
-| 8 | Un **Dragon Army soldier** ostile in sella a un **cavallo da guerra** appare in uno spazio adiacente alla Mischia più vicino a un personaggio scelto a caso. Questo evento accade una sola volta durante la battaglia; se viene ritirato di nuovo, tira di nuovo. |
+| 6 | Un altro **Soldato di Kalaman** ferito (8 PF) appare adiacente alla Mischia più vicina a un Soldato dell'Armata dei Draghi scelto a caso. Questo soldato ferito si muove solo 4,5 metri a round e cerca di ritirarsi a sud come gli altri. |
+| 7 | Un dragonnel sorvola la scena, lasciando cadere un Soldato di Kalaman urlante accanto a un personaggio scelto a caso. Il soldato muore all'impatto. Questo evento è inquietante ma non ha altri effetti. |
+| 8 | Un **Soldato dell'Armata dei Draghi** ostile in sella a un **cavallo da guerra** appare in uno spazio adiacente alla Mischia più vicino a un personaggio scelto a caso. Questo evento accade una sola volta durante la battaglia; se viene ritirato di nuovo, tira di nuovo. |
 
 *[NOTA DM — riservata] Questa tabella è il vero motore drammatico della battaglia: usala per tenere alta la tensione anche se il combattimento diretto contro i quattro cavalieri risulta gestibile per un party di Livello 5. L'evento 7 (il dragonnel che lascia cadere un cadavere) è puro impatto emotivo — non richiede tiri, serve solo a far capire ai giocatori quanto la battaglia a monte stia andando peggio di quanto vedano. Non esagerare con i tiri sulla tabella se il combattimento si sta già risolvendo in fretta: due o tre eventi bastano a dare il ritmo voluto senza allungare inutilmente la fase.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Kalaman soldier (feriti, alleati)** — Attitudine: +1 Cordiale (impliciti, non nominati). Troppo esausti per fare altro che ringraziare con un cenno del capo, se sopravvivono.
-- **Dragon Army soldier (a cavallo)** — Attitudine: -3 Ostile. Danno la caccia ai feriti senza pietà; si voltano contro i personaggi se attaccati.
+- **Soldato di Kalaman (feriti, alleati)** — Attitudine: +1 Cordiale (impliciti, non nominati). Troppo esausti per fare altro che ringraziare con un cenno del capo, se sopravvivono.
+- **Soldato dell'Armata dei Draghi (a cavallo)** — Attitudine: -3 Ostile. Danno la caccia ai feriti senza pietà; si voltano contro i personaggi se attaccati.
 
 ---
 
@@ -156,22 +156,22 @@ Dopo la battaglia, la fonte offre un momento di respiro carico di peso emotivo: 
 *[Aggiunta atmosferica]:*
 > *L'armatura di Darrett, di solito lucidata fino a specchiarsi, è coperta di polvere e di qualcosa di più scuro della polvere. Ma è ancora in sella. È ancora vivo. Per un istante, prima di ogni altra cosa, è l'unico dettaglio che conta.*
 
-Questo gruppo di dodici Kalaman soldier a cavallo include diversi comandanti che hanno distolto le forze del Dragon Army per permettere ai propri alleati di ritirarsi più a est. **Darrett cavalca con Lord Bakaris dietro di sé**, che condivide la sua stessa cavalcatura.
+Questo gruppo di dodici Soldato di Kalaman a cavallo include diversi comandanti che hanno distolto le forze dell'Armata dei Draghi per permettere ai propri alleati di ritirarsi più a est. **Darrett cavalca con Lord Bakaris dietro di sé**, che condivide la sua stessa cavalcatura.
 
-Darrett scorge i personaggi e racconta loro che le forze del Dragon Army hanno travolto le truppe di Kalaman e sono all'inseguimento. Li esorta a seguirlo verso un punto di raccolta a est. Se i personaggi vogliono comunque combattere il Dragon Army, Darrett ribadisce che centinaia di soldati nemici stanno arrivando e che le truppe ferite di Kalaman hanno bisogno del loro aiuto. **Lord Bakaris è visibilmente sotto shock e non parla durante la conversazione.**
+Darrett scorge i personaggi e racconta loro che le forze dell'Armata dei Draghi hanno travolto le truppe di Kalaman e sono all'inseguimento. Li esorta a seguirlo verso un punto di raccolta a est. Se i personaggi vogliono comunque combattere l'Armata dei Draghi, Darrett ribadisce che centinaia di soldati nemici stanno arrivando e che le truppe ferite di Kalaman hanno bisogno del loro aiuto. **Lord Bakaris è visibilmente sotto shock e non parla durante la conversazione.**
 
 ### Al Sicuro per Ora
 
 Darrett guida i personaggi sei miglia a est di Steel Springs, dove le truppe di Kalaman si sono ritirate. Una volta lì, spiega quanto segue:
 
-- **Lord Bakaris** ha ordinato l'assalto ignorando la presenza di rinforzi del Dragon Army nelle vicinanze. La battaglia si è rapidamente rivoltata contro le forze di Kalaman.
+- **Lord Bakaris** ha ordinato l'assalto ignorando la presenza di rinforzi dell'Armata dei Draghi nelle vicinanze. La battaglia si è rapidamente rivoltata contro le forze di Kalaman.
 - Darrett e altri comandanti hanno ordinato un rapido ripiegamento, salvando molte vite.
 - Nel ritiro, le forze comandate da **Bakaris il Giovane** sono state travolte. **Bakaris il Giovane risulta disperso e creduto morto.**
 - Lord Bakaris è in stato di shock.
-- Il Dragon Army non sembra inseguire le truppe in ritirata.
-- Darrett ha notizia che le forze di Marshal Vendri stanno viaggiando da ovest per proteggere la città.
+- L'Armata dei Draghi non sembra inseguire le truppe in ritirata.
+- Darrett ha notizia che le forze della Maresciallo Vendri stanno viaggiando da ovest per proteggere la città.
 
-Darrett, comandante di fatto delle truppe in ritirata, lascia che i soldati riposino durante la notte. Suggerisce ai personaggi di riposare insieme a loro. La mattina seguente, li incoraggia a cavalcare avanti verso Kalaman per informare il Governatore Miat di quanto accaduto, mentre le truppe superstiti raggiungono Marshal Vendri lungo la strada verso la città.
+Darrett, comandante di fatto delle truppe in ritirata, lascia che i soldati riposino durante la notte. Suggerisce ai personaggi di riposare insieme a loro. La mattina seguente, li incoraggia a cavalcare avanti verso Kalaman per informare il Governatore Miat di quanto accaduto, mentre le truppe superstiti raggiungono Maresciallo Vendri lungo la strada verso la città.
 
 *[NOTA DM — riservata] **Bakaris Uth Estide (Lord Bakaris) — continuità dal Cap. 3.** Questo è lo stesso nobile "in esilio" incontrato a Vogler (`campagna/png-incontrati.md`, attitudine iniziale 0 Neutrale, "manipolativo, arrogante, opportunista"). Il suo arco narrativo, segnalato fin dal Cap. 3 come destinato a svilupparsi "a Kalaman", esplode qui: la sua spinta politica per un'azione aggressiva ha causato la disfatta di Steel Springs, e la scomparsa — probabile morte — di suo figlio ne è il prezzo diretto. Non forzare una redenzione istantanea: gioca Bakaris come un uomo in autentico shock, non ancora pronto a riconoscere la propria responsabilità, ma nemmeno più capace di mostrare l'arroganza del Cap. 3. Un PG che lo ha già valutato con sospetto vede quel giudizio confermato nel modo peggiore possibile. Questo thread resta aperto per le sessioni future: Bakaris potrebbe cercare vendetta, redenzione, o negazione — a seconda di come il tavolo lo tratta da qui in avanti.*
 
@@ -191,7 +191,7 @@ Darrett, comandante di fatto delle truppe in ritirata, lascia che i soldati ripo
 
 ### Contesto per il DM
 
-Questa fase (l'inizio di "The Lord's Arrival" nella fonte) segna il cambio di tono definitivo della sessione: dalla battaglia aperta all'orrore silenzioso. Non c'è una linea temporale fissa per gli eventi che seguono, ma incoraggia un crescente senso di urgenza — i personaggi sono tutto ciò che si frappone tra Kalaman e la tragedia, anche se ancora non lo sanno.
+Questa fase (l'inizio di "L'Arrivo del Signore" nella fonte) segna il cambio di tono definitivo della sessione: dalla battaglia aperta all'orrore silenzioso. Non c'è una linea temporale fissa per gli eventi che seguono, ma incoraggia un crescente senso di urgenza — i personaggi sono tutto ciò che si frappone tra Kalaman e la tragedia, anche se ancora non lo sanno.
 
 ### Testo — Alle Porte di Kalaman [BT-04]
 
@@ -202,10 +202,10 @@ Questa fase (l'inizio di "The Lord's Arrival" nella fonte) segna il cambio di to
 
 I personaggi apprendono quanto segue da una guardia al cancello o da chiunque nella folla:
 
-- Un'ora fa, un seguito di Cavalieri di Solamnia è entrato in città diretto a Castle Kalaman.
+- Un'ora fa, un seguito di Cavalieri di Solamnia è entrato in città diretto al Castello di Kalaman.
 - I cavalieri non sono ben visti a Kalaman, ma a questo punto qualunque alleato è benvenuto.
 - Il cavaliere a capo del gruppo si chiamava Knight **Caradoc**. Un uomo affascinante, con un messaggio per il governatore.
-- Knight Caradoc è entrato con almeno una dozzina di cavalieri pesantemente armati, come usciti da una storia.
+- Cavaliere Caradoc è entrato con almeno una dozzina di cavalieri pesantemente armati, come usciti da una storia.
 
 Mentre apprendono la notizia dell'arrivo dei cavalieri, un personaggio può insistere con un abitante per maggiori dettagli con una prova di **Carisma (Persuasione) CD 14**. In caso di successo, l'abitante racconta di essere rimasto sorpreso dall'armatura di alcuni cavalieri: era logora in un modo che i Cavalieri di Solamnia delle vecchie storie avrebbero certamente evitato.
 
@@ -222,31 +222,31 @@ Quando i personaggi si identificano, le guardie sollevano la saracinesca e li am
 
 ## FASE 6 — I Guardiani del Cortile
 
-*~20 minuti · L'ingresso a Castle Kalaman, i due cavalieri non-morti nel cortile*
+*~20 minuti · L'ingresso al Castello di Kalaman, i due cavalieri non-morti nel cortile*
 
 ### Contesto per il DM
 
-Le porte di Castle Kalaman sono chiuse quando i personaggi arrivano, ma le guardie li riconoscono e li ammettono. Le guardie confermano che un contingente di cavalieri sta incontrando il governatore e i consiglieri cittadini nella sala principale del consiglio, ma un paio di cavalieri sono rimasti nel cortile del castello, se i personaggi desiderano incontrarli.
+Le porte del Castello di Kalaman sono chiuse quando i personaggi arrivano, ma le guardie li riconoscono e li ammettono. Le guardie confermano che un contingente di cavalieri sta incontrando il governatore e i consiglieri cittadini nella sala principale del consiglio, ma un paio di cavalieri sono rimasti nel cortile del castello, se i personaggi desiderano incontrarli.
 
 *[NOTA DM — riservata] La fonte presenta questo incontro come "opzionale" nella lettera del testo, ma poco dopo specifica che questi cavalieri non-morti **"bloccano l'ingresso al castello"** — una lieve tensione interna del materiale originale. Usa il giudizio narrativo: se il party entra dal cortile principale (la via più naturale, specialmente se sta seguendo le guardie), li incontra. Se un PG conosce vie alternative dal castello (magari da sessioni precedenti) o chiede esplicitamente una scorta diretta alla sala del consiglio, puoi lasciarli aggirare la scena — ma tieni presente che perdere questo scontro significa anche perdere l'indizio del passivo Percezione 16 sull'armatura vecchia, un buon momento di suspense prima del massacro.*
 
 ### Testo — Il Cortile del Castello [BT-05]
 
-> Il cortile di Castle Kalaman è in gran parte deserto, poiché la maggior parte dei difensori della città rimane con le truppe a ovest della città. Vicino ai chiostri coperti che conducono alle sale conferenza del consiglio cittadino, due Cavalieri di Solamnia pesantemente armati siedono a cavallo. Uno di loro regge uno stendardo con un vistoso emblema di rosa.
+> Il cortile del Castello di Kalaman è in gran parte deserto, poiché la maggior parte dei difensori della città rimane con le truppe a ovest della città. Vicino ai chiostri coperti che conducono alle sale conferenza del consiglio cittadino, due Cavalieri di Solamnia pesantemente armati siedono a cavallo. Uno di loro regge uno stendardo con un vistoso emblema di rosa.
 
 *[Aggiunta atmosferica]:*
 > *Non si muovono. Non parlano tra loro, non scambiano nemmeno uno sguardo. Restano semplicemente lì, immobili come le statue dei chiostri alle loro spalle — e in un cortile altrimenti vuoto, quell'immobilità pesa più di qualsiasi minaccia gridata.*
 
-I due cavalieri qui presenti sono **Undead soldier** *(vedi statistiche sotto — usano la scheda del wight con alcune modifiche: indossano armatura a piastre con CA 18 e non hanno il tratto Sensibilità alla Luce Solare)*.
+I due cavalieri qui presenti sono **Soldato non morto** *(vedi statistiche sotto — usano la scheda del wight con alcune modifiche: indossano armatura a piastre con CA 18 e non hanno il tratto Sensibilità alla Luce Solare)*.
 
 I non-morti si rifiutano di parlare, e la loro armatura e i loro abiti ne mascherano la vera natura. Qualunque personaggio con **Saggezza (Percezione) passiva 16 o superiore** nota che l'armatura dei cavalieri è coperta di macchie di cenere e ruggine, come se fosse eccezionalmente vecchia.
 
-Questi cavalieri non-morti bloccano l'ingresso al castello. Attaccano chiunque cerchi di superarli furtivamente o di rimuovere parte del travestimento di un cavaliere. Dopo che uno degli Undead soldier subisce 10 punti di danno, il suo travestimento viene compromesso, rivelando la forma scheletrica sottostante.
+Questi cavalieri non-morti bloccano l'ingresso al castello. Attaccano chiunque cerchi di superarli furtivamente o di rimuovere parte del travestimento di un cavaliere. Dopo che uno degli Soldato non morto subisce 10 punti di danno, il suo travestimento viene compromesso, rivelando la forma scheletrica sottostante.
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Undead soldier (×2, falsi Cavalieri di Solamnia)** — Attitudine: -3 Ostile. Muti, immobili finché non provocati — poi letali.
+- **Soldato non morto (×2, falsi Cavalieri di Solamnia)** — Attitudine: -3 Ostile. Muti, immobili finché non provocati — poi letali.
 
 ---
 
@@ -282,7 +282,7 @@ L'uomo qui presente è **Caradoc** *(vedi statistiche sotto)*, uno spirito non-m
 
 Caradoc è morto durante il Cataclisma, insieme a Lord Soth, oltre trecento anni fa. In vita, ottenne il proprio rango tra i Cavalieri di Solamnia grazie al proprio lignaggio nobile e al denaro della propria famiglia. Codardo ma affascinante, Caradoc si legò e servì il proprio compagno cavaliere, Lord Soth, spesso consigliandolo sulle sottigliezze delle intrighi di corte. Soth ne fece il proprio siniscalco, e il cavaliere lo serve ancora.
 
-Quando Soth risorse come non-morto, Caradoc fu maledetto allo stesso modo, tornando in vita come spirito incorporeo. Caradoc non può lasciare i terreni di Dargaard Keep se non all'interno di un corpo che ha posseduto. Ora si diletta a saltare da un corpo all'altro, usando e gettando via i vivi come meglio crede.
+Quando Soth risorse come non-morto, Caradoc fu maledetto allo stesso modo, tornando in vita come spirito incorporeo. Caradoc non può lasciare i terreni della Rocca di Dargaard se non all'interno di un corpo che ha posseduto. Ora si diletta a saltare da un corpo all'altro, usando e gettando via i vivi come meglio crede.
 
 ***Tratto di Personalità.*** *"Posso anche essere morto, ma questo non significa che non possa ancora godermela un po'."*
 
@@ -304,14 +304,14 @@ Caradoc si diletta nel deridere i personaggi e nel mancare di rispetto ai morti.
 - È Caradoc, un Cavaliere di Solamnia.
 - No, ovviamente i Cavalieri di Solamnia non stanno davvero arrivando — ma dirlo gli ha permesso di far entrare il seguito del proprio signore attraverso le porte della città.
 - No, non dirà chi è il suo signore.
-- No, non serve il Red Dragon Army — non esattamente. Serve il proprio signore, e il proprio signore serve un potere superiore.
+- No, non serve l'Armata dei Draghi Rossi — non esattamente. Serve il proprio signore, e il proprio signore serve un potere superiore.
 - Il suo signore era qui, ma ha dovuto occuparsi di affari con un "vecchio amico polveroso".
 
 Un personaggio che supera una prova di **Intelligenza (Storia) CD 18** ricorda che Caradoc era il nome di un oscuro cavaliere dell'Ordine della Rosa, morto durante il Cataclisma.
 
 ***Traccia di Sangue.*** Mentre parla con Caradoc o dopo averlo sconfitto, il personaggio con la Saggezza (Percezione) passiva più alta nota una traccia di sangue che conduce a una piccola porta infranta sul retro della stanza. Oltre di essa, un corridoio conduce alla scalinata sigillata descritta nella sezione "Il Passaggio Sotto" più avanti.
 
-***Combattere Caradoc.*** Quando i personaggi attaccano Caradoc o cercano di lasciare la stanza, Caradoc estrae la spada dal corpo del Governatore Miat e attacca. È incauto in combattimento e continua a schernire i personaggi mentre combatte. Una volta sconfitta la forma del cavaliere, Caradoc si eleva nella propria vera forma incorporea. Nel primo round dopo essere emerso dal corpo del cavaliere, supera automaticamente il tiro salvezza richiesto dal proprio tratto Legame Vincolato. Continua ad attaccare i personaggi con le proprie azioni di Possessione e Tocco Deperente finché non viene distrutto o il tratto Legame Vincolato non lo riporta a Dargaard Keep. Prima di svanire, Caradoc promette ai personaggi che li rivedrà.
+***Combattere Caradoc.*** Quando i personaggi attaccano Caradoc o cercano di lasciare la stanza, Caradoc estrae la spada dal corpo del Governatore Miat e attacca. È incauto in combattimento e continua a schernire i personaggi mentre combatte. Una volta sconfitta la forma del cavaliere, Caradoc si eleva nella propria vera forma incorporea. Nel primo round dopo essere emerso dal corpo del cavaliere, supera automaticamente il tiro salvezza richiesto dal proprio tratto Legame Vincolato. Continua ad attaccare i personaggi con le proprie azioni di Possessione e Tocco Deperente finché non viene distrutto o il tratto Legame Vincolato non lo riporta alla Rocca di Dargaard. Prima di svanire, Caradoc promette ai personaggi che li rivedrà.
 
 ***Cavaliere Perduto.*** Se il cavaliere posseduto da Caradoc scende a 0 PF, lascia che compia i tiri salvezza contro la morte, poiché i personaggi potrebbero volerlo curare. Il suo nome è **Durstan Rial** (neutrale, cavaliere umano), e ha scarsa memoria delle ultime settimane, da quando è stato tesa un'imboscata nei pressi delle Montagne di Dargaard. Aiuta i personaggi a sconfiggere Caradoc se lo spirito è ancora presente, ma desidera in ultima analisi tornare a casa, a Maelgoth.
 
@@ -333,7 +333,7 @@ Un personaggio che supera una prova di **Intelligenza (Storia) CD 14** ricorda l
 - **Cavaliere e Sovrano.** Lord Soth era un Cavaliere di Solamnia dell'Ordine della Rosa. Governò la provincia di Nightlund quando era conosciuta come Knightlund.
 - **Redenzione Fallita.** Gli dèi diedero a Soth l'opportunità di redimersi e prevenire il Cataclisma, ma non completò la propria missione, e il Cataclisma si abbatté sul mondo.
 - **Reputazione Infangata.** Il fallimento di Soth contribuì alla diffusa sfiducia verso i Cavalieri di Solamnia.
-- **Castello Maledetto.** Il destino di Soth resta un mistero, ma la sua dimora, Dargaard Keep, è nota per essere una rovina maledetta e infestata.
+- **Castello Maledetto.** Il destino di Soth resta un mistero, ma la sua dimora, Rocca di Dargaard, è nota per essere una rovina maledetta e infestata.
 
 *[NOTA DM — riservata] **Questo è il momento.** `campagna/contesto.md` segnala Lord Soth come "Nemico Importante", presenza ricorrente dal Cap. 3 al Cap. 7, con prima apparizione fisica prevista proprio "Cap. 4 (attacco Kalaman)" — questa scena. Fino ad ora Soth era solo un'ombra dietro le quinte; da qui in avanti è un nome che il party conosce, un volto che (non ancora, ma presto) assocerà a conseguenze concrete. Non affrettare la rivelazione — lascia che il silenzio dopo la lettura del proclama duri qualche secondo in più del necessario.*
 
@@ -363,19 +363,19 @@ Oltre la porta infranta nella sala del consiglio si trova uno stretto corridoio 
 *[Aggiunta atmosferica]:*
 > *Il suono delle fiamme non ha il crepitio familiare di un focolare. È più simile a un respiro — lento, regolare, come qualcosa che aspetta da molto, molto tempo.*
 
-Questo passaggio scende nelle catacombe sotto Castle Kalaman.
+Questo passaggio scende nelle catacombe sotto il Castello di Kalaman.
 
 **[FINE DELLA SESSIONE 07 — CLIFFHANGER]**
 
-*[NOTA DM — riservata] Chiudi qui la sessione, sulla soglia buia. Non serve altro — nessun riepilogo, nessuna battuta finale. Lascia che il tavolo scenda mentalmente quelle scale durante la settimana di attesa fino alla prossima sessione. La Sessione 08 riprenderà esattamente da questo punto: le Raided Catacombs (righe 3002–3190 della fonte), sette stanze cariche di fuoco Cataclismico, le visioni della vita di Soth, e lo scontro finale contro Knight Sarlamir — dopo il quale il party salirà al 6° livello.*
+*[NOTA DM — riservata] Chiudi qui la sessione, sulla soglia buia. Non serve altro — nessun riepilogo, nessuna battuta finale. Lascia che il tavolo scenda mentalmente quelle scale durante la settimana di attesa fino alla prossima sessione. La Sessione 08 riprenderà esattamente da questo punto: le Catacombe Saccheggiate (righe 3002–3190 della fonte), sette stanze cariche di fuoco Cataclismico, le visioni della vita di Soth, e lo scontro finale contro Cavaliere Sarlamir — dopo il quale il party salirà al 6° livello.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Caradoc** — Attitudine: -3 Ostile. Sconfitto (o sfuggito verso Dargaard Keep) in questa sessione — nemico ricorrente, ha promesso ai personaggi che li rivedrà. Se davvero distrutto in combattimento anziché richiamato dal Legame Vincolato, tratta la sua sconfitta come definitiva e aggiorna questa nota di conseguenza per le sessioni future.
+- **Caradoc** — Attitudine: -3 Ostile. Sconfitto (o sfuggito verso la Rocca di Dargaard) in questa sessione — nemico ricorrente, ha promesso ai personaggi che li rivedrà. Se davvero distrutto in combattimento anziché richiamato dal Legame Vincolato, tratta la sua sconfitta come definitiva e aggiorna questa nota di conseguenza per le sessioni future.
 - **Durstan Rial (cavaliere posseduto, se salvato)** — Attitudine: **+1 Cordiale**. Confuso, riconoscente, desidera solo tornare a casa a Maelgoth — potenziale PNG minore ricorrente se il tavolo lo adotta.
 - **Leedara** — Attitudine: 0 Neutrale (invariata, ma il suo intervento diretto la rende più vicina). Continua a non spiegarsi.
-- **Governor Calof Miat** — **Deceduto.** Attitudine 0 Neutrale (finale, invariata da prima della morte).
+- **Governatore Calof Miat** — **Deceduto.** Attitudine 0 Neutrale (finale, invariata da prima della morte).
 - **Consiglio cittadino di Kalaman** — **Deceduto** (collettivamente, sei consiglieri + sei guardie del castello).
 
 ---
@@ -394,7 +394,7 @@ AZIONI
 Spada corta. +3 al colpire, portata 1,5 m. Colpito: 4 (1d6+1) perforanti.
 ```
 
-### Dragon Army Soldier (a cavallo) · CR 1 · 200 XP cad. *(identico alla Sessione 06)*
+### Soldato dell'Armata dei Draghi (a cavallo) · CR 1 · 200 XP cad. *(identico alla Sessione 06)*
 
 ```
 SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
@@ -488,7 +488,7 @@ Immunità alle condizioni affascinato, spaventato, afferrato, paralizzato, pietr
 Sensi scurovisione 18 m, Percezione passiva 11   Linguaggi Comune
 —
 Movimento Incorporeo. Caradoc può muoversi attraverso altre creature e oggetti come se fossero terreno difficile. Subisce 5 (1d10) danni di forza se termina il turno dentro un oggetto.
-Legame Vincolato. Quando Caradoc emerge dalla propria forma ospite lontano da Dargaard Keep, deve superare un **TS Costituzione CD 15** alla fine di ogni proprio turno (successo automatico al primo turno in cui assume la forma incorporea) o essere risucchiato via, verso Dargaard Keep, sottraendosi al combattimento per il resto della sessione — finché non trova un nuovo corpo da possedere altrove.
+Legame Vincolato. Quando Caradoc emerge dalla propria forma ospite lontano dalla Rocca di Dargaard, deve superare un **TS Costituzione CD 15** alla fine di ogni proprio turno (successo automatico al primo turno in cui assume la forma incorporea) o essere risucchiato via, verso la Rocca di Dargaard, sottraendosi al combattimento per il resto della sessione — finché non trova un nuovo corpo da possedere altrove.
 —
 AZIONI
 Possessione (Ricarica 6). Un umanoide che Caradoc può vedere entro 1,5 metri deve superare un **TS Carisma CD 15** o essere posseduto da Caradoc; il corpo di Caradoc diviene incorporeo e invisibile, e il bersaglio è sotto il suo controllo. Caradoc mantiene la possessione finché il corpo non scende a 0 PF, Caradoc lo lascia come azione bonus, o viene forzato fuori da un effetto come *dissolvi magie*. Il bersaglio è ignaro dell'azione dopo che l'effetto termina.
@@ -507,9 +507,9 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 
 | Preludio | Hook in Sessione 07 |
 |----------|---------------------|
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Caradoc è un fenomeno arcano/religioso di natura diversa da tutto ciò che il party ha incontrato finora: uno spirito legato da una maledizione divina, non da magia convenzionale. Un PG con Arcano può tentare **Intelligenza (Arcano) CD 15** guardandolo emergere dal corpo del cavaliere: *"Questo non è necromanzia comune. Quella era già un'anima, imprigionata in un corpo preso in prestito. Qualunque cosa lo tenga legato a questo mondo, non è un incantesimo — è un patto, o una condanna."* Un buon aggancio per collegare questo momento al più ampio mistero di Lord Soth. |
-| **Broken Silence** (PG con connessione divina) | Questa sessione è la più esplicitamente **teologica** finora: un cavaliere maledetto dagli dèi per aver fallito una missione divina, una spada che ha trafitto un governatore innocente, un intero consiglio cittadino massacrato in un luogo che dovrebbe essere protetto. Un PG di fede può voler benedire i caduti prima di scendere verso le catacombe, o interrogarsi sul perché gli dèi permettano una simile onta due volte (il Cataclisma, e ora questo). Il proclama di Soth — "rivendico il mio legittimo diritto" — è bestemmia contro l'autorità legittima quanto contro gli dèi: un doppio affronto per un PG religioso. |
-| **Scales of War** (tutti) | Fino a questa sessione, la guerra era stata un nemico esterno — draconiani, soldati, un forte da riprendere. Ora la guerra ha **un volto politico e casalingo**: un nobile ambizioso (Bakaris) la cui arroganza ha ucciso i propri stessi soldati e forse il proprio stesso figlio; un governatore morto per essersi fidato di uno sconosciuto affascinante. La minaccia non arriva più solo da fuori le mura — si è seduta al tavolo del consiglio e ha aspettato. È un salto di maturità tematica per l'intera campagna: la guerra corrompe anche chi dovrebbe difendersi da essa. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Caradoc è un fenomeno arcano/religioso di natura diversa da tutto ciò che il party ha incontrato finora: uno spirito legato da una maledizione divina, non da magia convenzionale. Un PG con Arcano può tentare **Intelligenza (Arcano) CD 15** guardandolo emergere dal corpo del cavaliere: *"Questo non è necromanzia comune. Quella era già un'anima, imprigionata in un corpo preso in prestito. Qualunque cosa lo tenga legato a questo mondo, non è un incantesimo — è un patto, o una condanna."* Un buon aggancio per collegare questo momento al più ampio mistero di Lord Soth. |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | Questa sessione è la più esplicitamente **teologica** finora: un cavaliere maledetto dagli dèi per aver fallito una missione divina, una spada che ha trafitto un governatore innocente, un intero consiglio cittadino massacrato in un luogo che dovrebbe essere protetto. Un PG di fede può voler benedire i caduti prima di scendere verso le catacombe, o interrogarsi sul perché gli dèi permettano una simile onta due volte (il Cataclisma, e ora questo). Il proclama di Soth — "rivendico il mio legittimo diritto" — è bestemmia contro l'autorità legittima quanto contro gli dèi: un doppio affronto per un PG religioso. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | Fino a questa sessione, la guerra era stata un nemico esterno — draconiani, soldati, un forte da riprendere. Ora la guerra ha **un volto politico e casalingo**: un nobile ambizioso (Bakaris) la cui arroganza ha ucciso i propri stessi soldati e forse il proprio stesso figlio; un governatore morto per essersi fidato di uno sconosciuto affascinante. La minaccia non arriva più solo da fuori le mura — si è seduta al tavolo del consiglio e ha aspettato. È un salto di maturità tematica per l'intera campagna: la guerra corrompe anche chi dovrebbe difendersi da essa. |
 | **Legame con Bakaris / Vogler** (PG che ha già interagito con Bakaris Uth Estide in Cap. 3) | Rivedere Bakaris sotto shock, incapace di parlare, dopo aver spinto Kalaman verso il disastro, è un momento di enorme peso per chiunque lo abbia già giudicato — con sospetto o con curiosità — a Vogler. Un PG che lo affronta, lo consola, o semplicemente osserva in silenzio il suo crollo, ottiene materiale caratteriale ricco per il proprio arco personale verso questo PNG complesso. |
 | **Tutti** | Il momento in cui Caradoc rivela, quasi per gioco, il nome **Lord Loren Soth**, è pensato per essere un beat condiviso da tutto il party — non un segreto per un solo PG. Lascia che ogni giocatore reagisca a modo suo: curiosità storica (chi era questo cavaliere caduto?), paura viscerale (cosa vuole da Kalaman?), o determinazione rinnovata (fermarlo, qualunque cosa sia diventato). È il primo vero nome-cardine della campagna dopo Kansaldi Fire-Eyes. |
 
@@ -545,15 +545,15 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
-| Le Raided Catacombs | Prossimo beat immediato della fonte (righe 3002–3190): sette stanze cariche di fuoco Cataclismico, visioni della vita di Lord Soth, scontro contro Knight Sarlamir, salto al 6° livello | Alta → Sessione 08 |
-| Lord Loren Soth | Nome rivelato in questa sessione; morte cavaliere, Cavaliere della Rosa caduto, ora agente diretto della Dragon Queen. Presenza ricorrente Cap. 3–7 (vedi `campagna/contesto.md`) | Alta → arco lungo |
-| Caradoc | Sconfitto o fuggito a Dargaard Keep; ha promesso di rivedere il party. Possibile antagonista ricorrente nei capitoli successivi | Media → arco lungo |
+| Le Catacombe Saccheggiate | Prossimo beat immediato della fonte (righe 3002–3190): sette stanze cariche di fuoco Cataclismico, visioni della vita di Lord Soth, scontro contro Cavaliere Sarlamir, salto al 6° livello | Alta → Sessione 08 |
+| Lord Loren Soth | Nome rivelato in questa sessione; morte cavaliere, Cavaliere della Rosa caduto, ora agente diretto della Regina dei Draghi. Presenza ricorrente Cap. 3–7 (vedi `campagna/contesto.md`) | Alta → arco lungo |
+| Caradoc | Sconfitto o fuggito alla Rocca di Dargaard; ha promesso di rivedere il party. Possibile antagonista ricorrente nei capitoli successivi | Media → arco lungo |
 | Bakaris Uth Estide (Lord Bakaris) | Sotto shock per la probabile morte del figlio, causata dalla propria arroganza politica. Arco personale aperto: redenzione, vendetta, o negazione | Media → arco Kalaman |
 | Bakaris il Giovane | Disperso, creduto morto — non confermato. Gancio aperto per un possibile ritorno (vivo, corrotto, o davvero perduto) | Bassa → opzionale |
-| Governor Calof Miat e il consiglio cittadino | Deceduti. Vuoto di potere civile a Kalaman: Marshal Vendri (ancora assente) potrebbe dover assumere autorità più diretta al ritorno | Media → conseguenze politiche future |
+| Governatore Calof Miat e il consiglio cittadino | Deceduti. Vuoto di potere civile a Kalaman: Maresciallo Vendri (ancora assente) potrebbe dover assumere autorità più diretta al ritorno | Media → conseguenze politiche future |
 | Durstan Rial | Nuovo PNG minore, salvabile; vuole tornare a Maelgoth. Nessun obbligo di richiamarlo se il tavolo non lo adotta | Bassa → opzionale |
 | Leedara | Intervento diretto e urgente in questa sessione; resta comunque enigmatica. Prossimo incontro annunciato "nel capitolo 7" dalla fonte | Bassa → arco lunghissimo |
-| Il destino di Becklin / Il rotolo di Wyhan / Il fargab / Cudgel e l'Ironclad Regiment | Thread ereditati da S04–S06; non toccati in questa sessione per mancanza di tempo libero narrativo — restano aperti | Media → ricorrenti |
+| Il destino di Becklin / Il rotolo di Wyhan / Il fargab / Cudgel e il Reggimento Ironclad | Thread ereditati da S04–S06; non toccati in questa sessione per mancanza di tempo libero narrativo — restano aperti | Media → ricorrenti |
 
 ---
 
@@ -565,14 +565,14 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 
 - [ ] Livello di partenza confermato: 5 (invariato — Sì / No, se No annotare motivo)
 - [ ] Nota di Darrett ricevuta, decisione di partire per Steel Springs: Sì / No
-- [ ] Battaglia del guado — Dragon Army soldier sconfitti: __/4 — Kalaman soldier feriti sopravvissuti: __/6 (+eventuali rinforzi dalla tabella eventi)
+- [ ] Battaglia del guado — Soldato dell'Armata dei Draghi sconfitti: __/4 — Soldato di Kalaman feriti sopravvissuti: __/6 (+eventuali rinforzi dalla tabella eventi)
 - [ ] Eventi tirati sulla tabella "Steel Springs Battlefield Events": ____________
 - [ ] Incontro con Darrett e Lord Bakaris al ritiro dei comandanti: Sì / No
 - [ ] Notte di riposo a "Al Sicuro per Ora": Sì / No — scena opzionale Bakaris giocata: Sì / No
 - [ ] Ritorno a Kalaman, voci sui "Cavalieri di Solamnia": Sì / No — prova Persuasione CD 14 riuscita: Sì / No
-- [ ] Scontro nel cortile con gli Undead soldier: Sì / No — evitato: Sì / No — esito: ____________
+- [ ] Scontro nel cortile con gli Soldato non morto: Sì / No — evitato: Sì / No — esito: ____________
 - [ ] Scoperta del massacro nella sala del consiglio: Sì / No
-- [ ] Caradoc — dialogo tenuto: Sì / No — combattimento: Sì / No — esito (distrutto / fuggito a Dargaard Keep): ____________
+- [ ] Caradoc — dialogo tenuto: Sì / No — combattimento: Sì / No — esito (distrutto / fuggito alla Rocca di Dargaard): ____________
 - [ ] Durstan Rial salvato: Sì / No
 - [ ] Proclama di Lord Soth letto/scoperto: Sì / No — prova Storia CD 14 su Lord Soth riuscita: Sì / No
 - [ ] Leedara apparsa, avvertimento dato: Sì / No
@@ -586,7 +586,7 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 |-----|----------------|----------------------|
 | Darrett Highwater | Guida il ritiro, chiede aiuto al party | +3 Alleato (rafforzata) |
 | Bakaris Uth Estide (Lord Bakaris) | Causa il disastro di Steel Springs; il figlio è disperso/creduto morto | 0 Neutrale (complicata da shock/lutto) |
-| Governor Calof Miat | **Deceduto** — massacrato da Caradoc/Lord Soth | 0 Neutrale (finale) |
+| Governatore Calof Miat | **Deceduto** — massacrato da Caradoc/Lord Soth | 0 Neutrale (finale) |
 | Consiglio cittadino di Kalaman | **Deceduto** (collettivo) | — |
 | Caradoc | **NUOVO PNG** — falso Cavaliere di Solamnia, spirito al servizio di Lord Soth | -3 Ostile |
 | Durstan Rial | **NUOVO PNG** (se salvato) — cavaliere posseduto, liberato | +1 Cordiale |
@@ -597,12 +597,12 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| 4 Dragon Army soldier (Steel Springs) | 200 XP (50 cad.) |
-| 2 Undead soldier (cortile) | 1.400 XP (700 cad.) |
+| 4 Soldati dell'Armata dei Draghi (Steel Springs) | 200 XP (50 cad.) |
+| 2 Soldati non morto (cortile) | 1.400 XP (700 cad.) |
 | Caradoc (corpo + forma spettrale) | ~2.300 XP (stima combinata) |
 | **Totale combattimento** | **fino a ~3.900 XP** |
 | Bottino | Proclama di Lord Soth (valore narrativo, non materiale); eventuale equipaggiamento recuperato dai nemici sconfitti |
-| **Avanzamento** | **Livello 5 confermato per l'intera sessione** — il salto al Livello 6 avviene solo dopo Knight Sarlamir, in Sessione 08 |
+| **Avanzamento** | **Livello 5 confermato per l'intera sessione** — il salto al Livello 6 avviene solo dopo Cavaliere Sarlamir, in Sessione 08 |
 
 ### Thread Aperti
 
@@ -615,14 +615,14 @@ Tocco Deperente. Attacco con incantesimo in mischia: +6 al colpire, portata 1,5 
 Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (fino a ~3.900) + bottino; **conferma il Livello 5** (il Livello 6 arriva solo dopo S08)
-- [ ] `campagna/png-incontrati.md` — **aggiorna Bakaris Uth Estide** (shock, probabile perdita del figlio); **rimuovi/segna deceduto Governor Calof Miat**; **aggiungi Caradoc** (Cap. 4, nemico ricorrente) e, se salvato, **Durstan Rial**; annota l'intervento diretto di Leedara
+- [ ] `campagna/png-incontrati.md` — **aggiorna Bakaris Uth Estide** (shock, probabile perdita del figlio); **rimuovi/segna deceduto Governatore Calof Miat**; **aggiungi Caradoc** (Cap. 4, nemico ricorrente) e, se salvato, **Durstan Rial**; annota l'intervento diretto di Leedara
 - [ ] `campagna/rapporti.md` — compila "Capitolo 03 (Kalaman — Cap 4 libro)": rapporto con Bakaris dopo Steel Springs, eventuale legame con Durstan Rial
-- [ ] `campagna/fazioni.md` — **Esercito di Kalaman**: annota la morte del Governatore Miat e il vuoto di potere civile; **Knights of Solamnia**: nessun cambiamento diretto (Caradoc non è un vero cavaliere, ma il suo travestimento potrebbe aver danneggiato la reputazione dell'Ordine agli occhi di Kalaman — valuta se aggiornare la nota)
+- [ ] `campagna/fazioni.md` — **Esercito di Kalaman**: annota la morte del Governatore Miat e il vuoto di potere civile; **Cavalieri di Solamnia**: nessun cambiamento diretto (Caradoc non è un vero cavaliere, ma il suo travestimento potrebbe aver danneggiato la reputazione dell'Ordine agli occhi di Kalaman — valuta se aggiornare la nota)
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato)
 - [ ] `campagna/contesto.md` — **nessun cambio di capitolo** (resta 4); aggiorna la nota di stato ("Sessione 07 preparata"); conferma Livello 5 nella tabella progressione
 - [ ] `campagna/sessioni/recaps/recap-sessione-07.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
-- [ ] `/aggiorna-locations 07` — esegui dopo la sessione (Steel Springs/Inkwater, Castle Kalaman — sala del consiglio e catacombe)
-- [ ] `/prep-sessione 08` — prepara la prossima: **Raided Catacombs** (righe 3002–3190), incluso lo scontro con Knight Sarlamir e il salto al 6° livello
+- [ ] `/aggiorna-locations 07` — esegui dopo la sessione (Steel Springs/Inkwater, Castello di Kalaman — sala del consiglio e catacombe)
+- [ ] `/prep-sessione 08` — prepara la prossima: **Catacombe Saccheggiate** (righe 3002–3190), incluso lo scontro con il Cavaliere Sarlamir e il salto al 6° livello
 
 ---
 
@@ -631,17 +631,17 @@ Dopo la sessione, aggiorna questi file:
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
 | 1 | Struttura | Header | Header completo secondo template S03–S06: fonte primaria con righe (2771–3001), livello 5 (con motivazione esplicita sul perché non sale ancora), XP disponibili (fino a ~3.900), obiettivo, durata, sessione precedente |
-| 2 | Continuità | ⚠️ Nota pre-sessione | Chiarito il criterio di taglio del chunk (fallback ~2.500–3.500 parole dell'Agente 1, verificato a 3.272 parole per l'estensione scelta), la cesura di scena completa a fine "Path Below", e il fatto che il Livello 6 è rimandato esplicitamente alla Sessione 08. Aggiunto un punto di sospensione a metà sessione (fine Fase 4) per flessibilità al tavolo |
+| 2 | Continuità | ⚠️ Nota pre-sessione | Chiarito il criterio di taglio del chunk (fallback ~2.500–3.500 parole dell'Agente 1, verificato a 3.272 parole per l'estensione scelta), la cesura di scena completa a fine "Sentiero di Sotto (*Path Below*)", e il fatto che il Livello 6 è rimandato esplicitamente alla Sessione 08. Aggiunto un punto di sospensione a metà sessione (fine Fase 4) per flessibilità al tavolo |
 | 3 | Continuità | SETUP INIZIALE / Fase 1 | Bridge diretto dalla S06: rientro da Wheelwatch, il castello insolitamente silenzioso (passiva Percezione), l'assenza di Vendri come causa abilitante della crisi politica |
-| 4 | Fedeltà fonte | Fasi 1–7 | Preservati tutti i dettagli meccanici della fonte: i fatti riportati dall'aiutante, il contenuto integrale del biglietto di Darrett, le 30/6 miglia di viaggio, la tabella eventi del campo di battaglia (d8 completa con tutti gli 8 esiti), le caratteristiche del campo (terreno difficile, Mischia), il DC 14 Persuasione sulla folla, il passivo Percezione 16/CD 10 danni per gli Undead soldier, il DC 18 Storia su Caradoc, il DC 14 Storia su Lord Soth, il testo integrale del proclama di Soth |
+| 4 | Fedeltà fonte | Fasi 1–7 | Preservati tutti i dettagli meccanici della fonte: i fatti riportati dall'aiutante, il contenuto integrale del biglietto di Darrett, le 30/6 miglia di viaggio, la tabella eventi del campo di battaglia (d8 completa con tutti gli 8 esiti), le caratteristiche del campo (terreno difficile, Mischia), il DC 14 Persuasione sulla folla, il passivo Percezione 16/CD 10 danni per gli Soldato non morto, il DC 18 Storia su Caradoc, il DC 14 Storia su Lord Soth, il testo integrale del proclama di Soth |
 | 5 | Testo "Boxed" | BT-01 – BT-11 | Tutti gli **11 testi read-aloud `>>`** presenti nella sezione fonte sono stati tradotti integralmente e verificati uno a uno contro l'originale inglese: biglietto di Darrett, arrivo a Steel Springs, ritiro dei comandanti, porte di Kalaman, cortile del castello, corridoio vuoto, sala del consiglio, Caradoc colto sul fatto, proclama di Soth, avvertimento di Leedara, passaggio sotto. Nessun dettaglio omesso; aggiunte atmosferiche separate in blockquote `*[aggiunta atmosferica]*` secondo la regola dell'Agente 2 |
-| 6 | Stat Block | Creature | Riutilizzati identici gli stat block di Kalaman soldier e Dragon Army soldier dalla S06 (continuità meccanica), con nota esplicita sui PF ridotti (8 invece di 11) per i Kalaman soldier già feriti, come specificato testualmente dalla fonte. Aggiunti stat block ricostruiti per cavallo da guerra (standard 5e), Undead soldier (wight modificato secondo le istruzioni della fonte), e Caradoc in entrambe le forme (cavaliere posseduto = knight standard; forma spettrale = ricostruzione originale basata su Possessione/Tocco Deperente/Legame Vincolato descritti in prosa). **Segnalato esplicitamente** che l'Appendice B del file fonte disponibile elenca solo i nomi delle creature, senza valori meccanici completi — stessa metodologia onesta di S04–S06 |
+| 6 | Stat Block | Creature | Riutilizzati identici gli stat block di Soldato di Kalaman e Soldato dell'Armata dei Draghi dalla S06 (continuità meccanica), con nota esplicita sui PF ridotti (8 invece di 11) per i Soldato di Kalaman già feriti, come specificato testualmente dalla fonte. Aggiunti stat block ricostruiti per cavallo da guerra (standard 5e), Soldato non morto (wight modificato secondo le istruzioni della fonte), e Caradoc in entrambe le forme (cavaliere posseduto = knight standard; forma spettrale = ricostruzione originale basata su Possessione/Tocco Deperente/Legame Vincolato descritti in prosa). **Segnalato esplicitamente** che l'Appendice B del file fonte disponibile elenca solo i nomi delle creature, senza valori meccanici completi — stessa metodologia onesta di S04–S06 |
 | 7 | Bilanciamento | Fase 3 (NOTA DM) | Aggiunta nota di moderazione sull'uso della tabella eventi (2-3 tiri sufficienti a dare ritmo, senza allungare eccessivamente la fase se il combattimento si risolve rapidamente) |
 | 8 | Continuità | Fase 4 / Hook PG | Collegato esplicitamente **Lord Bakaris** a **Bakaris Uth Estide** del Cap. 3 (`png-incontrati.md`), chiudendo/continuando l'arco segnalato come "si sviluppa nel Cap. 4 a Kalaman" nella nota DM originale su quel PNG. Aggiunta scena opzionale di spotlight per approfondire il momento |
 | 9 | Continuità | Fase 7 (NOTA DM) | Segnalato esplicitamente il collegamento tra la rivelazione del nome "Lord Loren Soth" in questa sessione e la voce già presente in `campagna/contesto.md` ("Lord Soth — Nemico Importante... Cap. 4 attacco Kalaman") — coerenza confermata, nessuna contraddizione |
 | 10 | Missioni | Thread Narrativi | Confermato, come in S04–S06, che l'Agente 4 non ha trovato missioni di fazione da integrare (`missioni-secondarie.md` e `fazioni.md` non prevedono missioni strutturate) |
 | 11 | Coerenza — Unità | Fasi 2–7 | Distanze di viaggio mantenute in miglia (30 a ovest, 6 a est) coerenti col manuale; distanze tattiche e portate convertite in metri negli stat block e nelle meccaniche di scena (terreno Mischia 4,5 m, ruscello 1,2 m, portate d'arma 1,5 m, gittate 45/180 m e 30/120 m, velocità 9/12/18 m) |
-| 12 | Coerenza — PNG | png-incontrati / contesto | Verificato che Bakaris Uth Estide, Governor Calof Miat e Leedara erano già presenti nei file di stato con le rispettive attitudini iniziali — riutilizzate come base senza contraddizioni. Nessuna incoerenza rilevata con lo stato di Darrett o Vendri (invariati da S06, salvo l'assenza di Vendri già annotata nella fonte) |
+| 12 | Coerenza — PNG | png-incontrati / contesto | Verificato che Bakaris Uth Estide, Governatore Calof Miat e Leedara erano già presenti nei file di stato con le rispettive attitudini iniziali — riutilizzate come base senza contraddizioni. Nessuna incoerenza rilevata con lo stato di Darrett o Vendri (invariati da S06, salvo l'assenza di Vendri già annotata nella fonte) |
 | 13 | Struttura | Post-Sessione | Recap, checklist e thread allineati al template S04–S06; confermato "nessun cambio di capitolo" (resta 4, e ben lontano sia dall'inizio del Cap. 5 — riga 3191 — sia dal Cap. 7 — riga 5286) → **Step 6.5 della pipeline saltato** (nessuna transizione di capitolo) |
 | 14 | Lingua/Stile | Tutte le fasi (Step 5) | Uniformato il registro Urban Noir + Fantasy Classico sulle parti aggiunte da Agenti 3–4; corretti calchi; voci PNG calibrate (Bakaris in shock silenzioso; Caradoc teatrale e crudelmente leggero; Leedara urgente ma sfuggente). Nessuno stravolgimento delle integrazioni |
 
@@ -652,10 +652,10 @@ Dopo la sessione, aggiorna questi file:
 
 ### Nota di verifica — decisioni consapevoli
 
-- **Estensione ed estremi del chunk:** questa sessione copre **due sezioni consecutive della fonte** — "Battle at Steel Springs" e "The Lord's Arrival" (righe 2771–3001, ~3.270 parole) — fermandosi esattamente all'ultima riga prima dell'intestazione "Raided Catacombs". È una scelta deliberata: includere anche l'inizio delle catacombe avrebbe portato il chunk ben oltre le 3.500 parole di fallback dell'Agente 1 e avrebbe tagliato a metà uno scontro (quello con Knight Sarlamir), violando il vincolo esplicito dell'Agente 1 di non spezzare mai un incontro a metà.
-- **Livello del party:** la fonte fa avanzare i personaggi al 6° livello solo dopo la sconfitta di Knight Sarlamir (riga 3176), che cade fuori dal chunk di questa sessione. Il party resta quindi di **Livello 5** per l'intera Sessione 07, nonostante la tabella riassuntiva in `campagna/contesto.md` (Cap. 4: Livello Inizio 3 → Fine 5) suggerisca che il Livello 5 sia il livello "finale" del capitolo — una lieve semplificazione di quella tabella rispetto alla granularità reale della fonte, che non è stata corretta in questa sessione (il trigger del Livello 6 arriva comunque, cronologicamente, prima della fine del Capitolo 4 nel libro). Verificare e eventualmente affinare `contesto.md` quando si preparerà la Sessione 08.
+- **Estensione ed estremi del chunk:** questa sessione copre **due sezioni consecutive della fonte** — "Battle at Steel Springs" e "L'Arrivo del Signore" (righe 2771–3001, ~3.270 parole) — fermandosi esattamente all'ultima riga prima dell'intestazione "Catacombe Saccheggiate". È una scelta deliberata: includere anche l'inizio delle catacombe avrebbe portato il chunk ben oltre le 3.500 parole di fallback dell'Agente 1 e avrebbe tagliato a metà uno scontro (quello con il Cavaliere Sarlamir), violando il vincolo esplicito dell'Agente 1 di non spezzare mai un incontro a metà.
+- **Livello del party:** la fonte fa avanzare i personaggi al 6° livello solo dopo la sconfitta del Cavaliere Sarlamir (riga 3176), che cade fuori dal chunk di questa sessione. Il party resta quindi di **Livello 5** per l'intera Sessione 07, nonostante la tabella riassuntiva in `campagna/contesto.md` (Cap. 4: Livello Inizio 3 → Fine 5) suggerisca che il Livello 5 sia il livello "finale" del capitolo — una lieve semplificazione di quella tabella rispetto alla granularità reale della fonte, che non è stata corretta in questa sessione (il trigger del Livello 6 arriva comunque, cronologicamente, prima della fine del Capitolo 4 nel libro). Verificare e eventualmente affinare `contesto.md` quando si preparerà la Sessione 08.
 - **Mass Combat non disponibile:** la fonte offre un percorso alternativo con il supplemento *Dragonlance: Warriors of Krynn* (Scenario 4), non incluso in questo estratto. Ho seguito il percorso "senza Mass Combat" esplicitamente prevsto come alternativa completa dalla fonte stessa, segnalando la possibilità di premiare narrativamente un successo netto anche senza il minigioco.
-- **Valori delle creature:** come per le sessioni precedenti, l'estratto della fonte in `fonti/campagna/` riporta l'Appendice B come semplice elenco di nomi, senza stat block completi per Undead soldier, Caradoc (in entrambe le forme) o il cavallo da guerra. Ho ricostruito questi valori sulla base delle schede standard 5e esplicitamente richiamate dal testo (wight, knight) più un'invenzione ragionata per la forma spettrale di Caradoc, e ho segnalato al DM di verificarli sul manuale completo.
+- **Valori delle creature:** come per le sessioni precedenti, l'estratto della fonte in `fonti/campagna/` riporta l'Appendice B come semplice elenco di nomi, senza stat block completi per Soldato non morto, Caradoc (in entrambe le forme) o il cavallo da guerra. Ho ricostruito questi valori sulla base delle schede standard 5e esplicitamente richiamate dal testo (wight, knight) più un'invenzione ragionata per la forma spettrale di Caradoc, e ho segnalato al DM di verificarli sul manuale completo.
 - **Bakaris Uth Estide come Lord Bakaris:** è un'inferenza di continuità, non esplicitata dalla fonte con lo stesso nome completo in questa sezione (il testo usa solo "Lord Bakaris"). L'ho trattato come lo stesso personaggio del Cap. 3 sulla base della nota DM già presente in `png-incontrati.md` ("il suo arco narrativo si sviluppa nel Cap. 4 a Kalaman") — una continuità fortemente suggerita dal materiale di setup della campagna, non un'invenzione arbitraria. Se il DM ha in mente un Lord Bakaris diverso, è facile scorporare i due personaggi rinominando le occorrenze in questo file.
 - **Party in TBD:** `campagna/party.md` e `fonti/personaggi/` sono ancora privi di PG definiti (la cartella `fonti/personaggi/` non esiste nemmeno nel repository). Coerentemente con S03–S06, gli hook PG sono impostati sui preludi del manuale. Nessuna correzione: è lo stato atteso finché il party non sarà popolato.
 - **Nessun file esterno modificato:** in linea con le Sessioni 00–06, questa preparazione non ha alterato `campagna/party.md`, `campagna/png-incontrati.md`, `campagna/rapporti.md`, `campagna/fazioni.md`, `campagna/missioni-secondarie.md` né `campagna/contesto.md` — tutti gli aggiornamenti "giocati" restano compito del workflow `/aggiorna-sessione` dopo la sessione reale al tavolo. Poiché il capitolo non cambia (resta 4), lo Step 6.5 (Chapter PNG Briefer) non si applica e non è stato eseguito.

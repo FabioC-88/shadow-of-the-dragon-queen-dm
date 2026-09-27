@@ -1,6 +1,6 @@
-# Scontri Adattati — Capitolo 2: Preludio "Scales of War"
+# Scontri Adattati — Capitolo 2: Preludio "Scaglie di Guerra"
 
-**Copre:** Preludio "Scales of War" (introduzione ai draconiani, prima dell'arrivo a Vogler — Cap. 3)
+**Copre:** Preludio "Scaglie di Guerra (*Scales of War*)" (introduzione ai draconiani, prima dell'arrivo a Vogler — Cap. 3)
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!*, niente regola Minion, nessun boss/Villain Actions in questo capitolo
 **Party:** 5 personaggi, Livello 1 · **Letalità target:** incontro leggero ed evitabile per costruzione — vedi [regole-opzionali.md](../regole-opzionali.md) (attivo da qui in poi, ma il fight è pensato per restare breve e opzionale)
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
@@ -47,9 +47,9 @@ Multiattack. Two Shortsword attacks.
 Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
-> ✅ **Scheda ufficiale DSotDQ p197**, verificata con Fabio il 2026-09-13 — sostituisce la ricostruzione precedente (AC 13, Claw + Javelin, Death Throes con esplosione 2d8). È ora identica in tutta la campagna.
+> ✅ **Scheda ufficiale DSotDQ p197**, verificata con Fabio il 2026-09-13 — sostituisce la ricostruzione precedente (AC 13, Claw + Javelin, Spasmi di Morte con esplosione 2d8). È ora identica in tutta la campagna.
 >
-> ⚠️ **Death Throes:** due TS falliti di fila = **Pietrificato per 1 minuto**, cioè un PG fuori dallo scontro. Il gas colpisce tutti entro 1,5 m: non ammucchiare il party attorno a un baaz ferito, e ricordati di far ripetere il tiro alla fine del turno successivo.
+> ⚠️ **Spasmi di Morte:** due TS falliti di fila = **Pietrificato per 1 minuto**, cioè un PG fuori dallo scontro. Il gas colpisce tutti entro 1,5 m: non ammucchiare il party attorno a un baaz ferito, e ricordati di far ripetere il tiro alla fine del turno successivo.
 >
 > ⚠️ **Il baaz non vola e non plana lateralmente:** l'unico tratto di caduta è *Controlled Fall*, che attutisce i danni senza concedere movimento.
 
@@ -87,12 +87,12 @@ Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
 > ✅ **Scheda ufficiale DSotDQ p198**, verificata con Fabio il 2026-09-13.
 > ⚠️ Il Kapak **non vola**: ha *Glide* (solo in discesa) e **Climb 40 ft**. La versione precedente gli dava `fly 40 ft`, errore che cambiava la tattica dell'incontro.
 > ⚠️ Il veleno sta nel **Multiattacco**, non in un'azione bonus: due pugnali a segno sullo stesso bersaglio possono **paralizzarlo**.
-> ⚠️ L'acido delle Death Throes **resta addosso** per 1 minuto, 2d6 a turno, finché non lo si raschia via con un'azione.
+> ⚠️ L'acido delle Spasmi di Morte **resta addosso** per 1 minuto, 2d6 a turno, finché non lo si raschia via con un'azione.
 
 ### Come si svolge
 
 - **Se il party resta nascosto:** Destrezza (Furtività) di ciascun PG contro Percezione passiva 13 del kapak. Se non notati, i draconiani finiscono di saccheggiare il carro e se ne vanno — zero combattimento, solo narrazione.
-- **Se notati:** il kapak ordina a **3 dei 5 baaz** (invece di 2 su 4 — scalato per il quinto giocatore) di attaccare, poi fugge nel bosco con gli altri 2. I baaz che restano a combattere non si ritirano; quelli che fuggono col kapak non attaccano in nessun caso — hanno l'ordine di ricongiungersi col Dragon Army altrove e riferire sulla sorte dei cavalieri.
+- **Se notati:** il kapak ordina a **3 dei 5 baaz** (invece di 2 su 4 — scalato per il quinto giocatore) di attaccare, poi fugge nel bosco con gli altri 2. I baaz che restano a combattere non si ritirano; quelli che fuggono col kapak non attaccano in nessun caso — hanno l'ordine di ricongiungersi con l'Armata dei Draghi altrove e riferire sulla sorte dei cavalieri.
 - **Se lo scontro va male per il party:** un altro gruppo di viandanti diretto a Vogler si avvicina sulla strada; i draconiani feriti si ritirano per non rischiare uno scontro più grande, e il party viene di fatto salvato da questi viandanti (fonte, fine sezione).
 - Nessuna Villain Action, nessun testo boxed dedicato oltre a quello già nella fonte ("A wrecked wagon lies toppled...").
 
@@ -108,4 +108,4 @@ Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
 
 ## Prossimi Passi
 
-Capitolo 3 (When Home Burns) già adattato — vedi [capitolo-03.md](capitolo-03.md).
+Capitolo 3 (Quando Brucia la Casa) già adattato — vedi [capitolo-03.md](capitolo-03.md).

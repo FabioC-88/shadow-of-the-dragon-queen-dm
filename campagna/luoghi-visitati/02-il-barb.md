@@ -16,4 +16,4 @@
 
 ## Note Aggiuntive
 
-Solo un personaggio del gruppo è stato qui: gli altri quattro non hanno mai visto il Barb. *Fonte: DSotDQ Cap. 2, "Eye in the Sky".*
+Solo un personaggio del gruppo è stato qui: gli altri quattro non hanno mai visto il Barb. *Fonte: DSotDQ Cap. 2, "Occhio nel Cielo (Eye in the Sky)".*

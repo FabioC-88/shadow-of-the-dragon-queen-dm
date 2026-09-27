@@ -20,7 +20,7 @@ Questo capitolo consiste principalmente in **preludi** — brevi incontri che pr
 - Nessuno di specifico — i preludi introducono il mondo, non PNG ricorrenti
 
 **Ciò che i PG scoprono:**
-- Prima testimonianza di draconiani o delle forze Dragon Army
+- Prima testimonianza di draconiani o delle forze dell'Armata dei Draghi
 - Rifugiati in fuga da est
 - Voci di guerra
 - Lettera di Becklin che invita al funerale di Ispin
@@ -42,7 +42,7 @@ Questo capitolo consiste principalmente in **preludi** — brevi incontri che pr
 |---------|------|------------|
 | Misfortune on the Road | Incontro ambientale | Possibile |
 | Divine Visions | Connessione con gli dei | No |
-| Fallen Refuge | Villaggio devastato | Sì |
+| Rifugio Caduto | Villaggio devastato | Sì |
 | Strange Tidings | Incontro con rifugiati | No |
 
 > Vedi il libro originale (Cap 2, sezione "Preludes") per i dettagli meccanici.

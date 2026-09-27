@@ -35,11 +35,11 @@
 
 Al centro delle rovine fluttua la sezione della città che regge la **Soglia dei Cieli**, la torre che un tempo controllava il volo magico della città. I personaggi potrebbero decidere di esplorare la torre in seguito alla loro conversazione con **Demelin**, o alle scoperte fatte nella Magione Occupata.
 
-Prima che si infiltrino nella torre, assicuratevi che i personaggi siano di **Livello 9** e abbiano concluso tutto ciò che desideravano fare nella città. Gli eventi all'interno della torre impediranno ulteriori esplorazioni. Se avete bisogno di dissuadere i personaggi da altre deviazioni, un gruppo di **draconiani sivak** o di **dragonnel del Dragon Army** (vedi schede in FASE 1) sta conducendo delle esercitazioni qui quando arrivano.
+Prima che si infiltrino nella torre, assicuratevi che i personaggi siano di **Livello 9** e abbiano concluso tutto ciò che desideravano fare nella città. Gli eventi all'interno della torre impediranno ulteriori esplorazioni. Se avete bisogno di dissuadere i personaggi da altre deviazioni, un gruppo di **draconiani sivak** o di **dragonnel dell'Armata dei Draghi** (vedi schede in FASE 1) sta conducendo delle esercitazioni qui quando arrivano.
 
 ### Raggiungere la Soglia
 
-Sebbene il resto di Onyari abbia perso la propria capacità di volo, l'isola che sorregge la Soglia dei Cieli continua a fluttuare nell'aria. Quest'isola si trova a 9 metri dal suolo, costringendo le truppe del Dragon Army a volare per raggiungere la torre. I personaggi potrebbero trovare un modo per fare lo stesso. In alternativa, un personaggio può salire saltando tra una serie di rocce fluttuanti e superando tre prove di **Forza (Atletica) CD 14**. Un personaggio sale di 3 metri a ogni prova superata. Se fallisce una prova, non fa alcun progresso. Se la fallisce di 5 o più, precipita al suolo e deve ricominciare l'intero processo.
+Sebbene il resto di Onyari abbia perso la propria capacità di volo, l'isola che sorregge la Soglia dei Cieli continua a fluttuare nell'aria. Quest'isola si trova a 9 metri dal suolo, costringendo le truppe dell'Armata dei Draghi a volare per raggiungere la torre. I personaggi potrebbero trovare un modo per fare lo stesso. In alternativa, un personaggio può salire saltando tra una serie di rocce fluttuanti e superando tre prove di **Forza (Atletica) CD 14**. Un personaggio sale di 3 metri a ogni prova superata. Se fallisce una prova, non fa alcun progresso. Se la fallisce di 5 o più, precipita al suolo e deve ricominciare l'intero processo.
 
 ### Caratteristiche della Soglia
 
@@ -72,9 +72,9 @@ Una volta che i personaggi raggiungono l'isola fluttuante della Soglia dei Cieli
 
 Una piazza aperta si estende per 30 metri su ogni lato della torre, terminando al bordo dell'isola.
 
-***Pattuglia della Torre.*** Tre **ufficiali del Dragon Army** in sella a **dragonnel del Dragon Army** pattugliano l'area vicino alla torre. Ignorano le creature che indossano l'armatura del Dragon Army, ma affrontano chiunque altro si trovi sull'isola fluttuante. Se le guardie della torre vengono attaccate, questa pattuglia arriva in loro soccorso entro 2 round.
+***Pattuglia della Torre.*** Tre **ufficiali dell'Armata dei Draghi** in sella a **dragonnel dell'Armata dei Draghi** pattugliano l'area vicino alla torre. Ignorano le creature che indossano l'armatura dell'Armata dei Draghi, ma affrontano chiunque altro si trovi sull'isola fluttuante. Se le guardie della torre vengono attaccate, questa pattuglia arriva in loro soccorso entro 2 round.
 
-***Guardie della Torre.*** Quattro **draconiani sivak** sorvegliano l'ingresso della torre. Fermano chiunque tenti di entrare, che indossi o meno l'armatura del Dragon Army, ed esigono che pronunci la parola d'ordine. Se un personaggio risponde con la parola d'ordine appresa nella Magione Occupata ("Per sua volontà: il mondo"), i draconiani lasciano passare i personaggi. Se non la pronunciano, un personaggio deve superare una prova di **Carisma (Inganno) CD 18** per ingannare i sivak; altrimenti, i sivak attaccano. I personaggi che indossano l'armatura del Dragon Army o un abbigliamento simile hanno vantaggio alle prove di Carisma usate per influenzare le guardie della torre. I draconiani ignorano i rumori provenienti dall'interno della torre.
+***Guardie della Torre.*** Quattro **draconiani sivak** sorvegliano l'ingresso della torre. Fermano chiunque tenti di entrare, che indossi o meno l'armatura dell'Armata dei Draghi, ed esigono che pronunci la parola d'ordine. Se un personaggio risponde con la parola d'ordine appresa nella Magione Occupata ("Per sua volontà: il mondo"), i draconiani lasciano passare i personaggi. Se non la pronunciano, un personaggio deve superare una prova di **Carisma (Inganno) CD 18** per ingannare i sivak; altrimenti, i sivak attaccano. I personaggi che indossano l'armatura dell'Armata dei Draghi o un abbigliamento simile hanno vantaggio alle prove di Carisma usate per influenzare le guardie della torre. I draconiani ignorano i rumori provenienti dall'interno della torre.
 
 ### Stat Block — Draconiano Sivak (×4) · CR 4 · 1.100 XP cad. *(scheda identica a Sessioni 13/15 — riutilizzata per continuità meccanica)*
 
@@ -90,7 +90,7 @@ Linguaggi Comune, Draconico
 CR 4 (1.100 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
+Spasmi di Morte. Quando il sivak è ridotto a 0 PF da una creatura Grande o più
 piccola, si sbriciola in polvere che si ricompone nell'IMMAGINE SPETTRALE E
 URLANTE DI CHI LO HA UCCISO. L'immagine dura 1 minuto. Ogni creatura ostile al
 sivak entro 3 m dall'immagine: TS Saggezza CD 14 o è Spaventata dall'immagine per
@@ -109,7 +109,7 @@ Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
   sivak non muore o non usa un'azione bonus per terminarla.
 ```
 
-### Stat Block — Ufficiale del Dragon Army (×3) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16)*
+### Stat Block — Ufficiale dell'Armata dei Draghi (×3) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16)*
 
 ```
 UFFICIALE DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
@@ -140,7 +140,7 @@ Ordini d'Assalto (Ricarica 5–6). L'ufficiale urla ordini e sceglie fino a due
   può sentirlo, può usare la propria reazione per effettuare un attacco in mischia.
 ```
 
-### Stat Block — Dragonnel del Dragon Army (×3, cavalcature) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16)*
+### Stat Block — Dragonnel dell'Armata dei Draghi (×3, cavalcature) · CR 3 · 700 XP cad. *(scheda identica a Sessioni 06/16)*
 
 ```
 DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
@@ -169,7 +169,7 @@ Squarcio. +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
 
 ---
 
-**Attitudine PNG in questa scena:** *(nessun PNG nominato — solo truppe ostili generiche del Dragon Army, -3 Ostile per default di fazione, vedi `campagna/fazioni.md`)*
+**Attitudine PNG in questa scena:** *(nessun PNG nominato — solo truppe ostili generiche dell'Armata dei Draghi, -3 Ostile per default di fazione, vedi `campagna/fazioni.md`)*
 
 ---
 
@@ -236,7 +236,7 @@ Linguaggi Comune, Draconico
 CR 2 (450 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
+Spasmi di Morte. Quando il bozak è ridotto a 0 PF, scaglie e carne si raggrinziscono
 all'istante, poi le sue OSSA ESPLODONO. Ogni creatura entro 3 m: TS Destrezza
 CD 10 o subisce 9 (2d8) danni da FORZA.
 —
@@ -256,7 +256,7 @@ Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
   1/giorno ciascuno: enlarge/reduce, invisibility, stinking cloud, web
 ```
 
-*[NOTA DM — riservata] **Chi è davvero Belephaion — primo indizio.** Il dettaglio che Guelfost lascia cadere — "diffida del co-comandante Belephaion, che detiene un qualche potere segreto" — è il primo indizio seminato dalla fonte sulla vera natura di Belephaion (drago blu travestito, rivelata meccanicamente solo in T10). Guelfost non sa cosa sia questo "potere segreto": lo percepisce solo istintivamente, come farebbe un subordinato leale che fiuta qualcosa di sbagliato nel proprio superiore senza saperlo argomentare. Se i personaggi insistono per saperne di più (Intuizione, Arcano, Religione), Guelfost non ha altro da aggiungere — non forzare oltre l'indizio, il resto va guadagnato in T9 (Lohezet, più consapevole) e T10 (la rivelazione stessa). Utile soprattutto come innesco per il PG legato al preludio **Scales of War** (vedi tabella "Hook PG" più sotto).*
+*[NOTA DM — riservata] **Chi è davvero Belephaion — primo indizio.** Il dettaglio che Guelfost lascia cadere — "diffida del co-comandante Belephaion, che detiene un qualche potere segreto" — è il primo indizio seminato dalla fonte sulla vera natura di Belephaion (drago blu travestito, rivelata meccanicamente solo in T10). Guelfost non sa cosa sia questo "potere segreto": lo percepisce solo istintivamente, come farebbe un subordinato leale che fiuta qualcosa di sbagliato nel proprio superiore senza saperlo argomentare. Se i personaggi insistono per saperne di più (Intuizione, Arcano, Religione), Guelfost non ha altro da aggiungere — non forzare oltre l'indizio, il resto va guadagnato in T9 (Lohezet, più consapevole) e T10 (la rivelazione stessa). Utile soprattutto come innesco per il PG legato al preludio **Scaglie di Guerra (Scales of War)** (vedi tabella "Hook PG" più sotto).*
 
 ---
 
@@ -375,9 +375,9 @@ Il piedistallo qui è una rappresentazione illusoria di Onyari prima del suo sch
 *[Aggiunta atmosferica]:*
 > *L'odore di metallo bruciato non si è mai dissolto del tutto, anni dopo l'incidente che ha reso mute queste consolle. Ogni scintilla che sfrigola nel silenzio sembra un'ultima, ostinata parola di una macchina che non ha ancora accettato la propria morte.*
 
-Le consolle un tempo svolgevano una funzione magica, ma i soldati del Dragon Army le hanno accidentalmente distrutte. Le consolle ora ronzano di magia malfunzionante. Un personaggio che supera una prova di **Intelligenza (Arcano) CD 12** determina che le consolle sono danneggiate oltre ogni possibilità di riparazione.
+Le consolle un tempo svolgevano una funzione magica, ma i soldati dell'Armata dei Draghi le hanno accidentalmente distrutte. Le consolle ora ronzano di magia malfunzionante. Un personaggio che supera una prova di **Intelligenza (Arcano) CD 12** determina che le consolle sono danneggiate oltre ogni possibilità di riparazione.
 
-***Flameskull.*** Da quando l'incidente ha colpito questa stanza, **Lohezet** non permette ai soldati del Dragon Army di salire oltre questo piano. Tre **flameskull** sorvegliano questa stanza e attaccano chiunque, tranne **Lohezet**, vi entri. I flameskull non sono presenti se sono stati richiamati a investigare l'area T3.
+***Flameskull.*** Da quando l'incidente ha colpito questa stanza, **Lohezet** non permette ai soldati dell'Armata dei Draghi di salire oltre questo piano. Tre **flameskull** sorvegliano questa stanza e attaccano chiunque, tranne **Lohezet**, vi entri. I flameskull non sono presenti se sono stati richiamati a investigare l'area T3.
 
 ### Stat Block — Flameskull (×3) · CR 4 · 1.100 XP cad. *(creatura standard — Manuale dei Mostri, ricostruita per assenza del manuale base in questo estratto)*
 
@@ -413,9 +413,9 @@ Morso. Attacco con arma in mischia: +5 al colpire, portata 1,5 m. Colpito: 14 (4
 
 Due **draconiani aurak** sono chini sul tavolo, intenti a studiarlo. Possono essere colti di sorpresa da un personaggio che supera una prova di **Destrezza (Furtività) CD 8**.
 
-***Mappa Magica.*** La mappa magica sul tavolo cambia man mano che la città vola, raffigurando accuratamente il paesaggio per molti chilometri intorno alla città. Un personaggio che supera una prova di **Saggezza (Sopravvivenza) CD 14** riconosce che la mappa raffigura le Terre Desolate Settentrionali, e riesce a individuare grandi gruppi di soldati in marcia a sud della città: forze del Dragon Army e truppe di Kalaman.
+***Mappa Magica.*** La mappa magica sul tavolo cambia man mano che la città vola, raffigurando accuratamente il paesaggio per molti chilometri intorno alla città. Un personaggio che supera una prova di **Saggezza (Sopravvivenza) CD 14** riconosce che la mappa raffigura le Terre Desolate Settentrionali, e riesce a individuare grandi gruppi di soldati in marcia a sud della città: forze dell'Armata dei Draghi e truppe di Kalaman.
 
-### Stat Block — Draconiano Aurak (×2) · CR 6 · 2.300 XP cad. *(scheda identica a Sessione 18 — "Captain Hask", riutilizzata per continuità meccanica)*
+### Stat Block — Draconiano Aurak (×2) · CR 6 · 2.300 XP cad. *(scheda identica a Sessione 18 — "Capitano Hask", riutilizzata per continuità meccanica)*
 
 ```
 DRACONIANO AURAK — DSotDQ p196, scheda ufficiale
@@ -435,7 +435,7 @@ Aura di Comando. L'aurak irradia una presenza autorevole in una sfera di raggio
 non può essere affascinato e ha vantaggio ai TS per evitare o terminare su di sé
 la condizione Spaventato.
 —
-Death Throes. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
+Spasmi di Morte. Quando l'aurak è ridotto a 0 PF, la sua essenza magica esplode in
 una SFERA DI FULMINE contro la creatura più vicina entro 9 m, poi rimbalza su
 fino ad altre due creature entro 4,5 m dalla prima. Ogni bersaglio: TS Destrezza
 CD 14. Fallimento: 9 (2d8) danni da fulmine ed è STORDITO fino alla fine del
@@ -452,16 +452,16 @@ Respiro Nocivo (Ricarica 5–6). Cono di 4,5 m di gas velenoso. Ogni creatura
   al Respiro Nocivo di QUALSIASI draconiano per 24 ore.
 Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
   (CD tiro salvezza 14):
-  A volontà: invisibility, mage hand
+  A volontà: invisibility, mago hand
   2/giorno ciascuno: dimension door, disguise self, sending
   1/giorno: dominate person
 ```
 
-*[NOTA DM — riservata] Sorprendibili con CD 8 Furtività (bassa) — un party che si muove con cautela può evitare del tutto il combattimento, ascoltando la conversazione o semplicemente proseguendo verso T9. Se scoperti e ostili, ricorda lo Sguardo Dominante e la Morte Corrosiva già visti con Captain Hask in Sessione 18 — stessa scheda, stesso comportamento.*
+*[NOTA DM — riservata] Sorprendibili con CD 8 Furtività (bassa) — un party che si muove con cautela può evitare del tutto il combattimento, ascoltando la conversazione o semplicemente proseguendo verso T9. Se scoperti e ostili, ricorda lo Sguardo Dominante e la Morte Corrosiva già visti con il Capitano Hask in Sessione 18 — stessa scheda, stesso comportamento.*
 
 ---
 
-**Attitudine PNG in questa scena:** *(nessun PNG nominato — truppe generiche del Dragon Army)*
+**Attitudine PNG in questa scena:** *(nessun PNG nominato — truppe generiche dell'Armata dei Draghi)*
 
 ---
 
@@ -478,10 +478,10 @@ Incantesimi. Lancia uno dei seguenti senza componenti materiali, usando Carisma
 
 La magia di scrutazione di questa camera un tempo informava i navigatori della città su tempeste e altre minacce in avvicinamento. Il mago in vesti nere **Lohezet**, curvo sulla scrivania sud-ovest, ha usato la propria magia per alterare il focus degli specchi magici, fissandone uno su Kalaman.
 
-***Parlare con Lohezet.*** **Lohezet** è sorpreso di vedere degli estranei. Dopo aver intuito le intenzioni dei personaggi, tenta di convincerli di essere stato costretto a servire i Dragon Army. Un personaggio può scoprire la menzogna con una prova di **Saggezza (Intuizione) CD 14**. Se la smascherano, egli tenta comunque di negoziare e condivide le seguenti informazioni:
+***Parlare con Lohezet.*** **Lohezet** è sorpreso di vedere degli estranei. Dopo aver intuito le intenzioni dei personaggi, tenta di convincerli di essere stato costretto a servire l'Armata dei Draghi. Un personaggio può scoprire la menzogna con una prova di **Saggezza (Intuizione) CD 14**. Se la smascherano, egli tenta comunque di negoziare e condivide le seguenti informazioni:
 
-- A **Lohezet** non importa nulla degli obiettivi dei Dragon Army; essi finanziano semplicemente la sua ricerca.
-- Ha scoperto la posizione della Città dei Nomi Perduti mentre era al seguito del Black Dragon Army, a est.
+- A **Lohezet** non importa nulla degli obiettivi dell'Armata dei Draghi; essi finanziano semplicemente la sua ricerca.
+- Ha scoperto la posizione della Città dei Nomi Perduti mentre era al seguito dell'Armata dei Draghi Neri, a est.
 - La Soglia dei Cieli è il centro di controllo della città. Lui e il sacerdote **Belephaion** ne hanno riattivato la magia. Ora attendono ordini per sollevare la città nel cielo.
 - **Belephaion**, che si trova attualmente nella camera sovrastante, è un fanatico adoratore della Regina dei Draghi. Se i personaggi uccidono **Belephaion**, **Lohezet** lascerà la città senza opporre resistenza.
 
@@ -495,7 +495,7 @@ La magia di scrutazione di questa camera un tempo informava i navigatori della c
 
 ```
 LOHEZET — umanoide Medio (umano), neutrale malvagio
-CA 12 (15 con mantello armato/mage armor)   PF 40 (9d8)   Velocità 9 m
+CA 12 (15 con mantello armato/mago armor)   PF 40 (9d8)   Velocità 9 m
 STR 9 (-1)  DEX 14 (+2)  CON 11 (+0)  INT 17 (+3)  WIS 12 (+1)  CHA 11 (+0)
 TS Intelligenza +6, Saggezza +4
 Abilità Arcano +6, Storia +6
@@ -505,7 +505,7 @@ AZIONI
 Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m o gittata 6/18 m. Colpito: 4 (1d4+2) danni perforanti.
 Lancio Incantesimi. Lohezet è un incantatore di 9° livello (CD tiro salvezza incantesimi 14, +6 per colpire con attacchi in mischia con incantesimi). Ha preparato i seguenti incantesimi da mago:
 Trucchetti (a volontà): dardo infuocato, luce, mano magica, prestidigitazione
-1° livello (4 slot): individuazione magie, mantello armato (mage armor), missile magico, scudo
+1° livello (4 slot): individuazione magie, mantello armato (mago armor), missile magico, scudo
 2° livello (3 slot): passo velato (misty step), suggestione
 3° livello (3 slot): contro-incantesimo, palla di fuoco, volare
 4° livello (3 slot): invisibilità superiore, tempesta di ghiaccio
@@ -514,7 +514,7 @@ Trucchetti (a volontà): dardo infuocato, luce, mano magica, prestidigitazione
 
 *[NOTA DM — riservata] **Ricostruzione dichiarata — discrepanza con `campagna/png-incontrati.md`.** *Appendix B* non fornisce una scheda per Lohezet in questo estratto. Ho ricostruito una scheda standard da "Mago" (Manuale dei Mostri, CR 6), coerente con la caratterizzazione di ricercatore pragmatico più che combattente diretto — l'incontro in T9 è pensato dalla fonte come dialogo/negoziazione, non come scontro immediato ("l'intero incontro è pensato come dialogo... la fonte non impone uno scontro"). **Nota importante:** `campagna/png-incontrati.md` riporta per Lohezet "CR 9" nella colonna Note — un valore scritto probabilmente prima che questa sezione della fonte fosse tradotta e verificata. Non ho alterato quel file (fuori scope per questo documento), ma segnalo la discrepanza: `[TODO DM: correggere la voce Lohezet in png-incontrati.md dopo la sessione, verificando se il CR 9 preesistente derivi da un'altra fonte o sia da aggiornare a CR 6]`. Se Lohezet finisce per combattere (imboscata futura, o se il party attacca senza negoziare), considera di rinforzarlo con qualche slot incantesimo aggiuntivo per avvicinarlo a un CR più alto, a discrezione del tavolo.*
 
-***Chi è davvero Lohezet.*** Coerente con `campagna/contesto.md` ("Nemico Intellettuale": ricercatore pragmatico, non ideologo) e con `campagna/png-incontrati.md` ("freddo, metodico, ossessionato dalla ricerca; crede di servire un obiettivo superiore"), il vero obiettivo di Lohezet non è la vittoria del Dragon Army né la gloria di Takhisis: è la ricerca stessa. I Dragon Army sono per lui un mecenate, non una fede — motivo per cui è disposto a negoziare invece di morire per un'ideologia che non condivide davvero. La sua diffidenza verso Belephaion (rivelata già da Guelfost in T2) è autentica: Lohezet ha intuito che il proprio "co-comandante" nasconde qualcosa di più grande di un semplice fanatismo religioso, ma non ha le prove né l'interesse a scoprirlo finché non gli serve.
+***Chi è davvero Lohezet.*** Coerente con `campagna/contesto.md` ("Nemico Intellettuale": ricercatore pragmatico, non ideologo) e con `campagna/png-incontrati.md` ("freddo, metodico, ossessionato dalla ricerca; crede di servire un obiettivo superiore"), il vero obiettivo di Lohezet non è la vittoria dell'Armata dei Draghi né la gloria di Takhisis: è la ricerca stessa. L'Armata dei Draghi sono per lui un mecenate, non una fede — motivo per cui è disposto a negoziare invece di morire per un'ideologia che non condivide davvero. La sua diffidenza verso Belephaion (rivelata già da Guelfost in T2) è autentica: Lohezet ha intuito che il proprio "co-comandante" nasconde qualcosa di più grande di un semplice fanatismo religioso, ma non ha le prove né l'interesse a scoprirlo finché non gli serve.
 
 *[NOTA DM — riservata] **Se scende, resta, o attacca — è una scelta del DM, non della fonte.** Il testo lascia esplicitamente aperta la decisione ("potrebbe mantenere la parola... oppure potrebbe tendere un'imboscata"). Usa questo come leva narrativa per la campagna: se vuoi un filo narrativo aperto verso il Cap. 7 (Lohezet fugge, riferisce ai suoi superiori ciò che ha visto — coerente con `campagna/rapporti.md`, "Lohezet — Kansaldi Fire-Eyes: Subordinato → Capo"), fallo scappare non appena Belephaion cade. Se preferisci chiudere qui il suo arco, l'imboscata è altrettanto legittima. In entrambi i casi, **non rivelare il nome di Kansaldi come mandante ultimo se il tavolo non lo ha già scoperto altrove** — Lohezet la cita solo come "chi finanzia la mia ricerca", mai per nome, a meno che i personaggi non la conoscano già da sessioni precedenti.*
 
@@ -626,9 +626,9 @@ Soffio di Fulmine (Ricarica 5–6). Belephaion esala un fulmine lungo una linea 
 
 | Preludio | Hook in Sessione 20 |
 |----------|---------------------|
-| **Broken Silence** (PG con connessione divina) | Il contrasto con la Sessione 19 è diretto e vale la pena sottolinearlo a tavolo: dopo aver sentito la voce autentica di Paladine nel Tempio, il PG con connessione divina attraversa qui un santuario dello stesso antico ordine religioso (T2, i murales del kingpriest e le vasche di acqua santa) ormai profanato e presidiato da un diavolo delle ossa — e incontra, al culmine, un prete di Takhisis (**Belephaion**) la cui devozione è altrettanto genuina di quella sperimentata in P7, ma rivolta al male. Lascia che il personaggio noti esplicitamente questo specchio distorto: la stessa intensità di fede, diretta all'opposto. Le quattro fiaschette di acqua santa recuperabili in T2 sono un dettaglio meccanico concreto che questo PG potrebbe voler portare con sé proprio in vista dello scontro con un fanatico di Takhisis. |
-| **Eye in the Sky** (PG incantatore, thread Maghi di Alta Stregoneria) | Hook centrale di questa sessione. **Lohezet** (T9) è il contraltare oscuro esplicito di questo preludio: un mago pragmatico per cui la ricerca arcana conta più di qualsiasi fedeltà ideologica — "ai Dragon Army non importa nulla, mi finanziano soltanto". Se il PG ha sostenuto il Test di Alta Stregoneria (Sessione 17), consenti un'interazione supplementare non richiesta dalla fonte: una prova di **Intelligenza (Arcano)**, superata la quale Lohezet riconosce nel personaggio "uno che capisce" e condivide un dettaglio in più sulle reliquie istariane del proprio tesoro (puro colore, nessuna meccanica aggiuntiva) prima di negoziare. È anche l'occasione per una domanda scomoda da lasciar aleggiare senza rispondere: quanto è distante questo PG, nella propria ambizione di conoscenza, dal punto in cui si trova oggi Lohezet? |
-| **Scales of War** (tutti) | Questa sessione porta il tema a un nuovo livello rispetto alle sessioni precedenti sui draconiani: **Belephaion** non è un soldato corrotto ma un vero drago blu travestito da sacerdote umano, il primo di questo tipo incontrato dal party. L'indizio di Guelfost in T2 ("diffida del co-comandante, che detiene un qualche potere segreto") è il presagio prima della rivelazione meccanica in T10. Per i personaggi che hanno già riflettuto sul tema di draghi/draconiani come vittime o strumenti della Regina Dragone (Sessioni 17–19), Belephaion offre il controesempio: un drago che ha scelto liberamente la propria devozione fanatica a Takhisis, non un draconiano corrotto senza scelta. È un buon momento per lasciare che un personaggio di questo preludio articoli, anche solo a bassa voce, la differenza. |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | Il contrasto con la Sessione 19 è diretto e vale la pena sottolinearlo a tavolo: dopo aver sentito la voce autentica di Paladine nel Tempio, il PG con connessione divina attraversa qui un santuario dello stesso antico ordine religioso (T2, i murales del kingpriest e le vasche di acqua santa) ormai profanato e presidiato da un diavolo delle ossa — e incontra, al culmine, un prete di Takhisis (**Belephaion**) la cui devozione è altrettanto genuina di quella sperimentata in P7, ma rivolta al male. Lascia che il personaggio noti esplicitamente questo specchio distorto: la stessa intensità di fede, diretta all'opposto. Le quattro fiaschette di acqua santa recuperabili in T2 sono un dettaglio meccanico concreto che questo PG potrebbe voler portare con sé proprio in vista dello scontro con un fanatico di Takhisis. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore, thread Maghi dell'Alta Stregoneria) | Hook centrale di questa sessione. **Lohezet** (T9) è il contraltare oscuro esplicito di questo preludio: un mago pragmatico per cui la ricerca arcana conta più di qualsiasi fedeltà ideologica — "all'Armata dei Draghi non importa nulla, mi finanziano soltanto". Se il PG ha sostenuto la Prova dell'Alta Stregoneria (Sessione 17), consenti un'interazione supplementare non richiesta dalla fonte: una prova di **Intelligenza (Arcano)**, superata la quale Lohezet riconosce nel personaggio "uno che capisce" e condivide un dettaglio in più sulle reliquie istariane del proprio tesoro (puro colore, nessuna meccanica aggiuntiva) prima di negoziare. È anche l'occasione per una domanda scomoda da lasciar aleggiare senza rispondere: quanto è distante questo PG, nella propria ambizione di conoscenza, dal punto in cui si trova oggi Lohezet? |
+| **Scaglie di Guerra** (tutti) | Questa sessione porta il tema a un nuovo livello rispetto alle sessioni precedenti sui draconiani: **Belephaion** non è un soldato corrotto ma un vero drago blu travestito da sacerdote umano, il primo di questo tipo incontrato dal party. L'indizio di Guelfost in T2 ("diffida del co-comandante, che detiene un qualche potere segreto") è il presagio prima della rivelazione meccanica in T10. Per i personaggi che hanno già riflettuto sul tema di draghi/draconiani come vittime o strumenti della Regina dei Draghi (Sessioni 17–19), Belephaion offre il controesempio: un drago che ha scelto liberamente la propria devozione fanatica a Takhisis, non un draconiano corrotto senza scelta. È un buon momento per lasciare che un personaggio di questo preludio articoli, anche solo a bassa voce, la differenza. |
 | **Tutti** | L'intera Soglia dei Cieli è costruita sul tema dell'**inganno che si rivela**: la parola d'ordine rubata che apre la porta (T1), la menzogna di Lohezet smascherabile con Intuizione (T9), e infine la vera natura di Belephaion (T10) — in continuità diretta con l'accento sull'inganno già presente in Sessione 18. Il momento di svolta finale (l'attivazione dell'elmo, la città che comincia a sollevarsi) è pensato come gancio di fine sessione condiviso da tutto il tavolo: lascia che il tremore del pavimento e il boato lontano restino l'ultima immagine della sessione, prima di chiudere sul cliffhanger verso "La Città Si Solleva". |
 
 ---
@@ -652,18 +652,18 @@ Soffio di Fulmine (Ricarica 5–6). Belephaion esala un fulmine lungo una linea 
 | # | Fase | Location | Creature/PNG | Note |
 |---|------|----------|--------------|------|
 | 0 | FASE 0 | Salita alla Soglia (pre-T1) | — | Volo, o 3× CD 14 Forza (Atletica) per salire 9 m saltando tra rocce fluttuanti; fallire di 5+ = caduta e si ricomincia |
-| 1 | FASE 1 | T1 — Piazza | 4× draconiano sivak (CR2/450XP), 3× ufficiale Dragon Army (CR3/700XP) su 3× dragonnel Dragon Army (CR4/1.100XP) | Parola d'ordine "Per sua volontà: il mondo" fa passare senza combattere; altrimenti CD 18 Carisma (Inganno), vantaggio se in uniforme Dragon Army; pattuglia arriva in 2 round se le guardie sono attaccate |
+| 1 | FASE 1 | T1 — Piazza | 4× draconiano sivak (CR2/450XP), 3× ufficiale dell'Armata dei Draghi (CR3/700XP) su 3× dragonnel dell'Armata dei Draghi (CR4/1.100XP) | Parola d'ordine "Per sua volontà: il mondo" fa passare senza combattere; altrimenti CD 18 Carisma (Inganno), vantaggio se in uniforme dell'Armata dei Draghi; pattuglia arriva in 2 round se le guardie sono attaccate |
 | 2 | FASE 2 | T2 — Ingresso | Guelfost, diavolo delle ossa (CR9/5.000XP) + Orm, draconiano bozak (CR3/700XP) | CD 12 Carisma (Inganno) per convincere Orm; Guelfost smette di attaccare se Orm muore; parola istariana "cetteth" rivelata come info utile per T4; tesoro: 2 vasche = 4 fiaschette di acqua santa cad. |
 | 3 | FASE 2 | T3 — Sala di Monitoraggio della Torre | — (nessuna creatura) | CD 14 Intelligenza (Arcano) per capire le consolle; azionare la consolle fa precipitare l'isola di 3 m (spavento, nessun danno) e **allerta i 3 flameskull di T7**, che raggiungono i personaggi ovunque si trovino dopo 1 minuto; CD 16 Saggezza (Percezione) per riconoscere il simbolo come mappa aerea della torre |
 | 4 | FASE 3 | T4 — Campo di Energia | 1× drone istariano (CR3/700XP, rilasciato se una colonna subisce danno) | CD 16 Destrezza o 22 (4d10) danni da fulmine a ogni turno in area; dire "cetteth" dà immunità 24h; colonne CA 16, 18 PF, immuni veleno/psichico; 3+ colonne distrutte fermano l'effetto |
 | 5 | FASE 3 | T5 — Sala di Manutenzione dei Droni | 2× drone istariano (CR3/700XP cad., spenti finché non danneggiati) | Si attivano solo se drone/colonna/consolle subiscono danno; CD 20 Intelligenza (Arcano) per comandare un drone dalla consolle |
 | 6 | FASE 4 | T6 — Panoramica della Città | — | Solo lore: plastico illusorio di Onyari pre-caduta, sezioni "sfarfallanti" = zone distrutte/cambiate |
 | 7 | FASE 4 | T7 — Comunicazioni | 3× flameskull (CR4/1.100XP cad., assenti se già attirati a T3) | CD 12 Intelligenza (Arcano) per capire che le consolle sono irreparabili; i flameskull attaccano chiunque tranne Lohezet |
-| 8 | FASE 4 | T8 — Navigazione | 2× draconiano aurak (CR6/2.300XP cad., studiano la mappa) | CD 8 Destrezza (Furtività) per coglierli di sorpresa; CD 14 Saggezza (Sopravvivenza) per leggere la mappa magica (truppe Dragon Army e Kalaman visibili) |
+| 8 | FASE 4 | T8 — Navigazione | 2× draconiano aurak (CR6/2.300XP cad., studiano la mappa) | CD 8 Destrezza (Furtività) per coglierli di sorpresa; CD 14 Saggezza (Sopravvivenza) per leggere la mappa magica (truppe dell'Armata dei Draghi e Kalaman visibili) |
 | 9 | FASE 5 | T9 — Sala di Scrutazione | Lohezet, mago nero (CR6/2.300XP, ricostruito — vedi nota discrepanza CR con png-incontrati.md) | CD 14 Saggezza (Intuizione) per scoprire la sua menzogna; se scoperto, negozia e rivela info su Belephaion; tesoro: 6 componenti di platino (200 mo cad.), *gemma di luce*, *candela di invocazione*; specchi CA 13, 8 PF |
 | 10 | FASE 6 | T10 — Ponte | Belephaion, drago blu giovane travestito (CR9/5.000XP) + 2× draconiano bozak (CR3/700XP cad.) | Trasformazione (Mutare Forma) tra forma aquila/sacerdote/drago; attiva l'*elmo della citadel volante* che fa iniziare il sollevamento della città (vedi "La Città Si Solleva", Sessione 21); combatte fino alla morte; tesoro: *borsa conservante* con 1.000 mo, simbolo sacro di rubino di Takhisis (250 mo), *pietra di Ioun (intuizione)*, corona (3.500 mo); finestre CA 13, 50 PF |
 
-**Nota generale sulle schede creature:** sivak, ufficiale/dragonnel Dragon Army, bozak, e aurak riutilizzano schede già stabilite in Sessioni 06/13/15/16/18 (nessuna nuova invenzione). Diavolo delle ossa (Guelfost) e flameskull sono creature standard del Manuale dei Mostri, ricostruite per assenza del manuale base in questo estratto. Drone istariano, Belephaion (drago blu giovane + Mutare Forma) e Lohezet (mago nero) sono ricostruzioni nuove per questa sessione — le prime due segnalate con CR proposto per continuità futura, la terza segnalata con una discrepanza rispetto al CR indicato in `campagna/png-incontrati.md` (vedi note dedicate in FASE 5 e FASE 6).
+**Nota generale sulle schede creature:** sivak, ufficiale/dragonnel dell'Armata dei Draghi, bozak, e aurak riutilizzano schede già stabilite in Sessioni 06/13/15/16/18 (nessuna nuova invenzione). Diavolo delle ossa (Guelfost) e flameskull sono creature standard del Manuale dei Mostri, ricostruite per assenza del manuale base in questo estratto. Drone istariano, Belephaion (drago blu giovane + Mutare Forma) e Lohezet (mago nero) sono ricostruzioni nuove per questa sessione — le prime due segnalate con CR proposto per continuità futura, la terza segnalata con una discrepanza rispetto al CR indicato in `campagna/png-incontrati.md` (vedi note dedicate in FASE 5 e FASE 6).
 
 ---
 
@@ -695,7 +695,7 @@ Tutti i 13 testi boxed identificati dall'Agente 1 sono stati tradotti, verificat
 
 **Missioni secondarie: nessun hook da integrare.** Verificati `campagna/missioni-secondarie.md` e `campagna/fazioni.md`. Entrambi i file confermano esplicitamente che questa campagna **non prevede missioni secondarie strutturate**:
 
-- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza ai Dragon Armies." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
+- `campagna/missioni-secondarie.md`: "Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza alle Armate dei Draghi." Stato missioni: Pianificate 0, In Corso 0, Completate 0, Saltate 0.
 - `campagna/fazioni.md`: "Nessuna fazione del party ha **missioni secondarie strutturate** — questa campagna è lineare."
 
 Questo è coerente con quanto già osservato in tutte le Sessioni 04–19 precedenti. Non essendoci missioni in stato `In corso` o `Pianificata` per il livello attuale del party (Livello 9), lo Step 4 è saltato per intero. Il contenuto principale della sessione resta invariato.
@@ -705,10 +705,10 @@ In sostituzione della tabella "Hook Fazione", questa sezione documenta i **threa
 | Thread | Origine (questa sessione) | PG coinvolti | Stato | File/riferimento |
 |--------|---------------------------|--------------|-------|------------------|
 | Rivelazione Lord Soth / Bastione di Takhisis | T10 — attivazione dell'*elmo della citadel volante* da parte di Belephaion; la nota DM in T10 segnala esplicitamente che questo dispositivo è "lo stesso... che porterà alla rivelazione di Lord Soth" in S21 | Tutti | In attesa (informazione deliberatamente non anticipata al tavolo) | `campagna/fazioni.md` (sezione "Lord Soth e i Cavalieri Non-morti"); sezione "La Città Si Solleva" della fonte (righe 5198+, fuori da questo chunk) |
-| Sorte di Lohezet (fuga o imboscata) | T9 — Lohezet lascia esplicitamente aperta la propria mossa successiva in base all'esito dello scontro con Belephaion | PG Eye in the Sky (thread Maghi di Alta Stregoneria) | Seminato — decisione del DM da prendere in sessione, non ancora presa in questo documento | `campagna/rapporti.md` ("Lohezet — Kansaldi Fire-Eyes: Subordinato → Capo"); nota DM T9 di questo documento |
+| Sorte di Lohezet (fuga o imboscata) | T9 — Lohezet lascia esplicitamente aperta la propria mossa successiva in base all'esito dello scontro con Belephaion | PG Occhio nel Cielo (thread Maghi dell'Alta Stregoneria) | Seminato — decisione del DM da prendere in sessione, non ancora presa in questo documento | `campagna/rapporti.md` ("Lohezet — Kansaldi Fire-Eyes: Subordinato → Capo"); nota DM T9 di questo documento |
 | Caduta/sollevamento di Onyari e fuga dalla città | T10 — pavimento che sussulta, torri che tremano, rovine che iniziano a sollevarsi (cliffhanger di chiusura sessione) | Tutti | Attivo — trigger meccanico già scattato in questa sessione, sviluppo narrativo rimandato a S21 | Sezioni "La Città Si Solleva" e "Sfuggire al Nemico" della fonte (righe 5198–5285) |
 | Avanzamento a Livello 10 e apertura Cap. 7 | Il gate di livello e l'apertura del Cap. 7 sono nella sezione "Sfuggire al Nemico", non ancora raggiunta | Tutti | In attesa | Vedi ⚠️ Nota pre-sessione in apertura di questo documento |
-| Indizi sulla vera natura di Belephaion → riferimento a Kansaldi come mandante | T2 (Guelfost) e T9 (Lohezet, "chi finanzia la mia ricerca" senza nome) | PG Scales of War | Seminato — non ancora rivelato per nome | Nota DM T2 e T9 di questo documento; `campagna/png-incontrati.md` |
+| Indizi sulla vera natura di Belephaion → riferimento a Kansaldi come mandante | T2 (Guelfost) e T9 (Lohezet, "chi finanzia la mia ricerca" senza nome) | PG Scaglie di Guerra | Seminato — non ancora rivelato per nome | Nota DM T2 e T9 di questo documento; `campagna/png-incontrati.md` |
 | Correzione CR/meccaniche di Lohezet e Belephaion in png-incontrati.md | Discrepanza rilevata dall'Agente 6 tra le note preesistenti nel file e le meccaniche effettive della fonte | — | Da correggere post-sessione | Vedi POST-SESSION CHECKLIST e note DM in FASE 5/FASE 6 |
 
 ---
@@ -772,13 +772,13 @@ Dopo la sessione, aggiorna questi file:
 
 - [ ] `campagna/party.md` — nessun avanzamento di livello (resta 9); registra gli XP di combattimento assegnati (variabile, fino a ~30.400, gran parte evitabile) — `[TODO DM: verificare]` il file resta comunque a placeholder Livello 1/TBD finché la campagna non viene giocata realmente
 - [ ] `campagna/png-incontrati.md` — aggiungi **Guelfost** (diavolo delle ossa, servo forzato) e **Orm** (draconiano bozak, addestratore) come nuovi PNG del Cap. 6; aggiorna **Lohezet** e **Belephaion** con l'esito reale della sessione (negoziato/combattuto/fuggito/sconfitto) e **correggi la colonna Note** per entrambi — Lohezet: verificare se il "CR 9" preesistente va aggiornato a CR 6 (mago nero ricostruito) o mantenuto con motivazione diversa; Belephaion: sostituire "CR 10, spirit guardians/thunderwave" con "CR 9, drago blu giovane + Mutare Forma", coerente con la fonte primaria di questa sessione
-- [ ] `campagna/rapporti.md` — completa "Capitolo 05 (City of Lost Names — Cap 6 libro)" con l'esito della Soglia dei Cieli (Lohezet negoziato/combattuto, Belephaion sconfitto, eventuali tesori/oggetti magici acquisiti)
+- [ ] `campagna/rapporti.md` — completa "Capitolo 05 (Città dei Nomi Perduti — Cap 6 libro)" con l'esito della Soglia dei Cieli (Lohezet negoziato/combattuto, Belephaion sconfitto, eventuali tesori/oggetti magici acquisiti)
 - [ ] `campagna/fazioni.md` — nessun cambiamento diretto alle fazioni esistenti (invariato)
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione strutturata (invariato)
 - [ ] `campagna/contesto.md` — nessun cambiamento al Capitolo corrente (resta **6**) — verifica comunque dopo la sessione reale
 - [ ] `campagna/sessioni/recaps/recap-sessione-20.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
 - [ ] `/aggiorna-locations 20` — esegui dopo la sessione (Soglia dei Cieli)
-- [ ] `/prep-sessione 21` — prepara la prossima: **"La Città Si Solleva" + "Sfuggire al Nemico"** (righe 5198–5285), rivelazione di Lord Soth e del Bastione di Takhisis come citadel volante, fuga dalla città, ricongiungimento con le truppe di Kalaman, **avanzamento a Livello 10**, e **chiusura reale del Cap. 6** con probabile apertura del Cap. 7 (riga 5286, "Siege of Kalaman")
+- [ ] `/prep-sessione 21` — prepara la prossima: **"La Città Si Solleva" + "Sfuggire al Nemico"** (righe 5198–5285), rivelazione di Lord Soth e del Bastione di Takhisis come citadel volante, fuga dalla città, ricongiungimento con le truppe di Kalaman, **avanzamento a Livello 10**, e **chiusura reale del Cap. 6** con probabile apertura del Cap. 7 (riga 5286, "Assedio di Kalaman (*Siege of Kalaman*)")
 
 ---
 
@@ -794,7 +794,7 @@ Dopo la sessione, aggiorna questi file:
 | 6 | PNG | png-incontrati.md | Confermato Lohezet e Belephaion a **-3 Ostile**, coerente con il file di tracking; confermato che si tratta della prima apparizione fisica di entrambi in campagna |
 | 7 | PNG | png-incontrati.md | Rilevata e segnalata discrepanza tra la nota esistente su **Belephaion** ("CR 10, usa spirit guardians e thunderwave") e la fonte primaria di questa sessione (scheda del drago blu giovane, CR 9, azione Mutare Forma) — probabile nota speculativa scritta prima della traduzione di questa sezione. Segnalato `[TODO DM]` invece di alterare il file di campagna (fuori scope per questo documento) |
 | 8 | PNG | png-incontrati.md | Rilevata e segnalata discrepanza analoga per **Lohezet** ("CR 9" nel file vs. CR 6 ricostruito qui su base "Mago" standard) — stesso trattamento `[TODO DM]` |
-| 9 | Stat Block | Sivak, Ufficiale/Dragonnel Dragon Army, Bozak, Aurak | Riutilizzate identiche le schede già stabilite in sessioni precedenti per continuità meccanica: Sivak (CR2/450XP, S13/S15), Bozak (CR3/700XP, S18), Aurak (CR6/2.300XP, S18/Captain Hask), Dragonnel (CR4/1.100XP, S06/S16), Ufficiale Dragon Army (CR3/700XP, S06/S16) — nessuna nuova invenzione |
+| 9 | Stat Block | Sivak, Ufficiale/Dragonnel dell'Armata dei Draghi (*Dragonnel Dragon Army*), Bozak, Aurak | Riutilizzate identiche le schede già stabilite in sessioni precedenti per continuità meccanica: Sivak (CR2/450XP, S13/S15), Bozak (CR3/700XP, S18), Aurak (CR6/2.300XP, S18/Capitano Hask), Dragonnel (CR4/1.100XP, S06/S16), Ufficiale dell'Armata dei Draghi (CR3/700XP, S06/S16) — nessuna nuova invenzione |
 | 10 | Stat Block | Guelfost, Flameskull ×3 | Costruite ex novo (creature standard Manuale dei Mostri, prima apparizione in campagna): Diavolo delle ossa "Guelfost" (CR9/5.000XP), Flameskull (CR4/1.100XP cad.) — segnalate con nota di ricostruzione dichiarata |
 | 11 | Stat Block | Drone Istariano, Belephaion, Lohezet | Costruite ex novo (nessun precedente riusabile, nessun equivalente diretto nel Manuale dei Mostri per il drone): Drone Istariano (CR3/700XP, costrutto ricostruito), Belephaion (drago blu giovane, CR9/5.000XP + Mutare Forma dalla fonte), Lohezet (mago nero, CR6/2.300XP, base "Mago" standard) — tutte segnalate con `[NOTA DM]` di ricostruzione dichiarata e istruzione di riutilizzo futuro dove pertinente |
 | 12 | Struttura | Fasi | Introdotte 7 FASI numerate con durata stimata (totale 2h30m): FASE 0 Salita (10'), FASE 1 T1 (20'), FASE 2 T2–T3 (20'), FASE 3 T4–T5 (20'), FASE 4 T6–T8 (15'), FASE 5 T9/Lohezet (30'), FASE 6 T10/Belephaion (35') — assenti nel draft, che presentava le location come sequenza continua senza scansione temporale |

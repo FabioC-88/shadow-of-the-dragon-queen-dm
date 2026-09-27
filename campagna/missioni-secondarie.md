@@ -1,6 +1,6 @@
 # Missioni Secondarie — Shadow of the Dragon Queen
 
-> **Nota Importante:** Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza ai Dragon Armies.
+> **Nota Importante:** Questa campagna **non prevede missioni secondarie**. La trama è totalmente lineare e focus sulla resistenza alle Armate dei Draghi.
 >
 > Se i giocatori chiedono digressioni, il DM può improvvisare incarichi minori coerenti con il contesto bellico (rifugio di profughi, soccorsi di vittime, sabotaggio minore), ma non ci sono missioni strutturate fuori dal percorso principale.
 

@@ -1,10 +1,10 @@
 # DM Notes — Sessione 03: La Caduta di Vogler
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 3: When Home Burns, ultima parte (righe 1953–2083) **+** Cap. 4: Shadow of War (righe 2169–2445)
+**Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 3: Quando Brucia la Casa (*When Home Burns*), ultima parte (righe 1953–2083) **+** Cap. 4: L'Ombra della Guerra (*Shadow of War*) (righe 2169–2445)
 **Livello party:** **3 → 4** — il Livello 4 arriva **alla fine della FASE 0**, sulla barca che scende il Vingaard
-**Avanzamento:** Milestone narrativo — evacuazione di Vogler completata. Il salto successivo è al Livello 5, prima della riconquista di Wheelwatch Outpost (sessioni future).
+**Avanzamento:** Milestone narrativo — evacuazione di Vogler completata. Il salto successivo è al Livello 5, prima della riconquista dell'Avamposto di Wheelwatch (sessioni future).
 **XP accumulati:** Ereditati dalla Sessione 02 (vedi `campagna/party.md`) — dal Cap. 3 l'avanzamento è a pietra miliare
-**Obiettivo sessione:** Organizzare ed eseguire l'evacuazione di Vogler; sopravvivere all'invasione draconiana, al Boilerdrak e a Fewmaster Gholcag; abbandonare il villaggio in fiamme — poi mettere in salvo i profughi sulla riva di Kalaman, smascherare le menzogne di Lord Bakaris davanti al consiglio cittadino, ottenere il sostegno della città e conoscere Marshal Vendri.
+**Obiettivo sessione:** Organizzare ed eseguire l'evacuazione di Vogler; sopravvivere all'invasione draconiana, al Boilerdrak e a Fewmaster Gholcag; abbandonare il villaggio in fiamme — poi mettere in salvo i profughi sulla riva di Kalaman, smascherare le menzogne di Lord Bakaris davanti al consiglio cittadino, ottenere il sostegno della città e conoscere Maresciallo Vendri.
 **Durata stimata:** **~4h20m a pieno regime** (FASE 0 90 · FASE 1 25 · FASE 2 15 · FASE 3 15 · FASE 4 45 · FASE 5 50) — contro una serata media da **2h30m**. *Vedi "Dove spezzare" qui sotto: molto probabilmente Kalaman slitta alla serata dopo, ed è previsto.*
 **Sessione precedente:** dm-notes-sessione-02.md — Cap. 3, FASI 0-4: battaglia di High Hill conclusa, la notte della coda, l'ultimatum, le scogliere liberate
 
@@ -65,7 +65,7 @@ Il materiale vale **~4h20m** contro una serata da **2h30m**. **Arrivare a Kalama
 
 > ⏸️ **TRASFERITA DALLA SESSIONE 02**, dove non c'è stato tempo di giocarla. Il contenuto è quello preparato allora, per esteso e con tutti i blocchi statistici: non serve aprire l'altro file.
 >
-> **Da dove si riparte:** il party è **in cima alle scogliere a est della Porta del Fiume**, con quattro soldati dell'Armata del Drago morti ai piedi. È **pomeriggio inoltrato**, e l'ultimatum diceva *questa notte*.
+> **Da dove si riparte:** il party è **in cima alle scogliere a est della Porta del Fiume**, con quattro soldati dell'Armata dei Draghi morti ai piedi. È **pomeriggio inoltrato**, e l'ultimatum diceva *questa notte*.
 >
 > **I testi da leggere di questa fase sono taggati `[BT-V1]`…`[BT-V7]`** (V come Vogler), per non confonderli con i `[BT-01]`…`[BT-11]` di Kalaman più avanti nel file.
 >
@@ -76,7 +76,7 @@ Il materiale vale **~4h20m** contro una serata da **2h30m**. **Arrivare a Kalama
 
 ### 0A — Preparativi per l'Evacuazione (~20 min)
 
-> ⚠️ **PRIMA DI COMINCIARE — il riposo.** Brynja e Corin hanno passato la notte a curare e **non hanno slot**. Tra l'assalto alle scogliere e l'arrivo dell'Armata del Drago c'è un pomeriggio di preparativi: la finestra per un riposo lungo **non basta** (servono 8 ore, e l'invasione arriva entro sera).
+> ⚠️ **PRIMA DI COMINCIARE — il riposo.** Brynja e Corin hanno passato la notte a curare e **non hanno slot**. Tra l'assalto alle scogliere e l'arrivo dell'Armata dei Draghi c'è un pomeriggio di preparativi: la finestra per un riposo lungo **non basta** (servono 8 ore, e l'invasione arriva entro sera).
 >
 > ✅ **SCELTO: riposo breve.** Dadi vita sì, **slot no**. Brynja e Corin entrano nella caduta di Vogler senza un solo incantesimo, ed è la conseguenza diretta della notte passata a curare.
 >
@@ -95,12 +95,18 @@ Una volta che i leader del villaggio concordano sull'evacuazione (dopo che Beckl
 - Istruire gli abitanti su come raggiungere la sicurezza lungo il Vingaard verso Kalaman.
 - Tenere calma la gente.
 
+**Da recitare — Raven** *(l'elenco sopra resta il promemoria)*:
+> *"Quattro cose, e non abbiamo tempo per farle bene. Tutti in piazza, adesso: chi non c'è non sa niente. Qualcuno scenda al molo e mi dica quante barche abbiamo e quanta gente ci sta sopra. Poi bisogna spiegare alla gente come si arriva a Kalaman seguendo il fiume, una volta sola e chiaro. E nessuno deve mettersi a correre. Se uno corre, corrono tutti."*
+
 **La Paura di Becklin:**
 Se i personaggi non propongono l'evacuazione autonomamente, Becklin li porta in disparte per una conversazione privata:
 
 - Ha sentito parlare di guerre e eserciti inarrestabili a est — questi soldati le sembrano parte di quella forza più grande.
 - Vogler non è una città guerriera. Ci vorrebbero settimane di addestramento e cento soldati professionisti in più per avere qualche speranza.
 - Suggerisce di preparare gli abitanti all'evacuazione immediata se altri piani falliscono: seguire il Vingaard verso la sicurezza di Kalaman.
+
+**Da recitare — Becklin, a voce bassa:**
+> *"Da mesi arrivano voci di guerra da est. Eserciti che nessuno riesce a fermare. Quei soldati sulle scogliere non erano predoni: erano un reparto, e dietro un reparto c'è un esercito. Vogler è un villaggio di pescatori. Per tenerla servirebbero cento soldati veri e settimane di addestramento, e non abbiamo né gli uni né le altre. Preparate la gente a partire. Se il resto va male, si segue il Vingaard fino a Kalaman."*
 
 **Il Favore di Becklin:**
 Durante la conversazione sui piani di battaglia, il personaggio con il **punteggio passivo di Intuizione più alto** si accorge che Becklin sta nascondendo qualcosa. Se approcciata in privato, la ringrazia e le chiede un favore.
@@ -117,7 +123,7 @@ La cassa pesa circa 30 kg e non porta alcun segno, tranne un semplice simbolo di
 
 > Le decorazioni colorate del Festival del Kingfisher coprono ancora la piazza e il palco. A differenza del giorno prima, la gente raccolta al centro è cupa, e si scambia bisbigli preoccupati mentre la sindaca Raven sale sul palco.
 >
-> La sindaca non usa mezzi termini: *"Un esercito pericoloso si sta avvicinando a Vogler. L'Ironclad Regiment farà il possibile per difendere Vogler, ma dobbiamo essere pronti a fuggire."*
+> La sindaca non usa mezzi termini: *"Un esercito pericoloso si sta avvicinando a Vogler. Il Reggimento Ironclad farà il possibile per difendere Vogler, ma dobbiamo essere pronti a fuggire."*
 >
 > Per un momento nessuno parla. Poi arrivano le domande, tutte insieme, gridate.
 
@@ -143,9 +149,9 @@ Un personaggio che passa un'ora ad ispezionare il molo stima che le imbarcazioni
 | Traghetto smontato | Indagini CD 12 | 2 ore | +100 persone |
 
 **Piani di Battaglia:**
-Nel primo pomeriggio Cudgel torna. Ha diretto l'Ironclad Regiment a tenere una posizione a nord del villaggio. Ha anche allestito una piccola tenda di comando vicino alla Porta del Fiume con un messaggero per trasmettere ordini. Chiede a Becklin di affianciarla al fronte.
+Nel primo pomeriggio Cudgel torna. Ha diretto il Reggimento Ironclad a tenere una posizione a nord del villaggio. Ha anche allestito una piccola tenda di comando vicino alla Porta del Fiume con un messaggero per trasmettere ordini. Chiede a Becklin di affianciarla al fronte.
 
-*"Voi rimanete qui con Raven e Darrett. Se qualcuno passa l'Ironclad Regiment, questa gente ha bisogno di qualcuno che sappia combattere."*
+*"Voi rimanete qui con Raven e Darrett. Se qualcuno passa il Reggimento Ironclad, questa gente ha bisogno di qualcuno che sappia combattere."*
 
 ---
 
@@ -161,7 +167,7 @@ Prima che Becklin e Cudgel partano verso il fronte, Becklin prende Darrett da pa
 
 Prima di rimontare in sella, Becklin toglie dalla bisaccia una busta sigillata col nodo della Corona e la mette in mano a Razak.
 
-> *"Archivi di Castle Kalaman, primo piano. Chiedi di Rennard. Non aprirla."*
+> *"Archivi del Castello di Kalaman, primo piano. Chiedi di Rennard. Non aprirla."*
 >
 > Poi, mentre rimonta: *"Porta con te la scudiera di Roderick."*
 >
@@ -179,16 +185,19 @@ Un'ora passa prima che arrivino notizie. Nel frattempo, i personaggi si occupano
 
 *Dai ai personaggi un motivo per trovarsi vicino alla Porta del Fiume — recuperare la cassa da Thornwall Keep, cercare un abitante scomparso.*
 
-> Dalla direzione della Porta del Fiume arriva un rumore di zoccoli: una mercenaria dell'Ironclad Regiment galoppa verso la piazza circolare. Mentre si avvicina, urla: *"Stanno arrivando! Evacuat—"* La voce si spezza quando una figura tozza e incappucciata si lancia dalle scogliere vicine e le piomba sulla schiena, trascinando cavallo e cavaliera a terra.
+> Dalla direzione della Porta del Fiume arriva un rumore di zoccoli: una mercenaria del Reggimento Ironclad galoppa verso la piazza circolare. Mentre si avvicina, urla: *"Stanno arrivando! Evacuat—"* La voce si spezza quando una figura tozza e incappucciata si lancia dalle scogliere vicine e le piomba sulla schiena, trascinando cavallo e cavaliera a terra.
 
 *[Aggiunta atmosferica]:*
 > *Le mani che si chiudono sull'armatura hanno artigli.*
 
 ---
 
-La cavallerizza usa il blocco statistiche **scout** ed è stata mandata da Becklin per avvertire Vogler di evacuare immediatamente. Quando i personaggi arrivano, il suo cavallo è morto e lei è in lotta con il suo aggressore, un **baaz draconiano**. Il draconiano la uccide se i personaggi non intervengono.
+La cavallerizza usa il blocco statistiche **esploratore (*scout*)** ed è stata mandata da Becklin per avvertire Vogler di evacuare immediatamente. Quando i personaggi arrivano, il suo cavallo è morto e lei è in lotta con il suo aggressore, un **baaz draconiano**. Il draconiano la uccide se i personaggi non intervengono.
 
-Se salvata, annuncia che l'attacco è imminente — l'Esercito del Drago si è diviso in due colonne. Una è andata a ingaggiare i mercenari, la seconda si dirige al villaggio.
+Se salvata, annuncia che l'attacco è imminente — l'Armata dei Draghi si è divisa in due colonne. Una è andata a ingaggiare i mercenari, la seconda si dirige al villaggio.
+
+**Da recitare — la staffetta, ancora a terra:**
+> *"Si sono divisi. Due colonne. Una è andata contro il reggimento, l'altra viene qui. Becklin dice di partire subito. Subito."*
 
 ---
 
@@ -241,7 +250,7 @@ Linguaggi Comune, Draconico
 CR 3 (700 XP; BC +2)
 —
 TRATTI
-Death Throes. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
+Spasmi di Morte. Quando il kapak è ridotto a 0 PF, si dissolve in acido che schizza
 su chi gli sta attorno. Ogni creatura entro 1,5 m deve superare un TS Destrezza
 CD 12 o resta ricoperta di acido per 1 minuto, subendo 7 (2d6) danni da acido
 all'inizio di ogni proprio turno. Una creatura può usare la propria azione per
@@ -263,7 +272,7 @@ oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da velen
 > ✅ **Scheda ufficiale** (DSotDQ p198), verificata con Fabio il 2026-09-13.
 > ⚠️ **Non vola.** Ha *Planata* (scende, non sale) e **Scalare 12 m**: piomba dall'alto delle scogliere una volta sola, poi resta a terra. Non c'è nessuna "Ali silenziose" né Attacco Furtivo.
 > ⚠️ **Il veleno è nel Multiattacco:** se entrambi i pugnali colpiscono lo stesso bersaglio, quello rischia di restare **paralizzato** fino alla fine del suo turno. È la vera minaccia, non il danno.
-> ⚠️ **Death Throes:** l'acido **resta addosso** e fa 2d6 all'inizio di ogni turno finché qualcuno non spende **un'azione** per toglierlo.
+> ⚠️ **Spasmi di Morte:** l'acido **resta addosso** e fa 2d6 all'inizio di ogni turno finché qualcuno non spende **un'azione** per toglierlo.
 >
 > ✅ **DECISO (20/09/2026): si gioca SENZA le aggiunte homebrew.** Usa la scheda ufficiale qui sopra e nient'altro.
 >
@@ -296,7 +305,7 @@ TRATTI
 Caduta Controllata (Controlled Fall). Quando il draconiano cade e non è
 incapacitato, sottrae fino a 30 m dall'altezza nel calcolo dei danni da caduta.
 —
-Death Throes. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
+Spasmi di Morte. Quando il draconiano è ridotto a 0 PF, il suo corpo si tramuta in
 pietra e rilascia un gas pietrificante. Ogni creatura entro 1,5 m deve superare un
 TS Costituzione CD 11 o è Immobilizzata mentre inizia a tramutarsi in pietra. Chi è
 Immobilizzato ripete il TS alla fine del proprio turno successivo: con un successo
@@ -313,7 +322,7 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
 ```
 
 > ⚠️ **Il baaz NON vola e non plana lateralmente.** L'unico tratto di caduta è *Caduta Controllata*: attutisce la caduta, non concede movimento orizzontale né quota.
-> ⚠️ **Death Throes:** due TS falliti di fila = **PG Pietrificato per 1 minuto**, cioè fuori dallo scontro. Il gas colpisce *tutti* entro 1,5 m, alleati del baaz compresi — non lasciare che il party si ammucchi attorno a un baaz ferito, e ricordati di far ripetere il tiro.
+> ⚠️ **Spasmi di Morte:** due TS falliti di fila = **PG Pietrificato per 1 minuto**, cioè fuori dallo scontro. Il gas colpisce *tutti* entro 1,5 m, alleati del baaz compresi — non lasciare che il party si ammucchi attorno a un baaz ferito, e ricordati di far ripetere il tiro.
 
 ```
 GUARD (miliziani e pescatori di Vogler) — MM'25 p162, scheda ufficiale
@@ -364,7 +373,7 @@ Quando sei pronto a portare l'invasione al culmine, procedi con questo incontro.
 
 ---
 
-Questa è un **boilerdrak**, un'arma d'assedio gnomia inventata per l'Esercito del Drago. Il boilerdrak è guidato da **quattro baaz draconiani**.
+Questa è un **boilerdrak**, un'arma d'assedio gnomia inventata per l'Armata dei Draghi. Il boilerdrak è guidato da **quattro baaz draconiani**.
 
 Questa battaglia si svolge davanti al molo di Vogler. Il boilerdrak è posizionato sul terreno bruciato. I personaggi iniziano la battaglia ovunque sul molo.
 
@@ -437,7 +446,7 @@ Dopo che i baaz draconiani del boilerdrak sono sconfitti, arriva il comandante d
 
 ---
 
-**Fewmaster Gholcag** è un comandante di basso rango nell'Esercito del Drago e la leader del raid su Vogler. Lei e due **baaz draconiani** appaiono adiacenti alla Mischia lungo la strada più a nord. Gholcag e i draconiani combattono fino alla morte.
+**Fewmaster Gholcag** è un comandante di basso rango nell'Armata dei Draghi e la leader del raid su Vogler. Lei e due **baaz draconiani** appaiono adiacenti alla Mischia lungo la strada più a nord. Gholcag e i draconiani combattono fino alla morte.
 
 > ⚠️ **Gholcag usa il blocco statistiche dell'OGRE**, non dell'Orco (fonte: *"Fewmaster Gholcag uses the **ogre** stat block, but she wears scale mail and has AC 14"*). Sono due mostri diversi: l'Orco è Medio, CR 1/2, 15 PF. Se apri la scheda sbagliata in Foundry, il boss di capitolo dura un round.
 
@@ -521,7 +530,7 @@ Prima che i personaggi salgano sulla barca:
 
 ### Testo — Jeyev al Molo [BT-V6]
 
-> *"Tenete la barca!"* chiama una voce roca dalla strada piena di fumo. Un uomo corre nella foschia verso il molo, con addosso l'armatura dell'Ironclad Regiment e un elmo cornuto stretto in mano.
+> *"Tenete la barca!"* chiama una voce roca dalla strada piena di fumo. Un uomo corre nella foschia verso il molo, con addosso l'armatura del Reggimento Ironclad e un elmo cornuto stretto in mano.
 
 *[Aggiunta atmosferica]:*
 > *Ha il fiato corto e una manica scura di sangue. L'elmo lo tiene con due mani, contro il petto.*
@@ -530,9 +539,15 @@ Prima che i personaggi salgano sulla barca:
 
 I personaggi riconoscono quest'uomo come **Jeyev Veldrews**, il luogotenente di Cudgel. Dice di essere stato mandato da Becklin con le seguenti informazioni:
 
-- La battaglia contro l'Esercito del Drago è andata male, ma alcuni dell'Ironclad Regiment sono riusciti a fuggire.
+- La battaglia contro l'Armata dei Draghi è andata male, ma alcuni del Reggimento Ironclad sono riusciti a fuggire.
 - Becklin lo ha mandato per assicurarsi che tutti nel villaggio evacuassero in sicurezza e che nessuno aspettasse lei e i mercenari.
-- Altre forze Dragon Army sono alle sue calcagna — bisogna fuggire ora.
+- Altre forze dell'Armata dei Draghi sono alle sue calcagna — bisogna fuggire ora.
+
+**Da recitare — Jeyev, sul molo:**
+> *"È andata male. Qualcuno del reggimento è riuscito a scappare, gli altri no. Mi manda Becklin: vuole che partiate tutti, e che nessuno resti ad aspettare lei o noi. Ne arrivano altri, sono poco dietro di me. Salite."*
+
+**Sulla barca, se gli chiedono di Becklin** *(destino scelto: catturata)*:
+> *"L'hanno presa. L'ho vista mentre ci ritiravamo: l'hanno disarmata e portata via. Era viva. L'elmo le è caduto lì, e l'ho raccolto io."*
 
 Un personaggio che guarda l'elmo che porta riconosce che è l'elmo di un Cavaliere di Solamnia. Jeyev non dirà altro finché non sono sulla barca.
 
@@ -542,7 +557,7 @@ Un personaggio che guarda l'elmo che porta riconosce che è l'elmo di un Cavalie
 
 | Opzione | Dettaglio |
 |---------|-----------|
-| **Uccisione** | Jeyev è in realtà un bandit captain neutrale malvagio comprato dalla Dragon Army come Gragonis. Ha ucciso Becklin durante la battaglia e sta cercando di avvicinarsi a Darrett per ucciderlo. L'elmo è la prova. |
+| **Uccisione** | Jeyev è in realtà un capitano dei banditi (*bandit captain*) neutrale malvagio comprato dall'Armata dei Draghi come Gragonis. Ha ucciso Becklin durante la battaglia e sta cercando di avvicinarsi a Darrett per ucciderlo. L'elmo è la prova. |
 | **Cattura** | Becklin ha inviato Jeyev per avvertire gli abitanti che la difesa è fallita. L'ha vista catturare mentre fuggiva. Può riapparire nei Cap. 4 o 5 come prigioniera. |
 | **Dispersa** | Becklin e Cudgel hanno organizzato una ritirata. Potrebbero riapparire a Kalaman nei capitoli successivi dopo aver eluso i nemici. |
 | **Testimone** | Jeyev sa i dettagli dell'ultima battaglia di Becklin e ha recuperato il suo elmo. Potrebbe ancora essere un assassino (prima opzione) o conoscere le informazioni delle altre possibilità. |
@@ -595,7 +610,7 @@ All'alba, i personaggi e i superstiti di Vogler arrivano in vista di Kalaman. So
 
 ---
 
-Quando raggiungono il campo, i personaggi trovano i villager intenti a contare quanti sono, riunire le famiglie separate durante la fuga, e accendere fuochi per il primo pasto caldo da quando Vogler è caduta.
+Quando raggiungono il campo, i personaggi trovano i abitante del villaggio (*villager*) intenti a contare quanti sono, riunire le famiglie separate durante la fuga, e accendere fuochi per il primo pasto caldo da quando Vogler è caduta.
 
 ### Disagi del Campo Profughi
 
@@ -659,7 +674,7 @@ Il tragitto dal campo dei profughi a Kalaman è di circa due miglia. I personagg
 
 ---
 
-Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li lasciano entrare finché non si mostrano ostili. Se un personaggio chiede di Lord Bakaris o di un rappresentante dei profughi di Vogler, le guardie indicano la strada per Castle Kalaman: ricordano che il loro capitano ha accompagnato un uomo dalla descrizione corrispondente al castello poco tempo fa. Castle Kalaman è una struttura imponente, facile da individuare senza bisogno di indicazioni — le guardie possono anche indirizzare i personaggi verso qualsiasi altro luogo della città (vedi "📍 Riferimento — Luoghi di Kalaman" in fondo al documento).
+Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li lasciano entrare finché non si mostrano ostili. Se un personaggio chiede di Lord Bakaris o di un rappresentante dei profughi di Vogler, le guardie indicano la strada per il Castello di Kalaman: ricordano che il loro capitano ha accompagnato un uomo dalla descrizione corrispondente al castello poco tempo fa. Il Castello di Kalaman è una struttura imponente, facile da individuare senza bisogno di indicazioni — le guardie possono anche indirizzare i personaggi verso qualsiasi altro luogo della città (vedi "📍 Riferimento — Luoghi di Kalaman" in fondo al documento).
 
 *[NOTA DM — riservata] Se i personaggi vogliono esplorare la città prima di andare al castello, concedi pure una breve digressione — ma tieni presente che Bakaris sta già parlando al consiglio, e ogni minuto perso è un minuto in più in cui le sue menzogne mettono radici.*
 
@@ -667,18 +682,18 @@ Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li
 
 ## FASE 3 — Il Cortile del Castello
 
-*~15 minuti · L'arrivo a Castle Kalaman, lo scontro con Bakaris il Giovane*
+*~15 minuti · L'arrivo al Castello di Kalaman, lo scontro con Bakaris il Giovane*
 
-### Testo — Castle Kalaman [BT-03]
+### Testo — Castello di Kalaman [BT-03]
 
-> Anche senza le scogliere alte trenta metri su cui sorge, Castle Kalaman torreggerebbe comunque su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe, dominato da statue gigantesche identiche a quelle che corrono lungo le mura cittadine. Alla fine del sentiero, alcune guardie presidiano un cancello aperto.
+> Anche senza le scogliere alte trenta metri su cui sorge, Castello di Kalaman torreggerebbe comunque su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe, dominato da statue gigantesche identiche a quelle che corrono lungo le mura cittadine. Alla fine del sentiero, alcune guardie presidiano un cancello aperto.
 
 *[Aggiunta atmosferica]:*
 > *Sulle mura del castello non c'è una decorazione: solo feritoie e pietra annerita.*
 
 ---
 
-Le guardie di Castle Kalaman chiedono ai personaggi di dichiarare le proprie intenzioni. Se spiegano di essere rappresentanti del popolo di Vogler, una guardia li accompagna attraverso un cortile verso la sala del consiglio, dove Lord Bakaris sta già parlando con i governanti della città.
+Le guardie del Castello di Kalaman chiedono ai personaggi di dichiarare le proprie intenzioni. Se spiegano di essere rappresentanti del popolo di Vogler, una guardia li accompagna attraverso un cortile verso la sala del consiglio, dove Lord Bakaris sta già parlando con i governanti della città.
 
 ### L'Incontro con Bakaris il Giovane
 
@@ -686,7 +701,7 @@ Mentre i personaggi attraversano il cortile diretti alla sala del consiglio:
 
 ### Testo — Bakaris il Giovane [BT-04]
 
-> Mentre attraversate il cortile lastricato di Castle Kalaman, una figura familiare vi intercetta con un sorriso arrogante — **Bakaris il Giovane**.
+> Mentre attraversate il cortile lastricato del Castello di Kalaman, una figura familiare vi intercetta con un sorriso arrogante — **Bakaris il Giovane**.
 >
 > *"Mio padre ha già la situazione sotto controllo. Vi faremo sapere, voi e il resto della gente di pesce, una volta deciso cosa sia meglio per voi."*
 
@@ -710,7 +725,7 @@ Un personaggio può far scansare Bakaris il Giovane tramite roleplay o superando
 
 ## FASE 4 — Il Consiglio di Kalaman
 
-*~45 minuti · L'udienza con Governor Miat, la menzogna di Bakaris, il rapporto di Marshal Vendri, la decisione della città*
+*~45 minuti · L'udienza con il Governatore Miat, la menzogna di Bakaris, il rapporto della Maresciallo Vendri, la decisione della città*
 
 ### Contesto per il DM
 
@@ -729,13 +744,13 @@ Questa è la scena centrale della sessione — il momento in cui i personaggi de
 
 ---
 
-Insieme a Lord Bakaris e al Governatore Miat, alla riunione partecipano i capigilda e **Marshal Nestra Vendri** (vedi "📍 Riferimento — Poteri di Kalaman" in fondo al documento).
+Insieme a Lord Bakaris e al Governatore Miat, alla riunione partecipano i capigilda e **Maresciallo Nestra Vendri** (vedi "📍 Riferimento — Poteri di Kalaman" in fondo al documento).
 
-È chiaro, dalle parole del governatore e dall'espressione di Lord Bakaris, che quest'ultimo sta perseguendo un'agenda tutta sua. Ha detto al consiglio che i villager si stanno armando per riconquistare la loro casa. I personaggi sanno che non è affatto così — Raven è concentrata unicamente sul garantire cibo, sicurezza e sostegno ai profughi nei giorni a venire, e i superstiti non hanno mai eletto Lord Bakaris a loro portavoce.
+È chiaro, dalle parole del governatore e dall'espressione di Lord Bakaris, che quest'ultimo sta perseguendo un'agenda tutta sua. Ha detto al consiglio che i abitante del villaggio si stanno armando per riconquistare la loro casa. I personaggi sanno che non è affatto così — Raven è concentrata unicamente sul garantire cibo, sicurezza e sostegno ai profughi nei giorni a venire, e i superstiti non hanno mai eletto Lord Bakaris a loro portavoce.
 
 ### Correggere la Situazione
 
-Sta ai personaggi correggere la disinformazione di Bakaris. Il consiglio ascolta con attenzione, ponendo domande incalzanti finché la verità di ciò che è accaduto a Vogler non emerge del tutto. Mentre i personaggi parlano, Lord Bakaris li contraddice, cercando di rafforzare la propria posizione fittizia di leader coraggioso che ha affrontato l'Esercito del Drago Rosso. Con roleplay o superando **Carisma (Intimidazione) CD 14**, un personaggio può zittire Lord Bakaris.
+Sta ai personaggi correggere la disinformazione di Bakaris. Il consiglio ascolta con attenzione, ponendo domande incalzanti finché la verità di ciò che è accaduto a Vogler non emerge del tutto. Mentre i personaggi parlano, Lord Bakaris li contraddice, cercando di rafforzare la propria posizione fittizia di leader coraggioso che ha affrontato l'Armata dei Draghi Rossi. Con roleplay o superando **Carisma (Intimidazione) CD 14**, un personaggio può zittire Lord Bakaris.
 
 > ⚠️ **[NOTA DM — riservata] Dopo la Sessione 02 ha un'arma in più — e il party ha un testimone.**
 >
@@ -753,33 +768,38 @@ Dopo che i personaggi hanno spiegato la reale situazione dei superstiti di Vogle
 
 ### Testo — Le Preoccupazioni di Kalaman [BT-06]
 
-> Il Governatore Miat aggrotta la fronte. *"Sono notizie terribili. Il mio cuore va ai vostri amici e alle vostre famiglie, ma spero comprendiate la nostra riluttanza ad accogliervi tutti oltre le mura della città. Non sono tempi normali. Marshal?"*
+> Il Governatore Miat aggrotta la fronte. *"Sono notizie terribili. Il mio cuore va ai vostri amici e alle vostre famiglie, ma spero comprendiate la nostra riluttanza ad accogliervi tutti oltre le mura della città. Non sono tempi normali. Maresciallo?"*
 >
-> Il governatore fa un cenno verso una donna dall'aspetto austero, con un'armatura ornata dei colori blu e oro di Kalaman. Lei annuisce e comincia: *"Sono Marshal Vendri, comandante delle forze militari di Kalaman. Temo che la vostra situazione sia tutt'altro che unica."*
+> Il governatore fa un cenno verso una donna dall'aspetto austero, con un'armatura ornata dei colori blu e oro di Kalaman. Lei annuisce e comincia: *"Sono la Maresciallo Vendri, al comando delle forze militari di Kalaman. Temo che la vostra situazione sia tutt'altro che unica."*
 
 *[Aggiunta atmosferica]:*
 > *Mentre parla, non guarda mai Lord Bakaris.*
 
 ---
 
-### Il Rapporto di Marshal Vendri
+### Il Rapporto della Maresciallo Vendri
 
-Marshal Vendri prosegue spiegando che Vogler non è l'unica comunità della regione a essere in pericolo. Condivide questi dettagli:
+La Maresciallo Vendri prosegue spiegando che Vogler non è l'unica comunità della regione a essere in pericolo. Condivide questi dettagli:
 
 - Piccoli villaggi e fattorie a sud e a est di Kalaman sono stati bruciati nelle ultime settimane.
 - Vogler è la comunità più grande a essere stata attaccata, e l'unica con molti superstiti.
 - Pattuglie esperte di soldati corazzati di Kalaman sono state trovate uccise, in alcuni casi con misteriosi squarci ad artiglio nell'armatura.
 - Lord Bakaris e i personaggi hanno fornito le informazioni più chiare sul nemico che Kalaman abbia mai ricevuto.
 
-Marshal Vendri non sa nulla di draconiani, della Regina Dragone o dell'Esercito del Drago. La sua esperienza, per quanto considerevole, riguarda i predoni di Estwilde e gli orchi del Taman Busuk. Tutti qui hanno sentito voci di guerra nella lontana nazione orientale di Khur, ma finora nessuno aveva considerato quelle vicende rilevanti per Kalaman.
+**Da recitare — Vendri:**
+> *"Nelle ultime settimane hanno bruciato villaggi e fattorie a sud e a est della città. Vogler è il più grande che abbiano attaccato, e l'unico da cui sia tornato qualcuno. Ho perso pattuglie intere, uomini esperti, in armatura. Li abbiamo ritrovati morti, e in qualche armatura c'erano squarci d'artiglio. Quello che avete detto voi, e Lord Bakaris, è il rapporto più chiaro che abbia avuto su questo nemico."*
+>
+> *"Cosa sapete di loro?"*
 
-Marshal Vendri è ansiosa di sapere qualsiasi cosa i personaggi conoscano sul nemico — ed è ancora più colpita se hanno prove fisiche di draconiani o soldati dell'Esercito del Drago.
+La Maresciallo Vendri non sa nulla di draconiani, della Regina dei Draghi o dell'Armata dei Draghi. La sua esperienza, per quanto considerevole, riguarda i predoni di Estwilde e gli orchi del Taman Busuk. Tutti qui hanno sentito voci di guerra nella lontana nazione orientale di Khur, ma finora nessuno aveva considerato quelle vicende rilevanti per Kalaman.
 
-Una volta ascoltato il rapporto della Marshal, il governatore chiede ai personaggi e a Darrett di attendere fuori mentre il consiglio discute quanto appreso. A Lord Bakaris non viene chiesto di uscire.
+La Maresciallo Vendri è ansiosa di sapere qualsiasi cosa i personaggi conoscano sul nemico — ed è ancora più colpita se hanno prove fisiche di draconiani o soldati dell'Armata dei Draghi.
+
+Una volta ascoltato il rapporto della Maresciallo, il governatore chiede ai personaggi e a Darrett di attendere fuori mentre il consiglio discute quanto appreso. A Lord Bakaris non viene chiesto di uscire.
 
 ### In Attesa di una Decisione
 
-Darrett e i personaggi vengono fatti accomodare nel corridoio fuori dalla sala del consiglio. Usa questo momento per far ribadire a Darrett quanto sia importante che il popolo di Vogler ottenga il sostegno e la protezione di Kalaman. Un personaggio che origlia alla porta della sala e supera **Saggezza (Percezione) CD 14** sente una Marshal Vendri visibilmente frustrata interrompere ripetutamente Lord Bakaris.
+Darrett e i personaggi vengono fatti accomodare nel corridoio fuori dalla sala del consiglio. Usa questo momento per far ribadire a Darrett quanto sia importante che il popolo di Vogler ottenga il sostegno e la protezione di Kalaman. Un personaggio che origlia alla porta della sala e supera **Saggezza (Percezione) CD 14** sente una Maresciallo Vendri visibilmente frustrata interrompere ripetutamente Lord Bakaris.
 
 ### La Decisione di Kalaman
 
@@ -787,7 +807,7 @@ Dopo mezz'ora, la riunione del consiglio si scioglie.
 
 ### Testo — Le Porte si Aprono [BT-07]
 
-> Le porte della sala si aprono, e la maggior parte dei membri del consiglio vi sfila davanti senza degnarvi di uno sguardo. Marshal Vendri vi fa cenno dalla soglia, mentre all'interno il Governatore Miat e Lord Bakaris restano seduti.
+> Le porte della sala si aprono, e la maggior parte dei membri del consiglio vi sfila davanti senza degnarvi di uno sguardo. La Maresciallo Vendri vi fa cenno dalla soglia, mentre all'interno il Governatore Miat e Lord Bakaris restano seduti.
 
 *[Aggiunta atmosferica]:*
 > *Lord Bakaris non vi guarda: fissa un punto sul tavolo.*
@@ -809,20 +829,33 @@ Il Governatore Miat spiega quanto segue:
 - I governanti di Kalaman sono preoccupati per la minaccia rappresentata dal nemico che ha attaccato Vogler.
 - La città ha informazioni lamentevolmente scarse su questo nemico, e gli esploratori mandati a scoprirne di più sono tutti scomparsi.
 - I personaggi, però, hanno affrontato questo nemico e salvato un intero villaggio dal suo attacco.
-- In cambio della protezione di Kalaman per il popolo di Vogler, i governanti della città vogliono che i personaggi e Darrett si presentino a Marshal Vendri come operativi speciali dell'esercito di Kalaman.
+- In cambio della protezione di Kalaman per il popolo di Vogler, i governanti della città vogliono che i personaggi e Darrett si presentino alla Maresciallo Vendri come operativi speciali dell'esercito di Kalaman.
 
-Lascia che i personaggi discutano l'offerta. Marshal Vendri fornisce questi chiarimenti, se richiesti:
+**Da recitare — Miat:**
+> *"Questo nemico ci preoccupa. Ne sappiamo pochissimo, e gli esploratori che abbiamo mandato a cercarlo non sono tornati. Voi invece lo avete affrontato, e avete portato in salvo un villaggio intero. Ecco la condizione: voi e il giovane Highwater vi mettete agli ordini della Maresciallo Vendri, come reparto speciale dell'esercito di Kalaman. In cambio, la vostra gente avrà la nostra protezione."*
+
+Lascia che i personaggi discutano l'offerta. La Maresciallo Vendri fornisce questi chiarimenti, se richiesti:
 
 - Solo uno dei personaggi deve giurare formalmente servizio all'esercito di Kalaman — anche se tutti sono benvenuti — e solo finché la minaccia alla regione non sarà finita.
 - I personaggi che giurano diventano scudieri di Kalaman, pagati 5 mo a settimana.
-- I personaggi che giurano e i loro compagni ricevono alloggio gratuito a Castle Kalaman.
+- I personaggi che giurano e i loro compagni ricevono alloggio gratuito al Castello di Kalaman.
 - Ai personaggi che giurano viene dato un emblema tascabile con il simbolo blu e oro di Kalaman inciso sopra — un segno del loro rango speciale, equivalente a un grado di tenenza (superiore ai soldati semplici, inferiore ai comandanti).
 
-Se i personaggi rifiutano, Darrett chiede di parlare con loro un momento. Lui intende accettare i termini del governatore, e cerca di convincere i personaggi a unirsi a lui. Non vuole il loro aiuto solo per proteggere la sua gente, ma anche per contrastare la minaccia terrificante dell'Esercito del Drago. Se i personaggi continuano a resistere, Darrett propone che possano lavorare per lui come aiutanti, invece che direttamente per l'esercito — una proposta che i governanti di Kalaman sono disposti ad accettare.
+**Da recitare — Vendri, se chiedono i dettagli:**
+> *"Basta che giuri uno di voi. Gli altri sono i benvenuti, ma non è obbligatorio. E il giuramento vale finché dura questa minaccia, non un giorno di più. Chi giura diventa scudiero di Kalaman: cinque monete d'oro a settimana, e un alloggio al castello per lui e per chi viaggia con lui."*
+>
+> Mette sul tavolo un piccolo emblema, blu e oro. *"Questo lo portate addosso. Vale quanto un grado da tenente: sopra i soldati, sotto i comandanti."*
 
-Se i personaggi e Darrett accettano, il Governatore Miat è compiaciuto e ordina che al popolo di Vogler vengano forniti cibo e provviste. Marshal Vendri invia guardie ad aiutare i profughi a trasferirsi in alloggi fuori dalla Porta dei Mercanti.
+Se i personaggi rifiutano, Darrett chiede di parlare con loro un momento. Lui intende accettare i termini del governatore, e cerca di convincere i personaggi a unirsi a lui. Non vuole il loro aiuto solo per proteggere la sua gente, ma anche per contrastare la minaccia terrificante dell'Armata dei Draghi. Se i personaggi continuano a resistere, Darrett propone che possano lavorare per lui come aiutanti, invece che direttamente per l'esercito — una proposta che i governanti di Kalaman sono disposti ad accettare.
 
-Con questo, l'incontro con i governanti di Kalaman si conclude. Marshal Vendri chiede a Darrett e ai personaggi di raggiungerla nel suo ufficio al secondo piano di Castle Kalaman quando saranno pronti a saperne di più sulla loro posizione e sui loro primi doveri. Fino ad allora, dovrebbero assicurarsi che la loro gente sia al sicuro e familiarizzare con la città.
+**Da recitare — Darrett, in disparte:**
+> *"Io accetto. La nostra gente ha bisogno di queste mura, e quello che ha bruciato Vogler non si fermerà lì. Non posso farlo da solo."*
+>
+> Se insistono a rifiutare: *"Allora non giurate per loro. Venite con me. Io rispondo alla Maresciallo, voi rispondete a me. Al consiglio basterà."*
+
+Se i personaggi e Darrett accettano, il Governatore Miat è compiaciuto e ordina che al popolo di Vogler vengano forniti cibo e provviste. La Maresciallo Vendri invia guardie ad aiutare i profughi a trasferirsi in alloggi fuori dalla Porta dei Mercanti.
+
+Con questo, l'incontro con i governanti di Kalaman si conclude. La Maresciallo Vendri chiede a Darrett e ai personaggi di raggiungerla nel suo ufficio al secondo piano del Castello di Kalaman quando saranno pronti a saperne di più sulla loro posizione e sui loro primi doveri. Fino ad allora, dovrebbero assicurarsi che la loro gente sia al sicuro e familiarizzare con la città.
 
 ---
 
@@ -831,15 +864,15 @@ Con questo, l'incontro con i governanti di Kalaman si conclude. Marshal Vendri c
 |--------|------|-------|
 | Zittire Lord Bakaris | Carisma (Intimidazione) CD 14 | Bakaris smette di interrompere per il resto della riunione |
 | Origliare alla porta durante la pausa | Saggezza (Percezione) CD 14 | Si scopre che Vendri sta faticando a contenere Bakaris |
-| Convincere Marshal Vendri con prove fisiche di draconiani | — | Vantaggio narrativo — Vendri prende i personaggi ancora più sul serio |
+| Convincere Maresciallo Vendri con prove fisiche di draconiani | — | Vantaggio narrativo — Vendri prende i personaggi ancora più sul serio |
 
 *[NOTA DM — riservata] Non esiste un fallimento reale in questa scena: anche senza tiri superati, Kalaman offre comunque il proprio sostegno — il libro presume che l'accordo si concluda. I tiri servono a rendere la scena più vivida e a punire (socialmente) Bakaris, non a mettere a rischio l'esito.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Governor Calof Miat** — Attitudine: 0 Neutrale → +1 Cordiale (se i personaggi si dimostrano credibili e diretti).
-- **Marshal Nestra Vendri** — Attitudine: 0 Neutrale → +1 Cordiale. Pragmatica, valuta i personaggi per quello che fanno, non per quello che dicono.
+- **Governatore Calof Miat** — Attitudine: 0 Neutrale → +1 Cordiale (se i personaggi si dimostrano credibili e diretti).
+- **Maresciallo Nestra Vendri** — Attitudine: 0 Neutrale → +1 Cordiale. Pragmatica, valuta i personaggi per quello che fanno, non per quello che dicono.
 - **Lord Bakaris Uth Estide** — Attitudine: -2 Diffidente. Umiliato pubblicamente, comincia a vedere i personaggi come rivali da screditare.
 
 ---
@@ -852,7 +885,12 @@ Con questo, l'incontro con i governanti di Kalaman si conclude. Marshal Vendri c
 
 Quando i personaggi tornano dove sono accampati i superstiti di Vogler, **Raven** li accoglie. Se hanno ottenuto il sostegno della città, li ringrazia con calore. In caso contrario, è ansiosa di trovare insieme a loro un altro modo per ottenerlo.
 
-Dopo aver saputo che Darrett — e probabilmente alcuni dei personaggi — hanno accettato di aiutare l'esercito di Kalaman, Raven dice che lei e i superstiti della milizia di Vogler intendono offrire il proprio aiuto anche loro. Chiede inoltre ai personaggi di smettere di chiamarla "sindaca" — finché Vogler resta in mano all'Esercito del Drago, è semplicemente Raven.
+Dopo aver saputo che Darrett — e probabilmente alcuni dei personaggi — hanno accettato di aiutare l'esercito di Kalaman, Raven dice che lei e i superstiti della milizia di Vogler intendono offrire il proprio aiuto anche loro. Chiede inoltre ai personaggi di smettere di chiamarla "sindaca" — finché Vogler resta in mano all'Armata dei Draghi, è semplicemente Raven.
+
+**Da recitare — Raven:**
+> *"Se Darrett combatte per loro, la nostra milizia combatte con lui. Quelli che ne sono rimasti. Diteglielo."*
+>
+> *"E non chiamatemi più sindaca. Sindaca di cosa? Finché Vogler è in mano a quelli, sono Raven e basta."*
 
 Lord Bakaris e suo figlio non tornano al campo: pagano invece per delle stanze allo Steady Beacon.
 
@@ -866,9 +904,9 @@ Una volta garantita la sicurezza dei superstiti, i personaggi sono liberi di esp
 
 ---
 
-### Messaggio per una Maga *(scena opzionale — solo se un personaggio ha il rotolo per Wyhan da "Eye in the Sky")*
+### Messaggio per una Maga *(scena opzionale — solo se un personaggio ha il rotolo per Wyhan da "Occhio nel Cielo")*
 
-Se un personaggio ha ancora con sé il rotolo destinato a **Wyhan**, la Maga di Alta Stregoneria, può trovarla alla sua Apotecaria. Se nessun personaggio è interessato a unirsi ai Maghi di Alta Stregoneria, salta questa scena.
+Se un personaggio ha ancora con sé il rotolo destinato a **Wyhan**, la Maga dell'Alta Stregoneria, può trovarla alla sua Apotecaria. Se nessun personaggio è interessato a unirsi ai Maghi dell'Alta Stregoneria, salta questa scena.
 
 I personaggi trovano facilmente l'Apotecaria di Wyhan. Finestre appannate nascondono a stento una selezione di amuleti e cianfrusaglie occulte. Il negozio è aperto solo di giorno.
 
@@ -883,7 +921,7 @@ I personaggi trovano facilmente l'Apotecaria di Wyhan. Finestre appannate nascon
 
 La proprietaria è **Wyhan** (legale malvagia, umana **maga**), una maga dal mantello nero. Sebbene egoista e sprezzante verso i non-maghi, Wyhan è profondamente devota alla propria organizzazione.
 
-Se un personaggio interessato a unirsi ai Maghi di Alta Stregoneria si presenta, Wyhan chiede se ha un rotolo per lei. Se il personaggio lo consegna, Wyhan lo apre immediatamente.
+Se un personaggio interessato a unirsi ai Maghi dell'Alta Stregoneria si presenta, Wyhan chiede se ha un rotolo per lei. Se il personaggio lo consegna, Wyhan lo apre immediatamente.
 
 **Meccanica — Un Test Completato:** consegnare il rotolo a Wyhan fa parte di un test che le rivela quale ordine di mantello potrebbe essere adatto al personaggio. Dopo aver ricevuto il rotolo, Wyhan conosce magicamente l'allineamento del personaggio che l'ha consegnato — e se lo ha aperto prima della consegna.
 
@@ -902,20 +940,23 @@ Wyhan è scettica verso chiunque esprima interesse per l'Ordine e pone queste do
 - *"Se perdessi la tua magia, cosa faresti?"*
 
 Qualunque sia la risposta, Wyhan replica con critiche pragmatiche. Lascia che intrattenga i personaggi incantatori in una conversazione filosofica sul ruolo della magia quanto vuoi. Dopodiché, Wyhan:
-- Raccomanda quale ordine dei Maghi di Alta Stregoneria ritiene adatto al personaggio (rivelando la sua predizione).
+- Raccomanda quale ordine dei Maghi dell'Alta Stregoneria ritiene adatto al personaggio (rivelando la sua predizione).
 - Accetta di contattare i propri colleghi maghi e perorare l'inclusione del personaggio nell'organizzazione.
-- Promette di farsi viva quando avrà notizie dai leader dei Maghi alla Torre di Alta Stregoneria a Wayreth.
-- Accetta di aiutare il personaggio a ottenere un trasporto verso Wayreth per affrontare il Test di Alta Stregoneria.
+- Promette di farsi viva quando avrà notizie dai leader dei Maghi alla Torre dell'Alta Stregoneria a Wayreth.
+- Accetta di aiutare il personaggio a ottenere un trasporto verso Wayreth per affrontare la Prova dell'Alta Stregoneria.
 
-Wyhan risponde volentieri a un paio di domande in più sui Maghi di Alta Stregoneria, ma dopo insiste che i personaggi comprino qualcosa o se ne vadano.
+**Da recitare — Wyhan** *(sostituisci l'ordine con la predizione della tabella)*:
+> *"Vesti [bianche / rosse / nere]. Te lo dico adesso, così non perdi tempo a sperare in altro. Scriverò ai miei colleghi e parlerò in tuo favore: non è una cortesia, è che l'Ordine ha bisogno di gente, e tu potresti servire. Quando da Wayreth arriverà una risposta, ti farò chiamare. E se servirà un passaggio fino alla Torre, lo troverò."*
 
-*[NOTA DM — riservata] Qualsiasi personaggio interessato riceverà notizie da Wyhan riguardo al proprio Test di Alta Stregoneria all'inizio del prossimo capitolo — non in questa sessione. Segna questo come thread aperto.*
+Wyhan risponde volentieri a un paio di domande in più sui Maghi dell'Alta Stregoneria, ma dopo insiste che i personaggi comprino qualcosa o se ne vadano.
+
+*[NOTA DM — riservata] Qualsiasi personaggio interessato riceverà notizie da Wyhan riguardo alla propria Prova dell'Alta Stregoneria all'inizio del prossimo capitolo — non in questa sessione. Segna questo come thread aperto.*
 
 ---
 
 ### Il Registro di Rennard *(scena opzionale — solo se Razak ha ricevuto la lettera di Becklin in FASE 0B)*
 
-Il destinatario della busta si trova senza difficoltà: la **Sala degli Archivi** è una stanza al primo piano di Castle Kalaman, accanto agli uffici del governatorato, aperta negli orari d'ufficio.
+Il destinatario della busta si trova senza difficoltà: la **Sala degli Archivi** è una stanza al primo piano del Castello di Kalaman, accanto agli uffici del governatorato, aperta negli orari d'ufficio.
 
 Se nessuno raccoglie la cosa, non forzarla — la lettera resta in tasca e la scena si gioca in una qualsiasi delle sessioni successive a Kalaman. Se Brynja non è presente, Rennard apre comunque il suo fascicolo e consegna a Razak l'estratto anche per lei.
 
@@ -927,7 +968,7 @@ Se nessuno raccoglie la cosa, non forzarla — la lettera resta in tasca e la sc
 
 ---
 
-Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — usa **commoner** nell'improbabile caso serva un blocco). Non è un cavaliere e non lo è mai stato: è il civile che tiene il registro dei cavalieri e degli scudieri della provincia di Nightlund. Sessant'anni, mani macchiate d'inchiostro, nessuna opinione dichiarata sulla Misura. Tratta le persone come pratiche da chiudere, e lo fa bene.
+Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — usa **popolano (*commoner*)** nell'improbabile caso serva un blocco). Non è un cavaliere e non lo è mai stato: è il civile che tiene il registro dei cavalieri e degli scudieri della provincia di Nightlund. Sessant'anni, mani macchiate d'inchiostro, nessuna opinione dichiarata sulla Misura. Tratta le persone come pratiche da chiudere, e lo fa bene.
 
 **La consegna.** Rennard apre la lettera appena gli viene messa in mano, la legge, la gira per vedere se c'è altro sul retro. Poi tira verso di sé un registro e intinge la penna. Da qui in avanti guarda le righe, non le facce.
 
@@ -984,13 +1025,13 @@ Qualunque cosa rispondano, torna al registro.
 
 ### Il Rapporto a Vendri
 
-Una volta pronti a iniziare a lavorare per l'esercito di Kalaman, i personaggi possono presentarsi a Castle Kalaman. Se cercano Darrett tra gli altri superstiti di Vogler, non lo trovano — si è già presentato al castello.
+Una volta pronti a iniziare a lavorare per l'esercito di Kalaman, i personaggi possono presentarsi al Castello di Kalaman. Se cercano Darrett tra gli altri superstiti di Vogler, non lo trovano — si è già presentato al castello.
 
-Quando i personaggi arrivano a Castle Kalaman, qualsiasi guardia può indicare loro l'ufficio di Marshal Vendri al secondo piano. Un aiutante li fa aspettare qualche istante, poi li accompagna dentro.
+Quando i personaggi arrivano al Castello di Kalaman, qualsiasi guardia può indicare loro l'ufficio della Maresciallo Vendri al secondo piano. Un aiutante li fa aspettare qualche istante, poi li accompagna dentro.
 
-### Testo — L'Ufficio della Marshal [BT-10]
+### Testo — L'Ufficio della Maresciallo [BT-10]
 
-> L'ufficio di Marshal Vendri è spartano. Contiene poco più di una scrivania carica di documenti, scaffali pieni di rotoli, e una bacheca su cui è appuntata una mappa della provincia circostante di Nightlund. Vendri si alza quando entrate. *"Grazie per essere venuti. Non ci girerò intorno: di quello che si sta avvicinando alle nostre porte non sappiamo quasi niente, e il vostro compito sarà scoprirlo. Ma prima avrete delle domande."*
+> L'ufficio della Maresciallo Vendri è spartano. Contiene poco più di una scrivania carica di documenti, scaffali pieni di rotoli, e una bacheca su cui è appuntata una mappa della provincia circostante di Nightlund. Vendri si alza quando entrate. *"Grazie per essere venuti. Non ci girerò intorno: di quello che si sta avvicinando alle nostre porte non sappiamo quasi niente, e il vostro compito sarà scoprirlo. Ma prima avrete delle domande."*
 
 *[Aggiunta atmosferica]:*
 > *Sulla mappa, a sud e a est di Kalaman, alcuni villaggi sono cancellati con una croce a carboncino.*
@@ -1006,15 +1047,32 @@ Vendri risponde pazientemente a qualsiasi domanda su Kalaman, sull'esercito citt
 - Vendri sta ancora definendo i dettagli della prima missione dei personaggi. Nel frattempo, dovrebbero familiarizzare con il castello e i loro alloggi al quarto piano.
 - Non menziona Darrett o il suo ruolo. Se i personaggi chiedono di lui, sorride e dice che sarà lui stesso a raccontarglielo tra poco (vedi "Gli Ordini di Darrett").
 
+**Da recitare — Vendri** *(spezzalo sulle domande del tavolo; l'elenco sopra resta il promemoria)*:
+> *"Sarete una squadra a parte. Vi manderò dove i miei soldati non possono andare, o dove non saprebbero cosa fare una volta arrivati."*
+>
+> *"La paga si ritira in anticipo, ogni settimana. Chi ha giurato passi oggi dal mio segretario: cinque monete d'oro. Se vi manca qualcosa, l'armeria è al primo piano. Armi comuni, armature leggere o medie, prendete quello che vi serve."*
+>
+> *"Parecchi dei vostri di Vogler si sono offerti volontari. Non ho ancora deciso dove metterli."*
+>
+> *"Il vostro primo incarico lo sto ancora preparando. Nel frattempo sistematevi: vi ho fatto preparare degli alloggi al quarto piano."*
+
+*Se chiedono di Darrett:*
+> Vendri sorride. *"Ve lo dirà lui. Tra poco."*
+
 ### All'Interno del Castello
 
-Una volta conclusa la conversazione con Marshal Vendri, una guardia accompagna i personaggi al quarto piano, condividendo dettagli sul castello. Costruito secoli fa, il castello fu a lungo usato dai Cavalieri di Solamnia. Molte delle sue grandi sale sono decorate con immagini di cavalieri solamnici e degli dèi e animali che onoravano. La guardia descrive la struttura del castello:
+Una volta conclusa la conversazione con la Maresciallo Vendri, una guardia accompagna i personaggi al quarto piano, condividendo dettagli sul castello. Costruito secoli fa, il castello fu a lungo usato dai Cavalieri di Solamnia. Molte delle sue grandi sale sono decorate con immagini di cavalieri solamnici e degli dèi e animali che onoravano. La guardia descrive la struttura del castello:
 
 - **Primo Piano.** Il consiglio cittadino e il governatore si riuniscono e tengono eventi al primo piano. Ci sono anche vari uffici governativi, una piccola biblioteca e l'armeria.
 - **Secondo Piano.** Il comando militare e gli alloggi degli ufficiali occupano il secondo piano.
 - **Terzo Piano.** Le guardie del castello alloggiano al terzo piano. La maggior parte degli altri soldati risiede altrove in città o nelle strutture ausiliarie del castello.
 - **Quarto Piano e Torri.** Gran parte del castello è vuota e fatiscente, incluso quasi tutto il quarto piano e le torri. Ai personaggi sono stati assegnati alloggi in una sala da ballo in disuso al quarto piano.
 - **Seminterrato.** Il seminterrato è usato come deposito, sebbene ospiti anche porte sigillate da tempo che conducono alle rovine dei sotterranei del castello.
+
+**Da recitare — la guardia, salendo le scale:**
+> *"L'hanno costruito i Cavalieri di Solamnia, secoli fa. Per questo trovate cavalieri scolpiti dappertutto. Al primo piano c'è il consiglio, con il governatore e gli uffici, una piccola biblioteca e l'armeria. Al secondo il comando e gli ufficiali. Al terzo stiamo noi della guardia; gli altri soldati dormono in città. Il quarto piano e le torri sono vuoti quasi del tutto, e cadono a pezzi. Voi state lì, nella vecchia sala da ballo."*
+>
+> *Se chiedono del seminterrato:* *"Magazzini. E qualche porta murata che dà sui sotterranei vecchi. Quelle non le apre nessuno da anni."*
 
 ### Testo — Gli Alloggi nel Castello [BT-11]
 
@@ -1027,17 +1085,24 @@ Una volta conclusa la conversazione con Marshal Vendri, una guardia accompagna i
 
 Ogni personaggio ha una branda e un baule vuoto assegnati. Tre piccole stanze private si collegano a questa sala, che i personaggi possono usare come preferiscono.
 
-**Meccanica — Statuaria Solamnica:** in tutto Castle Kalaman, compresi gli alloggi dei personaggi, sculture e statue raffigurano il dio guerriero Kiri-Jolith, patrono dei Cavalieri della Spada solamnici. I chierici di Kiri-Jolith riconoscono queste raffigurazioni, così come chi supera **Intelligenza (Religione) CD 12**.
+**Meccanica — Statuaria Solamnica:** in tutto il Castello di Kalaman, compresi gli alloggi dei personaggi, sculture e statue raffigurano il dio guerriero Kiri-Jolith, patrono dei Cavalieri della Spada solamnici. I chierici di Kiri-Jolith riconoscono queste raffigurazioni, così come chi supera **Intelligenza (Religione) CD 12**.
 
 ### Gli Ordini di Darrett
 
 Mentre i personaggi si sistemano nei loro alloggi, Darrett entra. Dopo averli salutati calorosamente, condivide queste informazioni:
 
-- Ha passato buona parte della mattina a dimostrare il proprio addestramento a Marshal Vendri e ai suoi comandanti.
+- Ha passato buona parte della mattina a dimostrare il proprio addestramento alla Maresciallo Vendri e ai suoi comandanti.
 - Vendri è rimasta soddisfatta e gli ha ordinato di collaborare con lei per addestrare una nuova unità di soldati di Kalaman.
 - Vendri lo ha anche assegnato a lavorare con i personaggi. Non è il loro comandante, ma farà da messaggero di Vendri, consegnando loro i suoi ordini — e, se necessario, potrà perorare la loro causa presso Vendri e i governanti di Kalaman.
 - Gli sono stati assegnati alloggi al terzo piano, tra le guardie del castello.
 - Ringrazia i personaggi per tutto ciò che hanno fatto per lui e per Vogler. Spera di continuare a imparare da loro e a sostenerli.
+
+**Da recitare — Darrett:**
+> *"Ho passato la mattina a farmi guardare dalla Maresciallo e dai suoi comandanti: spada, scudo, marcia, tutto. Le è andato bene. Mi ha dato una compagnia di reclute da addestrare con lei."*
+>
+> *"E mi ha messo con voi. Non come comandante: porto i suoi ordini, e se serve parlo per voi con lei o con il consiglio. Dormo al terzo piano, con le guardie."*
+>
+> *"Grazie. Per Vogler, e per me. Spero di continuare a imparare da voi."*
 
 Darrett risponde a qualsiasi domanda dei personaggi, ma non sa molto su Kalaman o sulle missioni a venire. È sincero nel suo desiderio di aiutare i personaggi ed emozionato di trovarsi in un castello dove un tempo camminavano i Cavalieri di Solamnia. È ansioso di imparare da questa esperienza, sperando che un giorno lo aiuti a diventare un vero Cavaliere di Solamnia.
 
@@ -1048,7 +1113,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 ---
 
 **Attitudine PNG in questa scena:**
-- **Marshal Nestra Vendri** — Attitudine: +1 Cordiale. Pragmatica, ma comincia a fidarsi dei personaggi in base a quello che fanno.
+- **Maresciallo Nestra Vendri** — Attitudine: +1 Cordiale. Pragmatica, ma comincia a fidarsi dei personaggi in base a quello che fanno.
 - **Darrett Highwater** — Attitudine: +3 Alleato. Trova finalmente un ruolo — non più solo scudiero in lutto, ma ufficiale con uno scopo.
 - **Wyhan** *(se incontrata)* — Attitudine: -1 Sospettosa → 0 Neutrale (se il rotolo viene consegnato con successo). Resta distante ma professionalmente interessata.
 - **Cancelliere Aldous Rennard** *(se incontrato)* — Attitudine: 0 Neutrale, e resta lì. Non è freddezza: è un uomo che lavora. Non cambia in base a come i personaggi si comportano.
@@ -1077,9 +1142,9 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 
 | Preludio | Hook in Sessione 03 |
 |----------|---------------------|
-| **Eye in the Sky** (PG incantatore col rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (il Test di Alta Stregoneria, rimandato al prossimo capitolo). |
-| **Broken Silence** (PG con connessione divina) | La tabella "Disagi del Campo Profughi" (voce 2, la caviglia storta) è un'occasione naturale per un piccolo gesto di grazia divina in pubblico — dopo il "vero miracolo" della Sessione 02, i profughi che lo videro potrebbero cercare di nuovo quel personaggio per un aiuto minore. Un piccolo momento, non un evento — la comunità comincia silenziosamente a considerarlo qualcosa di più di un semplice compagno di viaggio. |
-| **Scales of War** (tutti) | **Rhys**, il giovane contadino salvato nella Sessione 00 e possibilmente di nuovo durante l'invasione di Vogler, può essere tra i superstiti al campo in Fase 1 o Fase 5. Se è sopravvissuto, cerca attivamente i personaggi per ringraziarli e offrire il proprio aiuto — diventa un alleato devoto da questo punto in poi. Usalo come manodopera silenziosa, informatore tra i profughi, o comparsa affettuosa nelle sessioni future a Kalaman. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore col rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (la Prova dell'Alta Stregoneria, rimandata al prossimo capitolo). |
+| **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | La tabella "Disagi del Campo Profughi" (voce 2, la caviglia storta) è un'occasione naturale per un piccolo gesto di grazia divina in pubblico — dopo il "vero miracolo" della Sessione 02, i profughi che lo videro potrebbero cercare di nuovo quel personaggio per un aiuto minore. Un piccolo momento, non un evento — la comunità comincia silenziosamente a considerarlo qualcosa di più di un semplice compagno di viaggio. |
+| **Scaglie di Guerra (*Scales of War*)** (tutti) | **Rhys**, il giovane contadino salvato nella Sessione 00 e possibilmente di nuovo durante l'invasione di Vogler, può essere tra i superstiti al campo in Fase 1 o Fase 5. Se è sopravvissuto, cerca attivamente i personaggi per ringraziarli e offrire il proprio aiuto — diventa un alleato devoto da questo punto in poi. Usalo come manodopera silenziosa, informatore tra i profughi, o comparsa affettuosa nelle sessioni future a Kalaman. |
 | **Razak + Brynja** (lettera di Becklin, Sessione 02) | Il contraltare esatto del rotolo di Wyhan, e cade nella stessa fase: **"Il Registro di Rennard"** (Fase 5). Razak consegna una busta che non ha aperto; Brynja non sa perché è stata portata lì finché il cancelliere non tira fuori il suo fascicolo. È l'unica scena della sessione dedicata ai due scudieri irregolari — *"la stessa eccezione fatta due volte"* (`campagna/party.md`). Gioca Rennard piatto: il peso lo fanno le caselle del modulo, non le sue battute. |
 | **Tutti** | La cassa di Becklin (Fase 1, se recuperata) è un momento condiviso — l'intero gruppo ha partecipato al recupero, e la gratitudine di Darrett è rivolta a tutti loro insieme. |
 
@@ -1103,24 +1168,24 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 
 | Luogo | Descrizione Rapida |
 |-------|---------------------|
-| **Castle Kalaman** | Fortezza-simbolo della città, su rupi di 30 metri. Sede del governatore, del consiglio e del comando militare. Sotterranei sigillati magicamente. |
-| **Sala degli Archivi** *(Castle Kalaman, 1° piano)* | Registro civile dei cavalieri e degli scudieri della provincia di Nightlund, tenuto dal Cancelliere Aldous Rennard. |
-| **City Market** | Bazaar affollato di mercanti da tutto Ansalon — qui si trova qualsiasi equipaggiamento standard. |
+| **Castello di Kalaman** | Fortezza-simbolo della città, su rupi di 30 metri. Sede del governatore, del consiglio e del comando militare. Sotterranei sigillati magicamente. |
+| **Sala degli Archivi** *(Castello di Kalaman, 1° piano)* | Registro civile dei cavalieri e degli scudieri della provincia di Nightlund, tenuto dal Cancelliere Aldous Rennard. |
+| **Mercato Cittadino** | Bazaar affollato di mercanti da tutto Ansalon — qui si trova qualsiasi equipaggiamento standard. |
 | **Hammerstrike Forges** | Due fucine gemelle gestite dai cugini nani Kadmos (armature) e Tiria (armi) Hammerstrike. |
-| **Harbor Beacons** | Le mura si estendono nel porto; due torri-faro pre-Cataclisma tagliano la nebbia più densa. |
-| **Kalaman Harbor** | Porto affollato — 10% di probabilità al giorno che attracchi una nave mercantile da terre lontane. |
+| **Fari del Porto** | Le mura si estendono nel porto; due torri-faro pre-Cataclisma tagliano la nebbia più densa. |
+| **Porto di Kalaman** | Porto affollato — 10% di probabilità al giorno che attracchi una nave mercantile da terre lontane. |
 | **Meulara's Oddities** | Negozio di cianfrusaglie gestito da Meulara, kender dal sorriso pronto — punto di riferimento per i kender di passaggio. |
-| **The Steady Beacon** | Taverna preferita dai soldati fuori servizio; il proprietario Jesen Thold è amico di Marshal Vendri. Qui alloggiano ora Lord Bakaris e il figlio. |
-| **Trade Camps** | Baraccopoli a est e ovest della città, oltre le mura — centinaia di persone senza alloggio in città. |
-| **Wyhan's Apothecary** | Negozio di rimedi ed esoterismo gestito da Wyhan, Maga di Alta Stregoneria dal mantello nero. |
+| **The Steady Beacon** | Taverna preferita dai soldati fuori servizio; il proprietario Jesen Thold è amico della Maresciallo Vendri. Qui alloggiano ora Lord Bakaris e il figlio. |
+| **Accampamenti dei Mercanti** | Baraccopoli a est e ovest della città, oltre le mura — centinaia di persone senza alloggio in città. |
+| **Wyhan's Apothecary** | Negozio di rimedi ed esoterismo gestito da Wyhan, Maga dell'Alta Stregoneria dal mantello nero. |
 
 ### 📍 Riferimento — Poteri di Kalaman
 
 | Figura | Ruolo | Note |
 |--------|-------|------|
-| **Governor Calof Miat** | Capo del governo cittadino | Legale neutrale, umano nobile. Parla per il popolo nelle sedute del consiglio. |
+| **Governatore Calof Miat** | Capo del governo cittadino | Legale neutrale, umano nobile. Parla per il popolo nelle sedute del consiglio. |
 | **Consiglio dei Capigilda** | Gilda dei Cartografi, degli Scaricatori, dei Pescatori, dei Muratori, dei Costruttori Navali | Umani e nani delle colline, spesso in competizione tra loro per influenza. |
-| **Marshal Nestra Vendri** | Comandante militare | Legale neutrale, umana cavaliere. Pragmatica — Kalaman non può permettersi di chiedere aiuto ai Cavalieri di Solamnia ogni volta che i predoni di Estwilde attaccano. |
+| **Maresciallo Nestra Vendri** | Comandante militare | Legale neutrale, umana cavaliere. Pragmatica — Kalaman non può permettersi di chiedere aiuto ai Cavalieri di Solamnia ogni volta che i predoni di Estwilde attaccano. |
 
 ---
 
@@ -1131,7 +1196,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
 | La Prima Missione — Rookledust | Vendri assegna ai personaggi il compito di raggiungere l'inventrice gnoma Tatina Rookledust, 12 miglia a sud di Kalaman, per indagare sul boilerdrak visto a Vogler | Alta → Apertura Sessione 04 |
-| Il Test di Wyhan | Se il rotolo è stato consegnato, il personaggio riceverà notizie sul proprio Test di Alta Stregoneria all'inizio del prossimo capitolo | Media → Cap. 5 |
+| La Prova di Wyhan | Se il rotolo è stato consegnato, il personaggio riceverà notizie sulla propria Prova dell'Alta Stregoneria all'inizio del prossimo capitolo | Media → Cap. 5 |
 | **L'estratto autenticato di Rennard** | Se la lettera è stata consegnata: Razak è a registro per la prima volta, la candidatura di Brynja resta ferma da nove anni. La carta serve **nel Cap. 7**, per rendere difendibile l'investitura di S19 davanti all'Ordine dei vivi | Bassa ora → **Alta nel Cap. 7** |
 | Rhys come alleato | Se salvato di nuovo, resta a Kalaman come sostenitore devoto del party | Bassa → ricorrente |
 | **Il destino di Becklin** | ✅ **Risolto in FASE 0D: catturata.** Jeyev l'ha vista portare via e ne ha recuperato l'elmo, che passa a Darrett. **Può riapparire come prigioniera nei Cap. 4 o 5** — è un filo aperto, non chiuso | **Alta → Cap. 4-5** |
@@ -1140,7 +1205,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | Jeyev Veldrews | Fedeltà ancora ambigua secondo la scelta fatta in Sessione 02 — non compare in questa sessione ma resta un thread aperto | Media |
 | Lord Bakaris — rivalità politica | Umiliato pubblicamente al consiglio; cerca ora di screditare i personaggi con ogni mezzo indiretto | Media → ricorrente fino a fine Cap. 4 |
 | I Cavalieri Minacciosi | Chi erano le figure viste sulle scogliere di Vogler? Lord Soth? Spiriti? | Bassa → tema ricorrente |
-| I Draconiani — cosa sono | Marshal Vendri non ne sa nulla — i personaggi sono ora la fonte primaria di informazioni di Kalaman su questa minaccia | Media → arco Dragon Army |
+| I Draconiani — cosa sono | Maresciallo Vendri non ne sa nulla — i personaggi sono ora la fonte primaria di informazioni di Kalaman su questa minaccia | Media → arco dell'Armata dei Draghi |
 
 ---
 
@@ -1174,14 +1239,14 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 - [ ] **Raven chiamata a testimoniare contro Lord Bakaris al consiglio:** Sì / No
 - [ ] Bakaris il Giovane affrontato nel cortile: Sì / No — metodo: ____________
 - [ ] Menzogna di Lord Bakaris smascherata al consiglio: Sì / No
-- [ ] Rapporto di Marshal Vendri ascoltato per intero: Sì / No
+- [ ] Rapporto della Maresciallo Vendri ascoltato per intero: Sì / No
 - [ ] Decisione di Kalaman: party ha giurato servizio militare: Sì / No — chi: ____________
 - [ ] Raven informata dell'esito: Sì / No
 - [ ] Wyhan visitata, rotolo consegnato: Sì / No — predizione mantello: ____________
 - [ ] Archivi visitati, lettera di Becklin consegnata a Rennard: Sì / No — servizio di Razak messo a registro: Sì / No — estratto autenticato acquistato: Sì / No
 - [ ] Come ha reagito Brynja al fascicolo fermo da nove anni: ____________
-- [ ] Marshal Vendri incontrata in ufficio, doveri assegnati: Sì / No
-- [ ] Alloggi a Castle Kalaman presi in uso: Sì / No
+- [ ] Maresciallo Vendri incontrata in ufficio, doveri assegnati: Sì / No
+- [ ] Alloggi al Castello di Kalaman presi in uso: Sì / No
 - [ ] Ordini di Darrett ricevuti: Sì / No
 - [ ] Rhys ritrovato tra i profughi: Sì / No
 
@@ -1195,8 +1260,8 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | **Fewmaster Gholcag** | Boss dell'invasione di Vogler | -3 Ostile / sconfitta |
 | Raven Uth Vogler | Sopravvive alla caduta, organizza il campo, delega ai personaggi | +2 Amichevole (invariata) |
 | Darrett Highwater | Riceve l'armatura di Becklin (se applicabile); trova un nuovo ruolo a Kalaman | +3 Alleato |
-| Governor Calof Miat | Presiede il consiglio; offre protezione con condizione | 0 → +1 Cordiale |
-| Marshal Nestra Vendri | Riferisce le minacce regionali; recluta i personaggi | 0 → +1 Cordiale |
+| Governatore Calof Miat | Presiede il consiglio; offre protezione con condizione | 0 → +1 Cordiale |
+| Maresciallo Nestra Vendri | Riferisce le minacce regionali; recluta i personaggi | 0 → +1 Cordiale |
 | Lord Bakaris Uth Estide | Smascherato pubblicamente davanti al consiglio | -1 Sospettoso → -2 Diffidente |
 | Bakaris il Giovane | Blocca i personaggi nel cortile, viene respinto | -1 → -2 Diffidente |
 | Wyhan | Visitata (se applicabile), test del rotolo completato | -1 Sospettosa → 0 Neutrale |
@@ -1212,7 +1277,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | FASI 1-5 — interamente narrative | Nessun XP da combattimento |
 | Disagi del campo profughi risolti (opz., narrativo) | +25 XP per disagio risolto, a discrezione del DM |
 | Bakaris smascherato con successo al consiglio | +50 XP (bonus narrativo) |
-| **Avanzamento successivo** | Livello 5 prima di Wheelwatch Outpost (sessioni future) |
+| **Avanzamento successivo** | Livello 5 prima dell'Avamposto di Wheelwatch (sessioni future) |
 
 ### Thread Aperti
 
@@ -1224,12 +1289,12 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — **livello da 3 → 4**; registra chi ha giurato servizio a Kalaman; aggiorna sede base (Vogler → Kalaman, Castle Kalaman); ripristina lo stato degli slot di Brynja e Corin
-- [ ] `campagna/png-incontrati.md` — aggiungi Fewmaster Gholcag, Governor Calof Miat, Marshal Nestra Vendri, Wyhan (se incontrata), Cancelliere Aldous Rennard (se incontrato); aggiorna: **Becklin (catturata)**, Jeyev, Cudgel, Raven, Darrett, Lord Bakaris, Svilnt
+- [ ] `campagna/party.md` — **livello da 3 → 4**; registra chi ha giurato servizio a Kalaman; aggiorna sede base (Vogler → Kalaman, Castello di Kalaman); ripristina lo stato degli slot di Brynja e Corin
+- [ ] `campagna/png-incontrati.md` — aggiungi Fewmaster Gholcag, Governatore Calof Miat, Maresciallo Nestra Vendri, Wyhan (se incontrata), Cancelliere Aldous Rennard (se incontrato); aggiorna: **Becklin (catturata)**, Jeyev, Cudgel, Raven, Darrett, Lord Bakaris, Svilnt
 - [ ] `campagna/rapporti.md` — compila sezione "Capitolo 03 (Kalaman — Cap 4 libro)" con i rapporti formati in questa sessione
-- [ ] `campagna/fazioni.md` — aggiorna Esercito di Kalaman (posizione verso il party: Neutrale → Amichevole/Alleata se hanno giurato); aggiorna Mages of High Sorcery se Wyhan è stata incontrata
+- [ ] `campagna/fazioni.md` — aggiorna Esercito di Kalaman (posizione verso il party: Neutrale → Amichevole/Alleata se hanno giurato); aggiorna Maghi dell'Alta Stregoneria se Wyhan è stata incontrata
 - [ ] `campagna/contesto.md` — aggiorna **Capitolo corrente: da 3 → 4** (il party è ora stabilmente a Kalaman)
-- [ ] `/aggiorna-locations 03` — esegui dopo la sessione per aggiornare il compendio luoghi (**Vogler e il suo molo: distrutti**; Kalaman, Castle Kalaman, Trade Camps, Wyhan's Apothecary, ecc.)
+- [ ] `/aggiorna-locations 03` — esegui dopo la sessione per aggiornare il compendio luoghi (**Vogler e il suo molo: distrutti**; Kalaman, Castello di Kalaman, Accampamenti dei Mercanti, Wyhan's Apothecary, ecc.)
 - [ ] `/prep-sessione 04` — prepara la Sessione 04 prima della prossima (Cap. 4 prosegue: "The First Mission" — viaggio da Tatina Rookledust, indagine sul boilerdrak)
 
 ---
@@ -1264,21 +1329,21 @@ Dopo la sessione, aggiorna questi file:
 
 | # | Tipo | Sezione | Modifica Applicata |
 |---|------|---------|-------------------|
-| 1 | Struttura | Header | Chiarito che non c'è avanzamento di livello in questa sessione (nessun combattimento); annotato il prossimo trigger di livello (Wheelwatch Outpost, Lv 5) |
+| 1 | Struttura | Header | Chiarito che non c'è avanzamento di livello in questa sessione (nessun combattimento); annotato il prossimo trigger di livello (Avamposto di Wheelwatch, Lv 5) |
 | 2 | Continuità | SETUP INIZIALE | Bridge narrativo diretto dalla Sessione 02: notte sul fiume Vingaard, avvistamento di Kalaman all'alba |
 | 3 | Testo Boxed | BT-01 | Preservati: città murata, riva meridionale, ampia baia, navi in transito, due torri-faro, foce del Vingaard nella Baia di Kalaman, profughi con barche spaiate |
 | 4 | Testo Boxed | BT-02 | Preservate: statue di soldati titanici, mura possenti, riferimento al Cataclisma, quartiere di tende/baracche, guardie in blu e oro |
 | 5 | Testo Boxed | BT-03 | Preservati: rupi di 30 metri (100 piedi convertiti), statue gigantesche, sentiero verso il cancello, guardie al cancello aperto |
 | 6 | Testo Boxed | BT-04 | Preservato dialogo integrale di Bakaris il Giovane, incluso l'insulto "gente di pesce" (fish-folk) |
-| 7 | Testo Boxed | BT-05 | Preservati: otto membri del consiglio, tavolo largo, Governor Miat con panciotto blu e oro, dialogo diretto, cenno verso Bakaris |
-| 8 | Testo Boxed | BT-06 | Preservate: reazione di Miat, presentazione di Marshal Vendri, armatura blu e oro, dialogo diretto di entrambi |
+| 7 | Testo Boxed | BT-05 | Preservati: otto membri del consiglio, tavolo largo, Governatore Miat con panciotto blu e oro, dialogo diretto, cenno verso Bakaris |
+| 8 | Testo Boxed | BT-06 | Preservate: reazione di Miat, presentazione della Maresciallo Vendri, armatura blu e oro, dialogo diretto di entrambi |
 | 9 | Testo Boxed | BT-07 | Preservati: apertura delle porte, membri del consiglio che sfilano, Vendri che fa cenno, Miat e Bakaris rimasti seduti |
 | 10 | Testo Boxed | BT-08 | Preservata l'offerta integrale di Miat: rifugio, protezione, cibo, condizione in sospeso |
 | 11 | Testo Boxed | BT-09 | Preservati: odore di liquirizia e pepe, tavoli con amuleti/ossa/fiale, descrizione fisica di Wyhan, gesto di disinteresse |
 | 12 | Testo Boxed | BT-10 | Preservati: ufficio spartano, scrivania con documenti, scaffali di rotoli, mappa di Nightlund, dialogo diretto di Vendri |
 | 13 | Testo Boxed | BT-11 | Preservati: ex sala da ballo, colonne scolpite, soffitto a volta, finestre verso le montagne a sud, brande e bauli |
 | 14 | Meccaniche | Fase 4 | Aggiunta tabella riepilogativa delle azioni/tiri della scena del consiglio per facilitare la conduzione al tavolo |
-| 15 | PC Integration | Hook PG | Aggiunti hook per Eye in the Sky (payoff diretto del rotolo), Broken Silence, Scales of War (Rhys), più scena opzionale spotlight per PG con background nobiliare/militare |
+| 15 | PC Integration | Hook PG | Aggiunti hook per Occhio nel Cielo (payoff diretto del rotolo), Silenzio Infranto, Scaglie di Guerra (Rhys), più scena opzionale spotlight per PG con background nobiliare/militare |
 | 16 | Missioni | Thread Narrativi | Documentato esplicitamente che questa campagna non ha missioni di fazione strutturate (fazioni.md) — Agente 4 non ha integrato hook di missione, come da vincolo esplicito dell'agente |
 | 17 | Struttura | Riferimento Luoghi | Aggiunta sezione di consultazione DM con Gazetteer di Kalaman (locations + poteri cittadini), utile anche per `/aggiorna-locations 03` |
 | 18 | Continuità | Thread | Collegati esplicitamente i thread aperti della Sessione 02 (destino di Becklin, Jeyev, Cavalieri Minacciosi, natura dei draconiani) con il nuovo thread della Sessione 03 (Prima Missione — Rookledust) |

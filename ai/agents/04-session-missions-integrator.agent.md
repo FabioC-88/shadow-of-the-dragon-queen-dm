@@ -118,6 +118,7 @@ fonti/missioni/{Fazione}_Missione#_*.txt    ← Narrativa estesa (path da fazion
 
 ## Vincoli
 
+- **Terminologia:** nomi di luoghi, titoli, gradi, organizzazioni e schede vanno scritti come in `campagna/glossario.md` (es. *Maresciallo* Vendri, *Castello di Kalaman*, *Armata dei Draghi*). Un termine inglese nuovo si traduce con le regole del glossario e si aggiunge lì.
 - **Non inventare** missioni, PNG o scene che non esistono nei file di riferimento.
 - **Non alterare** i testi boxed `>` né le sezioni già scritte dagli Agenti 1-3.
 - Se un file di missione non è disponibile, segnala `[TODO: file missione mancante — verificare]` e salta quell'hook.

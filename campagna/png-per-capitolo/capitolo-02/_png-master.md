@@ -1,6 +1,6 @@
-# PNG Master — Capitolo 02: When Home Burns (Cap 3 libro)
+# PNG Master — Capitolo 02: Quando Brucia la Casa (Cap 3 libro)
 
-> Reference DM dei PNG per il Capitolo 3: When Home Burns.
+> Reference DM dei PNG per il Capitolo 3: Quando Brucia la Casa.
 > Quando i PG sono noti, gli agenti creano file individuali `[NomePG].md` qui.
 
 **Livelli PG:** 1 → 3  
@@ -16,10 +16,10 @@
 | PNG | Ruolo | Attitudine | Note Rapide |
 |-----|-------|-----------|-------------|
 | **Ispin Greenshield** | Defunto — gancio emotivo | +3 (era amico) | Funerale; scudo verde; le sue storie definiscono i PNG |
-| **Becklin Uth Viharin** | Knight of Solamnia; castellana Thornwall Keep | +1 Cordiale | Protegge Vogler; può morire — usa sapientemente |
+| **Becklin Uth Viharin** | Cavaliere di Solamnia; castellana Thornwall Keep | +1 Cordiale | Protegge Vogler; può morire — usa sapientemente |
 | **Darrett Highwater** | Scudiero di Becklin; giovane | +1 Cordiale | PNG ricorrente per tutta la campagna |
 | **Raven Uth Vogler** | Sindaco; organizza evacuazione | +1 Cordiale | Voce della comunità di Vogler |
-| **Cudgel Ironsmile** | Capo Ironclad Regiment (mercenari nani) | 0 Neutrale | Ex compagno di Ispin; potenziale alleato a pagamento |
+| **Cudgel Ironsmile** | Capo Reggimento Ironclad (mercenari nani) | 0 Neutrale | Ex compagno di Ispin; potenziale alleato a pagamento |
 
 ### Complicazioni / Antagonisti Locali
 
@@ -27,14 +27,14 @@
 |-----|-------|-----------|-------------|
 | **Bakaris Uth Estide** | Nobile opportunista | 0 Neutrale (si mostra cordiale) | Non fidarsi — ha secondi fini |
 | **Leedara** | Spirito elfa (apparizione) | 0 Neutrale | Misteriosa; legate alla maledizione di Lord Soth |
-| **Lord Soth** | Death Knight — prima apparizione (lontana) | -3 Ostile | Solo presenza/minaccia — NON combatterlo |
+| **Lord Soth** | Cavaliere della morte (*Death Knight*) — prima apparizione (lontana) | -3 Ostile | Solo presenza/minaccia — NON combatterlo |
 
 ### Massa
 
 | Gruppo | Descrizione |
 |--------|-------------|
 | Civili di Vogler | Pescatori, commercianti, famiglie; l'evacuazione riguarda loro |
-| Dragon Army soldiers | Avanguardie del Red Dragon Army |
+| Soldati dell'Armata dei Draghi (*Dragon Army soldiers*) | Avanguardie dell'Armata dei Draghi Rossi |
 | Baaz/Bozak Draconians | Prime truppe nemiche viste di persona dai PG |
 
 ---
