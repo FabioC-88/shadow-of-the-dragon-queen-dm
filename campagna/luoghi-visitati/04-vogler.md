@@ -1,7 +1,7 @@
 # Vogler
 
 **Zona**: Provincia solamnica di Hinterlund — sul fiume Vingaard
-**Sessioni Visitate**: S1, S2
+**Sessioni Visitate**: S1, S2, S3
 **Descrizione**: Villaggio di pescatori aggrappato a una lingua di terra che si protende nel Vingaard, sovrastato da scogliere boscose. Ci vivono umani, kender e nani collinari. Il segno distintivo è un ponte di pietra pre-Cataclisma di artigianato straordinario, rimasto incompiuto: attraversa meno della metà del fiume, e il resto lo fanno funi e zattere.
 
 ## PNG Incontrati
@@ -15,6 +15,7 @@
 - Jeyev Veldrews (luogotenente dell'Ironclad, umano)
 - Than (gnomo armeggione, inventore dello gnomeflinger)
 - Una messaggera dell'Armata dei Draghi Rossi (araldo a cavallo)
+- Fewmaster Gholcag (comandante del raid dell'Armata dei Draghi, ostile, sconfitta)
 
 ## Eventi Importanti
 
@@ -25,7 +26,8 @@
 - [S2] Il party ha scoperto un esercito accampato a poche miglia a nordovest, mandando in ricognizione un famiglio
 - [S2] Una messaggera in armatura nera e rossa si è presentata alla Porta del Fiume con un ultimatum: alloggiare i soldati dell'Armata dei Draghi entro sera, o morire. Nessuno poteva lasciare il villaggio
 - [S2] Il villaggio ha deciso di non arrendersi e di prepararsi all'evacuazione lungo il Vingaard
+- [S3] Il party ha organizzato ed eseguito l'evacuazione del villaggio, ha respinto l'assalto dell'Armata dei Draghi e ha sconfitto Fewmaster Gholcag; Vogler è stata evacuata e data alle fiamme, e il party è fuggito in barca lungo il Vingaard verso Kalaman
 
 ## Note Aggiuntive
 
-Il villaggio cade nella Sessione 03. Tutto quello che viene costruito qui serve a rendere quella caduta pesante. *Fonte: DSotDQ Cap. 3.*
+Il villaggio è caduto nella Sessione 03: evacuato e dato alle fiamme dall'Armata dei Draghi dopo l'assalto finale. Tutto quello che è stato costruito qui ha reso quella caduta pesante. *Fonte: DSotDQ Cap. 3.*

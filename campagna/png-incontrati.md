@@ -59,8 +59,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — funerale di Ispin, Vogler (lettera d'invito già in Sessione 00) |
 | **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Onorevole, diretta, porta il peso della guerra sulle spalle |
-| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) · **+3 Alleato verso Razak** |
-| **Note** | Ex compagna avventuriera di Ispin. Vuole difendere Vogler ma sa che la minaccia è troppo grande. Probabilmente muore nel Cap 3 — preparare la dinamica narrativa. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler. ⏸️ **Dopo la Sessione 02 non ha ancora chiesto a Razak il favore della cassa**, né consegnato la busta per gli archivi di Kalaman: entrambe le scene sono in Sessione 03, FASE 0A e 0B. **[NOTA DM — riservata] Destino scelto: CATTURATA** durante la battaglia al fronte. Il party lo scopre da Jeyev, al molo, in FASE 0D |
+| **Attitudine Attuale** | 🔒 **Catturata** · +2 Amichevole (invariata) · **+3 Alleato verso Razak** (invariata) |
+| **Note** | Ex compagna avventuriera di Ispin. **È la cavaliera di Razak** (suo scudiero per 4 anni a Thornwall Keep, fino a 4 anni fa — vedi `campagna/party.md`) — è lei a firmare la lettera che lo richiama a Vogler. ✅ **Sessione 03, FASE 0A/0B:** ha affidato a Razak la lettera sigillata per Rennard (non ancora consegnata) e il favore della cassa con l'armatura per Darrett (recuperata, non ancora consegnata), poi è partita per il fronte con Cudgel. **[RISOLTO] Destino eseguito: CATTURATA** durante la battaglia al fronte — il party lo scopre da Jeyev, al molo, in FASE 0D |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
@@ -77,13 +77,13 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — sulla strada per Thornwall Keep |
 | **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
-| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 01) |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. Vedi `fonti/personaggi/Razak-Kendall.md` |
+| **Attitudine Attuale** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. ✅ **Sessione 03:** ha ricevuto da Jeyev l'elmo di Becklin al molo. **Non ha ancora ricevuto la cassa con l'armatura** — consegna in Sessione 04, FASE 1. Vedi `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | **+2 Amichevole** | Si sono incontrati per la prima volta in Sessione 01, sulla strada per Thornwall Keep. Darrett ha passato due anni a sentirsi raccontare com'era il suo predecessore |
+| Razak | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Si sono incontrati per la prima volta in Sessione 01, sulla strada per Thornwall Keep. Darrett ha passato due anni a sentirsi raccontare com'era il suo predecessore |
 
 ---
 
@@ -94,8 +94,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — ricevimento funebre al Brass Crab |
 | **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
 | **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
-| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
-| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro dell'Armata dei Draghi e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ⏸️ **Le scogliere sono state liberate proprio perché lei potesse uscire** a richiamare la compagnia e schierarla a nord: è la prima cosa che fa in Sessione 03. Può diventare alleata nelle Terre Desolate del Nord (Cap. 5) |
+| **Attitudine Attuale** | **+2 Amichevole** (invariata) · **[NOTA DM — riservata] Dispersa, non morta** |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro dell'Armata dei Draghi e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ✅ **Sessione 03, FASE 0B:** è partita per il fronte a nord insieme a Becklin per richiamare la compagnia. **[NOTA DM — riservata]** Si è ritirata coi superstiti del Reggimento Ironclad dopo la battaglia al fronte e riapparirà più avanti (es. la missione "Ritorno delle Truppe" tra quelle per Kalaman). **Il party non lo sa:** solo la cattura di Becklin è stata dichiarata esplicitamente — Jeyev, se interrogato, dice di averne perso le tracce nella ritirata |
 
 ---
 
@@ -106,8 +106,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — Festival del Kingfisher |
 | **Affiliazione** | Vogler |
 | **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
-| **Attitudine Attuale** | **+2 Amichevole** (dopo la Sessione 02) |
-| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco dell'Armata dei Draghi. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo |
+| **Attitudine Attuale** | **+2 Amichevole** (invariata) |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco dell'Armata dei Draghi. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo. ✅ **Sessione 03:** sopravvissuta, ha guidato l'evacuazione di Vogler secondo i quattro compiti assegnati a inizio FASE 0A — tutti i 400 abitanti messi in salvo |
 
 ---
 
@@ -119,7 +119,7 @@
 | **Affiliazione** | Solamnia (nobile, ma principalmente sé stesso) |
 | **Tratto** | Manipolativo, arrogante, opportunista; usa il titolo nobiliare per ottenere vantaggi. Comicamente vigliacco: tutto fiato e parole gonfie |
 | **Attitudine Attuale** | **-3 Ostile verso Asurion** · **-2 Diffidente verso il resto del gruppo** (dopo la Sessione 02) |
-| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. ✅ **Sessione 02, la notte della coda:** ha provato a comprare la precedenza sulle cure di Brynja, offrendo oro perché passasse prima da Westide House — dove non c'è nessun malato. **È stato cacciato dal Brass Crab**: gli è stato risposto che *il potere degli dèi non è in vendita, e che se era davvero ferito poteva mettersi in fila*. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Si porta dietro quattro torti**, tre veri nella lettera e uno inventato: il tuffo nel fiume, l'umiliazione del figlio, *«mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no»*, e **di essere stato buttato fuori da una locanda davanti a mezzo villaggio**. ⚠️ **Ma il party ha anche il contraddittorio senza saperlo:** la spiegazione pubblica sui limiti delle cure è stata data **con Raven presente e consenziente**, e Raven arriva a Kalaman con i profughi. Il suo arco continua per tutto il Cap. 4 |
+| **Note** | ⚠️ **Sessione 01: Asurion lo ha trascinato nel fiume** davanti al molo pieno di gente, dopo che era stato a molestarlo durante la gara. A Vogler non ha conseguenze — ma a Kalaman sì. ✅ **Sessione 02, la notte della coda:** ha provato a comprare la precedenza sulle cure di Brynja, offrendo oro perché passasse prima da Westide House — dove non c'è nessun malato. **È stato cacciato dal Brass Crab**: gli è stato risposto che *il potere degli dèi non è in vendita, e che se era davvero ferito poteva mettersi in fila*. [NOTA DM — riservata] Arriva a Kalaman **prima del party** (Sessione 03) e mente al consiglio cittadino spacciandosi per il difensore di Vogler. **Non è comparso a Vogler durante l'evacuazione** (Sessione 03, FASE 0A) — a differenza del figlio, che invece sì. **Si porta dietro quattro torti**, tre veri nella lettera e uno inventato: il tuffo nel fiume, l'umiliazione del figlio, *«mi sono offerto di pagare perché quella gente venisse curata, e mi è stato detto di no»*, e **di essere stato buttato fuori da una locanda davanti a mezzo villaggio**. ⚠️ **Ma il party ha anche il contraddittorio senza saperlo:** la spiegazione pubblica sui limiti delle cure è stata data **con Raven presente e consenziente**, e Raven arriva a Kalaman con i profughi. Il suo arco continua per tutto il Cap. 4 |
 
 ---
 
@@ -131,7 +131,7 @@
 | **Affiliazione** | Solamnia (nobile); dipende in tutto dalla ricchezza del padre |
 | **Tratto** | Arrogante, meschino, collerico. Dà un valore smisurato al proprio aspetto e alla propria prestanza. **Detesta essere chiamato "il Giovane"** |
 | **Attitudine Attuale** | **-3 Ostile verso Razak** · 0 Neutrale verso gli altri |
-| **Note** | ⚠️ **Sessione 01: umiliato pubblicamente al ricevimento.** Razak lo ha minacciato senza riuscirci; poi **Garrick** ha simulato con una prestidigitazione una sonora scoreggia sotto la sua sedia, e tutta la locanda ha riso. **Non si è accorto di Garrick: incolpa Razak, e basta.** [NOTA DM — riservata] Ha già ucciso un uomo in duello a Estwilde — è il motivo del trasferimento a Vogler — e fantastica di conquistare il rispetto con la punta della spada. Di tutte le cose che gli potevano capitare, **essere deriso è la peggiore**. Ricompare nel cortile del Castello di Kalaman in Sessione 03: non sta più facendo il bullo per abitudine, sta cercando Razak. **Non rivelargli che è stato Garrick** a meno che non sia un giocatore a farglielo scoprire |
+| **Note** | ⚠️ **Sessione 01: umiliato pubblicamente al ricevimento.** Razak lo ha minacciato senza riuscirci; poi **Garrick** ha simulato con una prestidigitazione una sonora scoreggia sotto la sua sedia, e tutta la locanda ha riso. **Non si è accorto di Garrick: incolpa Razak, e basta.** [NOTA DM — riservata] Ha già ucciso un uomo in duello a Estwilde — è il motivo del trasferimento a Vogler — e fantastica di conquistare il rispetto con la punta della spada. Di tutte le cose che gli potevano capitare, **essere deriso è la peggiore**. ✅ **Sessione 03, FASE 0A — in piazza a Vogler:** ha provato a sabotare l'evacuazione dicendo alla gente che non c'era nulla da temere; i personaggi lo hanno smentito con argomenti più convincenti e i popolani hanno evacuato. **Lord Bakaris (il padre) non era presente.** Ricompare nel cortile del Castello di Kalaman in Sessione 04 — secondo incontro, non il primo: non sta più facendo il bullo per abitudine, sta cercando Razak. **Non rivelargli che è stato Garrick** a meno che non sia un giocatore a farglielo scoprire |
 
 ---
 
@@ -171,8 +171,8 @@
 | **Prima Apparizione** | ✅ **Sessione 02, FASE 3** — rientra a Vogler all'alba insieme a Cudgel (in anticipo sul piano, che lo dava al molo) |
 | **Affiliazione** | Reggimento Ironclad |
 | **Tratto** | Umano, pratico; ricompare al molo con l'elmo di Becklin e una storia da raccontare |
-| **Attitudine Attuale** | **+1 Cordiale** |
-| **Note** | Rimasto al campo con i mercenari **non** comprati da Gragonis; ha trattenuto i soldati rimasti leali al traditore e li ha consegnati. ✅ **Sessione 02:** il party lo ha conosciuto all'alba, **presentato da Cudgel come uno dei fedeli** — non è più lo sconosciuto ambiguo che il piano prevedeva al molo. **[NOTA DM — riservata] Destino di Becklin scelto: CATTURATA.** Jeyev è quindi il **testimone onesto** della tabella: ha visto portarla via mentre fuggiva e ne ha recuperato l'elmo. Scena in `dm-notes-sessione-03.md`, FASE 0D |
+| **Attitudine Attuale** | **+1 Cordiale** (invariata) |
+| **Note** | Rimasto al campo con i mercenari **non** comprati da Gragonis; ha trattenuto i soldati rimasti leali al traditore e li ha consegnati. ✅ **Sessione 02:** il party lo ha conosciuto all'alba, **presentato da Cudgel come uno dei fedeli** — non è più lo sconosciuto ambiguo che il piano prevedeva al molo. ✅ **Sessione 03, FASE 0D — confermato testimone onesto** della cattura di Becklin: l'ha vista portare via mentre fuggiva, ne ha recuperato l'elmo di Cavaliere di Solamnia e lo ha consegnato a Darrett, arrivando al molo in tempo per l'ultima barca |
 
 ---
 
@@ -183,8 +183,20 @@
 | **Prima Apparizione** | ✅ **Sessione 02, FASE 0/1** — catturato alla fine della battaglia |
 | **Affiliazione** | Reggimento Ironclad (pagato da Gragonis) |
 | **Tratto** | Insulta finché può, poi parla |
-| **Attitudine Attuale** | **-2 Diffidente** |
-| **Note** | ✅ **Interrogato al Brass Crab (Sessione 02, FASE 1) e ha parlato:** il piano di Gragonis di uccidere Cudgel e prendersi l'Ironclad, l'oro preso nel bosco a ovest, i mercenari comprati per attaccare davvero, e il fatto che Jeyev e i rimasti al campo siano probabilmente leali. **Non sa chi abbia fornito l'oro.** ⚠️ **È ancora legato nella rimessa a Vogler, sotto guardia, e nessuno ha deciso cosa farne** — la domanda torna in Sessione 03, quando il villaggio brucia |
+| **Attitudine Attuale** | ☠️ **Morto** |
+| **Note** | ✅ **Interrogato al Brass Crab (Sessione 02, FASE 1) e ha parlato:** il piano di Gragonis di uccidere Cudgel e prendersi l'Ironclad, l'oro preso nel bosco a ovest, i mercenari comprati per attaccare davvero, e il fatto che Jeyev e i rimasti al campo siano probabilmente leali. **Non sa chi abbia fornito l'oro.** ☠️ **Sessione 03:** dimenticato nella rimessa dal party, morto bruciato insieme a Vogler |
+
+---
+
+### Fewmaster Gholcag
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Fewmaster dell'Armata dei Draghi, comandante del Boilerdrak al molo di Vogler |
+| **Prima Apparizione** | ✅ **Sessione 03, FASE 0C** — al molo, con l'equipaggio del Boilerdrak e due baaz draconiani al seguito |
+| **Affiliazione** | Armata dei Draghi Rossi |
+| **Tratto** | Boss di FASE 0C — grado *Fewmaster* dell'Armata (~CR 4) |
+| **Attitudine Attuale** | ☠️ **Sconfitta** |
+| **Note** | Sconfitta dal party insieme ai due baaz al suo seguito, dopo l'equipaggio del Boilerdrak (quattro baaz draconiani). **Il Boilerdrak è esploso** durante lo scontro al molo |
 
 ---
 
@@ -241,12 +253,12 @@
 ### Wyhan
 | Elemento | Valore |
 |----------|--------|
-| **Ruolo** | Ex maga di magia nera (mantello nero), ora alchimista/apotecaria a Kalaman |
+| **Ruolo** | Maga dell'Alta Stregoneria (mantello nero), gestisce un'apotecaria a Kalaman |
 | **Prima Apparizione** | Capitolo 4 (Wyhan's Apothecary) |
-| **Affiliazione** | Maghi dell'Alta Stregoneria (ritirata); indipendente |
+| **Affiliazione** | Maghi dell'Alta Stregoneria — **membro attivo e devoto**, non ritirata: la "ritirata" è solo la copertura dietro cui gestisce il negozio |
 | **Tratto** | Cinica, schietta, non si fida facilmente; conosce il suo valore |
 | **Attitudine Iniziale** | -1 Sospettoso |
-| **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi" |
+| **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi". *[Fonte: DSotDQ Cap. 4 — "though supposedly retired... a dedicated member of her organization"; confermato in `dm-notes-sessione-04.md`, FASE 5, come "profondamente devota alla propria organizzazione"]* |
 
 ---
 

@@ -59,7 +59,7 @@ Il materiale vale **~4h20m** contro una serata da **2h30m**. **Arrivare a Kalama
 
 ---
 
-## ⚔️ FASE 0 — La Caduta di Vogler
+## ⚔️ FASE 0 — La Caduta di Vogler ✅ GIOCATA PER INTERO (come da piano)
 
 *~90 minuti (20 + 30 + 30 + 10) · Preparativi evacuazione, invasione, Boilerdrak e Gholcag, fuga finale*
 
@@ -74,7 +74,7 @@ Il materiale vale **~4h20m** contro una serata da **2h30m**. **Arrivare a Kalama
 > 2. **Brynja e Corin non hanno slot.** Hanno curato tutta la notte e non hanno riposato — decidi *prima* se concedere un riposo nel pomeriggio o no (vedi il riquadro in 0A).
 > 3. **Cudgel esce adesso.** Le scogliere sono state liberate proprio per questo: richiama i mercenari e li schiera a nord. È la prima cosa che succede.
 
-### 0A — Preparativi per l'Evacuazione (~20 min)
+### 0A — Preparativi per l'Evacuazione (~20 min) ✅
 
 > ⚠️ **PRIMA DI COMINCIARE — il riposo.** Brynja e Corin hanno passato la notte a curare e **non hanno slot**. Tra l'assalto alle scogliere e l'arrivo dell'Armata dei Draghi c'è un pomeriggio di preparativi: la finestra per un riposo lungo **non basta** (servono 8 ore, e l'invasione arriva entro sera).
 >
@@ -155,7 +155,7 @@ Nel primo pomeriggio Cudgel torna. Ha diretto il Reggimento Ironclad a tenere un
 
 ---
 
-### 0B — L'Invasione di Vogler ⚔️ (~30 min)
+### 0B — L'Invasione di Vogler ⚔️ (~30 min) ✅
 
 #### L'Addio
 
@@ -173,7 +173,7 @@ Prima di rimontare in sella, Becklin toglie dalla bisaccia una busta sigillata c
 >
 > Prima di girare il cavallo fa con due dita uno dei segni che gli aveva insegnato nelle riunioni lunghe, anni fa.
 
-*[NOTA DM — riservata] Il segno vuol dire **«dopo»**: il giocatore di Razak lo sa, il resto del tavolo no. Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è **in questa stessa sessione, FASE 5** ("Il Registro di Rennard"), e funziona con qualunque destino tu scelga per lei nella FASE 0D — la lettera è già partita prima che il suo destino si decida.*
+*[NOTA DM — riservata] Il segno vuol dire **«dopo»**: il giocatore di Razak lo sa, il resto del tavolo no. Non tradurre il segno a voce e non far spiegare a Becklin cosa c'è nella busta: parte e basta. La scena di consegna è in FASE 5 ("Il Registro di Rennard") — ⏭️ post-sessione: la FASE 5 non è stata giocata, la consegna slitta alla **Sessione 04**; la busta è in mano a Razak — e funziona con qualunque destino tu scelga per lei nella FASE 0D — la lettera è già partita prima che il suo destino si decida.*
 
 Poi lei e Cudgel cavalcano via.
 
@@ -358,7 +358,7 @@ I due miliziani (**guardie**) sono in inferiorità contro cinque **baaz draconia
 
 ---
 
-### 0C — Fuga dal Molo ⚔️ (~30 min)
+### 0C — Fuga dal Molo ⚔️ (~30 min) ✅ *(esito confermato: Boilerdrak ed equipaggio sconfitti, Gholcag sconfitta; il Boilerdrak è esploso durante lo scontro, non disinnescato — vedi tabella delta)*
 
 Quando sei pronto a portare l'invasione al culmine, procedi con questo incontro. Non importa dove si trovino i personaggi nel villaggio — urla provengono dal molo. Quando i personaggi si avvicinano:
 
@@ -522,7 +522,7 @@ Dopo che Gholcag e i draconiani sono sconfitti, la battaglia si conclude.
 
 ---
 
-### 0D — L'Ultima Barca (~10 min)
+### 0D — L'Ultima Barca (~10 min) ✅ *(destino di Becklin eseguito come da decisione pre-presa: catturata; destino di Cudgel Ironsmile: [NOTA DM — riservata] dispersa, non morta — il party non lo sa, vedi tabella delta)*
 
 La maggior parte dei draconiani rimasti in Vogler si concentra sul saccheggio — questo dà agli abitanti il tempo di evacuare. Al termine del molo, solo **Raven**, **Darrett** e pochi altri attendono ancora. Le ultime barche hanno spazio per loro e per i personaggi.
 
@@ -581,7 +581,7 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 ---
 
-### Testo — L'Alba sul Vingaard [BT-00]
+### Testo — L'Alba sul Vingaard [BT-00] ⏸️ NON LETTO — 🔀 TRASFERIRE A SESSIONE 04 (apertura di serata)
 
 *Da qui in poi comincia Kalaman. Se la serata si è chiusa alla fine della FASE 0, questo riquadro apre la serata dopo.*
 
@@ -591,7 +591,7 @@ I personaggi avanzano al livello 4 mentre il fiume Vingaard li porta verso Kalam
 
 ---
 
-## FASE 1 — L'Arrivo sulla Riva
+## FASE 1 — L'Arrivo sulla Riva ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 04
 
 *~25 minuti · Sbarco dei profughi, piccole crisi, la cassa di Becklin, la scomparsa di Bakaris*
 
@@ -657,7 +657,7 @@ Se i personaggi non si offrono spontaneamente di andare a controllare, **Raven**
 
 ---
 
-## FASE 2 — Le Porte di Kalaman
+## FASE 2 — Le Porte di Kalaman ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 04
 
 *~15 minuti · Il cammino verso la città, l'ingresso, le prime impressioni*
 
@@ -680,7 +680,7 @@ Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li
 
 ---
 
-## FASE 3 — Il Cortile del Castello
+## FASE 3 — Il Cortile del Castello ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 04
 
 *~15 minuti · L'arrivo al Castello di Kalaman, lo scontro con Bakaris il Giovane*
 
@@ -723,7 +723,7 @@ Un personaggio può far scansare Bakaris il Giovane tramite roleplay o superando
 
 ---
 
-## FASE 4 — Il Consiglio di Kalaman
+## FASE 4 — Il Consiglio di Kalaman ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 04
 
 *~45 minuti · L'udienza con il Governatore Miat, la menzogna di Bakaris, il rapporto della Maresciallo Vendri, la decisione della città*
 
@@ -877,7 +877,7 @@ Con questo, l'incontro con i governanti di Kalaman si conclude. La Maresciallo V
 
 ---
 
-## FASE 5 — Sistemazione e Nuovi Doveri
+## FASE 5 — Sistemazione e Nuovi Doveri ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 04
 
 *~50 minuti · Il ritorno al campo, l'apotecaria di Wyhan e gli archivi di Rennard (entrambe opzionali), l'incontro con Vendri, gli alloggi, gli ordini di Darrett*
 
@@ -1010,7 +1010,7 @@ Qualunque cosa rispondano, torna al registro.
 
 > *"...Metto «esito sconosciuto»."*
 
-*[NOTA DM — riservata] Adatta secondo il destino scelto in Sessione 02: se al tavolo Becklin è morta accertata, Rennard scrive "caduta" e chiede la data; se il party non sa, "esito sconosciuto" resta. In entrambi i casi **non smette di lavorare mentre lo chiede**. È l'unica domanda che non sta su nessun modulo: non sottolinearla, non fargliela commentare.*
+*[NOTA DM — riservata] Adatta secondo il destino di Becklin: ✅ post-sessione — è **catturata**, e il party lo sa da Jeyev (0D), che l'ha vista portare via viva. Se lo dicono, Rennard scrive «catturata» e chiede la data; se tacciono, "esito sconosciuto" resta. In entrambi i casi **non smette di lavorare mentre lo chiede**. È l'unica domanda che non sta su nessun modulo: non sottolinearla, non fargliela commentare.*
 
 **Prove opzionali** — la scena funziona senza:
 
@@ -1134,19 +1134,23 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | **Brynja** | **L'eco.** L'ultima volta che ha visto case in fiamme e gente da portare fuori era un villaggio nanico di frontiera, l'assalto di Grishnak Spezzapietra — la notte in cui **quello scudo che adesso porta lei** si frappose tra lei e un goblin. Stanotte succede di nuovo, e stavolta lo scudo ce l'ha lei. *Non dirlo tu: mettile davanti una casa che brucia con qualcuno dentro e basta.* **E i suoi:** i feriti che ha curato la notte prima sono al molo, in piedi | 0B, 0C |
 | **Corin** | **Il palo del molo con la fenice.** Se non è ancora caduto, l'occasione è adesso: i personaggi si imbarcano **da quel molo**, in fuga, con il villaggio in fiamme alle spalle. Il segno del suo dio — la prima prova che il suo rito di dodici anni non fosse un'invenzione privata — resta lì, e brucia con il resto. *Basta una riga in descrizione mentre la barca si stacca* | 0C / 0D |
 | **Garrick** | Il **rotolo per Wyhan** è ancora in tasca: durante la fuga, Darrett o Raven nominano **Kalaman** come destinazione, e lui capisce che sta andando esattamente dove il rotolo doveva arrivare. **E Leedara:** è ancora in paese e non se ne andrà prima della caduta. Se la cerca mentre il villaggio brucia, decidi tu cosa vede — *lei non ha bisogno di scappare* | 0B, 0D |
-| **Asurion** | **Lord Bakaris è tra i civili da evacuare** (0A) — quello che ha buttato nel fiume, e che la sera prima è stato cacciato dal Brass Crab — e si oppone ai piani. *È l'unico del gruppo da cui non accetterà niente, e l'unico che potrebbe godersi la scena.* ⚠️ **Deve sopravvivere**, lui e il figlio: si ritrovano al consiglio in FASE 4 | 0A |
+| **Asurion** | **Lord Bakaris è tra i civili da evacuare** (0A) — quello che ha buttato nel fiume, e che la sera prima è stato cacciato dal Brass Crab — e si oppone ai piani. *È l'unico del gruppo da cui non accetterà niente, e l'unico che potrebbe godersi la scena.* ⚠️ **Deve sopravvivere**, lui e il figlio: si ritrovano al consiglio in FASE 4. ⏭️ **Post-sessione: parzialmente avvenuto** — non con Asurion, ma con **Bakaris il Giovane**: in piazza (0A) ha provato a sabotare l'evacuazione dicendo alla gente che non c'era nulla da temere, i personaggi lo hanno smentito e i popolani hanno evacuato. **Lord Bakaris (il padre) non è comparso**: era già partito per Kalaman prima dell'inizio della serata (recap). Il confronto tra Asurion e Lord Bakaris resta per il cortile/Consiglio della Sessione 04 | 0A |
 | **Tutti** | **Rhys**, il contadino salvato in Sessione 00, può essere tra i civili da evacuare. Se lo salvano di nuovo, a Kalaman diventa un alleato devoto | 0A/0B |
-| **Tutti** | ⏸️ **Svilnt Sunderlit**, il mercenario prigioniero, è legato in una rimessa del villaggio. **Non sollevarlo tu.** Se se ne ricordano, è una scelta vera — liberarlo, portarlo sulle barche, finirlo. ✅ **Se non se ne ricordano, muore lì**, e non c'è bisogno di dirlo: lo scopriranno, o non lo scopriranno mai | 0A/0B |
+| **Tutti** | ⏸️ **Svilnt Sunderlit**, il mercenario prigioniero, è legato in una rimessa del villaggio. **Non sollevarlo tu.** Se se ne ricordano, è una scelta vera — liberarlo, portarlo sulle barche, finirlo. ✅ **Se non se ne ricordano, muore lì**, e non c'è bisogno di dirlo: lo scopriranno, o non lo scopriranno mai. ☠️ **Post-sessione: dimenticato dal party, morto bruciato nella rimessa.** Hook chiuso | 0A/0B |
+
+*[NOTA DM — riservata] ✅ Post-sessione: per Razak sono avvenuti tutti e tre i momenti (cassa recuperata da Thornwall Keep, busta per Rennard ricevuta, Jeyev testimone al molo). Per Brynja, Corin, Garrick e Rhys il recap non registra se l'hook sia stato usato — non dare per giocato niente.*
 
 ### Hook delle FASI 1-5 — Kalaman
 
-| Preludio | Hook in Sessione 03 |
+*[NOTA DM — riservata] ⏭️ Post-sessione: le FASI 1-5 non sono state giocate. Tutti gli hook di questa tabella (e la Scena Opzionale qui sotto) slittano **alla Sessione 04**. Stato aggiornato: la busta per Rennard è in mano a Razak; la cassa di Becklin è **recuperata e ancora in possesso del party**, da consegnare a Darrett.*
+
+| Preludio | Hook in Sessione 03 → **Sessione 04** |
 |----------|---------------------|
 | **Occhio nel Cielo (*Eye in the Sky*)** (PG incantatore col rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (la Prova dell'Alta Stregoneria, rimandata al prossimo capitolo). |
 | **Silenzio Infranto (*Broken Silence*)** (PG con connessione divina) | La tabella "Disagi del Campo Profughi" (voce 2, la caviglia storta) è un'occasione naturale per un piccolo gesto di grazia divina in pubblico — dopo il "vero miracolo" della Sessione 02, i profughi che lo videro potrebbero cercare di nuovo quel personaggio per un aiuto minore. Un piccolo momento, non un evento — la comunità comincia silenziosamente a considerarlo qualcosa di più di un semplice compagno di viaggio. |
 | **Scaglie di Guerra (*Scales of War*)** (tutti) | **Rhys**, il giovane contadino salvato nella Sessione 00 e possibilmente di nuovo durante l'invasione di Vogler, può essere tra i superstiti al campo in Fase 1 o Fase 5. Se è sopravvissuto, cerca attivamente i personaggi per ringraziarli e offrire il proprio aiuto — diventa un alleato devoto da questo punto in poi. Usalo come manodopera silenziosa, informatore tra i profughi, o comparsa affettuosa nelle sessioni future a Kalaman. |
 | **Razak + Brynja** (lettera di Becklin, Sessione 02) | Il contraltare esatto del rotolo di Wyhan, e cade nella stessa fase: **"Il Registro di Rennard"** (Fase 5). Razak consegna una busta che non ha aperto; Brynja non sa perché è stata portata lì finché il cancelliere non tira fuori il suo fascicolo. È l'unica scena della sessione dedicata ai due scudieri irregolari — *"la stessa eccezione fatta due volte"* (`campagna/party.md`). Gioca Rennard piatto: il peso lo fanno le caselle del modulo, non le sue battute. |
-| **Tutti** | La cassa di Becklin (Fase 1, se recuperata) è un momento condiviso — l'intero gruppo ha partecipato al recupero, e la gratitudine di Darrett è rivolta a tutti loro insieme. |
+| **Tutti** | La cassa di Becklin (Fase 1 — ✅ recuperata in 0A, non ancora consegnata) è un momento condiviso — l'intero gruppo ha partecipato al recupero, e la gratitudine di Darrett è rivolta a tutti loro insieme. |
 
 ---
 
@@ -1200,9 +1204,9 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | **L'estratto autenticato di Rennard** | Se la lettera è stata consegnata: Razak è a registro per la prima volta, la candidatura di Brynja resta ferma da nove anni. La carta serve **nel Cap. 7**, per rendere difendibile l'investitura di S19 davanti all'Ordine dei vivi | Bassa ora → **Alta nel Cap. 7** |
 | Rhys come alleato | Se salvato di nuovo, resta a Kalaman come sostenitore devoto del party | Bassa → ricorrente |
 | **Il destino di Becklin** | ✅ **Risolto in FASE 0D: catturata.** Jeyev l'ha vista portare via e ne ha recuperato l'elmo, che passa a Darrett. **Può riapparire come prigioniera nei Cap. 4 o 5** — è un filo aperto, non chiuso | **Alta → Cap. 4-5** |
-| **Svilnt Sunderlit** | Il prigioniero lasciato in una rimessa di Vogler. Che fine ha fatto quando il villaggio è bruciato? | Bassa → risolta in FASE 0, in un senso o nell'altro |
+| **Svilnt Sunderlit** | Il prigioniero lasciato in una rimessa di Vogler. ☠️ **Post-sessione: dimenticato dal party, morto nel rogo del villaggio** | ✅ Chiusa in FASE 0 |
 | **Vogler** | Il villaggio non esiste più. I suoi quattrocento abitanti sono profughi, e il party li ha portati fuori | Alta → è il tema delle FASI 1-5 |
-| Jeyev Veldrews | Fedeltà ancora ambigua secondo la scelta fatta in Sessione 02 — non compare in questa sessione ma resta un thread aperto | Media |
+| Jeyev Veldrews | ✅ Post-sessione: compare al molo in 0D con l'elmo di Becklin, **testimone onesto** della sua cattura; arriva all'ultima barca | Media |
 | Lord Bakaris — rivalità politica | Umiliato pubblicamente al consiglio; cerca ora di screditare i personaggi con ogni mezzo indiretto | Media → ricorrente fino a fine Cap. 4 |
 | I Cavalieri Minacciosi | Chi erano le figure viste sulle scogliere di Vogler? Lord Soth? Spiriti? | Bassa → tema ricorrente |
 | I Draconiani — cosa sono | Maresciallo Vendri non ne sa nulla — i personaggi sono ora la fonte primaria di informazioni di Kalaman su questa minaccia | Media → arco dell'Armata dei Draghi |
@@ -1255,7 +1259,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 | PNG | Evento Sessione | Attitudine Aggiornata |
 |-----|----------------|----------------------|
 | **Becklin Uth Viharin** | **Catturata** durante la battaglia al fronte. L'elmo torna a Darrett | Assente — resta +2 / +3 verso Razak |
-| **Cudgel Ironsmile** | Esce a richiamare i mercenari, tiene il fronte a nord; la battaglia va male | +2 Amichevole (da confermare in base all'esito) |
+| **Cudgel Ironsmile** | Esce a richiamare i mercenari, tiene il fronte a nord; la battaglia va male | **Dispersa** nella ritirata con i superstiti dell'Ironclad — il party non lo sa [NOTA DM — riservata: viva, tornerà]. +2 Amichevole invariato |
 | **Jeyev Veldrews** | Arriva al molo con l'elmo di Becklin. **Testimone onesto** | +1 Cordiale → +2 se il party gli crede |
 | **Fewmaster Gholcag** | Boss dell'invasione di Vogler | -3 Ostile / sconfitta |
 | Raven Uth Vogler | Sopravvive alla caduta, organizza il campo, delega ai personaggi | +2 Amichevole (invariata) |
@@ -1364,3 +1368,49 @@ Dopo la sessione, aggiorna questi file:
 ### Nota di verifica — decisione consapevole (nessuna correzione)
 
 - **Colori di Kalaman (BT-02):** l'originale inglese descrive le uniformi delle guardie al cancello come *"blue-and-yellow"* (riga 2208), mentre ovunque altrove il manuale usa *"blue and gold"* (BT-05, BT-06, gazetteer). Ho armonizzato deliberatamente tutte le occorrenze a **"blu e oro"** per coerenza interna del documento e con la resa araldica della città: preferibile a replicare l'incongruenza puntuale del manuale.
+
+---
+
+## 📋 ACCADUTO IN SESSIONE — Agente 0 (Fase B)
+
+**Basato su:** `campagna/sessioni/recaps/recap-sessione-03.md`
+**Sessione chiusa a:** fine FASE 0 (la barca si stacca dal molo, Vogler in fiamme alle spalle, Livello 4 assegnato)
+
+### Tabella Delta — Piano vs Realtà
+
+| Area | Piano (questo file) | Realtà (recap) | Impatto |
+|---|---|---|---|
+| FASE 0 (intera) | Indicata come punto di rottura più probabile ("fine FASE 0 · è il punto migliore, e il più probabile") | Giocata per intero, esattamente come preparata — nessuna deviazione narrativa | Nessuno: la serata si è chiusa esattamente dove il piano prevedeva |
+| Problema Navi (0A) | Tre soluzioni opzionali (+200/+100/+100 rispetto alla base di 200/400) | Risolto per intero: **tutti** i 400 abitanti messi in salvo | Esito già contemplato dalle opzioni del piano, non un'improvvisazione — nessuna nota necessaria in Sessione 04 |
+| Cassa di Becklin (0A) | Recuperabile "in qualsiasi momento prima dell'invasione"; consegna a Darrett prevista in FASE 1 | Recuperata da Thornwall Keep, **non consegnata** (FASE 1 non giocata) | Consegna resta aperta → scena "La Cassa di Becklin" trasferita a Sessione 04, FASE 1 |
+| Lettera di Becklin per Rennard (0B) | Consegna prevista in FASE 5 ("Il Registro di Rennard") | Consegnata a Razak in 0B; consegna a Rennard non avvenuta (FASE 5 non giocata) | Scena "Il Registro di Rennard" trasferita a Sessione 04, FASE 5 |
+| Staffetta attaccata [BT-V2] | Salvabile (o uccisa se il party non interviene) | Salvata | Nessun impatto — annuncio dell'invasione avvenuto come da copione |
+| Svilnt Sunderlit | Decisione pre-presa: "se il party non se lo ricorda, muore lì" — non sollevarlo | Dimenticato dal party, morto bruciato con Vogler | Thread chiuso in FASE 0 — nessuna azione richiesta in Sessione 04 |
+| Boilerdrak / Fewmaster Gholcag (0C) | Disinnesco opzionale del Boilerdrak; Gholcag ~CR 4 con valvole di sfogo se troppo letale | Equipaggio e Gholcag sconfitti; **il Boilerdrak è esploso** durante lo scontro (non disinnescato) | Nessuno — dettaglio risolto, nessuna azione richiesta in Sessione 04 |
+| Bakaris il Giovane in piazza (0A) | Non scritto nel piano come scena fissa, ma previsto come possibile sabotaggio ("Lord Bakaris o Bakaris il Giovane potrebbero intervenire...") | **Bakaris il Giovane è comparso** e ha provato a sabotare l'evacuazione; i personaggi lo hanno smentito con argomenti più convincenti e i popolani hanno evacuato. **Lord Bakaris (il padre) non è comparso** | Bakaris il Giovane è già stato incontrato una volta prima della Sessione 04, FASE 3 (cortile del castello) — è un secondo incontro, non il primo |
+| Incontri d'invasione, tabella d10 (0B) | Minimo 3 incontri, a scelta o a tiro | Vinti tutti gli incontri previsti, ma **quali specificamente non è stato registrato** | Non inventare dettagli non confermati — irrilevante per Sessione 04 |
+| Destino di Becklin (0D) | Decisione pre-presa: **CATTURATA** — Jeyev testimone onesto | Eseguito esattamente come da piano: Jeyev l'ha vista portare via, ha recuperato l'elmo, consegnato a Darrett | Becklin resta thread aperto — può riapparire come prigioniera nei Cap. 4-5 |
+| **Destino di Cudgel Ironsmile** | Esce a richiamare i mercenari e tiene il fronte a nord con Becklin — nessun destino esplicito scritto nel piano | **[NOTA DM — riservata]** Dispersa, non morta: si è ritirata con i superstiti del Reggimento Ironclad e riapparirà più avanti (es. "Ritorno delle Truppe") | Il party non lo sa — Jeyev ne ha perso le tracce nella ritirata, solo la cattura di Becklin è confermata. Se interrogato su Cudgel in Sessione 04, risponde che non sa |
+| Livello 4 | Assegnato a fine FASE 0, sulla barca, durante la notte sul Vingaard | Avvenuto esattamente come da piano | Nessuno — Sessione 04 parte da party già a Livello 4 |
+| BT-00 "L'Alba sul Vingaard" | Ponte narrativo verso Kalaman, da leggere in apertura della serata successiva se si spezza a fine FASE 0 | Non letto in questa sessione (la serata si è chiusa prima) | Da leggere in apertura di Sessione 04 |
+| FASI 1-5 (Kalaman) | Arrivo sulla riva, porte, cortile, Consiglio, sistemazione — previste per la stessa serata se il tempo bastava | **Non giocate per intero** | Trasferite integralmente a Sessione 04 come fasi iniziali (vedi lista sotto) |
+
+### Scene da Trasferire a Sessione 4
+
+- **[BT-00] "L'Alba sul Vingaard"** — testo boxed di apertura serata (ponte narrativo verso Kalaman)
+- **FASE 1 — L'Arrivo sulla Riva** completa: [BT-01] "Kalaman all'Orizzonte", Disagi del Campo Profughi, La Cassa di Becklin (consegna a Darrett), La Delegazione Mancante (scomparsa di Lord Bakaris)
+- **FASE 2 — Le Porte di Kalaman** completa: [BT-02] "Le Mura di Kalaman"
+- **FASE 3 — Il Cortile del Castello** completa: [BT-03] "Castello di Kalaman", [BT-04] l'incontro con Bakaris il Giovane
+- **FASE 4 — Il Consiglio di Kalaman** completa: [BT-05]-[BT-08], il rapporto della Maresciallo Vendri, la decisione di Kalaman, la Scena Opzionale Spotlight per PG con legami militari/nobiliari
+- **FASE 5 — Sistemazione e Nuovi Doveri** completa: Il Ritorno al Campo, Messaggio per una Maga (Wyhan) [BT-09], Il Registro di Rennard [BT-09b]-[BT-09c], Il Rapporto a Vendri [BT-10], All'Interno del Castello, Gli Alloggi [BT-11], Gli Ordini di Darrett
+- **Hook PG — "Hook delle FASI 1-5 — Kalaman"** (tabella): Occhio nel Cielo, Silenzio Infranto, Scaglie di Guerra (Rhys), Razak + Brynja (Registro di Rennard)
+- **📍 Riferimento — Luoghi di Kalaman** e **📍 Riferimento — Poteri di Kalaman**: materiale di consultazione legato alle fasi non giocate, da portare con le fasi
+
+### TODO DM Aperti
+
+1. **Quali incontri della tabella d10 (0B) si siano effettivamente verificati** — non registrato, non inventare.
+
+*Risolti dal DM dopo la stesura di questo file: il destino di Cudgel Ironsmile (dispersa, vedi
+tabella delta — il party non lo sa) e la sorte del Boilerdrak (esploso, non disinnescato).*
+
+**Stato:** file annotato con marcatori di fase, tabella delta e lista di trasferimento. Nessuna modifica applicata a `dm-notes-sessione-04.md` in questo passaggio — resta al passaggio successivo della pipeline (Fase C / Agenti 3-4-6).

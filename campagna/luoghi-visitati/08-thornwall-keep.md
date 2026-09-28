@@ -1,7 +1,7 @@
 # Thornwall Keep
 
 **Zona**: Vogler — su un basso colle a nord del villaggio
-**Sessioni Visitate**: S1, S2
+**Sessioni Visitate**: S1, S2, S3
 **Descrizione**: La struttura più alta di Vogler: un'antica torre di pietra a tre piani coperta di edera color bronzo, circondata da mura crollate e da diversi scavi archeologici poco profondi, tenuti con cura maniacale. Sul tetto merlato c'è un macchinario che somiglia a una catapulta.
 
 ## PNG Incontrati
@@ -15,6 +15,7 @@
 - [S1] Il party è stato ricevuto nella biblioteca al piano terra
 - [S1] Becklin ha consegnato il lascito di Ispin Greenshield: lo Scudo Verde, a condizione che qualcuno prendesse il suo posto nella rievocazione della Battaglia di High Hill
 - [S2] Il party ha usato lo gnomeflinger sul tetto per farsi catapultare sulle scogliere a est della Porta del Fiume, alle spalle delle sentinelle nemiche. Lo gnomo ha fornito i *narycrash*: tutti sono atterrati incolumi
+- [S3] Il party ha recuperato dalla torre la cassa affidata da Becklin, contenente una corazza a piastre solamnica destinata a Darrett, prima dell'invasione
 
 ## Note Aggiuntive
 

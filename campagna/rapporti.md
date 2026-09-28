@@ -33,7 +33,7 @@
 |---|---|---|---|
 | 1 | **Brynja ↔ Asurion** — la Misura | Brynja porta il mantello di un Ordine che non la registra e aspetta da nove anni; Asurion viene pagato in monete dagli stessi cavalieri e non ha mai voluto altro. Due esclusi con reazione opposta: uno il posto lo vuole, l'altro no | — |
 | 2 | **Garrick ↔ Brynja** — il documento rubato | Garrick ha consegnato posizioni, turni e parole d'ordine delle torri di segnalazione a un'agente delle Vesti Nere; Brynja ha giurato su una cosa imparata in una piazza in fiamme. Lei ne conosce solo la versione che le raccontò Ispin di sfuggita, anni fa — e Ispin era l'unico a non giudicarlo. Non se ne sono mai parlati, e non si rivedono da nove anni | — |
-| 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile. ~~**Al funerale non sa ancora che Garrick esista**~~ → **aggiornato 13/09/2026:** si sono conosciuti sulla strada per Vogler (Sessione 00). La frizione resta non predisposta: nasce nel momento in cui Garrick fa vedere al tavolo cosa sa fare. ⚠️ **Al ricevimento funebre c'è già andato vicino**, risolvendo con una prestidigitazione lo scontro con Bakaris che Razak aveva appena perso — ma di nascosto, e senza prendersi il merito | **Leva DM (revisione 2026-09-03).** Lo spunto scritto è stato tolto: poggiava su una conoscenza pregressa che Razak non ha. Al suo posto, due mosse tue. **(a)** Quando Garrick ricostruisce qualcosa da documenti davanti al gruppo, descrivi la scena dal punto di vista di Razak e fermati lì — nessuna domanda al giocatore. **(b)** Se non raccoglie, in Sessione 03 **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-03.md:440-448`). Nessuno è obbligato a reagire |
+| 3 | **Garrick ↔ Razak** — l'archivista e il nome | Razak ha un ritaglio di stoffa col proprio nome e nessuna famiglia verificabile. ~~**Al funerale non sa ancora che Garrick esista**~~ → **aggiornato 13/09/2026:** si sono conosciuti sulla strada per Vogler (Sessione 00). La frizione resta non predisposta: nasce nel momento in cui Garrick fa vedere al tavolo cosa sa fare. ⚠️ **Al ricevimento funebre c'è già andato vicino**, risolvendo con una prestidigitazione lo scontro con Bakaris che Razak aveva appena perso — ma di nascosto, e senza prendersi il merito | **Leva DM (revisione 2026-09-03).** Lo spunto scritto è stato tolto: poggiava su una conoscenza pregressa che Razak non ha. Al suo posto, due mosse tue. **(a)** Quando Garrick ricostruisce qualcosa da documenti davanti al gruppo, descrivi la scena dal punto di vista di Razak e fermati lì — nessuna domanda al giocatore. **(b)** Se non raccoglie, in Sessione 04 (FASE 4, il Consiglio) **Lord Bakaris** attacca pubblicamente Razak proprio sul non avere un nome verificabile (`sessioni/dm-notes-sessione-04.md`, FASE 4). Nessuno è obbligato a reagire |
 | 4 | **Asurion ↔ Garrick** — corpo e carta | ✅ **Si sono visti per la prima volta in Sessione 00**, sulla strada per Vogler, senza che nessuno dei due sapesse niente dell'altro. Asurion giudica le persone da come si muovono, e Garrick si muove male: magro, senza forza nelle braccia, cresciuto tra i registri. Asurion non ha mai avuto motivo di considerare utile un archivio | — |
 | 5 | **Razak ↔ Brynja** — la risonanza | Non è attrito: è somiglianza pericolosa. L'Ordine di Majere è sopravvissuto trecento anni **senza** dei, e per Razak «non serve una risposta» è una consolazione vera. Per Brynja, nove anni di preghiere a cui non ha risposto nessuno, è la frase peggiore che le si possa dire | **Nota di tono per il DM:** se il preludio *Silenzio Infranto* di Brynja arriva dopo quello di Razak, il contrasto è già in tavola senza bisogno di sottolinearlo |
 | 6 | ~~**Brynja ↔ il patto del gruppo**~~ → **Il gruppo ↔ il proprio patto** *(nata al tavolo 13/09/2026, chiusa 20/09/2026)* | I personaggi si sono accordati da soli di non mostrare in pubblico la magia divina. Brynja l'ha rotto durante la Battaglia di High Hill; **la notte dopo Corin l'ha rotto a sua volta**, curando con incantesimi davanti alla coda fuori dal Brass Crab. **Non c'è più asimmetria e non c'è più attrito:** hanno fatto la stessa scelta, insieme, per tutta la notte | ✅ **Chiusa.** La scena di disaccordo tra i due portatori non si creerà. Il problema si è spostato **fuori dal gruppo**: due persone pubblicamente riconoscibili come guaritori, e una messaggera dell'Armata dei Draghi che è andata a riferirlo a Belephaion |
@@ -52,15 +52,17 @@
 | Razak | Confratello Tobin Reyne | +2 Amichevole | Ex confratello, quasi un fratello maggiore; lasciò l'Ordine senza salutare |
 | Razak | Ser Maelis | — | **[NOTA DM — riservata]** Vedi "Segreti" in `fonti/personaggi/Razak-Kendall.md` |
 | Corin | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
-| **Razak** | **Bakaris il Giovane** | **-3 Ostile (nemico personale)** | Sessione 01: Bakaris lo ha deriso al funerale, Razak lo ha minacciato senza riuscirci, **Garrick** lo ha cacciato con una prestidigitazione. **Bakaris incolpa Razak e non sa di Garrick.** Ricompare a Kalaman, Sessione 03 |
+| **Razak** | **Bakaris il Giovane** | **-3 Ostile (nemico personale)** | Sessione 01: Bakaris lo ha deriso al funerale, Razak lo ha minacciato senza riuscirci, **Garrick** lo ha cacciato con una prestidigitazione. **Bakaris incolpa Razak e non sa di Garrick.** ✅ Ricomparso in piazza a Vogler, Sessione 03 (sabotaggio dell'evacuazione, smentito); ricompare di nuovo a Kalaman, Sessione 04 |
 | **Asurion** | **Lord Bakaris Uth Estide** | **-3 Ostile** | Sessione 01: Asurion lo ha trascinato nel fiume davanti al molo, dopo che lo molestava durante la gara di pesca. A Kalaman Bakaris ha un torto vero da raccontare al consiglio |
 | **Garrick** | **Leedara** | **+1 Cordiale** — l'unico che le abbia parlato davvero | Sessione 01: l'ha corteggiata al funerale con un tiro alto. Non ha ceduto (*«in un altro tempo, forse»*) ma **ha cantato**. [NOTA DM] La frase è letteralmente vera: Leedara è morta nel Cataclisma |
 | **Brynja** | **Becklin Uth Viharin** | +2 Amichevole | Non l'aveva mai incontrata, ma sapeva chi fosse da Ispin. È Becklin a consegnarle lo Scudo Verde |
-| **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni |
-| **Razak** | **Darrett Highwater** | +2 Amichevole | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare |
+| **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni. ✅ **Sessione 03:** gli ha affidato la lettera per Rennard e il favore della cassa per Darrett, poi catturata al fronte (Jeyev testimone) |
+| **Razak** | **Darrett Highwater** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare. Ha ricevuto l'elmo di Becklin da Jeyev; **non ha ancora ricevuto la cassa/armatura** (consegna Sessione 04, FASE 1) |
 | **Brynja e Corin** | **Il villaggio di Vogler** | **I due che fanno miracoli** | Sessione 02: hanno curato i feriti di High Hill tutta la notte, in pubblico, davanti a una coda che non si accorciava. Vogler li ha visti entrambi, e i profughi arrivano a Kalaman con la storia in bocca |
 | **[Tutti]** | **Raven Uth Vogler** | **+2 Amichevole** | Sessione 02: l'hanno chiamata a mettere la propria autorità sulla fila invece di gestirla da soli, e hanno dichiarato in pubblico i limiti delle cure. **[NOTA DM] È la testimone che smonta Lord Bakaris al consiglio di Kalaman** |
-| **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo |
+| **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** (invariata) · **[NOTA DM — riservata] Dispersa, non morta** | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo. ✅ **Sessione 03:** partita per il fronte con Becklin — ritirata coi superstiti dell'Ironclad, riapparirà più avanti (es. "Ritorno delle Truppe"). **Il party non lo sa** — solo la cattura di Becklin è confermata |
+| **[Tutti]** | **Svilnt Sunderlit** | ☠️ **Morto** | Sessione 03: dimenticato legato nella rimessa a Vogler, morto bruciato insieme al villaggio |
+| **[Tutti]** | **Fewmaster Gholcag** | ☠️ **Sconfitta** | Sessione 03, FASE 0C: boss del molo, uccisa insieme ai due baaz al suo seguito, dopo l'equipaggio del Boilerdrak |
 | **[Tutti]** | **Lord Bakaris Uth Estide** | **-2 Diffidente** *(era -1)* | Sessione 02: **cacciato dal Brass Crab** dopo aver provato a comprare la precedenza sulle cure. *«Il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»* |
 | **Razak e Brynja** | **Than** | **+1 Cordiale** | Sessione 02: si sono fatti catapultare dallo gnomeflinger di Thornwall Keep per piombare sulle sentinelle. Than ha tirato fuori i *narycrash* |
 | **[Tutti]** | **Jeyev Veldrews** | **+1 Cordiale** | Sessione 02: conosciuto all'alba, presentato da Cudgel come uno dei fedeli — **prima** di ricomparire al molo con l'elmo di Becklin |
@@ -88,7 +90,7 @@
 | Lohezet | Kansaldi Fire-Eyes | Subordinato → Capo | Kansaldi gli ha assegnato la missione della Città dei Nomi Perduti |
 | Belephaion | Lohezet | Alleati | Co-guidano la missione sulla Città dei Nomi Perduti |
 | Leedara | Lord Soth | Antagonismo spirituale | Le spiriti tormentano Soth cantando la sua maledizione |
-| Wyhan | Maghi dell'Alta Stregoneria | Ex membro (mantello nero, ritirata) | Non ama essere associata all'Ordine attivamente |
+| Wyhan | Maghi dell'Alta Stregoneria | Membro attivo e devoto (la «ritirata» è una copertura) | Non ama essere associata all'Ordine in pubblico |
 | Dalamar | Maghi dell'Alta Stregoneria | Membro attivo (mantello nero) | Usa l'Ordine per i propri fini |
 
 ---
@@ -134,6 +136,21 @@
 | **Il party ↔ l'Armata dei Draghi** | Primo contatto diretto e formale: un ultimatum firmato **Belephaion, Voce di Takhisis**, e quattro sentinelle uccise sulle scogliere. **[NOTA DM] La messaggera ha notato Brynja ed è andata a riferire** |
 | **Razak ↔ Becklin** | ⏸️ **Non ancora:** la cassa e la lettera arrivano in Sessione 03, e con loro l'ultimo ordine che gli dà prima di essere catturata |
 
+### Capitolo 02 (Vogler — Cap 3 libro) — ✅ Sessione 03, giocata il 27/09/2026 (FASE 0, evacuazione)
+
+| Rapporto | Cosa è successo |
+|----------|-----------------|
+| **Razak ↔ Becklin** | Le ha affidato la lettera sigillata per Rennard (non ancora recapitata) e il favore della cassa con l'armatura per Darrett (recuperata, non ancora consegnata), poi è partita per il fronte. **Destino eseguito: catturata** |
+| **Il party ↔ Darrett** | **+3 Alleato (consolidato).** Ha ricevuto l'elmo di Becklin da Jeyev; cassa/armatura non ancora consegnata (Sessione 04, FASE 1) |
+| **Il party ↔ Jeyev** | Confermato **testimone onesto** della cattura di Becklin: l'ha vista portare via, ha recuperato l'elmo, arrivato al molo in tempo per l'ultima barca |
+| **Il party ↔ Raven** | Sopravvissuta, ha guidato l'evacuazione secondo i quattro compiti assegnati a inizio FASE 0A: tutti i 400 abitanti di Vogler messi in salvo |
+| **Il party ↔ Cudgel** | Partita per il fronte con Becklin (FASE 0B). **[NOTA DM — riservata]** Dispersa, non morta — ritirata coi superstiti dell'Ironclad, riapparirà più avanti. Il party non lo sa |
+| **Il party ↔ Svilnt Sunderlit** | Dimenticato nella rimessa, morto bruciato con Vogler |
+| **Il party ↔ Fewmaster Gholcag** | Sconfitta con l'equipaggio del Boilerdrak (esploso nello scontro) e i due baaz al suo seguito (FASE 0C) |
+| **Il party ↔ Bakaris il Giovane** | Incontrato in piazza (FASE 0A): ha provato a sabotare l'evacuazione, il party lo ha smentito e i popolani hanno evacuato. Lord Bakaris (il padre) non era presente |
+| **Vogler** | Evacuata per intero, rimasta in fiamme alle spalle delle barche in fuga sul Vingaard |
+| **Livello** | **4** assegnato sulla barca, durante la notte sul Vingaard, come da piano |
+
 ### Capitolo 03 (Kalaman — Cap 4 libro)
 [TODO — da compilare durante le sessioni]
 
@@ -148,4 +165,4 @@
 
 ---
 
-> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**. Aggiorna dopo ogni sessione.
+> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**; **Sessione 03 giocata il 27 settembre 2026** (FASE 0, evacuazione di Vogler — le FASI 1-5 di Kalaman slittano alla Sessione 04). Aggiorna dopo ogni sessione.

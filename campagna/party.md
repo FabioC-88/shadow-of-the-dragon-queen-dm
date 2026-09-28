@@ -4,11 +4,11 @@
 
 ## Stato Generale
 
-- **Livello attuale:** **3**
-- **Ultima sessione giocata:** **Sessione 02 — 20 settembre 2026** (chiusa in cima alle scogliere della Porta del Fiume, dopo le FASI 0-4)
-- **Sede base:** Vogler *(cade nella Sessione 03)*
+- **Livello attuale:** **4**
+- **Ultima sessione giocata:** **Sessione 03 — 27 settembre 2026** (chiusa a fine FASE 0: la barca si stacca dal molo, Vogler in fiamme alle spalle)
+- **Sede base:** Nessuna — **Vogler evacuata e in fiamme** (Sessione 03); il party è in fuga sul Vingaard verso Kalaman
 - **XP Accumulati:** **300 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità*
-- **Prossimo avanzamento:** **Livello 4** alla fine dell'evacuazione di Vogler, sulla barca — in Sessione 03
+- **Prossimo avanzamento:** **Livello 5**, prima della riconquista dell'Avamposto di Wheelwatch (sessioni future)
 
 > ⚠️ **Perché il livello è 3 e non 4.** La Sessione 02 si è fermata alla fine della FASE 4: le scogliere sono state liberate, ma l'evacuazione non è mai cominciata. Il Livello 4 è legato alla fuga completata e arriva in Sessione 03. **Il party affronta quindi Boilerdrak e Fewmaster Gholcag al 3° livello** — come la fonte prevede, ma con Gholcag a ~CR 4 pesa.
 
@@ -30,6 +30,7 @@
 | Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
 | 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scaglie di Guerra (Scales of War)* |
 | **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata dei Draghi senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
+| **Cassa con corazza a piastre solamnica** (per Darrett) | **Gruppo** | Recuperata da Thornwall Keep in Sessione 03, FASE 0A — **non ancora consegnata**: la scena di consegna è in Sessione 04, FASE 1 |
 
 ### Il patto sulla magia divina — rotto da entrambi
 
@@ -53,7 +54,7 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 
 | PG | Nemico | Perché | Dove paga |
 |----|--------|--------|-----------|
-| **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa | Kalaman, Sessione 03 (cortile del Castello di Kalaman) |
+| **Razak** | **Bakaris il Giovane** | Umiliato pubblicamente al ricevimento funebre. **Colpa attribuita a Razak** — il vero autore era Garrick, con una prestidigitazione, e Bakaris non lo sa. ✅ Primo faccia a faccia in piazza a Vogler, Sessione 03 (sabotaggio dell'evacuazione, smentito) | Kalaman, Sessione 04 (cortile del Castello di Kalaman) |
 | **Asurion** | **Lord Bakaris Uth Estide** | Lo ha trascinato nel fiume davanti al molo durante il festival | Kalaman (consiglio cittadino): ha un torto vero da raccontare |
 | **Tutto il gruppo** | **Lord Bakaris Uth Estide** | ⚠️ **Sessione 02:** ha provato a comprare la precedenza sulle cure di Brynja ed è stato **cacciato dal Brass Crab** — *«il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»*. Da -1 a **-2 Diffidente** verso tutti | Kalaman, al consiglio: il torto è più grosso di prima, **ma Raven era presente** e può testimoniare che i criteri erano dichiarati |
 | **Garrick** | *(nessuno, ed è il punto)* | È l'autore materiale dell'umiliazione di Bakaris e **non è stato visto**. Lo sa solo lui | — |
@@ -63,7 +64,7 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 - **Garrick ↔ Leedara** — l'ha corteggiata al funerale con un tiro alto; lei non ha ceduto ma ha cantato, rispondendo che *«in un altro tempo, forse»*. **La frase è letteralmente vera:** Leedara è morta durante il Cataclisma. Garrick è l'unico del gruppo che le abbia parlato davvero.
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
-- **Razak ↔ Becklin** — ⏸️ **la cassa e la lettera non sono ancora arrivate.** In Sessione 03 Becklin gli chiede il favore della cassa da consegnare a Darrett e gli mette in mano la busta sigillata per gli archivi di Kalaman. Poi parte per il fronte: **il destino scelto per lei è la cattura**. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
+- **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard (non ancora recapitata) e il favore della cassa da consegnare a Darrett (recuperata, non ancora consegnata), poi è partita per il fronte. **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
 - **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
 - **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
 
@@ -205,7 +206,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | **2** |
+| **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 300 |
@@ -234,7 +235,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | **2** |
+| **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 300 |
@@ -260,7 +261,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | **2** |
+| **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 300 |
@@ -285,7 +286,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | **2** |
+| **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 300 |
@@ -312,7 +313,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 
 | | |
 |--|--|
-| **Livello** | **2** |
+| **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 300 |

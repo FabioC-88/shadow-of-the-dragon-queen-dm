@@ -1,7 +1,7 @@
 # Il Brass Crab
 
 **Zona**: Vogler — locanda sul molo
-**Sessioni Visitate**: S1, S2
+**Sessioni Visitate**: S1, S2, S3
 **Descrizione**: La locanda principale del villaggio, con i muri decorati da murales di granchi in ottone e una sala comune circolare. È il luogo dove Ispin Greenshield teneva banco per anni, ed è qui che si tiene il ricevimento del suo funerale.
 
 ## PNG Incontrati
@@ -27,6 +27,7 @@
 - [S2] Fuori dalla locanda si è formata una coda di malati e feriti che ha atteso tutta la notte: il party ha coinvolto la sindaca e ha dichiarato in pubblico quante cure fossero possibili, evitando che la fila degenerasse
 - [S2] Un nobile del villaggio ha provato a comprare la precedenza sulle cure ed è stato cacciato dalla locanda
 - [S2] Il party ha curato i feriti fino al mattino, senza riposare
+- [S3] Durante l'assalto finale dell'Armata dei Draghi, Fewmaster Gholcag ha sfondato un muro della locanda per affrontare il party
 
 ## Note Aggiuntive
 
