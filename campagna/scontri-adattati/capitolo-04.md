@@ -141,7 +141,9 @@ Multiattack. Two Dagger attacks. If both hit the same creature, that target must
 Dagger. Melee or Ranged: +5 to hit, reach 5 ft. or range 20/60 ft.
   Hit: 5 (1d4+3) piercing plus 7 (2d6) poison.
 
---- AGGIUNTE HOMEBREW (dichiarate, come nel Cap. 3) ---
+--- AGGIUNTE HOMEBREW — ❌ NON IN USO (scartate dal DM il 20/09/2026, come nel Cap. 3) ---
+Il Kapak si gioca con la sola scheda ufficiale qui sopra. Le due aggiunte
+restano documentate per memoria.
 Sneak Attack: +2d6 se ha vantaggio o un alleato è entro 5 ft dal bersaglio.
 REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
   20 ft senza provocare attacchi di opportunità.
@@ -570,7 +572,7 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 | Scontro | Originale | Adattato | Motivo |
 |---|---|---|---|
 | Officina di Rookledust | 10 Goblin + 1 Hobgoblin | 12 Goblin (stat block classico, iniziativa condivisa) + 1 Hobgoblin (Reaction) | scala sul quinto giocatore — niente Minion in questa campagna |
-| Posto di Vedetta | 2 Baaz + 1 Kapak | 3 Baaz + 1 Kapak (+ Reaction ambusher) | scala sul quinto giocatore, coerenza col Kapak del Cap. 3 |
+| Posto di Vedetta | 2 Baaz + 1 Kapak | 3 Baaz + 1 Kapak (scheda ufficiale, senza aggiunte homebrew) | scala sul quinto giocatore, coerenza col Kapak del Cap. 3 |
 | Wheelwatch (soldati) | gruppi 1-8 per stanza | invariato, stat block classico anche se convergono 10+ | niente Minion in questa campagna — iniziativa condivisa se serve velocità |
 | Wheelwatch (Sivak, Dragonnel+Officer) | statici | + Bonus Action/Reaction leggere | notevoli ma non boss di capitolo |
 | Wheelwatch (Sivak Draconian) | CR4/HP57 ufficiale | invariato | verificato: la ricostruzione era già accurata |

@@ -80,14 +80,14 @@ Il momento non deve essere lungo — basta che il giocatore si senta parte della
 
 ### Step 5 — Verifica segreti
 
-Per ogni segreto riservato al DM che coinvolge un PG (da AGENTS.md), valuta:
+Per ogni segreto riservato al DM che coinvolge un PG, valuta:
 - Il segreto può ricevere un **indizio sottile** questa sessione? (non una rivelazione, solo un presagio)
 - In caso sì, suggeriscilo in una `[NOTA DM — riservata]` nella scena più adatta.
 
-**Segreti attivi da tenere a mente** (da `campagna/contesto.md` sezione PNG Chiave):
-- Friedrich Krauser / Gabri: Aldric è Asmodeo travestito — non lo sa nessuno tranne il DM
-- Fizzra "Scintilla" / Eric: Rennis Coalsworth è prigioniero di Manshoon alle Kolat Towers
-- Vorador / Seba: Brottor Deepdelver è scomparso mentre indagava su un caso classificato
+**Dove trovare i segreti attivi** (non elencarli qui: cambiano di sessione in sessione):
+- le `[NOTA DM — riservata]` e i «Ganci per il DM» delle schede in `fonti/personaggi/`;
+- i thread personali e le inimicizie in `campagna/party.md`, i rapporti in `campagna/rapporti.md`;
+- il «Filo Narrativo Nascosto» in `campagna/contesto.md` (Ser Maelis): il nome «Vecna» non va mai rivelato ai giocatori.
 
 ---
 

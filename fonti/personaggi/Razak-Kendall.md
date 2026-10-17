@@ -24,7 +24,7 @@
 | **Divinità** | **Majere** (LG — meditazione e ordine; simbolo: **ragno di rame**) |
 | **Allineamento** | Legale Buono |
 | **Età** | 27 anni |
-| **Preludio (Cap. 2)** | **Broken Silence** |
+| **Preludio (Cap. 2)** | Nessun preludio individuale: si unisce al gruppo per **Scaglie di Guerra** *(Silenzio Infranto era previsto, non giocato in S00)* |
 | **Connessione a Ispin** | Variante della voce 5 della tabella d6 — vedi sezione dedicata |
 
 ### Aspetto
@@ -140,7 +140,9 @@ Si rividero di persona solo più tardi, quando Razak scese a valle come scudiero
 
 ---
 
-## Il Preludio — Broken Silence
+## Il Preludio — Broken Silence *(previsto, non giocato)*
+
+**[NOTA DM — riservata] ⏸️ Non giocato.** In Sessione 00 Razak **non ha avuto un preludio individuale**: viaggiava con Asurion e si è unito al gruppo per *Scaglie di Guerra* (`campagna/sessioni/recaps/recap-sessione-00.md`, `campagna/party.md`). *Silenzio Infranto* l'hanno giocato solo Brynja e Corin. Il materiale qui sotto, compreso l'innesto di Majere, resta disponibile se vuoi recuperarlo più avanti in un'altra forma; non è successo.
 
 *Fonte: righe 987-1048. Si gioca come scritto, con due innesti.*
 
@@ -257,9 +259,9 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 
 | Sessione | Gancio | Peso |
 |---|---|---|
-| **S00** — I Tre Preludi | **Broken Silence** con l'innesto (Majere che risponde invece di dare potere). È la scena fondativa del personaggio: vale la pena giocarla a parte, con il solo giocatore. | **Alto** |
+| **S00** — I Tre Preludi | ⏸️ **Non giocato:** Razak non ha avuto un preludio individuale. *Previsto:* **Broken Silence** con l'innesto (Majere che risponde invece di dare potere). | **Alto** |
 | **S02** — Vogler | Il primo villaggio che Razak vede da adulto brucia. Non serve una scena dedicata: basta una riga sul fatto che non ha un metodo per questo. | Medio |
-| **S03** — Kalaman | Il payoff Broken Silence è **già previsto** nel file (`dm-notes-sessione-03.md:434`). Per Razak va riletto: non guarisce nessuno — non ne è capace. Ma la caviglia storta della tabella "Disagi del Campo Profughi" gliela sistema con le mani, e per i profughi la differenza non è ovvia. Prima volta che viene scambiato per un sacerdote. | Medio |
+| **S03** — Kalaman | *(Superato: Razak non ha giocato Broken Silence.)* Il payoff Broken Silence è **già previsto** nel file (`dm-notes-sessione-03.md:434`). Per Razak va riletto: non guarisce nessuno — non ne è capace. Ma la caviglia storta della tabella "Disagi del Campo Profughi" gliela sistema con le mani, e per i profughi la differenza non è ovvia. Prima volta che viene scambiato per un sacerdote. | Medio |
 | **S03** — Consiglio | La scena opzionale contro **Lord Bakaris** (`dm-notes-sessione-03.md:440-448`) funziona benissimo su Razak: un uomo senza titolo, senza famiglia e senza nemmeno un cognome verificabile, attaccato pubblicamente proprio su quello. | Medio |
 | **S09** — Ser Maelis | Maelis gli fa ripetere il nome. Nient'altro. | **Alto (silenzioso)** |
 | **S13** — Sigillo di cera grigia | Se è Razak a trovarlo o a vederlo, nessuna prova, nessun tiro: solo il fatto che non riesce a smettere di guardarlo. | Medio |
@@ -275,7 +277,7 @@ Non risolverla qui. Non anticiparla. In *Shadow of the Dragon Queen* la cosa giu
 
 - [ ] Nome del giocatore compilato in cima al file e in `campagna/party.md`
 - [ ] Deciso il background di regole (Eremita per tema, oppure Guida/Acolito per la Destrezza)
-- [ ] Detto al giocatore, prima della Sessione 00, che Broken Silence **non** gli darà privilegi meccanici
+- [x] ~~Detto al giocatore, prima della Sessione 00, che Broken Silence **non** gli darà privilegi meccanici~~ → non serve: in S00 Razak non ha giocato il preludio
 - [x] **Sorte dell'eremo e di Maestro Roke — DECISA (2026-10-17).** **[NOTA DM — riservata]** *«Sia l'eremo che la Pozza, se si trovavano sul percorso dell'esercito del drago, non hanno sicuramente fatto una bella fine.»* L'eremo, a una giornata e mezza a nord-ovest di Vogler sulla strada che scende al Vingaard, era sulla rotta delle colonne che l'Armata dei Draghi, presa Vogler, manda contro le comunità di tutta l'Hinterlund (rapporto di Lehra, Sessione 05): **è stato devastato**. Maestro Roke e i monaci sono **morti o dispersi**. Razak non lo sa: scoprirlo è un hook da giocare (dalla Sessione 05: i profughi dell'altopiano, Lehra, o andandoci), non una scena da imporre.
 - [x] **Rapporto con Darrett Highwater — DECISO (2026-09-01).** Non sono scudieri contemporanei: Razak ha servito Becklin fino a quattro anni fa, Darrett è il suo **sostituto**, preso circa due anni fa. Non si sono mai incontrati. Risolve il conflitto con la fonte (nel 351 AC Becklin ha un solo scudiero, ed è Darrett) e regala una prima scena in Cap. 2/3.
 - [x] **Talento dell'8° livello — DECISO (2026-09-02).** In questa campagna **nessun PG prende il talento bonus al 4° livello**: tutti lo guadagnano all'8°, nella scena che glielo fa meritare. Per Razak la scena è il **banco di prova solamnico in Sessione 19**, se sceglie di farsi avanti, e il talento è il **Knight of the Crown/Rose/Sword**. Se rifiuta — esito legittimo per un monaco di Majere — prende comunque all'8° un talento normale dalla lista. Regola canonica in `campagna/party.md`
