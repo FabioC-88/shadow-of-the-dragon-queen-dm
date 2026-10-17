@@ -50,7 +50,7 @@ Output: documento grezzo con chunk EN, testi boxed marcati `[BOXED TEXT — ID: 
 Sub-agente su `ai/agents/02-session-translator.agent.md`.
 
 Input: output Step 1
-Output: draft IT con testi boxed tradotti. Aggiunte atmosferiche (facoltative, brevi) in blockquote separati `*[aggiunta atmosferica]*`.
+Output: draft IT con testi boxed tradotti, un riquadro solo per scena: un eventuale dettaglio in più sta dentro il riquadro, mai in un blockquote `*[aggiunta atmosferica]*` separato.
 Tutte le informazioni dell'originale devono essere presenti — nessun dettaglio può essere omesso.
 
 ### Step 3 — Integrazione personaggi giocanti · `opus`

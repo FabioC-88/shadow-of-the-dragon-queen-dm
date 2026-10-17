@@ -87,7 +87,7 @@ Per ogni blockquote `>` che corrisponde a un testo read-aloud originale:
    - Direzioni spaziali rilevanti
 
 3. Se manca un'informazione chiave: **aggiungila** al blockquote italiano, mantenendo il registro stilistico esistente.
-4. Se c'è un'aggiunta atmosferica che è stata mescolata al testo originale invece di stare dopo: **separala** in un blockquote `*[aggiunta atmosferica]*`.
+4. Se dopo il riquadro c'è un blockquote `*[aggiunta atmosferica]*` separato: **fondilo** nel riquadro principale se porta un dettaglio fisico, altrimenti eliminalo. Il testo da leggere è un riquadro solo.
 
 ---
 

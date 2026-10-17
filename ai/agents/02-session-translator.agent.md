@@ -41,18 +41,15 @@ I testi marcati come `[BOXED TEXT]` (o già in blockquote `>`) sono i **read-alo
 **OBBLIGATORIO:**
 - Tutte le informazioni presenti nell'originale devono essere presenti nella versione italiana — nessun dettaglio può essere omesso (descrizioni di creature, simboli, luoghi, oggetti, azioni).
 - Il testo può essere riformulato perché suoni naturale in italiano; non va gonfiato.
-- Le aggiunte che vanno **oltre** l'originale devono essere inserite **dopo** il blockquote principale, in un blockquote separato marcato con `*[aggiunta atmosferica]*`.
-- Un'aggiunta atmosferica è **facoltativa** e vale solo se porta **un dettaglio fisico** che l'originale non ha, in **una o due frasi**. Se non trovi un dettaglio che valga, non scriverla.
+- **Un riquadro solo** (regola del DM, 2026-10-17): niente blockquote `*[aggiunta atmosferica]*` separato. Un dettaglio che va **oltre** l'originale si scrive **dentro** lo stesso riquadro, al punto giusto del racconto.
+- Il dettaglio in più è **facoltativo** e vale solo se è **fisico** (qualcosa che si vede, si sente, si tocca) e sta in **una frase**. Se non trovi un dettaglio che valga, non scriverlo.
 
 **Formato corretto:**
 ```markdown
-> Testo originale rielaborato in italiano, con tutte le informazioni originali presenti.
-
-*[Aggiunta atmosferica]:*
-> *Dettaglio extra o espansione atmosferica aggiunta dal DM.*
+> Testo originale rielaborato in italiano, con tutte le informazioni originali presenti e, se serve, un dettaglio fisico in più.
 ```
 
-**Formato sbagliato:** fondere l'aggiunta con il testo originale senza separazione; omettere dettagli chiave dell'originale.
+**Formato sbagliato:** un secondo blockquote `*[Aggiunta atmosferica]*` dopo il riquadro; omettere dettagli chiave dell'originale.
 
 #### Stile Italiano
 - **Parole comuni:** "vedere", "sentire", "dire" vanno benissimo. Un verbo raro detto ad alta voce rallenta chi ascolta.

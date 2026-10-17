@@ -36,7 +36,7 @@ corto di quello che ricevi.
 Tutto ciò che il DM legge o recita ai giocatori:
 
 - il blockquote del `🎬 SETUP INIZIALE`
-- ogni riquadro `### Testo — … [BT-xx]` e il suo `*[Aggiunta atmosferica]*`
+- ogni riquadro `### Testo — … [BT-xx]`. Se lo segue un blockquote `*[Aggiunta atmosferica]*` separato, **fondilo nel riquadro** o eliminalo: il DM vuole un riquadro solo
 - i testi delle Villain Action e degli eventi di scena in blockquote
 - le battute dei PNG in blockquote (`> *"…"*`)
 
@@ -107,9 +107,9 @@ L'elenco resta: è il promemoria del DM.
 - Il **presente indicativo** come tempo del racconto.
 - I riquadri che già funzionano: se un testo è concreto, breve e in persona coerente, **lascialo
   com'è** e non riscriverlo per gusto.
-- Le aggiunte atmosferiche buone. Un'aggiunta di **una o due frasi con un dettaglio fisico** è il
-  formato giusto; se non trovi un dettaglio che valga, **elimina l'aggiunta** invece di inventarne
-  uno generico.
+- I dettagli in più che funzionano, **dentro** il riquadro. Una frase con un dettaglio fisico è il
+  formato giusto; se un'aggiunta separata non ha un dettaglio che valga, **eliminala** invece di
+  fonderla.
 
 ## Prova finale su ogni riquadro
 

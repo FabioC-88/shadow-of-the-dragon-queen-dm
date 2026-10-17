@@ -256,7 +256,7 @@ Vale per **entrambi i percorsi**, ed è l'ultimo step che scrive su dm-notes-[N+
 
 Sub-agente su `ai/agents/09-read-aloud-reviewer.agent.md`, su dm-notes-[N+1].md.
 
-Obiettivo: ripulire SETUP INIZIALE, riquadri `[BT-xx]`, aggiunte atmosferiche e testi delle
+Obiettivo: ripulire SETUP INIZIALE, riquadri `[BT-xx]` (fondendo le aggiunte atmosferiche separate) e testi delle
 Villain Action dai pattern da AI (contrasti annunciati, spiegazioni del sottotesto, frasi a
 effetto, azioni decise per i PG) e trovare segreti, nomi o descrizioni doppie finiti nel testo
 letto al tavolo. Serve perché gli step 6A.1 e 6B.2/6B.5 scrivono o spostano testo letto, e

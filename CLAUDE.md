@@ -30,6 +30,10 @@ Questo repo ha già un sistema di agenti e skill Claude Code, che resta la fonte
 
 Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.md` (e `campagna/fazioni.md` se serve accedere a file missione) invece di affidarti alla memoria della conversazione.
 
+## Memoria persistente — VIETATA
+
+**Non salvare mai nulla che riguardi questo repository nella memoria locale di Claude Code su questo Mac** (`~/.claude/projects/.../memory/`, `MEMORY.md` o simili) — né preferenze, né feedback, né stato della campagna, né riferimenti. Tutto ciò che va ricordato si scrive **nei file del repo** (questo `CLAUDE.md`, `ai/agents/AGENTS.md`, `campagna/contesto.md`, `campagna/glossario.md`, ecc.), così resta versionato e condiviso. Se Fabio chiede di «ricordare» qualcosa, proponi in quale file del repo annotarlo.
+
 ## Linee guida generali
 
 - **Sempre in italiano.**
@@ -38,7 +42,8 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
 - **Terminologia:** segui `campagna/glossario.md`. Titoli e gradi si traducono sempre (*Maresciallo* Vendri, mai «Marshal Vendri»), l'esercito nemico è l'*Armata dei Draghi*; schede e sezioni del manuale in italiano con l'inglese tra parentesi alla prima occorrenza.
 - **Informazioni dei PNG in elenco:** quando un PNG comunica una serie di informazioni, oltre all'elenco per il DM scrivi il **testo da recitare** con la sua voce.
 - **Segreti:** distingui sempre tra ciò che sa il party e `[NOTA DM — riservata]`.
-- **Testi da leggere al tavolo (boxed text)** — quattro regole, tutte già costate una revisione:
+- **Testi da leggere al tavolo (boxed text)** — cinque regole, tutte già costate una revisione:
+  - **Un riquadro solo.** Niente blocco `*[Aggiunta atmosferica]*` separato dopo il testo da leggere: il dettaglio in più, se serve, va dentro lo stesso riquadro, che resta corto e contiene comunque tutti i dati del manuale.
   - **Dire la cosa una volta sola.** Niente contrasto annunciato col trattino e poi ripetuto dalla frase dopo — *«alza l'ascia — non verso di voi. La punta oltre le vostre teste»* diventa *«alza l'ascia puntandola oltre le vostre teste»*. Stessa regola per la conclusione seguita dalla prova che la ripete (*«non è umana. Le mani hanno artigli»* → basta la seconda frase).
   - **Descrivere, non spiegare il significato della scena.** Metti il dettaglio e lascia la conclusione al giocatore: *«non è un accampamento improvvisato — è una macchina da guerra a riposo»* diventa *«i fuochi sono allineati, a distanze uguali, come le tende»*. Vale anche per le glosse emotive tipo *«per loro è la fine del mondo»*: tagliale.
   - **Non decidere l'azione del giocatore.** Mai scrivere cosa fa o sente il PG — *«i tuoi piedi già si muovono»* non si legge al tavolo. Descrivi il mondo, l'azione la sceglie chi gioca.
