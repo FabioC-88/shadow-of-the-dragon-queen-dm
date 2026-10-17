@@ -23,7 +23,7 @@ della Maresciallo Vendri). **Garrick, Asurion e Corin non hanno giurato.**
 solamnica: la scena in sospeso dalla Sessione 03 è chiusa. Dove e quando (campo, castello) non è
 registrato.
 
-**Il rotolo per Wyhan.** **Garrick ha consegnato il rotolo sigillato a Wyhan**, la maga dell'Alta
+**Il rotolo per Wyhan.** **Garrick ha consegnato il rotolo sigillato a Wyhan**, senza averlo aperto (confermato dal DM dopo la serata), la maga dell'Alta
 Stregoneria dal mantello nero, all'Apotecaria di Wyhan (scena «Messaggio per una Maga», FASE 5).
 Wyhan gli ha **predetto le Vesti Rosse**. Garrick è poi **tornato a chiederle di addestrarlo in
 alchimia: Wyhan ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)**.
@@ -61,17 +61,21 @@ specifici che il piano lasciava aperti sono nei TODO sotto.
   cosa ha appreso il party (Armata dei Draghi Rossi, «l'arma», la donna dall'occhio di brace, il
   villaggio bruciato = Vogler)?
 - ✅ **Fargab:** lo tiene **Asurion** (confermato dal DM).
-- **Garrick e il rotolo:** lo aveva aperto prima della consegna? (Non registrato; il rotolo gli era
-  stato dato con l'indicazione di non aprirlo.) Come ha reagito alla predizione?
+- ✅ **Garrick e il rotolo:** **non l'aveva aperto** (confermato dal DM). *[NOTA DM — riservata] Per
+  la tabella di Wyhan, Vesti Rosse a rotolo chiuso vuol dire allineamento Neutrale (o Malvagio): è
+  una deduzione, l'allineamento in scheda non cambia.* Resta aperto come ha reagito alla predizione.
 - 🔀 **Stash di Wyhan:** chiarito dal DM, è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Restano aperti i termini
   dell'addestramento in alchimia (tempi, costi, competenza negli strumenti da alchimista) e se Wyhan chiede qualcosa in cambio.
 - **Consiglio di Kalaman (FASE 4):** come è stato smontato Lord Bakaris (chiamata di Raven, CD 14,
   precedente di Bakaris il Giovane a Vogler)? Asurion ha preso la parola? Lo spotlight opzionale di
   Razak (l'attacco di Lord Bakaris sul titolo) è stato giocato?
 - **Cortile (FASE 3):** Bakaris il Giovane ha cercato Razak come da piano? Com'è finita?
+- 🔀 **Vendri e Rookledust:** chiarito dal DM: *«si sono comportati bene sia con Vendri che con
+  Rookledust, anche se Vendri avrebbe gradito che tutti avessero deciso di diventare soldati di
+  Kalaman»*. **Vendri +2 Amichevole**, **Rookledust +2 Amichevole** (vedi tabella PNG).
 - **Scene opzionali di Rookledust:** lo spotlight tecnico (Razak, Than/Mount Nevermind) è stato
-  giocato? Come ha reagito il party alla rivelazione che Rookledust ha costruito il boilerdrak
-  (condanna, perdono, pragmatismo)?
+  giocato? Il party si è comportato bene con lei (DM); il dettaglio della reazione alla rivelazione
+  che ha costruito il boilerdrak non è registrato.
 - **Paga e armeria:** è stato ritirato il primo pagamento di 5 mo? Qualcuno ha preso equipaggiamento
   dall'armeria?
 - **Tavola d4 (campo profughi) e incontri nell'entroterra (FASE 7):** quali sono usciti? Rhys è
@@ -86,12 +90,12 @@ variazioni.
 | PNG | Attitudine/Stato finale | Note |
 |-----|------------------|------|
 | **Darrett Highwater** | **+3 Alleato** (invariata) | Ha ricevuto la cassa con la corazza da **Razak**. Ha ora l'armatura e l'elmo di Becklin. Messaggero di Vendri verso il party |
-| **Maresciallo Nestra Vendri** | +1 Cordiale (da piano; tende a +2 dopo la FASE 10) | **[TODO DM — da confermare]** Il party ha riferito l'esito della Prima Missione? |
+| **Maresciallo Nestra Vendri** | **+2 Amichevole** (confermato dal DM) | Il party si è comportato bene con lei. Avrebbe voluto che giurassero tutti e cinque: hanno giurato solo Razak e Brynja |
 | **Governatore Calof Miat** | 0 Neutrale → +1 Cordiale (da piano) | **[TODO DM — da confermare]** dipende da come è andato il Consiglio |
 | **Lord Bakaris Uth Estide** | -3 Ostile verso Asurion · -2 Diffidente verso gli altri (da piano) | **[TODO DM — da confermare]** vedi Consiglio sopra |
 | **Bakaris il Giovane** | -3 Ostile verso Razak (invariata) | Cortile del castello (FASE 3): esito **[TODO DM — da confermare]** |
 | **Wyhan** | 0 Neutrale (da piano, rotolo consegnato) | **Ha predetto per Garrick le Vesti Rosse. Ha accettato di addestrarlo in alchimia e gli ha rivelato la sua scorta segreta.** Attitudine da riaggiornare **[TODO DM]** |
-| **Tatina Rookledust** | +1 Cordiale / +2 Amichevole (da piano) | Alleata ricorrente. Accompagna il party a Kalaman e vi si installa. **[TODO DM — da confermare]** quale dei due valori |
+| **Tatina Rookledust** | **+2 Amichevole** (confermato dal DM) | Alleata ricorrente. Accompagna il party a Kalaman e vi si installa. Il party si è comportato bene con lei |
 | **Raven Uth Vogler** | +2 Amichevole (invariata) | Al campo profughi di Kalaman; non si fa più chiamare «sindaca» |
 | **Jeyev Veldrews** | +1 Cordiale (invariata) | Testimone della cattura di Becklin |
 | **Cancelliere Aldous Rennard** | — | **Non incontrato**: la lettera non è stata consegnata |
@@ -118,7 +122,8 @@ variazioni.
 
 - **XP guadagnati questa sessione:** **600 XP per PG**, assegnati per intero (confermato dal DM)
 - **Level up avvenuto:** **No** — il party resta al **Livello 4**. Il Livello 5 arriva dopo le
-  «Missioni per Kalaman» (sessioni future), prima di Wheelwatch.
+  «Missioni per Kalaman», prima di Wheelwatch: decisione del DM (2026-10-17), a fine Sessione 05,
+  a missioni concluse.
 
 ## Oggetti e Ricompense
 
@@ -139,7 +144,7 @@ variazioni.
 | **Lo stash di Wyhan e l'alchimia di Garrick** | Sviluppo improvvisato: lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo; come procede l'addestramento — **[TODO DM]** |
 | **La Prova dell'Alta Stregoneria di Garrick** | Wyhan ha predetto le Vesti Rosse, ma la predizione non è l'esito: la veste vera si decide alla Prova (Sessione 17); la promessa di un passaggio a Wayreth resta senza data |
 | **Il destino di Cudgel Ironsmile** | **[NOTA DM — riservata]** Dispersa, non morta; riappare in «Ritorno delle Truppe». Il party non lo sa |
-| **Il destino di Becklin** | Catturata; possibile ritorno con «Ritorno delle Truppe» |
+| **Il destino di Becklin** | Catturata. ✅ Decisione del DM (2026-10-17): non torna con «Ritorno delle Truppe»; se il party chiede, Cudgel conferma la cattura. Resta prigioniera |
 | **Il mandante di Gragonis** | Ancora ignoto |
 | **Vogler come base nemica** | Se il prigioniero è stato interrogato, il party sa che l'Armata occupa il villaggio bruciato — **[TODO DM]** |
 | **Il fargab** | In mano ad **Asurion**: tornerà cruciale nell'attacco a Kalaman |

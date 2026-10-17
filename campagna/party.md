@@ -24,7 +24,7 @@
 | Cosa | Chi | Note |
 |------|-----|------|
 | **Scudo Verde di Ispin** (*+1 shield*) | **Brynja** | È lo stesso scudo che nove anni fa si frappose tra lei e il goblin di Grishnak. A Vogler lo conoscono tutti: la rende **identificabile a vista** |
-| ~~Rotolo sigillato per Wyhan~~ | ~~Garrick~~ | ✅ **Consegnato da Garrick a Wyhan in Sessione 04** (non più in possesso del party). Se lo avesse aperto prima della consegna: **[TODO DM]** |
+| ~~Rotolo sigillato per Wyhan~~ | ~~Garrick~~ | ✅ **Consegnato da Garrick a Wyhan in Sessione 04** (non più in possesso del party). **Non l'aveva aperto** (confermato dal DM, 2026-10-17) |
 | Spellbook dei Magi | Garrick | Dal preludio *Occhio nel Cielo (Eye in the Sky)* |
 | Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Silenzio Infranto (Broken Silence)*; servono da focus |
 | Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
@@ -70,10 +70,11 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
 - **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard e il favore della cassa da consegnare a Darrett, poi è partita per il fronte. ✅ **Sessione 04:** **Razak ha consegnato la cassa a Darrett**; **la lettera per Rennard non è stata recapitata** (resta a lui; scena opzionale in Sessione 05). **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
-- **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi, costi e contropartite dell'addestramento in alchimia.
+- **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato, senza averlo aperto; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi, costi e contropartite dell'addestramento in alchimia.
 - **Razak e Brynja ↔ Kalaman** — ✅ **Sessione 04:** sono gli **unici due** del party ad aver giurato come **scudieri di Kalaman** (5 mo/settimana, emblema blu e oro, alloggio al Castello). **Garrick, Asurion e Corin non hanno giurato**: nessuna paga né emblema.
 - **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
 - **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
+- **Razak e Corin ↔ l'Hinterlund** — **[NOTA DM — riservata]** Decisione del DM (2026-10-17): l'**eremo del Filo di Rame** e la **Pozza del Martin Pescatore** erano sulla strada delle colonne che l'Armata manda in tutta l'Hinterlund dopo la presa di Vogler, e sono stati **devastati**; Maestro Roke e i monaci sono morti o dispersi. Razak e Corin non lo sanno: scoprirlo è un hook da giocare (dalla Sessione 05: profughi, Lehra, o andandoci), non una scena da imporre. Dettagli in `fonti/personaggi/Razak-Kendall.md` e `fonti/personaggi/Corin-Wrenmoor.md`
 
 ---
 
@@ -247,7 +248,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 900 |
-| **Alta Stregoneria** | ✅ Sessione 04: Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash: pozioni e veleni extra su richiesta, a tempo e mo). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]** |
+| **Alta Stregoneria** | ✅ Sessione 04: ha consegnato il rotolo **senza averlo aperto**; Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash: pozioni e veleni extra su richiesta, a tempo e mo). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]**. **[NOTA DM — riservata]** Per la tabella di Wyhan, Vesti Rosse a rotolo chiuso vuol dire allineamento **Neutrale (o Malvagio)**: è una deduzione, l'allineamento in scheda non cambia |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 3 della tabella d6.* Ispin arrivò alla tenuta Firewatch con una spilla di bronzo da identificare — di chi era stata, come fosse finita in un mercato di Nordmaar. Garrick, allora sedicenne e già capace di incrociare blasonari e registri come nessun altro in casa, gliela ricostruì in nove giorni. Fu il primo adulto a chiedergli qualcosa per le sue capacità, non per pietà.

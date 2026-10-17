@@ -174,10 +174,12 @@ Si conoscono da pochi giorni: due sconosciuti diretti allo stesso funerale, le c
 
 Corin lascia la Pozza per tre giorni, per un funerale. Il Capitolo 3 si intitola **"When Home Burns"**: il Red Dragon Army scende sull'Hinterlund e Vogler brucia. **Il bosco della Pozza si trova sulla stessa provincia, a una giornata da Vogler.**
 
-Non serve decidere subito cosa ne sia stato — anzi, conviene *non* deciderlo. Le opzioni, in ordine di crudeltà crescente:
+> ✅ **[NOTA DM — riservata] Decisione presa (2026-10-17).** *«Sia l'eremo che la Pozza, se si trovavano sul percorso dell'esercito del drago, non hanno sicuramente fatto una bella fine.»* La Pozza, a mezza giornata dall'eremo del Filo di Rame e a poco più di una giornata da Vogler, era sulla strada delle colonne che l'Armata dei Draghi, presa Vogler, manda contro le comunità di tutta l'Hinterlund (rapporto di Lehra, Sessione 05): **la Pozza è stata devastata dall'Armata dei Draghi.** Corin non lo sa. *Come* e *quando* lo scopre resta un hook da giocare, non una scena da imporre: dalla Sessione 05, i profughi dell'altopiano (Incontri d4, voce 2), Lehra, o andandoci.
+
+~~Non serve decidere subito cosa ne sia stato — anzi, conviene *non* deciderlo.~~ → **deciso**, vedi sopra. Le opzioni, in ordine di crudeltà crescente, valgono ora solo per *come* Corin viene a saperlo:
 
 1. **Silenzio.** Nessuna notizia per tutta la campagna. Corin non sa, e non tornare a controllare è una scelta che rifà ogni sessione.
-2. **Una notizia di seconda mano**, da un profugo dell'altopiano, nel Cap. 4 a Kalaman: il bosco c'è ancora, i pastori no.
+2. **Una notizia di seconda mano**, da un profugo dell'altopiano, nel Cap. 4 a Kalaman: ~~il bosco c'è ancora, i pastori no~~ → la devastazione.
 3. **La certezza**, e allora falla arrivare tardi e da qualcuno che non sa cosa sta dicendo.
 
 Quello che conta è la forma dell'arco, che è già completa senza aggiungere niente: **un uomo che ha passato dodici anni a custodire un posto lo perde nella settimana in cui esce per la prima volta**, e passa il resto della campagna a scoprire che il suo dio ha altri posti — uno dei quali (il Blue Phoenix Shrine, Cap. 5) è **intatto, e custodito da gente che ha dimenticato il nome esattamente come l'aveva dimenticato Maren.**
@@ -223,7 +225,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 |---|---|---|
 | **Ispin Greenshield** | Lo trovò ferito nel sottobosco e lo curò due settimane, sei anni fa | Defunto all'inizio della campagna. Si sono visti **una volta sola**: è la connessione più breve delle cinque, e l'unica in cui Ispin non ha dato niente di intenzionale |
 | **Maren Wrenmoor** *(inventata)* | La custode che lo prese con sé a 15 anni e gli insegnò un rito di cui non conosceva il destinatario | Morta 4 anni fa, sepolta sulla riva nord della Pozza. Da lei viene il cognome |
-| **Maestro Halden Roke** | Conosciuto **di nome soltanto**, tramite i messaggi che Razak portava a valle | Nessun contatto diretto. Vivo a inizio campagna. Gancio a costo zero: due custodi di due eremi a mezza giornata l'uno dall'altro che non si sono mai parlati |
+| **Maestro Halden Roke** | Conosciuto **di nome soltanto**, tramite i messaggi che Razak portava a valle | Nessun contatto diretto. Vivo a inizio campagna. Gancio a costo zero: due custodi di due eremi a mezza giornata l'uno dall'altro che non si sono mai parlati. ✅ **[NOTA DM — riservata]** Eremo e Pozza devastati dall'Armata, Roke morto o disperso (decisione del DM, 2026-10-17) |
 | **I pastori dell'altopiano** *(senza nome)* | Lo chiamano "quello della Pozza", gli portano bestie malate e formaggio | Gancio dormiente e crudele: sono i primi che il Cap. 3 mette sulla strada del Red Dragon Army |
 | **Ishvern Stargazer** | Nessun contatto ancora — Cap. 5, Sessione 10 | Capo dei naufraghi Dimernesti al Blue Phoenix Shrine |
 | **Yearkal** | Nessun contatto ancora — Cap. 5, Sessione 11 | Sacerdotessa di Habbakuk, prigioniera. L'unica altra devota consapevole dello stesso dio in tutta la campagna |
@@ -252,5 +254,5 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 - [ ] **Avvisato Gabri** che il nome del dio è il premio del preludio — il personaggio non lo conosce fino a quella notte
 - [x] **Scena dell'8° livello — DECISA (2026-09-03).** **Duskwalker, S19 FASE 1**, riassegnata da Asurion (che si sposta al Passaggio di Wind's End, S16 FASE 4). **Da comunicare a Seba**, perché sostituisce una decisione presa con lui il giorno prima
 - [ ] **Scelto il talento** — consigliato War Caster; la lista resta aperta, sceglie Gabri
-- [ ] Deciso quanto/quando il party sappia della sorte del bosco della Pozza dopo il Cap. 3
+- [x] **Sorte del bosco della Pozza — DECISA (2026-10-17).** **[NOTA DM — riservata]** Devastata dall'Armata dei Draghi. Quanto e quando il party lo sappia non è fissato: è un hook da giocare (dalla Sessione 05: profughi, Lehra, o andandoci), vedi «L'arco — un custode senza giardino»
 - [ ] Scheda compilata anche in `campagna/party.md`

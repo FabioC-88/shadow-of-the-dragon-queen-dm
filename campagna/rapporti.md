@@ -48,14 +48,15 @@
 |----|-----|-----------|------|
 | [Tutti] | Ispin Greenshield | +3 Alleato (defunto) | La sua morte è il catalizzatore; il suo ricordo è un'ancora emotiva |
 | Razak | Ispin Greenshield | Debito non saldato | Lo accudì per un inverno all'eremo mentre era sotto voto di silenzio: non gli ha mai rivolto la parola |
-| Razak | Maestro Halden Roke | +3 Alleato | Maestro dell'eremo del Filo di Rame; l'unico padre che abbia avuto |
+| Razak | Maestro Halden Roke | +3 Alleato | Maestro dell'eremo del Filo di Rame; l'unico padre che abbia avuto. **[NOTA DM — riservata]** Eremo devastato dall'Armata dei Draghi, Roke morto o disperso (decisione del DM, 2026-10-17): Razak non lo sa |
 | Razak | Confratello Tobin Reyne | +2 Amichevole | Ex confratello, quasi un fratello maggiore; lasciò l'Ordine senza salutare |
 | Razak | Ser Maelis | — | **[NOTA DM — riservata]** Vedi "Segreti" in `fonti/personaggi/Razak-Kendall.md` |
 | Corin | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
 | **Razak** | **Bakaris il Giovane** | **-3 Ostile (nemico personale)** | Sessione 01: Bakaris lo ha deriso al funerale, Razak lo ha minacciato senza riuscirci, **Garrick** lo ha cacciato con una prestidigitazione. **Bakaris incolpa Razak e non sa di Garrick.** ✅ Ricomparso in piazza a Vogler, Sessione 03 (sabotaggio dell'evacuazione, smentito); ricompare di nuovo a Kalaman, Sessione 04 |
 | **Asurion** | **Lord Bakaris Uth Estide** | **-3 Ostile** | Sessione 01: Asurion lo ha trascinato nel fiume davanti al molo, dopo che lo molestava durante la gara di pesca. A Kalaman Bakaris ha un torto vero da raccontare al consiglio |
 | **Garrick** | **Wyhan** | **[TODO DM — attitudine da riaggiornare]** *(piano: 0 Neutrale)* | ✅ **Sessione 04:** le ha consegnato il rotolo sigillato; lei gli ha predetto le **Vesti Rosse** (parere, non esito della Prova). Garrick è tornato a chiederle l'addestramento in **alchimia**: ha accettato e gli ha rivelato la sua **scorta segreta (*stash*)**. Sviluppo improvvisato: lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Termini dell'addestramento **[TODO DM]** |
-| **[Tutti]** | **Tatina Rookledust** | **[TODO DM — +1 Cordiale o +2 Amichevole]** | ✅ **Sessione 04:** alleata ricorrente; dono del **fargab**; accompagna il party a Kalaman e vi si installa |
+| **[Tutti]** | **Tatina Rookledust** | **+2 Amichevole** | ✅ **Sessione 04:** alleata ricorrente; dono del **fargab**; accompagna il party a Kalaman e vi si installa. Il party si è comportato bene con lei (DM) |
+| **[Tutti]** | **Maresciallo Nestra Vendri** | **+2 Amichevole** | ✅ **Sessione 04:** ha fissato le condizioni dell'arruolamento; il party si è comportato bene con lei (DM). Avrebbe voluto che giurassero tutti e cinque: hanno giurato solo Razak e Brynja |
 | **Garrick** | **Leedara** | **+1 Cordiale** — l'unico che le abbia parlato davvero | Sessione 01: l'ha corteggiata al funerale con un tiro alto. Non ha ceduto (*«in un altro tempo, forse»*) ma **ha cantato**. [NOTA DM] La frase è letteralmente vera: Leedara è morta nel Cataclisma |
 | **Brynja** | **Becklin Uth Viharin** | +2 Amichevole | Non l'aveva mai incontrata, ma sapeva chi fosse da Ispin. È Becklin a consegnarle lo Scudo Verde |
 | **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni. ✅ **Sessione 03:** gli ha affidato la lettera per Rennard e il favore della cassa per Darrett, poi catturata al fronte (Jeyev testimone). ✅ **Sessione 04:** il favore della cassa è stato mantenuto (consegnata a Darrett); **la lettera per Rennard resta non recapitata**, ancora a Razak |
@@ -162,10 +163,10 @@
 | **Razak ↔ Darrett** | Razak consegna la cassa con la corazza a piastre solamnica: la scena in sospeso dalla Sessione 03 è chiusa. Darrett resta **+3 Alleato** |
 | **Razak e Brynja ↔ Rennard** | La lettera di Becklin **non viene recapitata** (resta a Razak); la scena opzionale «Il Registro di Rennard» non è giocata e slitta alla Sessione 05. Rennard non incontrato |
 | **Garrick ↔ Wyhan** | Consegna il rotolo; Wyhan gli predice le **Vesti Rosse** (parere, non esito della Prova). Garrick torna a chiederle di addestrarlo in **alchimia**: lei accetta e gli rivela il suo **stash**. Improvvisato: lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Termini dell'addestramento **[TODO DM]**. Attitudine di Wyhan da riaggiornare **[TODO DM]** |
-| **Il party ↔ Tatina Rookledust** | Prima Missione completata come da piano; dono del **fargab**; Rookledust accompagna il party a Kalaman e vi si installa. Attitudine (+1 o +2) e reazione alla rivelazione sul boilerdrak: **[TODO DM]** |
+| **Il party ↔ Tatina Rookledust** | Prima Missione completata come da piano; dono del **fargab**; Rookledust accompagna il party a Kalaman e vi si installa. **+2 Amichevole**: il party si è comportato bene con lei (DM). Il dettaglio della reazione alla rivelazione sul boilerdrak non è registrato |
 | **Il party ↔ Raven** | Al campo profughi di Kalaman; non si fa più chiamare «sindaca». Invariata, **+2 Amichevole** |
 | **Il party ↔ Lord Bakaris / Bakaris il Giovane** | Esiti del Consiglio e del cortile del Castello **[TODO DM]**: attitudini invariate rispetto al piano |
-| **Il party ↔ Vendri e Miat** | Attitudini da piano (+1 Cordiale / 0→+1), non confermate: **[TODO DM]** |
+| **Il party ↔ Vendri e Miat** | **Vendri +2 Amichevole** (confermato dal DM: *«si sono comportati bene… anche se Vendri avrebbe gradito che tutti avessero deciso di diventare soldati di Kalaman»*: hanno giurato solo Razak e Brynja). **Miat:** da piano 0→+1, non confermato **[TODO DM]** |
 
 ### Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)
 [TODO — da compilare durante le sessioni]

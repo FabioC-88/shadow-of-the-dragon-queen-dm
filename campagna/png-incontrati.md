@@ -247,8 +247,8 @@
 | **Affiliazione** | Esercito di Kalaman |
 | **Tratto** | Diretta, esigente, rispetta i risultati sopra tutto il resto |
 | **Attitudine Iniziale** | 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci |
-| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: +1 Cordiale, tende a +2 dopo la FASE 10; non registrato se il party ha riferito l'esito della Prima Missione)* |
-| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7. ✅ **Sessione 04:** condizioni dell'arruolamento da lei fissate (scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello); hanno giurato solo Razak e Brynja |
+| **Attitudine Attuale** | **+2 Amichevole** *(confermato dal DM dopo la Sessione 04: il party si è comportato bene)* |
+| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7. ✅ **Sessione 04:** condizioni dell'arruolamento da lei fissate (scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello); hanno giurato solo Razak e Brynja. **Avrebbe voluto che giurassero tutti e cinque**: una sfumatura, non un conflitto |
 
 ---
 
@@ -299,8 +299,8 @@
 | **Affiliazione** | Indipendente; alleata del party |
 | **Tratto** | Entusiasta, iper-loquace (come ogni gnomo), geniale ma caotica |
 | **Attitudine Iniziale** | +1 Cordiale |
-| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: +1 Cordiale / +2 Amichevole; il recap non dice quale)* |
-| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della Città dei Nomi Perduti. I suoi gadget possono essere utili ma spesso danno risultati inaspettati. ✅ **Sessione 04:** alleata ricorrente; ha donato al party il **fargab** (un solo set accoppiato, lo tiene **Asurion**) e accompagna il party a Kalaman, dove si installa. Reazione del party alla rivelazione sul boilerdrak: **[TODO DM]** |
+| **Attitudine Attuale** | **+2 Amichevole** *(confermato dal DM dopo la Sessione 04: il party si è comportato bene con lei)* |
+| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della Città dei Nomi Perduti. I suoi gadget possono essere utili ma spesso danno risultati inaspettati. ✅ **Sessione 04:** alleata ricorrente; ha donato al party il **fargab** (un solo set accoppiato, lo tiene **Asurion**) e accompagna il party a Kalaman, dove si installa. Il party si è comportato bene con lei (DM); il dettaglio della reazione alla rivelazione sul boilerdrak non è registrato |
 
 ---
 
@@ -410,7 +410,7 @@
 | **Affiliazione** | Ordine di Majere |
 | **Tratto Caratteristico** | Anziano, asciutto, parla per constatazioni e mai per ordini. Non ha mai concesso un permesso in vita sua: fa notare che non serviva |
 | **Attitudine Iniziale** | +3 Alleato (verso Razak) |
-| **Note** | Trovò Razak neonato sulla soglia e decise che un bambino con un nome era un bambino che qualcuno aveva pensato. È l'unico padre che Razak abbia avuto. **Leva narrativa:** l'eremo si trova a una giornata e mezza a nord-ovest di Vogler, **sulla traiettoria dell'invasione del Cap. 3-4**. Decidere se sopravvive **prima** di giocare la Sessione 02 — è una scelta che pesa sull'intero arco del personaggio. **[NOTA DM — riservata]** Non sa nulla del ricamo sulla stoffa oltre a ciò che ha raccontato a Razak; non è un depositario di segreti, ed è meglio che resti tale |
+| **Note** | Trovò Razak neonato sulla soglia e decise che un bambino con un nome era un bambino che qualcuno aveva pensato. È l'unico padre che Razak abbia avuto. **Leva narrativa:** l'eremo si trova a una giornata e mezza a nord-ovest di Vogler, **sulla traiettoria dell'invasione del Cap. 3-4**. ✅ **[NOTA DM — riservata] Deciso dal DM (2026-10-17):** l'eremo era sulla strada delle colonne che l'Armata manda in tutta l'Hinterlund dopo la presa di Vogler ed è stato **devastato**; Roke e i monaci sono **morti o dispersi**. Razak non lo sa: scoprirlo è un hook da giocare (dalla Sessione 05), non una scena da imporre. **[NOTA DM — riservata]** Non sa nulla del ricamo sulla stoffa oltre a ciò che ha raccontato a Razak; non è un depositario di segreti, ed è meglio che resti tale |
 
 #### Attitudine PG
 | PG | Attitudine | Note |

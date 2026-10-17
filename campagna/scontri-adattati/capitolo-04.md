@@ -84,7 +84,7 @@ and move away. Coerente con l'originale: fugge se in inferiorità numerica.
 
 **3× Baaz Draconian** (era 2, scalato per il quinto giocatore) + **1× Kapak Draconian (Ambusher)**. Stat block classici, come sempre in questa campagna.
 
-> ⚠️ **[TODO DM — ricontrollare il budget di questo scontro.]** Il Baaz qui era scritto come **CR 1 (200 XP)**; la scheda ufficiale è **CR 1/2 (100 XP)**, con danni molto più bassi (2× Shortsword 1d6+1 = ~8/round, invece di Morso+Artigli o 2× Longsword = ~11-14/round). Il budget *Flee, Mortals!* di questo incontro era calcolato sui numeri vecchi: **i tre baaz ora pesano circa la metà.** Se vuoi mantenere la pressione originale, alza il numero (4-5 baaz) invece di gonfiare il blocco. Vale per tutti gli scontri con baaz dal Cap. 4 in poi.
+> ✅ **Budget ricontrollato — decisione del DM (2026-10-17): restano 3 baaz**, *«li regoliamo per 5 PG come si era detto»*: i 2 della fonte scalati per il quinto giocatore, + 1 kapak = 1.000 XP con le schede ufficiali (vedi `dm-notes-sessione-05.md`, FASE 3). Il Baaz qui era scritto come **CR 1 (200 XP)**; la scheda ufficiale è **CR 1/2 (100 XP)**, con danni molto più bassi (2× Shortsword 1d6+1 = ~8/round, invece di Morso+Artigli o 2× Longsword = ~11-14/round). Il budget *Flee, Mortals!* di questo incontro era calcolato sui numeri vecchi: **i tre baaz ora pesano circa la metà**, e il peso dello scontro passa sul kapak. Per gli altri scontri con baaz dal Cap. 4 in poi resta valida l'indicazione: se serve più pressione, alza il numero invece di gonfiare il blocco.
 
 ```
 BAAZ DRACONIAN (×3) — DSotDQ p197, scheda ufficiale (verificata 2026-09-13)
