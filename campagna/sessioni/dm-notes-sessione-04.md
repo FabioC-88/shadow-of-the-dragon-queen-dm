@@ -28,11 +28,11 @@ Il materiale vale **~5h** contro una serata da **2h30m**. Coprire tutto il file 
 
 ---
 
-## 🎬 SETUP INIZIALE
+## 🎬 SETUP INIZIALE ✅ GIOCATO (come da piano)
 
 *Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
 
-### Testo — L'Alba sul Vingaard [BT-00]
+### Testo — L'Alba sul Vingaard [BT-00] ✅ LETTO
 
 > Il Vingaard vi porta a valle tutta la notte. Sulle barche si dorme poco, a turni. All'alba il fiume si allarga e l'acqua cambia colore, da fiume a mare. A prua qualcuno si alza in piedi e indica davanti a sé.
 
@@ -44,7 +44,7 @@ Il materiale vale **~5h** contro una serata da **2h30m**. Coprire tutto il file 
 
 ---
 
-## FASE 1 — L'Arrivo sulla Riva
+## FASE 1 — L'Arrivo sulla Riva ✅ GIOCATA (cassa di Becklin consegnata da Razak a Darrett)
 
 *~25 minuti · Sbarco dei profughi, piccole crisi, la cassa di Becklin, la scomparsa di Bakaris*
 
@@ -115,7 +115,7 @@ Se i personaggi non si offrono spontaneamente di andare a controllare, **Raven**
 
 ---
 
-## FASE 2 — Le Porte di Kalaman
+## FASE 2 — Le Porte di Kalaman ✅ GIOCATA (come da piano)
 
 *~15 minuti · Il cammino verso la città, l'ingresso, le prime impressioni*
 
@@ -140,7 +140,7 @@ Le guardie al cancello fermano i personaggi e chiedono le loro intenzioni, ma li
 
 ---
 
-## FASE 3 — Il Cortile del Castello
+## FASE 3 — Il Cortile del Castello ✅ GIOCATA (come da piano — esito dell'incontro con Bakaris il Giovane non registrato)
 
 *~15 minuti · L'arrivo al Castello di Kalaman, lo scontro con Bakaris il Giovane*
 
@@ -195,7 +195,7 @@ Un personaggio può far scansare Bakaris il Giovane tramite roleplay o superando
 
 ---
 
-## FASE 4 — Il Consiglio di Kalaman
+## FASE 4 — Il Consiglio di Kalaman ✅ GIOCATA 🔀 (offerta accettata: hanno giurato solo Razak e Brynja)
 
 *~45 minuti · L'udienza con il Governatore Miat, la menzogna di Bakaris, il rapporto della Maresciallo Vendri, la decisione della città*
 
@@ -371,13 +371,13 @@ Con questo, l'incontro con i governanti di Kalaman si conclude. La Maresciallo V
 
 > *"E tu cosa ne sai, davvero, di cosa serve per guidare della gente? Titoli non ne hai — o forse sì, e li porti così male che è meglio non nominarli."*
 
-[NOTA DM — riservata] **Il bersaglio è Razak** (`campagna/rapporti.md`, frizione #3, leva (b); `fonti/personaggi/Razak-Kendall.md`, "Ganci per il DM"): ex scudiero di un Cavaliere della Corona, senza titolo, senza famiglia e senza un cognome verificabile. Bakaris lo sa perché a Vogler lo sapevano tutti, e ha un motivo in più per colpirlo: suo figlio lo odia. **Occhio al doppione con Rennard (FASE 5):** la quarta domanda del Cancelliere è *«Casata»*, e cade sulla stessa ferita poche ore dopo. È voluto che si richiamino, ma Bakaris **non deve dire la parola "casata"** né chiedergli da dove viene: resta sul titolo e sull'autorità, così la domanda di Rennard arriva fresca. Nessuno è obbligato a reagire: se Razak tace, Bakaris passa oltre soddisfatto e la scena finisce lì.
+[NOTA DM — riservata] **Il bersaglio è Razak** (`campagna/rapporti.md`, frizione #3, leva (b); `fonti/personaggi/Razak-Kendall.md`, "Ganci per il DM"): ex scudiero di un Cavaliere della Corona, senza titolo, senza famiglia e senza un cognome verificabile. Bakaris lo sa perché a Vogler lo sapevano tutti, e ha un motivo in più per colpirlo: suo figlio lo odia. **Occhio al doppione con Rennard (FASE 5):** la quarta domanda del Cancelliere è *«Casata»*, e cade sulla stessa ferita poche ore dopo. È voluto che si richiamino, ma Bakaris **non deve dire la parola "casata"** né chiedergli da dove viene: resta sul titolo e sull'autorità, così la domanda di Rennard arriva fresca. Nessuno è obbligato a reagire: se Razak tace, Bakaris passa oltre soddisfatto e la scena finisce lì. 🔀 *Post-sessione (riverifica Agente 3): Rennard non è stato giocato (scena trasferita alla Sessione 05), quindi la «Casata» non è arrivata «poche ore dopo»: arriverà in un'altra serata. Se lo spotlight è stato giocato (non registrato, [TODO DM]) e Bakaris ha toccato la famiglia di Razak, tenerne conto nella scena di S05.*
 
 *Alternative, se Razak non è al tavolo:* **Brynja** (una nana che porta il mantello di un Ordine che non la registra — ma Bakaris non conosce questo dettaglio, può solo irriderne la specie). Garrick no: nessuno a Vogler sa che era un Firewatch, e Bakaris non ha modo di saperlo.
 
 ---
 
-## FASE 5 — Sistemazione e Nuovi Doveri
+## FASE 5 — Sistemazione e Nuovi Doveri ✅ GIOCATA 🔀 (Wyhan: rotolo consegnato, alchimia e stash improvvisati · Registro di Rennard ⏸️ non giocato)
 
 *~50 minuti · Il ritorno al campo, l'apotecaria di Wyhan e gli archivi di Rennard (entrambe opzionali), l'incontro con Vendri, gli alloggi, gli ordini di Darrett*
 
@@ -408,7 +408,7 @@ Una volta garantita la sicurezza dei superstiti, i personaggi sono liberi di esp
 
 ---
 
-### Messaggio per una Maga *(scena opzionale — Garrick ha il rotolo per Wyhan da "Occhio nel Cielo")*
+### Messaggio per una Maga *(scena opzionale — Garrick ha il rotolo per Wyhan da "Occhio nel Cielo")* ✅ GIOCATA 🔀 (predizione: Vesti Rosse · Wyhan addestrerà Garrick in alchimia e gli ha rivelato la sua scorta segreta — improvvisato)
 
 **Garrick** ha ancora con sé il rotolo sigillato destinato a **Wyhan**, la Maga dell'Alta Stregoneria, ricevuto da Rovina al Barb (`campagna/party.md`): può trovarla alla sua Apotecaria. Se Garrick non cerca la scena, non forzarla — il rotolo resta in tasca e la scena si gioca più avanti a Kalaman (vedi FASE 10).
 
@@ -437,7 +437,7 @@ Se un personaggio interessato a unirsi ai Maghi dell'Alta Stregoneria si present
 
 *[NOTA DM — riservata] Non rivelare subito questa predizione al giocatore — emerge più avanti nella conversazione con Wyhan.*
 
-*[NOTA DM — riservata] Hook per Garrick — la predizione non è la veste.* Il rotolo gli è stato consegnato con l'indicazione di non aprirlo: **verifica al tavolo se l'ha aperto** (non è registrato). Qualunque colore dica Wyhan, è **il suo parere**, non l'esito: la veste di Garrick si decide alla **Prova dell'Alta Stregoneria in Sessione 17** (Demelin, Città dei Nomi Perduti — atterraggio previsto Vesti Rosse, ma nessun esito va pilotato; `fonti/personaggi/Garrick-Ashwatch.md`). Due accortezze: (1) la sua scelta dichiarata finora è *«il rosso è quello che sento di più, ma non spetta a me decidere»* — se Wyhan gli dice un altro colore, lascia che la frase gli pesi; (2) la promessa di un passaggio fino a **Wayreth** resta una promessa senza data: la Prova arriverà altrove e più tardi, e nulla qui deve fissarne il luogo o il momento.
+*[NOTA DM — riservata] Hook per Garrick — la predizione non è la veste.* Il rotolo gli è stato consegnato con l'indicazione di non aprirlo: **verifica al tavolo se l'ha aperto** (non è registrato). Qualunque colore dica Wyhan, è **il suo parere**, non l'esito: la veste di Garrick si decide alla **Prova dell'Alta Stregoneria in Sessione 17** (Demelin, Città dei Nomi Perduti — atterraggio previsto Vesti Rosse, ma nessun esito va pilotato; `fonti/personaggi/Garrick-Ashwatch.md`). Due accortezze: (1) la sua scelta dichiarata finora è *«il rosso è quello che sento di più, ma non spetta a me decidere»* — se Wyhan gli dice un altro colore, lascia che la frase gli pesi; (2) la promessa di un passaggio fino a **Wayreth** resta una promessa senza data: la Prova arriverà altrove e più tardi, e nulla qui deve fissarne il luogo o il momento. ✅ *Post-sessione (riverifica Agente 3): Wyhan ha predetto le **Vesti Rosse**, il colore che Garrick sente di più: il caso (1) non è scattato, e resta valido che è un parere, non l'esito di S17. **Rotolo aperto o no: ancora [TODO DM].** Le Rosse escono con «buono + aperto», con «neutrale» in entrambi i casi o con «malvagio + non aperto», e l'allineamento di Garrick non è registrato (né in scheda né in `party.md`): se è buono, la predizione dice che l'ha aperto. L'addestramento in alchimia e la scorta segreta (*stash*) di Wyhan sono improvvisati al tavolo e non toccano la Prova: contenuto e termini [TODO DM], niente da dedurre da questa nota.*
 
 Wyhan è scettica verso chiunque esprima interesse per l'Ordine e pone queste domande:
 - *"Perché pensi di essere degno di usare la magia?"*
@@ -460,7 +460,7 @@ Wyhan risponde volentieri a un paio di domande in più sui Maghi dell'Alta Streg
 
 ---
 
-### Il Registro di Rennard *(scena opzionale — Razak ha la lettera di Becklin, ricevuta in Sessione 03)*
+### Il Registro di Rennard *(scena opzionale — Razak ha la lettera di Becklin, ricevuta in Sessione 03)* ⏸️ NON GIOCATA — 🔀 TRASFERIRE A SESSIONE 05 (opzionale; la busta è ancora a Razak)
 
 Il destinatario della busta si trova senza difficoltà: la **Sala degli Archivi** è una stanza al primo piano del Castello di Kalaman, accanto agli uffici del governatorato, aperta negli orari d'ufficio.
 
@@ -616,7 +616,7 @@ Mentre i personaggi si sistemano nei loro alloggi, Darrett entra. Dopo averli sa
 
 Darrett risponde a qualsiasi domanda dei personaggi, ma non sa molto su Kalaman o sulle missioni a venire. È sincero nel suo desiderio di aiutare i personaggi ed emozionato di trovarsi in un castello dove un tempo camminavano i Cavalieri di Solamnia. È ansioso di imparare da questa esperienza, sperando che un giorno lo aiuti a diventare un vero Cavaliere di Solamnia.
 
-*[NOTA DM — riservata] Se la cassa di Becklin non è stata consegnata in FASE 1*, questo è l'ultimo momento naturale della giornata: Darrett è nella sala, e la scena di FASE 1 si gioca qui identica (hook per Razak compreso — **non duplicarlo** se è già stato giocato al campo). Razak ha già quattro momenti suoi in questa metà di sessione (armatura, cortile, Consiglio, Rennard): non aggiungerne altri con Darrett.*
+*[NOTA DM — riservata] Se la cassa di Becklin non è stata consegnata in FASE 1*, questo è l'ultimo momento naturale della giornata: Darrett è nella sala, e la scena di FASE 1 si gioca qui identica (hook per Razak compreso — **non duplicarlo** se è già stato giocato al campo). Razak ha già quattro momenti suoi in questa metà di sessione (armatura, cortile, Consiglio, Rennard): non aggiungerne altri con Darrett.* *✅ Post-sessione (riverifica Agente 3): la cassa l'ha consegnata Razak (dove e quando non registrato); Rennard non è stato giocato e slitta a S05, quindi dei quattro momenti in S04 ne manca almeno uno.*
 
 Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la loro prima missione al mattino.
 
@@ -638,19 +638,19 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 
 | Preludio / PG | Hook nelle FASI 1-5 |
 |----------|---------------------|
-| **Occhio nel Cielo (*Eye in the Sky*)** (Garrick, il rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (la Prova dell'Alta Stregoneria, che si gioca in **Sessione 17** — la predizione di Wyhan non è l'esito, vedi la nota nella scena). |
+| **Occhio nel Cielo (*Eye in the Sky*)** (Garrick, il rotolo per Wyhan) | Questo è il momento payoff diretto: il rotolo può finalmente essere consegnato nella scena "Messaggio per una Maga" (Fase 5). Non forzare la scena se il giocatore non la cerca attivamente — ma se la cerca, dalle spazio: è un arco di due sessioni che si chiude qui, aprendone uno nuovo (la Prova dell'Alta Stregoneria, che si gioca in **Sessione 17** — la predizione di Wyhan non è l'esito, vedi la nota nella scena). ✅ **Post-sessione:** consegnato, predizione Vesti Rosse. Il filo nuovo non è solo la Prova: Wyhan, improvvisando al tavolo, ha accettato di addestrarlo in alchimia e gli ha rivelato la sua scorta segreta (termini [TODO DM], vedi FASE 5). |
 | **Garrick** (Kalaman) | Unico del gruppo che conosca già la città: le fiere autunnali, i conti dei grani, **Ilyana** (Fase 2). Opzionale, e solo se il "foglio mancante" è stato ripreso: le croci sulla mappa di Vendri (Fase 5). |
 | **Silenzio Infranto (*Broken Silence*)** (Brynja, Corin) | La tabella "Disagi del Campo Profughi" (voce 2, la caviglia storta) è un'occasione naturale per un piccolo gesto di grazia divina in pubblico — dopo il "vero miracolo" della Sessione 02, i profughi che lo videro potrebbero cercare di nuovo quel personaggio per un aiuto minore. Un piccolo momento, non un evento — la comunità comincia silenziosamente a considerarlo qualcosa di più di un semplice compagno di viaggio. ⚠️ **La voce 2 serve anche a Razak** (`fonti/personaggi/Razak-Kendall.md`: la sistema con le mani e viene scambiato per un sacerdote): assegnala a **chi si avvicina per primo**, non giocarla due volte. Il seguito naturale per Brynja e Corin è l'infermeria di Fase 5. **[TODO DM] Stato degli slot:** in apertura di S03 erano a zero; non è registrato se la notte sul Vingaard valga come riposo lungo — verificalo su Foundry prima di sederti. |
 | **Brynja** (Castello) | Le statue di **Kiri-Jolith**, il dio di Roderick, riconosciute senza tiro (Fase 5, "Statuaria Solamnica"). Candidata naturale a "mentore" di Darrett dopo l'armatura (Fase 1). |
 | **Corin** | L'infermeria dei profughi (Fase 5). La notizia sulla Pozza **solo se decisa** — [TODO DM], vedi Fase 5. |
 | **Asurion** ↔ Lord Bakaris | Il tuffo nel fiume di Sessione 01 è il torto vero che Bakaris può usare al Consiglio (Fase 4). Bakaris è -3 verso di lui. |
 | **Razak** ↔ Bakaris il Giovane | Il ricevimento funebre si paga nel cortile (Fase 3): Bakaris il Giovane cerca Razak, non il gruppo. Non rivelare Garrick. |
-| **Razak** ↔ Lord Bakaris | Lo spotlight del Consiglio è suo (Fase 4, "Spotlight Razak"): senza titolo, senza cognome verificabile. Richiama, senza anticiparla, la domanda *«Casata»* di Rennard. |
+| **Razak** ↔ Lord Bakaris | Lo spotlight del Consiglio è suo (Fase 4, "Spotlight Razak"): senza titolo, senza cognome verificabile. Richiama, senza anticiparla, la domanda *«Casata»* di Rennard. 🔀 *Post-sessione: Rennard slitta a S05, il richiamo cade a una serata di distanza e non a poche ore.* |
 | **Scaglie di Guerra (*Scales of War*)** (tutti) | **Rhys**, il giovane contadino salvato nella Sessione 00, **non è ricomparso in scena** nelle Sessioni 01-03 (non registrato). Se lo vuoi tra i superstiti al campo in Fase 1 o Fase 5 è plausibile — tutti gli abitanti di Vogler sono stati messi in salvo — ma è una tua scelta, non un fatto già accaduto. Se c'è, cerca attivamente i personaggi per ringraziarli e offrire il proprio aiuto — diventa un alleato devoto da questo punto in poi. Usalo come manodopera silenziosa, informatore tra i profughi, o comparsa affettuosa nelle sessioni future a Kalaman. |
-| **Razak + Brynja** (lettera di Becklin, Sessione 03) | Il contraltare esatto del rotolo di Wyhan, e cade nella stessa fase: **"Il Registro di Rennard"** (Fase 5). Razak consegna una busta che non ha aperto; Brynja non sa perché è stata portata lì finché il cancelliere non tira fuori il suo fascicolo. È l'unica scena della sessione dedicata ai due scudieri irregolari — *"la stessa eccezione fatta due volte"* (`campagna/party.md`). Gioca Rennard piatto: il peso lo fanno le caselle del modulo, non le sue battute. |
+| **Razak + Brynja** (lettera di Becklin, Sessione 03) | Il contraltare esatto del rotolo di Wyhan, e cade nella stessa fase: **"Il Registro di Rennard"** (Fase 5). Razak consegna una busta che non ha aperto; Brynja non sa perché è stata portata lì finché il cancelliere non tira fuori il suo fascicolo. È l'unica scena della sessione dedicata ai due scudieri irregolari — *"la stessa eccezione fatta due volte"* (`campagna/party.md`). Gioca Rennard piatto: il peso lo fanno le caselle del modulo, non le sue battute. ⏸️ **Post-sessione (solo S04, non copiare in S05):** non giocata, la busta è ancora a Razak e la scena passa a S05. In questa sessione Razak e Brynja sono stati invece **gli unici a giurare** all'esercito di Kalaman (scudieri di Kalaman, FASE 4). |
 | **Tutti** | La cassa di Becklin (Fase 1 — recuperata a Thornwall Keep in Sessione 03, FASE 0A, non ancora consegnata) è un momento condiviso — l'intero gruppo ha partecipato al recupero, e la gratitudine di Darrett è rivolta a tutti loro insieme. Il momento privato dentro quello condiviso è di **Razak**, lo scudiero che non ha mai portato armatura (nota in Fase 1). |
 
-*[NOTA DM — riservata] Bilanciamento spotlight FASI 1-5:* Razak è il più carico (armatura, cortile, Consiglio, Rennard) — non aggiungergli altro. Asurion ha un solo momento, al Consiglio, e dipende dal fatto che prenda la parola: se resta ai margini, la guida è l'unico del gruppo che sappia leggere una strada nuova, e il cammino di due miglia verso la città (Fase 2) è suo senza bisogno di tiri.
+*[NOTA DM — riservata] Bilanciamento spotlight FASI 1-5:* Razak è il più carico (armatura, cortile, Consiglio, Rennard) — non aggiungergli altro. *(Post-sessione: Rennard ⏸️ slitta a S05; in S04 Razak ha avuto l'armatura, consegnata da lui, e da piano cortile e Consiglio, con esiti non registrati.)* Asurion ha un solo momento, al Consiglio, e dipende dal fatto che prenda la parola: se resta ai margini, la guida è l'unico del gruppo che sappia leggere una strada nuova, e il cammino di due miglia verso la città (Fase 2) è suo senza bisogno di tiri.
 
 ---
 
@@ -685,7 +685,7 @@ Dopo questo, i personaggi hanno il resto della giornata libera. Riceveranno la l
 
 ---
 
-## FASE 6 — Ordini al Mattino
+## FASE 6 — Ordini al Mattino ✅ GIOCATA (come da piano)
 
 *~15 minuti · Il briefing di Darrett, gli ordini di Vendri, la partenza da Kalaman*
 
@@ -723,7 +723,7 @@ Darrett non sa molto di più, ma fornisce ai personaggi indicazioni precise per 
 
 ---
 
-## FASE 7 — Il Viaggio lungo Esker Brook
+## FASE 7 — Il Viaggio lungo Esker Brook ✅ GIOCATA (come da piano — incontri usciti non registrati)
 
 *~30 minuti · Le terre a sud di Kalaman, il lore di Nightlund, gli incontri nell'entroterra*
 
@@ -756,7 +756,7 @@ Un personaggio che supera **Intelligenza (Storia) CD 12** conosce questo dettagl
 
 ---
 
-## FASE 8 — L'Officina Assediata
+## FASE 8 — L'Officina Assediata ✅ GIOCATA (come da piano — esito dello scontro e del prigioniero non registrati)
 
 *~55 minuti · L'arrivo alla casa di Rookledust, la battaglia contro i goblinoidi, le trappole impazzite, l'interrogatorio*
 
@@ -864,7 +864,7 @@ Il villaggio a cui i goblinoidi si riferiscono è **Vogler** — ma loro non ne 
 
 ---
 
-## FASE 9 — Incontro con Rookledust
+## FASE 9 — Incontro con Rookledust ✅ GIOCATA (come da piano — fargab donato)
 
 *~35 minuti · La gnoma esce allo scoperto, la conversazione, la verità sul boilerdrak, il dono del fargab*
 
@@ -923,7 +923,7 @@ Rookledust chiama la sua ultima invenzione il "***fargab***" (vedi *appendice A*
 
 ---
 
-## FASE 10 — Ritorno a Kalaman
+## FASE 10 — Ritorno a Kalaman ✅ GIOCATA (come da piano)
 
 *~15 minuti · Il viaggio di ritorno, l'accoglienza di Rookledust, il tempo libero, l'anticipo delle prossime missioni*
 
@@ -960,7 +960,7 @@ Il resto della giornata è libero. Questo è un buon momento per:
 
 | Preludio | Hook nella Prima Missione (FASI 6-10) |
 |----------|---------------------|
-| **Occhio nel Cielo (*Eye in the Sky*)** (Garrick, thread Maghi dell'Alta Stregoneria) | Rookledust non è una maga, ma è l'incarnazione del "sapere applicato" — un contraltare tecnico alla magia. Garrick può trovare stimolante (o irritante) il suo pragmatismo da ingegnere: *"La magia è affascinante, certo, ma si può replicare? Si può migliorare? No? Allora io preferisco gli ingranaggi."* Piccolo spunto tematico, non un arco. Il thread di Wyhan resta in sospeso fino al prossimo capitolo. |
+| **Occhio nel Cielo (*Eye in the Sky*)** (Garrick, thread Maghi dell'Alta Stregoneria) | Rookledust non è una maga, ma è l'incarnazione del "sapere applicato" — un contraltare tecnico alla magia. Garrick può trovare stimolante (o irritante) il suo pragmatismo da ingegnere: *"La magia è affascinante, certo, ma si può replicare? Si può migliorare? No? Allora io preferisco gli ingranaggi."* Piccolo spunto tematico, non un arco. Il thread di Wyhan resta in sospeso fino al prossimo capitolo. 🔀 *Post-sessione: vale per le notizie sulla Prova, non per il rapporto con Wyhan. L'addestramento in alchimia, improvvisato in FASE 5, è aperto a Kalaman da subito (termini [TODO DM]); in quelle visite Wyhan non anticipa niente sulla Prova.* |
 | **Silenzio Infranto (*Broken Silence*)** (Brynja, Corin) | I goblinoidi portano il **simbolo di Takhisis**. Per Brynja e Corin, che portano i simboli sacri di divinità buone (Mishakal e Habbakuk, `campagna/party.md`) e hanno appena dormito sotto le statue di Kiri-Jolith al Castello di Kalaman (FASE 5), vedere l'emblema della Regina dei Draghi su nemici in carne e ossa è un momento di risonanza: la guerra non è più astratta, è teologia fatta acciaio. Un piccolo gesto — un segno sacro tracciato prima della battaglia, una preghiera per i caduti dopo — dà spessore senza rallentare l'azione. |
 | **Scaglie di Guerra (*Scales of War*)** (tutti) | La **fattoria bruciata** (Incontri nell'Entroterra, voce 3) e il fatto che il nemico usi **Vogler bruciata come base avanzata** (rivelato dall'interrogatorio) colpiscono l'intero gruppo: il villaggio che hanno difeso ed evacuato non è solo perduto, è stato *occupato*. È un ottimo carburante per la determinazione condivisa del party — e un seme per il desiderio di riprendersi la regione. |
 | **Tutti** | Rookledust è l'inconsapevole artefice dell'arma che ha bruciato Vogler. Come il party reagisce a questa verità — condanna, perdono, pragmatismo — è un momento condiviso che definisce il loro carattere collettivo. Non c'è risposta "giusta": lascia che siano i giocatori a scegliere il tono. Il party ha **combattuto l'equipaggio del boilerdrak** al molo (Sessione 03): la rivelazione non è *che cosa* fosse, ma *chi* l'ha costruito. |
@@ -1004,7 +1004,7 @@ Con un prigioniero e un **Carisma (Intimidazione/Persuasione) CD 14**, il party 
 | Missione | Dove | Nemici | Aggancio a Thread Aperti |
 |----------|------|--------|--------------------------|
 | **Tendere un'Imboscata al Nemico (*Ambushing the Enemy*)** | Fattoria 18 miglia a est | 1 Soldato dell'Armata dei Draghi (*Dragon Army soldier*) + 6 hobgoblin | Bottino: 200 mo, 5 cotte di maglia nere, messaggio della Gran Maestra |
-| **Blocco Draconico (*Draconian Blockade*)** | 20 miglia a est, guado del Raiding Rill | 5 baaz + 1 bozak draconian | Primo scontro con **draconiani** veri; bottino: 120 mo, *driftglobe* |
+| **Blocco Draconico (*Draconian Blockade*)** | 20 miglia a est, guado del Raiding Rill | 5 baaz + 1 bozak draconian | Primo **bozak** (esplode morendo); bottino: 120 mo, *driftglobe* |
 | **Esploratori Scomparsi (*Missing Scouts*)** | 20 miglia a nordovest (6 a est di Vogler) | 2 baaz + 1 kapak draconian | Scout catturato rivela il piano: isolare Kalaman da Maelgoth e Palanthas; +100 mo cad. |
 | **Ritorno delle Truppe (*Troops Return*)** | Lungo la strada, durante un'altra missione | — (incontro narrativo) | **Ritorna Cudgel Ironsmile** — dispersa, non morta, si è ritirata coi superstiti — e il Reggimento Ironclad! Possibile ritorno di **Becklin** (catturata in Sessione 03) e altri superstiti di Vogler |
 
@@ -1022,16 +1022,16 @@ Con un prigioniero e un **Carisma (Intimidazione/Persuasione) CD 14**, il party 
 | Il Fargab | Dispositivo di comunicazione donato da Rookledust: aggancio meccanico che tornerà cruciale nell'attacco a Kalaman | Media → payoff Cap. 4 avanzato |
 | Vogler come base nemica | I goblinoidi dovevano portare l'arma a Vogler bruciata: il nemico occupa il villaggio che il party ha evacuato | Media → motore emotivo |
 | Kansaldi Fire-Eyes — l'occhio di brace | Primo indizio diretto sul boss del capitolo dall'interrogatorio del prigioniero | Bassa → arco lungo |
-| La Prova di Wyhan | Se il rotolo è stato consegnato (FASE 5 di questa sessione), il PG riceverà notizie sulla Prova dell'Alta Stregoneria all'inizio del prossimo capitolo | Media → Cap. 5 |
+| La Prova di Wyhan | Se il rotolo è stato consegnato (FASE 5 di questa sessione), il PG riceverà notizie sulla Prova dell'Alta Stregoneria all'inizio del prossimo capitolo. ✅ *Post-sessione: consegnato da Garrick, predizione Vesti Rosse. Filo separato e già attivo: l'alchimia con Wyhan [TODO DM].* | Media → Cap. 5 |
 | **Il destino di Becklin** | ✅ **Risolto in Sessione 03, FASE 0D: catturata.** Jeyev l'ha vista portare via e ne ha recuperato l'elmo, consegnato a Darrett. Resta un filo **aperto ma non irrisolto**: può riapparire come prigioniera nei Cap. 4-5, e "Ritorno delle Truppe" è la sede naturale | Alta → Cap. 4-5 |
 | **Il destino di Cudgel Ironsmile** | **[NOTA DM — riservata]** Dispersa, non morta: ritirata coi superstiti dell'Ironclad dopo la battaglia al fronte di Sessione 03. Il party non lo sa — riappare quando si programma "Ritorno delle Truppe" | Alta → "Ritorno delle Truppe" |
-| **L'estratto autenticato di Rennard** | Se la lettera è stata consegnata (FASE 5 di questa sessione): Razak è a registro per la prima volta, la candidatura di Brynja resta ferma da nove anni. La carta serve **nel Cap. 7**, per rendere difendibile l'investitura di S19 davanti all'Ordine dei vivi | Bassa ora → Alta nel Cap. 7 |
+| **L'estratto autenticato di Rennard** | Se la lettera è stata consegnata (FASE 5 di questa sessione): Razak è a registro per la prima volta, la candidatura di Brynja resta ferma da nove anni. La carta serve **nel Cap. 7**, per rendere difendibile l'investitura di S19 davanti all'Ordine dei vivi. ⏸️ *Post-sessione (solo S04): non consegnata, la busta è a Razak e la scena passa a S05.* | Bassa ora → Alta nel Cap. 7 |
 | Rhys come alleato | Salvato in Sessione 00 (+2 Amichevole, `campagna/rapporti.md`); se lo fai ricomparire tra i profughi, resta a Kalaman come sostenitore devoto del party | Bassa → ricorrente |
 | Lord Bakaris — rivalità politica | Umiliato al consiglio (FASE 4 di questa sessione); trama nell'ombra per screditare i personaggi. -3 verso Asurion (il fiume), -2 verso gli altri | Media → ricorrente fino a fine Cap. 4 |
 | Bakaris il Giovane ↔ Razak | -3 Ostile verso Razak per un'umiliazione che è di Garrick (e non lo sa). Nel cortile (FASE 3) porta la mano all'elsa; ha già ucciso un uomo in duello a Estwilde | Media → seme, nessuna data |
 | Il mandante di Gragonis | Ancora ignoto (aperto da Sessione 02, nessun indizio nuovo in Sessione 03). Nessuna scena di questa sessione lo tocca: lo «straniero in armatura rossa e nera» di Rookledust (FASE 9) è un agente dell'Armata, **non** va collegato a Gragonis a meno che non lo facciano i giocatori | Bassa → aperto |
 | Nightlund / Lord Soth | Il lore di Nightlund (ex Knightlund di Soth) seminato in Fase 7; la sua presenza si avvicina | Bassa → tema ricorrente |
-| I Draconiani | Il party non ne ha ancora affrontato uno vero: le missioni modulari saranno il primo scontro diretto | Media → arco dell'Armata dei Draghi |
+| I Draconiani | Baaz affrontati in S00 e a Vogler (S03), il kapak visto fuggire in S00: le missioni modulari portano il kapak in mischia e il primo bozak | Media → arco dell'Armata dei Draghi |
 
 ---
 
@@ -1268,3 +1268,84 @@ Revisione del file ristrutturato (FASI 1-5 Kalaman trasferite dalla S03 + Prima 
 | FASE 9 — Parlando con Rookledust | Elenco senza testo da recitare | Aggiunto **Da recitare — Rookledust** (non collega lei lo scaccia-erbacce a Vogler: il collegamento resta ai giocatori) |
 
 **Riquadri rivisti:** 8 su 15 · **Lasciati intatti:** BT-00, BT-01, BT-02, BT-08, BT-09b, BT-09c, BT-11 · Nessuna Villain Action in questo file.
+
+---
+
+## 📋 ACCADUTO IN SESSIONE — Agente 0 (Fase B)
+
+**Basato su:** `campagna/sessioni/recaps/recap-sessione-04.md`
+**Sessione chiusa a:** fine FASE 10 (ritorno a Kalaman). Tutte le FASI 1-10 sono state giocate come da piano, con le deviazioni nella tabella sotto. Il recap non registra se la serata sia stata spezzata (vedi «✂️ Dove spezzare»).
+
+### Tabella Delta — Piano vs Realtà
+
+| Area | Piano (questo file) | Realtà (recap) | Impatto |
+|---|---|---|---|
+| FASI 1-10 (struttura) | Dieci fasi, ~5h: Kalaman (1-5) e Prima Missione (6-10) | Giocate tutte come da piano, salvo i delta qui sotto | Nessuno sulla struttura: Sessione 05 parte da fine FASE 10 |
+| **Arruolamento (FASE 4)** | «Solo uno dei personaggi deve giurare», anche tutti gli altri benvenuti | **Hanno giurato solo Razak e Brynja**: scudieri di Kalaman, 5 mo/settimana, emblema blu e oro. Garrick, Asurion e Corin no | Paga ed emblema solo per Razak e Brynja; alloggio al Castello comunque per tutti (compagni di chi ha giurato). Garrick, Asurion e Corin senza grado: da tenere presente quando Vendri dà ordini |
+| **Cassa di Becklin (FASE 1)** | Consegna a Darrett, ammessa anche in FASE 5 | **Consegnata da Razak a Darrett.** Dove e quando non registrato | Scena chiusa: l'armatura e l'elmo di Becklin sono ora di Darrett. Niente da trasferire |
+| **Rotolo per Wyhan (FASE 5)** | Scena opzionale; predizione dalla tabella | **Consegnato da Garrick.** Wyhan predice le **Vesti Rosse** | La predizione è un parere, non l'esito: la veste si decide alla Prova dell'Alta Stregoneria (Sessione 17). Se Garrick abbia aperto il rotolo non è registrato [TODO DM] |
+| **Alchimia e stash di Wyhan (FASE 5)** | Non previsti | **Improvvisato:** Garrick è tornato a chiedere l'addestramento in alchimia, Wyhan ha accettato e gli ha rivelato la sua **scorta segreta (*stash*)** | Materia nuova, non in manuale né nel piano. Contenuto, luogo, tempi e costi non registrati [TODO DM]. Attitudine di Wyhan da riaggiornare |
+| **Il Registro di Rennard (FASE 5)** | Scena opzionale; la busta di Becklin va al Cancelliere | **Non giocata.** La busta resta in mano a Razak | Scena opzionale trasferita a Sessione 05 (vedi sotto). Rennard non incontrato: attitudine e hook di Razak e Brynja restano inattivi |
+| Esiti aperti FASI 1-5 | Tabella d4 del campo, Delegazione Mancante, cortile con Bakaris il Giovane, Consiglio (CD 14, Raven, Asurion), spotlight Razak, paga e armeria, Rhys | Il recap non registra gli esiti | Nessun esito inventato: tutto in TODO DM. Atteggiamenti PNG restano quelli del piano |
+| Prima Missione (FASI 6-10) | Viaggio, incontri nell'Entroterra, assedio (10 goblin + hobgoblin), prigioniero, Rookledust, fargab, ritorno | Giocata come da piano. Solo il fargab (dono di Rookledust) è confermato | Esiti di scontro, XP, prigioniero, incontri, spotlight tecnico e reazione al boilerdrak non registrati [TODO DM] |
+| XP e livello | Nessun avanzamento; fino a 600 XP per PG solo con vittoria completa | Livello 4 confermato; XP guadagnati non registrati | Sessione 05 parte da Livello 4. Il Livello 5 arriva dopo le Missioni per Kalaman |
+| Slot e riposo | Aperto: la notte sul Vingaard valeva come riposo lungo? | Non registrato | Resta [TODO DM], da verificare su Foundry |
+
+### Scene da Trasferire a Sessione 5
+
+- **Il Registro di Rennard** *(scena opzionale, FASE 5)* — la busta di Becklin è ancora a Razak. **Da copiare integralmente (verbatim) da `campagna/sessioni/dm-notes-sessione-04.md`, righe 463-528** (dal titolo `### Il Registro di Rennard` fino alla `[NOTA DM — riservata] A cosa serve davvero questa scena`, esclusa la `---` di riga 530). Comprende: [BT-09b] «La Sala degli Archivi», presentazione del Cancelliere Aldous Rennard, «La consegna», [BT-09c] «Le Domande di Rennard», «Il fascicolo di Brynja», «Cosa consegna», «L'ultima domanda», prove opzionali, nota sul Cap. 7.
+- **Materiale collegato da portare con la scena** (stesso file):
+  - riga 650: hook PG «Razak + Brynja (lettera di Becklin)»;
+  - riga 631: attitudine del Cancelliere Aldous Rennard (0 Neutrale);
+  - riga 664: riferimento «Sala degli Archivi» (Castello di Kalaman, 1° piano), tabella Luoghi di Kalaman;
+  - riga 1028: thread «L'estratto autenticato di Rennard».
+
+Nessun'altra fase o scena risulta non giocata.
+
+### TODO DM Aperti
+
+1. **Data** della serata.
+2. ✅ **XP** — assegnati per intero, 600 per PG (confermato dal DM).
+3. **Prigioniero / interrogatorio** (FASE 8): catturato e interrogato? Cosa ha appreso il party (Armata dei Draghi Rossi, «l'arma», la donna dall'occhio di brace, Vogler come base)?
+4. ✅ **Fargab** — lo tiene **Asurion** (confermato dal DM).
+5. **Garrick e il rotolo:** lo aveva aperto prima della consegna? Come ha reagito alla predizione?
+6. **Stash di Wyhan e alchimia di Garrick:** contenuto, luogo, tempi, costi, competenza negli strumenti da alchimista, eventuale contropartita richiesta da Wyhan. Attitudine di Wyhan aggiornata.
+7. **Consiglio (FASE 4):** come è stato smontato Lord Bakaris (Raven, CD 14, precedente del figlio a Vogler)? Asurion ha preso la parola? Spotlight di Razak giocato? Attitudini di Miat, Vendri, Bakaris.
+8. **Cortile (FASE 3):** Bakaris il Giovane ha cercato Razak? Com'è finita?
+9. **Rookledust:** quale attitudine (+1 o +2)? Spotlight tecnico (Razak, Than/Mount Nevermind) giocato? Reazione del party alla rivelazione del boilerdrak?
+10. **Paga e armeria:** ritirato il primo pagamento di 5 mo? Equipaggiamento preso dall'armeria?
+11. **Campo profughi e Entroterra:** quali voci della tavola d4 e quali incontri della FASE 7 sono usciti? Rhys è comparso?
+12. **Slot e riposo:** la notte sul Vingaard valeva come riposo lungo?
+13. **Lettera di Becklin:** quando consegnarla (Sessione 05, scena opzionale, o più avanti)?
+
+**Stato:** file annotato con marcatori di fase, tabella delta e lista di trasferimento. Il testo delle fasi non è stato riscritto. Nessuna modifica applicata a `dm-notes-sessione-05.md` in questo passaggio: resta ai passaggi successivi della pipeline.
+
+---
+
+## 🎭 RIVERIFICA HOOK PG — Agente 3 (post-sessione S04)
+
+Note DM riservate sui PG verificate contro la realtà giocata (`recaps/recap-sessione-04.md`, delta qui sopra, `party.md`, `fonti/personaggi/*.md`, segreti in `contesto.md`). **Nessun hook nuovo.** Le correzioni sono annotazioni in coda alla riga originale (🔀/⏸️/✅ «Post-sessione»): il testo delle fasi non è stato riscritto e **nessuna riga è stata aggiunta sopra questa sezione**, quindi i numeri di riga citati in «Scene da Trasferire a Sessione 5» restano validi.
+
+**Corretti (invalidati dai delta):**
+- **FASE 4 — Spotlight Razak:** il doppione con la «Casata» di Rennard «poche ore dopo» non c'è stato, perché Rennard passa a S05.
+- **FASE 5 — Wyhan, hook Garrick:** la predizione è Rosse, quindi il caso «altro colore» non è scattato. Il rotolo aperto resta [TODO DM]: le Rosse non lo chiudono senza l'allineamento di Garrick. Alchimia e *stash* restano fuori dalla Prova.
+- **FASE 5 — Ordini di Darrett:** conteggio dei momenti di Razak (manca Rennard). La cassa l'ha consegnata Razak.
+- **Hook FASI 1-5:** «Occhio nel Cielo» (si aggiunge il filo dell'alchimia), «Razak ↔ Lord Bakaris» (Rennard a S05), «Razak + Brynja» (non giocata; i due sono stati gli unici a giurare), bilanciamento spotlight.
+- **Hook FASI 6-10 — Occhio nel Cielo:** «il thread di Wyhan resta in sospeso fino al prossimo capitolo» vale solo per la Prova; il rapporto con Wyhan è attivo da subito.
+- **Thread [S05]:** «La Prova di Wyhan» (rotolo consegnato), «L'estratto autenticato di Rennard» (busta non consegnata).
+
+**Confermati senza correzioni:**
+- **FASE 1 — armatura (Razak)** e riga «Tutti» della cassa: la consegna l'ha fatta proprio Razak, coerente con l'hook. La reazione non è registrata.
+- **FASE 7 / Hook Asurion** («un committente che non lo paga»): regge meglio di prima. Asurion **non ha giurato**: per Kalaman lavora senza paga, come vuole la battuta 2 dell'arco (`Asurion-Loech.md`).
+- **Giuramento parziale:** nessun hook presupponeva che giurassero tutti. Rookledust si fida anche «se mostrano l'emblema» (FASE 9), e l'emblema ce l'hanno Razak e Brynja.
+- **Garrick** (Ilyana in FASE 2, foglio mancante in FASE 5, Leedara/Soth in FASE 7), **Brynja** (Kiri-Jolith, mentore di Darrett), **Corin** (infermeria, Pozza), **Brynja + Corin** (Silenzio Infranto, simbolo di Takhisis), **Razak** (cortile, Rookledust): nessun delta li tocca. Gli esiti non registrati restano nei TODO DM qui sopra.
+- **Segreti** (Cudgel dispersa, Ser Maelis / filo nascosto): nessun delta li espone.
+
+**Anomalie da portare avanti (non toccate qui):**
+1. **Il Registro di Rennard (righe 463-528, da copiare verbatim in S05).** La nota a riga 493 regge la scena su Razak come *«l'uomo il cui nome non è mai stato scritto da nessuna parte»*, ma in S04 Razak ha giurato ed è scudiero di Kalaman a paga. Lo stesso vale per Brynja, ora scudiera di Kalaman mentre l'Ordine non la registra. Da rivedere nella riverifica hook di S05 (Step 6A.2).
+2. Le annotazioni «Post-sessione» sulle righe 650 e 1028 riguardano solo S04: **non vanno copiate** con il materiale collegato alla scena di Rennard.
+3. **Momento dell'alchimia:** il recap dice che Garrick «è poi tornato» da Wyhan. Potrebbe essere stato nel tempo libero della FASE 10, non nella FASE 5 indicata dal marcatore [TODO DM].
+4. `ai/agents/03-session-pc-integrator.agent.md`, Step 5: i «Segreti attivi» elencati (Friedrich Krauser/Aldric, Fizzra/Rennis Coalsworth, Vorador/Brottor) vengono da un'altra campagna e non corrispondono a nessun PG di questo party. Ignorati; da correggere nel file agente.
+5. `campagna/party.md` non è ancora aggiornato a S04: ultima sessione S03, cassa «non consegnata», rotolo ancora a Garrick. Se ne occupa lo Step 4 della pipeline.
+
+**Stato:** ✅ riverifica completata, 10 note corrette in riga, nessun hook aggiunto.

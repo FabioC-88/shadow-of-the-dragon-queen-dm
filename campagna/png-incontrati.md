@@ -78,12 +78,12 @@
 | **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
 | **Attitudine Attuale** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. ✅ **Sessione 03:** ha ricevuto da Jeyev l'elmo di Becklin al molo. **Non ha ancora ricevuto la cassa con l'armatura** — consegna in Sessione 04, FASE 1. Vedi `fonti/personaggi/Razak-Kendall.md` |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. ✅ **Sessione 03:** ha ricevuto da Jeyev l'elmo di Becklin al molo. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa** con la corazza a piastre solamnica: ha ora l'armatura e l'elmo di Becklin (dove e quando non registrato; reazione non registrata). È anche il messaggero di Vendri verso il party. Vedi `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
 |----|-----------|------|
-| Razak | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Si sono incontrati per la prima volta in Sessione 01, sulla strada per Thornwall Keep. Darrett ha passato due anni a sentirsi raccontare com'era il suo predecessore |
+| Razak | **+3 Alleato** *(consolidato, da +2, Sessione 03; invariato in Sessione 04)* | Si sono incontrati per la prima volta in Sessione 01, sulla strada per Thornwall Keep. Darrett ha passato due anni a sentirsi raccontare com'era il suo predecessore. ✅ Sessione 04: Razak gli ha consegnato la cassa di Becklin |
 
 ---
 
@@ -107,7 +107,7 @@
 | **Affiliazione** | Vogler |
 | **Tratto** | Leader comunitaria, protettiva con i suoi cittadini, flessibile nelle decisioni difficili |
 | **Attitudine Attuale** | **+2 Amichevole** (invariata) |
-| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco dell'Armata dei Draghi. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo. ✅ **Sessione 03:** sopravvissuta, ha guidato l'evacuazione di Vogler secondo i quattro compiti assegnati a inizio FASE 0A — tutti i 400 abitanti messi in salvo |
+| **Note** | Gestisce la comunità durante il Festival e la crisi dell'attacco dell'Armata dei Draghi. Facilita la fuga dei civili. **È una delle migliori pescatrici del villaggio** e ha vinto la gara del festival. ✅ **Sessione 02:** ha posto pubblicamente a Brynja la domanda sul ritorno degli dèi, **e Brynja ha risposto**. Poi **il party l'ha chiamata a mettere la propria autorità sulla fila dei malati**, dichiarando davanti a tutti che si sarebbero curati solo i più gravi: la coda ha retto, niente rissa e nessun morto. **[NOTA DM — riservata] È la testimone che smonta Lord Bakaris a Kalaman:** era presente quando i criteri sono stati dichiarati, ed era d'accordo. ✅ **Sessione 03:** sopravvissuta, ha guidato l'evacuazione di Vogler secondo i quattro compiti assegnati a inizio FASE 0A — tutti i 400 abitanti messi in salvo. ✅ **Sessione 04:** al campo profughi di Kalaman; non si fa più chiamare «sindaca» |
 
 ---
 
@@ -230,11 +230,12 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Governatore civile di Kalaman |
-| **Prima Apparizione** | Capitolo 4 |
+| **Prima Apparizione** | ✅ **Sessione 04** — Consiglio di Kalaman |
 | **Affiliazione** | Governo di Kalaman |
 | **Tratto** | Politico pragmatico; cauto, ma non vigliacco; misura i PG prima di fidarsi |
 | **Attitudine Iniziale** | 0 Neutrale |
-| **Note** | Contrappeso politico al Maresciallo Vendri. Il suo appoggio è utile per risorse e permessi in città |
+| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: 0 Neutrale → +1 Cordiale, dipende da come è andato il Consiglio)* |
+| **Note** | Contrappeso politico al Maresciallo Vendri. Il suo appoggio è utile per risorse e permessi in città. ✅ **Sessione 04:** la sua offerta di arruolamento è stata accettata, ma hanno giurato solo Razak e Brynja |
 
 ---
 
@@ -242,11 +243,12 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Comandante militare di Kalaman |
-| **Prima Apparizione** | Capitolo 4 |
+| **Prima Apparizione** | ✅ **Sessione 04** — Kalaman |
 | **Affiliazione** | Esercito di Kalaman |
 | **Tratto** | Diretta, esigente, rispetta i risultati sopra tutto il resto |
 | **Attitudine Iniziale** | 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci |
-| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7 |
+| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: +1 Cordiale, tende a +2 dopo la FASE 10; non registrato se il party ha riferito l'esito della Prima Missione)* |
+| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7. ✅ **Sessione 04:** condizioni dell'arruolamento da lei fissate (scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello); hanno giurato solo Razak e Brynja |
 
 ---
 
@@ -254,11 +256,12 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Maga dell'Alta Stregoneria (mantello nero), gestisce un'apotecaria a Kalaman |
-| **Prima Apparizione** | Capitolo 4 (Wyhan's Apothecary) |
+| **Prima Apparizione** | ✅ **Sessione 04** — Apotecaria di Wyhan, Kalaman |
 | **Affiliazione** | Maghi dell'Alta Stregoneria — **membro attivo e devoto**, non ritirata: la "ritirata" è solo la copertura dietro cui gestisce il negozio |
 | **Tratto** | Cinica, schietta, non si fida facilmente; conosce il suo valore |
 | **Attitudine Iniziale** | -1 Sospettoso |
-| **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi". *[Fonte: DSotDQ Cap. 4 — "though supposedly retired... a dedicated member of her organization"; confermato in `dm-notes-sessione-04.md`, FASE 5, come "profondamente devota alla propria organizzazione"]* |
+| **Attitudine Attuale** | **[TODO DM — da riaggiornare]** *(piano: 0 Neutrale a rotolo consegnato; poi ha accettato di addestrare Garrick)* |
+| **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi". *[Fonte: DSotDQ Cap. 4 — "though supposedly retired... a dedicated member of her organization"; confermato in `dm-notes-sessione-04.md`, FASE 5, come "profondamente devota alla propria organizzazione"]*. ✅ **Sessione 04:** **Garrick** le ha consegnato il rotolo sigillato; lei gli ha **predetto le Vesti Rosse** (è un parere, non l'esito della Prova). Garrick è poi tornato a chiederle di **addestrarlo in alchimia: ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. **[TODO DM]** contenuto/posizione dello stash, tempi, costi, contropartite |
 
 ---
 
@@ -292,11 +295,12 @@
 | Elemento | Valore |
 |----------|--------|
 | **Ruolo** | Inventrice gnoma; esperta di macchinari antichi Istariesi |
-| **Prima Apparizione** | Capitolo 5 |
+| **Prima Apparizione** | ✅ **Sessione 04** — la sua officina assediata (Prima Missione) |
 | **Affiliazione** | Indipendente; alleata del party |
 | **Tratto** | Entusiasta, iper-loquace (come ogni gnomo), geniale ma caotica |
 | **Attitudine Iniziale** | +1 Cordiale |
-| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della Città dei Nomi Perduti. I suoi gadget possono essere utili ma spesso danno risultati inaspettati |
+| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: +1 Cordiale / +2 Amichevole; il recap non dice quale)* |
+| **Note** | Risorsa chiave per comprendere e sabotare la tecnologia della Città dei Nomi Perduti. I suoi gadget possono essere utili ma spesso danno risultati inaspettati. ✅ **Sessione 04:** alleata ricorrente; ha donato al party il **fargab** (un solo set accoppiato, lo tiene **Asurion**) e accompagna il party a Kalaman, dove si installa. Reazione del party alla rivelazione sul boilerdrak: **[TODO DM]** |
 
 ---
 

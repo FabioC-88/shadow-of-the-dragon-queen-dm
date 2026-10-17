@@ -80,7 +80,7 @@ and move away. Coerente con l'originale: fugge se in inferiorità numerica.
 
 ## Sessione 05 — Le Vedette Perdute (Livello 4)
 
-### Il Posto di Vedetta: i Primi Draconiani
+### Il Posto di Vedetta: l'Agguato del Kapak
 
 **3× Baaz Draconian** (era 2, scalato per il quinto giocatore) + **1× Kapak Draconian (Ambusher)**. Stat block classici, come sempre in questa campagna.
 

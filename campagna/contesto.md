@@ -6,11 +6,11 @@
 - **Livello di partenza:** 1 (inizio vero al Cap 3)
 - **Livello finale:** 11
 - **Party:** **5 PG, tutti al tavolo dalla prima serata** — vedi la tabella qui sotto e `campagna/party.md`. Schede complete in `fonti/personaggi/`. *(**Corin Wrenmoor** resta un nome provvisorio: se Gabri lo cambia, va sostituito anche in `campagna/party.md` e nelle sessioni 00-01.)*
-- **Stato:** ✅ **Campagna iniziata il 13 settembre 2026.** Giocate le **Sessioni 00, 01 e 02**: la 00 e la 01 nella stessa serata (la 01 interrotta a metà della Battaglia di High Hill), la **02 il 20 settembre 2026**, chiusa in cima alle scogliere della Porta del Fiume. Le sessioni successive sono preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`): tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" oltre la Sessione 02 descrivono la **preparazione**, non la partita reale
-- **Capitolo corrente:** **3 — Quando Brucia la Casa (*When Home Burns*)** (High Hill conclusa, la notte della coda giocata, l'ultimatum ricevuto e le scogliere liberate; **Vogler è ancora in piedi** e cade nella Sessione 03)
-- **Prossima sessione:** **03 — La Caduta di Vogler**, che si apre **in cima alle scogliere** con la FASE 0 (evacuazione, invasione, Boilerdrak, Gholcag, l'ultima barca), e prosegue con l'arrivo a Kalaman
+- **Stato:** ✅ **Campagna iniziata il 13 settembre 2026.** Giocate le **Sessioni 00-04**: la 00 e la 01 nella stessa serata (13 settembre; la 01 interrotta a metà della Battaglia di High Hill), la **02 il 20 settembre 2026** (chiusa in cima alle scogliere della Porta del Fiume), la **03 il 27 settembre 2026** (caduta ed evacuazione di Vogler), la **04 il [TODO DM — data]** (Consiglio di Kalaman, Prima Missione dell'officina di Rookledust, ritorno a Kalaman). Le sessioni successive sono preparate in anticipo (vedi `campagna/sessioni/dm-notes-sessione-NN.md`): tutti i riferimenti a eventi "accaduti", livelli raggiunti o capitoli "conclusi" oltre la Sessione 04 descrivono la **preparazione**, non la partita reale
+- **Capitolo corrente:** **4 — L'Ombra della Guerra (*Shadow of War*)** (Vogler evacuata e bruciata in Sessione 03; il party è a Kalaman, arruolato in parte nell'esercito cittadino, e ha completato la Prima Missione)
+- **Prossima sessione:** **05 — Le Vedette Perdute** (vedi `campagna/sessioni/dm-notes-sessione-05.md`); porta con sé la scena opzionale «Il Registro di Rennard», non giocata in Sessione 04
 - **Durata Media Sessioni:** 2,5 ore
-- **Livello attuale del party (al tavolo):** **3** — il Livello 4 arriva a evacuazione completata, sulla barca, in Sessione 03
+- **Livello attuale del party (al tavolo):** **4** — assegnato sulla barca in Sessione 03; nessun avanzamento in Sessione 04 (il Livello 5 arriva dopo le «Missioni per Kalaman»)
 - **Preparazione arrivata a:** **Sessione 28 — il finale di campagna** (Cap. 7, "Kalaman Vittoriosa (*Kalaman Victorious*)"). Tutte le sessioni da 03 a 28 esistono già come dm-notes preparati; i contenuti si spostano in avanti man mano che le serate reali si accorciano — la Sessione 03 porta già dentro tutta la caduta di Vogler, che era della 02
 
 ### Struttura della Campagna
@@ -19,13 +19,13 @@
 
 ## Il Party
 
-| PG | Giocatore | Specie / Classe | Divinità | Note dopo la Sessione 02 |
+| PG | Giocatore | Specie / Classe | Divinità | Note (aggiornate alla Sessione 04) |
 |----|-----------|-----------------|----------|--------------------------|
-| **Razak Kendall** | — | Umano / Monaco (Ordine di Majere) | — | Ex scudiero di Becklin a Thornwall Keep. **Nemico personale: Bakaris il Giovane** |
-| **Garrick Ashwatch** | — | Umano / Mago (Alta Stregoneria) | — | Porta il rotolo sigillato per Wyhan. **Ha corteggiato Leedara** ed è l'unico che le abbia parlato. Ha un **famiglio corvo** senza nome fisso, già usato per la ricognizione del campo nemico |
-| **Brynja Daewar** | Eric | Nana di montagna / Chierica | **Mishakal** | ⚠️ Porta lo **Scudo Verde di Ispin**. Ha curato in pubblico su High Hill e poi tutta la notte al Brass Crab: **Vogler la conosce, e la messaggera dell'Armata dei Draghi l'ha notata**. Senza slot in apertura di Sessione 03 |
-| **Asurion Loech** | Seba | Elfo silvano Kagonesti / Barbaro | — | **Nemico personale: Lord Bakaris**, che ha buttato nel fiume |
-| **Corin Wrenmoor** *(nome provvisorio)* | Gabri | Umano / Druido | **Habbakuk** | Ha appreso il nome del proprio dio nel preludio. ⚠️ **Sessione 02: ha curato con incantesimi in pubblico anche lui** — il patto del gruppo è rotto da entrambi. Senza slot in apertura di Sessione 03 |
+| **Razak Kendall** | — | Umano / Monaco (Ordine di Majere) | — | Ex scudiero di Becklin a Thornwall Keep. **Nemico personale: Bakaris il Giovane**. ✅ S04: **scudiero di Kalaman** (giurato); ha consegnato la cassa a Darrett; tiene ancora la lettera di Becklin per Rennard |
+| **Garrick Ashwatch** | — | Umano / Mago (Alta Stregoneria) | — | Porta il rotolo sigillato per Wyhan. **Ha corteggiato Leedara** ed è l'unico che le abbia parlato. Ha un **famiglio corvo** senza nome fisso, già usato per la ricognizione del campo nemico. ✅ S04: ha consegnato il rotolo a Wyhan (predizione: Vesti Rosse) e ha ottenuto da lei l'addestramento in alchimia e lo *stash* (dettagli **[TODO DM]**). Non ha giurato per Kalaman |
+| **Brynja Daewar** | Eric | Nana di montagna / Chierica | **Mishakal** | ⚠️ Porta lo **Scudo Verde di Ispin**. Ha curato in pubblico su High Hill e poi tutta la notte al Brass Crab: **Vogler la conosce, e la messaggera dell'Armata dei Draghi l'ha notata**. Senza slot in apertura di Sessione 03. ✅ S04: **scudiera di Kalaman** (giurata) |
+| **Asurion Loech** | Seba | Elfo silvano Kagonesti / Barbaro | — | **Nemico personale: Lord Bakaris**, che ha buttato nel fiume. ✅ S04: non ha giurato per Kalaman |
+| **Corin Wrenmoor** *(nome provvisorio)* | Gabri | Umano / Druido | **Habbakuk** | Ha appreso il nome del proprio dio nel preludio. ⚠️ **Sessione 02: ha curato con incantesimi in pubblico anche lui** — il patto del gruppo è rotto da entrambi. Senza slot in apertura di Sessione 03. ✅ S04: non ha giurato per Kalaman |
 
 Dettagli completi in `campagna/party.md`; schede in `fonti/personaggi/`.
 
@@ -165,7 +165,7 @@ Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Le Sessioni
 
 ---
 
-> **Prossimo Passo al tavolo:** giocare la **Sessione 03 — La Caduta di Vogler**, che si apre con la **FASE 0** (trasferita dalla Sessione 02). Quattro eredità da tenere presenti: **Brynja e Corin senza slot**, entrambi pubblicamente riconosciuti come guaritori; **Becklin catturata** (decisione presa) e l'elmo che torna a Darrett; **Lord Bakaris cacciato dal Brass Crab** — con Raven testimone del contraddittorio; e **Svilnt**, il prigioniero legato in una rimessa di un villaggio che sta per bruciare.
+> **Prossimo Passo al tavolo:** giocare la **Sessione 05 — Le Vedette Perdute**. Eredità della Sessione 04 da tenere presenti: **solo Razak e Brynja sono scudieri di Kalaman** (5 mo/settimana); la **lettera di Becklin per Rennard è ancora a Razak** (scena opzionale «Il Registro di Rennard»); **Garrick è in addestramento di alchimia con Wyhan** e conosce il suo *stash* (dettagli **[TODO DM]**); il **fargab** lo tiene **Asurion**; **Becklin catturata** (il party lo sa da Jeyev).
 
 > **Prossimo Passo di preparazione:** **niente da preparare ex novo** — le sessioni sono già scritte fino alla **28**, il finale di campagna. Dopo ogni serata giocata, `/aggiorna-sessione N` ri-allinea la successiva ai delta reali; il materiale non giocato scivola in avanti di sessione in sessione, com'è già successo due volte (High Hill dalla 01 alla 02, la caduta di Vogler dalla 02 alla 03).
 >

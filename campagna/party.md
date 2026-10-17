@@ -5,9 +5,9 @@
 ## Stato Generale
 
 - **Livello attuale:** **4**
-- **Ultima sessione giocata:** **Sessione 03 — 27 settembre 2026** (chiusa a fine FASE 0: la barca si stacca dal molo, Vogler in fiamme alle spalle)
-- **Sede base:** Nessuna — **Vogler evacuata e in fiamme** (Sessione 03); il party è in fuga sul Vingaard verso Kalaman
-- **XP Accumulati:** **300 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità*
+- **Ultima sessione giocata:** **Sessione 04 — [TODO DM — data]** (chiusa a fine FASE 10: Consiglio di Kalaman, Prima Missione dell'officina di Rookledust, ritorno a Kalaman). Precedente: Sessione 03 — 27 settembre 2026 (barca che si stacca dal molo, Vogler in fiamme)
+- **Sede base:** **Castello di Kalaman** — alloggio gratuito per Razak e Brynja (scudieri giurati, condizioni della Maresciallo Vendri); Garrick, Asurion e Corin vi vivono come compagni di chi ha giurato. *(Vogler è stata evacuata e bruciata in Sessione 03.)*
+- **XP Accumulati:** **900 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità.* XP guadagnati in Sessione 04: **600 per PG**, assegnati per intero
 - **Prossimo avanzamento:** **Livello 5**, prima della riconquista dell'Avamposto di Wheelwatch (sessioni future)
 
 > ⚠️ **Perché il livello è 3 e non 4.** La Sessione 02 si è fermata alla fine della FASE 4: le scogliere sono state liberate, ma l'evacuazione non è mai cominciata. Il Livello 4 è legato alla fuga completata e arriva in Sessione 03. **Il party affronta quindi Boilerdrak e Fewmaster Gholcag al 3° livello** — come la fonte prevede, ma con Gholcag a ~CR 4 pesa.
@@ -17,20 +17,25 @@
 
 ---
 
-## Stato dopo la Sessione 02 (20 settembre 2026)
+## Stato dopo la Sessione 02 (20 settembre 2026) — tabella oggetti e thread aggiornati alla Sessione 04
 
 ### Oggetti e risorse
 
 | Cosa | Chi | Note |
 |------|-----|------|
 | **Scudo Verde di Ispin** (*+1 shield*) | **Brynja** | È lo stesso scudo che nove anni fa si frappose tra lei e il goblin di Grishnak. A Vogler lo conoscono tutti: la rende **identificabile a vista** |
-| Rotolo sigillato per Wyhan | Garrick | Da consegnare a Kalaman (Cap. 4). Da non aprire |
+| ~~Rotolo sigillato per Wyhan~~ | ~~Garrick~~ | ✅ **Consegnato da Garrick a Wyhan in Sessione 04** (non più in possesso del party). Se lo avesse aperto prima della consegna: **[TODO DM]** |
 | Spellbook dei Magi | Garrick | Dal preludio *Occhio nel Cielo (Eye in the Sky)* |
 | Simboli sacri | Brynja (Mishakal), Corin (Habbakuk) | Ricevuti dalle divinità in *Silenzio Infranto (Broken Silence)*; servono da focus |
 | Martin pescatore di legno intagliato | Chi ha partecipato alla gara di pesca | Senza valore, affettuoso |
 | 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scaglie di Guerra (Scales of War)* |
 | **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata dei Draghi senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
-| **Cassa con corazza a piastre solamnica** (per Darrett) | **Gruppo** | Recuperata da Thornwall Keep in Sessione 03, FASE 0A — **non ancora consegnata**: la scena di consegna è in Sessione 04, FASE 1 |
+| ~~Cassa con corazza a piastre solamnica (per Darrett)~~ | ~~Gruppo~~ | ✅ **Consegnata da Razak a Darrett in Sessione 04** (non più in possesso del party). Dove e quando: non registrato |
+| **Lettera sigillata di Becklin per il Cancelliere Rennard** | **Razak** | Affidata in Sessione 03; **non consegnata in Sessione 04** (la scena opzionale «Il Registro di Rennard» non è stata giocata e slitta alla Sessione 05) |
+| **Emblema tascabile blu e oro di Kalaman** | **Razak e Brynja** | ✅ Sessione 04: scudieri giurati; equivale a un grado di tenenza |
+| **Paga: 5 mo/settimana** | **Razak e Brynja** | ✅ Sessione 04. Primo pagamento ritirato? **[TODO DM — da confermare]** |
+| **Fargab** (un solo set accoppiato, dono di Rookledust) | **Asurion** | ✅ Sessione 04, Prima Missione. Tornerà cruciale nell'attacco a Kalaman |
+| **Scorta segreta (*stash*) di Wyhan** | **Garrick** (rivelata a lui) | ✅ Sessione 04, **improvvisata al tavolo**: contenuto e posizione **[TODO DM]** |
 
 ### Il patto sulla magia divina — rotto da entrambi
 
@@ -64,7 +69,9 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 - **Garrick ↔ Leedara** — l'ha corteggiata al funerale con un tiro alto; lei non ha ceduto ma ha cantato, rispondendo che *«in un altro tempo, forse»*. **La frase è letteralmente vera:** Leedara è morta durante il Cataclisma. Garrick è l'unico del gruppo che le abbia parlato davvero.
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
-- **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard (non ancora recapitata) e il favore della cassa da consegnare a Darrett (recuperata, non ancora consegnata), poi è partita per il fronte. **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
+- **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard e il favore della cassa da consegnare a Darrett, poi è partita per il fronte. ✅ **Sessione 04:** **Razak ha consegnato la cassa a Darrett**; **la lettera per Rennard non è stata recapitata** (resta a lui; scena opzionale in Sessione 05). **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
+- **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. **[TODO DM]** contenuto dello stash, tempi, costi e contropartite dell'addestramento.
+- **Razak e Brynja ↔ Kalaman** — ✅ **Sessione 04:** sono gli **unici due** del party ad aver giurato come **scudieri di Kalaman** (5 mo/settimana, emblema blu e oro, alloggio al Castello). **Garrick, Asurion e Corin non hanno giurato**: nessuna paga né emblema.
 - **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
 - **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
 
@@ -209,7 +216,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 300 |
+| **XP** | 900 |
+| **Esercito di Kalaman** | ✅ Sessione 04: **scudiero di Kalaman** (giurato), 5 mo/settimana, emblema blu e oro. Ha consegnato la cassa a Darrett; detiene ancora la lettera di Becklin per Rennard |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 5 della tabella d6.* Dieci anni fa un inverno anticipato chiuse i passi dell'Hinterlund e Ispin, ferito a una gamba, si rifugiò all'eremo del Filo di Rame. Ci restò tre mesi. Maestro Roke assegnò al novizio più giovane il compito di accudirlo — e Razak aveva 17 anni, al secondo anno del voto lungo del silenzio. Così l'uomo che non smetteva mai di parlare passò un inverno a raccontare il mondo a un ragazzo che non poteva rispondere.
@@ -238,7 +246,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 300 |
+| **XP** | 900 |
+| **Alta Stregoneria** | ✅ Sessione 04: Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash rivelato). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]** |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 3 della tabella d6.* Ispin arrivò alla tenuta Firewatch con una spilla di bronzo da identificare — di chi era stata, come fosse finita in un mercato di Nordmaar. Garrick, allora sedicenne e già capace di incrociare blasonari e registri come nessun altro in casa, gliela ricostruì in nove giorni. Fu il primo adulto a chiedergli qualcosa per le sue capacità, non per pietà.
@@ -264,7 +273,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 300 |
+| **XP** | 900 |
+| **Esercito di Kalaman** | ✅ Sessione 04: **scudiera di Kalaman** (giurata), 5 mo/settimana, emblema blu e oro |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 2 della tabella d6.* Brynja e Ispin difesero insieme una comunità di frontiera — nani per la maggior parte, ma non solo — da una banda di goblin guidata da Grishnak Spezzapietra. Nella notte dell'attacco, mentre Brynja portava fuori dei bambini da una casa in fiamme, Ispin si frappose con il suo scudo verde tra lei e un goblin che stava per finirla. Fu Ispin, nei giorni seguenti, a dirle che la fede può essere decidere di fare la cosa giusta proprio mentre nessuno risponde — ed è da quella frase che nasce, due anni più tardi, la sua devozione a Mishakal. Fu ancora lui a indirizzarla da Roderick.
@@ -289,7 +299,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 300 |
+| **XP** | 900 |
+| **Esercito di Kalaman** | ✅ Sessione 04: **non ha giurato** (nessuna paga né emblema); alloggia al Castello |
 
 #### Come conobbe Ispin Greenshield
 *Variante esatta della voce 3 della tabella d6.* Un gruppo di briganti aggredì Asurion durante uno spostamento in solitario, derubandolo di tutto — compreso l'amuleto identificativo del suo clan. Ispin trovò l'oggetto e si mise sulle tracce del proprietario per restituirglielo, incrociando così Asurion che a sua volta stava seguendo i briganti per riprenderselo. Da allora Ispin è uno dei pochi Solamniani ad avere la sua piena riconoscenza.
@@ -316,7 +327,8 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 300 |
+| **XP** | 900 |
+| **Esercito di Kalaman** | ✅ Sessione 04: **non ha giurato** (nessuna paga né emblema); alloggia al Castello |
 
 #### Come conobbe Ispin Greenshield
 Sei anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un temporale e passò due notti ferito nel sottobosco prima che Corin lo trovasse — avvisato dai martin pescatori che non erano rientrati al nido. Lo tenne due settimane e non gli chiese nulla in cambio; **non si sono mai più visti.** Fu Ispin, riempiendo il silenzio con le sue storie, a nominargli per caso il palo del molo di Vogler con l'uccello che tiene un pesce in bocca — la prima prova che Corin abbia mai avuto che il suo rito non fosse un'invenzione privata.

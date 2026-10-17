@@ -54,10 +54,12 @@
 | Corin | Ispin Greenshield | Salvato da lui nei boschi | Ispin si perse ferito nell'Hinterlund; il druido lo trovò, lo curò e lo rimise sulla strada — unica delle cinque connessioni in cui Ispin viene semplicemente salvato, senza pericolo condiviso né favore restituito |
 | **Razak** | **Bakaris il Giovane** | **-3 Ostile (nemico personale)** | Sessione 01: Bakaris lo ha deriso al funerale, Razak lo ha minacciato senza riuscirci, **Garrick** lo ha cacciato con una prestidigitazione. **Bakaris incolpa Razak e non sa di Garrick.** ✅ Ricomparso in piazza a Vogler, Sessione 03 (sabotaggio dell'evacuazione, smentito); ricompare di nuovo a Kalaman, Sessione 04 |
 | **Asurion** | **Lord Bakaris Uth Estide** | **-3 Ostile** | Sessione 01: Asurion lo ha trascinato nel fiume davanti al molo, dopo che lo molestava durante la gara di pesca. A Kalaman Bakaris ha un torto vero da raccontare al consiglio |
+| **Garrick** | **Wyhan** | **[TODO DM — attitudine da riaggiornare]** *(piano: 0 Neutrale)* | ✅ **Sessione 04:** le ha consegnato il rotolo sigillato; lei gli ha predetto le **Vesti Rosse** (parere, non esito della Prova). Garrick è tornato a chiederle l'addestramento in **alchimia**: ha accettato e gli ha rivelato la sua **scorta segreta (*stash*)**. Sviluppo improvvisato; termini e contenuto **[TODO DM]** |
+| **[Tutti]** | **Tatina Rookledust** | **[TODO DM — +1 Cordiale o +2 Amichevole]** | ✅ **Sessione 04:** alleata ricorrente; dono del **fargab**; accompagna il party a Kalaman e vi si installa |
 | **Garrick** | **Leedara** | **+1 Cordiale** — l'unico che le abbia parlato davvero | Sessione 01: l'ha corteggiata al funerale con un tiro alto. Non ha ceduto (*«in un altro tempo, forse»*) ma **ha cantato**. [NOTA DM] La frase è letteralmente vera: Leedara è morta nel Cataclisma |
 | **Brynja** | **Becklin Uth Viharin** | +2 Amichevole | Non l'aveva mai incontrata, ma sapeva chi fosse da Ispin. È Becklin a consegnarle lo Scudo Verde |
-| **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni. ✅ **Sessione 03:** gli ha affidato la lettera per Rennard e il favore della cassa per Darrett, poi catturata al fronte (Jeyev testimone) |
-| **Razak** | **Darrett Highwater** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare. Ha ricevuto l'elmo di Becklin da Jeyev; **non ha ancora ricevuto la cassa/armatura** (consegna Sessione 04, FASE 1) |
+| **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni. ✅ **Sessione 03:** gli ha affidato la lettera per Rennard e il favore della cassa per Darrett, poi catturata al fronte (Jeyev testimone). ✅ **Sessione 04:** il favore della cassa è stato mantenuto (consegnata a Darrett); **la lettera per Rennard resta non recapitata**, ancora a Razak |
+| **Razak** | **Darrett Highwater** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare. Ha ricevuto l'elmo di Becklin da Jeyev. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa con la corazza** — ha ora armatura ed elmo di Becklin |
 | **Brynja e Corin** | **Il villaggio di Vogler** | **I due che fanno miracoli** | Sessione 02: hanno curato i feriti di High Hill tutta la notte, in pubblico, davanti a una coda che non si accorciava. Vogler li ha visti entrambi, e i profughi arrivano a Kalaman con la storia in bocca |
 | **[Tutti]** | **Raven Uth Vogler** | **+2 Amichevole** | Sessione 02: l'hanno chiamata a mettere la propria autorità sulla fila invece di gestirla da soli, e hanno dichiarato in pubblico i limiti delle cure. **[NOTA DM] È la testimone che smonta Lord Bakaris al consiglio di Kalaman** |
 | **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** (invariata) · **[NOTA DM — riservata] Dispersa, non morta** | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo. ✅ **Sessione 03:** partita per il fronte con Becklin — ritirata coi superstiti dell'Ironclad, riapparirà più avanti (es. "Ritorno delle Truppe"). **Il party non lo sa** — solo la cattura di Becklin è confermata |
@@ -75,7 +77,8 @@
 | PG | Fazione | Status | Note |
 |----|---------|--------|------|
 | [Tutti] | Armata dei Draghi Rossi | Nemici | Obiettivo: fermare l'invasione |
-| [Tutti] | Esercito di Kalaman | TBD → Alleati | Si costruisce nel Cap 4 |
+| **Razak e Brynja** | Esercito di Kalaman | ✅ **Scudieri di Kalaman** (Sessione 04) | Giuramento ufficiale; 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello (condizioni della Maresciallo Vendri) |
+| **Garrick, Asurion, Corin** | Esercito di Kalaman | TBD → Alleati | ✅ Sessione 04: **non hanno giurato**; vivono al Castello come compagni di chi ha giurato, senza paga né emblema |
 | [Tutti] | Cavalieri di Solamnia | TBD → Alleati | Si costruisce nel Cap 3 con Becklin |
 
 ---
@@ -151,8 +154,18 @@
 | **Vogler** | Evacuata per intero, rimasta in fiamme alle spalle delle barche in fuga sul Vingaard |
 | **Livello** | **4** assegnato sulla barca, durante la notte sul Vingaard, come da piano |
 
-### Capitolo 03 (Kalaman — Cap 4 libro)
-[TODO — da compilare durante le sessioni]
+### Capitolo 03 (Kalaman — Cap 4 libro) — ✅ Sessione 04, giocata il [TODO DM — data] (FASI 1-10)
+
+| Rapporto | Cosa è successo |
+|----------|-----------------|
+| **Il party ↔ Esercito di Kalaman** | Offerta del governatore accettata, ma **giurano solo Razak e Brynja**: scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello. Garrick, Asurion e Corin non giurano |
+| **Razak ↔ Darrett** | Razak consegna la cassa con la corazza a piastre solamnica: la scena in sospeso dalla Sessione 03 è chiusa. Darrett resta **+3 Alleato** |
+| **Razak e Brynja ↔ Rennard** | La lettera di Becklin **non viene recapitata** (resta a Razak); la scena opzionale «Il Registro di Rennard» non è giocata e slitta alla Sessione 05. Rennard non incontrato |
+| **Garrick ↔ Wyhan** | Consegna il rotolo; Wyhan gli predice le **Vesti Rosse** (parere, non esito della Prova). Garrick torna a chiederle di addestrarlo in **alchimia**: lei accetta e gli rivela il suo **stash**. Improvvisato; dettagli **[TODO DM]**. Attitudine di Wyhan da riaggiornare **[TODO DM]** |
+| **Il party ↔ Tatina Rookledust** | Prima Missione completata come da piano; dono del **fargab**; Rookledust accompagna il party a Kalaman e vi si installa. Attitudine (+1 o +2) e reazione alla rivelazione sul boilerdrak: **[TODO DM]** |
+| **Il party ↔ Raven** | Al campo profughi di Kalaman; non si fa più chiamare «sindaca». Invariata, **+2 Amichevole** |
+| **Il party ↔ Lord Bakaris / Bakaris il Giovane** | Esiti del Consiglio e del cortile del Castello **[TODO DM]**: attitudini invariate rispetto al piano |
+| **Il party ↔ Vendri e Miat** | Attitudini da piano (+1 Cordiale / 0→+1), non confermate: **[TODO DM]** |
 
 ### Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)
 [TODO — da compilare durante le sessioni]
@@ -165,4 +178,4 @@
 
 ---
 
-> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**; **Sessione 03 giocata il 27 settembre 2026** (FASE 0, evacuazione di Vogler — le FASI 1-5 di Kalaman slittano alla Sessione 04). Aggiorna dopo ogni sessione.
+> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**; **Sessione 03 giocata il 27 settembre 2026** (FASE 0, evacuazione di Vogler); **Sessione 04 giocata il [TODO DM — data]** (Kalaman e Prima Missione). Aggiorna dopo ogni sessione.

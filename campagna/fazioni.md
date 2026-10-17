@@ -55,7 +55,7 @@
 
 | Campo | Valore |
 |-------|--------|
-| **Posizione verso il party** | Neutrale → Alleata (se i PG dimostrano valore) |
+| **Posizione verso il party** | Neutrale → Alleata (se i PG dimostrano valore). ✅ **Sessione 04:** alleanza siglata solo in parte — **Razak e Brynja hanno giurato** come scudieri di Kalaman (5 mo/settimana, emblema blu e oro); Garrick, Asurion e Corin no |
 | **PNG di contatto** | **Maresciallo Nestra Vendri** (militare), **Governatore Calof Miat** (civile) |
 | **Sede operativa** | Castello di Kalaman |
 | **Obiettivo** | Difendere Kalaman e le terre di Solamnia orientale |
