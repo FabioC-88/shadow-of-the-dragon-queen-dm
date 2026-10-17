@@ -30,7 +30,7 @@ Se il party vuole allontanarsi dalla trama principale, ecco spunti improvvisabil
 
 | Digressione | Nata in | Stato | Note |
 |-------------|---------|-------|------|
-| **L'addestramento di Garrick in alchimia con Wyhan** | Sessione 04 (Kalaman, Apotecaria di Wyhan) | **In corso** — Wyhan ha accettato | Improvvisata al tavolo: Garrick è tornato a chiederlo dopo la consegna del rotolo e Wyhan gli ha anche rivelato la sua scorta segreta (*stash*). **[TODO DM]** contenuto e posizione dello stash, tempi, costi, competenza negli strumenti da alchimista, eventuale contropartita richiesta da Wyhan. Non collegata alla Prova dell'Alta Stregoneria (Sessione 17) |
+| **L'addestramento di Garrick in alchimia con Wyhan** | Sessione 04 (Kalaman, Apotecaria di Wyhan) | **In corso** — Wyhan ha accettato | Improvvisata al tavolo: Garrick è tornato a chiederlo dopo la consegna del rotolo e Wyhan gli ha anche rivelato la sua scorta segreta (*stash*). Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi e costi dell'addestramento, competenza negli strumenti da alchimista, eventuale contropartita richiesta da Wyhan. Non collegata alla Prova dell'Alta Stregoneria (Sessione 17) |
 
 *(Le altre voci della tabella «Missioni» del recap della Sessione 04 — arruolamento, cassa per Darrett, rotolo per Wyhan, lettera per Rennard, Prima Missione, Delegazione Mancante, mandante di Gragonis — sono obiettivi di trama e restano tracciate nei recap e in `party.md`, non qui.)*
 

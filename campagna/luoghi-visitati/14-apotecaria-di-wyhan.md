@@ -12,8 +12,8 @@
 
 - [S4] Un membro del party ha consegnato a Wyhan il rotolo sigillato ricevuto al Barb, e la maga lo ha aperto subito
 - [S4] Wyhan ha predetto per lui le Vesti Rosse
-- [S4] Lo stesso membro del party è tornato a chiederle di addestrarlo in alchimia: Wyhan ha accettato e gli ha rivelato la sua scorta segreta
+- [S4] Lo stesso membro del party è tornato a chiederle di addestrarlo in alchimia: Wyhan ha accettato e gli ha rivelato la sua scorta segreta: una selezione extra di pozioni e veleni che Wyhan prepara su richiesta, in cambio di tempo e monete d'oro
 
 ## Note Aggiuntive
 
-La predizione di Wyhan è un parere sull'Ordine adatto, non l'esito della Prova dell'Alta Stregoneria. L'addestramento in alchimia e la scorta segreta sono sviluppi nati al tavolo: contenuto, posizione e condizioni non sono stati precisati. *Fonte: DSotDQ Cap. 4, "Messaggio per una Maga (Eye in the Sky)".*
+La predizione di Wyhan è un parere sull'Ordine adatto, non l'esito della Prova dell'Alta Stregoneria. L'addestramento in alchimia e la scorta segreta sono sviluppi nati al tavolo. *Fonte: DSotDQ Cap. 4, "Messaggio per una Maga (Eye in the Sky)".*

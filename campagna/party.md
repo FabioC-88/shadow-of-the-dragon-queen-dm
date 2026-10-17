@@ -35,7 +35,7 @@
 | **Emblema tascabile blu e oro di Kalaman** | **Razak e Brynja** | ✅ Sessione 04: scudieri giurati; equivale a un grado di tenenza |
 | **Paga: 5 mo/settimana** | **Razak e Brynja** | ✅ Sessione 04. Primo pagamento ritirato? **[TODO DM — da confermare]** |
 | **Fargab** (un solo set accoppiato, dono di Rookledust) | **Asurion** | ✅ Sessione 04, Prima Missione. Tornerà cruciale nell'attacco a Kalaman |
-| **Scorta segreta (*stash*) di Wyhan** | **Garrick** (rivelata a lui) | ✅ Sessione 04, **improvvisata al tavolo**: contenuto e posizione **[TODO DM]** |
+| **Scorta segreta (*stash*) di Wyhan** | **Garrick** (rivelata a lui) | ✅ Sessione 04, improvvisata al tavolo: una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo |
 
 ### Il patto sulla magia divina — rotto da entrambi
 
@@ -70,7 +70,7 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
 - **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard e il favore della cassa da consegnare a Darrett, poi è partita per il fronte. ✅ **Sessione 04:** **Razak ha consegnato la cassa a Darrett**; **la lettera per Rennard non è stata recapitata** (resta a lui; scena opzionale in Sessione 05). **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
-- **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. **[TODO DM]** contenuto dello stash, tempi, costi e contropartite dell'addestramento.
+- **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi, costi e contropartite dell'addestramento in alchimia.
 - **Razak e Brynja ↔ Kalaman** — ✅ **Sessione 04:** sono gli **unici due** del party ad aver giurato come **scudieri di Kalaman** (5 mo/settimana, emblema blu e oro, alloggio al Castello). **Garrick, Asurion e Corin non hanno giurato**: nessuna paga né emblema.
 - **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
 - **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
@@ -247,7 +247,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
 | **XP** | 900 |
-| **Alta Stregoneria** | ✅ Sessione 04: Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash rivelato). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]** |
+| **Alta Stregoneria** | ✅ Sessione 04: Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash: pozioni e veleni extra su richiesta, a tempo e mo). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]** |
 
 #### Come conobbe Ispin Greenshield
 *Variante della voce 3 della tabella d6.* Ispin arrivò alla tenuta Firewatch con una spilla di bronzo da identificare — di chi era stata, come fosse finita in un mercato di Nordmaar. Garrick, allora sedicenne e già capace di incrociare blasonari e registri come nessun altro in casa, gliela ricostruì in nove giorni. Fu il primo adulto a chiedergli qualcosa per le sue capacità, non per pietà.

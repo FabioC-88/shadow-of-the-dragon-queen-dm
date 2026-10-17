@@ -28,8 +28,8 @@ Stregoneria dal mantello nero, all'Apotecaria di Wyhan (scena «Messaggio per un
 Wyhan gli ha **predetto le Vesti Rosse**. Garrick è poi **tornato a chiederle di addestrarlo in
 alchimia: Wyhan ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)**.
 *Nota: addestramento in alchimia e scorta segreta sono sviluppi improvvisati al tavolo, non
-presenti né nel manuale né in `dm-notes-sessione-04.md`: registrati esattamente come detti. Cosa
-contenga lo stash e dove si trovi non è stato specificato.*
+presenti né nel manuale né in `dm-notes-sessione-04.md`: registrati esattamente come detti. Lo stash,
+chiarito dal DM dopo la serata, è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo.*
 
 **La lettera di Becklin per Rennard.** **Razak e Brynja non l'hanno consegnata**: la busta
 sigillata con il nodo della Corona è rimasta a Razak. La scena opzionale «Il Registro di Rennard»
@@ -63,8 +63,8 @@ specifici che il piano lasciava aperti sono nei TODO sotto.
 - ✅ **Fargab:** lo tiene **Asurion** (confermato dal DM).
 - **Garrick e il rotolo:** lo aveva aperto prima della consegna? (Non registrato; il rotolo gli era
   stato dato con l'indicazione di non aprirlo.) Come ha reagito alla predizione?
-- **Stash di Wyhan:** cosa contiene e dove si trova? Che cosa comporta l'addestramento in alchimia
-  (tempi, costi, competenza negli strumenti da alchimista)? Wyhan chiede qualcosa in cambio?
+- 🔀 **Stash di Wyhan:** chiarito dal DM, è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Restano aperti i termini
+  dell'addestramento in alchimia (tempi, costi, competenza negli strumenti da alchimista) e se Wyhan chiede qualcosa in cambio.
 - **Consiglio di Kalaman (FASE 4):** come è stato smontato Lord Bakaris (chiamata di Raven, CD 14,
   precedente di Bakaris il Giovane a Vogler)? Asurion ha preso la parola? Lo spotlight opzionale di
   Razak (l'attacco di Lord Bakaris sul titolo) è stato giocato?
@@ -127,7 +127,7 @@ variazioni.
 - **5 mo/settimana** di paga per Razak e Brynja — **[TODO DM — da confermare]** se il primo
   pagamento è stato ritirato.
 - **Fargab** (un solo set accoppiato, dono di Rookledust) — lo tiene **Asurion**.
-- **Scorta segreta (*stash*) di Wyhan** — rivelata a Garrick; contenuto e posizione **[TODO DM]**.
+- **Scorta segreta (*stash*) di Wyhan** — rivelata a Garrick: una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo.
 - **Cassa con corazza a piastre solamnica** — consegnata a Darrett (non più in possesso del party).
 - **Lettera sigillata di Becklin per Rennard** — ancora in mano a **Razak**.
 
@@ -136,7 +136,7 @@ variazioni.
 | Thread | Dettaglio |
 |--------|-----------|
 | **Il Registro di Rennard** | La lettera è ancora a Razak, non recapitata — scena opzionale in **Sessione 05** (Sala degli Archivi, Castello di Kalaman, 1° piano) |
-| **Lo stash di Wyhan e l'alchimia di Garrick** | Sviluppo improvvisato: cosa contiene lo stash, dove si trova, come procede l'addestramento — **[TODO DM]** |
+| **Lo stash di Wyhan e l'alchimia di Garrick** | Sviluppo improvvisato: lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo; come procede l'addestramento — **[TODO DM]** |
 | **La Prova dell'Alta Stregoneria di Garrick** | Wyhan ha predetto le Vesti Rosse, ma la predizione non è l'esito: la veste vera si decide alla Prova (Sessione 17); la promessa di un passaggio a Wayreth resta senza data |
 | **Il destino di Cudgel Ironsmile** | **[NOTA DM — riservata]** Dispersa, non morta; riappare in «Ritorno delle Truppe». Il party non lo sa |
 | **Il destino di Becklin** | Catturata; possibile ritorno con «Ritorno delle Truppe» |

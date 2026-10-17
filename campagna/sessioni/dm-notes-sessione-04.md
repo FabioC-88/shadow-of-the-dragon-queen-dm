@@ -1309,7 +1309,7 @@ Nessun'altra fase o scena risulta non giocata.
 3. **Prigioniero / interrogatorio** (FASE 8): catturato e interrogato? Cosa ha appreso il party (Armata dei Draghi Rossi, «l'arma», la donna dall'occhio di brace, Vogler come base)?
 4. ✅ **Fargab** — lo tiene **Asurion** (confermato dal DM).
 5. **Garrick e il rotolo:** lo aveva aperto prima della consegna? Come ha reagito alla predizione?
-6. **Stash di Wyhan e alchimia di Garrick:** contenuto, luogo, tempi, costi, competenza negli strumenti da alchimista, eventuale contropartita richiesta da Wyhan. Attitudine di Wyhan aggiornata.
+6. 🔀 **Stash di Wyhan** — chiarito dal DM: una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Restano aperti: tempi e costi dell'addestramento in alchimia, competenza negli strumenti da alchimista, eventuale contropartita, attitudine di Wyhan aggiornata.
 7. **Consiglio (FASE 4):** come è stato smontato Lord Bakaris (Raven, CD 14, precedente del figlio a Vogler)? Asurion ha preso la parola? Spotlight di Razak giocato? Attitudini di Miat, Vendri, Bakaris.
 8. **Cortile (FASE 3):** Bakaris il Giovane ha cercato Razak? Com'è finita?
 9. **Rookledust:** quale attitudine (+1 o +2)? Spotlight tecnico (Razak, Than/Mount Nevermind) giocato? Reazione del party alla rivelazione del boilerdrak?
