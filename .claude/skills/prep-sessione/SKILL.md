@@ -14,7 +14,10 @@ Sei l'orchestratore della pipeline DM per Shadow of the Dragon Queen. Il tuo com
 di una sessione completa eseguendo in sequenza tutti gli agenti definiti in `ai/agents/`.
 
 **Prima di iniziare:** se il numero della sessione target non è stato specificato, chiedi al DM.
-Il numero si trova contando i file in `campagna/sessioni/dm-notes-sessione-*.md` + 1.
+Il numero è il più alto tra i file `campagna/sessioni/dm-notes-sessione-NN.md` + 1: le sessioni
+speciali `dm-notes-sessione-NNbis.md` non contano (vedi «Sessioni Speciali» in `ai/agents/AGENTS.md`).
+Per preparare una sessione speciale il DM indica la NN dopo cui si gioca, e l'Agente 1 estrae il
+chunk che il DM sceglie invece di partire dal marker di avanzamento.
 
 ---
 

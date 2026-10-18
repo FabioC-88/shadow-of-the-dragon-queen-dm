@@ -43,7 +43,7 @@ fonti/personaggi/*.md                     ← Background di tutti i PG (un file 
 ### Step 2 — Identifica gli hook attivi per questa sessione
 
 Per ogni PG, verifica:
-1. **Hook personale principale** (da BG*.txt e party.md): è rilevante per questa sessione?
+1. **Hook personale principale** (da `fonti/personaggi/*.md` e party.md): è rilevante per questa sessione?
 2. **Arco narrativo in corso** (da fazioni.md): c'è un momento di avanzamento nell'arco questa sessione?
 3. **PNG legati al PG** presenti nella sessione (da png-incontrati.md): qual è l'atteggiamento attuale?
 4. **Segreti non ancora rivelati** (da AGENTS.md `[NOTA DM]`): c'è un momento adatto per un indizio?

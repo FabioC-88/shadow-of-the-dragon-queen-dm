@@ -38,6 +38,24 @@ sopra sono l'unico punto che ne fissa l'ordine.
 
 ---
 
+## Sessioni Speciali
+
+Decise dal DM il 2026-10-18, con la prima: `dm-notes-sessione-05bis.md`, che contiene le due
+«Missioni per Kalaman» affidate da Darrett in S05 oltre alle vedette.
+
+- **Nome del file:** `dm-notes-sessione-NNbis.md`, dove NN è la sessione dopo cui si gioca. Le
+  sessioni successive non si rinumerano, e in Foundry la speciale finisce tra la NN e la NN+1.
+- **Facoltative e fuori dalla progressione:** non sono obbligatorie, quindi non fanno salire di
+  livello e nessuna sessione normale dipende da loro. Il party ci arriva al livello che ha in
+  quel momento.
+- **Difficili, con buone ricompense:** scontri Difficili in fascia bassa (vedi
+  `campagna/scontri-adattati/00-framework.md`) e ricompense che invogliano a giocarle senza
+  passare dagli XP, come oggetti magici o vantaggi concreti per le sessioni dopo.
+- **Numerazione nelle skill:** la «sessione successiva» di una NNbis è la NN+1, e il numero di
+  una nuova sessione normale ignora i file NNbis.
+
+---
+
 ## Mappa Cartelle
 
 ```

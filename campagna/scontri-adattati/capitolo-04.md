@@ -1,6 +1,6 @@
 # Scontri Adattati — Capitolo 4: L'Ombra della Guerra
 
-**Copre:** Sessioni 03-08 (Liv. 4 → 6)
+**Copre:** Sessioni 03-08 (Liv. 4 → 6), più la speciale 05bis
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!*, niente regola Minion, Villain Actions solo per boss veramente seri o di fine capitolo
 **Party:** 5 personaggi · **Letalità target:** Deadly/Hard scalato su 5 PG + azioni extra sui boss veri, fascia bassa preferita — vedi [regole-opzionali.md](../regole-opzionali.md) (critici massimizzati e riposo lungo limitato ai Dadi Vita alzano la letalità reale oltre il budget CR nudo)
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
@@ -20,6 +20,7 @@ Sei sessioni, molti nemici nominati, ma solo **due boss veri** secondo il criter
 | 03 — L'Ombra della Guerra | 4 | — | — | nessun combattimento |
 | 04 — La Prima Missione | 4 | — | Hobgoblin (capo) | 12× Goblin, stat block classico (iniziativa condivisa) |
 | 05 — Le Vedette Perdute | 4 | — | Kapak Draconian (ambusher) | 3× Baaz Draconian |
+| 05bis — L'Imboscata e il Blocco (speciale, facoltativa) | 5 | — | Dragon Army Officer (fattoria), 2× Bozak Draconian + Kapak (guado) | 2× Dragon Army Soldier + 10× Hobgoblin; 8× Baaz Draconian |
 | 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian, Ufficiale dell'Armata dei Draghi (*Dragon Army Officer*) + Dragonnel (duo) | Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) (gruppi da 1-8 per stanza, stat block classico anche se convergono) |
 | 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | Soldato dell'Armata dei Draghi a cavallo, Undead Soldier |
 | 08 — Le Catacombe / Sarlamir | 5→6 | **Cavaliere Sarlamir** | — | Wraith, Skeletal Horse (entrambi opzionali/evitabili) |
@@ -155,6 +156,84 @@ REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
 ```
 
 *Notevole ma non boss: niente Villain Actions. Il picco di difficoltà della sessione resta l'imboscata dall'alto (sorpresa + veleno), non un macchinario narrativo a tre atti.*
+
+---
+
+## Sessione 05bis — L'Imboscata e il Blocco (Livello 5, speciale e facoltativa)
+
+> ✅ **Decisioni del DM (2026-10-18):** le sessioni speciali sono un extra facoltativo e non contano per la progressione, quindi il party ci arriva già al **5° livello** (preso a fine S05). Gli scontri sono **Difficili** per invogliare con buone ricompense diverse dagli XP, in **fascia bassa** come chiede il punto 5 del framework.
+
+**Budget *Flee, Mortals!* al 5° livello, 5 PG:** Standard 1½ × 5 = **7,5 CR**, Difficile 2½ × 5 = **12,5 CR**, CR cap 8. Scelti **CR 10** e **CR 11**, sotto il tetto per due motivi: le regole opzionali (critici massimizzati, riposo lungo che rende solo i Dadi Vita) alzano la letalità reale, e i due scontri possono capitare nella stessa uscita. Come da framework, il rinforzo aumenta il numero dei nemici e non gonfia le schede.
+
+| Scontro | Fonte (tarata sul 4° livello) | 05bis (5° livello) | CR | XP |
+|---|---|---|---|---|
+| La fattoria (*Ambushing the Enemy*) | 1 Dragon Army Soldier + 6 Hobgoblin (CR 4) | 1 Dragon Army Officer + 2 Dragon Army Soldier + 10 Hobgoblin | 10 | 2.100 |
+| Il guado del Raiding Rill (*Draconian Blockade*) | 5 Baaz + 1 Bozak (CR 4,5) | 8 Baaz + 2 Bozak + 1 Kapak | 11 | 2.400 |
+
+*Se il tavolo arriva alla 05bis ancora al 4° livello (la S05 non ha chiuso le vedette), usa i numeri della fonte: al 4° livello il Difficile vale 5 CR, e la fonte sta già lì.*
+
+### La fattoria — l'addestramento interrotto
+
+**1× Dragon Army Officer** (scheda ufficiale nella sezione Sessione 06, qui sotto) al posto del soldato istruttore della fonte, **2× Dragon Army Soldier** (stessa sezione) e **10× Hobgoblin** (scheda qui sotto, iniziativa condivisa come da framework punto 2).
+
+- **Morale (dalla fonte, adattato):** gli hobgoblin combattono finché l'ufficiale è in piedi o finché non ne cade metà; poi si arrendono o scappano. I due soldati restano con l'ufficiale.
+- **Il messaggio della Gran Maestra** ce l'ha l'ufficiale.
+- **Pericolo vero:** Pack Tactics con una spada lunga da 12 (2d10+1). Dieci hobgoblin che si coprono a vicenda attaccano quasi sempre con vantaggio, e a distanza l'arco aggiunge 7 (3d4) di veleno; il morale della fonte è la valvola se il tavolo va in difficoltà.
+
+```
+HOBGOBLIN WARRIOR (×10) — Monster Manual 2024 (la scheda che il DM usa su Foundry)
+Medium Fey (Goblinoid), typically Lawful Evil | AC 18 (half plate, shield)
+Initiative +3 (13) | HP 11 (2d8+2) | Speed 30 ft.
+STR 13 (+1, save +1)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
+INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA  9 (-1, save -1)
+Gear Half Plate, Longbow, Longsword, Shield
+Senses Darkvision 60 ft., Passive Perception 10 | Languages Common, Goblin
+CR 1/2 (XP 100; PB +2)
+
+TRAITS
+Pack Tactics. Advantage on attack rolls against a creature if at least one ally
+  is within 5 ft of it and isn't Incapacitated.
+
+ACTIONS
+Longsword. Melee: +3, reach 5 ft — 12 (2d10+1) slashing.
+Longbow. Ranged: +3, range 150/600 ft — 5 (1d8+1) piercing plus 7 (3d4) poison.
+```
+
+*Scheda 2024 su decisione del DM (2026-10-18): su Foundry usa quella. Il CR resta 1/2, quindi il budget dello scontro non cambia. L'hobgoblin capo della S04 (sopra) resta com'era, perché quella sessione è già giocata.*
+
+### Il guado del Raiding Rill — il blocco draconico
+
+**8× Baaz Draconian** e **1× Kapak Draconian** (schede nella sezione Sessione 05, qui sopra; il kapak senza aggiunte homebrew) e **2× Bozak Draconian** (scheda qui sotto). La fonte dice che i draconiani combattono fino alla morte.
+
+- **Il kapak** aspetta sugli alberi del bosco a sud, come al posto di vedetta: ora il party lo conosce, e lo scontro gioca su questo.
+- **I bozak sono la novità:** incantano (Ragnatela e Nube Maleodorante una volta al giorno ciascuno) e, morendo, le ossa esplodono. Non far lanciare a entrambi tutto nel primo round: un bozak apre con Ragnatela, l'altro tiene la Nube per quando il party si raggruppa.
+- **Primo bozak della campagna**, se la 05bis si gioca.
+
+```
+BOZAK DRACONIAN (×2) — DSotDQ p198, official stat block
+Medium Monstrosity (Sorcerer), typically Lawful Evil | AC 15 (natural armor)
+Initiative +0 (10) | HP 40 (9d8) | Speed 30 ft.
+STR 14 (+2, save +2)   DEX 10 (+0, save +0)   CON 11 (+0, save +0)
+INT 11 (+0, save +2)   WIS 10 (+0, save +2)   CHA 14 (+2, save +4)
+Gear Trident | Senses Darkvision 60 ft., Passive Perception 10
+Languages Common, Draconic | CR 2 (XP 450; PB +2)
+
+TRAITS
+Death Throes. At 0 HP its scales and flesh shrivel away, then its BONES EXPLODE.
+  Each creature within 10 ft: DC 10 Dexterity save or take 9 (2d8) FORCE damage.
+Glide. Subtracts up to 100 ft from a fall and moves 2 ft horizontally per 1 ft
+  descended. Not flight: cannot gain altitude.
+
+ACTIONS
+Multiattack. Two Trident melee attacks OR two Lightning Discharge attacks.
+Trident. Melee or Ranged: +4, reach 5 ft. or range 20/60 ft.
+  Hit: 5 (1d6+2) piercing, or 6 (1d8+2) if used two-handed in melee.
+Lightning Discharge. Ranged Spell Attack: +4, range 60 ft. Hit: 10 (3d6) lightning.
+Spellcasting (Cha, save DC 12, no material components):
+  1/day each: enlarge/reduce, invisibility, stinking cloud, web
+```
+
+*Nessuna Villain Action: sono ostacoli lungo la strada, non il motivo della sessione. `[TODO DM: verificare dopo la sessione reale]` come per gli altri scontri del capitolo.*
 
 ---
 
@@ -573,6 +652,8 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 |---|---|---|---|
 | Officina di Rookledust | 10 Goblin + 1 Hobgoblin | 12 Goblin (stat block classico, iniziativa condivisa) + 1 Hobgoblin (Reaction) | scala sul quinto giocatore — niente Minion in questa campagna |
 | Posto di Vedetta | 2 Baaz + 1 Kapak | 3 Baaz + 1 Kapak (scheda ufficiale, senza aggiunte homebrew) | scala sul quinto giocatore, coerenza col Kapak del Cap. 3 |
+| Fattoria (05bis) | 1 Soldato + 6 Hobgoblin | 1 Ufficiale + 2 Soldati + 10 Hobgoblin (CR 10) | sessione speciale: Difficile in fascia bassa al 5° livello, con buone ricompense |
+| Guado del Raiding Rill (05bis) | 5 Baaz + 1 Bozak | 8 Baaz + 2 Bozak + 1 Kapak (CR 11) | sessione speciale: Difficile in fascia bassa al 5° livello, con buone ricompense |
 | Wheelwatch (soldati) | gruppi 1-8 per stanza | invariato, stat block classico anche se convergono 10+ | niente Minion in questa campagna — iniziativa condivisa se serve velocità |
 | Wheelwatch (Sivak, Dragonnel+Officer) | statici | + Bonus Action/Reaction leggere | notevoli ma non boss di capitolo |
 | Wheelwatch (Sivak Draconian) | CR4/HP57 ufficiale | invariato | verificato: la ricostruzione era già accurata |

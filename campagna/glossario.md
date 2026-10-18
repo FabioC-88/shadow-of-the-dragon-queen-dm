@@ -110,6 +110,8 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 | Northern Wastes | Terre Desolate del Nord *(f. plur.)* |
 | Wastes | Terre Desolate *(f. plur.)* |
 | Occupied Mansion | Magione Occupata *(f. sing.)* |
+| Estwilde | Estwilde *(resta: la regione a est di Kalaman, «il confine con l'Estwilde», «i predoni di Estwilde»)* |
+| Raiding Rill | Raiding Rill *(resta: il torrente venti miglia a est di Kalaman, «il guado del Raiding Rill»)* |
 
 ## Oggetti
 
@@ -121,6 +123,13 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 | sea elf | elfo marino |
 | Kagonesti Forest Shroud | Manto Forestale Kagonesti |
 | War of the Lance | Guerra delle Lance *(f. sing.)* |
+| driftglobe | globo fluttuante *(m. sing.)* |
+| Weapon, +1 | arma +1 *(f. sing.)* |
+| Cloak of Protection | Mantello di Protezione *(m. sing.)* |
+| Gauntlets of Ogre Power | Guanti della Potenza dell'Orco *(m. plur.)* |
+| Periapt of Wound Closure | Periapto della Chiusura delle Ferite *(m. sing.)* |
+| Wand of the War Mage, +1 | Bacchetta del Mago da Guerra +1 *(f. sing.)* |
+| Boots of Striding and Springing | Stivali dei Passi e dei Balzi *(m. plur.)* |
 
 ## Creature e schede
 
@@ -177,6 +186,31 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 | villager | abitante del villaggio |
 | Death Throes | Spasmi di Morte |
 | Lunar Sorcery | Stregoneria Lunare |
+| baaz draconian | draconiano baaz |
+| kapak draconian | draconiano kapak |
+| bozak draconian | draconiano bozak |
+| aurak draconian | draconiano aurak |
+| hobgoblin | hobgoblin *(invariato)* |
+| hobgoblin captain | capitano hobgoblin |
+| Hobgoblin Warrior | guerriero hobgoblin |
+| kender skirmisher | schermagliatore kender |
+| mastiff | mastino |
+| priest | sacerdote |
+| noble | nobile |
+| warhorse | cavallo da guerra |
+| young red dragon | giovane drago rosso |
+| wyvern | viverna |
+| Controlled Fall | Caduta Controllata |
+| Glide | Planata |
+| Draconic Devotion | Devozione Draconica |
+| Martial Advantage | Vantaggio Marziale |
+| Pack Tactics | Tattiche del Branco |
+| half plate | mezza armatura |
+| Vicious Lance | Lancia Crudele |
+| Assault Orders | Ordini d'Assalto |
+| Lightning Discharge | Scarica Elettrica |
+| Shape Theft | Furto di Forma |
+| Possession | Possessione |
 
 ## Sezioni del manuale, missioni, eventi
 
@@ -261,7 +295,19 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 | Wings of Death | Ali della Morte |
 | A Moment of Himself | Un Momento di Sé |
 | War Campaign | campagna di guerra |
+| Missions for Kalaman | Missioni per Kalaman |
+| Missions | Missioni |
+| Dangerous Recruits | Reclute Pericolose |
+| Draconians | Draconiani |
+| Enemy Armor | Armature Nemiche |
+| The Highmaster | La Gran Maestra |
+| Dread Servants | Servi del Terrore |
+| Flying Steeds | Cavalcature Volanti |
+| Magical Threats | Minacce Magiche |
+| Dragon Army Encounters | Incontri con l'Armata dei Draghi |
+| Hinterlands Encounters | Incontri nell'Entroterra |
+| Impostors | Impostori |
 
 ## Restano in inglese
 
-Shadow of the Dragon Queen, Eve of Ruin, Turn of Fortune's Wheel, Warriors of Krynn, Fizban's Treasury of Dragons, Dungeon Master's Guide, Curse of Strahd, Dragon Heist, Tasha's Cauldron of Everything, Monsters of the Multiverse, Lord Soth, Lord Bakaris, Kansaldi Fire-Eyes, Fewmaster, Brass Crab, Thornwall Keep, High Hill, Westide House, Steady Beacon, Kingfisher, Steel Springs, Heart's Hollow, Red Ruin.
+Shadow of the Dragon Queen, Eve of Ruin, Turn of Fortune's Wheel, Warriors of Krynn, Fizban's Treasury of Dragons, Dungeon Master's Guide, Curse of Strahd, Dragon Heist, Tasha's Cauldron of Everything, Monsters of the Multiverse, Lord Soth, Lord Bakaris, Kansaldi Fire-Eyes, Fewmaster, Brass Crab, Thornwall Keep, High Hill, Westide House, Steady Beacon, Kingfisher, Steel Springs, Heart's Hollow, Red Ruin, Estwilde, Raiding Rill.

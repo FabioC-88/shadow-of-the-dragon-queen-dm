@@ -165,7 +165,7 @@ Il nome "Vecna" non va mai rivelato ai giocatori in questa campagna. Le Sessioni
 
 ---
 
-> **Prossimo Passo al tavolo:** giocare la **Sessione 05 — Le Vedette Perdute**. Eredità della Sessione 04 da tenere presenti: **solo Razak e Brynja sono scudieri di Kalaman** (5 mo/settimana); la **lettera di Becklin per Rennard è ancora a Razak** (scena opzionale «Il Registro di Rennard»); **Garrick è in addestramento di alchimia con Wyhan** e dal suo *stash* può farsi preparare pozioni e veleni extra, a tempo e mo; il **fargab** lo tiene **Asurion**; **Becklin catturata** (il party lo sa da Jeyev).
+> **Prossimo Passo al tavolo:** giocare la **Sessione 05 — Le Vedette Perdute**, in cui Darrett affida tre incarichi: le vedette per prime, poi la fattoria a est e la strada verso l'Estwilde, che stanno nella **Sessione 05bis** (speciale e facoltativa, fuori dalla progressione: vedi «Sessioni Speciali» in `ai/agents/AGENTS.md`). Eredità della Sessione 04 da tenere presenti: **solo Razak e Brynja sono scudieri di Kalaman** (5 mo/settimana); la **lettera di Becklin per Rennard è ancora a Razak** (scena opzionale «Il Registro di Rennard»); **Garrick è in addestramento di alchimia con Wyhan** e dal suo *stash* può farsi preparare pozioni e veleni extra, a tempo e mo; il **fargab** lo tiene **Asurion**; **Becklin catturata** (il party lo sa da Jeyev).
 
 > **Prossimo Passo di preparazione:** **niente da preparare ex novo** — le sessioni sono già scritte fino alla **28**, il finale di campagna. Dopo ogni serata giocata, `/aggiorna-sessione N` ri-allinea la successiva ai delta reali; il materiale non giocato scivola in avanti di sessione in sessione, com'è già successo due volte (High Hill dalla 01 alla 02, la caduta di Vogler dalla 02 alla 03).
 >

@@ -173,6 +173,11 @@ Esegui l'intero flusso dell'Agente 7:
 
 Verifica se esiste `campagna/sessioni/dm-notes-sessione-[N+1].md`.
 
+> **Sessioni speciali** (`dm-notes-sessione-NNbis.md`, vedi `ai/agents/AGENTS.md`): se N è una
+> NNbis, la N+1 è la NN+1. Se N è una sessione normale ed esiste la sua NNbis, chiedi al DM se la
+> prossima serata è la speciale: in quel caso le scene da trasferire e il percorso A si applicano
+> alla NNbis, altrimenti alla N+1 come sempre.
+
 ---
 
 #### PERCORSO A — Sessione N+1 già esiste
