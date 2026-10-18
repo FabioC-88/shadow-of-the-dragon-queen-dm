@@ -6,7 +6,7 @@
 
 - **Livello attuale:** **4**
 - **Ultima sessione giocata:** **Sessione 04 — [TODO DM — data]** (chiusa a fine FASE 10: Consiglio di Kalaman, Prima Missione dell'officina di Rookledust, ritorno a Kalaman). Precedente: Sessione 03 — 27 settembre 2026 (barca che si stacca dal molo, Vogler in fiamme)
-- **Sede base:** **Castello di Kalaman** — alloggio gratuito per Razak e Brynja (scudieri giurati, condizioni della Maresciallo Vendri); Garrick, Asurion e Corin vi vivono come compagni di chi ha giurato. *(Vogler è stata evacuata e bruciata in Sessione 03.)*
+- **Sede base:** **Castello di Kalaman** — alloggio gratuito per Razak e Brynja (scudieri giurati, condizioni del Maresciallo Vendri); Garrick, Asurion e Corin vi vivono come compagni di chi ha giurato. *(Vogler è stata evacuata e bruciata in Sessione 03.)*
 - **XP Accumulati:** **900 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità.* XP guadagnati in Sessione 04: **600 per PG**, assegnati per intero
 - **Prossimo avanzamento:** **Livello 5**, prima della riconquista dell'Avamposto di Wheelwatch (sessioni future)
 

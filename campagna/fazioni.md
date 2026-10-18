@@ -60,7 +60,7 @@
 | **Sede operativa** | Castello di Kalaman |
 | **Obiettivo** | Difendere Kalaman e le terre di Solamnia orientale |
 
-**Stile operativo:** Milizia professionale. La Maresciallo Vendri è pragmatica e misura i PG per ciò che fanno. Il Governatore Miat è più cauto politicamente. I PG vengono probabilmente reclutati come agenti speciali o contractors.
+**Stile operativo:** Milizia professionale. Il Maresciallo Vendri bada al sodo e misura i PG per ciò che fanno. Il Governatore Miat è più cauto politicamente. I PG vengono probabilmente reclutati come agenti speciali o contractors.
 
 **PNG chiave:**
 - **Maresciallo Nestra Vendri** — Comandante militare; pragmatica, esigente

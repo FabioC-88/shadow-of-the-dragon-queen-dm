@@ -47,7 +47,7 @@
 
 ## Note per il DM
 
-- **Reclutamento:** Il capitolo inizia con la Maresciallo Vendri che recluta i PG. Gioca questa scena per stabilire la relazione authority-adventurers
+- **Reclutamento:** Il capitolo inizia con il Maresciallo Vendri che recluta i PG. Gioca questa scena per stabilire la relazione authority-adventurers
 - **Lord Soth — Attacco a Kalaman:** Questo è l'evento emotivo del capitolo. Soth NON è combattibile. I PG devono trovare come resistere/fuggire o sabotare il suo piano senza affrontarlo direttamente
 - **Leedara:** Può riapparire qui con informazioni su come indebolire Soth — usa saggiamente
 - **Bakaris:** Questo capitolo può svelare parzialmente la sua doppiezza — un piccolo tradimento che anticipa l'arco completo

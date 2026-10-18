@@ -78,7 +78,7 @@
 | PG | Fazione | Status | Note |
 |----|---------|--------|------|
 | [Tutti] | Armata dei Draghi Rossi | Nemici | Obiettivo: fermare l'invasione |
-| **Razak e Brynja** | Esercito di Kalaman | ✅ **Scudieri di Kalaman** (Sessione 04) | Giuramento ufficiale; 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello (condizioni della Maresciallo Vendri) |
+| **Razak e Brynja** | Esercito di Kalaman | ✅ **Scudieri di Kalaman** (Sessione 04) | Giuramento ufficiale; 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello (condizioni del Maresciallo Vendri) |
 | **Garrick, Asurion, Corin** | Esercito di Kalaman | TBD → Alleati | ✅ Sessione 04: **non hanno giurato**; vivono al Castello come compagni di chi ha giurato, senza paga né emblema |
 | [Tutti] | Cavalieri di Solamnia | TBD → Alleati | Si costruisce nel Cap 3 con Becklin |
 

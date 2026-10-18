@@ -78,7 +78,7 @@ Il testo completo del Cap. 7 nomina più PNG di quelli originariamente elencati 
 
 | PNG | Ruolo | Rilevanza | Note |
 |-----|-------|-----------|------|
-| **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governatore Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme alla Maresciallo Vendri e Lord Bakaris |
+| **Governatrice Fuline Thren** | Nuova leader civile di Kalaman, succede al defunto Governatore Calof Miat (ucciso nel massacro del consiglio, Cap. 4 — vedi Sessioni 07/08) | **Sessione 22** | Donna comune, "in abiti semplici", ancora incerta nel proprio ruolo; presiede il consiglio insieme al Maresciallo Vendri e Lord Bakaris |
 | **Haldri Leddis** | Capitano umano di una delle navi di Kalaman alla Cala del Lupo Terribile | **Sessione 22** | Riconosce i personaggi, prepara la nave per il ritorno; nessuna scheda di combattimento necessaria |
 | **Capitano Oklid Narnhelm** | Ufficiale (veterano) al comando della Porta dei Mercanti di Kalaman | Sessione 23 | Chiude il portone per timore di draconiani infiltrati tra i profughi; CD 16 Carisma per convincerlo ad aprire |
 | **Bakaris il Giovane** | Figlio di Lord Bakaris, ufficiale dell'Armata dei Draghi | Sessione 23–24 | Convince il padre a tradire Kalaman ("Diserzione di Bakaris (*Bakaris Defects*)", Sessione 23); **affrontato direttamente in combattimento aereo in Sessione 24** ("Red Ruin"/"Volo dei Dragonnel (*Flight of the Dragonnels*)") — in sella a un dragonnel dell'Armata dei Draghi al fianco di Red Ruin, fugge se ridotto a 20 PF o meno, sparisce nel caos se disarcionato o ucciso; esito da determinare al tavolo |
