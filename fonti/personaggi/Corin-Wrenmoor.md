@@ -108,7 +108,7 @@ Corin non lascia il bosco per più di un giorno da dodici anni. Ci mette due gio
 
 *Nessuna voce della tabella d6 — connessione dedicata, coerente con le altre quattro.*
 
-Sei anni fa, un temporale d'inizio autunno sorprese Ispin sull'altopiano. Uscì di sentiero per cercare riparo, scivolò lungo un impluvio e si fece male a una spalla e a una caviglia; passò due notti nel sottobosco, bagnato fino all'osso, prima che Corin lo trovasse — non per caso: i martin pescatori non erano rientrati al nido, e chi custodisce una pozza impara a leggere quando gli uccelli sono disturbati da qualcosa.
+Tre anni fa, un temporale d'inizio autunno sorprese Ispin sull'altopiano. Uscì di sentiero per cercare riparo, scivolò lungo un impluvio e si fece male a una spalla e a una caviglia; passò due notti nel sottobosco, bagnato fino all'osso, prima che Corin lo trovasse — non per caso: i martin pescatori non erano rientrati al nido, e chi custodisce una pozza impara a leggere quando gli uccelli sono disturbati da qualcosa.
 
 Lo tenne due settimane. Ispin, immobilizzato e con la bocca perfettamente funzionante, riempì il silenzio per entrambi.
 
@@ -116,7 +116,7 @@ Fu in quelle due settimane che disse la cosa che conta. Raccontando di Vogler �
 
 Corin non replicò niente. Ma per la prima volta ebbe una prova che **il suo gesto non era un'invenzione privata di una vecchia dell'altopiano**: c'era un secondo posto, a una giornata di cammino, dove la gente faceva una cosa che non sapeva spiegare, con lo stesso uccello dentro.
 
-Ispin se ne andò camminando male e promettendo di tornare. Non tornò mai — mandò invece, due volte in sei anni, un pacchetto senza lettera: ami da pesca la prima volta, un rotolo di corda buona la seconda. **Non si sono mai più visti.**
+Ispin se ne andò camminando male e promettendo di tornare. Non tornò mai — mandò invece, due volte in tre anni, un pacchetto senza lettera: ami da pesca la prima volta, un rotolo di corda buona la seconda. **Non si sono mai più visti.**
 
 > **[NOTA DM]** Questa è, delle cinque, l'unica connessione in cui Ispin non fa niente per il PG: viene solo salvato. Ma è anche l'unica in cui **Ispin dà involontariamente al PG l'informazione che gli cambierà la vita**, senza saperlo e senza capirla lui stesso. Se vuoi un momento amaro a Vogler: Corin arriva al molo, tocca il palo, e l'unica persona con cui potrebbe parlarne è quella nella barca in fiamme.
 
@@ -223,7 +223,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 
 | PNG | Relazione | Note |
 |---|---|---|
-| **Ispin Greenshield** | Lo trovò ferito nel sottobosco e lo curò due settimane, sei anni fa | Defunto all'inizio della campagna. Si sono visti **una volta sola**: è la connessione più breve delle cinque, e l'unica in cui Ispin non ha dato niente di intenzionale |
+| **Ispin Greenshield** | Lo trovò ferito nel sottobosco e lo curò due settimane, tre anni fa | Defunto all'inizio della campagna. Si sono visti **una volta sola**: è la connessione più breve delle cinque, e l'unica in cui Ispin non ha dato niente di intenzionale |
 | **Maren Wrenmoor** *(inventata)* | La custode che lo prese con sé a 15 anni e gli insegnò un rito di cui non conosceva il destinatario | Morta 4 anni fa, sepolta sulla riva nord della Pozza. Da lei viene il cognome |
 | **Maestro Halden Roke** | Conosciuto **di nome soltanto**, tramite i messaggi che Razak portava a valle | Nessun contatto diretto. Vivo a inizio campagna. Gancio a costo zero: due custodi di due eremi a mezza giornata l'uno dall'altro che non si sono mai parlati. ✅ **[NOTA DM — riservata]** Eremo e Pozza devastati dall'Armata, Roke morto o disperso (decisione del DM, 2026-10-17) |
 | **I pastori dell'altopiano** *(senza nome)* | Lo chiamano "quello della Pozza", gli portano bestie malate e formaggio | Gancio dormiente e crudele: sono i primi che il Cap. 3 mette sulla strada del Red Dragon Army |
@@ -238,7 +238,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 
 1. **Il nome.** "Corin Wrenmoor" è un segnaposto. Il cognome però ha un peso nella storia — è quello di Maren, non della sua famiglia — quindi conviene tenerne la logica anche cambiando le lettere.
 2. **Come è arrivato alla Pozza a quindici anni.** L'unico vero buco del background, ed è suo. Un villaggio che non c'è più, un mestiere da cui è scappato, una malattia che qualcuno ha portato lì a curare senza tornare a riprenderlo — o niente affatto: nel BG la cosa è scritta come qualcosa di cui non ha mai parlato con nessuno, nemmeno con Maren, quindi resta giocabile anche se Gabri decide di non riempirla mai.
-3. **Cosa ci vede lui nel rito.** Vent'anni di gesti senza un destinatario: fatti per abitudine, per rispetto verso una morta, o perché sotto sotto ha sempre saputo che qualcuno dall'altra parte c'era. Le tre risposte cambiano parecchio il personaggio — e cambiano soprattutto **quanto pesa il preludio**, che è il momento in cui una di quelle tre viene confermata.
+3. **Cosa ci vede lui nel rito.** Dodici anni di gesti senza un destinatario: fatti per abitudine, per rispetto verso una morta, o perché sotto sotto ha sempre saputo che qualcuno dall'altra parte c'era. Le tre risposte cambiano parecchio il personaggio — e cambiano soprattutto **quanto pesa il preludio**, che è il momento in cui una di quelle tre viene confermata.
 
 ---
 
@@ -249,7 +249,7 @@ Quello che conta è la forma dell'arco, che è già completa senza aggiungere ni
 - [ ] Confermato il **Cerchio** al 3° livello — consigliato Luna, alternative Mare e Terra
 - [x] **Divinità — DECISA (2026-09-03).** Habbakuk al posto di Chislev, per l'aggancio a Vogler (S01), al Blue Phoenix Shrine (S10) e a Yearkal (S11)
 - [x] Confermato il background **Eremita** (2024) e il talento d'origine **Healer**
-- [ ] Deciso **come Corin arrivò alla Pozza a 19 anni** — l'unico vuoto lasciato deliberatamente aperto nel background, da riempire con Gabri
+- [ ] Deciso **come Corin arrivò alla Pozza a 15 anni** — l'unico vuoto lasciato deliberatamente aperto nel background, da riempire con Gabri
 - [ ] Confermato **Broken Silence** come preludio, e deciso se giocarlo separatamente da quello di Brynja *(raccomandato: sì)*
 - [ ] **Avvisato Gabri** che il nome del dio è il premio del preludio — il personaggio non lo conosce fino a quella notte
 - [x] **Scena dell'8° livello — DECISA (2026-09-03).** **Duskwalker, S19 FASE 1**, riassegnata da Asurion (che si sposta al Passaggio di Wind's End, S16 FASE 4). **Da comunicare a Seba**, perché sostituisce una decisione presa con lui il giorno prima

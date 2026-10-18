@@ -332,7 +332,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Esercito di Kalaman** | ✅ Sessione 04: **non ha giurato** (nessuna paga né emblema); alloggia al Castello |
 
 #### Come conobbe Ispin Greenshield
-Sei anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un temporale e passò due notti ferito nel sottobosco prima che Corin lo trovasse — avvisato dai martin pescatori che non erano rientrati al nido. Lo tenne due settimane e non gli chiese nulla in cambio; **non si sono mai più visti.** Fu Ispin, riempiendo il silenzio con le sue storie, a nominargli per caso il palo del molo di Vogler con l'uccello che tiene un pesce in bocca — la prima prova che Corin abbia mai avuto che il suo rito non fosse un'invenzione privata.
+Tre anni fa Ispin, in viaggio per l'Hinterlund, uscì di sentiero durante un temporale e passò due notti ferito nel sottobosco prima che Corin lo trovasse — avvisato dai martin pescatori che non erano rientrati al nido. Lo tenne due settimane e non gli chiese nulla in cambio; **non si sono mai più visti.** Fu Ispin, riempiendo il silenzio con le sue storie, a nominargli per caso il palo del molo di Vogler con l'uccello che tiene un pesce in bocca — la prima prova che Corin abbia mai avuto che il suo rito non fosse un'invenzione privata.
 
 #### Come conobbe Razak e Asurion
 Corin custodisce la **Pozza del Martin Pescatore**, una sorgente sacra a Habbakuk a mezza giornata dall'eremo del Filo di Rame. Razak, da novizio, ci è passato più volte portando messaggi a valle, e si lavava la faccia nell'acqua senza sapere che fosse un gesto rituale; Asurion, che attraversa quella terra di mestiere, sa esattamente dove si trova pur non portandoci mai i suoi committenti (*"quella non è una strada"*). Con nessuno dei due Corin ha mai avuto bisogno di molte parole.
@@ -341,8 +341,8 @@ Corin custodisce la **Pozza del Martin Pescatore**, una sorgente sacra a Habbaku
 Non la conosceva affatto fino a pochi giorni fa. Le loro strade si sono unite per puro caso sulla via per Vogler, e nella stessa notte — allo stesso fuoco — le loro divinità hanno risposto insieme, dopo trecento anni di silenzio. È il legame più recente del gruppo, l'unico nato da un evento condiviso invece che da una storia in comune. **Il contrasto è il punto:** Brynja prega un dio di cui conosce il nome da nove anni senza risposta; Corin riceve risposte da dodici anni senza aver mai avuto un nome da pronunciare.
 
 #### PNG collegati
-- **Ispin Greenshield** — salvato da Corin nei boschi dell'Hinterlund **sei anni fa** (unica visita, mai più rivisto); defunto
-- **Maren Wrenmoor** *(inventata)* — la custode che lo prese con sé a 19 anni e da cui ha preso il cognome; morta 12 anni fa
+- **Ispin Greenshield** — salvato da Corin nei boschi dell'Hinterlund **tre anni fa** (unica visita, mai più rivisto); defunto
+- **Maren Wrenmoor** *(inventata)* — la custode che lo prese con sé a 15 anni e da cui ha preso il cognome; morta 4 anni fa
 - **Maestro Halden Roke** — conosciuto solo di nome tramite i messaggi di Razak, nessun contatto diretto ancora stabilito
 - **Yearkal** — sacerdotessa Dimernesti di Habbakuk, prigioniera nel Cap. 5: l'unica altra devota consapevole dello stesso dio in tutta la campagna
 
