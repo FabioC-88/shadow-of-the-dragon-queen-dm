@@ -1,174 +1,126 @@
 ---
 name: git-release
 description: >
-  Workflow completo di release per il modulo Foundry VTT Shadow of the Dragon Queen DM: build → aggiorna
-  campo download in module.json → commit → tag → GitHub Release con zip + module.json separato.
+  Pubblica una nuova versione del modulo Foundry VTT Shadow of the Dragon Queen DM: push di main, poi
+  push del tag vX.Y.Z. Build, commit dei pack, zip e GitHub Release li fa la CI (.github/workflows/main.yml).
   Usa questa skill ogni volta che vuoi pubblicare una nuova versione: "/git-release", "/git-release v1.0.6",
   "fai la release", "pubblica la versione su GitHub", "crea il tag e la release". Richiede conferma
-  esplicita del DM prima di ogni operazione che modifica lo stato remoto (push, tag, release).
+  esplicita del DM prima di ogni operazione che modifica lo stato remoto (push, tag).
   NON usare per semplici commit/push senza release — per quelli usa git direttamente.
 ---
 
 # Workflow Release Foundry VTT — /git-release
 
-Gestisci la release completa del modulo Shadow of the Dragon Queen DM su GitHub e Foundry VTT.
-Ogni operazione che modifica lo stato remoto (push, tag, GitHub Release) richiede conferma esplicita.
-Se qualcosa va storto tra Step 5 e Step 9, fermati e segnala l'errore senza procedere oltre.
+**La release la fa la CI.** Al push di un tag `v*`, `.github/workflows/main.yml`:
 
-**Struttura critica della release Foundry** (tutti e tre gli elementi devono essere presenti):
-- Zip contenente `module.json` + `packs/` nella root
-- `module.json` come asset separato della release GitHub
-- Campo `download` in `module.json` che punta allo zip
+1. fa il checkout di **`main`** (non del tag: costruisce quello che c'è su `main` in quel momento);
+2. scrive in `module.json` la versione del tag e il campo `download`;
+3. lancia `SKIP_BUMP=1 npm run build` e committa `module.json` e `packs/` su `main` come
+   `chore(release): vX.Y.Z` (autore `github-actions[bot]`);
+4. crea lo zip (`module.json` + `packs/` nella root) e la GitHub Release con due asset: lo zip e
+   `module.json`.
 
-Se uno di questi manca, Foundry non trova l'aggiornamento.
+La skill quindi fa solo due cose: porta `main` sul remoto e **poi** pusha il tag.
+
+**Non** lanciare `npm run build`, non committare `packs/` o `module.json`, non creare zip né release
+a mano. Duplicheresti il commit della CI (è successo con la v0.1.6). Se poi il push di `main` non
+passa, la CI pubblica i contenuti vecchi (è successo con la v0.1.7, ripubblicata come v0.1.8 il
+18/10/2026).
+
+Ogni operazione che modifica lo stato remoto richiede conferma esplicita del DM. Se un comando
+fallisce, fermati e segnala l'errore. **Mai pushare il tag se il push di `main` non è riuscito.**
+
+I comandi sono gli stessi in zsh e in PowerShell.
 
 ---
 
-## Step 0 — Verifica stato repo
+## Step 0 — Stato del repo
 
-```powershell
+```
 git status
-git log --oneline -5
+git fetch origin
+git log --oneline origin/main..main
+git log --oneline main..origin/main
 ```
 
-Mostra al DM cosa sta per essere incluso nella release. Se ci sono modifiche non committate
-inattese, chiedi come procedere prima di andare avanti.
+- **Modifiche non committate:** chiedi al DM se committarle prima, con un messaggio in stile
+  conventional commit in italiano.
+- **`main..origin/main` non vuoto:** sul remoto ci sono commit che qui mancano, di solito il commit
+  della CI dell'ultima release. Esegui `git pull --rebase origin main` prima di andare avanti. Se ci
+  sono conflitti su `packs/` o `module.json`, fermati e chiedi.
+- **`module.json` o `packs/` modificati da un build locale** (per provare i pack in Foundry): annulla
+  con `git restore module.json packs`. La versione la decide il tag, non il build locale.
 
 ---
 
-## Step 1 — Build
+## Step 1 — Versione
 
-```powershell
-npm run build
+```
+git describe --tags --abbrev=0
 ```
 
-Verifica che il build abbia successo (output con `✓` e hash pack). Se il build fallisce, fermati.
+La prossima versione è l'ultima con la patch +1 (v0.1.7 → v0.1.8), a meno che il DM non ne indichi
+un'altra (`/git-release v0.2.0`). Controlla che il tag non esista già:
+`git ls-remote --tags origin vX.Y.Z` non deve restituire nulla.
 
 ---
 
-## Step 2 — Leggi versione e repo
-
-```powershell
-$mod = Get-Content .\module.json | Out-String | ConvertFrom-Json
-$ver = $mod.version
-$repoId = $mod.id
-```
-
-Leggi anche il nome del proprietario dal remote:
-```powershell
-$remote = git remote get-url origin
-# Estrai owner/repo dall'URL (es. https://github.com/FabioC-88/dragon-heist-dm)
-```
-
-Mostra al DM: `Versione attuale da module.json: vX.Y.Z`
-
-Se il DM ha specificato una versione diversa nel comando (es. `/git-release v1.0.7`), usa quella
-e chiedi conferma: "Vuoi usare vX.Y.Z invece di vX.Y.Z da module.json?"
-
----
-
-## Step 3 — Aggiorna campo download (CRITICO)
-
-Aggiorna il campo `download` in `module.json` con l'URL della release che stai per creare.
-Il nome dello zip sarà `{repoId}-v{ver}.zip`.
-
-```powershell
-$tag = "v$ver"
-$zip = "$repoId-$tag.zip"
-$owner = # estratto dal remote in Step 2
-$downloadUrl = "https://github.com/$owner/$repoId/releases/download/$tag/$zip"
-
-$content = Get-Content .\module.json -Raw
-$content = $content -replace '"download":.*?".*?"', "`"download`": `"$downloadUrl`""
-Set-Content .\module.json $content
-```
-
-Verifica che il campo sia stato aggiornato correttamente leggendo `module.json`.
-
----
-
-## Step 4 — Chiedi conferma
-
-Prima di procedere con operazioni irreversibili, mostra al DM:
+## Step 2 — Conferma
 
 ```
 📦 Riepilogo release:
 
-  Versione:        v{ver}
-  File zip:        {repoId}-v{ver}.zip
-  Campo download:  https://github.com/{owner}/{repoId}/releases/download/v{ver}/{repoId}-v{ver}.zip
-  File da committare: module.json, packs/
-  Tag da creare:   v{ver}
-  GitHub Release:  sì, con 2 asset: zip + module.json separato
+  Versione:           vX.Y.Z
+  Commit da pushare:  (elenco di git log --oneline origin/main..main)
+  Poi:                push del tag → la CI fa build, commit dei pack su main e GitHub Release
 
 Confermato? (sì/no)
 ```
 
-Se il DM risponde no, annulla tutto senza fare nulla.
+Se il DM risponde no, non fare nulla.
 
 ---
 
-## Step 5 — Commit e push
+## Step 3 — Push di main
 
-```powershell
-git add module.json packs/
-git commit -m "chore(release): $tag"
+```
 git push origin main
 ```
 
+Se il push viene rifiutato, **fermati**: non creare il tag. Torna allo Step 0.
+
 ---
 
-## Step 6 — Tag e push tag
+## Step 4 — Tag
 
-```powershell
-git tag $tag
-git push origin $tag
+```
+git tag vX.Y.Z
+git push origin vX.Y.Z
 ```
 
 ---
 
-## Step 7 — Crea zip
+## Step 5 — Attendi la CI
 
-`module.json` deve essere nella root dello zip (non in sottocartella) — Foundry estrae qui.
-
-```powershell
-if (Test-Path $zip) { Remove-Item $zip -Force }
-Compress-Archive -Path module.json,packs -DestinationPath $zip -Force
 ```
+gh run list --workflow main.yml --limit 1
+gh run watch <id> --exit-status
+```
+
+Se la run fallisce, leggi `gh run view <id> --log-failed` e segnala l'errore al DM.
 
 ---
 
-## Step 8 — Crea GitHub Release
+## Step 6 — Verifica e riallinea
 
-La release deve avere DUE asset: lo zip e `module.json` separato.
-Foundry legge il manifest da `module.json` e scarica lo zip dall'URL nel campo `download`.
-
-```powershell
-gh release create $tag $zip module.json -t "Release $tag" -n ""
+```
+gh release view vX.Y.Z --json assets --jq '.assets[].name'
+git pull --rebase origin main
 ```
 
----
-
-## Step 9 — Pulizia
-
-Rimuovi il file zip locale dopo l'upload (non va nel repo).
-
-```powershell
-git rm $zip
-git commit -m "chore(release): remove zip after $tag"
-git push origin main
-```
-
----
-
-## Step 10 — Verifica
-
-```powershell
-gh release view $tag
-```
-
-Conferma che la release sia stata creata con entrambi gli asset (zip + module.json).
-Mostra il link al DM.
+- Gli asset devono essere `shadow-of-the-dragon-queen-dm-vX.Y.Z.zip` e `module.json`.
+- Il pull porta in locale il commit `chore(release): vX.Y.Z` della CI, così il prossimo push non
+  viene rifiutato.
 
 ---
 
@@ -177,9 +129,9 @@ Mostra il link al DM.
 ```
 ✅ Release completata
 
-  Tag:      {tag}
-  Release:  https://github.com/{owner}/{repoId}/releases/tag/{tag}
-  Asset:    {repoId}-{tag}.zip  +  module.json
+  Tag:      vX.Y.Z
+  Release:  https://github.com/FabioC-88/shadow-of-the-dragon-queen-dm/releases/tag/vX.Y.Z
+  Asset:    shadow-of-the-dragon-queen-dm-vX.Y.Z.zip  +  module.json
 
-Foundry troverà l'aggiornamento all'URL del campo "download" in module.json.
+Foundry trova l'aggiornamento tramite il manifest releases/latest/download/module.json.
 ```
