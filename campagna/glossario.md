@@ -4,7 +4,7 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 
 ## Regole
 
-1. **Titoli, gradi, ruoli e nomi comuni si traducono sempre**: *Maresciallo* Vendri, *Governatore* Miat, *Capitano* Hask, *Cavaliere* Jandin, *Ser* Roderick. Mai «Marshal Vendri».
+1. **Titoli, gradi, ruoli e nomi comuni si traducono sempre**: *Maresciallo* Vendri, *Governatore* Miat, *Capitano* Hask, *Cavaliere* Jandin, *Ser* Roderick. Mai «Marshal Vendri». *Maresciallo* resta maschile anche se Vendri è donna: **il**, **del**, **al Maresciallo** Vendri, mai «la Maresciallo» (decisione del DM, 18/10/2026). Se la frase richiede un aggettivo accordato, si usa il nome: *Vendri è soddisfatta*.
 2. **Nomi di persona restano come sono** (Kansaldi Fire-Eyes, Red Ruin, Lord Soth, Bakaris il Giovane). *Lord* resta *Lord*.
 3. **Luoghi:** si traduce la parte descrittiva (Castle Kalaman → *Castello di Kalaman*, Northern Wastes → *Terre Desolate del Nord*). Restano in inglese i nomi propri e quelli **già sentiti al tavolo** (Brass Crab, Thornwall Keep, High Hill, Westide House, Steel Springs, Heart's Hollow, Ironclad).
 4. **L'esercito nemico è l'*Armata dei Draghi*** (femminile: *l'Armata… è schierata*), la divinità è la *Regina dei Draghi*. *Fewmaster* resta: è un grado dell'Armata.
@@ -34,7 +34,7 @@ Fonte unica della terminologia italiana della campagna. **Ogni agente e ogni tes
 
 | Inglese | Italiano |
 |---|---|
-| Marshal | Maresciallo |
+| Marshal | Maresciallo *(m. anche per Vendri: il/del Maresciallo)* |
 | Governor | Governatore |
 | Captain | Capitano |
 | Sir | Ser |
