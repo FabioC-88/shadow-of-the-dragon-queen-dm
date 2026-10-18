@@ -53,13 +53,13 @@ I testi marcati come `[BOXED TEXT]` (o già in blockquote `>`) sono i **read-alo
 
 #### Stile Italiano
 - **Parole comuni:** "vedere", "sentire", "dire" vanno benissimo. Un verbo raro detto ad alta voce rallenta chi ascolta.
-- **Frasi brevi e concrete.** Un'informazione per frase quando si descrive un'azione.
+- **Frasi chiare e concrete, ma legate tra loro.** Un'informazione per frase quando si descrive un'azione rapida; per il resto connettivi, subordinate leggere e un ritmo vario. Una fila di frasi secche suona da verbale, nelle descrizioni come nelle battute dei PNG (per quelle vedi anche «Informazioni dei PNG» più sotto). Corto sì, sciatto no. La sintassi resta lineare e completa: niente dislocazioni del parlato (*«di pastori non se ne vede nessuno»* → *«nessun pastore è visibile»*), niente verbi lasciati a metà, niente catene di *e*.
 - **Tempo verbale:** **presente indicativo** nei testi da leggere (*«Una parete del Brass Crab si sfonda»*). Nelle note al DM, quello che serve.
 - **No calchi dall'inglese:** mai "fare senso", "tenere il proprio", "fissare gli occhi su", "cambiare questo stato di cose".
 - **Tono:** asciutto e fisico. Dragonlance qui è guerra e profughi: i dettagli fanno il lavoro, gli aggettivi no.
 
 #### Le regole dei testi da leggere
-Valgono le quattro regole di `CLAUDE.md` (dire la cosa una volta sola · descrivere senza spiegare il significato · non decidere l'azione del giocatore · persona coerente, nel dubbio **voi**). Il catalogo dei pattern da evitare, con esempi reali, è in `ai/agents/09-read-aloud-reviewer.agent.md`: leggilo prima di scrivere. L'Agente 9 rilegge comunque tutto alla fine, ma ogni riquadro che scrivi già pulito è un riquadro che non deve riscrivere.
+Valgono le regole di `CLAUDE.md` (corti ma scritti bene · dire la cosa una volta sola · descrivere senza spiegare il significato · non decidere l'azione del giocatore · persona coerente, nel dubbio **voi**). Il catalogo dei pattern da evitare, con esempi reali, è in `ai/agents/09-read-aloud-reviewer.agent.md`: leggilo prima di scrivere. L'Agente 9 rilegge comunque tutto alla fine, ma ogni riquadro che scrivi già pulito è un riquadro che non deve riscrivere.
 
 #### Terminologia — `campagna/glossario.md`
 **Prima di tradurre, apri `campagna/glossario.md` e usalo per ogni termine che contiene.** È la fonte unica: vince su come il termine compare nelle sessioni precedenti.
@@ -79,7 +79,7 @@ Quando il manuale fa dire a un PNG una serie di informazioni in elenco puntato (
 ```
 
 - Tutte le voci dell'elenco devono comparire nel testo; puoi riordinarle perché suonino come un discorso.
-- Frasi brevi, parlate. Un PNG non elenca: risponde, taglia corto, torna su ciò che gli preme.
+- **Parlato vero, non telegramma.** Il PNG parla come una persona che spiega qualcosa a voce: frasi complete, con i connettivi, nell'ordine in cui le direbbe lui (di solito prima la notizia e cosa vuole dai PG, poi i dettagli). Una fila di frasi da tre parole (*«Io resto qui con le reclute. La strada ve la segno io.»*) lo fa sembrare un automa. Un PNG non elenca, ma non parla nemmeno a monosillabi: anche chi è laconico per carattere usa frasi intere.
 - Se un'informazione arriva solo su domanda, mettila in un secondo blockquote introdotto da *Se chiedono di…*.
 - Valgono tutte le regole dei testi da leggere (niente spiegazioni del sottotesto, niente azioni decise per i PG).
 
@@ -103,7 +103,7 @@ Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle
 ## File di Riferimento
 
 ```
-CLAUDE.md                                  ← Le quattro regole dei testi da leggere
+CLAUDE.md                                  ← Le regole dei testi da leggere e delle battute dei PNG
 ai/agents/09-read-aloud-reviewer.agent.md  ← Catalogo dei pattern da evitare, con esempi
 campagna/party.md                          ← Composizione party, livello attuale
 campagna/png-incontrati.md                 ← Atteggiamenti e note sui PNG
