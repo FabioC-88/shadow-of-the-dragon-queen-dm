@@ -25,9 +25,9 @@
 
 *Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
 
-> Sono passati alcuni giorni dal ritorno con Rookledust. Dall'ala del castello che le hanno dato arrivano ronzii e piccoli scoppi a tutte le ore. Le guardie alla porta vi salutano per nome. Razak e Brynja hanno l'emblema blu e oro di Kalaman e una paga di cinque monete d'oro a settimana.
+> Sono passati alcuni giorni da quando siete tornati con Rookledust. Le hanno dato un'ala del castello tutta per sé, da lì arrivano ronzii e piccoli scoppi a tutte le ore. Ormai le guardie alla porta vi salutano per nome. Razak e Brynja portano l'emblema blu e oro di Kalaman e ricevono una paga di cinque monete d'oro a settimana.
 >
-> Una mattina Darrett Highwater viene a cercarvi. Non sorride. *"Ordini della Maresciallo. Due delle nostre vedette hanno smesso di riferire. Erano dalle parti di Vogler."*
+> Una mattina Darrett Highwater viene a cercarvi, con un'espressione più seria del solito. *"Ordini del Maresciallo. Due delle nostre vedette hanno smesso di fare rapporto."*
 
 ---
 
@@ -45,7 +45,7 @@ Se nessuno raccoglie la cosa, non forzarla — la lettera resta in tasca e la sc
 
 ### Testo — La Sala degli Archivi [BT-09b]
 
-> La sala odora di ceralacca e di carta vecchia. Scaffali di registri coprono le pareti fino al soffitto, ognuno etichettato con la stessa grafia minuta. Dietro una scrivania sommersa di fogli, un uomo anziano in giubba grigia alza gli occhi da un volume aperto, si aggiusta gli occhiali e aspetta.
+> La sala odora di ceralacca e di carta vecchia. Le pareti sono coperte fino al soffitto da scaffali di registri, tutti etichettati con la stessa grafia minuta. Dietro una scrivania sommersa di fogli, un uomo anziano in giubba grigia alza gli occhi da un volume aperto, si aggiusta gli occhiali e aspetta.
 >
 > *"Se è per le razioni, è il banco di sotto."*
 
@@ -57,13 +57,13 @@ Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — 
 
 ### Testo — Le Domande di Rennard [BT-09c]
 
-> *"Kendall. Con due elle?"*
+> *"Kendall. Si scrive con due elle?"*
 >
-> *"Anno d'ingresso."*
+> *"In che anno siete entrato al servizio?"*
 >
-> *"Chi ha firmato l'ammissione. Testimoni, se ce n'erano."*
+> *"Chi ha firmato l'ammissione? E c'erano dei testimoni?"*
 >
-> *"Casata."*
+> *"La casata?"*
 
 ---
 
@@ -71,7 +71,7 @@ Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — 
 
 **Il fascicolo di Brynja.** Poi Rennard va agli scaffali e torna con un fascicolo sottile, che apre sul banco.
 
-> *"Daewar, Brynja. C'è."*
+> *"Daewar, Brynja. Eccola."*
 >
 > Sfoglia. *"Rinnovata. Rinnovata. Rinnovata."* Continua a sfogliare per un po'. *"L'ultima è di marzo."*
 
@@ -79,11 +79,11 @@ Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — 
 
 **Se chiedono quando il Consiglio convocherà il banco di prova:**
 
-> *"Non lo decido io. Posso mettere a verbale un sollecito. Va in questo fascicolo."*
+> *"Non sta a me deciderlo. Se volete, posso mettere a verbale un sollecito: finisce in questo fascicolo, insieme al resto."*
 
 **Cosa consegna.** Una **copia autenticata** dell'iscrizione: i quattro anni di servizio di Razak sotto Becklin (343–347 AC), messi a registro adesso per la prima volta, e la conferma scritta che la candidatura di Brynja è depositata da nove anni, con data e firma di Roderick.
 
-> *"Copia autenticata. Due d'argento. Se la perdete, un'altra ne costa due."*
+> *"Ecco la copia autenticata. Sono due monete d'argento, e se la perdete un'altra copia ve ne costa altre due."*
 
 **L'ultima domanda.** Per ultima, chiusa la pratica, quando i due stanno per uscire:
 
@@ -91,7 +91,7 @@ Il funzionario è il **Cancelliere Aldous Rennard** (legale neutrale, umano — 
 
 Qualunque cosa rispondano, torna al registro.
 
-> *"Metto «esito sconosciuto»."*
+> *"Allora scrivo «esito sconosciuto»."*
 
 *[NOTA DM — riservata] Adatta secondo il destino di Becklin: ✅ è **catturata**, e il party lo sa da Jeyev (Sessione 03, FASE 0D), che l'ha vista portare via viva. Se lo dicono, Rennard scrive «catturata» e chiede la data; se tacciono, "esito sconosciuto" resta. In entrambi i casi **non smette di lavorare mentre lo chiede**. È l'unica domanda che non sta su nessun modulo: non sottolinearla, non fargliela commentare.*
 
@@ -130,20 +130,18 @@ Attraverso Darrett, i governanti di Kalaman affidano ai personaggi la missione �
 - **Darrett non li accompagna** (resta ai suoi doveri di addestramento con Vendri), ma fornisce indicazioni precise: seguire la strada verso nordovest, puntare al boschetto di betulle grigie oltre il Vingaard.
 
 **Da recitare — Darrett** *(segue la sua battuta del SETUP, che non va ripetuta; adatta alle domande del tavolo; l'elenco sopra resta il promemoria)*:
-> *"Le vedette le teniamo oltre il Vingaard, sempre in coppia, a guardare dove si muove l'Armata."*
+> *"Il Maresciallo Vendri vuole che le ritroviate e, se possibile, che scopriate cos'è successo. Se non sono più in grado di fare rapporto, guardate se ne avevano già preparato uno e riportatelo qui a Kalaman."*
 >
-> *"Quelle due stavano in un posto di osservazione, in un boschetto di betulle grigie: venti miglia a nordovest di qui, sei a est di Vogler. Lassù di betulle grigie ce ne sono poche."*
+> *"Le vedette sono sempre stanziate in coppia, oltre il Vingaard, per tenere d'occhio i movimenti dell'Armata. Queste due erano state assegnate a un posto di osservazione in un boschetto di betulle grigie, venti miglia a nordovest di qui, sei a est di Vogler. Lassù le betulle grigie sono rare: non avrete difficoltà a riconoscere il boschetto."*
 >
-> *"Dovete ritrovarle e scoprire cos'è successo. Se avevano un rapporto, portatelo a Kalaman."*
->
-> *"Io resto qui con le reclute. La strada ve la segno io: si va a nordovest, si passa il Vingaard e si punta alle betulle."*
+> *"Io devo restare qui con le reclute. Datemi la vostra mappa, che vi segno la strada: si va a nordovest, si passa il Vingaard e da lì si punta alle betulle."*
 
 *[NOTA DM — riservata] I giocatori non lo sanno ancora, ma le vedette non si sono "perse": sono state **assalite dai draconiani**. Una è già morta, l'altra è prigioniera e viene tormentata da tre baaz mentre un kapak sorveglia dagli alberi. Non anticiparlo. Fai partire il party credendo a una missione di ricerca — e lascia che la verità li colpisca al boschetto. Il fatto che tutto questo accada **a sei miglia da Vogler** è la vera notizia strategica: l'Armata non si è fermata al villaggio bruciato, e caccia a venti miglia da Kalaman.*
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Darrett Highwater** — Attitudine: +3 Alleato (invariata dalla S04). Più cupo del solito: la sparizione delle vedette lo turba, e sa dove sono sparite. Nessun PG è di Vogler, ma Darrett ha passato due anni a Thornwall Keep, sopra il villaggio, come scudiero di Becklin, e Razak ci ha servito quattro anni prima di lui. Se Razak, o chiunque altro, reagisce alla distanza, Darrett condivide un breve, sincero momento di lutto. *"Sei miglia. L'ultima volta che ho visto quelle colline, Vogler bruciava."*
+- **Darrett Highwater** — Attitudine: +3 Alleato (invariata dalla S04). Più cupo del solito: la sparizione delle vedette lo turba, e sa dove sono sparite. Nessun PG è di Vogler, ma Darrett ha passato due anni a Thornwall Keep, sopra il villaggio, come scudiero di Becklin, e Razak ci ha servito quattro anni prima di lui. Se Razak, o chiunque altro, reagisce alla distanza, Darrett condivide un breve, sincero momento di lutto. *"Sei miglia da Vogler. L'ultima volta che ho visto quelle colline, il villaggio stava bruciando."*
 - **Maresciallo Nestra Vendri** *(fuori scena, mandante)* — Attitudine: **+2 Amichevole** (confermata dal DM dopo la S04). Si fida ormai dei PG per gli incarichi delicati: è per questo che manda loro, e non una pattuglia qualsiasi. *[NOTA DM — riservata] Avrebbe voluto tutti e cinque sotto giuramento: vedi FASE 6.*
 
 ---
@@ -164,13 +162,13 @@ A un certo punto del viaggio, la strada passa **a sei miglia dalle rovine di Vog
 
 *[Il manuale non ha testo da leggere per questo tratto: riquadro scritto dal DM.]*
 
-> La strada scende verso il fiume tra muretti a secco e campi d'erba alta. A ovest, dietro una fila di colline basse, a meno di sei miglia, c'è Vogler. Il cancello di un recinto è spalancato e le pecore pascolano in mezzo alla strada, senza pastore.
+> La strada scende verso il fiume tra muretti a secco e campi d'erba alta. A ovest, oltre una fila di colline basse e a meno di sei miglia da qui, c'è quello che resta di Vogler. Più avanti il cancello di un recinto è rimasto spalancato, e le pecore pascolano in mezzo alla strada; nessun pastore è visibile nei dintorni.
 
 ### Il Lore di Nightlund (richiamo, opzionale)
 
 Se un PG non ha ancora superato **Intelligenza (Storia) CD 12** sul lore di Nightlund (vedi S04), è un buon momento per ritentare: le montagne a sud-est, la loro cappa perenne, il crepuscolo che la superstizione chiama "maledetto".
 
-> La provincia di **Nightlund** comprende i Monti Dargaard e la stessa Kalaman. Si dice che sia una terra di crepuscolo eterno. In realtà è soltanto cupa, e pioviggina spesso.
+> La provincia di **Nightlund** comprende i Monti Dargaard e la stessa Kalaman. La gente dice che sia una terra di crepuscolo eterno; in realtà è soltanto cupa, con il cielo basso e una pioggerella che raramente smette di cadere.
 
 *[NOTA DM — riservata] "In verità non è maledetta" resta la mezza-bugia utile: Nightlund era Knightlund, il feudo di Lord Soth. Non rivelarlo. Se un PG ha già percepito Soth nei capitoli precedenti, un brivido a sud-est basta e avanza.*
 
@@ -190,7 +188,7 @@ Se un PG non ha ancora superato **Intelligenza (Storia) CD 12** sul lore di Nigh
 *[NOTA DM — riservata] **Voce 2 e l'altopiano di Razak e Corin.** L'eremo del Filo di Rame e la Pozza del Martin Pescatore sono stati **devastati dall'Armata dei Draghi**; Maestro Roke e i monaci sono morti o dispersi (decisione del DM, 2026-10-17). I PG non lo sanno. Se esce la voce 2 e Razak o Corin chiedono dell'altopiano, i profughi possono portare la notizia di seconda mano; se nessuno chiede, non dirla. Dei monaci i profughi non sanno niente.*
 
 **Da recitare — un profugo, se chiedono dell'altopiano:**
-> *"Le colonne sono salite anche all'eremo e alla Pozza. Dalla strada si vedeva il fumo."*
+> *"Sì, le colonne sono salite anche lassù, all'eremo e alla Pozza. Noi eravamo giù sulla strada, e il fumo si vedeva da lì."*
 
 ---
 
@@ -213,9 +211,9 @@ Il posto di osservazione sorge nel boschetto di **betulle grigie**, alberi insol
 
 *[Il manuale non ha testo da leggere per questa scena: riquadro scritto dalla prosa della fonte, con tutti i suoi dati — betulle grigie, posto di vedetta, una vedetta legata a un albero, l'altra morta lì vicino, i baaz che tormentano la prigioniera (due nella fonte, tre in questa sessione: se cambi il numero in FASE 3, cambialo anche qui). Il kapak tra i rami resta fuori dal riquadro.]*
 
-> Le betulle grigie stanno strette attorno a una piccola radura, con i tronchi bianchi come ossa. In mezzo c'è il posto di vedetta: una piattaforma di legno, una scaletta a pioli, la cenere di un fuoco spento. A un albero più grosso degli altri è **legata una donna**, con i polsi dietro il tronco e l'emblema dell'esercito di Kalaman sul mantello. Ha la faccia gonfia di lividi.
+> Le betulle grigie stanno strette attorno a una piccola radura, con i tronchi bianchi come ossa. In mezzo c'è il posto di vedetta: una piattaforma di legno in cima a una scaletta a pioli, con ai piedi la cenere di un fuoco spento. A un albero più grosso degli altri è **legata una donna**, con i polsi dietro il tronco, l'emblema dell'esercito di Kalaman sul mantello e la faccia gonfia di lividi.
 >
-> Accanto a lei ci sono **tre draconiani**, squame bronzee e ali membranose ripiegate sulle spalle. Uno la punzecchia sulle costole con la punta della spada corta e lei sussulta; un altro ride e le dice qualcosa in una lingua piena di sibili.
+> Accanto a lei ci sono **tre draconiani** dalle squame bronzee, con le ali membranose ripiegate sulle spalle. Uno la punzecchia sulle costole con la punta della spada corta, e lei sussulta; un altro ride e le dice qualcosa in una lingua piena di sibili.
 >
 > Poco più in là, **mezzo nascosto nell'erba alta, è steso un uomo** con lo stesso emblema. Non si muove.
 
@@ -352,12 +350,10 @@ L'esploratrice riferisce che l'**Armata dei Draghi ha diviso le proprie forze** 
 - Lehra chiede ai personaggi di aiutarla a **tornare sana e salva a Kalaman** con questo rapporto.
 - Se i personaggi la scortano, i governanti di Kalaman sono **soddisfatti** e li ricompensano con un **bonus di 100 mo a testa**.
 
-**Da recitare — Lehra** *(a frasi corte, col fiato che le manca; l'elenco sopra resta il promemoria)*:
-> *"L'Armata si è divisa. Manda colonne contro i villaggi, in tutta la Hinterlund e giù fino alla Nightlund."*
+**Da recitare — Lehra** *(è ferita: parla piano e si ferma a riprendere fiato; l'elenco sopra resta il promemoria)*:
+> *"Ganon e io li abbiamo visti passare dal posto di vedetta. L'Armata si è divisa: manda colonne contro i villaggi in tutta la Hinterlund, e giù fino alla Nightlund. E non vanno a caso: da come si muovono, vogliono tagliare Kalaman fuori da Maelgoth e da Palanthas, a ovest."*
 >
-> *"Per come si muovono, vogliono tagliare Kalaman fuori da Maelgoth e da Palanthas, a ovest."*
->
-> *"Ganon e io dovevamo portare la notizia a Kalaman. Da sola non ci arrivo. Mi accompagnate?"*
+> *"Dovevamo portare la notizia a Kalaman. Adesso sono rimasta sola, e ridotta così non so se ci arrivo. Mi accompagnate?"*
 
 *[NOTA DM — riservata] Il bonus di 100 mo lo paga Kalaman al rientro: Lehra non lo promette.*
 
@@ -381,13 +377,13 @@ Con un prigioniero (fonte) o dalla vedetta, che ha spiato il nemico (adattamento
 **Da recitare — Lehra** *(una risposta per prova riuscita; l'elenco sopra resta il promemoria)*:
 
 *Servi del Terrore:*
-> *"Quelli con le squame servono la loro Regina dei Draghi come cani. Vengono avanti finché non li abbatti."*
+> *"Quelli con le squame servono la loro Regina dei Draghi come cani, e non hanno paura di morire. Vengono avanti finché non li abbatti, uno per uno."*
 
 *Cavalcature Volanti:*
-> *"Sopra le colline abbiamo visto soldati in groppa a wyvern e a bestie alate più piccole di un drago, che chiamano dragonnel."*
+> *"E non arrivano solo a piedi. Sopra le colline abbiamo visto soldati in groppa a dei wyvern, e ad altre bestie alate più piccole di un drago, che loro chiamano dragonnel."*
 
 *Minacce Magiche:*
-> *"Non sono tutti come questi. Ce ne sono che fanno magie, e altri che ti entrano nella testa. I soldati giurano di averne visto uno prendere la faccia di un uomo che aveva appena ammazzato. E ce n'è un tipo che quando muore esplode."*
+> *"E non sono tutti come questi. Ce ne sono che fanno magie, e altri che ti entrano nella testa. I soldati giurano di averne visto uno prendere la faccia di un uomo che aveva appena ammazzato. E poi ce n'è un tipo che, quando muore, esplode."*
 
 ### Stat Block — Esploratore (*Scout*) (Vedetta Lehra) · CR 1/2 · 100 XP *(alleata, non ostile — per riferimento)*
 
@@ -437,9 +433,9 @@ Mentre i personaggi completano il ritorno, scorgono **un piccolo gruppo di solda
 
 *[Il manuale non ha testo da leggere per questa scena: riquadro scritto dalla prosa della fonte, con tutti i suoi dati — gruppo piccolo e armato, a un miglio, né colori di Kalaman né dell'Armata dei Draghi, esausti e reduci da una battaglia, il capo che ferma la colonna e si avvicina: Cudgel Ironsmile.]*
 
-> A un miglio da voi, sulla strada, una dozzina di soldati armati procede verso Kalaman. Non portano i colori di Kalaman né il nero e rosso dell'Armata dei Draghi.
+> Sulla strada, a circa un miglio da voi, una dozzina di soldati armati marcia verso Kalaman. Non portano i colori della città, e nemmeno il nero e rosso dell'Armata dei Draghi.
 >
-> Quando la distanza si accorcia si vedono le armature ammaccate, le bende sporche di sangue secco, due che zoppicano appoggiati agli altri. Chi guida la colonna alza una mano e i soldati si fermano. È **Cudgel Ironsmile**: vi viene incontro con l'elmo sotto il braccio e la faccia grigia di polvere.
+> Man mano che la distanza si accorcia, distinguete le armature ammaccate, le bende sporche di sangue secco e due uomini che zoppicano, sorretti dai compagni. Chi guida la colonna alza una mano e i soldati si fermano. È **Cudgel Ironsmile**, che vi viene incontro con l'elmo sotto il braccio e la faccia grigia di polvere.
 
 ### Il Reincontro con Cudgel
 
@@ -450,15 +446,15 @@ Cudgel è **felice** di vedere che i personaggi sono sopravvissuti all'evacuazio
 - Cudgel cerca **riposo** e **lavoro** in città.
 - Se emerge che qualcuno dei personaggi (Razak e Brynja) ha giurato all'esercito di Kalaman, chiede loro di **presentarla alla Maresciallo Vendri**. *(E anche se non lo fanno, nei giorni a venire Cudgel allea sé stessa e i suoi superstiti all'esercito di Kalaman.)*
 
-**Da recitare — Cudgel** *(diretta, poche parole; l'elenco sopra resta il promemoria)*:
-> *"Per la barba di Reorx. Siete vivi."*
+**Da recitare — Cudgel** *(diretta, da soldato; l'elenco sopra resta il promemoria)*:
+> *"Per la barba di Reorx, siete vivi! Dopo Vogler non ci speravo più."*
 >
-> *"Questi sono quelli che restano dell'Ironclad. L'Armata ci ha presi fuori Vogler e ci ha fatti a pezzi. Da allora abbiamo girato largo, per colline e fossi, per non incrociarla di nuovo."*
+> *"Questi qui sono quelli che restano del Reggimento Ironclad. L'Armata ci ha presi fuori Vogler e ci ha fatti a pezzi. Da allora abbiamo girato al largo, per colline e fossi, per non incrociarla un'altra volta, e ci abbiamo messo un'eternità ad arrivare fin qui."*
 >
-> *"Adesso ci serve un letto. Poi lavoro."*
+> *"Adesso ci serve un letto, e dopo un lavoro. In una città che si prepara alla guerra troveremo di sicuro qualcuno che paga dei soldati."*
 
 *Se emerge che Razak e Brynja hanno giurato all'esercito di Kalaman:*
-> *"Lavorate per l'esercito? Allora portatemi dal vostro comandante."*
+> *"Siete con l'esercito di Kalaman, adesso? Allora fatemi un favore: portatemi dal vostro comandante. Una dozzina di spade che hanno già affrontato l'Armata gli faranno comodo."*
 
 *[NOTA DM — riservata] Cudgel è **+2 Amichevole** dalla S02 (`png-incontrati.md`: Gragonis ucciso, prigioniero consegnato vivo): mercenaria che rispetta forza e onestà. Il party **non sa che è viva**: è partita per il fronte con Becklin in S03 e Jeyev ne ha perso le tracce nella ritirata. Questo reincontro è l'occasione per farla salire: se il party la tratta da vecchia camerata (e non da estranea), o la presenta a Vendri, sale a **+3**. È un alleato militare prezioso per il resto del Cap. 4: il Reggimento Ironclad, anche ridotto, è forza combattente esperta. Legala anche al ricordo di Ispin — è uno dei pochi legami viventi con l'uomo il cui funerale ha radunato il party.*
 
@@ -473,7 +469,7 @@ La fonte lascia al DM la possibilità che **altri superstiti di Vogler** perduti
 **Come giocarlo.** Becklin **non è nella colonna**. Se il party chiede di lei, Cudgel conferma la cattura: l'ha vista anche lei, come Jeyev. Becklin resta prigioniera, ma il dubbio su come sia andata si chiude.
 
 **Da recitare — Cudgel, se chiedono di Becklin:**
-> *"L'hanno presa viva. L'ho vista portare via e non ho potuto fare niente: avevo i miei da tirare fuori di lì."*
+> *"L'hanno presa viva. L'ho vista mentre la portavano via, e non ho potuto fare niente: avevo i miei da tirare fuori di lì."*
 
 *[NOTA DM — riservata] Il destino è quello giocato in S03: **catturata**, con Jeyev testimone (`png-incontrati.md`), il suo elmo ora ce l'ha Darrett. Cudgel è il secondo testimone, non una svolta: conferma quello che sa Jeyev, niente di più. Il thread **resta aperto** ad Alta urgenza. «L'hanno presa viva» va detto guardando **Razak**, che era il suo scudiero (+3 Alleato). Dopo la sessione, in `png-incontrati.md` e `rapporti.md` annota solo se Cudgel ha confermato la cattura.*
 
@@ -549,7 +545,7 @@ Il resto della giornata è libero. Buoni usi:
 
 **Contenuto:** un PG può voler dare sepoltura, tracciare un simbolo sacro, o semplicemente prendersi un istante. È un momento breve ma potente per Brynja e Corin, che hanno un dio a cui affidarlo, e per Razak e Brynja, che hanno giurato allo stesso esercito di Ganon. Lehra, se presente, racconta chi era — poche parole, il taglio secco del lutto vero.
 
-> *"Ganon era di Kalaman. Ha una figlia. Diceva che finita la guerra avrebbe aperto una locanda, con dei letti veri."* — Lehra, se le si chiede del collega.
+> *"Ganon era di Kalaman, e lì ha una figlia. Diceva sempre che, finita la guerra, avrebbe aperto una locanda, con dei letti veri."* — Lehra, se le si chiede del collega.
 
 **[NOTA DM — riservata]** Se nessun PG raccoglie il momento, non forzarlo — ma lasciare il corpo di Ganon senza una parola è, in sé, una scelta di caratterizzazione del party. Registrala.
 
