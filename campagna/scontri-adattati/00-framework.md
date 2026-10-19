@@ -9,7 +9,7 @@ Regole del tavolo valide per **tutti** i capitoli in `campagna/scontri-adattati/
 
 ## Fonte del framework
 
-[fonti/Flee, Mortals! (MCDM)](../../fonti/Flee,%20Mortals!.md) — usato per la matematica degli incontri (più severa della DMG 2024 core) e per il design dei boss. Riferimenti citati come "azioni da Villain" ecc. sono terminologia di design, non testo riprodotto dal libro: le voci/i numeri specifici per questa campagna sono scritti da zero.
+[fonti/Flee, Mortals! (MCDM)](../../fonti/Flee,%20Mortals!.md) — usato per il CR cap e per il design dei boss. Il budget degli scontri si **verifica in XP con la DMG 2024** (punto 5): con i gruppi numerosi di CR basso la somma dei CR di *Flee, Mortals!* è risultata più morbida, non più severa (S05, vedi punto 5). Riferimenti citati come "azioni da Villain" ecc. sono terminologia di design, non testo riprodotto dal libro: le voci/i numeri specifici per questa campagna sono scritti da zero.
 
 ## Regole opzionali collegate
 
@@ -17,7 +17,7 @@ Regole del tavolo valide per **tutti** i capitoli in `campagna/scontri-adattati/
 
 ## Regole fisse
 
-1. **Budget CR per scontro:** tabella *Flee, Mortals!* "Encounter CR per Character" (per livello medio del party), moltiplicata ×5 (numero di PG). Il "CR cap" per livello non va superato per singole creature.
+1. **Budget CR per scontro:** tabella *Flee, Mortals!* "Encounter CR per Character" (per livello medio del party), moltiplicata ×5 (numero di PG). Il "CR cap" per livello non va superato per singole creature. Il totale si verifica poi in XP con la DMG 2024 (punto 5), che ha l'ultima parola.
 2. **Niente regola Minion — gruppi numerosi restano stat block classici, di qualunque dimensione.** *(Rimossa su richiesta di Fabio — usata solo nella Sessione 04 del Cap. 4, ora riconvertita, vedi ricontrollo capitolo-04.md.)* Per gestire i gruppi in fretta al tavolo: creature con lo stesso blocco statistico condividono l'iniziativa (una sola iniziativa di gruppo) — nessuna semplificazione di danno o PF, solo dei turni.
 3. **Non tutti i nemici nominati sono Action-Oriented — due livelli, non uno:**
    - **Minaccia nominata ma minore** (es. Gragonis — boss di una singola scena, non il climax del capitolo): solo una **Bonus Action** e una **Reaction** fisse, per non farla morire al primo round contro 5 iniziative. Niente Villain Actions, niente testo boxed dedicato — basta il testo d'ingresso già presente nei dm-notes.
@@ -30,8 +30,32 @@ Regole del tavolo valide per **tutti** i capitoli in `campagna/scontri-adattati/
 
    **Non riciclare lo stesso schema tra villain diversi.** Le tre Villain Actions di ogni boss devono nascere dalla sua natura specifica (Gholcag comanda una macchina d'assedio ed è famelica; Lord Soth è soprannaturale e non ha bisogno di "chiamare rinforzi"), non essere "apertura=rinforzi, controllo=area+prono, ultimate=colpo+HP temporanei" copiato e incollato con nomi diversi — quel rischio è già emerso una volta, va controllato ogni volta prima di consegnare un capitolo.
 4. **Lingua dei documenti:** mostri, stat block, nomi di azioni/abilità (Actions, Bonus Action, Reaction, Villain Actions, Multiattack, nomi delle creature) sempre in **inglese** — è la terminologia meccanica ufficiale, tradurla introduce solo ambiguità. **Tutto ciò che va letto ad alta voce ai giocatori resta in italiano** (testo delle Villain Actions, boxed text). Prosa/commentario da DM (perché abbiamo adattato, note tattiche, tabelle riepilogo) resta italiano.
-5. **Letalità target:** Deadly/Hard scalato su 5 PG, ma calibrato tenendo conto delle regole opzionali attive ([regole-opzionali.md](../regole-opzionali.md)) — critici massimizzati e riposo lungo che non guarisce più automaticamente alzano la letalità reale ben oltre quanto dice il budget CR nudo. Di conseguenza: **preferire la fascia bassa** di Hard/Deadly piuttosto che il tetto massimo, specialmente per scontri con più ondate o senza possibilità di riposo tra un incontro e l'altro. Verificare dopo ogni sessione reale e correggere PF/CD dei boss se serve (marcato `[TODO DM: verificare]` dove il numero è puramente a giudizio).
-6. **Villain Parties (capitolo 3 del libro):** 7 squadre da 5 villain, ciascuna calibrata per **5 PG** a un livello preciso (3°, 5°, 7°, 9°, 11°, 13°, 15°). **Amethyst Knife** (11°) coincide col livello finale del Cap. 7 — candidata a fare da scheletro meccanico per Kansaldi + luogotenenti, da valutare quando arriveremo lì.
+5. **Letalità target — budget in XP della DMG 2024** *(decisione del DM, 2026-10-19, dopo la S05: sostituisce la «fascia bassa» di prima)*. Ogni scontro si verifica sommando gli XP dei mostri (nessun moltiplicatore per il numero) contro la tabella qui sotto, già moltiplicata per 5 PG:
+
+   | Livello | Bassa | Moderata | Alta |
+   |:--:|--:|--:|--:|
+   | 3 | 750 | 1.125 | 2.000 |
+   | 4 | 1.250 | 1.875 | 2.500 |
+   | 5 | 2.500 | 3.750 | 5.500 |
+   | 6 | 3.000 | 5.000 | 7.000 |
+   | 7 | 3.750 | 6.500 | 8.500 |
+   | 8 | 5.000 | 8.500 | 10.500 |
+   | 9 | 6.500 | 10.000 | 13.000 |
+   | 10 | 8.000 | 11.500 | 15.500 |
+   | 11 | 9.500 | 14.500 | 20.500 |
+
+   - **Scontri che contano** (picco della sessione, boss, missioni con premio): **Alta**, fino a circa 1,25 × Alta se il party ci arriva riposato.
+   - **Scontri di passaggio:** **Moderata**.
+   - **Bassa** solo per riempitivi e incontri casuali.
+
+   **Perché è cambiata.** Alla prova del tavolo (S05, 2026-10-18) il posto di vedetta (1.000 XP al 4° livello, sotto la Bassa) è finito in pochi round con il party quasi illeso, e alla fattoria *ragnatela* e *crescita di spine* hanno tolto di mezzo metà degli hobgoblin al primo round. La somma dei CR conta dieci hobgoblin come CR 5, ma con 11 PF a testa li ferma un solo incantesimo ad area. Le regole opzionali (critici massimizzati, riposo lungo che rende solo i Dadi Vita) restano attive, ma **non sono più un motivo per scendere sotto il target**: pesano sulla giornata, non sul singolo scontro. Dopo ogni sessione reale si verifica di nuovo e si corregge (marcato `[TODO DM: verificare]` dove il numero è a giudizio).
+6. **I nemici giocano per vincere** *(decisione del DM, 2026-10-19: «i nemici hanno sempre poche opzioni, tanti PF ma pochi danni e pochi CC»)*. Le schede DSotDQ sono scritte con le regole 2014: un attacco, nessuna Bonus Action né Reaction, quasi nessun effetto sul colpo. Per compensare, in ogni scontro che conta:
+   - **Ogni capo ha Bonus Action e Reaction.** Ufficiali, bozak, capitani, sergenti: anche se non sono minacce nominate, prendono il trattamento «minore» del punto 3 (una Bonus Action e una Reaction fisse, nate dalla loro natura).
+   - **Rinforzi a ondate.** Almeno un terzo del budget entra al 2°-3° round, da un'altra direzione: il controllo d'apertura dei PG colpisce solo la prima ondata.
+   - **Bersagli intelligenti.** Chi ha armi a distanza tira a chi mantiene la concentrazione; dopo il primo incantesimo ad area i gruppi si allargano; chi scopre un terreno pericoloso si ferma e tira invece di attraversarlo.
+   - **Più danno, non più PF**, e su qualche nemico un effetto sul colpo (Prono, Afferrato, spinta) che tolga ai PG libertà di movimento.
+   - **Il morale è una valvola, non la regola.** La resa o la fuga «a metà gruppo» si usa solo se il tavolo è davvero in difficoltà.
+7. **Villain Parties (capitolo 3 del libro):** 7 squadre da 5 villain, ciascuna calibrata per **5 PG** a un livello preciso (3°, 5°, 7°, 9°, 11°, 13°, 15°). **Amethyst Knife** (11°) coincide col livello finale del Cap. 7 — candidata a fare da scheletro meccanico per Kansaldi + luogotenenti, da valutare quando arriveremo lì.
 
 ## Cosa NON cambia
 

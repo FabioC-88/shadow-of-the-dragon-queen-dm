@@ -1,7 +1,7 @@
 # Castello di Kalaman
 
 **Zona**: Kalaman — fortezza su una rupe alta trenta metri
-**Sessioni Visitate**: S4
+**Sessioni Visitate**: S4, S5, S5bis
 **Descrizione**: Il Castello di Kalaman torreggia su ogni altra struttura della città. Il sentiero che vi conduce risale il fianco della rupe tra statue gigantesche identiche a quelle delle mura; le mura sono di pietra annerita, fitte di feritoie. Costruito secoli fa e a lungo usato dai Cavalieri di Solamnia, è decorato ovunque con cavalieri scolpiti e con le immagini degli dèi e degli animali che onoravano. Il primo piano ospita il consiglio cittadino, il governatore, gli uffici governativi, una piccola biblioteca e l'armeria; il secondo il comando militare e gli alloggi degli ufficiali; il terzo le guardie. Gran parte del quarto piano e delle torri è vuota e fatiscente. Il seminterrato fa da deposito e ha porte murate da tempo che conducono ai sotterranei.
 
 ## PNG Incontrati
@@ -24,6 +24,9 @@
 - [S4] Il party è stato sistemato in una vecchia sala da ballo in disuso al quarto piano, tra colonne scolpite a nodo e statue di cavalieri e del dio Kiri-Jolith
 - [S4] Darrett ha raccontato il suo nuovo incarico: addestrare una compagnia di reclute con Vendri e fare da messaggero tra lei e il party
 - [S4] Il mattino dopo Darrett ha trasmesso gli ordini del Maresciallo: raggiungere l'inventrice Tatina Rookledust, dodici miglia a sud, per scoprire cosa sa del congegno a forma di drago visto a Vogler e portarla a Kalaman come consulente
+- [S5] Darrett ha affidato al party tre incarichi del Maresciallo Vendri: ritrovare le vedette scomparse, ispezionare una fattoria a diciotto miglia a est e scoprire chi assalta i viaggiatori sulla strada verso l'Estwilde
+- [S5] Il party ha fatto rapporto al Maresciallo Vendri sul piano nemico di isolare Kalaman da Maelgoth e Palanthas, e ha ricevuto il bonus di 100 monete d'oro a testa per la scorta della vedetta
+- [S5bis] Nel cortile Darrett ha salutato il party prima della partenza verso est, ripassando i due incarichi rimasti
 
 ## Note Aggiuntive
 

@@ -1,11 +1,12 @@
 # DM Notes — Sessione 05: Le Vedette Perdute
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: L'Ombra della Guerra (*Shadow of War*), sezione «Missioni per Kalaman» (*Missions for Kalaman*, righe 2550–2613) → missioni **«Gli Esploratori Scomparsi» (*Missing Scouts*)** (righe 2595–2601) e **«Il Ritorno delle Truppe» (*Troops Return*)** (righe 2603–2609), con cornice «Chiarire la Minaccia» (*Clarifying the Threat*) (righe 2559–2572). In FASE 1 Darrett affida anche **«Tendere un'Imboscata al Nemico» (*Ambushing the Enemy*)** e **«Il Blocco Draconico» (*Draconian Blockade*)** (righe 2578–2593), che si giocano nella **Sessione 05bis**, speciale e facoltativa
-**Livello party:** 4 → **5 a fine sessione** (vedi Avanzamento)
-**Avanzamento:** ✅ **Decisione del DM (2026-10-17): Livello 5 a fine sessione**, *«quando la storia lo dice»*. Il passaggio dipende da «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe». La fonte fa salire i personaggi al 5° livello dopo la sezione «Missioni per Kalaman» e **prima** dell'Avamposto di Wheelwatch (riga 2611–2613: *"the characters advance to 5th level"*); la Sessione 06 è già preparata come Wheelwatch a Livello 5. Le altre due missioni affidate da Darrett stanno nella Sessione 05bis, speciale e facoltativa, e non spostano il passaggio (decisione del DM, 2026-10-18). Il passaggio arriva **a missioni concluse**: se la serata non arriva a chiuderle, slitta a quando si chiudono.
+**Livello party:** 🔀 **resta 4 a fine sessione** (decisione del DM, 2026-10-19: sale «probabilmente dopo la prossima missione secondaria della 05bis», cioè alla fine della 05bis, dopo il guado del Raiding Rill) · *piano originale, superato:* 4 → **5 a fine sessione** (vedi Avanzamento)
+**Avanzamento:** 🔀 **Post-sessione (decisione del DM, 2026-10-19): il Livello 5 NON è arrivato a fine S05.** Il party resta al **4°** e sale «probabilmente dopo la prossima missione secondaria della 05bis», cioè **dopo il guado del Raiding Rill (*Il Blocco Draconico*), alla fine della 05bis**; `campagna/party.md` resta al 4. *Testo originale, storico e superato:* ✅ **Decisione del DM (2026-10-17): Livello 5 a fine sessione**, *«quando la storia lo dice»*. Il passaggio dipende da «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe». La fonte fa salire i personaggi al 5° livello dopo la sezione «Missioni per Kalaman» e **prima** dell'Avamposto di Wheelwatch (riga 2611–2613: *"the characters advance to 5th level"*); la Sessione 06 è già preparata come Wheelwatch a Livello 5. Le altre due missioni affidate da Darrett stanno nella Sessione 05bis, speciale e facoltativa, e non spostano il passaggio (decisione del DM, 2026-10-18). Il passaggio arriva **a missioni concluse**: se la serata non arriva a chiuderle, slitta a quando si chiudono.
 **XP accumulati:** **900 XP** in `campagna/party.md` (300 + i 600 della Sessione 04, assegnati per intero). Dal Cap. 3 l'avanzamento è a pietra miliare: gli XP sono solo contabilità. Questa sessione **ha** un combattimento: 3 draconiani baaz (*baaz draconian*, CR 1/2, 100 XP cad.) + 1 draconiano kapak (*kapak draconian*, CR 3, 700 XP) = **1.000 XP** in caso di vittoria completa (schede ufficiali DSotDQ p197-198; la fonte dice 2 baaz, `scontri-adattati/capitolo-04.md` li porta a 3 per il quinto giocatore, e il DM li ha confermati il 2026-10-17), più il **bonus di 100 mo a testa** per la scorta dell'esploratrice (*scout*) a Kalaman.
 **Obiettivo sessione:** Ricevere da Darrett tre incarichi, con le vedette come priorità (gli altri due sono per la Sessione 05bis); ritrovare le due vedette di Kalaman a nord del Vingaard (venti miglia a nordovest della città, sei a est di Vogler); affrontare al posto di vedetta **tre baaz e un kapak**, che qui cala dagli alberi e combatte in mischia; liberare l'esploratrice superstite e portarne il rapporto a Kalaman (il piano nemico di isolare la città); sulla via del ritorno, **reincontrare Cudgel Ironsmile** e i superstiti del Reggimento Ironclad in fuga da Vogler; se le chiedono di **Becklin**, Cudgel ne conferma la cattura.
 **Durata stimata:** ~2h45m (6 fasi: 20 + 20 + 55 + 20 + 35 + 15 = 165 min), più ~15 min se si gioca la **FASE 0** (Il Registro di Rennard, scena opzionale a Kalaman)
+**Giocata il:** **18 ottobre 2026** (serata proseguita con la 05bis, FASI 1-2 e inizio FASE 3) · Recap in `recaps/recap-sessione-05.md` · delta in fondo a questo file, sezione **📋 ACCADUTO IN SESSIONE**
 **Sessione precedente:** dm-notes-sessione-04.md (giocata come da piano, recap in `recaps/recap-sessione-04.md`) — Cap. 4: L'Ombra della Guerra: Consiglio di Kalaman, «La Prima Missione» (*The First Mission*): l'officina assediata di Tatina Rookledust, la verità sul boilerdrak, il dono del fargab, ritorno a Kalaman (righe 2447–2548)
 
 > ⚠️ **Nota pre-sessione:** La Sessione 04 è stata giocata come da piano e si è chiusa con il party rientrato al Castello di Kalaman dopo aver salvato e scortato l'inventrice **Tatina Rookledust** (ora ospite dei difensori), aver ottenuto il **fargab** (dispositivo di comunicazione a lunga distanza, set accoppiato) e la prima conferma diretta che il boilerdrak è una macchina, non un drago. **Stato dopo la S04** (da `recaps/recap-sessione-04.md` e `campagna/party.md`): (1) **hanno giurato all'esercito di Kalaman solo Razak e Brynja**, scudieri di Kalaman a 5 mo/settimana, con l'emblema blu e oro e l'alloggio al Castello; **Garrick, Asurion e Corin no** (nessuna paga, nessun emblema). Gli incarichi restano affidati a tutto il party: Darrett in S04 ha detto «Basta che giuri uno di voi». (2) La **cassa di Becklin** è stata consegnata da Razak a Darrett. (3) Il **rotolo per Wyhan** è stato consegnato da Garrick: predizione **Vesti Rosse** (è un parere, non l'esito della Prova, che si gioca in S17); Wyhan lo addestrerà in **alchimia** e gli ha rivelato la sua **scorta segreta (*stash*)**, improvvisata al tavolo: una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. (4) La **busta di Becklin per Rennard** è ancora in mano a Razak: la scena opzionale slitta qui come **FASE 0**. (5) Il **fargab** lo tiene **Asurion**; gli XP della S04 sono stati assegnati per intero (600 per PG). (6) Il Maresciallo Vendri è a **+2 Amichevole** e Rookledust a **+2 Amichevole** (confermati dal DM: il party si è comportato bene con entrambe; Vendri avrebbe voluto che giurassero tutti e cinque). (7) Garrick **non** aveva aperto il rotolo (confermato dal DM). **Questa sessione apre qualche giorno dopo**, con Darrett che porta tre nuovi incarichi da Vendri. **Da verificare al tavolo** (il recap non lo dice): se **Rhys** è a Kalaman; se è stato ritirato il primo pagamento di 5 mo. Il livello resta 4 fino a fine sessione (vedi Avanzamento): nessun aggiornamento di `campagna/party.md` per il livello prima di aver giocato la S05.
@@ -31,7 +32,7 @@
 
 ---
 
-## FASE 0 — Il Registro di Rennard (scena opzionale, a Kalaman)
+## FASE 0 — Il Registro di Rennard (scena opzionale, a Kalaman) ⏸️ NON CONFERMATA (il recap non dice se è stata giocata: TODO DM 3)
 
 *~15 minuti · Scena opzionale, giocabile in qualunque momento a Kalaman: la lettera di Becklin per il Cancelliere, il fascicolo di Brynja, l'estratto autenticato · Razak e Brynja*
 
@@ -113,7 +114,7 @@ Qualunque cosa rispondano, torna al registro.
 
 ---
 
-## FASE 1 — Ordini al Mattino: le Vedette Silenti
+## FASE 1 — Ordini al Mattino: le Vedette Silenti ✅ GIOCATA (come da piano)
 
 *~20 minuti · Il briefing di Darrett, i tre incarichi di Vendri, la partenza verso nordovest*
 
@@ -145,7 +146,7 @@ Attraverso Darrett, i governanti di Kalaman affidano ai personaggi tre missioni 
 >
 > *"Però prima le vedette. Se una delle due è ancora viva, ogni giorno conta, e quello che hanno visto oltre il Vingaard ci serve più di qualsiasi altra cosa. La fattoria e la strada possono aspettare il vostro ritorno, ma poi bisogna occuparsene."*
 
-*[NOTA DM — riservata] **Gli altri due incarichi** sono «Tendere un'Imboscata al Nemico» e «Il Blocco Draconico» (fonte, righe 2578–2593) e si giocano nella **Sessione 05bis**, speciale e facoltativa, con scontri Difficili e un oggetto magico non comune dall'armeria come premio per ogni missione (decisioni del DM, 2026-10-18). Darrett sa solo quello che hanno raccontato contadini e viaggiatori, cioè «soldati». Che alla fattoria l'Armata dei Draghi stia addestrando mercenari hobgoblin, e che sulla strada ci siano draconiani guidati da bozak, il party lo scopre sul posto. La promessa dell'armeria serve a invogliarli, perché il passaggio al 5° livello non dipende da queste due missioni.*
+*[NOTA DM — riservata] **Gli altri due incarichi** sono «Tendere un'Imboscata al Nemico» e «Il Blocco Draconico» (fonte, righe 2578–2593) e si giocano nella **Sessione 05bis**, speciale e facoltativa, con scontri Difficili e un oggetto magico non comune dall'armeria come premio per ogni missione (decisioni del DM, 2026-10-18). Darrett sa solo quello che hanno raccontato contadini e viaggiatori, cioè «soldati». Che alla fattoria l'Armata dei Draghi stia addestrando mercenari hobgoblin, e che sulla strada ci siano draconiani guidati da bozak, il party lo scopre sul posto. La promessa dell'armeria serve a invogliarli, perché il passaggio al 5° livello non dipende da queste due missioni.* 🔀 *Post-sessione (riverifica Agente 3): l'ultima frase è superata. Il DM (2026-10-19) ha legato il 5° livello alla fine della 05bis, dopo il guado del Raiding Rill: vedi «Tempo Libero e Avanzamento» in FASE 6.*
 
 *[NOTA DM — riservata] I giocatori non lo sanno ancora, ma le vedette non si sono "perse": sono state **assalite dai draconiani**. Una è già morta, l'altra è prigioniera e viene tormentata da tre baaz mentre un kapak sorveglia dagli alberi. Non anticiparlo. Fai partire il party credendo a una missione di ricerca — e lascia che la verità li colpisca al boschetto. Il fatto che tutto questo accada **a sei miglia da Vogler** è la vera notizia strategica: l'Armata non si è fermata al villaggio bruciato, e caccia a venti miglia da Kalaman.*
 
@@ -157,7 +158,7 @@ Attraverso Darrett, i governanti di Kalaman affidano ai personaggi tre missioni 
 
 ---
 
-## FASE 2 — Verso Nord: di Nuovo verso Vogler
+## FASE 2 — Verso Nord: di Nuovo verso Vogler ✅ GIOCATA (come da piano — incontri nell'Entroterra non registrati)
 
 *~20 minuti · Il viaggio a nordovest, l'avvicinarsi a Vogler, il lore di Nightlund che si rinsalda, gli incontri nell'Entroterra*
 
@@ -183,7 +184,7 @@ Se un PG non ha ancora superato **Intelligenza (Storia) CD 12** sul lore di Nigh
 
 *[NOTA DM — riservata] "In verità non è maledetta" resta la mezza-bugia utile: Nightlund era Knightlund, il feudo di Lord Soth. Non rivelarlo. Se un PG ha già percepito Soth nei capitoli precedenti, un brivido a sud-est basta e avanza.*
 
-### Incontri nell'Entroterra
+### Incontri nell'Entroterra ⏸️ NON CONFERMATA (il recap non dice se si è tirato né cosa è uscito: TODO DM 3)
 
 *Durante il viaggio, tira sulla tabella (o scegli) per dare colore al percorso. Basta un incontro, due se il gruppo indugia. Nessuno è un combattimento obbligatorio. Tabella scritta per questa sessione: la voce 1 viene dagli Incontri con l'Armata dei Draghi (*Dragon Army Encounters*, appendice B, 56–60: 1d6 kapak travestiti da viandanti, qui ridotti a due); le voci 2-4 sono del DM. La tabella della fonte per queste strade, Incontri nell'Entroterra (*Hinterlands Encounters*, righe 2467–2473: pioggia, banditi, fattoria bruciata, kender), è quella già usata in S04.*
 
@@ -203,7 +204,7 @@ Se un PG non ha ancora superato **Intelligenza (Storia) CD 12** sul lore di Nigh
 
 ---
 
-## FASE 3 — Il Posto di Vedetta: l'Agguato del Kapak
+## FASE 3 — Il Posto di Vedetta: l'Agguato del Kapak ✅ GIOCATA 🔀 (scontro finito in pochissimo tempo, party quasi illeso: solo Garrick e Razak con qualche ferita — vedi nota di tavolo in «ACCADUTO IN SESSIONE»)
 
 *~55 minuti · L'arrivo al boschetto di betulle grigie, la vedetta prigioniera, i tre baaz, l'agguato del kapak, il combattimento*
 
@@ -343,7 +344,7 @@ Se i personaggi **catturano un draconiano** (difficile: combattono fino alla mor
 
 ---
 
-## FASE 4 — La Vedetta e il Piano Nemico
+## FASE 4 — La Vedetta e il Piano Nemico ✅ GIOCATA (Lehra liberata, rapporto strategico completo — quali info di «Chiarire la Minaccia» non registrato, TODO DM 1)
 
 *~20 minuti · Liberare l'esploratrice superstite, il rapporto strategico, la scorta verso Kalaman*
 
@@ -428,7 +429,7 @@ Arco lungo. Attacco con arma a distanza: +4 al colpire, gittata 45/180 m.
 
 ---
 
-## FASE 5 — Il Ritorno degli Ironclad
+## FASE 5 — Il Ritorno degli Ironclad ✅ GIOCATA (Cudgel e i superstiti reincontrati — Becklin e presentazione a Vendri non registrati, TODO DM 2)
 
 *~35 minuti · Sulla via del ritorno, l'incontro con Cudgel Ironsmile e i superstiti del Reggimento Ironclad, il destino di Becklin*
 
@@ -492,7 +493,7 @@ La fonte lascia al DM la possibilità che **altri superstiti di Vogler** perduti
 
 ---
 
-## FASE 6 — Ritorno a Kalaman
+## FASE 6 — Ritorno a Kalaman ✅ GIOCATA 🔀 (rapporto a Vendri fatto, bonus 100 mo assegnato; il Livello 5 NON è arrivato: vedi «Tempo Libero e Avanzamento»)
 
 *~15 minuti · Il rapporto a Vendri, la presentazione di Cudgel, il tempo libero, l'anticipo delle prossime missioni*
 
@@ -515,7 +516,7 @@ I personaggi riferiscono a Darrett o direttamente a Vendri. Vendri è **molto so
 
 > *"Restano la fattoria a est e la strada dell'Estwilde. Riposatevi un paio di giorni, poi vorrei che ve ne occupaste voi, e per l'armeria vale quello che vi ha detto Darrett."* — Vendri, solo se segue la 05bis.
 
-### Tempo Libero e Avanzamento
+### Tempo Libero e Avanzamento 🔀 (Livello 5 NON a fine sessione — decisione del DM, 2026-10-19)
 
 Il resto della giornata è libero. Buoni usi:
 - Ritirare la paga settimanale (5 mo, solo Razak e Brynja, che hanno giurato) e il bonus della missione (**100 mo a testa** per la scorta di Lehra), attingere all'armeria.
@@ -524,6 +525,8 @@ Il resto della giornata è libero. Buoni usi:
 - Garrick può tornare da Wyhan per l'addestramento in alchimia (iniziato in S04, vedi Hook PG) o farsi preparare pozioni e veleni dalla sua scorta segreta, se ci mette tempo e mo. Chi ha altri thread aperti può proseguirli nel tempo libero.
 
 *[NOTA DM — riservata] **Avanzamento — Livello 5 a fine sessione** (decisione del DM, 2026-10-17: *«quando la storia lo dice»*). La fonte colloca il passaggio al **Livello 5** dopo la sezione «Missioni per Kalaman» e prima di Wheelwatch (riga 2611–2613). Contano «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe», e la Sessione 06 è l'Avamposto di Wheelwatch: il party sale al 5 **qui**, a missioni concluse, a fine serata. L'Imboscata e il Blocco non contano, perché la Sessione 05bis che li contiene è facoltativa (decisione del DM, 2026-10-18). Se la serata non arriva a chiudere le missioni, il passaggio slitta a quando si chiudono. `campagna/party.md` si aggiorna dopo la sessione, non prima.*
+
+🔀 **Post-sessione — Livello 5 NON avvenuto (decisione del DM, 2026-10-19).** Il rapporto a Vendri si è chiuso **senza avanzamento**: il party **resta al 4° livello** e sale **«probabilmente dopo la prossima missione secondaria della 05bis»**, cioè **dopo il guado del Raiding Rill (*Il Blocco Draconico*), alla fine della 05bis**. La nota qui sopra («a fine sessione», «qui, a missioni concluse») è **testo storico, superato**. Resta fermo che il passaggio avviene prima dell'Avamposto di Wheelwatch (Sessione 06). *[NOTA DM — riservata]* Questa decisione lega il 5° livello alla 05bis, mentre quella del 2026-10-18 la teneva fuori dalla progressione: se la 05bis non si chiude, quando sale? **[TODO DM]**. Il piano della 05bis, che dà il 5° livello già in apertura, va riletto sul 4° (non è di questo step).
 
 ---
 
@@ -554,7 +557,7 @@ Il resto della giornata è libero. Buoni usi:
 
 ---
 
-### Scena Opzionale — Spotlight Personaggio: la Vedetta Caduta
+### Scena Opzionale — Spotlight Personaggio: la Vedetta Caduta ⏸️ NON CONFERMATA (onoranze a Ganon: TODO DM 3)
 
 **Trigger:** dopo il combattimento (Fase 3/4), sul corpo di **Ganon**, la vedetta morta.
 
@@ -566,7 +569,7 @@ Il resto della giornata è libero. Buoni usi:
 
 ---
 
-### Scena Opzionale — Spotlight: Cudgel e il Ricordo di Ispin
+### Scena Opzionale — Spotlight: Cudgel e il Ricordo di Ispin ⏸️ NON CONFERMATA (TODO DM 3)
 
 **Trigger:** durante il reincontro con Cudgel (Fase 5) o nel tempo libero a Kalaman (Fase 6).
 
@@ -580,7 +583,7 @@ Il resto della giornata è libero. Buoni usi:
 
 ## 📍 Riferimento — Gli altri due incarichi di Darrett (Sessione 05bis)
 
-*Darrett li affida in FASE 1 insieme alle vedette, che hanno la precedenza. Si giocano nella **Sessione 05bis** (`dm-notes-sessione-05bis.md`), speciale e facoltativa, con scontri Difficili e un oggetto magico non comune dall'armeria di Kalaman per ogni missione completata. Il passaggio al 5° livello non dipende da queste missioni.*
+*Darrett li affida in FASE 1 insieme alle vedette, che hanno la precedenza. Si giocano nella **Sessione 05bis** (`dm-notes-sessione-05bis.md`), speciale e facoltativa, con scontri Difficili e un oggetto magico non comune dall'armeria di Kalaman per ogni missione completata. Il passaggio al 5° livello non dipende da queste missioni.* 🔀 *Post-sessione (riverifica Agente 3): non vale più. Il party resta al 4° e sale alla fine della 05bis, dopo il guado (DM, 2026-10-19), quindi sono superati anche la colonna «Nella 05bis (5° livello)» e il «non sposta la progressione» della nota qui sotto. La 05bis è già iniziata nella stessa serata della S05; il riallineamento dei suoi scontri non è di questo step.*
 
 | Missione | Dove | Cosa sa il party in FASE 1 | Nella fonte | Nella 05bis (5° livello) |
 |----------|------|----------------------------|-------------|--------------------------|
@@ -598,8 +601,10 @@ Il resto della giornata è libero. Buoni usi:
 | Thread | Dettaglio | Urgenza |
 |--------|-----------|---------|
 | L'accerchiamento di Kalaman | Il piano nemico (isolare Kalaman da Maelgoth e Palanthas) rivelato dalla vedetta: motore strategico del Cap. 4 avanzato | Alta → Cap. 4–5 |
-| Avamposto di Wheelwatch | Prossima grande missione: riconquistare l'avamposto meridionale caduto (Raven al comando; il party lo supporta). Il Livello 5 arriva a fine di questa sessione, a missioni concluse | Alta → Sessione 06 |
+| Avamposto di Wheelwatch | Prossima grande missione: riconquistare l'avamposto meridionale caduto (Raven al comando; il party lo supporta). Il Livello 5 arriva a fine di questa sessione, a missioni concluse 🔀 *(post-sessione: slitta alla fine della 05bis, dopo il guado del Raiding Rill — DM, 2026-10-19)* | Alta → Sessione 06 |
 | Gli altri due incarichi di Darrett | La fattoria a est e la strada verso l'Estwilde, affidati in FASE 1 dopo le vedette, con un oggetto dall'armeria come premio per ognuno | Media → Sessione 05bis (facoltativa) |
+| 🔀 Il combattimento alla fattoria (05bis FASE 3) | Aperto nella stessa serata: ufficiale + 2 soldati + circa metà dei 10 hobgoblin + dragonnel (aggiunto dal DM), interrotto a metà. Stato (PF, posizioni) in Foundry | Alta → Sessione 05bis |
+| 🔀 Il Livello 5 | Non a fine S05: alla fine della 05bis, dopo il guado (DM, 2026-10-19) | Alta → Sessione 05bis |
 | Il destino di Becklin | **Catturata** (decisione del DM, 2026-10-17): non torna con Cudgel; se il party chiede, Cudgel conferma la cattura. Becklin resta prigioniera | Alta → aperto |
 | Cudgel e il Reggimento Ironclad | Reincontrata e alleata a Kalaman: forza combattente mercenaria per la difesa; legame vivo con Ispin | Media → risorsa ricorrente |
 | I Draconiani | Baaz affrontati da S00, il kapak finalmente in mischia. Prossimi: bozak (esplode), sivak (ruba forme), aurak. Le "morti che contano" | Media → arco dell'Armata dei Draghi |
@@ -636,7 +641,7 @@ Il resto della giornata è libero. Buoni usi:
 - [ ] Cudgel presentata a Vendri: Sì / No
 - [ ] Eremo e Pozza: la notizia della devastazione è arrivata a Razak / Corin? Sì / No — da chi: ____________
 - [ ] XP combattimento assegnati (fino a 1.000 con 3 baaz): ____________
-- [ ] **Avanzamento a Livello 5** a fine sessione, a missioni concluse: Sì / No — se No, dove si è fermata la serata: ____________
+- [ ] **Avanzamento a Livello 5** a fine sessione, a missioni concluse: Sì / No — se No, dove si è fermata la serata: ____________ 🔀 **No** (recap S05): resta al 4°, sale alla fine della 05bis (DM, 2026-10-19)
 - [ ] Tempo libero a Kalaman usato per: ____________
 
 ### Aggiornamenti PNG
@@ -662,7 +667,7 @@ Il resto della giornata è libero. Buoni usi:
 | Scorta di Lehra a Kalaman | **100 mo a testa** (bonus) |
 | Rapporto strategico | Il piano d'accerchiamento nemico (valore narrativo/strategico) |
 | Cudgel + Reggimento Ironclad | Nuovi alleati militari per la difesa di Kalaman |
-| **Avanzamento** | **Livello 5** a fine sessione, a «Missioni per Kalaman» concluse e prima di Wheelwatch (se la serata non chiude le missioni, slitta a quando si chiudono) |
+| **Avanzamento** | **Livello 5** a fine sessione, a «Missioni per Kalaman» concluse e prima di Wheelwatch (se la serata non chiude le missioni, slitta a quando si chiudono) 🔀 *Non avvenuto: slitta alla fine della 05bis (DM, 2026-10-19)* |
 
 ### Thread Aperti
 
@@ -674,16 +679,16 @@ Il resto della giornata è libero. Buoni usi:
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (fino a 1.000) + bonus 100 mo a testa; **porta il livello a 5** (4 → 5 a missioni concluse; se la serata non le ha chiuse, resta 4 fino a quando si chiudono); annota Cudgel/Ironclad tra gli alleati del party
+- [ ] `campagna/party.md` — registra gli XP di combattimento assegnati (fino a 1.000) + bonus 100 mo a testa; **porta il livello a 5** (4 → 5 a missioni concluse; se la serata non le ha chiuse, resta 4 fino a quando si chiudono) 🔀 *il livello resta 4 (DM, 2026-10-19): sale alla fine della 05bis; XP totali party 1.900*; annota Cudgel/Ironclad tra gli alleati del party
 - [ ] `campagna/png-incontrati.md` — **aggiungi Lehra Coalfield e Ganon sotto "PNG Capitolo 4"**; aggiorna **Cudgel Ironsmile** (+2 → +3, ora alleata a Kalaman col Reggimento; togli la nota riservata «dispersa»); su **Becklin** annota solo se Cudgel ne ha confermato la cattura (resta prigioniera); aggiorna **Vendri** (+2 → +3); su **Maestro Roke** annota se Razak ha saputo dell'eremo; aggiungi i **draconiani (baaz, kapak)** come nemici tipo affrontati
 - [ ] `campagna/rapporti.md` — compila "Capitolo 03 (Kalaman — Cap 4 libro)": rapporto con Lehra, reincontro con Cudgel (e legame Ispin), conferma della cattura di Becklin (se chiesta); consolidamento con Vendri
 - [ ] `campagna/fazioni.md` — **Reggimento Ironclad**: Amichevole → **Alleata** (Cudgel si unisce a Kalaman); **Esercito di Kalaman**: rapporto strategico consegnato, tende ad Alleata; annota i **draconiani** come truppe d'élite dell'Armata dei Draghi Rossi ora confermate sul campo
 - [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato); annota "Esploratori Scomparsi" e il "Ritorno delle Truppe" come **completate** nel ciclo «Missioni per Kalaman»; annota «Tendere un'Imboscata al Nemico» e «Il Blocco Draconico» come **affidate da Darrett**, da giocare nella Sessione 05bis (facoltativa)
 - [ ] `campagna/glossario.md` — aggiungi i termini di questo file non ancora presenti: *Missions for Kalaman* → Missioni per Kalaman, *Hinterlands Encounters* → Incontri nell'Entroterra (già usato in S04), *Dragon Army Encounters* → Incontri con l'Armata dei Draghi, *baaz / kapak / bozak draconian* → draconiano baaz / kapak / bozak, *driftglobe* → globo fluttuante, *Lost in Battle* → Dispersi in Battaglia
-- [ ] `campagna/contesto.md` — **nessun cambio di capitolo** (resta 4); aggiorna la nota di stato ("Sessione 05 preparata"); annota il **Livello 5** nella tabella progressione (o lo slittamento, se le missioni non si sono chiuse)
+- [ ] `campagna/contesto.md` — **nessun cambio di capitolo** (resta 4); aggiorna la nota di stato ("Sessione 05 preparata"); annota il **Livello 5** nella tabella progressione (o lo slittamento, se le missioni non si sono chiuse) 🔀 *slittamento: alla fine della 05bis*
 - [ ] `campagna/sessioni/recaps/recap-sessione-05.md` — compila **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
 - [ ] `/aggiorna-locations 05` — esegui dopo la sessione (Boschetto di betulle grigie, terre a nord del Vingaard, strada Kalaman–Vogler)
-- [ ] Sessione 06 — già preparata come **Avamposto di Wheelwatch** a Livello 5: va solo riallineata ai delta reali della S05 (`/aggiorna-sessione 05`). Se il tavolo vuole la Sessione 05bis, si gioca prima della 06 e non cambia il livello
+- [ ] Sessione 06 — già preparata come **Avamposto di Wheelwatch** a Livello 5: va solo riallineata ai delta reali della S05 (`/aggiorna-sessione 05`). Se il tavolo vuole la Sessione 05bis, si gioca prima della 06 e non cambia il livello 🔀 *post-sessione: la 05bis è iniziata nella stessa serata e il 5° livello arriva alla sua fine, quindi la 06 parte al 5° solo dopo il guado*
 
 ---
 
@@ -886,3 +891,73 @@ Chiusi i [TODO DM] aperti dopo la Sessione 04 con le decisioni di Fabio. Riquadr
 | 1 | **Tre incarichi insieme:** *«Darrett gli affida la missione che già abbiamo delineato più queste due. Diamo enfasi sul fatto che quella delle vedette è la più importante ma che anche queste andrebbero portate a termine»* | Header (Fonte, Obiettivo, Durata), Nota pre-sessione, SETUP, FASE 1 (Contesto, Ordini, battute di Darrett, NOTA), FASE 6 (NOTA e battuta di Vendri), 📍, thread, Recap, Checklist | `dm-notes-sessione-05bis.md` (nuova) |
 | 2 | **Sessione speciale facoltativa:** *«Le speciali sono extra, non devono influire sulla progressione in quanto non sono obbligatorie»* → il Livello 5 resta a fine S05 | Header (Avanzamento), FASE 6 (NOTA Avanzamento), 📍 | `dm-notes-sessione-06.md`, `ai/agents/AGENTS.md` |
 | 3 | **Difficili ma con buone ricompense:** *«le missioni secondarie le facessimo in modalità difficile ma con buone ricompense»* → Difficile in fascia bassa (CR 10 e 11 al 5° livello), un oggetto magico non comune dall'armeria per ogni missione | FASE 1 (Ordini e battuta di Darrett), 📍 | `scontri-adattati/capitolo-04.md`, `dm-notes-sessione-05bis.md` |
+
+---
+
+## 📋 ACCADUTO IN SESSIONE — Agente 0 (Fase B)
+
+**Basato su:** `campagna/sessioni/recaps/recap-sessione-05.md`
+**Data aggiornamento:** 2026-10-19
+**Sessione chiusa a:** fine FASE 6 (rapporto a Vendri). La linea principale (FASI 1-6) è stata giocata per intero, «tutto come previsto, niente fuori programma» (DM). La serata è poi proseguita con la **Sessione 05bis** (FASI 1-2 giocate, FASE 3 iniziata e interrotta a metà combattimento): vedi sotto. Nessun esito è stato inventato: ciò che il recap non registra è `[TODO DM]`.
+
+### Tabella Delta — Piano vs Realtà
+
+| Area | Piano (questo file) | Realtà (recap) | Impatto |
+|---|---|---|---|
+| FASI 1-6 (struttura) | Sei fasi: ordini, viaggio, posto di vedetta, Lehra e il rapporto, Cudgel e gli Ironclad, rientro e rapporto a Vendri | Giocate tutte come da piano | Nessuna scena da trasferire |
+| FASE 0 (Registro di Rennard) | Scena opzionale a Kalaman, busta di Becklin ancora a Razak | **Non confermata**: il recap non dice se è stata giocata | Se non giocata, la lettera resta a Razak. Vedi TODO DM 3 e 5 |
+| FASE 2, tabella Incontri nell'Entroterra | Tiro opzionale (d4): kapak travestiti, profughi, impronte, raggio di sole | **Non confermato** se tirato né quale voce | Le notizie su eremo e Pozza (voce 2) restano non arrivate finché il DM non conferma. TODO DM 3 e 5 |
+| **FASE 3 — Posto di vedetta** | 3 baaz + 1 kapak, picco di difficoltà della sessione, 1.000 XP | Scontro vinto **«in pochissimo tempo»**, party **quasi illeso**: solo **Garrick** (mago) e **Razak** (monaco) con qualche ferita, «niente di che» | **Nota di tavolo (DM, 2026-10-19):** il DM trova gli scontri «estremamente semplici» e non sa dire perché. Il framework degli scontri è già stato aggiornato dal DM il 2026-10-19 (`campagna/scontri-adattati/00-framework.md`, punti 5 e 6): qui basta il rimando, nessuna ricalibrazione in questo file |
+| FASE 4 — Lehra e il rapporto | Lehra liberata, rapporto sull'accerchiamento, scorta a Kalaman, bonus 100 mo | Lehra salvata, **tutte le informazioni necessarie recuperate**, scortata; Ganon trovato morto | Confermato. Quali informazioni di «Chiarire la Minaccia» (Servi del Terrore, Cavalcature Volanti, Minacce Magiche) ha avuto il party: TODO DM 1 |
+| FASE 5 — Cudgel e Ironclad | Reincontro sulla strada, Becklin catturata se chiedono, presentazione a Vendri facoltativa | Cudgel e i superstiti reincontrati; il party sa che è viva | Se il party ha chiesto di Becklin e se Cudgel è stata presentata a Vendri (quindi +3): TODO DM 2 e 4 |
+| FASE 6 — Rapporto a Vendri | Rapporto, bonus 100 mo, tempo libero, paga settimanale a Razak e Brynja | Rapporto fatto; bonus di 100 mo a testa considerato assegnato; paga settimanale **non riferita** | Nessun cambio di atteggiamento riferito dal DM: restano quelli del piano (TODO DM 4) |
+| Scene opzionali spotlight (Ganon, Cudgel e Ispin) | Giocabili, senza obbligo | **Non confermate** | Nessun esito registrato. TODO DM 3 |
+| **🔀 Livello 5** | 4 → **5 a fine sessione**, a missioni concluse (decisione del DM, 2026-10-17) | **NON avvenuto.** Il party resta al **4°**. Decisione del DM (2026-10-19): sale «probabilmente dopo la prossima missione secondaria della 05bis», cioè **dopo il guado del Raiding Rill, alla fine della 05bis** | Header e FASE 6 («Tempo Libero e Avanzamento») annotati con 🔀, testo storico conservato. `campagna/party.md` resta al 4. Il piano della 05bis (5° livello già in apertura, scontri CR 10 e 11 calibrati per il 5°) va riallineato: non è di questo step |
+| XP | Fino a 1.000 XP per PG dallo scontro del boschetto | Considerati assegnati come da piano: **XP totali party 1.900** (900 + 1.000) | Solo contabilità (avanzamento a pietra miliare). XP della fattoria non ancora assegnati |
+| **🔀 Serata prolungata: 05bis** | La 05bis era una sessione a sé, «un paio di giorni dopo la S05» | Nella **stessa serata** il party è partito verso est: **05bis FASE 1** (congedo di Darrett) e **FASE 2** (strada verso est) giocate; **FASE 3** (fattoria) iniziata e **interrotta a metà combattimento** | La 05bis riparte dalla FASE 3 (vedi «Scene da Trasferire»). Missione «Tendere un'Imboscata al Nemico» in corso; «Il Blocco Draconico» non iniziata |
+| **🔀 Fattoria: dragonnel dell'ufficiale** | Schieramento 05bis: 1 ufficiale + 2 soldati + 10 guerrieri hobgoblin | Il DM ha **aggiunto in corsa il dragonnel dell'ufficiale** a combattimento iniziato, perché gli scontri gli sembravano troppo facili | Scheda e comportamento **non registrati**. L'apertura dei PG (ragnatela di Garrick + crescita di spine di Corin) ha **bloccato o ucciso circa metà degli hobgoblin**; l'ufficiale ha già bruciato la ragnatela, alcuni hobgoblin sono usciti dalle spine saltando. Stato preciso (PF, posizioni, caduti) solo in Foundry |
+
+### Scene da Trasferire a Sessione 05bis
+
+**Nessuna scena della S05 resta da giocare**, quindi non c'è niente da copiare dalla S05 alla 05bis. Le scene opzionali non confermate (FASE 0 Rennard, i due spotlight, la tabella degli Incontri nell'Entroterra) restano dove sono, in questo file: se il DM conferma che non sono state giocate, vanno decise caso per caso (TODO DM 3), non trasferite d'ufficio.
+
+La **05bis riparte dalla FASE 3 (la fattoria), a metà combattimento**: le sue FASI 1-2 sono già state giocate nella stessa serata e non vanno rigiocate. Il piano della 05bis non è stato toccato in questo passaggio.
+
+### Elementi Non Modificati
+
+Testi da leggere, stat block, hook PG, Rapporto a Vendri, riferimento alla 05bis e atteggiamenti PNG nelle scene (restano quelli del piano finché il DM non conferma variazioni). Le sessioni già giocate sono materiale storico: stat block e testi non sono stati riscritti. Nessun file di sessione con numero > 5 è stato letto, tranne la 05bis, solo per capire cosa è stato giocato (e non modificata).
+
+### TODO per il DM
+
+1. **Informazioni di Lehra:** quali di «Chiarire la Minaccia» (Servi del Terrore, Cavalcature Volanti, Minacce Magiche) ha avuto il party, oltre al rapporto sull'accerchiamento?
+2. **Cudgel e Becklin:** il party ha chiesto di Becklin e Cudgel ha confermato la cattura? Cudgel è stata presentata a Vendri (e sale a +3)?
+3. **Scene opzionali:** FASE 0 (Rennard, lettera ancora a Razak?), spotlight (Ganon, Cudgel e Ispin) e tabella Incontri nell'Entroterra (usciti? quale? kapak travestiti smascherati?).
+4. **Atteggiamenti finali:** Vendri (+2 → +3?), Lehra (+2?), Darrett, Cudgel. Nessuna variazione riferita.
+5. **Notizie su eremo e Pozza:** sono arrivate a Razak o a Corin (profughi, Lehra)?
+6. 🔀 **Livello 5 e 05bis:** se la 05bis non si chiude (o il guado non si gioca), il 5° livello arriva comunque prima di Wheelwatch? La decisione del 2026-10-19 lo lega alla fine della 05bis, mentre quella del 2026-10-18 teneva la 05bis fuori dalla progressione.
+7. 🔀 **Dragonnel dell'ufficiale:** scheda e comportamento non registrati. La 05bis va riallineata (livello 4, dragonnel, difficoltà) da uno step a parte.
+
+**Stato:** file annotato con marcatori di fase (✅/⏸️/🔀), tabella delta e nota sul trasferimento. Il testo delle fasi non è stato riscritto. `dm-notes-sessione-05bis.md` non modificato.
+
+---
+
+## 🎭 RIVERIFICA HOOK PG — Agente 3 (post-sessione S05)
+
+Ho verificato le note DM riservate sui PG contro la realtà giocata (`recaps/recap-sessione-05.md`, «ACCADUTO IN SESSIONE» qui sopra, `party.md`). **Non ho aggiunto hook.** Le correzioni sono annotate in coda alla riga originale (🔀 «Post-sessione (riverifica Agente 3)»), mentre il testo delle fasi e i riquadri da leggere non sono stati toccati. Le scene opzionali (FASE 0, Incontri nell'Entroterra, spotlight di Ganon e di Cudgel e Ispin) restano ⏸️ non confermate, e le note collegate non sono trattate né come giocate né come saltate.
+
+**Corretti (invalidati dai delta):**
+- **FASE 1, NOTA sugli altri due incarichi**, e **📍 Riferimento** (introduzione, colonna «5° livello», nota del 2026-10-18): dicevano che il 5° livello non dipende dalla 05bis, ma ora arriva alla sua fine, dopo il guado (DM, 2026-10-19).
+- **TODO per il DM n. 4:** ho tolto la paga settimanale di Razak e Brynja. È oro dei PG e lo gestiscono i giocatori (regola di `CLAUDE.md`, 2026-10-18).
+
+**Confermati senza correzioni:**
+- **Razak** (Darrett e Thornwall Keep, Becklin detta guardando lui), **Brynja** (lo Scudo Verde davanti a Cudgel), **Asurion** (ricerca del posto di vedetta, scorta di Lehra), **Garrick** (bersaglio ideale del kapak: il recap lo dà tra i due feriti), «Scaglie di Guerra» e «Tutti» si sono giocati come da piano. Gli esiti di dettaglio (Becklin chiesta, Cudgel presentata a Vendri) restano nei TODO 2 e 4.
+- **Razak e Corin, eremo e Pozza:** la notizia arriva solo se qualcuno chiede (TODO 5). Finché il DM non conferma il contrario, per i PG non è arrivata.
+- **Garrick e Wyhan (FASE 6):** il recap non dice se la visita è avvenuta. La serata è passata alla 05bis, ma questo non vuol dire che il tempo libero sia stato saltato, quindi la nota resta com'è.
+- **Segreti:** Cudgel «dispersa, non morta» è stata rivelata come da piano (FASE 5). Nessun delta espone l'origine dei draconiani, Ser Maelis, Soth o la devastazione dell'altopiano.
+- **Livello 4:** nessun hook né nota sui PG dava per scontato il 5° livello dentro la S05.
+
+**Anomalie (non toccate):**
+1. Il recap (`recaps/recap-sessione-05.md`, «Oggetti e Ricompense») segna ancora la paga settimanale come «non riferita», e lo stesso fa la Nota pre-sessione di questo file (storica). Per la regola sulle cose dei PG non dovrebbe restare come voce da verificare.
+2. **Hook Garrick**, `[TODO DM]` «cosa Wyhan sappia dei draconiani»: è materiale che il DM improvvisa al tavolo, come lo *stash*, e per la stessa regola potrebbe non servire come TODO. L'ho lasciato: decide il DM.
+
+**Stato:** ✅ riverifica completata, 3 note corrette in riga (FASE 1, 📍, TODO 4), nessun hook aggiunto.

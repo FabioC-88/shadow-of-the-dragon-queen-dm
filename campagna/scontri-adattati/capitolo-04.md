@@ -2,7 +2,7 @@
 
 **Copre:** Sessioni 03-08 (Liv. 4 → 6), più la speciale 05bis
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!*, niente regola Minion, Villain Actions solo per boss veramente seri o di fine capitolo
-**Party:** 5 personaggi · **Letalità target:** Deadly/Hard scalato su 5 PG + azioni extra sui boss veri, fascia bassa preferita — vedi [regole-opzionali.md](../regole-opzionali.md) (critici massimizzati e riposo lungo limitato ai Dadi Vita alzano la letalità reale oltre il budget CR nudo)
+**Party:** 5 personaggi · **Letalità target:** budget in XP della DMG 2024, «Alta» per gli scontri che contano e nemici che giocano per vincere (punti 5 e 6 di [00-framework.md](00-framework.md), decisione del DM 2026-10-19). ✅ 05bis e S06 ricalibrati il 2026-10-19; ⚠️ gli scontri dalla S07 in poi sono ancora tarati sulla vecchia «fascia bassa»: riverificarli col punto 5 prima di giocarli
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
 
 > **Nota onestà DM:** valori ricalibrati a giudizio, non playtestati — stesso approccio di Cap. 3. `[TODO DM: aggiustare HP/DC dopo il primo turno reale al tavolo]`.
@@ -20,8 +20,8 @@ Sei sessioni, molti nemici nominati, ma solo **due boss veri** secondo il criter
 | 03 — L'Ombra della Guerra | 4 | — | — | nessun combattimento |
 | 04 — La Prima Missione | 4 | — | Hobgoblin (capo) | 12× Goblin, stat block classico (iniziativa condivisa) |
 | 05 — Le Vedette Perdute | 4 | — | Kapak Draconian (ambusher) | 3× Baaz Draconian |
-| 05bis — L'Imboscata e il Blocco (speciale, facoltativa) | 5 | — | Dragon Army Officer (fattoria), 2× Bozak Draconian + Kapak (guado) | 2× Dragon Army Soldier + 10× Hobgoblin; 8× Baaz Draconian |
-| 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian, Ufficiale dell'Armata dei Draghi (*Dragon Army Officer*) + Dragonnel (duo) | Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) (gruppi da 1-8 per stanza, stat block classico anche se convergono) |
+| 05bis — L'Imboscata e il Blocco (speciale) | 4 → 5 a fine sessione | — | Dragon Army Officer + Dragonnel (fattoria), 2× Bozak Draconian + Kapak (guado) | 2× Dragon Army Soldier + 10× Hobgoblin Warrior; 8× Baaz Draconian |
+| 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian (capo della torre), Ardlic Vanse e il cavaliere del Dragonnel (*Dragon Army Officer*), tutti con Bonus Action + Reaction; Dragonnel (cavalcatura, accende la Draconic Devotion) | 22× Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) (gruppi da 1-12 per stanza, a ondate quando scatta l'allarme) + 4× Baaz Draconian |
 | 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | Soldato dell'Armata dei Draghi a cavallo, Undead Soldier |
 | 08 — Le Catacombe / Sarlamir | 5→6 | **Cavaliere Sarlamir** | — | Wraith, Skeletal Horse (entrambi opzionali/evitabili) |
 
@@ -159,26 +159,31 @@ REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
 
 ---
 
-## Sessione 05bis — L'Imboscata e il Blocco (Livello 5, speciale e facoltativa)
+## Sessione 05bis — L'Imboscata e il Blocco (Livello 4 → 5 a fine sessione, speciale)
 
-> ✅ **Decisioni del DM (2026-10-18):** le sessioni speciali sono un extra facoltativo e non contano per la progressione, quindi il party ci arriva già al **5° livello** (preso a fine S05). Gli scontri sono **Difficili** per invogliare con buone ricompense diverse dagli XP, in **fascia bassa** come chiede il punto 5 del framework.
+> ✅ **Decisioni del DM (2026-10-19, dopo la S05):** il party gioca la 05bis al **4° livello** e sale al **5° alla fine**, dopo il guado del Raiding Rill (detta «probabilmente»; sostituisce la decisione del 2026-10-18, che dava il 5° in apertura e teneva la 05bis fuori dalla progressione). La 05bis è cominciata nella serata della S05 e si è fermata a metà combattimento alla fattoria, dove il DM ha fatto arrivare il **dragonnel dell'ufficiale**. Il DM trova gli scontri troppo facili (*«i nemici hanno sempre poche opzioni, tanti PF ma pochi danni e pochi CC»*): entrambi sono ricalibrati con i punti 5 e 6 di [00-framework.md](00-framework.md). *(Superato: «Difficili in fascia bassa al 5° livello», CR 10 e 11, e il ripiego sui numeri della fonte per un party al 4°.)*
 
-**Budget *Flee, Mortals!* al 5° livello, 5 PG:** Standard 1½ × 5 = **7,5 CR**, Difficile 2½ × 5 = **12,5 CR**, CR cap 8. Scelti **CR 10** e **CR 11**, sotto il tetto per due motivi: le regole opzionali (critici massimizzati, riposo lungo che rende solo i Dadi Vita) alzano la letalità reale, e i due scontri possono capitare nella stessa uscita. Come da framework, il rinforzo aumenta il numero dei nemici e non gonfia le schede.
+**Budget DMG 2024, 5 PG al 4° livello** (framework punto 5): Bassa **1.250**, Moderata **1.875**, Alta **2.500** XP. Sono i due scontri che contano della sessione, quindi il target è Alta, fino a circa 1,25 × Alta se il party arriva riposato. Come da framework, le schede ufficiali non si toccano: si lavora su quantità, ondate, Bonus Action e Reaction dei capi.
 
-| Scontro | Fonte (tarata sul 4° livello) | 05bis (5° livello) | CR | XP |
-|---|---|---|---|---|
-| La fattoria (*Ambushing the Enemy*) | 1 Dragon Army Soldier + 6 Hobgoblin (CR 4) | 1 Dragon Army Officer + 2 Dragon Army Soldier + 10 Hobgoblin | 10 | 2.100 |
-| Il guado del Raiding Rill (*Draconian Blockade*) | 5 Baaz + 1 Bozak (CR 4,5) | 8 Baaz + 2 Bozak + 1 Kapak | 11 | 2.400 |
+| Scontro | Fonte (tarata sul 4° livello) | 05bis (4° livello) | XP | Rapporto con Alta |
+|---|---|---|--:|---|
+| La fattoria (*Ambushing the Enemy*) | 1 Dragon Army Soldier + 6 Hobgoblin (800 XP) | 1 Dragon Army Officer + 2 Dragon Army Soldier + 10 Hobgoblin Warrior + 1 Dragon Army Dragonnel (arrivato a combattimento iniziato) | 2.800 | ~1,1 × |
+| Il guado del Raiding Rill (*Draconian Blockade*) | 5 Baaz + 1 Bozak (950 XP) | 8 Baaz + 2 Bozak + 1 Kapak, in due ondate più l'agguato del kapak | 2.400 | ~0,96 × |
 
-*Se il tavolo arriva alla 05bis ancora al 4° livello (la S05 non ha chiuso le vedette), usa i numeri della fonte: al 4° livello il Difficile vale 5 CR, e la fonte sta già lì.*
+*Totale della sessione: 5.200 XP (prima 4.500). Dettaglio, testi e note tattiche in `dm-notes-sessione-05bis.md`, FASI 3 e 5.*
 
 ### La fattoria — l'addestramento interrotto
 
-**1× Dragon Army Officer** (scheda ufficiale nella sezione Sessione 06, qui sotto) al posto del soldato istruttore della fonte, **2× Dragon Army Soldier** (stessa sezione) e **10× Hobgoblin** (scheda qui sotto, iniziativa condivisa come da framework punto 2).
+**1× Dragon Army Officer** (scheda ufficiale nella sezione Sessione 06, qui sotto, senza le aggiunte di Vanse e del cavaliere) al posto del soldato istruttore della fonte, **2× Dragon Army Soldier** (stessa sezione), **10× Hobgoblin Warrior** (scheda qui sotto, iniziativa condivisa come da framework punto 2) e **1× Dragon Army Dragonnel** (scheda ufficiale DSotDQ p201, CR 3, 700 XP: la stessa della Sessione 06, senza aggiunte), la cavalcatura dell'ufficiale, che il DM ha fatto arrivare a combattimento iniziato.
 
-- **Morale (dalla fonte, adattato):** gli hobgoblin combattono finché l'ufficiale è in piedi o finché non ne cade metà; poi si arrendono o scappano. I due soldati restano con l'ufficiale.
+> **Stato alla pausa (S05, 2026-10-18):** i PG hanno aperto con *web* e *spike growth*, che hanno bloccato o ucciso circa metà degli hobgoblin; l'ufficiale ha già bruciato la ragnatela, alcuni hobgoblin sono usciti dalle spine saltando. PF e posizioni sono su Foundry. **2.800 XP ≈ 1,1 × Alta: non aggiungere nemici.**
+
+- **Draconic Devotion ora attiva:** il dragonnel è di tipo **Dragon**, quindi ufficiale e soldati attaccano con vantaggio finché lo vedono (anche gli attacchi di reazione degli Assault Orders, e l'ufficiale in sella). Gli hobgoblin non hanno il tratto.
+- **Morale (dalla fonte, adattato al punto 6):** finché l'ufficiale è in piedi e il dragonnel vola, nessun hobgoblin si arrende a metà; quando cade uno dei due, i superstiti si arrendono o scappano. I due soldati restano con l'ufficiale. La resa «a metà gruppo» resta una valvola, solo se il tavolo è davvero in difficoltà.
+- **L'ufficiale in sella** (regole 2024): cavalcatura **indipendente** consigliata. Il dragonnel tiene i suoi due Rend e il Flyby, l'ufficiale dalla sella tira con la Heavy Crossbow (un colpo a turno) con vantaggio dalla Devotion e usa gli Assault Orders. Montare costa metà del movimento; se il dragonnel va a 0 PF in volo, cade con il cavaliere (1d6 ogni 3 m); cavalcatura spostata contro la sua volontà o cavaliere Prono = TS Destrezza CD 10 o cade. Non tenerli in aria per tutto lo scontro, o barbaro e monaco restano a guardare. Dettaglio nei dm-notes, «L'ufficiale in sella».
+- **Bersagli intelligenti:** gli arcieri hobgoblin tirano a chi mantiene la concentrazione; chi è uscito dalle spine non ci rientra e tira da fuori; dopo un'area i nemici si allargano.
 - **Il messaggio della Gran Maestra** ce l'ha l'ufficiale.
-- **Pericolo vero:** Pack Tactics con una spada lunga da 12 (2d10+1). Dieci hobgoblin che si coprono a vicenda attaccano quasi sempre con vantaggio, e a distanza l'arco aggiunge 7 (3d4) di veleno; il morale della fonte è la valvola se il tavolo va in difficoltà.
+- **Pericolo vero:** Pack Tactics con una spada lunga da 12 (2d10+1). Dieci hobgoblin che si coprono a vicenda attaccano quasi sempre con vantaggio, e a distanza l'arco aggiunge 7 (3d4) di veleno.
 
 ```
 HOBGOBLIN WARRIOR (×10) — Monster Manual 2024 (la scheda che il DM usa su Foundry)
@@ -201,13 +206,38 @@ Longbow. Ranged: +3, range 150/600 ft — 5 (1d8+1) piercing plus 7 (3d4) poison
 
 *Scheda 2024 su decisione del DM (2026-10-18): su Foundry usa quella. Il CR resta 1/2, quindi il budget dello scontro non cambia. L'hobgoblin capo della S04 (sopra) resta com'era, perché quella sessione è già giocata.*
 
+**Capo — Bonus Action e Reaction dell'ufficiale (punto 6 del framework, 2026-10-19).** La scheda ufficiale resta intatta; le aggiunte nascono dalla sua natura di istruttore che mette alla prova le reclute e le corregge con la punta della lancia. Valgono solo per lui: non sono quelle di Vanse né del cavaliere di Wheelwatch, e non ricalcano Gholcag, Gragonis, Caradoc o Sarlamir. XP invariati.
+
+```
+DRAGON ARMY OFFICER — drill instructor at the farm (official stat block above, plus:)
+
+BONUS ACTION — Final Test
+The officer points his lance at a creature he can see within 60 ft. One Hobgoblin
+  Warrior that can hear him can use its reaction to make one attack against that
+  creature: Longsword if it's within reach, otherwise Longbow.
+
+REACTION — Correction
+Trigger: a Hobgoblin Warrior or Dragon Army Soldier the officer can see within
+  60 ft, that can hear him, misses with an attack roll. Response: the ally
+  rerolls the attack and must use the new roll.
+```
+
 ### Il guado del Raiding Rill — il blocco draconico
 
-**8× Baaz Draconian** e **1× Kapak Draconian** (schede nella sezione Sessione 05, qui sopra; il kapak senza aggiunte homebrew) e **2× Bozak Draconian** (scheda qui sotto). La fonte dice che i draconiani combattono fino alla morte.
+**8× Baaz Draconian** e **1× Kapak Draconian** (schede nella sezione Sessione 05, qui sopra; il kapak senza aggiunte homebrew) e **2× Bozak Draconian** (scheda qui sotto). La fonte dice che i draconiani combattono fino alla morte. **2.400 XP ≈ 0,96 × Alta:** schieramento invariato, ristrutturato col punto 6.
 
-- **Il kapak** aspetta sugli alberi del bosco a sud, come al posto di vedetta: ora il party lo conosce, e lo scontro gioca su questo.
-- **I bozak sono la novità:** incantano (Ragnatela e Nube Maleodorante una volta al giorno ciascuno) e, morendo, le ossa esplodono. Non far lanciare a entrambi tutto nel primo round: un bozak apre con Ragnatela, l'altro tiene la Nube per quando il party si raggruppa.
-- **Primo bozak della campagna**, se la 05bis si gioca.
+| Quando | Chi | XP | Da dove |
+|---|---|--:|---|
+| Dall'inizio | 1 Bozak + 4 Baaz, attorno al fuoco | 850 | la radura |
+| 2° round | 1 Kapak | 700 | dagli alberi (agguato, come in S05) |
+| 2°-3° round | 1 Bozak + 4 Baaz, la squadra di guardia alla strada | 850 | dal lato della radura opposto al party |
+
+- **Rinforzi a ondate:** il controllo d'apertura dei PG prende solo la prima ondata. La squadra di guardia (più di un terzo del budget) e il kapak arrivano quando le aree sono già piazzate. Valvola: squadra al 3° round o con 2 baaz invece di 4.
+- **Il kapak** aspetta sugli alberi del bosco a sud, come al posto di vedetta: il party l'ha già affrontato in S05, e lo scontro gioca su questo.
+- **I bozak sono la novità:** incantano (Web, Stinking Cloud, Enlarge/Reduce e Invisibility una volta al giorno ciascuno, **tutti a concentrazione**) e, morendo, le ossa esplodono. Uno per ondata: quello della radura apre con Web, quello della squadra di guardia tiene la Stinking Cloud per quando il party si raggruppa.
+- **Bersagli intelligenti:** i bozak puntano chi mantiene la concentrazione e colpiscono di reazione chi lancia; il kapak cala su un incantatore (paralizzato = Incapacitato = concentrazione finita); dopo un'area i baaz si allargano; il terreno pericoloso si aggira.
+- **Il party arriva dalla fattoria con un solo riposo lungo in mezzo**, che rende solo i Dadi Vita (regole opzionali): per questo lo scontro resta appena sotto Alta.
+- **Primo bozak della campagna.**
 
 ```
 BOZAK DRACONIAN (×2) — DSotDQ p198, official stat block
@@ -235,14 +265,44 @@ Spellcasting (Cha, save DC 12, no material components):
 
 *Nessuna Villain Action: sono ostacoli lungo la strada, non il motivo della sessione. `[TODO DM: verificare dopo la sessione reale]` come per gli altri scontri del capitolo.*
 
+**Capi — Bonus Action e Reaction dei bozak (punto 6 del framework, 2026-10-19).** Scheda ufficiale intatta; le aggiunte nascono dalla loro natura di incantatori. L'esplosione alla morte resta quella della scheda: la gioca la tattica (un bozak sotto metà PF e senza incantesimi utili si butta in mezzo ai PG), non un'aggiunta. XP invariati.
+
+```
+BOZAK DRACONIAN (×2) — camp leaders at the ford (official stat block above, plus:)
+
+BONUS ACTION — Quickened Spell
+Casts one of its remaining 1/day spells. It can't cast another spell with its
+  action on the same turn. [All four spells need concentration: one at a time.]
+
+REACTION — Spell Snap
+Trigger: a creature the bozak can see within 60 ft casts a spell of 1st level or
+  higher. Response: one Lightning Discharge attack against it, after the spell
+  takes effect (damage forces a concentration save if the caster is concentrating).
+```
+
 ---
 
 ## Sessione 06 — Le Mura di Wheelwatch (Livello 5)
 
-Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di soldati dell'Armata dei Draghi da 1 a 8 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme totale e più gruppi convergono nello stesso scontro (es. gli 8 della caserma + i 3 del cortile = 11+), restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** per non rallentare il tavolo (vedi 00-framework.md punto 2).
+Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di soldati dell'Armata dei Draghi da 1 a 12 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme e più gruppi convergono nello stesso scontro, restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** (una per squadra) per non rallentare il tavolo (vedi 00-framework.md punto 2).
+
+> ✅ **Ricalibrata il 2026-10-19 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · Moderata 3.750 · **Alta 5.500** (tetto ~6.875). L'infiltrazione resta evitabile come nella fonte; il bilancio riguarda lo scontro che scatta quando l'infiltrazione fallisce e il finale nella stalla. Solo quantità, schede ufficiali intatte: **caserma (W5) 8 → 12 Dragon Army Soldier** (i sei letti a castello hanno dodici posti), **Baaz Draconian (W4) 2 → 4** (scheda nella sezione Sessione 05; ufficiale CR 1/2, la metà del CR 1 su cui era tarata la sessione), **squadra di ricognizione 6 → 2 × 6**. Totale del forte **7.000 → 8.000 XP**: 22 soldati, 2 ufficiali, 1 sivak, 4 baaz, 1 dragonnel. Dettaglio, ondate e note tattiche nei dm-notes (FASE 3, «Bilancio degli scontri»).
+
+**Ogni allarme a tre ondate**, ognuna da un lato diverso: chi è sul posto; al 2° round la caserma (12 soldati in due squadre da sei) guidata da Ardlic Vanse; al 3°-4° round il dragonnel col cavaliere, dall'alto. Il dragonnel è di tipo Drago, quindi accende la **Draconic Devotion**: ogni soldato, ufficiale e baaz che lo vede attacca con vantaggio, e il cavaliere in sella sempre.
+
+| Scontro | Prima | Dopo | XP (prima → dopo) | Fascia |
+|---|---|---|---|---|
+| Allarme alla torre nord-ovest (W3) | Sivak + 2 Soldier, poi 8 Soldier | Sivak + 2 Soldier → 12 Soldier + Vanse → Dragonnel + rider | 3.100 → 6.000 | Alta (1,09×) |
+| Allarme alla fortificazione nord-est (W4) | 2 Baaz, poi 8 Soldier | 4 Baaz → 12 Soldier + Vanse → Dragonnel + rider | 1.800 → 4.900 | Alta (0,89×; la Devotion la porta al pieno) |
+| Allarme alle torri sud o al cortile (W2/W1) | 2 + 3 Soldier, poi 8 Soldier | 2 + 3 Soldier → 12 Soldier + Vanse → Dragonnel + rider | 2.600 → 5.500 | Alta (1,00×) |
+| Battaglia in caserma (W5) | 8 Soldier | 12 Soldier → Vanse + 4 Baaz + 3 Soldier → Dragonnel + rider | 1.600 → 5.500 | Alta (1,00×) |
+| Stalla (W8), senza allarme | Dragonnel + rider | Dragonnel + rider → il ruggito vale un corno: 12 Soldier + Vanse + 3 Soldier | 1.400 → 5.100 | Alta (0,93×) |
+| Ricognizione fallita di 10+ | 6 Soldier | 6 Soldier → altri 6 dal lato opposto | 1.200 → 2.400 | Bassa (riempitivo: deve dare l'allarme, ed è la caserma stessa che esce) |
+
+*Caso peggiore: aprire un cancello con le mura ancora presidiate (l'argano attira W1-W4, poi caserma e dragonnel) = 7.800 XP, 1,42 × Alta, oltre il tetto — è il rischio che la fonte mette su quella scelta; valvola: il morale (alla caduta di Vanse la seconda ondata ripiega), solo se il tavolo è davvero in difficoltà. Chi è stato neutralizzato in silenzio non torna nell'ondata: è il premio dell'infiltrazione. `[TODO DM: verificare dopo la sessione reale]`*
 
 ```
-DRAGON ARMY SOLDIER (gruppi da 1-8 per stanza, o di più se convergono) — DSotDQ p200, official stat block
+DRAGON ARMY SOLDIER (gruppi da 1-12 per stanza, o di più se convergono) — DSotDQ p200, official stat block
 Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
 Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
 STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
@@ -286,6 +346,37 @@ Assault Orders (Recharge 5-6). Shouts orders at up to two other creatures within
   make one melee attack.
 ```
 
+**Capi — Bonus Action e Reaction (punto 6 del framework, 2026-10-19).** I due ufficiali di Wheelwatch usano la scheda qui sopra, intatta, più un'aggiunta ciascuno nata dalla sua natura: Vanse comanda sacrificando i suoi uomini, il cavaliere è un lanciere legato alla sua cavalcatura. XP invariati. Valgono solo per loro due: l'ufficiale della fattoria (05bis) è un'altra persona e non le eredita.
+
+```
+ARDLIC VANSE — commander of Wheelwatch (Dragon Army Officer above, plus:)
+
+BONUS ACTION — Close the Gaps
+Up to three Dragon Army soldiers or draconians within 60 ft that can hear him
+  immediately move up to half their speed without provoking opportunity attacks.
+  [Spreads the squads after an area spell, or closes the ring on a caster.]
+
+REACTION — Expendable Men
+Trigger: Vanse is hit by an attack while a Dragon Army soldier is within 5 ft of
+  him. Response: the soldier steps in and becomes the target of the attack instead.
+```
+
+```
+DRAGONNEL RIDER (Dragon Army Officer above, plus:)
+
+BONUS ACTION — Spur
+If mounted on the dragonnel, the dragonnel immediately flies up to 30 ft; this
+  doesn't count against its own movement. If not mounted, he whistles: the
+  dragonnel, if it can hear him, immediately moves up to 30 ft toward him.
+
+REACTION — Set Lance
+Trigger: a creature he can see enters the reach of his Vicious Lance (10 ft).
+  Response: one Vicious Lance attack against it; on a hit, the creature's Speed
+  becomes 0 until the end of the turn.
+```
+
+*Il dragonnel è una cavalcatura indipendente (regole 2024): tiene la sua iniziativa e i suoi attacchi; montare costa al cavaliere metà del movimento. In sella, il cavaliere vede sempre il dragonnel e attacca con vantaggio (Draconic Devotion): da lassù preferisce la Heavy Crossbow su chi mantiene la concentrazione.*
+
 ```
 SIVAK DRACONIAN (Notable, ~CR 4) — DSotDQ p199, official stat block
 LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
@@ -311,12 +402,24 @@ REACTIONS
 Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
   itself in an illusion to look and feel like that creature, keeping its own
   statistics (other than size). Lasts until it dies or ends it as a bonus action.
+
+--- AGGIUNTE DA CAPO (punto 6 del framework, 2026-10-19) — scheda sopra intatta ---
+BONUS ACTION — Snatch
+One Medium or smaller creature within 5 ft that is Prone: DC 14 Strength or
+  Dexterity save (its choice) or Grappled (escape DC 14). While grappling it, the
+  sivak flies at half speed carrying it, and can drop it (no action required).
+  [Tail → Prone → Snatch → out onto the battlements: a drop from 20 ft = 2d6.]
+
+REACTION — Next Skin
+Trigger: a Medium or smaller Humanoid within 5 ft hits the sivak with a melee
+  attack. Response: the sivak has advantage on attack rolls against that creature
+  until the end of its next turn — it has chosen its next face.
 ```
 
-*Il vero peso di questo incontro è la rivelazione (parla come un alleato finché non lo colpisci), non il numero di azioni — niente Villain Actions, ma la Bonus Action rinforza il tema dell'inganno.*
+*Il sivak è il capo della torre nord-ovest, quindi prende Bonus Action e Reaction (punto 6 del framework), nate dalla sua natura di predatore alato che ruba le facce dei morti. Il suo peso resta la rivelazione (parla come un alleato finché non lo colpisci): apre con la sorpresa del travestimento, mentre i due soldati del piano di sopra suonano il corno. Niente Villain Actions.*
 
 ```
-DRAGON ARMY DRAGONNEL (Notable duo con l'Officer, CR 3 ufficiale — DSotDQ p201, official stat block
+DRAGON ARMY DRAGONNEL (rider's mount, CR 3) — DSotDQ p201, official stat block
 Large Dragon, typically Lawful Evil | AC 16 (breastplate barding)
 Initiative +2 (12) | HP 58 (9d10+9) | Speed 30 ft., Fly 60 ft.
 STR 16 (+3, save +3)   DEX 15 (+2, save +2)   CON 12 (+1, save +1)
@@ -334,9 +437,9 @@ Multiattack. Two Rend attacks.
 Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 ```
 
-*Il suo cavaliere è un secondo **Ufficiale dell'Armata dei Draghi** (blocco sopra) — la coppia condivide già il Comando dell'Officer come strumento di sinergia, niente bisogno di altro. Duo drammatico, non boss di capitolo: niente Villain Actions piene.*
+*Il suo cavaliere è un secondo **Ufficiale dell'Armata dei Draghi** (blocco sopra, con le aggiunte del cavaliere). Il dragonnel non è un capo e non prende Bonus Action né Reaction: il suo peso è il tipo **Drago**, che accende la Draconic Devotion di soldati, ufficiali e baaz finché lo vedono. Non è più il primo della campagna: il party ne ha già affrontato uno alla fattoria della 05bis, come cavalcatura dell'ufficiale. Duo drammatico, non boss di capitolo: niente Villain Actions.*
 
-**[Correzione]** Il Dragonnel ufficiale è **CR 3** (HP/danno base più bassi, e ha il tratto **Flyby** che qui mancava — aggiunto sopra). Ho lasciato HP e danno alzati a livello ~CR4: è una scelta dichiarata per far pesare il duo con l'Officer nella scena, non un errore di ricostruzione — segnalo qui per trasparenza.
+**[Correzione 2026-10-19]** Lo stat block sopra è la scheda ufficiale **CR 3** pura (58 PF, Rend 2d6+3 + 1d6 fuoco, con il tratto **Flyby**). La vecchia nota che parlava di «HP e danno alzati a livello ~CR4» non corrispondeva al blocco: niente buff, il peso del duo ora viene dalle quantità e dalla Devotion.
 
 ---
 
@@ -652,12 +755,12 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 |---|---|---|---|
 | Officina di Rookledust | 10 Goblin + 1 Hobgoblin | 12 Goblin (stat block classico, iniziativa condivisa) + 1 Hobgoblin (Reaction) | scala sul quinto giocatore — niente Minion in questa campagna |
 | Posto di Vedetta | 2 Baaz + 1 Kapak | 3 Baaz + 1 Kapak (scheda ufficiale, senza aggiunte homebrew) | scala sul quinto giocatore, coerenza col Kapak del Cap. 3 |
-| Fattoria (05bis) | 1 Soldato + 6 Hobgoblin | 1 Ufficiale + 2 Soldati + 10 Hobgoblin (CR 10) | sessione speciale: Difficile in fascia bassa al 5° livello, con buone ricompense |
-| Guado del Raiding Rill (05bis) | 5 Baaz + 1 Bozak | 8 Baaz + 2 Bozak + 1 Kapak (CR 11) | sessione speciale: Difficile in fascia bassa al 5° livello, con buone ricompense |
-| Wheelwatch (soldati) | gruppi 1-8 per stanza | invariato, stat block classico anche se convergono 10+ | niente Minion in questa campagna — iniziativa condivisa se serve velocità |
-| Wheelwatch (Sivak, Dragonnel+Officer) | statici | + Bonus Action/Reaction leggere | notevoli ma non boss di capitolo |
-| Wheelwatch (Sivak Draconian) | CR4/HP57 ufficiale | invariato | verificato: la ricostruzione era già accurata |
-| Wheelwatch (Dragonnel) | CR3 ufficiale | HP/danno a livello ~CR4 (buff dichiarato) + tratto **Flyby** aggiunto | era sovradimensionato e privo di Flyby — corretto |
+| Fattoria (05bis) | 1 Soldato + 6 Hobgoblin | 1 Ufficiale (+ Bonus Action/Reaction) + 2 Soldati + 10 Hobgoblin Warrior + 1 Dragonnel: 2.800 XP (prima 2.100) | ricalibrata il 2026-10-19: party al 4° livello, ~1,1 × Alta (DMG 2024); dragonnel aggiunto dal DM al tavolo, Draconic Devotion attiva, nessun nemico in più |
+| Guado del Raiding Rill (05bis) | 5 Baaz + 1 Bozak | 8 Baaz + 2 Bozak (+ Bonus Action/Reaction) + 1 Kapak: 2.400 XP, in due ondate più l'agguato del kapak | ricalibrato il 2026-10-19: party al 4° livello, ~0,96 × Alta; rinforzi al 2°-3° round contro il controllo d'apertura; si arriva con un solo riposo lungo dalla fattoria |
+| Wheelwatch (soldati e baaz) | 18 Soldier (caserma 8), 2 Baaz, ricognizione 6 | 22 Soldier (caserma 12), 4 Baaz, ricognizione 2 × 6; allarme a tre ondate da lati diversi (luogo → caserma con Vanse → dragonnel) | 2026-10-19: punto 5 del framework, Alta per l'allarme e la stalla (4.900-6.000 XP), forte 7.000 → 8.000 XP |
+| Wheelwatch (Sivak, Vanse, cavaliere del Dragonnel) | statici | Bonus Action + Reaction da capo: Snatch / Next Skin, Close the Gaps / Expendable Men, Spur / Set Lance | 2026-10-19: punto 6 del framework, ogni capo ha Bonus Action e Reaction |
+| Wheelwatch (Sivak Draconian) | CR4/HP57 ufficiale | scheda invariata | verificato: la ricostruzione era già accurata |
+| Wheelwatch (Dragonnel) | CR3 ufficiale | scheda ufficiale invariata, con il tratto **Flyby** | la nota sul «buff a ~CR4» non corrispondeva al blocco — corretta il 2026-10-19 |
 | Steel Springs (guado) | 4 soldati a cavallo | 5 soldati a cavallo | scala sul quinto giocatore |
 | Guardiani del cortile | 2 Undead Soldier | 3 Undead Soldier | scala sul quinto giocatore |
 | **Caradoc** | CR8 ufficiale | Fase 1 leggera, Fase 2 **Villain Actions piene**, HP 75→150 (corretto da bozza iniziale ~CR5) | il vero nome-cardine della campagna dopo Kansaldi |

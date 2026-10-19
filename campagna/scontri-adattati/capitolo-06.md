@@ -2,7 +2,7 @@
 
 **Copre:** le sessioni dedicate al Capitolo 6 in `campagna/sessioni/` — Sentiero dei Ricordi, esplorazione della città, Magione Occupata, Tempio di Paladine, Soglia dei Cieli (Liv. 8→9→10, come da avanzamento previsto dalla fonte).
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!* ×5, niente regola Minion, boss Action-Oriented con Villain Actions
-**Party:** 5 personaggi · **Letalità target:** Deadly/Hard scalato su 5 PG, fascia bassa preferita — vedi [regole-opzionali.md](../regole-opzionali.md) (critici massimizzati e riposo lungo limitato ai Dadi Vita alzano la letalità reale oltre il budget CR nudo)
+**Party:** 5 personaggi · **Letalità target:** budget in XP della DMG 2024, «Alta» per gli scontri che contano e nemici che giocano per vincere (punti 5 e 6 di [00-framework.md](00-framework.md), decisione del DM 2026-10-19). ⚠️ Gli scontri qui sotto sono tarati sulla vecchia «fascia bassa»: riverificarli col punto 5 prima di giocarli
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
 
 > **Perché questo file e non i dm-notes:** i `dm-notes-sessione-NN.md` corrispondenti restano la fonte narrativa (testo da leggere al tavolo, PNG, hook). Questo documento sostituisce **solo** i blocchi statistici e le regole d'incontro, con rimando esplicito a dove si inseriscono.

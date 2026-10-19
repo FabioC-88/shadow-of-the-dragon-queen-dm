@@ -21,10 +21,12 @@ Se il party vuole allontanarsi dalla trama principale, ecco spunti improvvisabil
 
 ## Stato Missioni Secondarie
 
-**Pianificate:** 0  
-**In Corso:** 1  
+**Pianificate:** 1  
+**In Corso:** 2  
 **Completate:** 0  
 **Saltate:** 0
+
+*(I contatori includono la digressione di Garrick e le due missioni della Sessione 05bis qui sotto.)*
 
 ### Digressioni improvvisate monitorate
 
@@ -32,7 +34,16 @@ Se il party vuole allontanarsi dalla trama principale, ecco spunti improvvisabil
 |-------------|---------|-------|------|
 | **L'addestramento di Garrick in alchimia con Wyhan** | Sessione 04 (Kalaman, Apotecaria di Wyhan) | **In corso** — Wyhan ha accettato | Improvvisata al tavolo: Garrick è tornato a chiederlo dopo la consegna del rotolo e Wyhan gli ha anche rivelato la sua scorta segreta (*stash*). Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi e costi dell'addestramento, competenza negli strumenti da alchimista, eventuale contropartita richiesta da Wyhan. Non collegata alla Prova dell'Alta Stregoneria (Sessione 17) |
 
-*(Le altre voci della tabella «Missioni» del recap della Sessione 04 — arruolamento, cassa per Darrett, rotolo per Wyhan, lettera per Rennard, Prima Missione, Delegazione Mancante, mandante di Gragonis — sono obiettivi di trama e restano tracciate nei recap e in `party.md`, non qui.)*
+### Missioni della Sessione 05bis (speciale e facoltativa)
+
+| Missione | Stato dopo la S05 | Note |
+|-----------|-------------------|------|
+| **Tendere un'Imboscata al Nemico** (la fattoria, 05bis FASE 3) | **In corso** | Combattimento iniziato e **interrotto a metà** a fine serata; stato (PF, posizioni, caduti) solo nella scena di Foundry. Oggetto magico dall'armeria e XP della fattoria: non ancora assegnati |
+| **Il Blocco Draconico** (guado del Raiding Rill, 05bis) | **Non iniziata** (pianificata) | Completata questa, il party sale al **5° livello** (decisione del DM, 2026-10-19) |
+
+*(Restano fuori dai contatori, con esito **[TODO DM — da confermare]** nel recap: «La lettera di Becklin per Rennard» e «Scoprire chi ha pagato Gragonis», senza nuovi indizi riferiti.)*
+
+*(«Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe», completate in Sessione 05, sono trama principale e stanno nel recap e in `party.md`. Le altre voci della tabella «Missioni» del recap della Sessione 04 — arruolamento, cassa per Darrett, rotolo per Wyhan, lettera per Rennard, Prima Missione, Delegazione Mancante, mandante di Gragonis — sono obiettivi di trama e restano tracciate nei recap e in `party.md`, non qui.)*
 
 ---
 

@@ -1,26 +1,47 @@
 # DM Notes — Sessione 05bis: L'Imboscata e il Blocco
 **Avventura:** Dragonlance — Shadow of the Dragon Queen
-**Tipo:** **sessione speciale** (vedi «Sessioni Speciali» in `ai/agents/AGENTS.md`): facoltativa e fuori dalla progressione. Si gioca dopo la Sessione 05 e prima della 06, sempre nel Capitolo 4
+**Tipo:** **sessione speciale** (vedi «Sessioni Speciali» in `ai/agents/AGENTS.md`), cominciata nella serata della S05 (2026-10-18) e **da riprendere a metà combattimento alla fattoria**. Non è più fuori dalla progressione: il 5° livello arriva alla sua fine (decisione del DM, 2026-10-19). Si gioca dopo la Sessione 05 e prima della 06, sempre nel Capitolo 4
 **Fonte primaria:** `fonti/campagna/Dragonlance_ Shadow of the Dragon Queen.md` — Cap. 4: L'Ombra della Guerra (*Shadow of War*), sezione «Missioni per Kalaman» (*Missions for Kalaman*) → **«Tendere un'Imboscata al Nemico» (*Ambushing the Enemy*)** (righe 2578–2585) e **«Il Blocco Draconico» (*Draconian Blockade*)** (righe 2587–2593), con l'introduzione alle missioni (*Missions*, righe 2574–2576) e la cornice «Chiarire la Minaccia» (*Clarifying the Threat*, righe 2559–2572). Facoltativa: la tabella «Incontri con l'Armata dei Draghi» (*Dragon Army Encounters*, appendice B, righe 6347–6373). «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe» sono la Sessione 05
-**Livello party:** **5** (preso a fine Sessione 05). **Nessun avanzamento** a fine sessione (decisione del DM, 2026-10-18). Se il party è ancora al 4° (la S05 non ha chiuso le vedette), si usano i numeri della fonte: vedi Nota pre-sessione
-**XP accumulati:** **900 XP** in `campagna/party.md` (fino alla S04), più fino a 1.000 XP della S05 (3 baaz + 1 kapak): fino a **1.900 XP** in apertura. Solo contabilità, perché dal Cap. 3 l'avanzamento è a pietra miliare
-**XP di questa sessione:** la fattoria vale **2.100 XP** (1 ufficiale dell'Armata dei Draghi (*Dragon Army officer*) + 2 soldati dell'Armata dei Draghi (*Dragon Army soldier*) + 10 hobgoblin, CR 10), il guado **2.400 XP** (8 draconiani baaz (*baaz draconian*) + 2 draconiani bozak (*bozak draconian*) + 1 draconiano kapak (*kapak draconian*), CR 11): **fino a 4.500 XP** con entrambe le vittorie. Composizioni da `campagna/scontri-adattati/capitolo-04.md`, sezione «Sessione 05bis»: Difficile in fascia bassa al 5° livello per 5 PG. Con i numeri della fonte (party al 4°): 800 XP la fattoria (1 soldato + 6 hobgoblin) e 950 il guado (5 baaz + 1 bozak), **1.750 XP** in tutto
-**Obiettivo sessione:** Partire da Kalaman verso est con i due incarichi rimasti dalla Sessione 05. Alla fattoria diciotto miglia a est, interrompere l'addestramento di dieci mercenari hobgoblin guidati da un ufficiale dell'Armata dei Draghi e trovare il messaggio della Gran Maestra. Al guado del Raiding Rill, venti miglia a est, seguire le tracce dai carri rovesciati fino al campo nel bosco a sud e affrontare otto baaz, un kapak e i primi **due bozak** della campagna. Rientrare, fare rapporto al Maresciallo Vendri e scegliere all'armeria del castello **un oggetto magico non comune per ogni missione completata**
-**Durata stimata:** ~2h30m (6 fasi: 10 + 15 + 50 + 15 + 45 + 15 = 150 min)
-**Sessione precedente:** dm-notes-sessione-05.md (preparata, non ancora giocata) — Cap. 4: L'Ombra della Guerra, «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe» (righe 2595–2609). In FASE 1 Darrett affida anche i due incarichi di questa sessione, in FASE 6 Vendri li ricorda. **Sessione successiva:** dm-notes-sessione-06.md (Avamposto di Wheelwatch)
+**Livello party:** **4** per tutta la sessione. Il party sale al **5° alla fine**, dopo il guado del Raiding Rill (decisione del DM, 2026-10-19, detta «probabilmente»; sostituisce quella del 2026-10-18, che dava il 5° in apertura e nessun avanzamento a fine sessione)
+**XP accumulati:** **1.900 XP** in apertura (`campagna/party.md`: 900 fino alla S04, più 1.000 della S05). Solo contabilità, perché dal Cap. 3 l'avanzamento è a pietra miliare
+**XP di questa sessione:** la fattoria vale **2.800 XP** (1 ufficiale dell'Armata dei Draghi (*Dragon Army officer*) 700 + 2 soldati dell'Armata dei Draghi (*Dragon Army soldier*) 400 + 10 guerrieri hobgoblin 1.000 + 1 dragonnel dell'Armata dei Draghi (*Dragon Army dragonnel*) 700), il guado **2.400 XP** (8 draconiani baaz (*baaz draconian*) + 2 draconiani bozak (*bozak draconian*) + 1 draconiano kapak (*kapak draconian*)): **fino a 5.200 XP** con entrambe le vittorie. Budget della DMG 2024 per 5 PG al 4° livello (`scontri-adattati/00-framework.md`, punto 5): Bassa 1.250, Moderata 1.875, **Alta 2.500**. La fattoria è circa 1,1 × Alta, il guado circa 0,96 × Alta. Composizioni in `campagna/scontri-adattati/capitolo-04.md`, sezione «Sessione 05bis», ricalibrate il 2026-10-19
+**Obiettivo sessione:** Partire da Kalaman verso est con i due incarichi rimasti dalla Sessione 05. Alla fattoria diciotto miglia a est, interrompere l'addestramento di dieci mercenari hobgoblin guidati da un ufficiale dell'Armata dei Draghi e trovare il messaggio della Gran Maestra. Al guado del Raiding Rill, venti miglia a est, seguire le tracce dai carri rovesciati fino al campo nel bosco a sud e affrontare otto baaz, un kapak e i primi **due bozak** della campagna. Rientrare, fare rapporto al Maresciallo Vendri e scegliere all'armeria del castello **un oggetto magico non comune per ogni missione completata**. A fine sessione il party sale al **5° livello**
+**Durata stimata:** resta da giocare **~2h**: la fine della FASE 3 (~30 min), poi FASI 4-6 (15 + 55 + 15 min). SETUP, FASI 1-2 e l'inizio della FASE 3 sono stati giocati nella serata della S05 (2026-10-18)
+**Sessione precedente:** dm-notes-sessione-05.md (giocata il 2026-10-18) — Cap. 4: L'Ombra della Guerra, «Gli Esploratori Scomparsi» e «Il Ritorno delle Truppe» (righe 2595–2609). In FASE 1 Darrett affida anche i due incarichi di questa sessione, in FASE 6 Vendri li ricorda. **Sessione successiva:** dm-notes-sessione-06.md (Avamposto di Wheelwatch)
 
-> ⚠️ **Nota pre-sessione:** questa sessione è un extra, e il tavolo può saltarla: in quel caso Vendri passa la fattoria e la strada a Cudgel e ai superstiti del Reggimento Ironclad (S05, FASE 6) e si va dritti alla S06. Se si gioca, apre a Kalaman **un paio di giorni dopo la S05**, perché Vendri ha chiuso il rapporto con *«Riposatevi un paio di giorni, poi vorrei che ve ne occupaste voi»*. I due incarichi il party li ha già ricevuti da Darrett in S05 (FASE 1), insieme al premio: un oggetto dall'armeria del castello per ognuno. Niente secondo briefing, quindi, ma solo un breve congedo da Darrett. **Cosa sa il party:** una fattoria diciotto miglia a est è stata presa da «soldati», che i contadini fuggiti hanno contato in più di dieci; dalla strada verso est, quella dei campi al confine con l'Estwilde, arrivano voci di soldati che assalgono i viaggiatori. **Non sa** che alla fattoria l'Armata dei Draghi addestra mercenari hobgoblin, né che sulla strada ci sono draconiani: lo scopre sul posto. **Da verificare prima di iniziare** (dal recap della S05): (1) il party ha chiuso le vedette ed è salito al **5° livello**? Se è ancora al 4°, usa i numeri della fonte indicati in ogni scontro, cambia i riquadri di FASE 3 e FASE 5 come indicato lì e salta l'agguato del kapak; anche alcuni hook cadono, perché *passare senza tracce* di Asurion e *controincantesimo* di Garrick arrivano solo al 5° livello; (2) quale delle tre informazioni da prigioniero ha dato **Lehra** in S05 (FASE 4), per non ripeterla in FASE 3; (3) se il party ha affrontato da vicino il **kapak** del boschetto, perché in FASE 5 lo scontro gioca su questo; (4) a che punto sono **Vendri** e **Cudgel** dopo il rientro della S05; (5) se in S05 Cudgel ha confermato la cattura di **Becklin** e se la FASE 0 (il Registro di Rennard) è stata giocata, perché da questo dipendono due hook di FASE 1. Dopo la sessione, in `campagna/party.md` si annotano solo bottino, oggetti dell'armeria e XP: il livello resta 5.
+> ⚠️ **Nota pre-sessione (riscritta il 2026-10-19, dopo la S05):** la 05bis è già cominciata. Nella serata della S05 (2026-10-18) il tavolo ha giocato il SETUP, la FASE 1 (congedo di Darrett), la FASE 2 (strada verso est) e l'inizio della FASE 3, e si è fermato **a metà combattimento alla fattoria**, dove il DM ha fatto arrivare il dragonnel dell'ufficiale. Si riparte da lì: vedi «🎬 RIPRESA» qui sotto. Il party gioca tutta la sessione al **4° livello** e sale al **5° alla fine**, dopo il guado. Gli scontri sono gli schieramenti della 05bis **ricalibrati** sul 4° livello con i punti 5 e 6 di `scontri-adattati/00-framework.md` (budget in XP della DMG 2024, nemici che giocano per vincere): la vecchia indicazione «se il party è ancora al 4°, usa i numeri della fonte e salta l'agguato del kapak» è **superata**. **Cosa sa il party del guado:** dalla strada verso est, quella dei campi al confine con l'Estwilde, arrivano voci di soldati che assalgono i viaggiatori. **Non sa** che sulla strada ci sono draconiani: lo scopre sul posto. **Già chiarito:** la S05 è chiusa per intero, e il party ha affrontato il **kapak** del boschetto, quindi in FASE 5 vale «Ora il party lo conosce». **Da verificare prima di iniziare:** restano aperti i «TODO per il DM» 1-5 della S05 (sezione «📋 ACCADUTO IN SESSIONE» in fondo a `dm-notes-sessione-05.md`), che qui servono per (1) le informazioni di «Chiarire la Minaccia» che **Lehra** ha già dato, da non ripetere con il prigioniero hobgoblin (FASE 3); (2) **Cudgel e Becklin**, e se Cudgel è stata presentata a Vendri, per l'hook di Cudgel in FASE 6; (3) il **Registro di Rennard**: se la FASE 0 della S05 non è stata giocata, e neanche alla partenza, la scena si può giocare al rientro (nota in FASE 6); (4) gli atteggiamenti di **Vendri** e **Cudgel** in FASE 6; (5) le notizie su **eremo e Pozza**. Dopo la sessione, in `campagna/party.md` si annotano il **5° livello**, il bottino, gli oggetti dell'armeria e gli XP.
 
 ---
 
-> **Nota organizzativa per il DM:** il testo della fonte per queste due missioni è breve, e la serata la fanno i due scontri, entrambi **Difficili**.
+> **Nota organizzativa per il DM:** il testo della fonte per queste due missioni è breve, e la serata la fanno i due scontri, entrambi tarati su **Alta** (DMG 2024, cinque PG di 4° livello; ricalibrati il 2026-10-19).
 > 1. **Due scontri nella stessa uscita.** La fattoria (18 miglia) e il guado (20 miglia) stanno nella stessa direzione, quindi il party li affronta quasi certamente uno dopo l'altro, con un riposo in mezzo. Con le regole opzionali il riposo lungo rende solo i Dadi Vita: come il party gestisce le risorse tra le due missioni pesa quanto i dadi (FASE 2, «Tra una missione e l'altra»).
 > 2. **Facce note e una nuova.** Alla fattoria il pericolo è la disciplina militare: dieci hobgoblin che si coprono a vicenda. Al guado il party ritrova baaz e kapak e incontra per la prima volta i **bozak**, che lanciano incantesimi e, morendo, esplodono.
 > 3. **Il motivo per giocarla.** Due oggetti magici dall'armeria, più cinque cotte nere che a Wheelwatch varranno più del loro prezzo (nota riservata in FASE 3). La scelta all'armeria in FASE 6 è la ricompensa della serata: lasciale il suo tempo.
 
 ---
 
-## 🎬 SETUP INIZIALE
+## 🎬 RIPRESA — a metà combattimento alla fattoria
+
+*Si riparte da qui. SETUP, FASE 1, FASE 2 e l'inizio della FASE 3 sono stati giocati nella serata della S05 (2026-10-18).*
+
+**Cosa riaprire su Foundry**
+- La **scena della fattoria** così com'era alla pausa: token, PF, condizioni e caduti sono lì, e solo lì (il recap non li registra).
+- Il **tracker dell'iniziativa**, con il dragonnel dell'ufficiale. Decidi adesso se è una cavalcatura indipendente, che tiene la sua iniziativa, o controllata (FASE 3, «L'ufficiale in sella»).
+- Gli **effetti ancora attivi**: la *crescita di spine* (*spike growth*), se è ancora in piedi, e chi la mantiene. La *ragnatela* (*web*) non c'è più.
+- La **ricarica degli Ordini d'Assalto** dell'ufficiale: se li ha già usati prima della pausa, tira la ricarica (5–6) all'inizio del suo primo turno.
+
+**Riepilogo per il DM**
+- Schieramento completo: ufficiale, 2 soldati e 10 guerrieri hobgoblin, più il dragonnel arrivato a combattimento iniziato. In tutto **2.800 XP**, circa 1,1 × Alta per cinque PG di 4° livello: **non aggiungere nemici**.
+- L'apertura dei PG, *ragnatela* più *crescita di spine*, ha bloccato o ucciso circa metà degli hobgoblin. L'ufficiale ha bruciato la ragnatela, e alcuni hobgoblin sono usciti dalle spine saltando.
+- Cosa cambia da qui (FASE 3, «Il Combattimento»): la **Devozione Draconica** di ufficiale e soldati è attiva finché vedono il dragonnel, l'ufficiale ha una **Bonus Action** e una **Reaction** nuove, e nessun hobgoblin si arrende finché l'ufficiale è in piedi e il dragonnel vola.
+- Dopo la fattoria vengono il riposo (FASE 2, «Tra una missione e l'altra»), il guado (FASI 4-5) e il rientro con il 5° livello (FASE 6).
+
+**Testo da leggere — si riprende** *(solo i fatti stabiliti al tavolo: posizioni e PF li mostra Foundry)*:
+> Il fuoco appiccato dall'ufficiale ha bruciato la ragnatela che copriva il cortile: ne restano solo brandelli anneriti che fumano ancora. Alcuni hobgoblin sono riusciti a uscire con un salto dal terreno irto di spine e hanno di nuovo le armi in pugno. Nel frattempo è arrivata anche una bestia alata grande come un cavallo, con le scaglie di un drago, una sella sul dorso e una bardatura di metallo sul petto.
+
+---
+
+## 🎬 SETUP INIZIALE ✅ GIOCATO (nella serata della S05, 2026-10-18)
 
 *Leggi o parafrasa ai giocatori prima di iniziare la sessione.*
 
@@ -30,7 +51,7 @@
 
 ---
 
-## FASE 1 — Il Congedo di Darrett
+## FASE 1 — Il Congedo di Darrett ✅ GIOCATA (nella serata della S05, 2026-10-18)
 
 *~10 minuti · Il congedo a Kalaman, il ripasso dei due incarichi, la scelta dell'ordine*
 
@@ -75,9 +96,11 @@ Nella fonte tutte le «Missioni per Kalaman» passano da Darrett (riga 2576), e 
 
 ---
 
-## FASE 2 — La Strada verso Est
+## FASE 2 — La Strada verso Est ✅ GIOCATA (nella serata della S05, 2026-10-18)
 
 *~15 minuti · Il viaggio, gli incontri facoltativi con l'Armata dei Draghi, il riposo tra le due missioni*
+
+*⏭️ Resta da giocare la tratta dalla fattoria al guado: vale «Tra una missione e l'altra: il riposo», qui sotto. Un tiro sulla tabella degli incontri è possibile, ma con il party al 4° livello e i due scontri già ad Alta è meglio non farlo.*
 
 ### Contesto per il DM
 
@@ -118,11 +141,11 @@ L'introduzione alle missioni (riga 2576) suggerisce la tabella degli incontri ca
 | 94–99 | 1d6 **cavalieri scheletrici*** guidati da **Caradoc***, che con l'azione Possessione (*Possession*) controlla un **nobile** (*noble*) |
 | 00 | 1 **ufficiale dell'Armata dei Draghi*** e 1 **giovane drago rosso** (*young red dragon*) |
 
-*[NOTA DM — riservata] **Attenzione al bilancio e alla trama.** I due scontri della sessione sono già Difficili e probabilmente cadono nella stessa uscita, quindi un incontro casuale in più va pesato. Buona parte dei risultati sopra il 65 è fuori scala al 5° livello o anticipa le sessioni dopo: il primo dragonnel (12–16) e il primo sivak (66–76, 85–93) sono la novità della S06 a Wheelwatch, Caradoc (94–99) è il boss della S07, e aurak (77–80, 85–89) e giovane drago rosso (00) non sono avversari per questo livello. Se tiri, tieni buoni **1–11 e 17–65** e ritira il resto. Tra questi, il 33–38 porta un bozak: se il party non è ancora passato dal guado, scegli altro, perché i bozak sono la novità della FASE 5. Gli incontri «che combattono contro» (17–20, 39–45) non obbligano a combattere: il party può intervenire o tenersi alla larga. La S05 ha già messo nella sua tabella i kapak travestiti (56–60): se sono usciti lì, scegli altro.*
+*[NOTA DM — riservata] **Attenzione al bilancio e alla trama.** I due scontri della sessione sono già Difficili e probabilmente cadono nella stessa uscita, quindi un incontro casuale in più va pesato. Buona parte dei risultati sopra il 65 è fuori scala al 5° livello o anticipa le sessioni dopo: il primo dragonnel (12–16) e il primo sivak (66–76, 85–93) sono la novità della S06 a Wheelwatch, Caradoc (94–99) è il boss della S07, e aurak (77–80, 85–89) e giovane drago rosso (00) non sono avversari per questo livello. Se tiri, tieni buoni **1–11 e 17–65** e ritira il resto. Tra questi, il 33–38 porta un bozak: se il party non è ancora passato dal guado, scegli altro, perché i bozak sono la novità della FASE 5. Gli incontri «che combattono contro» (17–20, 39–45) non obbligano a combattere: il party può intervenire o tenersi alla larga. La S05 ha già messo nella sua tabella i kapak travestiti (56–60): se sono usciti lì, scegli altro.* 🔀 *(2026-10-19: il party è al 4° e i due scontri sono ad Alta, quindi per la tratta che resta vale il ⏭️ in testa alla fase: meglio non tirare.)*
 
 ### Tra una missione e l'altra: il riposo
 
-Con diciotto miglia per arrivare e un combattimento Difficile alla prima tappa, è probabile che il party si fermi a riposare prima della seconda. Ricorda le regole opzionali in vigore (`campagna/regole-opzionali.md`):
+Con diciotto miglia per arrivare e un combattimento ad Alta alla prima tappa, è probabile che il party si fermi a riposare prima della seconda. Ricorda le regole opzionali in vigore (`campagna/regole-opzionali.md`):
 
 - **Riposo lungo — solo Dadi Vita.** Il riposo lungo non rende i PF: rende **tutti** i Dadi Vita spesi, e ogni giocatore sceglie quanti spenderne subito (dado + Costituzione) e quanti tenerne di riserva. Slot e risorse di classe si recuperano come al solito.
 - **Esaurimento su cura da 0 PF.** Chi scende a 0 PF e viene curato sopra lo 0 prende un livello di Esaurimento (−2 a tutti i D20 Test e −1,5 m di velocità per livello), ogni volta.
@@ -131,30 +154,28 @@ Con diciotto miglia per arrivare e un combattimento Difficile alla prima tappa, 
 
 *[NOTA DM — riservata] Se il party comincia dalla fattoria, il posto naturale per accamparsi dopo la FASE 3 è la fattoria stessa, che ha un tetto ed è a poche miglia dal guado. La fonte non prevede pattuglie notturne, e non serve aggiungerle.*
 
-*[NOTA DM — riservata] **Regole opzionali.** Il riposo lungo rende solo i Dadi Vita, e chi viene rialzato da 0 PF prende un livello di Esaurimento (`campagna/regole-opzionali.md`).*
-
 ---
 
-## FASE 3 — La Fattoria: l'Addestramento Interrotto
+## FASE 3 — La Fattoria: l'Addestramento Interrotto ⏸️ IN CORSO (combattimento interrotto a metà il 2026-10-18: vedi «🎬 RIPRESA»)
 
-*~50 minuti · «Tendere un'Imboscata al Nemico»: la fattoria saccheggiata, l'ufficiale e i mercenari hobgoblin, il combattimento, il messaggio della Gran Maestra*
+*~50 minuti, ne restano ~30 dalla ripresa · «Tendere un'Imboscata al Nemico»: la fattoria saccheggiata, l'ufficiale e i mercenari hobgoblin, il combattimento, il messaggio della Gran Maestra*
 
 ### Contesto per il DM
 
-Nella fonte (righe 2578–2585) il party trova la fattoria saccheggiata e un soldato dell'Armata dei Draghi che addestra sei mercenari hobgoblin. Il soldato ordina l'attacco presentando i personaggi come la **prova finale** per entrare nell'Armata. In questa sessione, al 5° livello, l'istruttore è un **ufficiale**, con **due soldati** e **dieci hobgoblin** (`scontri-adattati/capitolo-04.md`).
+Nella fonte (righe 2578–2585) il party trova la fattoria saccheggiata e un soldato dell'Armata dei Draghi che addestra sei mercenari hobgoblin. Il soldato ordina l'attacco presentando i personaggi come la **prova finale** per entrare nell'Armata. In questa sessione l'istruttore è un **ufficiale**, con **due soldati** e **dieci hobgoblin**, e a combattimento iniziato arriva il suo **dragonnel** (aggiunta del DM al tavolo, 2026-10-18; `scontri-adattati/capitolo-04.md`).
 
 È la scena che rinforza le **Reclute Pericolose** della cornice: banditi e mercenari arrivano nella regione per unirsi all'Armata, che paga bene, e l'Armata li seleziona. Il messaggio trovato addosso all'ufficiale dice come.
 
-### Avvicinarsi alla fattoria
+### Avvicinarsi alla fattoria ✅ GIOCATA
 
 Il nome della missione suggerisce un'imboscata, e il party può tenderla: l'esercitazione si svolge all'aperto, nel cortile. Chi si avvicina di nascosto fa una prova di **Destrezza (Furtività)** contro la Percezione passiva dei nemici: **14** l'ufficiale, **12** i soldati, **10** gli hobgoblin (con i numeri della fonte l'ufficiale non c'è, e il valore più alto è il 12 del soldato). Se il party arriva allo scoperto, l'ufficiale lo vede per primo e manda gli hobgoblin all'attacco.
 
-*[NOTA DM — riservata] **L'imboscata è il momento dei PG.** È la prima serata al 5° livello e la missione chiede di prepararsi: lascia che ciascuno metta in campo quello che sa fare.*
+*[NOTA DM — riservata] **L'imboscata è il momento dei PG.** La missione chiede di prepararsi: lascia che ciascuno metta in campo quello che sa fare.*
 - ***Hook per Garrick — il corvo.*** *L'esercitazione si svolge all'aperto e un corvo sopra un'aia non insospettisce nessuno. Dagli senza tiri il numero degli hobgoblin, la posizione dei due soldati e la lancia lunga dell'ufficiale, come per il campo nemico in S02.*
-- ***Hook per Corin — la Forma Selvatica.*** *Al 5° livello le regole 2024 non permettono ancora forme che volano, ma nessuno fa caso a un gatto o a un cane da cortile che gira tra i sacchi sventrati, e con la Forma Selvatica (*Wild Shape*) Corin può arrivare più vicino del corvo.*
+- ***Hook per Corin — la Forma Selvatica.*** *Al 5° livello le regole 2024 non permettono ancora forme che volano, ma nessuno fa caso a un gatto o a un cane da cortile che gira tra i sacchi sventrati, e con la Forma Selvatica (*Wild Shape*) Corin può arrivare più vicino del corvo.* 🔀 *(Il party è al 4°: non cambia niente, perché con le regole 2024 le forme che volano arrivano all'8° livello.)*
 - ***Hook per Razak — la fila.*** *A Thornwall Keep Becklin gli ha insegnato come si tiene una formazione, e la disciplina è il suo ideale. Guardando l'esercitazione capisce quali hobgoblin restano al loro posto nella fila e quali no, cioè chi scapperà per primo quando il morale cede: dagli l'informazione senza prova. Per l'assalto ha anche le Arti dell'Ombra (*Shadow Arts*), perché dentro la sua *oscurità* (*darkness*) la scurovisione degli hobgoblin non serve a niente, mentre lui ci vede.*
 
-### Testo — La Fattoria Saccheggiata [BT-03]
+### Testo — La Fattoria Saccheggiata [BT-03] ✅ GIOCATA
 
 *[Il manuale non ha testo da leggere per questa scena: riquadro scritto dalla prosa della fonte, con tutti i suoi dati (fattoria saccheggiata, un istruttore dell'Armata dei Draghi, mercenari hobgoblin in addestramento) e i numeri di questa sessione. Con i numeri della fonte, sei hobgoblin e un solo soldato che li comanda: cambia anche il riquadro.]*
 
@@ -165,13 +186,16 @@ Il nome della missione suggerisce un'imboscata, e il party può tenderla: l'eser
 
 *[NOTA DM — riservata] **Hook per Brynja — la prova.** L'ufficiale chiama i personaggi «prova finale», e agli hobgoblin basta superarla per entrare nell'Armata. Brynja aspetta da nove anni che il Consiglio convochi la sua, in un Ordine che la esclude per nascita. Non sottolinearlo: se il giocatore lo raccoglie, lascialo parlare.*
 
-### Il Combattimento
+### Il Combattimento ⏸️ IN CORSO — ricalibrato il 2026-10-19
 
-- **Iniziativa:** una per l'ufficiale, una per i due soldati e una sola per i dieci hobgoblin (iniziativa condivisa, `scontri-adattati/00-framework.md`, punto 2).
+*Iniziato nella serata della S05 e interrotto a metà. Da qui in avanti valgono le regole sotto, compresi il dragonnel e le aggiunte all'ufficiale (`scontri-adattati/00-framework.md`, punti 5 e 6).*
+
+- **Iniziativa:** una per l'ufficiale, una per i due soldati, una sola per i dieci hobgoblin (iniziativa condivisa, `scontri-adattati/00-framework.md`, punto 2) e una per il **dragonnel**, se è una cavalcatura indipendente (vedi «L'ufficiale in sella»).
 - **Il pericolo vero sono le Tattiche del Branco.** Un hobgoblin attacca con vantaggio se il bersaglio ha accanto un altro hobgoblin, e la sua spada lunga fa 12 danni: dieci hobgoblin che si coprono a vicenda colpiscono quasi a ogni attacco. Da lontano l'arco lungo aggiunge 7 danni da veleno.
-- **Gli Ordini d'Assalto funzionano solo sui soldati.** L'ufficiale può far attaccare di reazione solo le creature con Devozione Draconica, cioè i due soldati: gli hobgoblin sono reclute e non ce l'hanno. La Devozione Draconica, comunque, alla fattoria non si attiva, perché non ci sono draghi.
-- **La Lancia Crudele ha portata 3 m:** l'ufficiale colpisce da dietro la prima fila di hobgoblin.
-- **Morale (fonte, adattato).** Gli hobgoblin combattono finché l'ufficiale è in piedi o finché non ne cade metà (cinque); poi si arrendono o scappano. I due soldati restano con l'ufficiale fino alla fine. Con i numeri della fonte vale lo stesso: il comandante è il soldato, e la metà sono tre hobgoblin.
+- **🔀 La Devozione Draconica ora è attiva.** Il dragonnel è di tipo **Drago**: finché lo vedono, ufficiale e soldati hanno **vantaggio ai tiri per colpire**, compresi gli attacchi di reazione degli Ordini d'Assalto. Se il dragonnel muore o esce dalla loro vista, il vantaggio finisce. Gli hobgoblin e il dragonnel non hanno il tratto. *(Prima qui c'era scritto che alla fattoria la Devozione non si attivava, perché non c'erano draghi: con il dragonnel non vale più.)*
+- **Gli Ordini d'Assalto funzionano solo sui soldati.** L'ufficiale può far attaccare di reazione solo le creature con Devozione Draconica, cioè i due soldati. Gli hobgoblin sono reclute e non ce l'hanno: per loro c'è la Bonus Action «Prova Finale» (sotto).
+- **La Lancia Crudele ha portata 3 m:** l'ufficiale colpisce da dietro la prima fila di hobgoblin, oppure dalla sella.
+- **🔀 Morale (fonte, adattato al punto 6 del framework).** Finché l'ufficiale è in piedi e il dragonnel vola, nessun hobgoblin si arrende, anche se metà del gruppo è già fuori gioco. Quando cade l'ufficiale o il dragonnel, gli hobgoblin rimasti si arrendono o scappano. I due soldati restano con l'ufficiale fino alla fine. La resa «a metà gruppo» della fonte resta una valvola, da usare solo se il tavolo è davvero in difficoltà.
 
 ### Stat Block — Ufficiale dell'Armata dei Draghi (×1) · CR 3 · 700 XP
 
@@ -206,6 +230,34 @@ Ordini d'Assalto (Assault Orders) (Ricarica 5–6). L'ufficiale urla ordini a un
   Devozione Draconica e può sentirlo può usare la propria reazione per
   effettuare un attacco in mischia.
 ```
+
+### Adattamento — Bonus Action e Reaction dell'ufficiale *(2026-10-19, non nella scheda ufficiale)*
+
+*La scheda qui sopra resta quella ufficiale. Le due aggiunte vengono dal punto 6 del framework («ogni capo ha Bonus Action e Reaction») e nascono da quello che è quest'ufficiale: un istruttore che mette alla prova le reclute e le corregge con la punta della lancia, come nel riquadro BT-03. Funzionano a piedi e in sella.*
+
+```
+UFFICIALE ISTRUTTORE — ADATTAMENTO DEL DM (2026-10-19), non nella scheda ufficiale
+Si aggiunge alla scheda DSotDQ p200 qui sopra. Valori della scheda invariati.
+—
+AZIONE BONUS
+Prova Finale (Final Test). L'ufficiale indica con la lancia una creatura che
+  vede entro 18 m. Un guerriero hobgoblin che può sentirlo può usare la propria
+  reazione per effettuare un attacco contro quella creatura: con la Spada lunga
+  se è a portata, altrimenti con l'Arco lungo.
+—
+REAZIONE
+Correzione (Correction). Quando un guerriero hobgoblin o un soldato
+  dell'Armata dei Draghi che l'ufficiale vede entro 18 m, e che può sentirlo,
+  manca un tiro per colpire, l'ufficiale gli urla la correzione: l'alleato
+  ripete il tiro e deve usare il nuovo risultato.
+```
+
+- **Prova Finale** fa combattere le reclute per lui: è il suo esame, e ogni round un hobgoblin si gioca il posto nell'Armata sul PG che l'ufficiale indica. Vale solo per gli hobgoblin, perché ai soldati pensano gli Ordini d'Assalto. Non sposta nessuno: chi è dentro la *crescita di spine* tira con l'arco da dove si trova.
+- **Correzione** vale per hobgoblin e soldati, quindi resta utile anche quando le reclute sono quasi tutte cadute. Usala su un colpo mancato di spada lunga (12 danni) o su un attacco di reazione degli Ordini d'Assalto, non su una freccia qualsiasi.
+- Non ricalcano gli altri capi del tavolo: Gholcag carica e contrattacca, Gragonis spinge e colpisce chi si allontana, Caradoc e Sarlamir giocano su colpi extra, invisibilità, paura e fuoco. Neanche gli ufficiali di Wheelwatch (S06): Vanse sposta i suoi uomini e li usa come scudo, il cavaliere del dragonnel sprona la cavalcatura e ferma con la lancia chi entra a portata.
+
+**Da recitare — l'ufficiale, quando usa Prova Finale** *(una volta basta, poi è sufficiente il gesto della lancia)*:
+> *"Quello lì! Chi lo butta giù si è guadagnato il posto nell'Armata!"*
 
 ### Stat Block — Soldato dell'Armata dei Draghi (×2) · CR 1 · 200 XP cad.
 
@@ -247,8 +299,8 @@ Giavellotto. Attacco con arma in mischia o a distanza: +4 al colpire, portata
 GUERRIERO HOBGOBLIN (×10) — Monster Manual 2024
 Folletto Medio (goblinoide), tipicamente Legale Malvagio
 CA 18 (mezza armatura, scudo)   Iniziativa +3 (13)   PF 11 (2d8+2)   Velocità 9 m
-FOR 13 (+1)   DES 12 (+1)   COS 12 (+1)
-INT 10 (+0)   SAG 10 (+0)   CAR  9 (-1)
+FOR 13 (+1, TS +1)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
+INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR  9 (-1, TS -1)
 Equipaggiamento arco lungo, mezza armatura, scudo, spada lunga
 Sensi scurovisione 18 m, Percezione passiva 10
 Linguaggi Comune, Goblin
@@ -266,7 +318,61 @@ Arco lungo. Tiro per colpire a distanza: +3, gittata 45/180 m.
   Colpito: 5 (1d8+1) danni perforanti più 7 (3d4) danni da veleno.
 ```
 
-*[NOTA DM — riservata] **Bilanciamento.** 1 ufficiale (700) + 2 soldati (400) + 10 hobgoblin (1.000) = **2.100 XP, CR 10**: Difficile in fascia bassa per cinque PG di 5° livello (il tetto è 12,5 CR), tenuto sotto perché le regole opzionali alzano la letalità e perché il guado può arrivare nella stessa uscita. Il morale della fonte è la valvola: se il tavolo è in difficoltà, fai arrendere gli hobgoblin appena cade l'ufficiale, o anche prima. Se il party prepara bene l'imboscata lo scontro si accorcia molto, ed è giusto così: è il premio per averla preparata. **Numeri della fonte** (party al 4° livello): 1 soldato dell'Armata dei Draghi + 6 hobgoblin, CR 4, 800 XP.*
+### Stat Block — Dragonnel dell'Armata dei Draghi (*Dragon Army dragonnel*) (×1) · CR 3 · 700 XP
+
+*La cavalcatura dell'ufficiale, arrivata a combattimento iniziato (aggiunta del DM al tavolo, 2026-10-18). Scheda ufficiale identica a quella della Sessione 06, senza aggiunte: non è un capo, e il suo peso in questo scontro è la Devozione Draconica che accende.*
+
+```
+DRAGON ARMY DRAGONNEL — DSotDQ p201, scheda ufficiale (stessi valori della Sessione 06)
+Drago Grande, tipicamente Legale Malvagio
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+Velocità 9 m, Volare 18 m
+FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
+INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
+Abilità Percezione +3
+Resistenze fuoco
+Sensi percezione cieca 9 m, scurovisione 36 m, Percezione passiva 13
+Linguaggi capisce Comune e Draconico ma non parla
+CR 3 (700 XP; BC +2)
+—
+TRATTI
+Attacco in Picchiata (Flyby). Il dragonnel non provoca attacchi di opportunità
+quando esce in volo dalla portata di un nemico.
+—
+AZIONI
+Multiattacco. Due attacchi di Squarcio.
+Squarcio (Rend). +5 al colpire, portata 1,5 m — 10 (2d6+3) danni taglienti
+  più 3 (1d6) danni da fuoco.
+```
+
+*[NOTA DM — riservata] È di tipo **Drago**, quindi accende la Devozione Draconica di ufficiale e soldati (vedi «Il Combattimento»). Non ha soffio, solo la resistenza al fuoco. La S06 tiene già conto che il primo dragonnel il party l'ha visto qui (header e nota organizzativa, punto 3).*
+
+### L'ufficiale in sella
+
+*Regole 2024 del combattimento in sella (Player's Handbook), da usare alla ripresa.*
+
+- **Montare e smontare.** Una volta durante il suo movimento l'ufficiale può montare su una cavalcatura che si trova entro 1,5 m, o smontare: gli costa **metà della sua velocità** (4,5 m).
+- **Cavalcatura controllata.** Agisce all'iniziativa del cavaliere, si muove dove lui la dirige e come azione può solo **Scattare**, **Disimpegnarsi** o **Schivare**: niente Squarci.
+- **Cavalcatura indipendente.** Tiene la **sua** iniziativa e agisce liberamente, attacchi compresi. Il cavaliere va dove va lei.
+- **Consiglio: indipendente.** Così il dragonnel tiene i suoi due Squarci, e l'ufficiale dalla sella:
+  - tira con la **balestra pesante**: un colpo solo a turno, perché il Multiattacco copre solo la lancia, ma con **vantaggio** dalla Devozione, visto che vede il dragonnel che cavalca. Un attacco a distanza fatto entro 1,5 m da un nemico ha svantaggio: se il dragonnel lo lascia a contatto con un PG, vantaggio e svantaggio si annullano, e conviene la lancia;
+  - usa gli **Ordini d'Assalto** quando si ricaricano, come azione a sé oppure dentro il Multiattacco con la lancia, se il dragonnel l'ha lasciato entro 3 m da un PG;
+  - usa ogni turno la Bonus Action **Prova Finale** e tiene la Reaction **Correzione** per il primo colpo importante che i suoi mancano.
+- **Il volo del dragonnel.** Vola a **18 m**, e con le regole 2024 può spezzare il movimento prima, in mezzo e dopo il Multiattacco: scende, squarcia un PG, si sposta, squarcia il secondo e risale. Con **Attacco in Picchiata** non subisce attacchi di opportunità quando esce in volo dalla portata di un nemico, ma un'**azione Preparata** da un PG in mischia («lo colpisco appena arriva a tiro») scatta lo stesso.
+- **I rischi della sella.**
+  - Se il dragonnel scende a **0 PF in volo**, cade, e il cavaliere cade con lui: **1d6 danni contundenti ogni 3 m** di caduta, e atterra Prono. Lo stesso vale per un dragonnel in volo che diventa Prono o Incapacitato, o resta con velocità di volo 0: precipita.
+  - Se la cavalcatura viene **spostata contro la sua volontà**, o il cavaliere viene **buttato Prono** mentre è in sella, il cavaliere fa un **TS Destrezza CD 10**: se lo fallisce cade dalla cavalcatura e atterra Prono entro 1,5 m da lei, prendendo anche i danni della caduta se lei era in volo.
+- **⚠️ Non tenerli in aria per tutto lo scontro.** Se il dragonnel resta sempre fuori portata, barbaro e monaco restano a guardare, e la serata si sgonfia per due giocatori su cinque. Fallo scendere a portata di mischia almeno un round su due, o fagli chiudere il turno a terra dopo la picchiata: il pericolo deve essere che arrivi, non che sia irraggiungibile.
+
+### Note tattiche per la ripresa
+
+- **Gli arcieri tirano a chi si concentra.** Gli hobgoblin con l'arco lungo (gittata 45 m), e l'ufficiale con la balestra, puntano chi mantiene la concentrazione, a partire da chi tiene in piedi la *crescita di spine*: ogni colpo lo costringe al TS di concentrazione.
+- **Le spine non si riattraversano.** Chi è uscito dalla *crescita di spine* non ci rientra: resta fuori e tira con l'arco. Chi è ancora dentro e non ha un PG a contatto resta fermo e tira, invece di camminare tra le spine.
+- **Dopo un'area, ci si allarga.** Dopo il prossimo incantesimo ad area i nemici non stanno più in gruppo: si tengono ad almeno 3 m l'uno dall'altro, e si avvicinano in due solo per attaccare lo stesso PG, che è quello che serve alle Tattiche del Branco.
+- **La «prova» è il PG che fa più male.** Con Prova Finale l'ufficiale indica chi sta facendo più danni o chi si concentra. Il dragonnel va sullo stesso bersaglio, o su chi è rimasto isolato.
+- **Nessuno si arrende a metà.** Finché l'ufficiale è in piedi e il dragonnel vola, gli hobgoblin combattono (vedi «Morale» sopra). I soldati restano entro 18 m dall'ufficiale, a portata dei suoi Ordini d'Assalto, anche quando lui è in sella.
+
+*[NOTA DM — riservata] **Bilanciamento** (punto 5 di `scontri-adattati/00-framework.md`, aggiornato il 2026-10-19). 1 ufficiale (700) + 2 soldati (400) + 10 guerrieri hobgoblin (1.000) + 1 dragonnel (700) = **2.800 XP**, circa **1,1 × Alta** (2.500) per cinque PG di 4° livello. È uno dei due scontri che contano della serata, e sta dentro il «fino a circa 1,25 × Alta» del framework per un party che ci arriva riposato. **Non aggiungere nemici**: metà degli hobgoblin è già bloccata o a terra, e il peso adesso lo portano l'ufficiale, il dragonnel e la Devozione Draconica. Valvola, solo se il tavolo è davvero in difficoltà: il dragonnel porta via l'ufficiale ferito, e gli hobgoblin rimasti si arrendono. Se il party gestisce bene la ripresa, lo scontro si accorcia, ed è giusto così. `[TODO DM: verificare dopo la sessione reale]`*
 
 ### Il Bottino della Fattoria
 
@@ -300,7 +406,7 @@ Se il party cattura un **prigioniero** e supera una prova di **Carisma (Intimida
 - **Cavalcature Volanti (*Flying Steeds*).** L'Armata dei Draghi usa come cavalcature volanti le viverne e dei draghi minori chiamati dragonnel.
 - **Minacce Magiche (*Magical Threats*).** Alcuni draconiani lanciano incantesimi, controllano la mente altrui, rubano la forma dei nemici che hanno ucciso, o addirittura esplodono quando muoiono. *(Se il party lo scopre prima del guado, i bozak della FASE 5 lo confermano dal vivo.)*
 
-Il prigioniero più probabile è un **hobgoblin** che si è arreso quando è caduto l'ufficiale: è un mercenario, non un fanatico, e parla per salvarsi la pelle. I draconiani del guado combattono fino alla morte.
+Il prigioniero più probabile è un **hobgoblin** che si è arreso quando è caduto l'ufficiale o il dragonnel: è un mercenario, non un fanatico, e parla per salvarsi la pelle. I draconiani del guado combattono fino alla morte.
 
 **Da recitare — un hobgoblin prigioniero** *(parla il Comune con un accento duro e vuole salvarsi, non fare l'eroe; le prime due risposte non richiedono prove, mentre delle altre tre ne dà una sola, con la prova riuscita, scelta tra quelle che Lehra non ha dato in S05)*:
 
@@ -314,7 +420,7 @@ Il prigioniero più probabile è un **hobgoblin** che si è arreso quando è cad
 > *"I draconiani non sono come noi: non vogliono nemmeno l'oro. Servono la loro Regina dei Draghi da fanatici e non hanno paura di niente: chi ci ha combattuto insieme dice che vanno avanti sotto le frecce senza abbassare la testa."*
 
 *Cavalcature Volanti:*
-> *"Gli ufficiali importanti non vanno a piedi. Alcuni volano in groppa alle viverne, altri su bestie che sembrano draghi, solo più piccole, e loro le chiamano dragonnel."*
+> *"Gli ufficiali non vanno a piedi, almeno quelli che contano. Alcuni volano in groppa alle viverne, altri su bestie come quella del nostro istruttore, che sembrano draghi più piccoli: loro le chiamano dragonnel."*
 
 *Minacce Magiche:*
 > *"I draconiani non sono tutti uguali. Ce ne sono che fanno incantesimi e altri che ti entrano nella testa. Dicono che certi sappiano prendersi la faccia di chi hanno appena ammazzato, e che altri, quando muoiono, scoppino. Io me ne tengo alla larga."*
@@ -326,7 +432,7 @@ Il prigioniero più probabile è un **hobgoblin** che si è arreso quando è cad
 ---
 
 **Attitudine PNG in questa scena:**
-- **Ufficiale, soldati e hobgoblin dell'Armata dei Draghi** — Attitudine: −3 Ostile. Gli hobgoblin che si arrendono passano a −1 Sospettoso: parlano per paura.
+- **Ufficiale, soldati, hobgoblin e dragonnel dell'Armata dei Draghi** — Attitudine: −3 Ostile. Gli hobgoblin che si arrendono passano a −1 Sospettoso: parlano per paura.
 
 ---
 
@@ -356,31 +462,59 @@ Un personaggio che supera una prova di **Saggezza (Sopravvivenza) CD 12** trova 
 
 *[NOTA DM — riservata] **Hook per Asurion — il guado.** Leggere un guado e le impronte di chi l'ha attraversato è il suo lavoro. Ha già lavorato a est di Kalaman (FASE 2), quindi conosce il guado e sa che il bosco a sud è l'unico riparo per qualche miglio, cioè il posto dove si accamperebbe lui.*
 
-*[NOTA DM — riservata] **Hook per Corin — i martin pescatori.** Il Raiding Rill è un torrente e sulle sue rive nidificano i martin pescatori. Se nessuno trova le impronte e Corin si mette a guardare il torrente, vede che a monte del guado gli uccelli ci sono e a valle, verso il bosco a sud, mancano, perché qualcosa li ha disturbati. È la stessa lettura con cui tre anni fa trovò Ispin ferito nel sottobosco. Questo gli dà la direzione, mentre il tempo che serve per trovare il campo resta il [TODO DM] qui sopra. Se in S05 Corin ha saputo della Pozza, non sottolinearlo.*
+*[NOTA DM — riservata] **Hook per Corin — i martin pescatori.** Il Raiding Rill è un torrente e sulle sue rive nidificano i martin pescatori. Se nessuno trova le impronte e Corin si mette a guardare il torrente, vede che a monte del guado gli uccelli ci sono e a valle, verso il bosco a sud, mancano, perché qualcosa li ha disturbati. È la stessa lettura con cui tre anni fa trovò Ispin ferito nel sottobosco. Questo gli dà la direzione senza bisogno del carrettiere. Se in S05 Corin ha saputo della Pozza, non sottolinearlo.*
 
 *[NOTA DM — riservata] **Il superstite e la magia.** Se qualcuno cura il carrettiere con un incantesimo, lui lo racconterà a Kalaman, e la voce sui due guaritori di Vogler (`campagna/party.md`, «Il patto sulla magia divina») gira ancora di più, senza nessun malus.*
 
 ### Avvicinarsi al campo
 
-Le impronte portano al campo lungo un sentiero nel bosco. Chi si avvicina di nascosto fa una prova di **Destrezza (Furtività)** contro la Percezione passiva dei draconiani: **9** i baaz, **10** i bozak. Il kapak sugli alberi ha Percezione passiva **13** (FASE 5).
+Le impronte portano al campo lungo un sentiero nel bosco. Chi si avvicina di nascosto fa una prova di **Destrezza (Furtività)** contro la Percezione passiva dei draconiani: **9** i baaz, **10** il bozak. Il kapak sugli alberi ha Percezione passiva **13** (FASE 5).
 
-*[NOTA DM — riservata] **Hook per Garrick — il corvo, di nuovo.** Con il corvo sopra la radura, Garrick conta senza tiri gli otto draconiani e i due più grossi che danno ordini; per scorgere il kapak tra i rami serve invece una prova di Saggezza (Percezione) CD 14, come per un PG e come in S05. Senza il corvo, Garrick è il bersaglio ideale della picchiata del kapak (FASE 5).*
+*[NOTA DM — riservata] **Nella radura c'è solo metà del campo** (ricalibrazione del 2026-10-19). Attorno al fuoco ci sono un bozak e quattro baaz; l'altra metà, un bozak con altri quattro baaz, è di guardia alla strada più a est, ed è il «blocco» vero e proprio. Rientra al campo richiamata dal rumore e arriva al 2°-3° round da un'altra direzione (FASE 5, «Le Due Ondate»).*
+
+*Se qualcuno chiede al carrettiere quanti erano:*
+> *"Saranno stati una decina, forse qualcuno di più. Però non sono andati tutti nel bosco: alcuni sono rimasti sulla strada, più avanti verso est, come se aspettassero qualcun altro."*
+
+*[NOTA DM — riservata] **Hook per Garrick — il corvo, di nuovo.** Con il corvo sopra la radura, Garrick conta senza tiri i quattro draconiani e quello più grosso che dà ordini, e vede che attorno al fuoco i giacigli sono una decina. Se manda il corvo a guardare anche nei dintorni della radura, trova senza tiri la squadra di guardia, e il party sa da che parte arriverà. Per scorgere il kapak tra i rami serve invece una prova di Saggezza (Percezione) CD 14, come per un PG e come in S05. Senza il corvo, Garrick è il bersaglio ideale della picchiata del kapak (FASE 5).*
+
+---
+
+**Attitudine PNG in questa scena:**
+- **Il carrettiere** *(superstite del blocco, senza nome)* — Attitudine: 0 Neutrale finché ha paura che il party sia dell'Armata, poi +1 Cordiale: è grato a chi lo trova e lo riporta a Kalaman.
 
 ---
 
 ## FASE 5 — Il Campo nel Bosco: il Blocco Draconico
 
-*~45 minuti · Il campo dei draconiani, l'agguato del kapak, i primi bozak, il combattimento fino alla morte*
+*~55 minuti · Il campo dei draconiani, l'agguato del kapak, i primi bozak, il combattimento fino alla morte*
 
 ### Contesto per il DM
 
-Nella fonte il campo ospita cinque baaz guidati da un bozak, e i draconiani combattono fino alla morte. In questa sessione, al 5° livello, sono **otto baaz**, **due bozak** e **un kapak** acquattato sugli alberi (`scontri-adattati/capitolo-04.md`). Il party conosce i baaz da S00 e da Vogler e il kapak dalla S05: lo scontro gioca su quello che i giocatori credono di sapere, e sui due draconiani che non hanno mai visto.
+Nella fonte il campo ospita cinque baaz guidati da un bozak, e i draconiani combattono fino alla morte. In questa sessione, al 4° livello, sono **otto baaz**, **due bozak** e **un kapak** acquattato sugli alberi (`scontri-adattati/capitolo-04.md`), ma non tutti insieme: al fuoco ci sono un bozak e quattro baaz, il kapak cala al secondo round e l'altra metà del campo arriva al 2°-3° round da un'altra direzione («Le Due Ondate», sotto). Il party conosce i baaz da S00 e da Vogler e il kapak dalla S05: lo scontro gioca su quello che i giocatori credono di sapere, e sui due draconiani che non hanno mai visto.
 
 ### Testo — Il Campo nel Bosco [BT-05]
 
-*[Il manuale non ha testo da leggere per questa scena: riquadro scritto dalla prosa della fonte (un campo nel bosco, draconiani baaz guidati da un bozak) con i numeri di questa sessione. Il kapak tra i rami resta fuori dal riquadro. Con i numeri della fonte, cinque draconiani e un solo capo: cambia anche il riquadro.]*
+*[Il manuale non ha testo da leggere per questa scena: riquadro scritto dalla prosa della fonte (un campo nel bosco, draconiani baaz guidati da un bozak) con la prima ondata di questa sessione, ricalibrata il 2026-10-19. Il kapak tra i rami e la squadra di guardia restano fuori dal riquadro: i giacigli sono l'unico indizio.]*
 
-> Il sentiero finisce in una radura occupata da un accampamento, con casse, sacchi e barili ammucchiati accanto a un fuoco basso. Attorno al fuoco otto draconiani mangiano seduti o puliscono la spada corta, mentre altri due, più grossi e con le squame più scure, girano tra loro con un tridente in mano e danno ordini in una lingua piena di sibili.
+> Il sentiero finisce in una radura occupata da un accampamento: casse, sacchi e barili sono ammucchiati accanto a un fuoco basso, circondato da una decina di giacigli di frasche. Quattro draconiani mangiano seduti o puliscono la spada corta, mentre un quinto, più grosso e con le squame più scure, gira tra loro con un tridente in mano e dà ordini in una lingua piena di sibili.
+
+### Le Due Ondate *(ricalibrazione del 2026-10-19, punto 6 del framework)*
+
+Lo schieramento è lo stesso di prima, 2.400 XP, ma entra in tre momenti:
+
+| Quando | Chi | XP | Da dove |
+|---|---|--:|---|
+| Dall'inizio | 1 bozak + 4 baaz, attorno al fuoco | 850 | la radura |
+| 2° round | 1 kapak | 700 | dagli alberi sopra la radura («L'Agguato del Kapak», sotto) |
+| 2°-3° round | 1 bozak + 4 baaz, la squadra di guardia alla strada | 850 | dal lato della radura opposto a quello da cui è entrato il party |
+
+- **Perché così.** Il controllo d'apertura dei PG, che sia un'area o una *ragnatela*, colpisce solo la prima ondata. La squadra di guardia (850 XP, più di un terzo del budget) e il kapak arrivano quando le aree sono già piazzate e chi le mantiene è impegnato.
+- **Quando entra la seconda squadra.** All'iniziativa dei baaz del 2° round; al 3° se il party ha sorpreso il campo o se è ancora tutto fermo sulla prima ondata. La squadra non entra in un'area pericolosa che vede: la aggira, oppure si ferma al margine e lascia lavorare il suo bozak.
+- **Iniziativa.** Le due squadre di baaz condividono l'iniziativa dei baaz, i due bozak quella dei bozak.
+- **Se il party l'ha vista arrivare** (il corvo di Garrick o il carrettiere, FASE 4), può tenderle un agguato o affrontare le due squadre una alla volta: è il premio per la ricognizione.
+
+**Quando arriva la seconda squadra:**
+> Sull'altro lato della radura si sente uno schianto di rami, poi altri quattro draconiani escono di corsa dagli alberi, seguiti da uno più grosso con il tridente in mano.
 
 ### L'Agguato del Kapak
 
@@ -390,17 +524,17 @@ Come al posto di vedetta della S05, il **kapak** è acquattato tra i rami sopra 
 - Il kapak agisce per la **prima volta al secondo round** (o nel round in cui un PG si separa dal gruppo) e cala dall'alto con **vantaggio al primo attacco**, perché è nascosto (condizione Invisibile data dall'azione Nascondersi, regole 2024). Il bersaglio ideale è un incantatore o un PG che combatte a distanza.
 - Un PG che, entrando nella radura, usa un'azione per scrutare le fronde e supera una prova di **Saggezza (Percezione) CD 14** (contro la Furtività del kapak) lo individua in anticipo e gli toglie la sorpresa.
 
-*[NOTA DM — riservata] **Ora il party lo conosce.** Se in S05 il kapak è calato dagli alberi, i giocatori guarderanno in alto appena vedono una radura piena di draconiani: lascia che facciano la prova di Percezione, e se la superano il kapak è scoperto. Hanno imparato la lezione della S05, e va premiata (`scontri-adattati/capitolo-04.md`). Se la S05 non è andata così, l'agguato funziona come la prima volta.*
+*[NOTA DM — riservata] **Ora il party lo conosce.** In S05 il party ha già affrontato il kapak al boschetto, quindi i giocatori guarderanno in alto appena vedono una radura con dei draconiani: lascia che facciano la prova di Percezione, e se la superano il kapak è scoperto. Hanno imparato la lezione della S05, e va premiata (`scontri-adattati/capitolo-04.md`). L'agguato resta anche nella ricalibrazione: come la squadra di guardia, il kapak arriva quando il controllo d'apertura è già stato speso.*
 
 ### I Bozak
 
-I **bozak** sono la novità della sessione, i primi della campagna. Combattono con il tridente o con la Scarica Elettrica, ma soprattutto lanciano incantesimi: una volta al giorno ciascuno *ingrandire/ridurre* (*enlarge/reduce*), *invisibilità* (*invisibility*), *nube maleodorante* (*stinking cloud*) e *ragnatela* (*web*), con CD 12.
+I **bozak** sono la novità della sessione, i primi della campagna. Combattono con il tridente o con la Scarica Elettrica, ma soprattutto lanciano incantesimi: una volta al giorno ciascuno *ingrandire/ridurre* (*enlarge/reduce*), *invisibilità* (*invisibility*), *nube maleodorante* (*stinking cloud*) e *ragnatela* (*web*), con CD 12. **Tutti e quattro richiedono concentrazione:** ogni bozak ne tiene in piedi uno alla volta, e quando subisce danni fa il TS di concentrazione con +0. Dalla ricalibrazione del 2026-10-19 hanno anche una Bonus Action e una Reaction (blocco sotto la loro scheda).
 
-- **Non far lanciare a entrambi tutto nel primo round.** Un bozak apre con *ragnatela* sui PG che caricano, l'altro tiene la *nube maleodorante* per quando il party si raggruppa (`scontri-adattati/capitolo-04.md`).
+- **Un bozak per ondata.** Il bozak della radura apre con *ragnatela* sui PG che caricano, lanciandola con la Bonus Action Magia Rapida, così nello stesso turno usa anche il Multiattacco. Quello della squadra di guardia arriva quando il party si è raggruppato sulla prima ondata, e tiene la *nube maleodorante* per quel momento (`scontri-adattati/capitolo-04.md`).
 - *Ingrandire* su un baaz lo rende più pericoloso in mischia, *ridurre* indebolisce il PG più forte in mischia. A un bozak in difficoltà *invisibilità* serve per spostarsi e tornare a lanciare da un'altra posizione.
 - I bozak comandano i baaz e preferiscono restare dietro di loro.
 
-*[NOTA DM — riservata] **Hook per Garrick — i primi incantatori nemici.** I bozak sono i primi draconiani della campagna che lanciano incantesimi, e sono incantesimi da mago: Garrick riconosce *ragnatela* e *nube maleodorante* appena fanno effetto. Se ha preparato *controincantesimo* (*counterspell*), sono i primi bersagli su cui usarlo: lanciano senza componenti materiali ma con quelle verbali e somatiche, quindi si possono interrompere, e hanno +0 ai tiri salvezza su Costituzione.*
+*[NOTA DM — riservata] **Hook per Garrick — i primi incantatori nemici.** I bozak sono i primi draconiani della campagna che lanciano incantesimi, e sono incantesimi da mago: Garrick riconosce *ragnatela* e *nube maleodorante* appena fanno effetto, e la *ragnatela* è la stessa che ha lanciato lui alla fattoria: basta descriverle guardando lui.*
 
 *[NOTA DM — riservata] **Hook per Razak — il buio contro i bozak.** Dentro l'*oscurità* delle Arti dell'Ombra i bozak non vedono i bersagli, mentre Razak sì: gli attacchi con Scarica Elettrica e tridente hanno svantaggio, e lanciano gli incantesimi alla cieca. Nell'oscurità però sono ciechi anche i compagni di Razak.*
 
@@ -420,6 +554,13 @@ Ogni tipo di draconiano muore a modo suo. Le morti dei baaz e del kapak il party
 - I **baaz** puntano ai bersagli più vicini e si ammassano in mischia, ed è proprio questo che rende pericolose le loro morti.
 - Il **kapak** colpisce e si sposta, mira agli incantatori e usa il veleno.
 - I **bozak** comandano e lanciano da dietro (vedi sopra).
+
+### Note tattiche — concentrazione e aree *(punto 6 del framework)*
+
+- **Chi si concentra è il primo bersaglio.** I bozak puntano la Scarica Elettrica su chi mantiene un incantesimo, e con la Reaction Scarica di Risposta colpiscono chi ne lancia uno. Il kapak cala di preferenza su un incantatore: se il Multiattacco lo paralizza, il bersaglio è Incapacitato e la concentrazione finisce.
+- **Dopo un'area, ci si allarga.** Al primo incantesimo ad area il bozak sibila un ordine e i baaz si sparpagliano, tenendosi ad almeno 3 m l'uno dall'altro. Restano però in mischia sui PG: le loro morti sono pericolose proprio perché arrivano addosso a qualcuno.
+- **Il terreno pericoloso si aggira.** Chi vede una *ragnatela*, una *crescita di spine* o un'altra zona pericolosa non ci entra: la aggira, oppure aspetta al margine mentre i bozak tirano.
+- **Il bozak sa di esplodere.** Quando scende sotto metà dei PF e non ha più incantesimi utili, un bozak si butta in mezzo ai PG, così che lo Spasmo di Morte ne prenda più di uno, e magari un baaz, che si pietrifica a sua volta.
 
 ### Stat Block — Draconiano Baaz (×8) · CR 1/2 · 100 XP cad. *(identico alla Sessione 05)*
 
@@ -494,6 +635,31 @@ Incantesimi. Il bozak lancia uno dei seguenti incantesimi, senza componenti
   ragnatela
 ```
 
+### Adattamento — Bonus Action e Reaction dei bozak *(2026-10-19, non nella scheda ufficiale)*
+
+*La scheda qui sopra resta quella ufficiale. I due bozak sono i capi del campo, quindi per il punto 6 del framework prendono una Bonus Action e una Reaction fisse, nate dalla loro natura di incantatori.*
+
+```
+BOZAK (×2) — ADATTAMENTO DEL DM (2026-10-19), non nella scheda ufficiale
+Si aggiunge alla scheda DSotDQ p198 qui sopra. Valori della scheda invariati.
+—
+AZIONE BONUS
+Magia Rapida (Quickened Spell). Il bozak lancia uno dei suoi incantesimi
+  1/giorno ancora disponibili. Nello stesso turno non può lanciare un altro
+  incantesimo con l'azione.
+—
+REAZIONE
+Scarica di Risposta (Spell Snap). Quando una creatura che il bozak vede entro
+  18 m lancia un incantesimo di 1° livello o superiore, il bozak effettua un
+  attacco con Scarica Elettrica contro di lei. L'attacco arriva dopo che
+  l'incantesimo ha fatto effetto: se la creatura si sta concentrando, il danno
+  impone il TS di concentrazione.
+```
+
+- **Magia Rapida** permette al bozak di lanciare e attaccare nello stesso turno. Il limite è la concentrazione: i quattro incantesimi la richiedono tutti, quindi ogni bozak ne tiene in piedi uno solo, e la Bonus Action conta soprattutto nei primi round.
+- **Scarica di Risposta** è il motivo per cui *ragnatela* e *crescita di spine* qui costano care: chi le lancia entro 18 m da un bozak subisce subito un attacco con Scarica Elettrica. Scatta solo sugli incantesimi di 1° livello o superiore, non sui trucchetti.
+- L'esplosione resta quella della scheda: la natura «esplodono morendo» la gioca la tattica (vedi «Note tattiche — concentrazione e aree»), non un'aggiunta. Niente echi con gli altri capi: Gholcag, Gragonis, Caradoc, Sarlamir, l'ufficiale della fattoria e i capi di Wheelwatch (S06) hanno schemi diversi.
+
 ### Stat Block — Draconiano Kapak (×1) · CR 3 · 700 XP *(identico alla Sessione 05)*
 
 *Scheda ufficiale, senza le aggiunte homebrew scartate dal DM (niente Attacco Furtivo né reazione Via col Volo). Non vola: Planata e Scalare 12 m.*
@@ -532,7 +698,7 @@ Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
 oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
 ```
 
-*[NOTA DM — riservata] **Bilanciamento.** 8 baaz (800) + 2 bozak (900) + 1 kapak (700) = **2.400 XP, CR 11**: Difficile in fascia bassa per cinque PG di 5° livello, e il più duro dei due scontri. I draconiani non si arrendono, quindi la valvola è un'altra: se il party è in grave difficoltà, i bozak tengono da parte gli incantesimi che non hanno ancora lanciato, e il kapak, che è un opportunista, si ritira su per i tronchi invece di combattere fino alla morte (come in S05, è una deviazione dalla fonte per salvare il tavolo). **Numeri della fonte** (party al 4° livello): 5 baaz + 1 bozak, CR 4,5, 950 XP, senza kapak: salta «L'Agguato del Kapak» e la sua prova di Percezione.*
+*[NOTA DM — riservata] **Bilanciamento** (punto 5 di `scontri-adattati/00-framework.md`, aggiornato il 2026-10-19). 8 baaz (800) + 2 bozak (900) + 1 kapak (700) = **2.400 XP**, circa **0,96 × Alta** (2.500) per cinque PG di 4° livello. Lo schieramento resta quello di prima: cambia il modo in cui entra (due ondate più l'agguato del kapak), e i bozak hanno Bonus Action e Reaction. **Il party arriva dalla fattoria con un solo riposo lungo in mezzo**, che con le regole opzionali rende solo i Dadi Vita: slot e risorse di classe tornano, i PF solo in parte. Per questo lo scontro resta appena sotto Alta e non va gonfiato. I draconiani non si arrendono, quindi la valvola è un'altra: se il party è in grave difficoltà, la squadra di guardia arriva al 3° round o con due baaz invece di quattro, i bozak tengono da parte gli incantesimi che non hanno ancora lanciato, e il kapak, che è un opportunista, si ritira su per i tronchi invece di combattere fino alla morte (come in S05, è una deviazione dalla fonte per salvare il tavolo). `[TODO DM: verificare dopo la sessione reale]`*
 
 ### Il Bottino del Campo
 
@@ -559,6 +725,8 @@ Il party rientra a Kalaman con:
 2. La strada verso l'Estwilde di nuovo sicura, dopo il campo dei draconiani al guado.
 3. Il bottino: 320 mo in tutto, cinque cotte di maglia nere, sessanta giorni di razioni e un globo fluttuante, più gli eventuali hobgoblin prigionieri.
 
+*[NOTA DM — riservata] **Hook per Razak e Brynja — il Registro di Rennard.** Se la scena non è stata giocata né in S05 (FASE 0) né alla partenza (FASE 1), la busta di Becklin è ancora in tasca a Razak e il rientro a Kalaman è l'occasione, con il testo della S05 (TODO DM 3 della S05).*
+
 ### Rapporto a Vendri
 
 I personaggi riferiscono al Maresciallo Vendri, o a Darrett, che li porta da lei. Vendri è soddisfatta: le due missioni sono chiuse e la strada verso est è di nuovo percorribile. Il bottino resta al party, come nella fonte. Il premio è quello promesso, **un oggetto dall'armeria del castello per ogni missione completata**, e Vendri accompagna lei stessa il party a sceglierlo.
@@ -580,7 +748,7 @@ I personaggi riferiscono al Maresciallo Vendri, o a Darrett, che li porta da lei
 
 *[NOTA DM — riservata] **Vendri e i tre che non hanno giurato.** Il premio è del party e Vendri non fa distinzioni: se il gruppo dà un oggetto a Garrick, ad Asurion o a Corin, lei lo consegna senza commentare. Della sfumatura della S04 (avrebbe voluto tutti e cinque sotto giuramento) resta al massimo uno sguardo, e non chiede niente.*
 
-*[NOTA DM — riservata] **Hook per tutti — Cudgel e le reclute dell'Armata.** È facoltativo, da giocare nel tempo libero dopo il rientro. Se a fine S05 Cudgel e i superstiti dell'Ironclad sono a Kalaman e qualcuno le racconta della fattoria, Cudgel riconosce il metodo: è quello con cui l'Armata si è comprata Gragonis e, con il suo oro, metà dell'Ironclad, il tradimento che il party ha fermato a High Hill. Non aggiunge niente a quello che il party sa già.*
+*[NOTA DM — riservata] **Hook per tutti — Cudgel e le reclute dell'Armata.** È facoltativo, da giocare nel tempo libero dopo il rientro. Cudgel e i superstiti dell'Ironclad sono a Kalaman dalla S05: se qualcuno le racconta della fattoria, Cudgel riconosce il metodo: è quello con cui l'Armata si è comprata Gragonis e, con il suo oro, metà dell'Ironclad, il tradimento che il party ha fermato a High Hill. Non aggiunge niente a quello che il party sa già.*
 
 **Da recitare — Cudgel, se le raccontano della fattoria:**
 > *"È il metodo che hanno usato con Gragonis: trovano uno che si vende e se lo comprano. Adesso però, prima di pagarlo, vogliono anche vedere se sa obbedire."*
@@ -613,34 +781,36 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 - ***Asurion*** *riceve da Kalaman il secondo compenso, dopo il bonus per Lehra (vedi l'hook «per la paga» in FASE 3).*
 - ***Garrick*** *è il tipo che legge i cartellini: se chiede da dove viene un oggetto, la provenienza scritta a mano la decidi tu, ed è un dettaglio pensato per lui.*
 - ***Brynja*** *è l'unica ad avere già un oggetto magico, lo Scudo Verde di Ispin, che non richiede sintonia: se il gruppo ne tiene conto nel dividere, è una scelta loro.*
-- ***Razak e Asurion*** *al 5° livello hanno già una velocità superiore ai 9 m che garantiscono gli Stivali dei Passi e dei Balzi, quindi a loro degli stivali resterebbe solo il salto: per questo nella tabella non sono indicati. I Guanti della Potenza dell'Orco servono a Razak solo se Forza 19 supera la Destrezza che usa per le Arti Marziali.*
+- ***Razak e Asurion*** *hanno già una velocità superiore ai 9 m che garantiscono gli Stivali dei Passi e dei Balzi, quindi a loro degli stivali resterebbe solo il salto: per questo nella tabella non sono indicati. I Guanti della Potenza dell'Orco servono a Razak solo se Forza 19 supera la Destrezza che usa per le Arti Marziali.*
 
 *[NOTA DM — riservata] **Le cotte nere.** Vendri non chiede le cinque cotte di maglia nere e non ne parla: che a Wheelwatch valgano come travestimento (S06, FASE 3, «Impostori») il party deve scoprirlo da solo. Se qualcuno propone di venderle, nessuno lo ferma.*
 
-### Avanzamento
+### Avanzamento — 5° livello
 
-*[NOTA DM — riservata] **Nessun avanzamento.** Le sessioni speciali sono facoltative e non contano per la progressione (decisione del DM, 2026-10-18): il party resta al **5° livello**, e gli XP (fino a 4.500) sono solo contabilità. Dopo la sessione, in `campagna/party.md` si annotano bottino, oggetti scelti all'armeria e XP; la S06 parte da lì.*
+*[NOTA DM — riservata] **Il party sale al 5° livello qui**, a fine sessione, dopo il guado del Raiding Rill (decisione del DM, 2026-10-19, detta «probabilmente»; sostituisce quella del 2026-10-18, che teneva la 05bis fuori dalla progressione). Annuncialo al rapporto a Vendri o dopo la scelta all'armeria. Gli XP della sessione (fino a 5.200, più i 1.900 dell'apertura) sono solo contabilità, perché dal Cap. 3 l'avanzamento è a pietra miliare. Dopo la sessione, in `campagna/party.md` si annotano il 5° livello, il bottino, gli oggetti scelti all'armeria e gli XP; la S06, tarata sul 5° livello, parte da lì.*
+
+**[TODO DM]** Se la 05bis non arriva al guado (il tavolo lo salta, o la serata finisce prima), il 5° livello arriva comunque prima di Wheelwatch? La S06 è tarata sul 5°.
 
 ---
 
 **Attitudine PNG in questa scena:**
-- **Maresciallo Nestra Vendri** — Attitudine: +2/+3 dopo la S05 (verifica nel recap). È soddisfatta dei due incarichi chiusi in pochi giorni. Attitudine verso Razak e Brynja, i suoi scudieri, e verso Garrick, Asurion e Corin: lo stesso valore, con la solita sfumatura verso i tre che non hanno giurato. Se la S05 l'ha lasciata a +2, due missioni chiuse sono l'occasione per portarla a +3.
+- **Maresciallo Nestra Vendri** — Attitudine: +2 Amichevole (`png-incontrati.md`), +3 se la S05 l'ha già alzata (TODO DM 4 della S05). È soddisfatta dei due incarichi chiusi in pochi giorni. Attitudine verso Razak e Brynja, i suoi scudieri, e verso Garrick, Asurion e Corin: lo stesso valore, con la solita sfumatura verso i tre che non hanno giurato. Se la S05 l'ha lasciata a +2, due missioni chiuse sono l'occasione per portarla a +3.
 - **Darrett Highwater** — Attitudine: +3 Alleato, anche verso Razak. Vuole il racconto che aveva chiesto alla partenza.
-- **Cudgel Ironsmile** *(solo se usata, vedi l'hook sopra)* — Attitudine: +2/+3 come a fine S05 (verifica nel recap). Nessun cambiamento da cercare qui.
+- **Cudgel Ironsmile** *(solo se usata, vedi l'hook sopra)* — Attitudine: +2 Amichevole (`png-incontrati.md`), +3 se in S05 è stata presentata a Vendri (TODO DM 2 e 4 della S05). Nessun cambiamento da cercare qui.
 
 ---
 
 ## 🎭 Hook PG — Riepilogo
 
-*[NOTA DM — riservata] Indice dei momenti di ciascun PG, che nel testo stanno nella fase indicata. La sessione si gioca per le ricompense e il party ci arriva al 5° livello, quindi gli hook puntano su due cose: far usare a ognuno le capacità appena guadagnate e dare a ognuno un motivo per tenere a ciò che riporta a Kalaman. Nessuno di questi momenti cambia la progressione o serve alle sessioni successive.*
+*[NOTA DM — riservata] Indice dei momenti di ciascun PG, che nel testo stanno nella fase indicata. La sessione si gioca per le ricompense, al 4° livello, e si chiude con il 5°: gli hook puntano su due cose, dare a ognuno un momento nell'avvicinamento o nel combattimento e un motivo per tenere a ciò che riporta a Kalaman. Nessuno di questi momenti cambia la progressione o serve alle sessioni successive.*
 
 | PG | Fasi | Hook |
 |---|---|---|
 | **Razak** | 1, 3, 5, 6 | La domanda di Darrett su Becklin, se in S05 Cudgel ha confermato la cattura; la fila degli hobgoblin; l'*oscurità* delle Arti dell'Ombra contro hobgoblin e bozak; la serratura solamnica dell'armeria; il Registro di Rennard, se non giocato in S05 |
-| **Brynja** | 2, 3, 4, 6 | La «prova finale» dell'ufficiale e i nove anni in cui ha aspettato il suo banco di prova; il superstite del guado; il Registro di Rennard, se non giocato in S05 |
-| **Garrick** | 1, 3, 4-5, 6 | Il corvo sulla fattoria e sulla radura, anche contro il kapak; i primi incantatori nemici e il *controincantesimo*; i cartellini dell'armeria |
+| **Brynja** | 1, 3, 4, 6 | La «prova finale» dell'ufficiale e i nove anni in cui ha aspettato il suo banco di prova; il superstite del guado; il Registro di Rennard, se non giocato in S05 |
+| **Garrick** | 3, 4-5, 6 | Il corvo sulla fattoria e sulla radura, anche contro il kapak; i primi incantatori nemici, con la *ragnatela* che ha lanciato lui alla fattoria; i cartellini dell'armeria |
 | **Asurion** | 2, 3, 4, 6 | Il passo e le soste del viaggio, che sono il suo mestiere; la strada e il guado, che conosce già; il «per la paga» del prigioniero; le impronte; il secondo compenso da Kalaman, dopo il bonus per Lehra |
-| **Corin** | 2, 3, 4, 6 | La Forma Selvatica per spiare la fattoria; i martin pescatori del Raiding Rill; il superstite del guado; il suo difetto nella scelta all'armeria |
+| **Corin** | 3, 4, 6 | La Forma Selvatica per spiare la fattoria; i martin pescatori del Raiding Rill; il superstite del guado; il suo difetto nella scelta all'armeria |
 
 *[NOTA DM — riservata] **Bilanciamento.** Ognuno ha un momento nell'avvicinamento (FASE 3-4), uno nel combattimento o nel riposo e uno all'armeria. Il dialogo di Razak con Darrett è il momento più intenso, e va giocato solo se in S05 Cudgel ha confermato la cattura. Le notizie dell'altopiano (eremo e Pozza devastati) in questa sessione non arrivano, a meno che Razak o Corin non le cerchino a Kalaman prima della partenza (FASE 1).*
 
@@ -650,15 +820,15 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 
 | Fonte | Ricompensa |
 |-------|-----------|
-| Fattoria — scontro (1 ufficiale, 2 soldati, 10 hobgoblin) | 2.100 XP (solo contabilità) |
+| Fattoria — scontro (1 ufficiale, 2 soldati, 10 guerrieri hobgoblin, 1 dragonnel) | 2.800 XP (solo contabilità) |
 | Fattoria — bottino | 200 mo, 5 cotte di maglia nere con il simbolo di Takhisis, il messaggio della Gran Maestra |
 | Guado — scontro (8 baaz, 2 bozak, 1 kapak) | 2.400 XP (solo contabilità) |
 | Guado — bottino | 120 mo, cibo pari a 60 giorni di razioni, 1 globo fluttuante |
 | **Premio di Kalaman** | **1 oggetto magico non comune dall'armeria per ogni missione completata** (2 se entrambe; lista in FASE 6) |
 | Interrogatorio di un prigioniero (Carisma (Intimidazione o Persuasione) CD 14) | Un'informazione della cornice «Chiarire la Minaccia» |
-| **Avanzamento** | **Nessuno**: il party resta al 5° livello |
+| **Avanzamento** | **5° livello** a fine sessione, dopo il guado (FASE 6) |
 
-*Con i numeri della fonte (party al 4°) gli XP sono 800 per la fattoria e 950 per il guado, 1.750 in tutto; bottino e premio di Kalaman non cambiano.*
+*In tutto fino a **5.200 XP** con entrambe le vittorie (ricalibrazione del 2026-10-19; prima erano 4.500).*
 
 *[NOTA DM — riservata] Il valore vero delle cotte nere si vede a Wheelwatch (S06, FASE 3, «Impostori»; vedi la nota sulle cotte nella FASE 3 di questo file).*
 
@@ -666,7 +836,7 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 
 ## 🧩 THREAD NARRATIVI SETUP [S06]
 
-*[NOTA DM — riservata] Come in S04–S06, questa campagna non prevede missioni secondarie di fazione strutturate (vedi `campagna/missioni-secondarie.md` e `campagna/fazioni.md`): l'Agente 4 non ha trovato missioni `In corso` o `Pianificate` da integrare, e in questo passaggio il draft non è stato toccato. La sessione è speciale e fuori dalla progressione, quindi la tabella prepara la sessione normale successiva, la S06. I thread qui sotto sono narrativi e nascono dal materiale di questa sessione e da quello che le precedenti hanno lasciato aperto.*
+*[NOTA DM — riservata] Come in S04–S06, questa campagna non prevede missioni secondarie di fazione strutturate (vedi `campagna/missioni-secondarie.md` e `campagna/fazioni.md`): l'Agente 4 non ha trovato missioni `In corso` o `Pianificate` da integrare, e in questo passaggio il draft non è stato toccato. La sessione è speciale, quindi la tabella prepara la sessione normale successiva, la S06. I thread qui sotto sono narrativi e nascono dal materiale di questa sessione e da quello che le precedenti hanno lasciato aperto.*
 
 | Thread | Dettaglio | Stato |
 |--------|-----------|-------|
@@ -684,20 +854,20 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 
 ### Fatti Accaduti
 
-- [ ] Sessione giocata (se saltata: missioni passate a Cudgel e all'Ironclad, S05 FASE 6): Sì / No
-- [ ] Livello del party in apertura: 5 / 4 (numeri della fonte)
-- [ ] Ordine delle missioni: prima la fattoria / prima il guado
+- [x] Sessione cominciata nella serata della S05 (2026-10-18): SETUP, FASI 1-2 e inizio della FASE 3, interrotta a metà combattimento alla fattoria. Data della ripresa: ____________
+- [ ] Livello: 4 per tutta la sessione, **5° a fine sessione** dopo il guado: Sì / No (se no, vedi il [TODO DM] in FASE 6)
+- [x] Ordine delle missioni: prima la fattoria
 - [ ] Incontri casuali giocati: quali: ____________
-- [ ] Fattoria: imboscata riuscita Sì / No · ufficiale ucciso / fuggito / catturato · hobgoblin uccisi __ · arresi __ · fuggiti __
+- [ ] Fattoria: imboscata riuscita Sì / No · ufficiale ucciso / fuggito / catturato · dragonnel ucciso / fuggito · hobgoblin uccisi __ · arresi __ · fuggiti __ · l'ufficiale è salito in sella: Sì / No
 - [ ] Messaggio della Gran Maestra trovato: Sì / No · mostrato a Vendri: Sì / No
 - [ ] Prigioniero interrogato (Carisma (Intimidazione o Persuasione) CD 14): informazione ottenuta: ____________
 - [ ] Riposo tra le due missioni: lungo / breve / nessuno
 - [ ] Guado: impronte trovate (Saggezza (Sopravvivenza) CD 12): Sì / No
 - [ ] Kapak individuato in anticipo (Saggezza (Percezione) CD 14): Sì / No
-- [ ] Campo nel bosco: baaz sconfitti __ / 8 · bozak __ / 2 · kapak: ucciso / fuggito
+- [ ] Campo nel bosco: baaz sconfitti __ / 8 · bozak __ / 2 · kapak: ucciso / fuggito · squadra di guardia arrivata al round __ (o vista prima e affrontata a parte)
 - [ ] PG scesi a 0 PF, livelli di Esaurimento presi: ____________
 - [ ] Oggetti scelti all'armeria, e chi li prende: ____________
-- [ ] XP (solo contabilità): ______ su 4.500 (1.750 con i numeri della fonte); livello invariato
+- [ ] XP (solo contabilità): ______ su 5.200; livello 5 a fine sessione
 - [ ] Hook PG giocati: Darrett e Razak su Becklin Sì / No; Registro di Rennard giocato qui Sì / No; Cudgel e le reclute Sì / No
 - [ ] Razak o Corin hanno saputo dell'altopiano (eremo e Pozza) a Kalaman: Sì / No, da chi: ____________
 
@@ -709,7 +879,8 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 | Maresciallo Nestra Vendri | Riceve il rapporto, apre l'armeria | +2/+3 (da verificare dopo la S05) |
 | Cudgel Ironsmile | Solo se usata in FASE 6: riconosce nella fattoria il metodo di Gragonis | +2/+3 (invariata dalla S05) |
 | Hobgoblin prigioniero | **NUOVO** (solo se catturato) — mercenario in prova, interrogato | −1 Sospettoso |
-| Ufficiale e soldati dell'Armata dei Draghi | Affrontati alla fattoria | −3 Ostile |
+| Il carrettiere del guado | **NUOVO** (solo se incontrato) — superstite del blocco; indica il bosco; curato? riportato a Kalaman? | 0 → +1 Cordiale |
+| Ufficiale, soldati e dragonnel dell'Armata dei Draghi | Affrontati alla fattoria; il dragonnel è arrivato a combattimento iniziato | −3 Ostile |
 | Draconiani baaz, bozak e kapak | Affrontati al campo nel bosco; primi bozak della campagna | −3 Ostile |
 
 ### Ricompense
@@ -727,13 +898,10 @@ Per ogni missione completata il party sceglie **un oggetto magico non comune** d
 
 Dopo la sessione, aggiorna questi file:
 
-- [ ] `campagna/party.md` — **livello invariato (5)**; bottino (320 mo, 5 cotte nere, razioni, globo fluttuante), oggetti dell'armeria con chi li porta e la sintonia, XP solo come contabilità; se Razak o Corin hanno saputo della devastazione dell'altopiano, il thread «Razak e Corin ↔ l'Hinterlund»; se il Registro di Rennard è stato giocato qui, la lettera consegnata e l'estratto autenticato
-- [ ] `campagna/png-incontrati.md` — Vendri e Darrett; l'hobgoblin prigioniero, se c'è
-- [ ] `campagna/contesto.md` — «Missioni per Kalaman» chiuse (o passate a Cudgel e all'Ironclad)
-- [ ] `campagna/missioni-secondarie.md` — nessuna missione di fazione (invariato)
-- [ ] `campagna/fazioni.md` — invariato, salvo sorprese al tavolo
-- [ ] `campagna/rapporti.md` — solo se ci sono stati momenti di rilievo tra PG e PNG
-- [ ] `campagna/sessioni/recaps/recap-sessione-05bis.md` — da compilare dopo la sessione
+- [ ] `campagna/party.md` — **livello 5** (salito a fine 05bis; se il guado non è stato giocato, vedi il [TODO DM] in FASE 6); bottino (320 mo, 5 cotte nere, razioni, globo fluttuante), oggetti dell'armeria con chi li porta e la sintonia, XP solo come contabilità; se Razak o Corin hanno saputo della devastazione dell'altopiano, il thread «Razak e Corin ↔ l'Hinterlund»; se il Registro di Rennard è stato giocato qui, la lettera consegnata e l'estratto autenticato
+- [ ] `campagna/png-incontrati.md` — Vendri e Darrett; Cudgel, se usata in FASE 6; l'hobgoblin prigioniero e il carrettiere del guado, se ci sono
+- [ ] `campagna/contesto.md` — «Missioni per Kalaman» chiuse (o passate a Cudgel e all'Ironclad), livello 5, prossima sessione la 06
+- [ ] Recap del DM dopo la sessione → `/aggiorna-sessione 05bis`, che lo scrive nella sezione «📋 ACCADUTO IN SESSIONE» di questo file (niente file di recap separato, né aggiornamenti di `fazioni.md`, `missioni-secondarie.md` e `rapporti.md`: sono archivio dal 2026-10-19)
 - [ ] `campagna/scontri-adattati/capitolo-04.md` — sezione «Sessione 05bis»: com'è andato ciascuno scontro, per il `[TODO DM: verificare dopo la sessione reale]`
 - [ ] `campagna/sessioni/dm-notes-sessione-06.md` — già preparata: verifica la nota pre-sessione (oggetti dell'armeria) e «Impostori» in FASE 3 (cotte nere)
 
@@ -795,6 +963,8 @@ Dopo la sessione, aggiorna questi file:
 | 17 | Ricompense | 💰 Ricompense | Aggiunti gli XP dei numeri della fonte. Il rimando «FASE 3» della nota sulle cotte ora distingue la S06 («Impostori») dalla FASE 3 di questo file |
 | 18 | Struttura | Recap | Aggiunta la riga sugli XP (su 4.500, o su 1.750 con i numeri della fonte), con il livello invariato |
 | 19 | Struttura | Checklist | Aggiunto `scontri-adattati/capitolo-04.md`, per il `[TODO DM: verificare dopo la sessione reale]` dei due scontri |
+| 20 | **Ricalibrazione (2026-10-19)** | Header, Nota pre-sessione, 🎬 RIPRESA, FASI 1-6, Ricompense, Recap, Checklist | Dopo la S05 (recap del 2026-10-18) e i nuovi punti 5 e 6 di `00-framework.md`. **Livello 4** per tutta la sessione, **5° a fine sessione** dopo il guado (decisione del DM, 2026-10-19), con [TODO DM] in FASE 6 se il guado non si gioca. SETUP e FASI 1-2 marcati ✅ (giocati nella serata della S05), FASE 3 ⏸️ con la nuova sezione «🎬 RIPRESA». **Fattoria:** aggiunto il dragonnel dell'ufficiale (scheda DSotDQ p201, identica alla S06), Devozione Draconica ora attiva per ufficiale e soldati, Bonus Action «Prova Finale» e Reaction «Correzione» all'ufficiale in un blocco a parte, sezioni «L'ufficiale in sella» (regole 2024) e «Note tattiche per la ripresa», morale senza resa a metà finché ufficiale e dragonnel sono in piedi; **2.100 → 2.800 XP** (~1,1 × Alta), nessun nemico aggiunto. **Guado:** stesso schieramento (2.400 XP, ~0,96 × Alta) in due ondate più l'agguato del kapak, BT-05 riscritto sulla prima ondata (un bozak e quattro baaz) con un riquadro per l'arrivo della seconda, Bonus Action «Magia Rapida» e Reaction «Scarica di Risposta» ai bozak, note tattiche su concentrazione e aree; tolto il *controincantesimo* dall'hook di Garrick. Tolti i ripieghi «numeri della fonte». Totale sessione **4.500 → 5.200 XP** |
+| 21 | **Revisione 06 + 09 (2026-10-19)** | Nota pre-sessione, 🎬 RIPRESA, FASI 2-6, Hook PG, Recap, Checklist | **Agente 6:** i rimandi al «recap della S05» puntano ai TODO 1-5 di «📋 ACCADUTO IN SESSIONE» della S05; ricarica degli Ordini d'Assalto solo se già usati prima della pausa; 🔀 brevi sugli incontri casuali (FASE 2) e sulla Forma Selvatica di Corin (al 4° vale lo stesso: le forme volanti arrivano all'8°); tolta la NOTA doppia sulle regole opzionali (FASE 2); FASE 3 «ne restano ~30», FASE 5 da 45 a 55 min come nell'header; TS nella scheda dell'hobgoblin, «Squarcio (*Rend*)»; NOTA del dragonnel allineata alla S06, già corretta; prigioniero arreso anche alla caduta del dragonnel; tolto il rimando a un [TODO DM] che non c'è più (martin pescatori); attitudine del carrettiere in FASE 4 e riga nel Recap; Registro di Rennard al rientro (FASE 6), Cudgel a Kalaman confermata, Vendri e Cudgel a +2 da `png-incontrati.md`; fasi del riepilogo hook (Brynja 1, 3, 4, 6; Garrick 3, 4-5, 6; Corin 3, 4, 6); velocità di Razak e Asurion senza «al 5° livello»; checklist senza recap separato né file d'archivio. Verificati senza correzioni: XP 2.800 + 2.400 = 5.200 (1,12 e 0,96 × Alta), ondate 850 + 700 + 850, schede di ufficiale, soldato, dragonnel, baaz, bozak e kapak identiche a `capitolo-04.md` e alla S06, regole 2024 in sella. **Agente 9** (2 riquadri corretti su 5 nuovi, più 1 battuta già esistente): RIPRESA («ha ridotto la ragnatela… a brandelli» → «ha bruciato la ragnatela…: ne restano solo brandelli»; «la cavalcatura dell'ufficiale: una bestia…» → solo la descrizione, la conclusione la tirano i giocatori); hobgoblin, Cavalcature Volanti: ora cita la bestia del suo istruttore. Intatti BT-05, l'arrivo della seconda ondata, il carrettiere («quanti erano») e il grido di Prova Finale. Nessun segreto o nome letto in anticipo, nessun doppione nei testi letti. Fuori da questo file: in `glossario.md` mancano *Flyby*, *Rend*, *Final Test*, *Correction*, *Quickened Spell*, *Spell Snap* e cavalcatura controllata/indipendente |
 
 **Controlli senza correzioni necessarie:**
 - **Stat block:** ufficiale, soldato, hobgoblin, baaz, bozak e kapak coincidono valore per valore con `capitolo-04.md` (CA, iniziativa, PF e dadi, caratteristiche e TS, sensi, CR, XP, colpire, danni, gittate convertite, CD 11 / 12 / 10 / 12 degli Spasmi di Morte, CD 12 degli incantesimi del bozak). Il kapak è senza le aggiunte homebrew, come vuole il DM. La fonte (appendice B) elenca solo i nomi delle schede e conferma il tipo Mostruosità per i draconiani.
@@ -857,7 +1027,7 @@ Dopo la sessione, aggiorna questi file:
 
 ## 📌 Appendice — Brief del DM per la pipeline (2026-10-18)
 
-*Il brief con cui è stata preparata questa sessione. Le decisioni sono già applicate nelle fasi sopra; resta qui come riferimento.*
+*Il brief con cui è stata preparata questa sessione. Le decisioni sono già applicate nelle fasi sopra; resta qui come riferimento. ⚠️ Livello (5° in apertura, nessun avanzamento) e scontri («Difficile in fascia bassa», ripiego sui numeri della fonte) sono superati dalla ricalibrazione del 2026-10-19: vedi la riga 20 del Revision Log.*
 
 Decisioni di Fabio del 2026-10-18, vincolanti per ogni agente della pipeline. Dove il file del tuo
 agente dice cose diverse (numero di sessione, marker di avanzamento, livello), vale questo brief.

@@ -2,7 +2,7 @@
 
 **Copre:** l'intero Capitolo 7 — Sessioni 25-26 (Profondità della Cittadella/Cripte del Tempio, Priests' Quarters), Sessione 27 (Bastione di Takhisis e fuga) e Sessione 28 (boss fight finale).
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!* ×5 PG, niente regola Minion, boss Action-Oriented con Villain Actions
-**Party:** 5 personaggi, Livello 11 · **Letalità target:** vedi [regole-opzionali.md](../regole-opzionali.md) — fascia bassa preferita, ma Lord Soth e Kansaldi sono **deliberatamente** all'estremo alto (vedi note sotto)
+**Party:** 5 personaggi, Livello 11 · **Letalità target:** budget in XP della DMG 2024, «Alta» per gli scontri che contano e nemici che giocano per vincere (punti 5 e 6 di [00-framework.md](00-framework.md), decisione del DM 2026-10-19). ⚠️ Gli scontri qui sotto sono tarati sulla vecchia «fascia bassa»: riverificarli col punto 5 prima di giocarli; Lord Soth e Kansaldi restano **deliberatamente** all'estremo alto (vedi note sotto)
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
 
 > **Perché questo file e non i dm-notes:** `dm-notes-sessione-27.md` e `-28.md` restano la fonte narrativa (testo da leggere al tavolo, PNG, eventi, tesoro, epilogo). Questo documento sostituisce **solo** i blocchi statistici e aggiunge le Villain Actions dove previsto dal framework.

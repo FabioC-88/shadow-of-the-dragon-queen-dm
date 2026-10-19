@@ -4,11 +4,11 @@
 
 ## Stato Generale
 
-- **Livello attuale:** **4**
-- **Ultima sessione giocata:** **Sessione 04 — [TODO DM — data]** (chiusa a fine FASE 10: Consiglio di Kalaman, Prima Missione dell'officina di Rookledust, ritorno a Kalaman). Precedente: Sessione 03 — 27 settembre 2026 (barca che si stacca dal molo, Vogler in fiamme)
+- **Livello attuale:** **4** — ✅ Sessione 05: **resta al 4°**. Decisione del DM (2026-10-19): sale al **5° alla fine della 05bis**, dopo il guado del Raiding Rill (non a fine S05, non al rapporto a Vendri)
+- **Ultima sessione giocata:** **Sessione 05 — 18 ottobre 2026** (linea principale per intero, FASI 1-6: le vedette, Lehra e il rapporto, Cudgel e gli Ironclad, rapporto a Vendri). La serata è proseguita con la **Sessione 05bis** (speciale): giocate le FASI 1-2, **FASE 3 (fattoria) interrotta a metà combattimento**. Precedenti: Sessione 04 — **[TODO DM — data]** (Consiglio di Kalaman, Prima Missione dell'officina di Rookledust); Sessione 03 — 27 settembre 2026 (barca che si stacca dal molo, Vogler in fiamme)
 - **Sede base:** **Castello di Kalaman** — alloggio gratuito per Razak e Brynja (scudieri giurati, condizioni del Maresciallo Vendri); Garrick, Asurion e Corin vi vivono come compagni di chi ha giurato. *(Vogler è stata evacuata e bruciata in Sessione 03.)*
-- **XP Accumulati:** **900 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità.* XP guadagnati in Sessione 04: **600 per PG**, assegnati per intero
-- **Prossimo avanzamento:** **Livello 5**, prima della riconquista dell'Avamposto di Wheelwatch (sessioni future)
+- **XP Accumulati:** **1.900 XP** — *dal Cap. 3 l'avanzamento è a pietra miliare: il numero è solo contabilità.* XP guadagnati in Sessione 05: **1.000 per PG** (scontro del boschetto), considerati assegnati; in Sessione 04: 600 per PG. Gli XP della fattoria (05bis) **non sono ancora assegnati**: il combattimento è in corso
+- **Prossimo avanzamento:** **Livello 5 alla fine della 05bis**, dopo il guado del Raiding Rill («Il Blocco Draconico»), prima della riconquista dell'Avamposto di Wheelwatch
 
 > ⚠️ **Perché il livello è 3 e non 4.** La Sessione 02 si è fermata alla fine della FASE 4: le scogliere sono state liberate, ma l'evacuazione non è mai cominciata. Il Livello 4 è legato alla fuga completata e arriva in Sessione 03. **Il party affronta quindi Boilerdrak e Fewmaster Gholcag al 3° livello** — come la fonte prevede, ma con Gholcag a ~CR 4 pesa.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Stato dopo la Sessione 02 (20 settembre 2026) — tabella oggetti e thread aggiornati alla Sessione 04
+## Stato dopo la Sessione 02 (20 settembre 2026) — tabella oggetti e thread aggiornati alla Sessione 05
 
 ### Oggetti e risorse
 
@@ -31,11 +31,12 @@
 | 40 mo, 3 spade lunghe, 8 razioni | Gruppo | Tesoro del carro di *Scaglie di Guerra (Scales of War)* |
 | **Famiglio corvo** | **Garrick** | ⚠️ **Strumento di ricognizione, già usato con successo:** in Sessione 02 ha esplorato da solo il bosco a ovest e ha visto il campo dell'Armata dei Draghi senza essere notato. **Non ha un nome fisso** — Garrick lo cambia quando gli pare |
 | ~~Cassa con corazza a piastre solamnica (per Darrett)~~ | ~~Gruppo~~ | ✅ **Consegnata da Razak a Darrett in Sessione 04** (non più in possesso del party). Dove e quando: non registrato |
-| **Lettera sigillata di Becklin per il Cancelliere Rennard** | **Razak** | Affidata in Sessione 03; **non consegnata in Sessione 04** (la scena opzionale «Il Registro di Rennard» non è stata giocata e slitta alla Sessione 05) |
+| **Lettera sigillata di Becklin per il Cancelliere Rennard** | **Razak** | Affidata in Sessione 03; **non consegnata in Sessione 04** (la scena opzionale «Il Registro di Rennard» non è stata giocata e slitta alla Sessione 05). Sessione 05: se consegnata **[TODO DM — da confermare]** |
 | **Emblema tascabile blu e oro di Kalaman** | **Razak e Brynja** | ✅ Sessione 04: scudieri giurati; equivale a un grado di tenenza |
-| **Paga: 5 mo/settimana** | **Razak e Brynja** | ✅ Sessione 04. Primo pagamento ritirato? **[TODO DM — da confermare]** |
+| **Paga: 5 mo/settimana** | **Razak e Brynja** | ✅ Sessione 04 |
 | **Fargab** (un solo set accoppiato, dono di Rookledust) | **Asurion** | ✅ Sessione 04, Prima Missione. Tornerà cruciale nell'attacco a Kalaman |
 | **Scorta segreta (*stash*) di Wyhan** | **Garrick** (rivelata a lui) | ✅ Sessione 04, improvvisata al tavolo: una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo |
+| **Bonus di Kalaman: 100 mo a testa** | **Tutti e cinque** | ✅ Sessione 05: per la scorta di Lehra Coalfield a Kalaman, assegnato come da piano |
 
 ### Il patto sulla magia divina — rotto da entrambi
 
@@ -69,12 +70,14 @@ Brynja resta la più facile da descrivere di tutto il villaggio — *«la nana c
 - **Garrick ↔ Leedara** — l'ha corteggiata al funerale con un tiro alto; lei non ha ceduto ma ha cantato, rispondendo che *«in un altro tempo, forse»*. **La frase è letteralmente vera:** Leedara è morta durante il Cataclisma. Garrick è l'unico del gruppo che le abbia parlato davvero.
 - **Razak ↔ Benebog Rompilenze** — ha avuto all'amo il pesce leggendario di Vogler e l'ha perso. Resta pescabile una volta in tutta la campagna.
 - **Razak ↔ Ispin** — al funerale ha raccontato in pubblico, per la prima volta, l'inverno in cui lo accudì sotto voto di silenzio senza mai rivolgergli la parola. *(Verificare se gli è stata assegnata Ispirazione.)*
-- **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard e il favore della cassa da consegnare a Darrett, poi è partita per il fronte. ✅ **Sessione 04:** **Razak ha consegnato la cassa a Darrett**; **la lettera per Rennard non è stata recapitata** (resta a lui; scena opzionale in Sessione 05). **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
+- **Razak ↔ Becklin** — ✅ **Sessione 03:** Becklin gli ha affidato la lettera sigillata per Rennard e il favore della cassa da consegnare a Darrett, poi è partita per il fronte. ✅ **Sessione 04:** **Razak ha consegnato la cassa a Darrett**; **la lettera per Rennard non è stata recapitata** (resta a lui; scena opzionale in Sessione 05). **Destino eseguito: catturata** — Jeyev l'ha vista portare via ed è il testimone onesto. ✅ **Sessione 05:** il party ha reincontrato **Cudgel** sulla strada; se le ha chiesto di Becklin e se Cudgel ne ha confermato la cattura **[TODO DM — da confermare]**. Per Razak non è «un PNG importante che scompare», è la sua cavaliera — **dagli la scena e non affrettarla**
 - **Garrick ↔ Wyhan** — ✅ **Sessione 04:** ha consegnato il rotolo sigillato, senza averlo aperto; Wyhan gli ha **predetto le Vesti Rosse** (è un parere: la veste vera si decide alla Prova dell'Alta Stregoneria, Sessione 17). Garrick è poi **tornato a chiederle di addestrarlo in alchimia: lei ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi, costi e contropartite dell'addestramento in alchimia.
 - **Razak e Brynja ↔ Kalaman** — ✅ **Sessione 04:** sono gli **unici due** del party ad aver giurato come **scudieri di Kalaman** (5 mo/settimana, emblema blu e oro, alloggio al Castello). **Garrick, Asurion e Corin non hanno giurato**: nessuna paga né emblema.
 - **Brynja e Corin ↔ Vogler** — sono le due persone che il villaggio ha visto fare miracoli. Tra i profughi che arrivano a Kalaman ci sono decine di testimoni, e non stanno zitti
 - **Garrick ↔ il famiglio** — ha risolto un'intera fase di ricognizione mandando avanti un corvo. Aspettati la stessa mossa davanti a sentinelle e accampamenti
-- **Razak e Corin ↔ l'Hinterlund** — **[NOTA DM — riservata]** Decisione del DM (2026-10-17): l'**eremo del Filo di Rame** e la **Pozza del Martin Pescatore** erano sulla strada delle colonne che l'Armata manda in tutta l'Hinterlund dopo la presa di Vogler, e sono stati **devastati**; Maestro Roke e i monaci sono morti o dispersi. Razak e Corin non lo sanno: scoprirlo è un hook da giocare (dalla Sessione 05: profughi, Lehra, o andandoci), non una scena da imporre. Dettagli in `fonti/personaggi/Razak-Kendall.md` e `fonti/personaggi/Corin-Wrenmoor.md`
+- **Razak e Corin ↔ l'Hinterlund** — **[NOTA DM — riservata]** Decisione del DM (2026-10-17): l'**eremo del Filo di Rame** e la **Pozza del Martin Pescatore** erano sulla strada delle colonne che l'Armata manda in tutta l'Hinterlund dopo la presa di Vogler, e sono stati **devastati**; Maestro Roke e i monaci sono morti o dispersi. Razak e Corin non lo sanno: scoprirlo è un hook da giocare (dalla Sessione 05: profughi, Lehra, o andandoci), non una scena da imporre. Sessione 05: se la notizia è arrivata a Razak o a Corin **[TODO DM — da confermare]**. Dettagli in `fonti/personaggi/Razak-Kendall.md` e `fonti/personaggi/Corin-Wrenmoor.md`
+- **Il party ↔ Lehra Coalfield e il piano nemico** — ✅ **Sessione 05:** il party ha liberato la vedetta legata (Ganon, il suo collega, era morto) e ha recuperato il rapporto strategico sul piano nemico di isolare Kalaman da Maelgoth e Palanthas; Lehra è stata scortata a Kalaman (bonus 100 mo a testa). Quali informazioni di «Chiarire la Minaccia» ha avuto il party: **[TODO DM — da confermare]**
+- **Il party ↔ Cudgel e il Reggimento Ironclad** — ✅ **Sessione 05:** reincontrati sulla strada e rientrati a Kalaman; il party sa ora che Cudgel è viva
 
 ---
 
@@ -217,7 +220,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 900 |
+| **XP** | 1.900 |
 | **Esercito di Kalaman** | ✅ Sessione 04: **scudiero di Kalaman** (giurato), 5 mo/settimana, emblema blu e oro. Ha consegnato la cassa a Darrett; detiene ancora la lettera di Becklin per Rennard |
 
 #### Come conobbe Ispin Greenshield
@@ -247,7 +250,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 900 |
+| **XP** | 1.900 |
 | **Alta Stregoneria** | ✅ Sessione 04: ha consegnato il rotolo **senza averlo aperto**; Wyhan gli ha predetto le Vesti Rosse e ha accettato di addestrarlo in alchimia (stash: pozioni e veleni extra su richiesta, a tempo e mo). **Non** ha giurato per Kalaman. Termini dell'addestramento: **[TODO DM]**. **[NOTA DM — riservata]** Per la tabella di Wyhan, Vesti Rosse a rotolo chiuso vuol dire allineamento **Neutrale (o Malvagio)**: è una deduzione, l'allineamento in scheda non cambia |
 
 #### Come conobbe Ispin Greenshield
@@ -274,7 +277,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 900 |
+| **XP** | 1.900 |
 | **Esercito di Kalaman** | ✅ Sessione 04: **scudiera di Kalaman** (giurata), 5 mo/settimana, emblema blu e oro |
 
 #### Come conobbe Ispin Greenshield
@@ -300,7 +303,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 900 |
+| **XP** | 1.900 |
 | **Esercito di Kalaman** | ✅ Sessione 04: **non ha giurato** (nessuna paga né emblema); alloggia al Castello |
 
 #### Come conobbe Ispin Greenshield
@@ -328,7 +331,7 @@ Ha anche un vantaggio di regia: sposta un talento fuori dalla Sessione 19, che a
 | **Livello** | **4** |
 | **PF attuali** | — *(in combattimento: vedi la scena di Foundry)* |
 | **Condizioni** | — |
-| **XP** | 900 |
+| **XP** | 1.900 |
 | **Esercito di Kalaman** | ✅ Sessione 04: **non ha giurato** (nessuna paga né emblema); alloggia al Castello |
 
 #### Come conobbe Ispin Greenshield

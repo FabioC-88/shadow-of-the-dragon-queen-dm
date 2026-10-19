@@ -78,7 +78,7 @@
 | **Affiliazione** | Cavalieri di Solamnia |
 | **Tratto** | Giovane, idealista, determinato; cresce nel corso della campagna |
 | **Attitudine Attuale** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* |
-| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. ✅ **Sessione 03:** ha ricevuto da Jeyev l'elmo di Becklin al molo. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa** con la corazza a piastre solamnica: ha ora l'armatura e l'elmo di Becklin (dove e quando non registrato; reazione non registrata). È anche il messaggero di Vendri verso il party. Vedi `fonti/personaggi/Razak-Kendall.md` |
+| **Note** | PNG ricorrente lungo tutta la campagna (Cap 3–7). Diventa un punto di riferimento emotivo per il party. Rappresenta la speranza della nuova generazione dei Cavalieri. **[RISOLTO 2026-09-01]** Darrett non è collega di Razak: è il suo **sostituto**. Razak ha servito Becklin 4 anni fino a 4 anni fa, poi è risalito all'eremo; Becklin ha preso Darrett circa 2 anni fa. **I due non si sono mai incontrati** — la prima volta è al tavolo. Razak sa che esiste, per sentito dire da Vogler. ✅ **Sessione 03:** ha ricevuto da Jeyev l'elmo di Becklin al molo. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa** con la corazza a piastre solamnica: ha ora l'armatura e l'elmo di Becklin (dove e quando non registrato; reazione non registrata). È anche il messaggero di Vendri verso il party. ✅ **Sessione 05:** affida al party gli incarichi (le vedette per prime) e lo saluta al congedo (05bis FASE 1). Vedi `fonti/personaggi/Razak-Kendall.md` |
 
 #### Attitudine PG
 | PG | Attitudine | Note |
@@ -94,8 +94,8 @@
 | **Prima Apparizione** | ✅ **Sessione 01** — ricevimento funebre al Brass Crab |
 | **Affiliazione** | Reggimento Ironclad (mercenari nanici) |
 | **Tratto** | Nana, temprata dalla guerra, diretta, rispetta la forza e l'onestà |
-| **Attitudine Attuale** | **+2 Amichevole** (invariata) · **[NOTA DM — riservata] Dispersa, non morta** |
-| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro dell'Armata dei Draghi e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ✅ **Sessione 03, FASE 0B:** è partita per il fronte a nord insieme a Becklin per richiamare la compagnia. **[NOTA DM — riservata]** Si è ritirata coi superstiti del Reggimento Ironclad dopo la battaglia al fronte e riapparirà più avanti (es. la missione "Ritorno delle Truppe" tra quelle per Kalaman). **Il party non lo sa:** solo la cattura di Becklin è stata dichiarata esplicitamente — Jeyev, se interrogato, dice di averne perso le tracce nella ritirata |
+| **Attitudine Attuale** | **+2 Amichevole** · ✅ Sessione 05: reincontrata sulla strada, il party sa ora che è viva. Valore finale (piano: +3 Alleato) **[TODO DM — da confermare]** |
+| **Note** | Ex compagna d'avventura di Ispin. **Tradita dal suo luogotenente Gragonis**, che ha comprato metà compagnia con l'oro dell'Armata dei Draghi e aveva dato ordine di ucciderla durante la rievocazione. ✅ **Sessione 02:** lo ha scoperto sul campo, il party **ha ucciso Gragonis** e le ha consegnato un prigioniero vivo invece di un cadavere. È rientrata all'alba con **Jeyev Veldrews** e i mercenari rimasti fedeli. ✅ **Sessione 03, FASE 0B:** è partita per il fronte a nord insieme a Becklin per richiamare la compagnia. **[NOTA DM — riservata]** Si è ritirata coi superstiti del Reggimento Ironclad dopo la battaglia al fronte e riapparirà più avanti (es. la missione "Ritorno delle Truppe" tra quelle per Kalaman). **Il party non lo sa:** solo la cattura di Becklin è stata dichiarata esplicitamente — Jeyev, se interrogato, dice di averne perso le tracce nella ritirata. ✅ **Sessione 05:** il party l'ha reincontrata sulla strada coi superstiti del Reggimento Ironclad, rientrati a Kalaman (forza combattente mercenaria). Se il party le ha chiesto di Becklin e se Cudgel ne ha confermato la cattura, e se è stata presentata a Vendri: **[TODO DM — da confermare]** |
 
 ---
 
@@ -248,7 +248,7 @@
 | **Tratto** | Diretta, esigente, rispetta i risultati sopra tutto il resto |
 | **Attitudine Iniziale** | 0 Neutrale → +1 Cordiale se i PG si dimostrano capaci |
 | **Attitudine Attuale** | **+2 Amichevole** *(confermato dal DM dopo la Sessione 04: il party si è comportato bene)* |
-| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7. ✅ **Sessione 04:** condizioni dell'arruolamento da lei fissate (scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello); hanno giurato solo Razak e Brynja. **Avrebbe voluto che giurassero tutti e cinque**: una sfumatura, non un conflitto |
+| **Note** | Probabilmente recluta/arruola i PG come agenti speciali. È la principale alleata militare per Cap 4–7. ✅ **Sessione 04:** condizioni dell'arruolamento da lei fissate (scudieri di Kalaman, 5 mo/settimana, emblema blu e oro, alloggio gratuito al Castello); hanno giurato solo Razak e Brynja. **Avrebbe voluto che giurassero tutti e cinque**: una sfumatura, non un conflitto. ✅ **Sessione 05:** il party le ha fatto rapporto sul piano nemico di isolare Kalaman da Maelgoth e Palanthas e ha consegnato Lehra; bonus di 100 mo a testa. Nessuna variazione riferita (piano: tende a +3): **[TODO DM — da confermare]** |
 
 ---
 
@@ -262,6 +262,30 @@
 | **Attitudine Iniziale** | -1 Sospettoso |
 | **Attitudine Attuale** | **[TODO DM — da riaggiornare]** *(piano: 0 Neutrale a rotolo consegnato; poi ha accettato di addestrare Garrick)* |
 | **Note** | Identificazione oggetti magici; rituali; informazioni sui Magi. CD 15 Persuasione per farla collaborare. Non è nemica ma non è entusiasta degli "eroi". *[Fonte: DSotDQ Cap. 4 — "though supposedly retired... a dedicated member of her organization"; confermato in `dm-notes-sessione-04.md`, FASE 5, come "profondamente devota alla propria organizzazione"]*. ✅ **Sessione 04:** **Garrick** le ha consegnato il rotolo sigillato; lei gli ha **predetto le Vesti Rosse** (è un parere, non l'esito della Prova). Garrick è poi tornato a chiederle di **addestrarlo in alchimia: ha accettato** e gli ha **rivelato la sua scorta segreta (*stash*)** — sviluppo improvvisato al tavolo. Lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. **[TODO DM]** tempi, costi e contropartite dell'addestramento |
+
+---
+
+### Lehra Coalfield
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Vedetta (esploratrice) dell'esercito di Kalaman, ferita e legata a un albero al posto di vedetta |
+| **Prima Apparizione** | ✅ **Sessione 05** — posto di vedetta, dopo lo scontro del boschetto |
+| **Affiliazione** | Esercito di Kalaman |
+| **Tratto** | Ferita ma lucida; parla piano e si ferma a riprendere fiato; porta il peso del collega perso |
+| **Attitudine Attuale** | **[TODO DM — da confermare]** *(piano: +1 Cordiale → +2 Amichevole se scortata a Kalaman)* |
+| **Note** | ✅ **Sessione 05:** liberata dal party, ha consegnato il **rapporto strategico** sul piano nemico (isolare Kalaman da Maelgoth e Palanthas) ed è stata **scortata a Kalaman**; bonus di 100 mo a testa. Quali informazioni di «Chiarire la Minaccia» (Servi del Terrore, Cavalcature Volanti, Minacce Magiche) abbia dato al party: **[TODO DM — da confermare]** |
+
+---
+
+### Ganon
+| Elemento | Valore |
+|----------|--------|
+| **Ruolo** | Vedetta dell'esercito di Kalaman, collega di Lehra |
+| **Prima Apparizione** | ✅ **Sessione 05** — posto di vedetta (trovato morto) |
+| **Affiliazione** | Esercito di Kalaman |
+| **Tratto** | — |
+| **Attitudine Attuale** | ☠️ **Morto** |
+| **Note** | ✅ **Sessione 05:** trovato morto al boschetto. Onoranze: **[TODO DM — da confermare]** |
 
 ---
 

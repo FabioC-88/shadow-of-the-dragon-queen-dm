@@ -56,14 +56,15 @@
 | **Asurion** | **Lord Bakaris Uth Estide** | **-3 Ostile** | Sessione 01: Asurion lo ha trascinato nel fiume davanti al molo, dopo che lo molestava durante la gara di pesca. A Kalaman Bakaris ha un torto vero da raccontare al consiglio |
 | **Garrick** | **Wyhan** | **[TODO DM — attitudine da riaggiornare]** *(piano: 0 Neutrale)* | ✅ **Sessione 04:** le ha consegnato il rotolo sigillato; lei gli ha predetto le **Vesti Rosse** (parere, non esito della Prova). Garrick è tornato a chiederle l'addestramento in **alchimia**: ha accettato e gli ha rivelato la sua **scorta segreta (*stash*)**. Sviluppo improvvisato: lo stash è una selezione extra di **pozioni e veleni** che Garrick può farsi preparare, se ci mette tempo e mo. Termini dell'addestramento **[TODO DM]** |
 | **[Tutti]** | **Tatina Rookledust** | **+2 Amichevole** | ✅ **Sessione 04:** alleata ricorrente; dono del **fargab**; accompagna il party a Kalaman e vi si installa. Il party si è comportato bene con lei (DM) |
-| **[Tutti]** | **Maresciallo Nestra Vendri** | **+2 Amichevole** | ✅ **Sessione 04:** ha fissato le condizioni dell'arruolamento; il party si è comportato bene con lei (DM). Avrebbe voluto che giurassero tutti e cinque: hanno giurato solo Razak e Brynja |
+| **[Tutti]** | **Maresciallo Nestra Vendri** | **+2 Amichevole** | ✅ **Sessione 04:** ha fissato le condizioni dell'arruolamento; il party si è comportato bene con lei (DM). Avrebbe voluto che giurassero tutti e cinque: hanno giurato solo Razak e Brynja. ✅ **Sessione 05:** ha ricevuto il rapporto sul piano nemico; variazione (piano: +3) **[TODO DM — da confermare]** |
 | **Garrick** | **Leedara** | **+1 Cordiale** — l'unico che le abbia parlato davvero | Sessione 01: l'ha corteggiata al funerale con un tiro alto. Non ha ceduto (*«in un altro tempo, forse»*) ma **ha cantato**. [NOTA DM] La frase è letteralmente vera: Leedara è morta nel Cataclisma |
 | **Brynja** | **Becklin Uth Viharin** | +2 Amichevole | Non l'aveva mai incontrata, ma sapeva chi fosse da Ispin. È Becklin a consegnarle lo Scudo Verde |
 | **Razak** | **Becklin Uth Viharin** | +3 Alleato | La sua cavaliera, ritrovata dopo quattro anni. ✅ **Sessione 03:** gli ha affidato la lettera per Rennard e il favore della cassa per Darrett, poi catturata al fronte (Jeyev testimone). ✅ **Sessione 04:** il favore della cassa è stato mantenuto (consegnata a Darrett); **la lettera per Rennard resta non recapitata**, ancora a Razak |
-| **Razak** | **Darrett Highwater** | **+3 Alleato** *(consolidato, da +2, Sessione 03)* | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare. Ha ricevuto l'elmo di Becklin da Jeyev. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa con la corazza** — ha ora armatura ed elmo di Becklin |
+| **Razak** | **Darrett Highwater** | **+3 Alleato** *(consolidato, da +2, Sessione 03; invariato in Sessione 05)* | Primo incontro in Sessione 01: Darrett ha preso il suo posto due anni fa e ha passato due anni a sentirselo raccontare. Ha ricevuto l'elmo di Becklin da Jeyev. ✅ **Sessione 04:** **Razak gli ha consegnato la cassa con la corazza** — ha ora armatura ed elmo di Becklin |
 | **Brynja e Corin** | **Il villaggio di Vogler** | **I due che fanno miracoli** | Sessione 02: hanno curato i feriti di High Hill tutta la notte, in pubblico, davanti a una coda che non si accorciava. Vogler li ha visti entrambi, e i profughi arrivano a Kalaman con la storia in bocca |
 | **[Tutti]** | **Raven Uth Vogler** | **+2 Amichevole** | Sessione 02: l'hanno chiamata a mettere la propria autorità sulla fila invece di gestirla da soli, e hanno dichiarato in pubblico i limiti delle cure. **[NOTA DM] È la testimone che smonta Lord Bakaris al consiglio di Kalaman** |
-| **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** (invariata) · **[NOTA DM — riservata] Dispersa, non morta** | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo. ✅ **Sessione 03:** partita per il fronte con Becklin — ritirata coi superstiti dell'Ironclad, riapparirà più avanti (es. "Ritorno delle Truppe"). **Il party non lo sa** — solo la cattura di Becklin è confermata |
+| **[Tutti]** | **Cudgel Ironsmile** | **+2 Amichevole** · ✅ Sessione 05: reincontrata, il party sa che è viva (piano: +3, **[TODO DM — da confermare]**) | Sessione 02: hanno ucciso Gragonis, il luogotenente che voleva la sua morte, e le hanno consegnato un prigioniero vivo. ✅ **Sessione 03:** partita per il fronte con Becklin — ritirata coi superstiti dell'Ironclad, riapparirà più avanti (es. "Ritorno delle Truppe"). ✅ **Sessione 05:** reincontrata sulla strada coi superstiti dell'Ironclad, rientrati a Kalaman: il party sa ora che è viva. Becklin: se Cudgel ne ha confermato la cattura **[TODO DM — da confermare]** |
+| **[Tutti]** | **Lehra Coalfield** | **[TODO DM — da confermare]** *(piano: +1 → +2 se scortata)* | ✅ **Sessione 05:** vedetta liberata al posto di vedetta, ha dato il rapporto sul piano nemico ed è stata scortata a Kalaman. Il collega **Ganon** era ☠️ morto al boschetto |
 | **[Tutti]** | **Svilnt Sunderlit** | ☠️ **Morto** | Sessione 03: dimenticato legato nella rimessa a Vogler, morto bruciato insieme al villaggio |
 | **[Tutti]** | **Fewmaster Gholcag** | ☠️ **Sconfitta** | Sessione 03, FASE 0C: boss del molo, uccisa insieme ai due baaz al suo seguito, dopo l'equipaggio del Boilerdrak |
 | **[Tutti]** | **Lord Bakaris Uth Estide** | **-2 Diffidente** *(era -1)* | Sessione 02: **cacciato dal Brass Crab** dopo aver provato a comprare la precedenza sulle cure. *«Il potere degli dèi non è in vendita; se sei davvero ferito, mettiti in fila»* |
@@ -168,6 +169,17 @@
 | **Il party ↔ Lord Bakaris / Bakaris il Giovane** | Esiti del Consiglio e del cortile del Castello **[TODO DM]**: attitudini invariate rispetto al piano |
 | **Il party ↔ Vendri e Miat** | **Vendri +2 Amichevole** (confermato dal DM: *«si sono comportati bene… anche se Vendri avrebbe gradito che tutti avessero deciso di diventare soldati di Kalaman»*: hanno giurato solo Razak e Brynja). **Miat:** da piano 0→+1, non confermato **[TODO DM]** |
 
+### Capitolo 03 (Kalaman — Cap 4 libro) — ✅ Sessione 05, giocata il 18/10/2026 (FASI 1-6) · 05bis iniziata nella stessa serata
+
+| Rapporto | Cosa è successo |
+|----------|-----------------|
+| **Il party ↔ Darrett** | Affida gli incarichi (le vedette per prime) e saluta il party al congedo (05bis FASE 1). **+3 Alleato**, invariato |
+| **Il party ↔ Lehra** | Liberata dal party al posto di vedetta, ha consegnato il rapporto sul piano nemico (isolare Kalaman da Maelgoth e Palanthas); scortata a Kalaman, bonus di 100 mo a testa. Il collega **Ganon** trovato morto. Attitudine finale **[TODO DM — da confermare]** |
+| **Il party ↔ Cudgel** | Reincontrata sulla strada coi superstiti del Reggimento Ironclad, rientrati a Kalaman: il party sa ora che è viva. Becklin e presentazione a Vendri: **[TODO DM — da confermare]** |
+| **Il party ↔ Vendri** | Rapporto fatto. **+2 Amichevole**, nessuna variazione riferita **[TODO DM — da confermare]** |
+| **Il party ↔ l'Armata dei Draghi** | Scontro al boschetto vinto in pochissimo tempo; alla fattoria (05bis FASE 3) combattimento **interrotto a metà**, stato nella scena di Foundry |
+| **Livello** | **Resta il 4°**: il 5° arriva alla fine della 05bis, dopo il guado del Raiding Rill (decisione del DM, 2026-10-19) |
+
 ### Capitolo 04 (Terre Desolate del Nord — Cap 5 libro)
 [TODO — da compilare durante le sessioni]
 
@@ -179,4 +191,4 @@
 
 ---
 
-> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**; **Sessione 03 giocata il 27 settembre 2026** (FASE 0, evacuazione di Vogler); **Sessione 04 giocata il [TODO DM — data]** (Kalaman e Prima Missione). Aggiorna dopo ogni sessione.
+> ✅ **Campagna iniziata il 13 settembre 2026** — Sessioni 00 e 01 giocate nella stessa serata; **Sessione 02 giocata il 20 settembre 2026**; **Sessione 03 giocata il 27 settembre 2026** (FASE 0, evacuazione di Vogler); **Sessione 04 giocata il [TODO DM — data]** (Kalaman e Prima Missione); **Sessione 05 giocata il 18 ottobre 2026** (le vedette, il rapporto a Vendri; 05bis iniziata nella stessa serata). Aggiorna dopo ogni sessione.
