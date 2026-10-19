@@ -22,7 +22,7 @@ Questo repo ha già un sistema di agenti e skill Claude Code, che resta la fonte
 |---|---|
 | `ai/agents/AGENTS.md` | **Fonte canonica** — ruolo, pipeline di preparazione sessione, mappa cartelle |
 | `ai/agents/*.agent.md` | Istruzioni dei singoli step della pipeline, invocate dalle skill in `.claude/skills/` |
-| `.claude/skills/` | Skill Claude Code (`prep-sessione`, `aggiorna-sessione`, `aggiorna-locations`, `git-release`) |
+| `.claude/skills/` | Skill Claude Code (`prep-sessione`, `aggiorna-sessione`, `git-release`) |
 | `campagna/contesto.md` | Stato vivo della campagna: party, capitolo corrente, villain, PNG chiave, fazioni |
 | `campagna/fazioni.md` | Fazioni della campagna (nessuna missione secondaria di fazione in questa campagna) |
 | `campagna/glossario.md` | Terminologia italiana: titoli, luoghi, Armata dei Draghi, schede — fonte unica |

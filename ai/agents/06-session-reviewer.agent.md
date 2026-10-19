@@ -4,7 +4,7 @@ role: Revisione finale di coerenza, continuità e struttura — con applicazione
 language: it
 model: opus
 pipeline_position: 6
-prev_agent: 02-session-translator.agent.md (Step 5)
+prev_agent: 03-session-pc-integrator.agent.md (prep) | Step 3 di /aggiorna-sessione
 next_agent: 09-read-aloud-reviewer.agent.md
 
 description: |
@@ -14,7 +14,8 @@ description: |
   correzioni — non si limita a segnalare i problemi.
 
 when_to_use: |
-  - Step 6 della pipeline /prep-sessione (input: output Step 5 + ultima sessione giocata).
+  - Step 4 di /prep-sessione (input: output Agente 3 + ultima sessione giocata), insieme all'Agente 9.
+  - Step 4 di /aggiorna-sessione, sulla sessione dopo quella giocata, insieme all'Agente 9.
 ---
 
 # Agente 6 — Session Reviewer
@@ -129,10 +130,8 @@ La checklist deve includere tutti i file che **dovranno essere aggiornati** dopo
 
 - [ ] `campagna/party.md` (level up? nuovi XP? cambi di stato?)
 - [ ] `campagna/png-incontrati.md` (nuovi PNG incontrati? atteggiamenti cambiati?)
-- [ ] `campagna/fazioni.md` (nuovi rapporti? missioni che cambiano stato?)
-- [ ] `campagna/missioni-secondarie.md` (missioni avviate, completate, o modificate?)
-- [ ] `campagna/rapporti.md` (nuovi rapporti tra PG e PNG?)
-- [ ] `campagna/sessioni/recaps/recap-sessione-NN.md` da compilare **dopo** la sessione (usa il template in `00-recap-updater.agent.md`)
+- [ ] `campagna/contesto.md` (capitolo corrente, prossima serata, situazione in sospeso)
+- [ ] Recap del DM dopo la sessione → `/aggiorna-sessione NN`, che lo scrive nella sezione «📋 ACCADUTO IN SESSIONE» di questo file
 - [ ] Eventuale `campagna/sessioni/dm-notes-sessione-NN+1.md` da creare prima della prossima sessione
 
 ---
@@ -166,7 +165,7 @@ Consegna:
 3. Un messaggio breve al DM con:
    - Numero di correzioni applicate
    - Le 2-3 correzioni più significative
-   - Conferma: "✅ File pronto per Agente 7 (git)"
+   - Conferma: "✅ File pronto per la revisione dei testi da leggere (Agente 9)"
 
 ---
 

@@ -214,8 +214,7 @@ Usa la tabella originale del libro (Appendix B, Dragon Army Encounters) o questo
 ## Checklist Pre-Sessione
 
 - [ ] Leggi le note DM della sessione corrente (`campagna/sessioni/`)
-- [ ] Verifica PNG rilevanti (`campagna/png-incontrati.md` + `png-per-capitolo/`)
-- [ ] Controlla rapporti party-PNG (`campagna/rapporti.md`)
+- [ ] Verifica PNG rilevanti (`campagna/png-incontrati.md`)
 - [ ] Segna posizione corrente in `campagna/contesto.md` (Capitolo corrente)
 - [ ] Tieni QUICK_REF aperto durante il gioco
 

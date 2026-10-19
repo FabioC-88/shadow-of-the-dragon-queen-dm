@@ -5,7 +5,7 @@ language: it
 model: opus
 pipeline_position: 3
 prev_agent: 02-session-translator.agent.md
-next_agent: 04-session-missions-integrator.agent.md
+next_agent: revisione finale (06-session-reviewer + 09-read-aloud-reviewer)
 
 description: |
   Questo agente arricchisce il draft di sessione con tutto il materiale relativo ai personaggi
@@ -32,8 +32,8 @@ Apri e leggi **tutti** questi file:
 ```
 campagna/party.md                         ← Livello, XP, stato attuale di ogni PG
 campagna/png-incontrati.md                ← Atteggiamenti numerici dei PNG verso ogni PG
-campagna/rapporti.md                      ← Rapporti tra PG e PNG (note qualitative)
-campagna/fazioni.md                       ← Posizione fazioni verso party, archi lunghi attivi
+campagna/rapporti.md                      ← Archivio fermo alla S05: buono per i rapporti PG↔PG e di backstory; lo stato attuale dei PNG è in png-incontrati.md
+campagna/fazioni.md                       ← Posizione fazioni verso party, archi lunghi attivi (archivio, non più aggiornato)
 campagna/contesto.md                      ← Segreti DM su ogni PG, PNG chiave, villain
 fonti/personaggi/*.md                     ← Background di tutti i PG (un file per PG)
 ```
@@ -86,7 +86,7 @@ Per ogni segreto riservato al DM che coinvolge un PG, valuta:
 
 **Dove trovare i segreti attivi** (non elencarli qui: cambiano di sessione in sessione):
 - le `[NOTA DM — riservata]` e i «Ganci per il DM» delle schede in `fonti/personaggi/`;
-- i thread personali e le inimicizie in `campagna/party.md`, i rapporti in `campagna/rapporti.md`;
+- i thread personali e le inimicizie in `campagna/party.md`, i rapporti di backstory in `campagna/rapporti.md` (archivio: per lo stato attuale vale `campagna/png-incontrati.md`);
 - il «Filo Narrativo Nascosto» in `campagna/contesto.md` (Ser Maelis): il nome «Vecna» non va mai rivelato ai giocatori.
 
 ---

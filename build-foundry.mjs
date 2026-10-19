@@ -65,14 +65,6 @@ function parseFrontmatter(mdContent) {
   return { content: mdContent.slice(match[0].length), data };
 }
 
-/** Ordine fisso per i file del pack Campagna. */
-const CAMPAGNA_ORDER = ['party', 'fazioni', 'rapporti', 'png-incontrati', 'missioni-secondarie'];
-function campagnaSortKey(filePath) {
-  const name = basename(filePath, extname(filePath)).toLowerCase();
-  const idx = CAMPAGNA_ORDER.indexOf(name);
-  return idx >= 0 ? idx : 99;
-}
-
 /** Raccoglie tutti i file .md in modo ricorsivo. */
 function collectMdFiles(dir) {
   if (!existsSync(dir)) return [];
@@ -213,16 +205,12 @@ const PACKS = [
     dirs: ['fonti/personaggi', 'campagna/png-per-capitolo']
   },
   {
+    // Su Foundry il DM usa solo le note di sessione
     name: 'campagna',
     label: 'Note Campagna',
-    dirs: ['campagna'],
-    sessionDir: 'campagna/sessioni',
-    locationsDir: 'campagna/luoghi-visitati'
-  },
-  {
-    name: 'campagna-completa',
-    label: 'Shadow of the Dragon Queen — Sorgente Completa',
-    dirs: ['fonti/campagna']
+    dirs: ['campagna/sessioni'],
+    include: /^dm-notes-sessione-.*\.md$/,
+    sessionDir: 'campagna/sessioni'
   }
 ];
 
@@ -250,6 +238,7 @@ const builtPacks = [];
 for (const pack of PACKS) {
   // Raccoglie tutti i file .md per questo pack
   let mdFiles = pack.dirs.flatMap(d => collectMdFiles(join(ROOT, d)));
+  if (pack.include) mdFiles = mdFiles.filter(f => pack.include.test(basename(f)));
 
   if (mdFiles.length === 0) {
     console.log(`⏭  ${pack.name} — nessun file .md, skip\n`);
@@ -275,20 +264,8 @@ for (const pack of PACKS) {
     mdFiles = mdFiles.filter(f => !f.startsWith(sessionDirAbs));
   }
 
-  // Separa i file locations dal resto (verranno uniti in un journal multi-pagina)
-  let locationsFiles = [];
-  if (pack.locationsDir) {
-    const locationsDirAbs = join(ROOT, pack.locationsDir);
-    locationsFiles = mdFiles.filter(f => f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
-    mdFiles = mdFiles.filter(f => !f.toLowerCase().startsWith(locationsDirAbs.toLowerCase()));
-  }
-
-  // Ordina: ordine fisso per Campagna, ordine numerico M1/M2/… per le missioni
-  if (pack.name === 'campagna') {
-    mdFiles.sort((a, b) => campagnaSortKey(a) - campagnaSortKey(b));
-  } else {
-    mdFiles.sort((a, b) => missionSortKey(a) - missionSortKey(b));
-  }
+  // Ordine numerico M1/M2/… per le missioni
+  mdFiles.sort((a, b) => missionSortKey(a) - missionSortKey(b));
 
   for (const filePath of mdFiles) {
     const journal  = buildJournalEntry(filePath);
@@ -306,16 +283,6 @@ for (const pack of PACKS) {
     const outPath  = join(srcDir, `${sessioni._id}.json`);
     writeFileSync(outPath, JSON.stringify(sessioni, null, 2), 'utf-8');
     console.log(`   ✓ ${sessioni._id}  "${sessioni.name}"  (${sessionFiles.length} pagine)`);
-    totalEntries++;
-  }
-
-  // Journal multi-pagina per i luoghi visitati
-  if (locationsFiles.length > 0) {
-    locationsFiles.sort();
-    const luoghi = buildMultiPageJournalEntry('Luoghi Visitati', 'campagna:luoghi-visitati', locationsFiles);
-    const outPath  = join(srcDir, `${luoghi._id}.json`);
-    writeFileSync(outPath, JSON.stringify(luoghi, null, 2), 'utf-8');
-    console.log(`   ✓ ${luoghi._id}  "${luoghi.name}"  (${locationsFiles.length} pagine)`);
     totalEntries++;
   }
 

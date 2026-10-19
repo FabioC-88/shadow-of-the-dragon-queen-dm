@@ -128,10 +128,9 @@ I personaggi sono eroi travolti dall'avanzata nemica, la cui storia inizia con i
 
 ## Come Usare Questa Wiki
 
-1. **Pre-sessione:** Leggi `campagna/contesto.md` + `campagna/png-per-capitolo/capitolo-NN/` per prepararti
+1. **Pre-sessione:** Leggi le dm-notes della sessione (`campagna/sessioni/`): sono l'unico file da preparare
 2. **Durante la sessione:** `QUICK_REF.md` aperto sul lato — tabelle veloci, CD, stat block
-3. **Post-sessione:** Aggiorna `party.md`, `png-incontrati.md`, `rapporti.md`; crea recap in `campagna/sessioni/recaps/`
-4. **Pipeline AI:** Usa `/aggiorna-sessione N` per orchestrare gli agenti automaticamente
+3. **Post-sessione:** `/aggiorna-sessione N` con il recap: annota le dm-notes giocate, aggiorna la memoria degli agenti (`party.md`, `png-incontrati.md`, `contesto.md`) e la sessione dopo. Recap, luoghi visitati, PNG per capitolo e rapporti non si aggiornano più (2026-10-19): restano come archivio
 
 ---
 

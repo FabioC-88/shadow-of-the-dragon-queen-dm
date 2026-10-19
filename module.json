@@ -33,16 +33,6 @@
         "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
-    },
-    {
-      "name": "campagna-completa",
-      "label": "Campagna Completa",
-      "path": "./packs/campagna-completa",
-      "type": "JournalEntry",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
     }
   ],
   "packFolders": [
@@ -51,7 +41,6 @@
       "sorting": "m",
       "packs": [
         "campagna",
-        "campagna-completa",
         "pg-backgrounds"
       ]
     }
