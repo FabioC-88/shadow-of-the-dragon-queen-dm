@@ -86,7 +86,7 @@ Quando il manuale fa dire a un PNG una serie di informazioni in elenco puntato (
 Non inventare una voce: ricavala da come il PNG ha già parlato nelle sessioni precedenti (`campagna/sessioni/dm-notes-sessione-*.md`) e dalle note in `campagna/png-incontrati.md`. Se un PNG compare per la prima volta, resta vicino alle battute del manuale.
 
 ### Fase 3 — Nota dell'Editor
-Alla fine di ogni risposta, aggiungi una breve **Nota dell'Editor** che spiega:
+Nella **risposta all'orchestratore** (non nel file), aggiungi una breve **Nota dell'Editor** che spiega:
 - Scelte stilistiche significative.
 - Correzioni di continuity o logica spaziale applicate.
 - Eventuali testi boxed dove hai dovuto espandere per compensare lacune.
@@ -95,9 +95,11 @@ Alla fine di ogni risposta, aggiungi una breve **Nota dell'Editor** che spiega:
 
 ## Formato Output
 
-Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle, grassetti, intestazioni `#`, blockquote `>`. Non alterare la struttura del documento, solo il contenuto testuale.
+Il file segue la sezione «Struttura delle dm-notes» di `ai/agents/AGENTS.md` (modello: `campagna/sessioni/dm-notes-sessione-06.md`). Mantieni tabelle, grassetti, intestazioni `#` e blockquote `>`.
 
-**Incontri: niente stat block.** Il DM non usa le statistiche dei dm-notes (su Foundry modifica la scheda del mostro, e le differenze dal manuale stanno in `campagna/scontri-adattati/aggiornamenti-schede.md`). Per ogni combattimento scrivi solo i nemici con **nome e numero**, e le note tattiche che servono al tavolo. Se l'originale contiene uno stat block, **non tradurlo e non riportarlo**. Non scrivere note di bilanciamento (XP, rapporto con il budget): il DM non le legge.
+**Incontri: niente stat block.** Il DM non usa le statistiche dei dm-notes (su Foundry modifica la scheda del mostro, e le differenze dal manuale stanno in `campagna/scontri-adattati/aggiornamenti-schede.md`). Per ogni combattimento scrivi una riga `**Nemici:**` con nome e **numero**, e le note tattiche che servono al tavolo. Se l'originale contiene uno stat block, **non tradurlo e non riportarlo**. Non scrivere note di bilanciamento (XP, rapporto con il budget): il DM non le legge.
+
+**Niente note per il DM che non servono a giocare:** niente spiegazioni del design della sessione, consigli generici, storia delle decisioni o note sulla fonte («la fonte ne mette otto», «riga 2613»). Una `[NOTA DM — riservata]` dice un segreto o una tattica concreta in poche righe.
 
 ---
 

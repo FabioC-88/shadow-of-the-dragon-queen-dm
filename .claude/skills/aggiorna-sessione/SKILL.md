@@ -84,8 +84,9 @@ Sub-agente su `ai/agents/08-context-updater.agent.md`. Modifica solo `campagna/p
 - **Se `dm-notes-sessione-[S].md` esiste:** un sub-agente, con queste istruzioni nel prompt.
   1. Copia **integralmente** (senza riassumere) le scene elencate in «Scene da trasferire» del
      dm-notes-N e mettile all'inizio delle fasi di S, rinumerando.
-  2. Aggiorna intestazione, Nota pre-sessione e SETUP INIZIALE di S con lo stato reale dopo N:
-     livello, XP, dove si trova il party, chi è vivo, cosa sa.
+  2. Aggiorna intestazione, «Stato in entrata» e SETUP INIZIALE di S con lo stato reale dopo N:
+     livello, dove si trova il party, chi è vivo, cosa sa. Solo lo stato, non la storia di come
+     ci si è arrivati.
   3. Correggi in S solo ciò che i delta di N invalidano (atteggiamenti dei PNG, hook dei PG,
      prerequisiti delle scene, thread). Per gli hook segui le regole di
      `ai/agents/03-session-pc-integrator.agent.md`, senza aggiungerne di nuovi.
@@ -97,9 +98,11 @@ Sub-agente su `ai/agents/08-context-updater.agent.md`. Modifica solo `campagna/p
 ### Step 4 — Revisione finale della sessione S · `opus`
 
 Un solo sub-agente che esegue, in quest'ordine, `ai/agents/06-session-reviewer.agent.md` e
-`ai/agents/09-read-aloud-reviewer.agent.md` su `dm-notes-sessione-[S].md`: coerenza, continuità e
-incontri (numero corretto di nemici, niente stat block né note di bilanciamento), poi i testi da
-leggere al tavolo. È l'ultimo step che scrive su S.
+`ai/agents/09-read-aloud-reviewer.agent.md` su `dm-notes-sessione-[S].md`: coerenza, continuità,
+incontri (numero corretto di nemici, niente stat block né note di bilanciamento) e pulizia
+(sezione «Struttura delle dm-notes» di `ai/agents/AGENTS.md`), poi i testi da leggere al tavolo.
+Nessun log nel file. È l'ultimo step che scrive su S. Se S è una sessione preparata prima del
+2026-10-20 (con stat block, log e note lunghe), la pulizia la porta alla struttura della 06.
 
 Se segnala un segreto letto ad alta voce o un nome rivelato in anticipo, riportalo al DM nel
 riepilogo finale anche se l'ha già corretto.

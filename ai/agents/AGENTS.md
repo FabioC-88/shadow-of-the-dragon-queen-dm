@@ -40,6 +40,35 @@ sopra sono l'unico punto che ne fissa l'ordine.
 
 ---
 
+## Struttura delle dm-notes
+
+Decisa dal DM il 2026-10-20: le dm-notes si usano direttamente al tavolo e per preparare la
+sessione, quindi contengono solo ciò che serve a giocarla. **Modello:**
+`campagna/sessioni/dm-notes-sessione-06.md`.
+
+**Contengono:**
+- intestazione corta (Fonte, Livello party, Obiettivo, Durata) e un riquadro «Stato in entrata»
+  con i soli fatti che servono;
+- `🎬 SETUP INIZIALE` (o `🎬 RIPRESA` se la serata si era fermata a metà scena);
+- fasi con durata stimata, testi da leggere, testi da recitare, meccaniche con le CD, tesori;
+- per ogni incontro una riga `**Nemici:**` con nome e numero, le ondate (chi arriva, da dove,
+  quando) e le note «Come giocano» (bersagli, movimenti, morale);
+- `[NOTA DM — riservata]` solo per segreti e tattiche concrete, in poche righe;
+- attitudini dei PNG, una riga ciascuno;
+- tabella «Hook PG» per nome del PG, una riga ciascuno, e scene opzionali brevi;
+- «Ricompense» con il solo bottino;
+- dopo la serata, la sezione `📋 ACCADUTO IN SESSIONE`.
+
+**Non contengono:** stat block, Bonus Action e Reaction dei capi (stanno solo in
+`campagna/scontri-adattati/aggiornamenti-schede.md`); XP e note di bilanciamento; note
+organizzative o di design (perché la sessione è fatta così); consigli generici al DM («non
+forzare il tavolo», «usa questa fase per…»); la storia delle decisioni (date, «la fonte ne mette
+otto, portati a dodici»); thread narrativi; rimandi a sessioni facoltative; recap e checklist
+post-sessione; log di revisione degli agenti. Il resoconto di cosa ha fatto un agente va nella sua
+risposta all'orchestratore, mai nel file.
+
+---
+
 ## Sessioni Speciali
 
 Decise dal DM il 2026-10-18, con la prima: `dm-notes-sessione-05bis.md`, che contiene le due

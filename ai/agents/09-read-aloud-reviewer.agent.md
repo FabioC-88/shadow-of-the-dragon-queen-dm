@@ -46,8 +46,8 @@ Tutto ciò che il DM legge o recita ai giocatori:
 - i testi delle Villain Action e degli eventi di scena in blockquote
 - le battute dei PNG in blockquote (`> *"…"*`)
 
-**Non tocchi:** le note `[NOTA DM — riservata]`, le tabelle, gli stat block, le istruzioni al DM
-in corsivo, il Revision Log, le sezioni `📋 ACCADUTO IN SESSIONE`.
+**Non tocchi:** le note `[NOTA DM — riservata]`, le tabelle, le istruzioni al DM in corsivo, le
+sezioni `📋 ACCADUTO IN SESSIONE`.
 
 ---
 
@@ -138,20 +138,9 @@ Leggilo mentalmente ad alta voce e chiediti:
 
 ## Output
 
-1. Applica le correzioni direttamente in `dm-notes-sessione-[N+1].md`.
-2. Aggiungi in coda al `🔍 REVISION LOG` (o crea la sezione se manca) una tabella:
-
-```markdown
-### Read-aloud — Agente 9
-
-| Riquadro | Problema | Prima → Dopo (abbreviato) |
-|---|---|---|
-| BT-V3 aggiunta | «Non è X. È Y» | «Non è come un attacco…» → «Quando i primi toccano i tetti…» |
-
-**Riquadri rivisti:** N su M · **Lasciati intatti:** elenco
-```
-
-3. Restituisci all'orchestratore un riepilogo di **massimo 10 righe**: quanti riquadri corretti,
+1. Applica le correzioni direttamente in `dm-notes-sessione-[N+1].md`, senza aggiungere al file
+   log o tabelle di revisione (vedi «Struttura delle dm-notes» in `ai/agents/AGENTS.md`).
+2. Restituisci all'orchestratore un riepilogo di **massimo 10 righe**: quanti riquadri corretti,
    i 2-3 interventi più significativi, e ogni segreto/nome/duplicato trovato (vanno segnalati al DM).
 
 ## Vincoli

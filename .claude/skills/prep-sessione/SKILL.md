@@ -70,7 +70,8 @@ Un solo sub-agente che esegue, in quest'ordine, `ai/agents/06-session-reviewer.a
 `ai/agents/09-read-aloud-reviewer.agent.md` su `dm-notes-sessione-NN.md`.
 
 Input: draft da Step 3 + ultimo `dm-notes-sessione-XX.md` giocato. Applica direttamente le
-correzioni e genera la sezione `🔍 REVISION LOG`. Poi ripulisce SETUP INIZIALE, riquadri
+correzioni e toglie tutto ciò che non serve al tavolo (sezione «Struttura delle dm-notes» di
+`ai/agents/AGENTS.md`), senza scrivere log nel file. Poi ripulisce SETUP INIZIALE, riquadri
 `[BT-xx]` e testi delle Villain Action dai pattern da AI, e segnala segreti, nomi o descrizioni
 doppie finiti nel testo letto al tavolo: riporta queste segnalazioni nel riepilogo finale al DM.
 

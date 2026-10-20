@@ -52,22 +52,23 @@ Per ogni PG, verifica:
 
 Per ogni hook/arco rilevante trovato:
 
-1. **Se il draft contiene già una scena adatta**, aggiungi una nota DM che suggerisce come usarla per quell'hook:
+1. **Hook PG:** una tabella `## Hook PG` dopo l'ultima fase, **una riga per PG** (nome del PG, non il preludio): il momento della sessione, la meccanica se c'è (CD), cosa ne ricava. Niente riflessioni sul tema o sul tono.
    ```
-   [NOTA DM — riservata] Hook per [Nome PG]: [descrizione del momento e come sfruttarlo]
-   ```
-
-2. **Se manca una scena dedicata**, aggiungi una breve scena opzionale alla fase più appropriata del draft:
-   ```
-   ### Scena Opzionale — Spotlight [Nome PG]
-   **Trigger:** [quando si attiva]
-   **Contenuto:** [cosa succede]
-   **[NOTA DM — riservata]** [info riservate al DM]
+   | PG | Hook |
+   |---|---|
+   | **Garrick** | Chi vede il sivak tornare alla forma vera capisce il Furto di Forma con **Intelligenza (Arcano) CD 13**. |
    ```
 
-3. **Per i PNG presenti nella sessione**, aggiungi sotto ogni loro apparizione:
-   - Atteggiamento attuale verso ogni PG rilevante (formato: `Attitudine verso [PG]: +X / Neutrale / -X`)
-   - Indicazione se c'è un'opportunità per far cambiare l'atteggiamento questa sessione
+2. **Se manca una scena dedicata**, aggiungi una breve scena opzionale sotto la tabella:
+   ```
+   ### Scena Opzionale — [Titolo]
+   **Quando:** [fase] · [cosa succede, in 2-3 righe]
+   > *"[battuta del PNG]"*
+   ```
+
+3. **Per i PNG presenti nella sessione**, sotto ogni scena: `**Attitudine PNG in questa scena:**` con una riga per PNG (valore numerico, come si comporta, se e come può cambiare questa sessione).
+
+Le integrazioni seguono la sezione «Struttura delle dm-notes» di `ai/agents/AGENTS.md`: niente note che spiegano perché un hook funziona.
 
 ### Step 4 — Spotlight bilanciato
 
@@ -94,7 +95,7 @@ Per ogni segreto riservato al DM che coinvolge un PG, valuta:
 ## Formato Output
 
 Restituisci il **draft completo aggiornato** mantenendo la struttura Markdown esistente.
-Le integrazioni vanno inserite **nel punto corretto del documento**, non in appendice.
+Le integrazioni vanno inserite **nel punto corretto del documento**; solo la tabella «Hook PG» e le scene opzionali stanno dopo l'ultima fase.
 Usa sempre `[NOTA DM — riservata]` per distinguere le informazioni riservate.
 
 ---

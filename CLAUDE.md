@@ -37,7 +37,7 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
 ## Linee guida generali
 
 - **Sempre in italiano.**
-- **Tono:** immersivo ma usabile al tavolo — tabelle, bullet, stat block standard, niente saggistica.
+- **Tono:** immersivo ma usabile al tavolo — tabelle, bullet, niente saggistica.
 - **Meccaniche:** cita sempre CD nel formato `Caratteristica (Abilità) CD X`.
 - **Terminologia:** segui `campagna/glossario.md`. Titoli e gradi si traducono sempre (*Maresciallo* Vendri, mai «Marshal Vendri»), l'esercito nemico è l'*Armata dei Draghi*; schede e sezioni del manuale in italiano con l'inglese tra parentesi alla prima occorrenza.
 - **Informazioni dei PNG in elenco:** quando un PNG comunica una serie di informazioni, oltre all'elenco per il DM scrivi il **testo da recitare** con la sua voce.
@@ -51,7 +51,9 @@ Prima di rispondere su stato campagna, PNG o missioni, leggi `campagna/contesto.
   - **Descrivere, non spiegare il significato della scena.** Metti il dettaglio e lascia la conclusione al giocatore: *«non è un accampamento improvvisato — è una macchina da guerra a riposo»* diventa *«i fuochi sono allineati, a distanze uguali, come le tende»*. Vale anche per le glosse emotive tipo *«per loro è la fine del mondo»*: tagliale.
   - **Non decidere l'azione del giocatore.** Mai scrivere cosa fa o sente il PG — *«i tuoi piedi già si muovono»* non si legge al tavolo. Descrivi il mondo, l'azione la sceglie chi gioca.
   - **Persona coerente:** o **voi** o **tu** per tutto il riquadro, senza saltare a metà. Nel dubbio, **voi**.
-- **Nei dm-notes niente statistiche e niente note di bilanciamento** *(decisione del DM, 2026-10-20: «su Foundry non le uso, modifico direttamente la scheda del mostro»)*. Per ogni incontro: nemici con **nome e numero**, più le note tattiche che servono al tavolo. Il numero si ricava dal budget in XP del framework (punto 5) con gli XP ufficiali. Niente stat block, niente note `[NOTA DM — riservata] Bilanciamento` con XP e rapporti col budget: sono cose che il DM sa già. Le differenze delle schede dal manuale stanno **solo** in `campagna/scontri-adattati/aggiornamenti-schede.md`.
+- **Le dm-notes servono al tavolo, non raccontano il lavoro fatto** *(decisione del DM, 2026-10-20: «devono essere di facile comprensione, non piene di note e how to inutili»)*. Struttura e cosa non ci va: sezione «Struttura delle dm-notes» di `ai/agents/AGENTS.md`, modello `dm-notes-sessione-06.md`. In breve:
+  - **niente statistiche e niente note di bilanciamento** (*«su Foundry non le uso, modifico direttamente la scheda del mostro»*). Per ogni incontro: nemici con **nome e numero**, più le note tattiche che servono al tavolo. Il numero si ricava dal budget in XP del framework (punto 5) con gli XP ufficiali. Le differenze delle schede dal manuale, Bonus Action e Reaction comprese, stanno **solo** in `campagna/scontri-adattati/aggiornamenti-schede.md`;
+  - **niente note di design, consigli generici, storia delle decisioni, thread, recap, checklist o log di revisione**: quello che un agente ha fatto lo scrive nella risposta, non nel file.
 - **Niente mappe/tattiche su griglia** — le gestisce Foundry VTT.
 - **Non pianificare sessioni future in anticipo** a meno che Fabio non lo chieda esplicitamente.
 - Se una richiesta corrisponde a una skill già definita in `.claude/skills/`, seguine la pipeline invece di improvvisare.
