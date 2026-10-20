@@ -117,7 +117,7 @@ Shortsword. +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 KAPAK DRACONIAN (Ambusher) — base ufficiale DSotDQ p198 (verificata 2026-09-13)
 Medium Monstrosity, typically Lawful Evil | AC 15 (natural armor)
-Initiative +3 (13) | HP 39 (6d8+12) | Speed 40 ft., Climb 40 ft.
+Initiative +3 (13) | HP 65 (10d8+20; era 39, allineato al CR 3, framework 2026-10-20) | Speed 40 ft., Climb 40 ft.
 STR 11 (+0, save +0)   DEX 17 (+3, save +5)   CON 14 (+2, save +2)
 INT 12 (+1, save +1)   WIS 13 (+1, save +1)   CHA 11 (+0, save +0)
 Skills Deception +4, Perception +3, Stealth +7
@@ -157,13 +157,26 @@ REACTION — Glide Away: quando un attacco in mischia lo manca, può muoversi di
 
 *Notevole ma non boss: niente Villain Actions. Il picco di difficoltà della sessione resta l'imboscata dall'alto (sorpresa + veleno), non un macchinario narrativo a tre atti.*
 
+**Capo — Bonus Action e Reaction del kapak (punto 6 del framework, 2026-10-20).** Scheda ufficiale intatta, a parte i PF allineati; le aggiunte nascono dal suo essere un cacciatore che colpisce dai rami, con il veleno sulla lama e nel sangue. Non sono le due aggiunte scartate il 20/09 (Sneak Attack e Glide Away). XP invariati. Valgono per il kapak del guado (05bis).
+
+```
+KAPAK DRACONIAN (Ambusher) — camp scout at the ford (official stat block above, plus:)
+
+BONUS ACTION — Branch to Branch
+Moves up to half its Speed (Climb included) without provoking opportunity attacks.
+
+REACTION — Venom in the Blood
+Trigger: a creature hits the kapak with a melee attack. Response: the attacker
+  makes a DC 12 Constitution save or is Poisoned until the end of its next turn.
+```
+
 ---
 
 ## Sessione 05bis — L'Imboscata e il Blocco (Livello 4 → 5 a fine sessione, speciale)
 
 > ✅ **Decisioni del DM (2026-10-19, dopo la S05):** il party gioca la 05bis al **4° livello** e sale al **5° alla fine**, dopo il guado del Raiding Rill (detta «probabilmente»; sostituisce la decisione del 2026-10-18, che dava il 5° in apertura e teneva la 05bis fuori dalla progressione). La 05bis è cominciata nella serata della S05 e si è fermata a metà combattimento alla fattoria, dove il DM ha fatto arrivare il **dragonnel dell'ufficiale**. Il DM trova gli scontri troppo facili (*«i nemici hanno sempre poche opzioni, tanti PF ma pochi danni e pochi CC»*): entrambi sono ricalibrati con i punti 5 e 6 di [00-framework.md](00-framework.md). *(Superato: «Difficili in fascia bassa al 5° livello», CR 10 e 11, e il ripiego sui numeri della fonte per un party al 4°.)*
 
-**Budget DMG 2024, 5 PG al 4° livello** (framework punto 5): Bassa **1.250**, Moderata **1.875**, Alta **2.500** XP. Sono i due scontri che contano della sessione, quindi il target è Alta, fino a circa 1,25 × Alta se il party arriva riposato. Come da framework, le schede ufficiali non si toccano: si lavora su quantità, ondate, Bonus Action e Reaction dei capi.
+**Budget DMG 2024, 5 PG al 4° livello** (framework punto 5): Bassa **1.250**, Moderata **1.875**, Alta **2.500** XP. Sono i due scontri che contano della sessione, quindi il target è Alta, fino a circa 1,25 × Alta se il party arriva riposato. Come da framework, le schede ufficiali si toccano solo per i PF (allineati al CR dal 2026-10-20) e per gli effetti automatici; per il resto si lavora su quantità, ondate, Bonus Action e Reaction dei capi.
 
 | Scontro | Fonte (tarata sul 4° livello) | 05bis (4° livello) | XP | Rapporto con Alta |
 |---|---|---|--:|---|
@@ -224,7 +237,7 @@ Trigger: a Hobgoblin Warrior or Dragon Army Soldier the officer can see within
 
 ### Il guado del Raiding Rill — il blocco draconico
 
-**8× Baaz Draconian** e **1× Kapak Draconian** (schede nella sezione Sessione 05, qui sopra; il kapak senza aggiunte homebrew) e **2× Bozak Draconian** (scheda qui sotto). La fonte dice che i draconiani combattono fino alla morte. **2.400 XP ≈ 0,96 × Alta:** schieramento invariato, ristrutturato col punto 6.
+**8× Baaz Draconian** e **1× Kapak Draconian** (schede nella sezione Sessione 05, qui sopra; il kapak senza le aggiunte homebrew scartate, ma con PF 65 e con Bonus Action e Reaction qui sotto) e **2× Bozak Draconian** (scheda qui sotto). La fonte dice che i draconiani combattono fino alla morte. **2.400 XP ≈ 0,96 × Alta:** schieramento invariato, ristrutturato col punto 6.
 
 | Quando | Chi | XP | Da dove |
 |---|---|--:|---|
@@ -242,7 +255,7 @@ Trigger: a Hobgoblin Warrior or Dragon Army Soldier the officer can see within
 ```
 BOZAK DRACONIAN (×2) — DSotDQ p198, official stat block
 Medium Monstrosity (Sorcerer), typically Lawful Evil | AC 15 (natural armor)
-Initiative +0 (10) | HP 40 (9d8) | Speed 30 ft.
+Initiative +0 (10) | HP 49 (11d8; era 40, allineato al CR 2, framework 2026-10-20) | Speed 30 ft.
 STR 14 (+2, save +2)   DEX 10 (+0, save +0)   CON 11 (+0, save +0)
 INT 11 (+0, save +2)   WIS 10 (+0, save +2)   CHA 14 (+2, save +4)
 Gear Trident | Senses Darkvision 60 ft., Passive Perception 10
@@ -286,7 +299,7 @@ Trigger: a creature the bozak can see within 60 ft casts a spell of 1st level or
 
 Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di soldati dell'Armata dei Draghi da 1 a 12 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme e più gruppi convergono nello stesso scontro, restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** (una per squadra) per non rallentare il tavolo (vedi 00-framework.md punto 2).
 
-> ✅ **Ricalibrata il 2026-10-19 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · Moderata 3.750 · **Alta 5.500** (tetto ~6.875). L'infiltrazione resta evitabile come nella fonte; il bilancio riguarda lo scontro che scatta quando l'infiltrazione fallisce e il finale nella stalla. Solo quantità, schede ufficiali intatte: **caserma (W5) 8 → 12 Dragon Army Soldier** (i sei letti a castello hanno dodici posti), **Baaz Draconian (W4) 2 → 4** (scheda nella sezione Sessione 05; ufficiale CR 1/2, la metà del CR 1 su cui era tarata la sessione), **squadra di ricognizione 6 → 2 × 6**. Totale del forte **7.000 → 8.000 XP**: 22 soldati, 2 ufficiali, 1 sivak, 4 baaz, 1 dragonnel. Dettaglio, ondate e note tattiche nei dm-notes (FASE 3, «Bilancio degli scontri»).
+> ✅ **Ricalibrata il 2026-10-19 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · Moderata 3.750 · **Alta 5.500** (tetto ~6.875). L'infiltrazione resta evitabile come nella fonte; il bilancio riguarda lo scontro che scatta quando l'infiltrazione fallisce e il finale nella stalla. Solo quantità (più i PF allineati al CR del 2026-10-20: soldato 27, sivak 95, dragonnel 65), schede ufficiali per il resto intatte: **caserma (W5) 8 → 12 Dragon Army Soldier** (i sei letti a castello hanno dodici posti), **Baaz Draconian (W4) 2 → 4** (scheda nella sezione Sessione 05; ufficiale CR 1/2, la metà del CR 1 su cui era tarata la sessione), **squadra di ricognizione 6 → 2 × 6**. Totale del forte **7.000 → 8.000 XP**: 22 soldati, 2 ufficiali, 1 sivak, 4 baaz, 1 dragonnel. Dettaglio, ondate e note tattiche nei dm-notes (FASE 3, «Bilancio degli scontri»).
 
 **Ogni allarme a tre ondate**, ognuna da un lato diverso: chi è sul posto; al 2° round la caserma (12 soldati in due squadre da sei) guidata da Ardlic Vanse; al 3°-4° round il dragonnel col cavaliere, dall'alto. Il dragonnel è di tipo Drago, quindi accende la **Draconic Devotion**: ogni soldato, ufficiale e baaz che lo vede attacca con vantaggio, e il cavaliere in sella sempre.
 
@@ -304,7 +317,7 @@ Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi 
 ```
 DRAGON ARMY SOLDIER (gruppi da 1-12 per stanza, o di più se convergono) — DSotDQ p200, official stat block
 Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
-Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
+Initiative +1 (11) | HP 27 (5d8+5; era 22, allineato al CR 1, framework 2026-10-20) | Speed 30 ft.
 STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
 INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
 Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
@@ -380,7 +393,7 @@ Trigger: a creature he can see enters the reach of his Vicious Lance (10 ft).
 ```
 SIVAK DRACONIAN (Notable, ~CR 4) — DSotDQ p199, official stat block
 LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
-Initiative +0 (10) | HP 57 (6d10+24) | Speed 30 ft., Fly 60 ft.
+Initiative +0 (10) | HP 95 (10d10+40; era 57, allineato al CR 4, framework 2026-10-20) | Speed 30 ft., Fly 60 ft.
 STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
 INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
 Senses Darkvision 60 ft., Passive Perception 10
@@ -396,7 +409,8 @@ ACTIONS
 Multiattack. Two Serrated Sword attacks and one Tail attack.
 Serrated Sword. +6 to hit, reach 5 ft — 13 (2d8+4) slashing.
 Tail. +6 to hit, reach 5 ft — 8 (1d8+4) bludgeoning. If the target is Large or
-  smaller, DC 14 Strength save or knocked prone.
+  smaller, it has the Prone condition. [Automatico, senza TS: era TS Forza CD 14;
+  allineato al 2024, framework 2026-10-20.]
 
 REACTIONS
 Shape Theft. After killing a Medium or smaller Humanoid, the draconian cloaks
@@ -421,7 +435,7 @@ Trigger: a Medium or smaller Humanoid within 5 ft hits the sivak with a melee
 ```
 DRAGON ARMY DRAGONNEL (rider's mount, CR 3) — DSotDQ p201, official stat block
 Large Dragon, typically Lawful Evil | AC 16 (breastplate barding)
-Initiative +2 (12) | HP 58 (9d10+9) | Speed 30 ft., Fly 60 ft.
+Initiative +2 (12) | HP 65 (10d10+10; era 58, allineato al CR 3, framework 2026-10-20) | Speed 30 ft., Fly 60 ft.
 STR 16 (+3, save +3)   DEX 15 (+2, save +2)   CON 12 (+1, save +1)
 INT  8 (-1, save -1)   WIS 13 (+1, save +1)   CHA 10 (+0, save +0)
 Skills Perception +3 | Resistances Fire
@@ -439,7 +453,7 @@ Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 
 *Il suo cavaliere è un secondo **Ufficiale dell'Armata dei Draghi** (blocco sopra, con le aggiunte del cavaliere). Il dragonnel non è un capo e non prende Bonus Action né Reaction: il suo peso è il tipo **Drago**, che accende la Draconic Devotion di soldati, ufficiali e baaz finché lo vedono. Non è più il primo della campagna: il party ne ha già affrontato uno alla fattoria della 05bis, come cavalcatura dell'ufficiale. Duo drammatico, non boss di capitolo: niente Villain Actions.*
 
-**[Correzione 2026-10-19]** Lo stat block sopra è la scheda ufficiale **CR 3** pura (58 PF, Rend 2d6+3 + 1d6 fuoco, con il tratto **Flyby**). La vecchia nota che parlava di «HP e danno alzati a livello ~CR4» non corrispondeva al blocco: niente buff, il peso del duo ora viene dalle quantità e dalla Devotion.
+**[Correzione 2026-10-19]** Lo stat block sopra è la scheda ufficiale **CR 3** pura (58 PF, poi 65 dal 2026-10-20 con l'allineamento al CR; Rend 2d6+3 + 1d6 fuoco, con il tratto **Flyby**). La vecchia nota che parlava di «HP e danno alzati a livello ~CR4» non corrispondeva al blocco: niente buff, il peso del duo ora viene dalle quantità e dalla Devotion.
 
 ---
 

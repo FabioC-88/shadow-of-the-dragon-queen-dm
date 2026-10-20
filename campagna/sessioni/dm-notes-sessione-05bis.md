@@ -266,7 +266,7 @@ Correzione (Correction). Quando un guerriero hobgoblin o un soldato
 ```
 DRAGON ARMY SOLDIER (×2) — DSotDQ p200, scheda ufficiale (stessi valori della Sessione 06)
 Umanoide Medio, tipicamente Legale Malvagio
-CA 17 (corazza di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
+CA 17 (corazza di scaglie, scudo)   Iniziativa +1 (11)   PF 27 (5d8+5; era 22: allineati al CR 1)
 Velocità 9 m
 FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
 INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
@@ -325,7 +325,7 @@ Arco lungo. Tiro per colpire a distanza: +3, gittata 45/180 m.
 ```
 DRAGON ARMY DRAGONNEL — DSotDQ p201, scheda ufficiale (stessi valori della Sessione 06)
 Drago Grande, tipicamente Legale Malvagio
-CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 65 (10d10+10; era 58: allineati al CR 3)
 Velocità 9 m, Volare 18 m
 FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
 INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)
@@ -604,7 +604,7 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
 ```
 BOZAK DRACONIAN (×2) — DSotDQ p198, scheda ufficiale
 Mostruosità Media (Stregone), tipicamente Legale Malvagio
-CA 15 (armatura naturale)   Iniziativa +0 (10)   PF 40 (9d8)   Velocità 9 m
+CA 15 (armatura naturale)   Iniziativa +0 (10)   PF 49 (11d8; era 40: allineati al CR 2)   Velocità 9 m
 FOR 14 (+2, TS +2)   DES 10 (+0, TS +0)   COS 11 (+0, TS +0)
 INT 11 (+0, TS +2)   SAG 10 (+0, TS +2)   CAR 14 (+2, TS +4)
 Equipaggiamento Tridente
@@ -667,7 +667,7 @@ Scarica di Risposta (Spell Snap). Quando una creatura che il bozak vede entro
 ```
 KAPAK DRACONIAN — DSotDQ p198, scheda ufficiale
 Mostruosità Media, tipicamente Legale Malvagio
-CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 39 (6d8+12)
+CA 15 (armatura naturale)   Iniziativa +3 (13)   PF 65 (10d8+20; era 39: allineati al CR 3)
 Velocità 12 m, Scalare 12 m
 FOR 11 (+0, TS +0)   DES 17 (+3, TS +5)   COS 14 (+2, TS +2)
 INT 12 (+1, TS +1)   SAG 13 (+1, TS +1)   CAR 11 (+0, TS +0)
@@ -698,7 +698,28 @@ Pugnale. Attacco con arma in mischia o a distanza: +5 al colpire, portata 1,5 m
 oppure gittata 6/18 m — 5 (1d4+3) danni perforanti più 7 (2d6) danni da veleno.
 ```
 
-*[NOTA DM — riservata] **Bilanciamento** (punto 5 di `scontri-adattati/00-framework.md`, aggiornato il 2026-10-19). 8 baaz (800) + 2 bozak (900) + 1 kapak (700) = **2.400 XP**, circa **0,96 × Alta** (2.500) per cinque PG di 4° livello. Lo schieramento resta quello di prima: cambia il modo in cui entra (due ondate più l'agguato del kapak), e i bozak hanno Bonus Action e Reaction. **Il party arriva dalla fattoria con un solo riposo lungo in mezzo**, che con le regole opzionali rende solo i Dadi Vita: slot e risorse di classe tornano, i PF solo in parte. Per questo lo scontro resta appena sotto Alta e non va gonfiato. I draconiani non si arrendono, quindi la valvola è un'altra: se il party è in grave difficoltà, la squadra di guardia arriva al 3° round o con due baaz invece di quattro, i bozak tengono da parte gli incantesimi che non hanno ancora lanciato, e il kapak, che è un opportunista, si ritira su per i tronchi invece di combattere fino alla morte (come in S05, è una deviazione dalla fonte per salvare il tavolo). `[TODO DM: verificare dopo la sessione reale]`*
+### Adattamento — Bonus Action e Reaction del kapak *(2026-10-20, non nella scheda ufficiale)*
+
+*Scheda ufficiale invariata, a parte i PF (65, allineati al CR 3). Il kapak è un cacciatore che colpisce dai rami, con il veleno sulla lama e nel sangue, quindi per il punto 6 del framework prende una Bonus Action e una Reaction fisse. Non sono le due aggiunte scartate il 20/09 (Attacco Furtivo e Via col Volo).*
+
+```
+KAPAK (guado) — ADATTAMENTO DEL DM (2026-10-20), non nella scheda ufficiale
+Si aggiunge alla scheda DSotDQ p198 qui sopra. Valori della scheda invariati.
+—
+AZIONE BONUS
+Da Ramo a Ramo (Branch to Branch). Il kapak si sposta fino a metà della propria
+  Velocità (Scalare compreso) senza provocare attacchi di opportunità.
+—
+REAZIONE
+Veleno nel Sangue (Venom in the Blood). Quando una creatura colpisce il kapak con
+  un attacco in mischia, deve superare un TS Costituzione CD 12 o è avvelenata
+  fino alla fine del proprio turno successivo.
+```
+
+- **Da Ramo a Ramo** permette di colpire dall'alto e cambiare ramo prima che il party arrivi a portata: il kapak non resta fermo a farsi menare.
+- **Veleno nel Sangue** punisce chi lo raggiunge sul tronco: lo svantaggio agli attacchi dell'avvelenato pesa soprattutto su chi sta già cercando di tenerlo a bada.
+
+*[NOTA DM — riservata] **Bilanciamento** (punto 5 di `scontri-adattati/00-framework.md`, aggiornato il 2026-10-19). 8 baaz (800) + 2 bozak (900) + 1 kapak (700) = **2.400 XP**, circa **0,96 × Alta** (2.500) per cinque PG di 4° livello. Lo schieramento resta quello di prima: cambia il modo in cui entra (due ondate più l'agguato del kapak), e bozak e kapak hanno Bonus Action e Reaction. I PF sono allineati al CR dal 2026-10-20 (bozak 49, kapak 65) e gli XP restano invariati. **Il party arriva dalla fattoria con un solo riposo lungo in mezzo**, che con le regole opzionali rende solo i Dadi Vita: slot e risorse di classe tornano, i PF solo in parte. Per questo lo scontro resta appena sotto Alta e non va gonfiato. I draconiani non si arrendono, quindi la valvola è un'altra: se il party è in grave difficoltà, la squadra di guardia arriva al 3° round o con due baaz invece di quattro, i bozak tengono da parte gli incantesimi che non hanno ancora lanciato, e il kapak, che è un opportunista, si ritira su per i tronchi invece di combattere fino alla morte (come in S05, è una deviazione dalla fonte per salvare il tavolo). `[TODO DM: verificare dopo la sessione reale]`*
 
 ### Il Bottino del Campo
 

@@ -53,7 +53,7 @@ Regole del tavolo valide per **tutti** i capitoli in `campagna/scontri-adattati/
    - **Ogni capo ha Bonus Action e Reaction.** Ufficiali, bozak, capitani, sergenti: anche se non sono minacce nominate, prendono il trattamento «minore» del punto 3 (una Bonus Action e una Reaction fisse, nate dalla loro natura).
    - **Rinforzi a ondate.** Almeno un terzo del budget entra al 2°-3° round, da un'altra direzione: il controllo d'apertura dei PG colpisce solo la prima ondata.
    - **Bersagli intelligenti.** Chi ha armi a distanza tira a chi mantiene la concentrazione; dopo il primo incantesimo ad area i gruppi si allargano; chi scopre un terreno pericoloso si ferma e tira invece di attraversarlo.
-   - **Più danno, non più PF**, e su qualche nemico un effetto sul colpo (Prono, Afferrato, spinta) che tolga ai PG libertà di movimento.
+   - **PF allineati al riferimento 2024 del CR** (tabella «Allineamento ai numeri 2024», in fondo) e **effetti sul colpo automatici** dove il 2024 li farebbe tali (Prono, Afferrato, spinta). Il CR e gli XP restano quelli ufficiali.
    - **Il morale è una valvola, non la regola.** La resa o la fuga «a metà gruppo» si usa solo se il tavolo è davvero in difficoltà.
 7. **Villain Parties (capitolo 3 del libro):** 7 squadre da 5 villain, ciascuna calibrata per **5 PG** a un livello preciso (3°, 5°, 7°, 9°, 11°, 13°, 15°). **Amethyst Knife** (11°) coincide col livello finale del Cap. 7 — candidata a fare da scheletro meccanico per Kansaldi + luogotenenti, da valutare quando arriveremo lì.
 
@@ -94,6 +94,51 @@ Fabio ha fornito gli stat block ufficiali (MM'25 e DSotDQ). Erano tutti ricostru
 | **Warhorse** (MM'25 p373) | Hooves 2d6+4 + carica con TS | **2d4+4**, carica dentro l'attacco | ⬇️ leggermente |
 | **Boilerdrak** (p189) | Costrutto 50 PF, cono 9 m, 4d6 | **Oggetto 100 PF, cono 18 m, 5d10, CD 15** | ⬆️ **molto** |
 
-**Regola pratica:** dove il CR è salito, **riduci il numero di nemici** invece di indebolire il blocco; dove è sceso, **aumentalo**. I blocchi ora sono quelli veri e non vanno più toccati — si scala con le quantità, come già fatto per il quinto giocatore.
+**Regola pratica:** dove il CR è salito, **riduci il numero di nemici** invece di indebolire il blocco; dove è sceso, **aumentalo**. I blocchi sono quelli veri; si scala con le quantità, come già fatto per il quinto giocatore, e dal 2026-10-20 si allineano solo i PF, gli effetti automatici e le Bonus Action/Reaction dei capi (sezione «Allineamento ai numeri 2024», in fondo).
 
 **Capitoli da ricontrollare prima di giocarli:** 4 (posto di vedetta e forte: baaz ⬇️, kapak ⬆️, sivak ⬆️), 5, 6 e 7 (sivak e soldati ⬆️ in modo sostanziale). I Capitoli 2 e 3 — Sessioni 00, 01 e 02 — sono a posto: usano baaz, guardia (*guard*), warhorse, kapak e boilerdrak già verificati.
+
+---
+
+## Allineamento ai numeri 2024 (decisione del DM, 2026-10-20)
+
+La campagna ha pochi combattimenti e deve essere difficile: quelli che ci sono devono essere seri. Le schede DSotDQ nascono con le regole 2014, quindi le si confronta con i mostri 2024 dello stesso CR e si allinea ciò che resta indietro. **Il CR e gli XP ufficiali non cambiano mai:** restano il «costo» dello scontro nel budget del punto 5, perché alzare il CR vorrebbe dire incontrare meno mostri e lasciare la difficoltà dov'era.
+
+**Come si è deciso.** Confronto fra l'SRD 5.1 e l'SRD 5.2 (dnd5eapi.co, 279 mostri accoppiati per nome, senza quelli con azioni leggendarie): **in nessuna coppia il CR è cambiato.** Mediane per CR:
+
+| CR | PF | CA | Danno a round | CD mediana |
+|:--:|--:|--:|--:|--:|
+| 1/4 | 13 | 12 | 6 | 10-11 |
+| 1/2 | 22 | 12 | 8 | 11 |
+| 1 | 26 | 12 | 10 | 11 |
+| 2 | 48 | 13 | 16 | 12 |
+| 3 | 65 | 14 | 24 | 12 |
+| 4 | 91 | 12 | 26 | 13 |
+| 5 | 105 | 15 | 34 | 14 |
+| 6-8 | 126 | 16 | 44 | 14 |
+| 9-12 | 178 | 17 | 66 | 17 |
+
+Nel passaggio 5.1 → 5.2 **PF, CA, bonus di attacco, CD e bonus ai tiri salvezza dei mostri sono rimasti uguali** (mediane invariate, differenze entro ±0,3 sui TS). Sono cambiati: il **danno a round dal CR 3 in su** (circa ×1,4-1,7 al CR 3-4), la presenza di **Bonus Action** (da 0% a circa 15-65% dei mostri, secondo il CR) e, soprattutto, gli **effetti automatici**: dei 69 mostri fino al CR 5 con «TS o condizione» nel 2014, 27 hanno la condizione senza tiro salvezza nel 2024 (il lupo crudele non fa più il TS Forza CD 13: il Prono scatta sul colpo, se il bersaglio è Grande o più piccolo).
+
+**Regole.**
+1. **PF:** se la scheda è sotto la mediana del suo CR, sale alla mediana; se è sopra, resta. Mai al ribasso. **I dadi vita si aggiornano insieme ai PF:** la formula (con il modificatore di COS della scheda, invariato) deve dare il totale scritto. Se nessuna formula cade esattamente sulla mediana, si prende la più vicina per eccesso.
+2. **CA, danno, CD e TS non si toccano:** le schede DSotDQ sono già in linea o sopra (il sivak fa 34 a round contro una mediana 2024 di 26). Alzare le CD non è supportato dal confronto.
+3. **Effetti automatici:** un effetto «TS o Prono/Afferrato» da colpo, che nel 2024 sarebbe automatico, lo diventa. Paralisi, Spaventato e simili restano a tiro salvezza.
+4. **Capi:** una Bonus Action e una Reaction fisse (punto 6).
+
+**Applicazione (PF prima → dopo, CR/XP invariati):**
+
+| Creatura | CR | PF | Altro |
+|---|:--:|---|---|
+| Baaz Draconian | 1/2 | 22 (già alla mediana) | — |
+| Dragon Army Soldier | 1 | 22 → **27** (5d8+5) | — |
+| Bozak Draconian | 2 | 40 → **49** (11d8) | BA e Reaction già scritte (guado, 05bis) |
+| Kapak Draconian | 3 | 39 → **65** (10d8+20) | BA e Reaction nuove (guado, 05bis) |
+| Dragon Army Officer | 3 | 65 (10d8+20, già alla mediana) | BA e Reaction già scritte |
+| Dragon Army Dragonnel | 3 | 58 → **65** (10d10+10) | cavalcatura, non un capo |
+| Sivak Draconian | 4 | 57 → **95** (10d10+40) | coda: Prono automatico, senza TS; BA e Reaction già scritte |
+| Hobgoblin Warrior | 1/2 | 11 (scheda MM 2024) | — |
+
+Applicato alle sezioni Sessione 05 (kapak), 05bis e 06 di [capitolo-04.md](capitolo-04.md) e ai dm-notes 05bis e 06. **I blocchi dei capitoli 5-7 e dei dm-notes successivi si allineano quando si prepara quella sessione.** Alla fattoria della 05bis, con il combattimento in corso su Foundry, i PF già assegnati ai nemici in campo restano com'erano.
+
+**Limiti.** L'SRD 5.2 non è tutto il Monster Manual 2024, il campione è di 20-40 mostri per CR e il danno a round è un calcolo grezzo (attacco migliore × numero di attacchi). I PF più alti allungano gli scontri e la difficoltà cresce: `[TODO DM: verificare dopo la sessione reale]`, e se serve si ricontrolla il budget del punto 5.
