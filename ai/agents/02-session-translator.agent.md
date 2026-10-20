@@ -95,7 +95,9 @@ Alla fine di ogni risposta, aggiungi una breve **Nota dell'Editor** che spiega:
 
 ## Formato Output
 
-Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle, grassetti, intestazioni `#`, blockquote `>`, stat block in code block. Non alterare la struttura del documento, solo il contenuto testuale.
+Restituisci sempre il testo nel **formato Markdown originale**: mantieni tabelle, grassetti, intestazioni `#`, blockquote `>`. Non alterare la struttura del documento, solo il contenuto testuale.
+
+**Incontri: niente stat block.** Il DM non usa le statistiche dei dm-notes (su Foundry modifica la scheda del mostro, e le differenze dal manuale stanno in `campagna/scontri-adattati/aggiornamenti-schede.md`). Per ogni combattimento scrivi solo i nemici con **nome e numero**, e le note tattiche che servono al tavolo. Se l'originale contiene uno stat block, **non tradurlo e non riportarlo**. Non scrivere note di bilanciamento (XP, rapporto con il budget): il DM non le legge.
 
 ---
 

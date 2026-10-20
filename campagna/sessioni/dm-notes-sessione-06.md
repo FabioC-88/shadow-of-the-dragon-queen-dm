@@ -344,7 +344,7 @@ Il resto della giornata è libero. Buoni usi:
 ```
 SOLDATO DEL DRAGON ARMY — DSotDQ p200, scheda ufficiale
 Umanoide Medio, tipicamente Legale Malvagio
-CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 27 (5d8+5; era 22: allineati al CR 1)
+CA 17 (cotta di scaglie, scudo)   Iniziativa +1 (11)   PF 22 (4d8+4)
 Velocità 9 m
 FOR 15 (+2, TS +2)   DES 12 (+1, TS +1)   COS 12 (+1, TS +1)
 INT 10 (+0, TS +0)   SAG 10 (+0, TS +0)   CAR 10 (+0, TS +0)
@@ -437,7 +437,7 @@ Lancia Abbassata (Set Lance). Innesco: una creatura che il cavaliere può vedere
 ```
 DRACONIANO SIVAK — DSotDQ p199, scheda ufficiale
 Mostruosità GRANDE, tipicamente Legale Malvagio
-CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 95 (10d10+40; era 57: allineati al CR 4)
+CA 16 (armatura naturale)   Iniziativa +0 (10)   PF 57 (6d10+24)
 Velocità 9 m, Volare 18 m
 FOR 18 (+4, TS +6)   DES 10 (+0, TS +0)   COS 18 (+4, TS +4)
 INT 13 (+1, TS +1)   SAG 10 (+0, TS +2)   CAR 10 (+0, TS +0)
@@ -456,8 +456,7 @@ AZIONI
 Multiattacco. Due attacchi con la Spada Seghettata e uno con la Coda.
 Spada Seghettata. +6 al colpire, portata 1,5 m — 13 (2d8+4) danni taglienti.
 Coda. +6 al colpire, portata 1,5 m — 8 (1d8+4) contundenti. Se il bersaglio è
-  una creatura Grande o più piccola, cade Prona (automatico, senza TS: era TS
-  Forza CD 14; allineato al 2024, framework 2026-10-20).
+  una creatura Grande o più piccola, deve superare un TS Forza CD 14 o cade Prono.
 —
 REAZIONI
 Furto di Forma. Dopo che il sivak ha ucciso un Umanoide Medio o più piccolo, si
@@ -521,7 +520,7 @@ Spada corta. Attacco con arma in mischia: +3 al colpire, portata 1,5 m.
 ```
 DRAGONNEL DEL DRAGON ARMY — DSotDQ p201, scheda ufficiale
 Drago Grande, tipicamente Legale Malvagio
-CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 65 (10d10+10; era 58: allineati al CR 3)
+CA 16 (bardatura di corazza)   Iniziativa +2 (12)   PF 58 (9d10+9)
 Velocità 9 m, Volare 18 m
 FOR 16 (+3, TS +3)   DES 15 (+2, TS +2)   COS 12 (+1, TS +1)
 INT  8 (-1, TS -1)   SAG 13 (+1, TS +1)   CAR 10 (+0, TS +0)

@@ -98,7 +98,8 @@ Sub-agente su `ai/agents/08-context-updater.agent.md`. Modifica solo `campagna/p
 
 Un solo sub-agente che esegue, in quest'ordine, `ai/agents/06-session-reviewer.agent.md` e
 `ai/agents/09-read-aloud-reviewer.agent.md` su `dm-notes-sessione-[S].md`: coerenza, continuità e
-stat block, poi i testi da leggere al tavolo. È l'ultimo step che scrive su S.
+incontri (numero corretto di nemici, niente stat block né note di bilanciamento), poi i testi da
+leggere al tavolo. È l'ultimo step che scrive su S.
 
 Se segnala un segreto letto ad alta voce o un nome rivelato in anticipo, riportalo al DM nel
 riepilogo finale anche se l'ha già corretto.

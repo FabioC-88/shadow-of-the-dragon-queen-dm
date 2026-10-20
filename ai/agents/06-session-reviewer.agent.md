@@ -54,7 +54,7 @@ Il file deve avere esattamente questa struttura:
 - [ ] Header con: fonte primaria, sezione Dragonlance_ Shadow of the Dragon Queen.md, livello party, XP accumulati, obiettivo sessione, durata stimata
 - [ ] Sezione `🎬 SETUP INIZIALE` con apertura in-character
 - [ ] Fasi numerate con durata stimata (totale: ~2h30m)
-- [ ] Ogni fase con: titolo, descrizione, meccaniche (CD, tiri), stat block per encounter
+- [ ] Ogni fase con: titolo, descrizione, meccaniche (CD, tiri), e per ogni incontro l'elenco dei nemici con nome e **numero** (niente stat block, vedi 2E)
 - [ ] Sezioni `[NOTA DM — riservata]` per informazioni riservate
 - [ ] `RECAP POST-SESSIONE` con: fatti accaduti, aggiornamenti PNG, ricompense, thread aperti
 - [ ] `POST-SESSION CHECKLIST` con: file da aggiornare dopo la sessione
@@ -114,13 +114,13 @@ Per ogni PNG presente nella sessione:
 
 ---
 
-#### 2E — Verifica stat block
+#### 2E — Verifica incontri
 
-Per ogni stat block presente:
+Il DM non usa le statistiche dei dm-notes (su Foundry modifica direttamente la scheda del mostro; le differenze rispetto al manuale sono in `campagna/scontri-adattati/aggiornamenti-schede.md`) e non vuole note di bilanciamento. Per ogni incontro di combattimento:
 
-- [ ] I valori sono coerenti con Dragonlance_ Shadow of the Dragon Queen.md o con le fonti D&D 5.5e (2024) standard?
-- [ ] CR e XP sono indicati?
-- [ ] Le azioni speciali sono descritte in modo utilizzabile al tavolo?
+- [ ] Ci sono i nemici con nome e **numero**, e nient'altro: **niente stat block**, niente note `[NOTA DM — riservata] Bilanciamento`. Se ne trovi, **toglili**.
+- [ ] Il numero rispetta il budget in XP del punto 5 di `campagna/scontri-adattati/00-framework.md` per il livello del party, sommando gli XP **ufficiali** dei mostri (le patch di `aggiornamenti-schede.md` non cambiano mai CR e XP)? Se no, **correggi il numero** (scontri che contano: «Alta»; di passaggio: «Moderata»).
+- [ ] Una creatura personalizzata presente in `aggiornamenti-schede.md` ha ancora il suo nome standard, senza cifre ripetute nei dm-notes?
 
 ---
 

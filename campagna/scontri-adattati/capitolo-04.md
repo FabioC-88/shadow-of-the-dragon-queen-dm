@@ -255,7 +255,7 @@ Trigger: a Hobgoblin Warrior or Dragon Army Soldier the officer can see within
 ```
 BOZAK DRACONIAN (×2) — DSotDQ p198, official stat block
 Medium Monstrosity (Sorcerer), typically Lawful Evil | AC 15 (natural armor)
-Initiative +0 (10) | HP 49 (11d8; era 40, allineato al CR 2, framework 2026-10-20) | Speed 30 ft.
+Initiative +0 (10) | HP 45 (10d8; era 40, allineato al CR 2, framework 2026-10-20) | Speed 30 ft.
 STR 14 (+2, save +2)   DEX 10 (+0, save +0)   CON 11 (+0, save +0)
 INT 11 (+0, save +2)   WIS 10 (+0, save +2)   CHA 14 (+2, save +4)
 Gear Trident | Senses Darkvision 60 ft., Passive Perception 10
@@ -299,7 +299,7 @@ Trigger: a creature the bozak can see within 60 ft casts a spell of 1st level or
 
 Infiltrazione, non un singolo scontro: il forte ha nove aree (W1-W9) con gruppi di soldati dell'Armata dei Draghi da 1 a 12 per stanza. Niente regola Minion — se il tavolo fa scattare l'allarme e più gruppi convergono nello stesso scontro, restano lo stesso stat block classico sotto, gestiti con **iniziativa condivisa** (una per squadra) per non rallentare il tavolo (vedi 00-framework.md punto 2).
 
-> ✅ **Ricalibrata il 2026-10-19 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · Moderata 3.750 · **Alta 5.500** (tetto ~6.875). L'infiltrazione resta evitabile come nella fonte; il bilancio riguarda lo scontro che scatta quando l'infiltrazione fallisce e il finale nella stalla. Solo quantità (più i PF allineati al CR del 2026-10-20: soldato 27, sivak 95, dragonnel 65), schede ufficiali per il resto intatte: **caserma (W5) 8 → 12 Dragon Army Soldier** (i sei letti a castello hanno dodici posti), **Baaz Draconian (W4) 2 → 4** (scheda nella sezione Sessione 05; ufficiale CR 1/2, la metà del CR 1 su cui era tarata la sessione), **squadra di ricognizione 6 → 2 × 6**. Totale del forte **7.000 → 8.000 XP**: 22 soldati, 2 ufficiali, 1 sivak, 4 baaz, 1 dragonnel. Dettaglio, ondate e note tattiche nei dm-notes (FASE 3, «Bilancio degli scontri»).
+> ✅ **Ricalibrata il 2026-10-19 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · Moderata 3.750 · **Alta 5.500** (tetto ~6.875). L'infiltrazione resta evitabile come nella fonte; il bilancio riguarda lo scontro che scatta quando l'infiltrazione fallisce e il finale nella stalla. Solo quantità (più i PF allineati al CR del 2026-10-20: soldato 27, sivak 85, dragonnel 65), schede ufficiali per il resto intatte: **caserma (W5) 8 → 12 Dragon Army Soldier** (i sei letti a castello hanno dodici posti), **Baaz Draconian (W4) 2 → 4** (scheda nella sezione Sessione 05; ufficiale CR 1/2, la metà del CR 1 su cui era tarata la sessione), **squadra di ricognizione 6 → 2 × 6**. Totale del forte **7.000 → 8.000 XP**: 22 soldati, 2 ufficiali, 1 sivak, 4 baaz, 1 dragonnel. Dettaglio, ondate e note tattiche nei dm-notes (FASE 3, «Bilancio degli scontri»).
 
 **Ogni allarme a tre ondate**, ognuna da un lato diverso: chi è sul posto; al 2° round la caserma (12 soldati in due squadre da sei) guidata da Ardlic Vanse; al 3°-4° round il dragonnel col cavaliere, dall'alto. Il dragonnel è di tipo Drago, quindi accende la **Draconic Devotion**: ogni soldato, ufficiale e baaz che lo vede attacca con vantaggio, e il cavaliere in sella sempre.
 
@@ -393,7 +393,7 @@ Trigger: a creature he can see enters the reach of his Vicious Lance (10 ft).
 ```
 SIVAK DRACONIAN (Notable, ~CR 4) — DSotDQ p199, official stat block
 LARGE Monstrosity, typically Lawful Evil | AC 16 (natural armor)
-Initiative +0 (10) | HP 95 (10d10+40; era 57, allineato al CR 4, framework 2026-10-20) | Speed 30 ft., Fly 60 ft.
+Initiative +0 (10) | HP 85 (9d10+36; era 57, allineato al CR 4, framework 2026-10-20) | Speed 30 ft., Fly 60 ft.
 STR 18 (+4, save +6)   DEX 10 (+0, save +0)   CON 18 (+4, save +4)
 INT 13 (+1, save +1)   WIS 10 (+0, save +2)   CHA 10 (+0, save +0)
 Senses Darkvision 60 ft., Passive Perception 10

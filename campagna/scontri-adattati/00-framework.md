@@ -104,25 +104,33 @@ Fabio ha fornito gli stat block ufficiali (MM'25 e DSotDQ). Erano tutti ricostru
 
 La campagna ha pochi combattimenti e deve essere difficile: quelli che ci sono devono essere seri. Le schede DSotDQ nascono con le regole 2014, quindi le si confronta con i mostri 2024 dello stesso CR e si allinea ciò che resta indietro. **Il CR e gli XP ufficiali non cambiano mai:** restano il «costo» dello scontro nel budget del punto 5, perché alzare il CR vorrebbe dire incontrare meno mostri e lasciare la difficoltà dov'era.
 
-**Come si è deciso.** Confronto fra l'SRD 5.1 e l'SRD 5.2 (dnd5eapi.co, 279 mostri accoppiati per nome, senza quelli con azioni leggendarie): **in nessuna coppia il CR è cambiato.** Mediane per CR:
+**Come si è deciso.** Due confronti sui dati di dnd5eapi.co. Il **riferimento** è la tabella qui sotto: mediane per CR dell'**intero SRD 5.2** (341 mostri, 2026-10-20). Il **cambiamento fra le edizioni** viene dal confronto fra SRD 5.1 e 5.2 su 279 mostri accoppiati per nome (senza quelli con azioni leggendarie): **in nessuna coppia il CR è cambiato.**
 
 | CR | PF | CA | Danno a round | CD mediana |
 |:--:|--:|--:|--:|--:|
 | 1/4 | 13 | 12 | 6 | 10-11 |
-| 1/2 | 22 | 12 | 8 | 11 |
-| 1 | 26 | 12 | 10 | 11 |
-| 2 | 48 | 13 | 16 | 12 |
-| 3 | 65 | 14 | 24 | 12 |
-| 4 | 91 | 12 | 26 | 13 |
+| 1/2 | 21 | 12 | 8 | 11 |
+| 1 | 26 | 13 | 11 | 11 |
+| 2 | 45 | 13 | 16 | 12 |
+| 3 | 65 | 15 | 24 | 12 |
+| 4 | 82 | 15 | 28 | 13 |
 | 5 | 105 | 15 | 34 | 14 |
-| 6-8 | 126 | 16 | 44 | 14 |
-| 9-12 | 178 | 17 | 66 | 17 |
+| 6 | 123 | 15 | 41 | 14 |
+| 7 | 126 | 17 | 47 | 14 |
+| 8 | 136 | 16 | 51 | 15 |
+| 9 | 162 | 17 | 60 | 16 |
+| 10 | 178 | 18 | 64 | 16 |
+| 11 | 199 | 17 | 66 | 17 |
+| 12 | 174 | 18 | 90 | 17 |
+| 13 | 195 | 17 | 94 | 17 |
+
+*Dal CR 7 in su il campione è piccolo (6-11 mostri per CR, 2 al CR 12): sono indicazioni, non soglie. Il danno a round è un calcolo grezzo (attacco migliore × numero di attacchi).*
 
 Nel passaggio 5.1 → 5.2 **PF, CA, bonus di attacco, CD e bonus ai tiri salvezza dei mostri sono rimasti uguali** (mediane invariate, differenze entro ±0,3 sui TS). Sono cambiati: il **danno a round dal CR 3 in su** (circa ×1,4-1,7 al CR 3-4), la presenza di **Bonus Action** (da 0% a circa 15-65% dei mostri, secondo il CR) e, soprattutto, gli **effetti automatici**: dei 69 mostri fino al CR 5 con «TS o condizione» nel 2014, 27 hanno la condizione senza tiro salvezza nel 2024 (il lupo crudele non fa più il TS Forza CD 13: il Prono scatta sul colpo, se il bersaglio è Grande o più piccolo).
 
 **Regole.**
 1. **PF:** se la scheda è sotto la mediana del suo CR, sale alla mediana; se è sopra, resta. Mai al ribasso. **I dadi vita si aggiornano insieme ai PF:** la formula (con il modificatore di COS della scheda, invariato) deve dare il totale scritto. Se nessuna formula cade esattamente sulla mediana, si prende la più vicina per eccesso.
-2. **CA, danno, CD e TS non si toccano:** le schede DSotDQ sono già in linea o sopra (il sivak fa 34 a round contro una mediana 2024 di 26). Alzare le CD non è supportato dal confronto.
+2. **CA, danno, CD e TS non si toccano:** le schede DSotDQ sono già in linea o sopra (il sivak fa 34 a round contro una mediana 2024 di 28). Alzare le CD non è supportato dal confronto.
 3. **Effetti automatici:** un effetto «TS o Prono/Afferrato» da colpo, che nel 2024 sarebbe automatico, lo diventa. Paralisi, Spaventato e simili restano a tiro salvezza.
 4. **Capi:** una Bonus Action e una Reaction fisse (punto 6).
 
@@ -132,11 +140,11 @@ Nel passaggio 5.1 → 5.2 **PF, CA, bonus di attacco, CD e bonus ai tiri salvezz
 |---|:--:|---|---|
 | Baaz Draconian | 1/2 | 22 (già alla mediana) | — |
 | Dragon Army Soldier | 1 | 22 → **27** (5d8+5) | — |
-| Bozak Draconian | 2 | 40 → **49** (11d8) | BA e Reaction già scritte (guado, 05bis) |
+| Bozak Draconian | 2 | 40 → **45** (10d8) | BA e Reaction già scritte (guado, 05bis) |
 | Kapak Draconian | 3 | 39 → **65** (10d8+20) | BA e Reaction nuove (guado, 05bis) |
 | Dragon Army Officer | 3 | 65 (10d8+20, già alla mediana) | BA e Reaction già scritte |
 | Dragon Army Dragonnel | 3 | 58 → **65** (10d10+10) | cavalcatura, non un capo |
-| Sivak Draconian | 4 | 57 → **95** (10d10+40) | coda: Prono automatico, senza TS; BA e Reaction già scritte |
+| Sivak Draconian | 4 | 57 → **85** (9d10+36) | coda: Prono automatico, senza TS; BA e Reaction già scritte |
 | Hobgoblin Warrior | 1/2 | 11 (scheda MM 2024) | — |
 
 Applicato alle sezioni Sessione 05 (kapak), 05bis e 06 di [capitolo-04.md](capitolo-04.md) e ai dm-notes 05bis e 06. **I blocchi dei capitoli 5-7 e dei dm-notes successivi si allineano quando si prepara quella sessione.** Alla fattoria della 05bis, con il combattimento in corso su Foundry, i PF già assegnati ai nemici in campo restano com'erano.
