@@ -2,7 +2,7 @@
 
 **Copre:** Sessioni 03-08 (Liv. 4 → 6), più la speciale 05bis
 **Framework di difficoltà:** vedi [00-framework.md](00-framework.md) — CR budget *Flee, Mortals!*, niente regola Minion, Villain Actions solo per boss veramente seri o di fine capitolo
-**Party:** 5 personaggi · **Letalità target:** budget in XP della DMG 2024, «Alta» per gli scontri che contano e nemici che giocano per vincere (punti 5 e 6 di [00-framework.md](00-framework.md), decisione del DM 2026-10-19). ✅ 05bis e S06 ricalibrati il 2026-10-19; ⚠️ gli scontri dalla S07 in poi sono ancora tarati sulla vecchia «fascia bassa»: riverificarli col punto 5 prima di giocarli
+**Party:** 5 personaggi · **Letalità target:** budget in XP della DMG 2024, «Alta» per gli scontri che contano e nemici che giocano per vincere (punti 5 e 6 di [00-framework.md](00-framework.md), decisione del DM 2026-10-19). ✅ 05bis e S06 ricalibrati il 2026-10-19, S07 il 2026-10-22; ⚠️ la S08 è ancora tarata sulla vecchia «fascia bassa»: riverificarla col punto 5 prima di giocarla
 **Lingua:** mostri, stat block e nomi delle azioni in **inglese**; tutto ciò che va letto ai giocatori resta in **italiano**.
 
 > **Nota onestà DM:** valori ricalibrati a giudizio, non playtestati — stesso approccio di Cap. 3. `[TODO DM: aggiustare HP/DC dopo il primo turno reale al tavolo]`.
@@ -22,7 +22,7 @@ Sei sessioni, molti nemici nominati, ma solo **due boss veri** secondo il criter
 | 05 — Le Vedette Perdute | 4 | — | Kapak Draconian (ambusher) | 3× Baaz Draconian |
 | 05bis — L'Imboscata e il Blocco (speciale) | 4 → 5 a fine sessione | — | Dragon Army Officer + Dragonnel (fattoria), 2× Bozak Draconian + Kapak (guado) | 2× Dragon Army Soldier + 10× Hobgoblin Warrior; 8× Baaz Draconian |
 | 06 — Le Mura di Wheelwatch | 5 | — | Sivak Draconian (capo della torre), Ardlic Vanse e il cavaliere del Dragonnel (*Dragon Army Officer*), tutti con Bonus Action + Reaction; Dragonnel (cavalcatura, accende la Draconic Devotion) | 22× Soldato dell'Armata dei Draghi (*Dragon Army Soldier*) (gruppi da 1-12 per stanza, a ondate quando scatta l'allarme) + 4× Baaz Draconian |
-| 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | Soldato dell'Armata dei Draghi a cavallo, Undead Soldier |
+| 07 — Steel Springs / La Notte del Cavaliere Morto | 5 | **Caradoc** (2 fasi) | — | 12× Soldato dell'Armata dei Draghi a cavallo (+1 dall'evento 8), in tre ondate; 5× Undead Soldier, in due ondate |
 | 08 — Le Catacombe / Sarlamir | 5→6 | **Cavaliere Sarlamir** | — | Wraith, Skeletal Horse (entrambi opzionali/evitabili) |
 
 ---
@@ -459,9 +459,19 @@ Rend. +5 to hit, reach 5 ft — 10 (2d6+3) slashing plus 3 (1d6) fire.
 
 ## Sessione 07 — Steel Springs e la Notte del Cavaliere Morto (Livello 5)
 
+> ✅ **Ricalibrata il 2026-10-22 coi punti 5 e 6 del framework** (budget XP DMG 2024, nemici che giocano per vincere). Budget per 5 PG al 5° livello: Bassa 2.500 · **Moderata 3.750** · **Alta 5.500**. Tre scontri in due «giornate»: Steel Springs, poi il riposo al campo di ripiego; il giorno dopo il cortile e Caradoc di fila, senza riposo in mezzo. Caradoc è il boss del capitolo (Alta). Steel Springs (coprire una ritirata, non il picco della sessione) e il cortile (ostacolo prima del boss) sono di passaggio (Moderata). Solo quantità e ondate: schede ufficiali, con i PF allineati al CR (soldato 27) e le differenze della fonte, tutte in [aggiornamenti-schede.md](aggiornamenti-schede.md), sezione 4. Dettaglio, ondate e note tattiche nei dm-notes (FASI 2, 4 e 5).
+
+| Scontro | Fonte | Prima (bozza) | Dopo | XP (prima → dopo) | Fascia |
+|---|---|---|---|---|---|
+| Steel Springs (guado) | 4 Soldier a cavallo + 1 dall'evento 8 | come la fonte | 4 → 4 dal Fronte a est (2° round) → 4 dal Fronte a ovest (3°-4° round), + 1 dall'evento 8; ognuno su un Warhorse | 1.500 → 3.900 | Moderata (1,04×) |
+| Cortile del castello | 2 Undead Soldier | 2 (qui 3) | 2 davanti al chiostro → 3 dal chiostro al 2° round | 1.400 → 3.500 | Moderata (0,93×) |
+| Caradoc | Knight posseduto → forma spettrale | invariato | invariato | 4.600 | Alta (0,84×) |
+
+*Steel Springs: ogni coppia soldato + cavallo vale 300 XP (200 + 100); i cavalli contano perché sono cavalcature indipendenti e caricano. Le frecce dell'evento 4-5 e la scorta dei feriti pesano più di quanto dicano gli XP: per questo Moderata e non Alta. Se il DM la vuole Alta, 18 coppie (5.400 XP) in tre ondate da 6. Caradoc resta sotto Alta perché il party arriva dal cortile senza riposo e la Possessione può togliere un PG dallo scontro. `[TODO DM: verificare dopo la sessione reale]`*
+
 ### La Battaglia del Guado (Steel Springs)
 
-**5× Soldati dell'Armata dei Draghi a cavallo** (era 4, scalato) + **Warhorses** vs 6 Kalaman Soldier feriti (alleati in ritirata, PF ridotti). La tabella eventi del campo di battaglia (d8) resta **invariata** — è già ottima, guidata dalla fonte.
+**12× Dragon Army Soldier** su **12× Warhorse** in tre ondate da 4 (la prima dalla strada a nord, come nella fonte; le altre dal Fronte, a est e poi a ovest), più il tredicesimo dell'evento 8, contro 6 Kalaman Soldier feriti (alleati in ritirata, 8 PF). Ogni ondata condivide l'iniziativa. La tabella eventi del campo di battaglia (d8) resta quella della fonte. Valvola: la terza ondata non arriva, solo se il tavolo è davvero in difficoltà.
 
 ```
 KALAMAN SOLDIER (Wounded, allies) (×6)
@@ -471,30 +481,10 @@ ACTIONS
 Shortsword: +3 to hit, reach 5 ft — 4 (1d6+1) piercing.
 ```
 
-```
-DRAGON ARMY SOLDIER (mounted) (×5) — DSotDQ p200, official stat block
-Medium Humanoid, typically Lawful Evil | AC 17 (scale mail, shield)
-Initiative +1 (11) | HP 22 (4d8+4) | Speed 30 ft.
-STR 15 (+2, save +2)   DEX 12 (+1, save +1)   CON 12 (+1, save +1)
-INT 10 (+0, save +0)   WIS 10 (+0, save +0)   CHA 10 (+0, save +0)
-Skills Athletics +4, Perception +2 | Gear Javelin, Longsword
-Senses Passive Perception 12 | Languages Common, Draconic
-CR 1 (XP 200; PB +2)
-
-TRAITS
-Draconic Devotion. While it can see a Dragon that isn't hostile to it, the
-  soldier has advantage on attack rolls.
-
-ACTIONS
-Multiattack. Two Longsword or Javelin attacks.
-Longsword. +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed,
-  plus 2 (1d4) fire.
-Javelin. Melee or Ranged: +4 to hit, reach 5 ft. or range 30/120 ft.
-  Hit: 5 (1d6+2) piercing plus 2 (1d4) fire.
-```
+*Scheda del Dragon Army Soldier: sezione Sessione 06, qui sopra (27 PF). Warhorse: scheda ufficiale MM 2024 (p373), invariata.*
 
 ```
-WARHORSE (×5) — MM'25 p373, scheda ufficiale (verificata 2026-09-13)
+WARHORSE (×12, +1) — MM'25 p373, scheda ufficiale (verificata 2026-09-13)
 Large Beast, Unaligned | AC 11 | Initiative +1 (11)
 HP 19 (3d10+3) | Speed 60 ft. | CR 1/2 (XP 100; PB +2)
 STR 18 (+4, save +4)   DEX 12 (+1, save +1)   CON 13 (+1, save +1)
@@ -509,34 +499,13 @@ Hooves. Melee Attack: +6, reach 5 ft. Hit: 9 (2d4+4) Bludgeoning damage.
   [AC 11 non 10; danno base 2d4+4 non 2d6+4; la carica e' dentro l'attacco.]
 ```
 
-*Obiettivo dello scontro invariato: proteggere la ritirata, non vincere una battaglia campale. Nessun trattamento boss — è un incontro tattico corale, non un nemico nominato.*
+*Obiettivo dello scontro invariato: proteggere la ritirata, non vincere una battaglia campale. Nessun trattamento boss: è un incontro tattico corale, non un nemico nominato.*
 
 ### I Guardiani del Cortile (Castello di Kalaman)
 
-**3× Undead Soldier** (era 2, scalato) — falsi Cavalieri di Solamnia, bloccano l'ingresso.
+**5× Undead Soldier**, falsi Cavalieri di Solamnia: i 2 a cavallo davanti al chiostro (come nella fonte e nel testo da leggere), più 3 rimasti sotto il chiostro coperto, fuori dalla vista delle guardie, che escono al 2° round se nel cortile si combatte. Su Foundry: scheda **wight** MM 2024 (CR 3, 700 XP, PF invariati) con le modifiche della fonte (CA 18, niente Sunlight Sensitivity, travestimento che cede dopo 10 danni), in [aggiornamenti-schede.md](aggiornamenti-schede.md), sezione 4. Il vecchio blocco 2014 (45 PF) è superato.
 
-```
-UNDEAD SOLDIER (×3)
-Medium Undead | AC 18 (plate armor) | HP 45 (6d8+18)
-Speed 30 ft | CR 3 (700 XP each) | Lawful Evil
-
-STR +2, DEX +2, CON +3, INT +0, WIS +1, CHA +2
-Skills: Perception +3, Stealth +4
-Resistant to necrotic, bludgeoning/piercing/slashing from nonmagical attacks
-Immune to poison damage, exhaustion, poisoned condition
-Darkvision 60 ft, Passive Perception 13
-
-ACTIONS
-Multiattack: two attacks, only one can be Life Drain.
-Life Drain: +4 to hit, reach 5 ft — 5 (1d6+2) necrotic; target's HP maximum reduces
-by the damage dealt (until it finishes a long rest), and the Undead Soldier regains
-HP equal to the damage dealt. If this reduces the target's HP maximum to 0, it dies
-and rises in 24 hours as a zombie under the soldier's control, unless the body is
-destroyed or blessed.
-Longsword: +4 to hit, reach 5 ft — 6 (1d8+2) slashing, or 7 (1d10+2) two-handed.
-```
-
-*Guardiani muti, non nominati — nessun trattamento speciale. La minaccia è il Life Drain, non l'economia delle azioni.*
+*Guardiani muti, non nominati: nessun trattamento speciale. La minaccia è il Life Drain, che toglie PF massimi prima di Caradoc.*
 
 ### Caradoc — Boss di Capitolo (2 Fasi)
 
@@ -775,8 +744,8 @@ VILLAIN ACTIONS (one per round, after an enemy's turn; each usable once)
 | Wheelwatch (Sivak, Vanse, cavaliere del Dragonnel) | statici | Bonus Action + Reaction da capo: Snatch / Next Skin, Close the Gaps / Expendable Men, Spur / Set Lance | 2026-10-19: punto 6 del framework, ogni capo ha Bonus Action e Reaction |
 | Wheelwatch (Sivak Draconian) | CR4/HP57 ufficiale | scheda invariata | verificato: la ricostruzione era già accurata |
 | Wheelwatch (Dragonnel) | CR3 ufficiale | scheda ufficiale invariata, con il tratto **Flyby** | la nota sul «buff a ~CR4» non corrispondeva al blocco — corretta il 2026-10-19 |
-| Steel Springs (guado) | 4 soldati a cavallo | 5 soldati a cavallo | scala sul quinto giocatore |
-| Guardiani del cortile | 2 Undead Soldier | 3 Undead Soldier | scala sul quinto giocatore |
+| Steel Springs (guado) | 4 soldati a cavallo (+1 dall'evento 8) | 12 soldati a cavallo in tre ondate da 4 (+1 dall'evento 8): 3.900 XP | 2026-10-22: punto 5 del framework, Moderata (1,04×); ondate dal Fronte (punto 6) |
+| Guardiani del cortile | 2 Undead Soldier | 5 Undead Soldier (wight MM 2024, CA 18): 2 + 3 dal chiostro al 2° round, 3.500 XP | 2026-10-22: punto 5 del framework, Moderata (0,93×) |
 | **Caradoc** | CR8 ufficiale | Fase 1 leggera, Fase 2 **Villain Actions piene**, HP 75→150 (corretto da bozza iniziale ~CR5) | il vero nome-cardine della campagna dopo Kansaldi |
 | Catacombe (Wraith, Skeletal Horse) | invariati | invariati | già ben calibrati come minacce opzionali/placabili |
 | **Cavaliere Sarlamir** | CR7 ufficiale (Cavaliere scheletrico) | **Villain Actions piene**, HP 142→170, **Enervating Blade** aggiunta, WIS save +3→+5 corretto | vero boss finale, trigger del Livello 6 |

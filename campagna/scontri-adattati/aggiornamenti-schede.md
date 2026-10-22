@@ -158,7 +158,7 @@ Nei dm-notes hanno blocchi 2014; su Foundry si usa la scheda ufficiale 2024 del 
 | Urta (S13) | Hobgoblin Captain | **Comando** (ricarica dopo un riposo breve o lungo): un alleato entro 9 m che la sente aggiunge 1d4 al prossimo tiro per colpire o TS prima dell'inizio del turno successivo di Urta | **Counter Order**: quando un alleato entro 9 m che la sente fallisce un TS, lo ripete con +1d4 |
 | Lohezet (S20, solo se combatte) | Mage | **Misty Step** | **Shield** |
 
-**Nessuna modifica:** Guelfost (bone devil, duo con Orm), Alstare Bellis (vampiro), Demelin (archmage, scena sociale), Flameskull, draconcello di drago rosso (wyrmling), figura colossale (clay golem non morto), cavalieri e cavalli scheletrici, veterana di Caradoc, mummie, wraith, wight, golem di pietra, slaad.
+**Nessuna modifica:** Guelfost (bone devil, duo con Orm), Alstare Bellis (vampiro), Demelin (archmage, scena sociale), Flameskull, draconcello di drago rosso (wyrmling), figura colossale (clay golem non morto), cavalieri e cavalli scheletrici, veterana di Caradoc, mummie, wraith, wight (salvo i soldati non morti della S07, sezione 4), golem di pietra, slaad.
 
 ---
 
@@ -203,3 +203,28 @@ I blocchi dei capitoli 5-7 riportano ancora i valori vecchi: su Foundry vale que
 ### Cavaliere del dragonnel (S06, stalla)
 - **BA — Speroni (Spur).** In sella, il dragonnel vola subito fino a 9 m (non conta sul movimento del suo turno). A terra fischia: il dragonnel, se lo sente, si muove subito fino a 9 m verso di lui.
 - **Reaction — Lancia Abbassata (Set Lance).** Quando una creatura che vede entra nella portata della sua *Lancia Crudele* (3 m), la attacca; se colpisce, la Velocità della creatura diventa 0 fino alla fine del turno.
+
+---
+
+## 4. Nemici e alleati di S07
+
+| Creatura | CR | PF | Altro |
+|---|:--:|---|---|
+| Dragon Army Soldier (Steel Springs) | 1 | 27 (come sezione 3) | — |
+| Warhorse (Steel Springs) | 1/2 | 19 (scheda MM 2024, invariati) | — |
+| Kalaman Soldier, ferito (alleato, Steel Springs) | — | **8** | — |
+| Undead Soldier (cortile del castello) | 3 | 82 (scheda *wight* MM 2024, invariati) | CA 18, niente Sunlight Sensitivity, travestimento |
+| Caradoc, cavaliere posseduto | ~3 | 65 (n. 13) | a 0 PF il corpo non muore |
+
+### Soldati di Kalaman feriti (Steel Springs)
+- **PF:** 8, sia i sei della ritirata sia quelli dell'evento 6 della tabella del campo di battaglia (scheda *Kalaman soldier*, appendice B).
+
+### Soldato non morto — Undead Soldier (cortile del Castello di Kalaman)
+Scheda *wight* con le modifiche della fonte (DSotDQ, «L'Arrivo del Signore»):
+- **CA 18** (armatura a piastre).
+- **Niente Sensibilità alla Luce Solare** (*Sunlight Sensitivity*).
+- **Travestimento:** quando un soldato non morto ha subito 10 danni in tutto, il travestimento cede e mostra lo scheletro sotto l'armatura.
+- Non è un capo: nessuna BA né Reaction.
+
+### Caradoc — cavaliere posseduto (Durstan Rial)
+- **A 0 PF** il corpo del cavaliere non muore: fa i tiri salvezza contro la morte come un PG, e i personaggi possono curarlo. Caradoc esce dal corpo nella forma spettrale (n. 12).

@@ -2,7 +2,7 @@
 **Fonte:** Cap. 4: L'Ombra della Guerra (*Shadow of War*), «Avamposto di Wheelwatch» (righe 2615–2770)
 **Livello party:** 5 (sale alla fine della 05bis)
 **Obiettivo:** infiltrarsi a Wheelwatch e aprire i cancelli alle truppe di Raven; liberare i prigionieri; affrontare o evitare i difensori, fra cui il primo **sivak** della campagna e un **dragonnel**.
-**Durata stimata:** ~2h30m (15 + 20 + 55 + 20 + 35 + 15 min)
+**Durata stimata:** ~2h30m (15 + 20 + 55 + 20 + 35 + 10 min)
 
 > **Stato in entrata:** **Becklin** è prigioniera dell'Armata (dalla S03); il **fargab** di Rookledust lo tiene **Asurion**; il rotolo di Wyhan è consegnato. Se il party ha tenuto le cinque cotte di maglia nere della fattoria (05bis), può arrivare al forte già travestito.
 
@@ -28,16 +28,16 @@ Vendri, attraverso Darrett, affida al party la riconquista dell'**Avamposto di W
 
 - **Avamposto di Wheelwatch** sorge **ventiquattro miglia a sud-est** di Kalaman, vicino al confine con le terre di Estwilde; rifornisce le truppe di Kalaman che pattugliano la frontiera.
 - L'Armata dei Draghi lo ha preso. Raven ha ricevuto il comando di una forza incaricata di riconquistarlo, ma i suoi soldati sono **pochi e inesperti**.
-- Darrett chiede al party di affiancare Raven e organizza un incontro con lei nel pomeriggio.
+- Darrett chiede al party di affiancare Raven e nel pomeriggio lo accompagna da lei.
 - Raven mostra uno **schizzo del forte** (Mappa 4.2): la torre nord-ovest è un osservatorio con vista dominante; ognuna delle quattro fortificazioni d'angolo ha un **corno d'allarme**; Raven non sa quanti soldati occupino il forte.
 - **Tempistica:** le truppe di Raven impiegano **otto ore** per posizionarsi in un boschetto a un miglio dal forte. Raven suggerisce che il party si infiltri e apra un cancello **senza far scattare l'allarme**, ma accetta qualunque piano che non metta a rischio i suoi uomini né distrugga il forte. Le truppe aspettano nel boschetto un segnale (i cancelli aperti o un segnale concordato).
 
 **Da recitare** — Darrett *(asciutto, da soldato; adatta alle domande del tavolo, l'elenco sopra resta il promemoria)*:
 > *"Wheelwatch è il nostro avamposto più a sud, a ventiquattro miglia da qui verso sudest, vicino al confine con l'Estwilde. Da lì partono i rifornimenti per le pattuglie che sorvegliano il confine, quindi non possiamo lasciarlo all'Armata."*
 >
-> *"Da quando è arrivata a Kalaman, Raven aiuta l'esercito con quello che resta della milizia di Vogler. Adesso il Maresciallo le ha affidato il comando di un reparto per riprendere il forte, ma i suoi uomini sono pochi, e quasi nessuno ha mai combattuto davvero."*
+> *"Da quando è arrivata a Kalaman Raven aiuta l'esercito con quello che resta della milizia di Vogler, e adesso il Maresciallo le ha affidato il comando di un reparto per riprendere il forte. I suoi uomini però sono pochi, e quasi nessuno ha mai combattuto davvero."*
 >
-> *"Per questo vi chiedo di andare con lei e di aiutarla. Oggi pomeriggio vi porto a conoscerla, così vi spiegherà lei come pensa di procedere."*
+> *"Per questo vi chiedo di andare con lei e di darle una mano. Oggi pomeriggio vi accompagno da lei, così vi spiega come pensa di procedere."*
 
 **Da recitare** — Raven, mentre stende lo schizzo del forte *(pratica e diretta, ma non ancora a suo agio nel ruolo)*:
 > *"Questo è Wheelwatch. La torre a nordovest è la più alta, e da lassù si controlla tutta la campagna intorno. In ognuna delle quattro fortificazioni d'angolo c'è un corno, e le sentinelle lo suonano appena vedono qualcosa che non va. Non so invece quanti soldati dell'Armata ci siano dentro."*
@@ -45,7 +45,7 @@ Vendri, attraverso Darrett, affida al party la riconquista dell'**Avamposto di W
 > *"Una volta partiti da Kalaman, ci servono otto ore per raggiungere un boschetto isolato a un miglio dal forte, dove aspetteremo il vostro segnale. Secondo me la cosa migliore è che entriate di nascosto e ci apriate un cancello prima che qualcuno dia l'allarme. Se però avete un'idea migliore vi ascolto volentieri, purché non metta a rischio la mia gente e il forte resti in piedi."*
 
 **Attitudine PNG in questa scena:**
-- **Darrett Highwater** — +3 Alleato. Presenta Raven con orgoglio quieto.
+- **Darrett Highwater** — +3 Alleato. Parla di Raven con orgoglio quieto.
 - **Raven Uth Vogler** — +2 Amichevole. Un'amministratrice che si sta reinventando soldato e non è ancora sicura di esserne capace; cerca l'approvazione di chi la conosceva da sindaca. Se un PG la tratta con rispetto o le ricorda un momento positivo di Vogler, sale a **+3 Alleata**.
 - **Maresciallo Nestra Vendri** *(fuori scena)* — +2 Amichevole.
 
@@ -236,26 +236,16 @@ Ogni soldato catturato afferma una delle seguenti cose (scegli o tira un d3):
 
 ---
 
-## FASE 6 — Ritorno a Kalaman
+## FASE 6 — Dopo la Battaglia
 
-*~15 minuti · Il rapporto a Vendri, i prigionieri liberati, il tempo libero*
+*~10 minuti · Il bottino, i prigionieri liberati, la partenza con la lettera di Raven*
 
-### Rapporto a Vendri
-
-Il party riferisce a Darrett o direttamente a Vendri, che è **soddisfatta**: l'avamposto è tornato a Kalaman, Raven si è dimostrata all'altezza, e i documenti di Vanse e le parole dei prigionieri confermano che Kansaldi sta ancora radunando le forze.
-
-*[NOTA DM — riservata] Non anticipare la Sessione 07 (Steel Springs, l'arrivo dei cavalieri di Soth). Al massimo un aiutante di Vendri accenna che «Lord Bakaris preme per un'azione più aggressiva a ovest».*
-
-### Tempo Libero
-
-- Stipendio, cure, armeria con parte del bottino (dopo che Raven e Vendri hanno trattenuto ciò che serve alla difesa).
-- Elgo, se riportata a Kalaman, racconta a chiunque le sue «leggendarie esplorazioni» di Wheelwatch.
-- Lanal torna al suo reparto, riconoscente.
-- Cudgel e il Reggimento Ironclad all'osteria; Rookledust vorrà dettagli tecnici sul dragonnel.
+- Raven trattiene ciò che serve alla difesa del forte; il resto del bottino va al party (vedi Ricompense).
+- Lanal resta con gli uomini di Raven, riconoscente.
+- Elgo, se liberata, si unisce al viaggio di ritorno e racconta a chiunque le sue «leggendarie esplorazioni» di Wheelwatch.
+- Il party riposa al forte e la mattina dopo riparte per Kalaman con la lettera di Raven per il Maresciallo Vendri. La sessione si chiude qui: il rientro in città apre la Sessione 07.
 
 **Attitudine PNG in questa scena:**
-- **Maresciallo Nestra Vendri** — +2 Amichevole.
-- **Darrett Highwater** — +3 Alleato. Orgoglioso di Raven e del party.
 - **Raven Uth Vogler** — +2/+3. Da qui in avanti presidia Wheelwatch.
 
 ---
@@ -276,7 +266,7 @@ Il party riferisce a Darrett o direttamente a Vendri, che è **soddisfatta**: l'
 
 ### Scena Opzionale — Elgo e Lanal, i "Cugini"
 
-**Quando:** dopo la liberazione (Fase 4) o nel tempo libero (Fase 6). Elgo insiste che Lanal sia suo cugino «Flannel», e Lanal non ha più la forza di negarlo. Se il tavolo non morde, passa oltre.
+**Quando:** dopo la liberazione (Fase 4) o dopo la battaglia (Fase 6). Elgo insiste che Lanal sia suo cugino «Flannel», e Lanal non ha più la forza di negarlo. Se il tavolo non morde, passa oltre.
 
 > *"Flannel! Diglielo tu che ci siamo conosciuti alla fiera di Solace, quell'anno con le anatre."* — Elgo, indicando Lanal, che scuote la testa senza più discutere.
 
